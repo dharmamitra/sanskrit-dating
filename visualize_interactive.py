@@ -132,6 +132,12 @@ HTML=f"""<!DOCTYPE html><html><head><meta charset="utf-8"><title>Sanskrit Chrono
  #detail .dg{{color:#777;font-size:12px;margin-bottom:8px}}
  #detail p{{margin:0 0 8px}} #detail .hist{{color:#555;font-size:12.5px;border-top:1px solid #eee;padding-top:8px}}
  #detail .dl{{color:#aaa;font-size:11.5px}} #detail .dx{{float:right;cursor:pointer;color:#bbb;font-size:14px;margin:-4px -4px 0 0}}
+ footer{{margin:8px 18px 40px;padding:18px 22px;background:#fff;border:1px solid #e5e5e5;border-radius:10px;
+   color:#555;font-size:13px;line-height:1.6;max-width:1100px}}
+ footer h2{{margin:0 0 8px;font-size:15px;color:#1d1d1f}}
+ footer b{{color:#2471A3}} footer ol{{margin:8px 0 0;padding-left:20px}} footer li{{margin-bottom:6px}}
+ footer .cav{{margin-top:12px;padding-top:10px;border-top:1px solid #eee;color:#888;font-size:12px}}
+ footer a{{color:#2471A3}}
 </style></head><body>
 <div id="bar">
  <h1>A Computed Chronology of Sanskrit Literature</h1>
@@ -178,6 +184,32 @@ gd.on('plotly_click',function(e){{var w=e.points[0].customdata[8];
   if(w) window.open('https://dharmamitra.org/nexus/db/sa/'+w+'/text','_blank');}});
 inp.addEventListener('input',apply);
 document.getElementById('clr').addEventListener('click',()=>{{inp.value="";apply();}});
-</script></body></html>"""
+</script>
+<footer>
+ <h2>How these dates were computed</h2>
+ Each text's position combines three independent sources of evidence, fused in a single Bayesian model:
+ <ol>
+  <li><b>Scholarly priors.</b> For works with an established date in the secondary literature, that
+      consensus enters as an informative prior — either a point anchor or a soft window — together with
+      hard <i>before / after</i> ordering constraints drawn from known author relationships, commentaries,
+      and translation dates.</li>
+  <li><b>Linguistic dating.</b> Every text is dated from its own language independently of any anchor,
+      using a category-free stylometric clock built on morphology and function-word <i>n</i>-grams
+      (rather than vocabulary, which in normatively-frozen Sanskrit is too weak a signal). This yields a
+      composition-style estimate that is largely genre-independent.</li>
+  <li><b>Intertextual structure.</b> Directed citation and parallel-passage links between works constrain
+      their relative order: who borrows from whom propagates dates across the corpus graph.</li>
+ </ol>
+ A <b>Gibbs sampler</b> fuses these signals — sampling each text's date conditioned on its linguistic
+ estimate, its priors, and its neighbours' current dates subject to the ordering constraints — and runs
+ to convergence. Each dot is the posterior median; the 95% credible interval (shown on hover) widens
+ where evidence is sparse and tightens around well-anchored texts.
+ <div class="cav">
+  Posterior estimates, not established facts — especially for inferred (non-anchored) works and texts of
+  uncertain or composite authorship. Per-work summaries are AI-assisted research notes.
+  Method &amp; code: <a href="https://github.com/dharmamitra/sanskrit-dating">github.com/dharmamitra/sanskrit-dating</a>.
+ </div>
+</footer>
+</body></html>"""
 open('sanskrit_chronology_interactive.html','w').write(HTML)
 print("wrote sanskrit_chronology_interactive.html  (%.1f MB, %d texts, searchable)"%(os.path.getsize('sanskrit_chronology_interactive.html')/1e6,N))
