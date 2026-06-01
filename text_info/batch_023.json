@@ -1,0 +1,322 @@
+[
+  {
+    "work_id": "GS25amark3_u",
+    "title": "Nāmaliṅgānuśāsana [Amarakoṣa], Kāṇḍa 3",
+    "author": "Amarasiṃha",
+    "tradition": "secular/scientific (Sanskrit lexicography); traditionally associated with Buddhism",
+    "genre": "lexicon / thesaurus (koṣa)",
+    "date_estimate": "c. 4th-6th c. CE (often c. 5th-6th c. CE; disputed, range 200-500 CE in project hint)",
+    "summary": "The Nāmaliṅgānuśāsana, universally known as the Amarakoṣa ('Treasury of Amara'), is the most celebrated Sanskrit synonymic thesaurus, arranged in metrical verse to aid memorization. Its third book, the Sāmānyakāṇḍa (also called Sāmānyādhikāṇḍa or Nānārthavarga section), departs from the thematic arrangement of the first two books and treats general/miscellaneous vocabulary: adjectives, indeclinables, homonyms (nānārtha words), and words grouped by gender, along with verbs and terms of varied application.",
+    "history": "Attributed to Amarasiṃha, traditionally counted among the 'nine gems' (navaratna) of a royal court and often said to have Buddhist affiliation, though almost nothing certain is known of him. The Amarakoṣa became the standard reference for Sanskrit poets and pandits across India and Southeast Asia, attracting dozens of commentaries (e.g., by Kṣīrasvāmin, Maheśvara, Liṅgayasūrin) and numerous regional translations.",
+    "related_works": ["Nāmaliṅgānuśāsana [Amarakoṣa], Kāṇḍa 1", "Nāmaliṅgānuśāsana [Amarakoṣa], Kāṇḍa 2"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Amarakosha",
+      "https://en.wikipedia.org/wiki/Amarasimha",
+      "https://www.wisdomlib.org/definition/amarakosha"
+    ]
+  },
+  {
+    "work_id": "GS26jaytuppu",
+    "title": "Tattvopaplavasiṃha",
+    "author": "Jayarāśi Bhaṭṭa",
+    "tradition": "Indian materialism / radical skepticism, loosely affiliated with the Cārvāka/Lokāyata tradition",
+    "genre": "philosophical treatise (skeptical/polemical)",
+    "date_estimate": "c. 8th-9th c. CE (most likely c. 770-840 CE); project hint of 500-699 is too early",
+    "summary": "The Tattvopaplavasiṃha ('The Lion that Devours All Categories/Principles') is an extraordinary skeptical treatise that systematically demolishes the means of valid knowledge (pramāṇas)—perception, inference, and testimony—as accepted by every Indian philosophical school. By undermining the very tools of cognition, Jayarāśi argues that no reliable knowledge of reality (tattva) is possible, leaving even Cārvāka's own positive claims unsupported.",
+    "history": "The sole palm-leaf manuscript was discovered in 1926 and first published in 1940 by Sukhlalji Sanghavi and R. C. Parikh. Jayarāśi is a uniquely radical figure: though linked to the materialist Cārvāka/Lokāyata, his thoroughgoing skepticism distinguishes him from typical materialists and makes the work a singular monument of Indian anti-foundationalist philosophy.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jayar%C4%81%C5%9Bi_Bha%E1%B9%AD%E1%B9%ADa",
+      "https://plato.stanford.edu/entries/jayaraasi/"
+    ]
+  },
+  {
+    "work_id": "GS26sarvmtsu",
+    "title": "Sarvamatasaṃgraha",
+    "author": "anonymous/traditional (attribution uncertain)",
+    "tradition": "Hindu (doxography surveying multiple schools, both orthodox and heterodox)",
+    "genre": "doxography / philosophical compendium (saṃgraha)",
+    "date_estimate": "uncertain; likely medieval (c. 11th-14th c. CE)",
+    "summary": "The Sarvamatasaṃgraha ('Compendium of All Doctrines') is a doxographical compendium that summarizes the tenets of the various Indian philosophical and religious systems (mata), including both the orthodox darśanas and heterodox schools such as Cārvāka, Buddhism, and Jainism. Such surveys present each school's core positions in brief, often arranged hierarchically.",
+    "history": "It belongs to the medieval Sanskrit doxographical genre exemplified by Mādhava's far more famous Sarvadarśanasaṃgraha; the Sarvamatasaṃgraha is a smaller, less securely attributed work, and its authorship and precise date remain uncertain. Such compendia are valuable as concise indigenous overviews of the spectrum of Indian thought.",
+    "related_works": ["Sarvadarśanasaṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sarva-Darsana-Sangraha",
+      "https://www.wisdomlib.org/definition/sarvadarshanasamgraha"
+    ]
+  },
+  {
+    "work_id": "GS26sbhami_u",
+    "title": "Āptamīmāṃsā [Devāgamastotra]",
+    "author": "Samantabhadra",
+    "tradition": "Jain (Digambara); Jain logic and epistemology",
+    "genre": "philosophical treatise / stotra (devotional-philosophical verse)",
+    "date_estimate": "c. 2nd-5th c. CE (traditionally placed c. 2nd c. CE; commonly dated c. 5th-6th c. CE)",
+    "summary": "The Āptamīmāṃsā ('Examination/Critique of the Trustworthy Authority'), also called the Devāgamastotra after its opening word, is a concise treatise of 114 verses that investigates the concept of the omniscient, trustworthy teacher (āpta) and the nature of reality. It develops the foundational Jain doctrines of anekāntavāda (non-absolutism / many-sidedness) and syādvāda (conditional, qualified predication).",
+    "history": "Composed by the Digambara Jain ācārya Samantabhadra, it is a seminal work of Jain logic that generated a major commentarial tradition, including Akalaṅka's Aṣṭaśatī and Vidyānanda's Aṣṭasahasrī. It remains one of the most influential statements of Jain epistemology and dialectic.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aptamimamsa",
+      "https://philarchive.org/rec/JAICSA"
+    ]
+  },
+  {
+    "work_id": "GS39jyopancu",
+    "title": "Pañcasāyaka",
+    "author": "Jyotirīśvara Kaviśekhara (Jyotirīśvara Ṭhakkura)",
+    "tradition": "Hindu (secular erotics)",
+    "genre": "Kāmaśāstra (erotic science) treatise",
+    "date_estimate": "c. late 13th-early 14th c. CE",
+    "summary": "The Pañcasāyaka ('Five Arrows', named for the five flower-arrows of Kāmadeva) is a Sanskrit manual on the science of erotics (Kāmaśāstra) in five parts. Drawing on Vātsyāyana and later authorities, it classifies types of men and women, treats sexual positions, aphrodisiacs, charms, and the arts of love.",
+    "history": "Written by Jyotirīśvara Kaviśekhara (Jyotirīśvara Ṭhakkura), a Maithil court poet also known for the Varṇaratnākara. N. N. Bhattacharyya places it in the first half of the 14th century on the basis of references in Kṣemendra and Śaṅkaramiśra's commentary on the Gītagovinda. It is one of the most widely cited of the post-Kāmasūtra erotic manuals.",
+    "related_works": ["Kāmasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/pancasayaka",
+      "https://www.wisdomlib.org/hinduism/essay/kamashastra-discourse-life-in-ancient-india/d/doc1239417.html"
+    ]
+  },
+  {
+    "work_id": "GS39kamasutu",
+    "title": "Kāmasūtra",
+    "author": "Vātsyāyana Mallanāga",
+    "tradition": "Hindu (secular erotics / one of the three classical aims of life, kāma)",
+    "genre": "Kāmaśāstra (erotic science) treatise / sūtra",
+    "date_estimate": "c. 3rd c. CE (2nd-4th c. CE; disputed)",
+    "summary": "The Kāmasūtra is the foundational Sanskrit treatise on kāma (pleasure, desire, love), one of the three legitimate aims of human life. Composed in aphoristic sūtra style, it covers far more than sexual technique: the conduct of the cultured man-about-town (nāgaraka), courtship and marriage, the duties of wives, courtesans, seduction, and the sixty-four arts, presenting a comprehensive social vision of erotic and domestic life.",
+    "history": "Attributed to Vātsyāyana, whose personal name the commentator Yaśodhara gives as Mallanāga; the author states he distilled earlier (now lost) works by Bābhravya and others. It is most often dated to around the 3rd century CE in northern India. Yaśodhara's Jayamaṅgalā is its major commentary, and the text became the canonical reference for all later Kāmaśāstra literature.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/V%C4%81tsy%C4%81yana",
+      "https://www.britannica.com/topic/Kamasutra"
+    ]
+  },
+  {
+    "work_id": "GS39minsmaru",
+    "title": "Smaradīpikā",
+    "author": "Mīnanātha",
+    "tradition": "Hindu (secular erotics)",
+    "genre": "Kāmaśāstra (erotic science) treatise",
+    "date_estimate": "uncertain; medieval (likely before c. 13th c. CE, as it was drawn upon by later authors)",
+    "summary": "The Smaradīpikā ('Lamp of Love/Desire') is a short Sanskrit erotic treatise that classifies men and women into types according to physique and temperament, discusses compatible matches, signs of arousal, and techniques of lovemaking. It belongs to the body of post-Kāmasūtra Kāmaśāstra manuals.",
+    "history": "Attributed to Mīnanātha; the work was synthesized and drawn upon by later writers, including material later assembled in the Ratimañjarī tradition associated with the name Jayadeva. Its precise date and the identity of its author are not securely established.",
+    "related_works": ["Kāmasūtra", "Ratimañjarī"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/smaradipika",
+      "https://en.bharatpedia.org/wiki/Kamashastra"
+    ]
+  },
+  {
+    "work_id": "GS39purukadu",
+    "title": "Kādambarīsvīkaraṇasūtramañjarī",
+    "author": "Purūravas (attributed)",
+    "tradition": "Hindu (secular); apparently a light/satirical śāstric parody on wine-drinking",
+    "genre": "sūtra-style treatise (mañjarī), likely a humorous/mock-śāstra on liquor (Kādambarī = a kind of wine)",
+    "date_estimate": "unknown",
+    "summary": "The title Kādambarīsvīkaraṇasūtramañjarī appears to mean a 'cluster of aphorisms on the imbibing (svīkaraṇa) of Kādambarī (wine/liquor)'—evidently a brief mock-śāstric or convivial work, in sūtra form, on the appreciation of wine. The text is very obscure and no detailed scholarly description could be confirmed.",
+    "history": "Attributed to a 'Purūravas', and the work is little documented in available indological literature; its date, authorship, and exact content could not be verified. (Note: 'Kādambarī' here denotes a type of spirituous liquor, not Bāṇa's famous prose romance.)",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/markandeya-purana-study/d/doc1121480.html"
+    ]
+  },
+  {
+    "work_id": "GS40anandk_u",
+    "title": "Ānandakanda",
+    "author": "attributed to Maṇṭhāna Bhairava (anonymous tradition)",
+    "tradition": "Hindu (Tantric Śaiva alchemy / Rasaśāstra), with strong Tantric and Haṭhayoga dimensions",
+    "genre": "Rasaśāstra (alchemy/iatrochemistry) treatise / tantra",
+    "date_estimate": "c. 13th c. CE (sometimes placed later)",
+    "summary": "The Ānandakanda ('Root/Bulb of Bliss') is a large medieval Sanskrit alchemical compendium that systematically treats both dhātuvāda (transmutation of base metals into gold) and dehavāda (the preparation of elixirs for bodily immortality and rejuvenation). It is notable for integrating alchemy with Tantra and yogic practice.",
+    "history": "Traditionally ascribed to the Siddha Maṇṭhāna Bhairava and assigned to roughly the 13th century, it is prized for its systematically organized subject matter and is described as comparatively independent of earlier rasaśāstra texts; it is also an important source of Tantric material.",
+    "related_works": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.researchgate.net/publication/392076324_UNIQUE_CONTRIBUTIONS_OF_ANANDAKANDA_A_TEXT_ON_INDIAN_ALCHEMY_IN_THE_CONTEXT_OF_YOGA_-AN_EXPLORATORY_REVIEW",
+      "https://en.wikipedia.org/wiki/Rasashastra"
+    ]
+  },
+  {
+    "work_id": "GS40ashr",
+    "title": "Aṣṭāṅga Hṛdaya",
+    "author": "Vāgbhaṭa (often identified as the 'Laghu' Vāgbhaṭa)",
+    "tradition": "Hindu (Ayurveda); author traditionally said to have Buddhist affiliation",
+    "genre": "medical treatise (Ayurveda saṃhitā)",
+    "date_estimate": "c. 6th-7th c. CE",
+    "summary": "The Aṣṭāṅga Hṛdaya ('Heart/Essence of the Eight Branches') is one of the foundational classics of Ayurveda, organizing medical knowledge under the eight limbs of the discipline (internal medicine, surgery, toxicology, pediatrics, etc.). Composed largely in elegant verse, it distills and harmonizes the earlier teachings of Caraka and Suśruta into a concise, systematic handbook.",
+    "history": "Attributed to Vāgbhaṭa, traditionally a Buddhist physician, and usually dated to around the 6th-7th century CE; it is closely related to the companion Aṣṭāṅga Saṃgraha. It is counted among the 'Bṛhattrayī' (great triad) of Ayurvedic classics and remains especially authoritative in Kerala and Tibetan medicine, attracting many commentaries (notably Aruṇadatta's and Hemādri's).",
+    "related_works": ["Aṣṭāṅga Saṃgraha", "Caraka Saṃhitā", "Suśruta Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.keralatourism.org/ayurveda/history/evolution-literature/astanga-hridaya",
+      "https://www.easyayurveda.com/2016/08/21/acharya-vagbhata/"
+    ]
+  },
+  {
+    "work_id": "GS40bhavpr_u",
+    "title": "Bhāvaprakāśa",
+    "author": "Bhāvamiśra",
+    "tradition": "Hindu (Ayurveda)",
+    "genre": "medical treatise (Ayurveda) with materia medica (nighaṇṭu)",
+    "date_estimate": "16th c. CE (c. 1550-1600)",
+    "summary": "The Bhāvaprakāśa is a comprehensive Ayurvedic compendium covering basic principles, anatomy and physiology, diagnosis, and treatment, and it incorporates a celebrated materia-medica section, the Bhāvaprakāśa Nighaṇṭu, which classifies medicinal substances (plant, mineral, and animal) into numerous vargas (groups). It is notable for documenting drugs newly introduced through trade and contact, including substances treated in Unani medicine.",
+    "history": "Composed by Bhāvamiśra in the 16th century, it is counted among the 'Laghutrayī' (lesser triad) of Ayurvedic classics. Its nighaṇṭu became a standard reference for dravyaguṇa (pharmacology) and reflects the evolving materia medica of early-modern India.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.easyayurveda.com/2016/11/01/bhavaprakasha-bhavamishra/",
+      "https://ijapr.in/index.php/ijapr/article/view/3565"
+    ]
+  },
+  {
+    "work_id": "GS40dhrasciu",
+    "title": "Rasendracintāmaṇi",
+    "author": "Ḍhuṇḍhukanātha (Dhuṇḍhukanātha)",
+    "tradition": "Hindu (Rasaśāstra / iatrochemical alchemy within Ayurveda)",
+    "genre": "Rasaśāstra (alchemy/iatrochemistry) treatise",
+    "date_estimate": "medieval; uncertain (commonly placed c. 13th-16th c. CE)",
+    "summary": "The Rasendracintāmaṇi ('Wish-jewel of the Lord of Essences, i.e., Mercury') is a Sanskrit alchemical/iatrochemical treatise dealing with the purification and processing of mercury and other minerals and metals, and their use in preparing medicinal and rejuvenating preparations (rasa-yogas).",
+    "history": "Attributed to Ḍhuṇḍhukanātha, the work was influential on later rasaśāstra literature; many prescriptions in works such as the Rasendrasārasaṃgraha derive from it. Its precise date is not securely established in the available sources.",
+    "related_works": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/minerals-and-metals-in-sanskrit-literature/d/doc1474425.html",
+      "https://en.wikipedia.org/wiki/Rasashastra"
+    ]
+  },
+  {
+    "work_id": "GS40grasht_u",
+    "title": "Rasahṛdayatantra",
+    "author": "Govindabhagavatpāda (Govinda)",
+    "tradition": "Hindu (Rasaśāstra / Tantric alchemy)",
+    "genre": "Rasaśāstra (alchemy) treatise / tantra",
+    "date_estimate": "c. 10th c. CE (some place it 9th-10th c. CE)",
+    "summary": "The Rasahṛdayatantra ('Heart of Mercury') is generally regarded as the earliest systematic work of the Sanskrit alchemical genre rasaśāstra. Across its roughly nineteen chapters it sets out the means of processing mercury (the eighteen saṃskāras), the transmutation of metals, and the use of mercurial elixirs for the body, and it is credited with first documenting the kupīpakva (bottle-cooked) rasāyana method.",
+    "history": "Attributed to Govinda, often styled Govindabhagavatpāda (a name also linked, controversially, with the teacher of Śaṅkara), and commonly dated to about the 10th century CE. As the foundational rasaśāstra text it strongly shaped all subsequent Indian alchemical literature.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/rasahridayatantra",
+      "https://en.wikipedia.org/wiki/Rasashastra"
+    ]
+  },
+  {
+    "work_id": "GS40nitrrk_u",
+    "title": "Rasaratnākara",
+    "author": "Nityanātha Siddha [Nemanātha]",
+    "tradition": "Hindu (Rasaśāstra / Tantric Siddha alchemy)",
+    "genre": "Rasaśāstra (alchemy/iatrochemistry) treatise",
+    "date_estimate": "c. 13th-14th c. CE (disputed; some place Nityanātha earlier)",
+    "summary": "The Rasaratnākara ('Jewel-mine of Mercury') is a large Siddha alchemical compendium divided into five khaṇḍas—on mercury (rasakhaṇḍa), the lord of essences (rasendrakhaṇḍa), doctrine (vādakhaṇḍa), elixirs and tonics (rasāyanakhaṇḍa), and powerful utterances/mantras (mantrakhaṇḍa). It treats mercurial and mineral processing, transmutation, and rejuvenation, and draws on earlier works such as Govinda's Rasahṛdayatantra.",
+    "history": "Attributed to the Siddha Nityanātha (also called Nemanātha), it is usually placed around the 13th-14th century, though datings vary widely. It is one of the central monuments of the Siddha alchemical tradition. (It should not be confused with the differently authored Rasaratnākara attributed to Nāgārjuna.)",
+    "related_works": ["Rasahṛdayatantra"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/rasaratnakara",
+      "https://cultureandheritage.org/2023/06/rasaratnakara-a-treasure-trove-of-knowledge-on-alchemy-from-ancient-india.html"
+    ]
+  },
+  {
+    "work_id": "GS40rajaniu",
+    "title": "Rasa-jala-nidhi",
+    "author": "Bhudeb Mookerji (Kaviraj Bhudeb Mookerjee), compiler/translator",
+    "tradition": "Hindu (Rasaśāstra / Ayurvedic alchemy); modern scholarly compilation",
+    "genre": "modern compendium of Rasaśāstra (alchemy and iatrochemistry) with translation",
+    "date_estimate": "20th c. CE (compiled and published c. 1926-1938)",
+    "summary": "The Rasa-jala-nidhi ('Ocean of Indian Chemistry and Alchemy') is a five-volume compendium of Sanskrit verses on rasaśāstra (Indian alchemy and iatrochemistry) with English translation, covering initiation and laboratory practice, mercurial operations, the purification and medicinal use of minerals and metals, gems, salts, poisons, and chemical medicine (rasa-cikitsā).",
+    "history": "Compiled and translated by Rasācārya Kaviraj Bhudeb Mookerji and published in Calcutta in the early 20th century (volumes appearing c. 1926-1938). Though drawing on classical alchemical sources, it is itself a modern editorial compilation that became a widely used reference and English entry point to rasaśāstra.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/book/rasa-jala-nidhi-volume-1",
+      "https://wellcomecollection.org/works/jrca2uc4"
+    ]
+  },
+  {
+    "work_id": "GS40rajnighu",
+    "title": "Rājanighaṇṭu [Nighaṇṭurāja, Abhidhānacūḍāmaṇi]",
+    "author": "Narahari Paṇḍita [Nṛsiṃha]",
+    "tradition": "Hindu (Ayurvedic lexicography / materia medica)",
+    "genre": "nighaṇṭu (medical/botanical lexicon)",
+    "date_estimate": "c. 13th-15th c. CE (commonly c. 13th-14th c.; some place it 15th-17th c.)",
+    "summary": "The Rājanighaṇṭu (also Nighaṇṭurāja, Abhidhānacūḍāmaṇi, or Dravyābhidhānaganasaṅgraha) is a major Ayurvedic lexicon of medicinal substances, arranged in some twenty-odd vargas (chapters) that catalogue plants, minerals, animal products, and other materia medica together with their synonyms and properties. It is one of the most comprehensive of the nighaṇṭus.",
+    "history": "Composed by Narahari Paṇḍita (also called Nṛsiṃha), son of Īśvarasūri and a Kashmiri scholar conversant with several South Indian languages. It expanded the materia medica beyond earlier nighaṇṭus and remained a standard reference; its precise date is debated, with most scholars placing it in the 13th-15th centuries.",
+    "related_works": ["Bhāvaprakāśa Nighaṇṭu", "Dhanvantari Nighaṇṭu"],
+    "confidence": "high",
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/19569449/",
+      "https://www.wisdomlib.org/definition/rajanighantu"
+    ]
+  },
+  {
+    "work_id": "GS40rasadh_u",
+    "title": "Rasādhyāya",
+    "author": "anonymous/uncertain",
+    "tradition": "Hindu (Rasaśāstra / alchemy)",
+    "genre": "Rasaśāstra (alchemy) treatise / chapter",
+    "date_estimate": "unknown; medieval",
+    "summary": "The Rasādhyāya ('Chapter/Disquisition on Mercury [rasa]') is a Sanskrit alchemical text giving a systematic account of the processing of mercury (the eighteen saṃskāras / aṣṭādaśa-saṃskāra) for both metallic transmutation and bodily transformation, contributing methods for the preparation of various rasa-yogas (mercurial medicines).",
+    "history": "The title 'Rasādhyāya' is borne by more than one alchemical text/section and its authorship and date are not securely fixed in the available sources; it is treated as an important but textually somewhat fluid work within the rasaśāstra corpus. (Two records in this batch carry this title and may represent distinct editions or recensions.)",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://studylib.net/doc/25381968/a-review-on-rasadhyaya-it-s-importance-in-alchemy",
+      "https://www.wisdomlib.org/concept/rasashastra"
+    ]
+  },
+  {
+    "work_id": "GS40rasadhpu",
+    "title": "Rasādhyāya",
+    "author": "anonymous/uncertain",
+    "tradition": "Hindu (Rasaśāstra / alchemy)",
+    "genre": "Rasaśāstra (alchemy) treatise / chapter",
+    "date_estimate": "unknown; medieval",
+    "summary": "The Rasādhyāya ('Chapter/Disquisition on Mercury [rasa]') is a Sanskrit alchemical text describing the systematic processing of mercury (the eighteen saṃskāras) for metallic and metabolic transformation and the preparation of mercurial medicines. This record is a second instance of the title in the batch, likely a distinct edition or recension of the same work.",
+    "history": "As with its companion record, the name 'Rasādhyāya' designates more than one alchemical text/section, and authorship and date are not securely established; it belongs to the medieval rasaśāstra corpus.",
+    "related_works": ["Rasādhyāya"],
+    "confidence": "low",
+    "sources": [
+      "https://studylib.net/doc/25381968/a-review-on-rasadhyaya-it-s-importance-in-alchemy",
+      "https://www.wisdomlib.org/concept/rasashastra"
+    ]
+  },
+  {
+    "work_id": "GS40rasarnpu",
+    "title": "Rasārṇava: Paṭalas 1-12",
+    "author": "anonymous/traditional (sometimes attributed to Bhairavānanda; uncertain)",
+    "tradition": "Hindu (Tantric Śaiva alchemy / Rasaśāstra)",
+    "genre": "Rasaśāstra (alchemy) treatise / tantra",
+    "date_estimate": "c. 12th c. CE (text as a whole)",
+    "summary": "The Rasārṇava ('Ocean of Mercury') is a major Tantric alchemical work in eighteen chapters (paṭalas), cast as a dialogue between Śiva (Bhairava) and the Goddess. This record covers paṭalas 1-12, which set out the religious framing of alchemy, the purification (saṃskāra) of mercury and other minerals, alchemical apparatus, and processes of transmutation, embedding the chemistry in Tantric symbolism (mercury as Śiva's seed, mica/sulphur as the Goddess's emission).",
+    "history": "The complete Rasārṇava is an anonymous Śaiva Tantric text usually assigned to about the 12th century CE; an attribution to 'Bhairavānanda' is sometimes mentioned but remains uncertain. It is one of the most influential Tantric alchemical scriptures and was studied by D. G. White and others for its fusion of Tantra and chemistry.",
+    "related_works": ["Rasārṇava (complete, paṭalas 1-18)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/rasarnava",
+      "https://en.wikipedia.org/wiki/Rasashastra"
+    ]
+  },
+  {
+    "work_id": "GS40rascum_u",
+    "title": "Rasendracūḍāmaṇi",
+    "author": "Somadeva",
+    "tradition": "Hindu (Rasaśāstra / iatrochemical alchemy)",
+    "genre": "Rasaśāstra (alchemy/iatrochemistry) treatise",
+    "date_estimate": "c. 12th-13th c. CE",
+    "summary": "The Rasendracūḍāmaṇi ('Crest-jewel of the Lord of Essences, i.e., Mercury') is a Sanskrit alchemical treatise in about thirteen chapters offering a comprehensive treatment of mercury and its processing for medicinal and transmutational purposes, along with minerals, metals, and mercurial preparations.",
+    "history": "Composed by Somadeva, it is largely based on earlier chemical treatises and is usually dated to the 12th-13th century CE. The later Rasaratnasamuccaya explicitly draws on Somadeva's descriptions, attesting to the work's authority within the rasaśāstra tradition.",
+    "related_works": ["Rasaratnasamuccaya"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/rasendracudamani",
+      "https://cultureandheritage.org/2023/05/unveiling-the-mysteries-of-rasendra-chudamani-a-glimpse-into-ancient-indias-alchemical-masterpiece.html"
+    ]
+  }
+]

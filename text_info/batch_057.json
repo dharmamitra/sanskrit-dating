@@ -1,0 +1,326 @@
+[
+  {
+    "work_id": "T02n2932u",
+    "title": "Adhyātmasāraśataka [Adhyātmasāraśatakasaṭīka]",
+    "author": "",
+    "tradition": "Hindu (devotional/Vedanta-leaning)",
+    "genre": "stotra / didactic śataka (century of verses) with commentary (ṭīkā)",
+    "date_estimate": "uncertain; likely medieval to early-modern (no firm dating)",
+    "summary": "A 'śataka' (collection of roughly one hundred verses) on the 'essence of the inner self/spirit' (adhyātma-sāra), i.e. devotional and contemplative reflection on the soul (ātman) and the path to liberation. The transmitted version is accompanied by a commentary (sa-ṭīkā). The verses are didactic and meditative in character rather than narrative.",
+    "history": "The title is generic in the Sanskrit śataka tradition and no firmly attested single author or date could be confirmed; it is preserved in manuscript collections together with its commentary. Not to be confused with the better-known Adhyātma Rāmāyaṇa or Adhyātma Upaniṣad.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://sanskritdocuments.org/doc_z_misc_major_works/adhyardhashataka.html",
+      "https://en.wikipedia.org/wiki/Adhyatma_Upanishad"
+    ]
+  },
+  {
+    "work_id": "T02n2934u",
+    "title": "Abhayapaddhati",
+    "author": "Abhayākaragupta",
+    "tradition": "Buddhist (Vajrayāna/Tantric; Yoginītantra)",
+    "genre": "bhāṣya/paddhati — commentary on a tantra",
+    "date_estimate": "c. early 12th c. CE (Abhayākaragupta fl. late 11th–early 12th c., d. 1125)",
+    "summary": "A commentary (paddhati) by the great Bengali master Abhayākaragupta on the Buddhakapālamahātantra, a scripture of the yoginītantra class. It explicates the tantra's maṇḍala rituals, including the 'generation of Heruka and his maṇḍala', and is one of only a small number of direct commentaries Abhayākaragupta wrote on a root tantra.",
+    "history": "Abhayākaragupta of Vikramaśīla was one of the last great systematizers of Indian tantric Buddhism. The Abhayapaddhati survives in Sanskrit and Tibetan; chapters 9–14 were critically edited and translated by Luo Hong (Beijing–Hamburg, 2010), and the Buddhakapālatantra with this commentary has been studied at the University of Hamburg's Centre for Tantric Studies.",
+    "related_works": ["Buddhakapālamahātantra"],
+    "confidence": "high",
+    "sources": [
+      "https://www.exoticindiaart.com/book/details/abhayapaddhati-of-abhayakaragupta-commentary-on-buddhakapalamahatantra-uap316/",
+      "https://www.tantric-studies.uni-hamburg.de/research/projects/completed/buddhakapalatantra.html",
+      "https://en.wikipedia.org/wiki/Abhayakaragupta"
+    ]
+  },
+  {
+    "work_id": "T02n2946u",
+    "title": "Paribhāṣāvṛtti",
+    "author": "",
+    "tradition": "secular/scientific (Sanskrit grammatical tradition, vyākaraṇa; Pāṇinian)",
+    "genre": "grammar — commentary (vṛtti) on metarules (paribhāṣā)",
+    "date_estimate": "disputed; the title is borne by several works (Vyāḍi's, traditionally very early; Nīlakaṇṭha Dīkṣita's, 17th c.; and others)",
+    "summary": "A 'vṛtti' (gloss/commentary) on the paribhāṣās, the interpretive metarules that govern the application of Pāṇini's grammar of Sanskrit. Such works collect and explain the principles by which conflicting or hierarchically ordered rules of the Aṣṭādhyāyī are to be applied.",
+    "history": "Several distinct Paribhāṣāvṛttis exist (e.g. Vyāḍi's Vyāḍīyaparibhāṣāvṛtti, edited by Wujastyk; and the 17th-century work of Nīlakaṇṭha Dīkṣita). Without an author attribution the specific text here cannot be pinned to one of these traditions, so identification is uncertain.",
+    "related_works": ["Aṣṭādhyāyī (Pāṇini)", "Mahābhāṣya (Patañjali)"],
+    "confidence": "low",
+    "sources": [
+      "https://en.nbpublish.com/library_read_article.php?id=44222",
+      "https://books.google.com/books/about/Metarules_of_P%C4%81%E1%B9%87inian_Grammar.html?id=yGUaAQAAIAAJ"
+    ]
+  },
+  {
+    "work_id": "T02n2952u",
+    "title": "Bauddhadharme tathā purāṇeṣu karuṇā",
+    "author": "",
+    "tradition": "Buddhist / comparative (Buddhist and Hindu Puranic)",
+    "genre": "modern scholarly study / comparative treatise",
+    "date_estimate": "modern (likely 20th–21st c.); the title is post-classical scholarly Sanskrit/Hindi",
+    "summary": "The title means 'Compassion (karuṇā) in the Buddhist dharma and in the Purāṇas', i.e. a comparative study of the concept of compassion as developed in Buddhist doctrine versus in the Hindu Purāṇic corpus. It appears to be a modern academic work rather than a classical text.",
+    "history": "This is almost certainly a modern monograph or thesis published within a Nepalese/Indian Buddhist Sanskrit corpus; no classical author or date applies. Identification of a specific edition could not be confirmed.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Buddhist_tantric_literature"
+    ]
+  },
+  {
+    "work_id": "T02n2955u",
+    "title": "Kriyāsaṁgrahapañjikā",
+    "author": "Kuladatta",
+    "tradition": "Buddhist (Vajrayāna; Newar/Nepalese tradition)",
+    "genre": "pañjikā — ritual manual / commentary on ritual",
+    "date_estimate": "c. 12th–13th c. CE",
+    "summary": "Kuladatta's commentarial ritual manual (pañjikā) on the Kriyāsaṁgraha, dealing with tantric Buddhist rites including the construction and consecration (pratiṣṭhā) of monasteries and images. It instructs the ācārya in visualizing a building site as the Vajradhātumaṇḍala and prescribes the 'ten rites' (daśakriyā) of consecration.",
+    "history": "The work draws on and parallels Śaiva pratiṣṭhātantra material and remains foundational to contemporary Newar Buddhist ritual in Nepal. It has been studied by Tanemura and others; manuscripts survive in Nepalese and Cambridge collections.",
+    "related_works": ["Kriyāsaṁgraha"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kuladatta",
+      "https://cudl.lib.cam.ac.uk/view/MS-OR-00159/1",
+      "https://brill.com/display/book/edcoll/9789004432802/BP000027.xml"
+    ]
+  },
+  {
+    "work_id": "T02n2961u",
+    "title": "Tattvajñānasaṁsiddhi-mahāsukharakāśikā-ṭīkā",
+    "author": "",
+    "tradition": "Buddhist (Vajrayāna/Tantric)",
+    "genre": "ṭīkā — commentary on a tantric siddhi-text",
+    "date_estimate": "uncertain; likely c. 10th–12th c. CE (mature Indian tantric period)",
+    "summary": "A commentary (ṭīkā) connected with the Tattvajñānasaṁsiddhi, a tantric work on the 'accomplishment of the knowledge of reality (tattva-jñāna)', here associated with the theme of 'great bliss' (mahāsukha) central to the yoginī/anuttarayoga traditions. It expounds the realization of ultimate reality understood as innate bliss.",
+    "history": "The Tattvajñānasaṁsiddhi belongs to the corpus of 'siddhi' texts of the mahāsiddha milieu (cf. works of Dombi-Heruka and the seven-siddhi cycle); the precise authorship of this ṭīkā could not be confirmed, hence the cautious dating.",
+    "related_works": ["Tattvajñānasaṁsiddhi"],
+    "confidence": "low",
+    "sources": [
+      "https://www.tibetanbuddhistencyclopedia.com/en/index.php?title=The_Mahasiddha_Dombi-Heruka",
+      "https://www.academia.edu/37966200/Tantric_Epistemology_and_the_Problem_of_Ineffability_in_the_Seven_Siddhi_Texts_pdf"
+    ]
+  },
+  {
+    "work_id": "T02n2963u",
+    "title": "Āryamāyājālamahātantroddhṛtamaṇḍalagāthāṭippaṇī",
+    "author": "",
+    "tradition": "Buddhist (Vajrayāna/Tantric)",
+    "genre": "ṭippaṇī — short gloss/annotation on maṇḍala verses",
+    "date_estimate": "uncertain; the root Māyājālatantra is a late tantra (c. 8th c. or later), so the gloss is later",
+    "summary": "A short annotation (ṭippaṇī) on the 'maṇḍala-gāthā' (verses on the maṇḍala) extracted (uddhṛta) from the noble Māyājālamahātantra, the 'Tantra of the Magical Net'. The root tantra is the source of the famous Nāmasaṃgīti and is associated with esoteric forms of Mañjuśrī; this gloss explicates the maṇḍala verses drawn from it.",
+    "history": "The Māyājāla cycle was influential in Tibet and especially Nepal (where multi-armed Mañjuśrī forms 'after the Māyājāla tantra' are widely depicted). The author of this particular ṭippaṇī could not be identified.",
+    "related_works": ["Āryamāyājālamahātantra (Māyājālatantra)", "Nāmasaṃgīti"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mayajalatantra",
+      "https://www.wisdomlib.org/definition/mayajalamahatantraraja"
+    ]
+  },
+  {
+    "work_id": "T02n2965u",
+    "title": "Kālacakrāvatāra",
+    "author": "",
+    "tradition": "Buddhist (Vajrayāna; Kālacakra tradition)",
+    "genre": "introductory treatise (avatāra) to a tantric system",
+    "date_estimate": "c. 11th–12th c. CE (Kālacakra emerged in India early 11th c.)",
+    "summary": "An 'introduction/entry' (avatāra) to the Kālacakra ('Wheel of Time') tantric system, the last major Buddhist tantra to develop in India. Such a work serves as a primer to the Kālacakra's cosmology, astronomy/calendar, subtle-body physiology and soteriology, oriented toward the practitioner entering the tradition.",
+    "history": "The Kālacakra tradition traces itself to a teaching given at Dhānyakaṭaka and to the abridged Laghukālacakratantra attributed to king Mañjuśrī Yaśas of Śambhala. Numerous introductory and commentarial works (avatāras) cluster around it; the specific author of this Kālacakrāvatāra was not confirmed.",
+    "related_works": ["Kālacakratantra (Laghukālacakratantrarāja)", "Vimalaprabhā"],
+    "confidence": "medium",
+    "sources": [
+      "https://buddhanature.tsadra.org/index.php/Texts/K%C4%81lacakratantra",
+      "https://en.wikipedia.org/wiki/Cakrasa%E1%B9%83vara_Tantra"
+    ]
+  },
+  {
+    "work_id": "T02n2974u",
+    "title": "Munimatālaṁkāra",
+    "author": "Abhayākaragupta",
+    "tradition": "Buddhist (Mahāyāna; Madhyamaka–Yogācāra–Prajñāpāramitā synthesis)",
+    "genre": "philosophical treatise (encyclopedic śāstra)",
+    "date_estimate": "c. 1113 CE",
+    "summary": "An 'Ornament of the Sage's Doctrine' — an encyclopedic exposition by Abhayākaragupta of the entire system of non-tantric Buddhist (Mahāyāna) doctrine and practice, synthesizing Prajñāpāramitā, Madhyamaka and Yogācāra. It treats topics such as the skandhas, dhātus and āyatanas, the justification of the Mahāyāna, and the path, drawing on Candrakīrti and Kamalaśīla.",
+    "history": "Composed around 1113 CE, it is one of the last great comprehensive treatises of Indian Buddhism; widely studied in Tibet until the 14th century. Long known only in Tibetan, Sanskrit manuscript portions reported by Li Xuezhu are now being critically edited (Kano, Li, and others).",
+    "related_works": ["Pañcaskandhaka (Candrakīrti)", "Madhyamakāloka (Kamalaśīla)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhayakaragupta",
+      "https://buddha-nature.tsadra.org/index.php/People/Abhayākara",
+      "https://www.academia.edu/96271187/"
+    ]
+  },
+  {
+    "work_id": "T02n2982u",
+    "title": "Mañjuvajramukhyākhyāna",
+    "author": "",
+    "tradition": "Buddhist (Vajrayāna; Guhyasamāja tradition)",
+    "genre": "ākhyāna / sādhana-related tantric exposition",
+    "date_estimate": "uncertain; Guhyasamāja Mañjuvajra tradition c. 9th–12th c. CE",
+    "summary": "A 'principal exposition' (mukhya-ākhyāna) concerning Mañjuvajra ('Gentle Vajra'), the esoteric form of Mañjuśrī who is the central deity of the Mañjuvajra maṇḍala of the Guhyasamāja tantra (an aspect of Akṣobhya, with three faces and six arms in union with his consort). The text expounds this deity and his nineteen-deity maṇḍala / its practice.",
+    "history": "The Guhyasamāja–Mañjuvajra cycle (Tibetan 'Jam-rdor) is one of the principal forms of Guhyasamāja practice, with its own lineages of root tantra, initiation and sādhana. The specific author/date of this particular ākhyāna could not be confirmed.",
+    "related_works": ["Guhyasamājatantra"],
+    "confidence": "low",
+    "sources": [
+      "https://www.himalayanart.org/items/359",
+      "https://studybuddhism.com/en/advanced-studies/vajrayana/tantra-advanced/what-is-guhyasamaja-practice"
+    ]
+  },
+  {
+    "work_id": "T02n2984u",
+    "title": "Caryāsaṃgraha",
+    "author": "",
+    "tradition": "Buddhist (Vajrayāna/Tantric)",
+    "genre": "saṃgraha — compendium of (tantric) practices (caryā)",
+    "date_estimate": "uncertain; mature Indian tantric period (c. 9th–12th c. CE)",
+    "summary": "A 'collection/compendium of practices' (caryā), i.e. a digest of tantric Buddhist conduct and yogic practice. Works of this type assemble rites, observances and yogic disciplines (caryā) of the anuttarayoga traditions for the practitioner.",
+    "history": "The title is generic and several caryā-collections circulate in the Indo-Tibetan tantric corpus (associated with the mahāsiddha and Six-Dharmas-of-Nāropa milieu of yogic practice). No single author/date could be confidently fixed for this entry.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/buddhism/book/the-six-yogas-of-naropa",
+      "https://en.wikipedia.org/wiki/Buddhist_tantric_literature"
+    ]
+  },
+  {
+    "work_id": "T02n2988u",
+    "title": "Jñānasiddhi",
+    "author": "Indrabhūti",
+    "tradition": "Buddhist (Vajrayāna/Tantric)",
+    "genre": "philosophical-tantric treatise (siddhi text)",
+    "date_estimate": "c. late 8th–early 9th c. CE",
+    "summary": "Indrabhūti's 'Accomplishment of Gnosis' — a foundational tantric treatise on the achievement (siddhi) of jñāna, the awakened cognition (gnosis) of a Buddha. It cites and comments on key tantric scriptures, treating awakened gnosis and the great-bliss soteriology of esoteric Buddhism.",
+    "history": "One of the celebrated 'seven siddhi texts', traditionally composed in Uḍḍiyāna by the king-adept Indrabhūti; it acknowledges the Guhyasamāja as supreme authority and summarizes parts of it. Recently re-edited (critical Sanskrit edition with Tibetan and English translation).",
+    "related_works": ["Guhyasamājatantra", "Sādhanamālā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.academia.edu/127584861/",
+      "https://www.researchgate.net/publication/350377174_Towards_a_Reassessment_of_Indrabhuti's_Jnanasiddhi",
+      "https://en.wikipedia.org/wiki/Buddhist_tantric_literature"
+    ]
+  },
+  {
+    "work_id": "T02n2998u",
+    "title": "Laghutantraṭīkā",
+    "author": "Vajrapāṇi",
+    "tradition": "Buddhist (Vajrayāna; Cakrasaṃvara & Kālacakra traditions)",
+    "genre": "ṭīkā — commentary on a tantra",
+    "date_estimate": "c. late 10th–early 11th c. CE",
+    "summary": "A commentary by the Bodhisattva-master Vajrapāṇi on the first chapter of the Cakrasaṃvaratantra (the 'Laghusaṃvara' / 'Laghutantra'), interpreting the root verses through the doctrines of both the Cakrasaṃvara and the Kālacakra systems. It is notable for reading the Cakrasaṃvara through an emergent Kālacakra lens.",
+    "history": "Datable to around the turn of the 11th century, when the Kālacakra was assuming its earliest form, making it valuable for dating the Kālacakra's emergence. Critically edited by Claudio Cicuzza (Serie Orientale Roma).",
+    "related_works": ["Cakrasaṃvaratantra (Laghusaṃvara)", "Kālacakratantra"],
+    "confidence": "high",
+    "sources": [
+      "https://www.academia.edu/45511596/The_Laghutantratika_by_Bodhisattva_Vajrapani_Critical_Edition_of_the_Sanskrit_Text",
+      "https://www.semanticscholar.org/paper/4d4028ac2e99395c42579ecb7396651fdac6df49"
+    ]
+  },
+  {
+    "work_id": "T02n3006u",
+    "title": "Boudhatantrokta Siddhauṣadhi Saṅgraha",
+    "author": "",
+    "tradition": "Buddhist (Vajrayāna/Tantric) — applied/medical",
+    "genre": "saṅgraha — compilation (of efficacious remedies)",
+    "date_estimate": "modern compilation (likely 20th–21st c.); draws on older tantric material",
+    "summary": "Title means roughly 'A compilation of efficacious/accomplished medicines (siddha-auṣadhi) as stated in the Buddhist tantras'. It appears to be a collected handbook of medicinal and ritual-pharmacological recipes (auṣadhi) drawn from tantric Buddhist sources, of the practical/medical-tantric genre.",
+    "history": "This looks like a modern Nepalese/Indian compilation gathering tantric pharmacological lore rather than a single classical work; no classical author or firm date could be confirmed.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/siddhaushadhi",
+      "https://www.erowid.org/spirit/traditions/buddhism/buddhism_tantra_article1.shtml"
+    ]
+  },
+  {
+    "work_id": "T02n3011u",
+    "title": "Laghukaumudīvyākaraṇa",
+    "author": "Varadarāja",
+    "tradition": "secular/scientific (Sanskrit grammatical tradition, vyākaraṇa; Pāṇinian)",
+    "genre": "grammar (vyākaraṇa) — pedagogical abridgement",
+    "date_estimate": "early 17th c. CE",
+    "summary": "The Laghu(siddhānta)kaumudī of Varadarāja, an abridged Sanskrit grammar that condenses Bhaṭṭoji Dīkṣita's Siddhāntakaumudī for beginners. It reorders Pāṇini's sūtras topically (saṃjñā, sandhi, declension, etc.) and reduces them to roughly a third (~1270 sūtras), serving as the standard primer of Pāṇinian grammar.",
+    "history": "Varadarāja, a pupil of Bhaṭṭoji Dīkṣita, produced three abridgements (madhya, laghu, sāra) of his teacher's Siddhāntakaumudī. The Laghukaumudī became the most widely used introductory grammar; J. R. Ballantyne's 1849 translation introduced it to Western indology.",
+    "related_works": ["Siddhāntakaumudī (Bhaṭṭoji Dīkṣita)", "Aṣṭādhyāyī (Pāṇini)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Laghu_Siddhanta_Kaumudi",
+      "https://www.wisdomlib.org/definition/varadaraja"
+    ]
+  },
+  {
+    "work_id": "T02n691u",
+    "title": "Cakrasaṃvaratantra Vol. 1",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayāna; Yoginītantra/anuttarayoga)",
+    "genre": "tantra (root scripture)",
+    "date_estimate": "c. late 8th–early 9th c. CE (terminus ante quem late 10th c.)",
+    "summary": "Volume 1 of the Cakrasaṃvaratantra (also Laghusaṃvara / Śrīherukābhidhāna), the 'Great King of Yoginī Tantras called the Glorious Cakrasaṃvara', centered on the wrathful deity Heruka/Cakrasaṃvara and his consort Vajravārāhī and their maṇḍala of yoginīs and ḍākinīs. It teaches the maṇḍala, mantras, deity yoga and antinomian yogic practices of one of the most important anuttarayoga traditions.",
+    "history": "One of the earliest and most influential yoginī tantras (alongside the Hevajra), dated by David B. Gray to the late 8th/early 9th century. It generated an enormous body of Indian and Tibetan commentary and ritual; Gray produced a study and annotated translation (2007).",
+    "related_works": ["Cakrasaṃvaratantra (full work)", "Hevajratantra", "Laghutantraṭīkā (Vajrapāṇi)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cakrasa%E1%B9%83vara_Tantra",
+      "https://buddhanature.tsadra.org/index.php/Books/The_Cakrasamvara_Tantra_(The_Discourse_of_Sri_Heruka)_-_A_Study_and_Annotated_Translation_(2007)"
+    ]
+  },
+  {
+    "work_id": "T02n692u",
+    "title": "Cakrasaṃvaratantra Vol. 2",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayāna; Yoginītantra/anuttarayoga)",
+    "genre": "tantra (root scripture)",
+    "date_estimate": "c. late 8th–early 9th c. CE (terminus ante quem late 10th c.)",
+    "summary": "The second volume of the Cakrasaṃvaratantra (Laghusaṃvara / Śrīherukābhidhāna), continuing the root scripture of the Cakrasaṃvara cycle on Heruka, Vajravārāhī and the yoginī maṇḍala, mantras and yogic practice. As with Vol. 1 it belongs to the yoginītantra class of anuttarayoga Buddhism.",
+    "history": "A two-volume presentation of a single root tantra; see Vol. 1. The tantra is foundational to one of the major Indian tantric Buddhist traditions and spawned extensive commentarial literature.",
+    "related_works": ["Cakrasaṃvaratantra (full work)", "Cakrasaṃvaratantra Vol. 1", "Hevajratantra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cakrasa%E1%B9%83vara_Tantra",
+      "https://wisdomexperience.org/product/cakrasamvara-tantra-discourse-sri-heruka/"
+    ]
+  },
+  {
+    "work_id": "T02n798u",
+    "title": "Ḍākinījālasaṃvararahasya",
+    "author": "",
+    "tradition": "Buddhist (Vajrayāna; Yoginī/Ḍākinī tantra)",
+    "genre": "tantra / esoteric ritual text",
+    "date_estimate": "uncertain; mature Indian tantric period (c. 9th–12th c. CE)",
+    "summary": "A text whose title means roughly 'The Secret (rahasya) of the Saṃvara of the Net of Ḍākinīs (ḍākinī-jāla)', belonging to the ḍākinī/yoginī-tantra milieu of esoteric Buddhism that centers on the network ('net') of ḍākinīs and the saṃvara (union/vow) practices associated with Heruka-class deities. It treats the secret maṇḍala, mantras and yogic practices of these female deities.",
+    "history": "Related in name and content to the Saṃvara/Cakrasaṃvara and Ḍākinī cycles; the specific author and dating could not be confirmed from available sources.",
+    "related_works": ["Cakrasaṃvaratantra", "Abhidhānottaratantra"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/dakini",
+      "https://en.wikipedia.org/wiki/Dakini"
+    ]
+  },
+  {
+    "work_id": "T02n800u",
+    "title": "Sekoddeśapañjikā",
+    "author": "",
+    "tradition": "Buddhist (Vajrayāna; Kālacakra tradition)",
+    "genre": "pañjikā — commentary on a tantric text",
+    "date_estimate": "c. 11th–12th c. CE",
+    "summary": "A commentary (pañjikā) on the Sekoddeśa, the 'Summary Statement on Initiation/Consecration (seka)', which is the section of the Kālacakra (Paramādibuddha) tantra dealing with the abhiṣeka initiations. The pañjikā explicates the system of empowerments that form the entry into Kālacakra practice.",
+    "history": "The Sekoddeśa is the earliest surviving text of the Kālacakra tradition and contains the nucleus of its doctrine; it attracted famous commentaries, most notably Nāḍapāda's (Nāropa's) Sekoddeśaṭīkā (ed. Carelli 1941). This 'pañjikā' is a related commentary on the same Sekoddeśa, whose exact author could not be definitively confirmed here.",
+    "related_works": ["Sekoddeśa", "Kālacakratantra (Paramādibuddha)", "Sekoddeśaṭīkā (Nāropa)"],
+    "confidence": "medium",
+    "sources": [
+      "https://books.google.com/books/about/Sekoddesatika_of_Nadapada_Naropa_Being_a.html?id=azcjNAAACAAJ",
+      "https://link.springer.com/article/10.1023/A:1004361801440"
+    ]
+  },
+  {
+    "work_id": "T02nagbhc_u",
+    "title": "Bodhicittavivaraṇa",
+    "author": "Nāgārjuna",
+    "tradition": "Buddhist (Mahāyāna; Madhyamaka, with tantric framing)",
+    "genre": "philosophical treatise (verse commentary)",
+    "date_estimate": "attributed to Nāgārjuna; if by the Madhyamaka founder, c. 2nd–3rd c. CE (authorship/date debated)",
+    "summary": "The 'Commentary on the Awakening Mind' — a work of ~112 verses (with a prose preface) cultivating bodhicitta in two aspects: conventional bodhicitta (compassionate aspiration) and ultimate bodhicitta (direct realization of emptiness, śūnyatā). It grounds compassion in Madhyamaka analysis, refuting Vijñānavāda idealism, the tīrthika self, and the śrāvaka view of the skandhas.",
+    "history": "Traditionally ascribed to Nāgārjuna and transmitted in the tantra section of the Tengyur (with a frame relating it to the Guhyasamāja), though its tantric classification is debated and some scholars question the attribution. It was cited as authoritative by Bhāviveka, Asvabhāva and Śāntarakṣita and remains a key text on bodhicitta.",
+    "related_works": ["Mūlamadhyamakakārikā (Nāgārjuna)", "Guhyasamājatantra"],
+    "confidence": "high",
+    "sources": [
+      "https://www.rigpawiki.org/index.php?title=Commentary_on_Bodhichitta",
+      "https://bodhicitta.tsadra.org/index.php/Texts/RKTST_664/Full_text",
+      "https://tibetanbuddhistencyclopedia.com/en/index.php?title=Nagarjuna:_A_Commentary_on_the_Awakening_Mind,_Bodhicittavivarana"
+    ]
+  }
+]

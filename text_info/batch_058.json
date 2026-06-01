@@ -1,0 +1,329 @@
+[
+  {
+    "work_id": "T02nagpancu",
+    "title": "Pañcakrama",
+    "author": "attributed to Nāgārjuna (the tantric/Ārya Nāgārjuna)",
+    "tradition": "Buddhist (Vajrayana; Ārya school of the Guhyasamāja, Mantranaya/Anuttarayoga tantra)",
+    "genre": "tantric treatise (completion-stage practice manual / sādhana)",
+    "date_estimate": "c. 9th-10th c. CE (traditionally ascribed to the 2nd-c. Nāgārjuna, but the tantric author is a much later figure)",
+    "summary": "The Pañcakrama ('Five Stages') is the foundational text of the Ārya school's interpretation of the completion stage (niṣpannakrama/utpannakrama) of the Guhyasamāja Tantra. It sets out the advanced yogic stages that lead to buddhahood: speech isolation (vajrajāpa), mind isolation (cittaviśuddhi), the illusory body (māyādeha), clear light (prabhāsvara), and union (yuganaddha). It treats the manipulation of the subtle body, winds (prāṇa) and mind to realize the union of ultimate and conventional truth.",
+    "history": "Traditionally attributed to Nāgārjuna, who is said to have received the Guhyasamāja from Saraha; modern scholarship dates the tantric Nāgārjuna and this corpus to roughly the 9th-10th century. Together with the Piṇḍīkramasādhana it became the authoritative basis of the Ārya tradition, hugely influential through Candrakīrti, Nāropā and later Tsongkhapa, who wrote 'A Lamp to Illuminate the Five Stages'.",
+    "related_works": ["Guhyasamāja Tantra", "Piṇḍīkrama / Piṇḍīkramasādhana", "Pradīpoddyotana (Candrakīrti)"],
+    "confidence": "high",
+    "sources": [
+      "https://buddhanature.tsadra.org/index.php/Books/A_Lamp_to_Illuminate_the_Five_Stages",
+      "https://wisdomexperience.org/wisdom-article/the-visualization-stage-utpattikrama-and-its-workings/",
+      "http://www.surajamrita.com/yoga/hidden/disser/Wright-R-The-Guhyasamaja-Pindikrta-Sadhana-and-Its-Context.pdf"
+    ]
+  },
+  {
+    "work_id": "T02nagpindu",
+    "title": "Piṇḍīkrama",
+    "author": "attributed to Nāgārjuna (tantric/Ārya Nāgārjuna)",
+    "tradition": "Buddhist (Vajrayana; Ārya school of the Guhyasamāja, Anuttarayoga tantra)",
+    "genre": "tantric sādhana (generation-stage practice manual)",
+    "date_estimate": "c. 9th-10th c. CE (traditionally ascribed to Nāgārjuna)",
+    "summary": "The Piṇḍīkrama (also Piṇḍīkṛta-sādhana / Piṇḍīkramasādhana) is the Ārya school's principal manual for the generation stage (utpattikrama) of Guhyasamāja practice. It gives instructions for visualizing the Guhyasamāja maṇḍala, generating oneself as the deities, and performing their ritual activities, opening with the statement that the goal of the generation stage is to purify the mind of conceptualizations (vikalpa), the source of delusion.",
+    "history": "Traditionally ascribed to Nāgārjuna and transmitted as the 'first krama' of the Pañcakrama, though now generally regarded as a separate work composed around the 9th-10th century. With the Pañcakrama it forms the twin foundation of the Ārya exegesis of the Guhyasamāja; studied by R. Wright and others.",
+    "related_works": ["Guhyasamāja Tantra", "Pañcakrama"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_nAgArjuna-piNDIkrama.htm",
+      "http://www.surajamrita.com/yoga/hidden/disser/Wright-R-The-Guhyasamaja-Pindikrta-Sadhana-and-Its-Context.pdf",
+      "https://pluto.huji.ac.il/~msyben/The-Convergence.pdf"
+    ]
+  },
+  {
+    "work_id": "T02nitkarpu",
+    "title": "Nityakarmapūjāvidhi",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayana; likely Newar/Nepalese Buddhist liturgy)",
+    "genre": "ritual manual (pūjāvidhi / liturgy for daily obligatory worship)",
+    "date_estimate": "uncertain; likely medieval (later 1st-early 2nd millennium CE)",
+    "summary": "A ritual manual prescribing the procedure (vidhi) for nityakarma, the daily obligatory acts of worship (pūjā), apparently within a Tantric Buddhist (probably Newar Buddhist) liturgical setting. Such texts lay out the prescribed sequence of offerings, mantras, mudrās and visualizations for the practitioner's required daily devotions.",
+    "history": "The title is generic (nitya 'daily/obligatory' + karma 'act' + pūjāvidhi 'rite of worship'); many such liturgical handbooks circulated, especially in Nepalese Buddhist tradition, and exact authorship and date are usually unrecorded. Identity of this particular witness is not securely established.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/nityapuja",
+      "https://en.wikipedia.org/wiki/Buddhist_liturgy"
+    ]
+  },
+  {
+    "work_id": "T02psarkdhu",
+    "title": "Pratisarākalpadhāraṇī",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; dhāraṇī literature)",
+    "genre": "dhāraṇī (protective incantation text) with kalpa (ritual prescription)",
+    "date_estimate": "core dhāraṇī by c. 6th c. CE; ritual material developed thereafter (incorporated into the Pañcarakṣā set later)",
+    "summary": "A text of the Mahāpratisarā dhāraṇī together with its kalpa (ritual instructions). The Mahāpratisarā ('Great Amulet / She Who Grants Wishes When Worn') dhāraṇī protects against sin, disease and evils and is used to create protective, wish-fulfilling amulets by writing down the incantation and performing prescribed rites. It is the chief of the Pañcarakṣā ('Five Protections') set of apotropaic spells and goddesses.",
+    "history": "The Mahāpratisarā dhāraṇī-sūtra was composed probably no later than the 6th century and is an early work of the dhāraṇī genre, attested in Tibetan records by c. 800 CE. It was later incorporated into the Pañcarakṣā collection; the deity Mahāpratisarā is depicted surrounded by the four other protector goddesses.",
+    "related_works": ["Mahāpratisarā Dhāraṇī Sūtra", "Pañcarakṣā"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mah%C4%81pratisar%C4%81",
+      "https://en.wikipedia.org/wiki/Pa%C3%B1carak%E1%B9%A3%C4%81",
+      "https://www.mdpi.com/2077-1444/16/5/635"
+    ]
+  },
+  {
+    "work_id": "T02rabhramu",
+    "title": "Bhramaharanāma Hevajrasādhana",
+    "author": "Ratnākaraśānti (Śāntipā)",
+    "tradition": "Buddhist (Vajrayana; Hevajra cycle; the author also a Yogācāra/Prajñāpāramitā master)",
+    "genre": "tantric sādhana (deity-practice manual)",
+    "date_estimate": "early 11th c. CE",
+    "summary": "The Bhramahara ('Remover of Error') is a comprehensive Hevajra sādhana, surviving in its original Sanskrit. It gives the generation-stage (utpattikrama) practice of Hevajra: the visualizations, ritual procedures and verses for self-generation as the deity within the Hevajra maṇḍala. The work forms the opening section of a larger sādhana corpus by its author.",
+    "history": "By Ratnākaraśānti (Śāntipā), one of the most brilliant Indian masters of Tantric Buddhism (early 11th c.), associated with Vikramaśīla. A critical edition was published in 2002 (JICABS) and the text has been studied by Harunaga Isaacson. Ratnākaraśānti also wrote major works in Yogācāra and Prajñāpāramitā (e.g. the Sāratamā).",
+    "related_works": ["Hevajra Tantra", "Sāratamā (same author)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.themovementcenter.com/new-events/2018/8/22/lecture-series-with-prof-dr-harunaga-isaacson-the-bhramahara-remover-of-error-by-ratnkaranti",
+      "https://www.scribd.com/document/386753149/Ratnakarasanti-Bhramaharanama-Hevajrasadhana"
+    ]
+  },
+  {
+    "work_id": "T02sunytjsu",
+    "title": "Tattvajñānasaṃsiddhi",
+    "author": "attributed to Ḍombīheruka (attribution debated)",
+    "tradition": "Buddhist (Vajrayana; Anuttarayoga tantra, emptiness/śūnyatā oriented)",
+    "genre": "tantric philosophical treatise",
+    "date_estimate": "uncertain; c. 9th-11th c. CE",
+    "summary": "The Tattvajñānasaṃsiddhi ('Establishing the Knowledge of Reality') is a Tantric Buddhist treatise on the realization of the true nature of reality (tattvajñāna), expounding the view of emptiness (śūnyatā) within a Vajrayana framework. The internal work-id stem (śūnyatā) and title indicate a focus on establishing non-conceptual gnosis of ultimate reality as the ground of tantric practice.",
+    "history": "Identity and authorship are not firmly settled; the work circulates among the tantric siddha literature and has been ascribed (with debate) to figures such as Ḍombīheruka. Dating is correspondingly uncertain within the later Indian tantric period.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Buddhist_tantric_literature"
+    ]
+  },
+  {
+    "work_id": "T02vadhdhdu",
+    "title": "Vasudhārādhāraṇī 1 [Vasudhārādhāraṇīsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; especially Newar Buddhist; dhāraṇī literature)",
+    "genre": "dhāraṇī sūtra (protective/prosperity incantation scripture)",
+    "date_estimate": "1st millennium CE; popular from at least the 11th c. CE",
+    "summary": "A recension of the Noble Vasudhārā Dhāraṇī, teaching the dhāraṇī of Vasudhārā ('Stream of Gems'), the bodhisattva-goddess of wealth, prosperity, abundance and fertility. Reciting the dhāraṇī with pure intention and generosity (dāna) is said to grant prosperity and avert harmful spirits, demons and disease.",
+    "history": "A canonical and very popular dhāraṇī (cf. Toh 662), preserved in multiple Sanskrit and Tibetan forms; especially venerated in the Newar Buddhist tradition of the Kathmandu Valley since at least the 11th century. The framing narrative is the inquiry of the layman Sucandra.",
+    "related_works": ["Vasudhārā Dhāraṇī (Toh 662)", "Sucandragṛhapatiparipṛcchā / Sucandrāvadāna"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vasudhara",
+      "https://www.lotsawahouse.org/topics/vasudhara/intro"
+    ]
+  },
+  {
+    "work_id": "T02vadhdhgu",
+    "title": "Vasudhārādhāraṇī 2 [Sucandragṛhapatiparipṛcchā/Sucandrāvadāna]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana; dhāraṇī / avadāna literature)",
+    "genre": "dhāraṇī sūtra in narrative (paripṛcchā / avadāna) frame",
+    "date_estimate": "1st millennium CE",
+    "summary": "A recension of the Vasudhārā Dhāraṇī in its narrative form, 'The Inquiry of the Householder Sucandra' (Sucandragṛhapatiparipṛcchā) / Sucandrāvadāna. An impoverished layman, Sucandra, approaches the Buddha asking how to obtain gold, grain and gems to feed his large family and practice charity; the Buddha teaches him the Vasudhārā dhāraṇī, and through faithful recitation and generosity his storehouses overflow with wealth.",
+    "history": "This question-and-answer frame is the canonical origin story for the Vasudhārā cult; the dhāraṇī's efficacy is tied to ethical conduct and generous giving (dāna). The text is transmitted in Sanskrit and Tibetan and underlies the widespread Newar Buddhist worship of Vasudhārā.",
+    "related_works": ["Vasudhārā Dhāraṇī (Toh 662)", "Vasudhārādhāraṇīsūtra"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vasudhara",
+      "https://www.lotsawahouse.org/topics/vasudhara/intro"
+    ]
+  },
+  {
+    "work_id": "T02vadhdhju",
+    "title": "Vasudhārādhāraṇī 3 [Vasudhārādhāraṇīsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; especially Newar Buddhist; dhāraṇī literature)",
+    "genre": "dhāraṇī sūtra (prosperity incantation scripture)",
+    "date_estimate": "1st millennium CE",
+    "summary": "A further recension of the Vasudhārā Dhāraṇī Sūtra, transmitting the dhāraṇī of the wealth-goddess Vasudhārā. As with the other recensions, the text teaches the incantation whose recitation, joined to ethical conduct and giving, is held to bestow prosperity and abundance while warding off disease and malevolent spirits.",
+    "history": "One of several parallel Sanskrit witnesses of the popular Vasudhārā dhāraṇī (cf. Toh 662); such multiple recensions reflect its wide ritual use, particularly in Nepalese/Newar Buddhism.",
+    "related_works": ["Vasudhārā Dhāraṇī (Toh 662)", "Sucandragṛhapatiparipṛcchā / Sucandrāvadāna"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vasudhara",
+      "https://www.lotsawahouse.org/topics/vasudhara/intro"
+    ]
+  },
+  {
+    "work_id": "T02vamvuppu",
+    "title": "Mṛtyuvañcanopadeśa",
+    "author": "Vāgīśvarakīrti",
+    "tradition": "Buddhist (Vajrayana; Tārā cult; longevity practices)",
+    "genre": "tantric instructional treatise (upadeśa on cheating death / longevity)",
+    "date_estimate": "late 10th-early 11th c. CE (Tibetan translation completed c. 1042/3 CE)",
+    "summary": "The Mṛtyuvañcanopadeśa ('Instruction on Cheating Death') is Vāgīśvarakīrti's major work. It gives an exhaustive description of the omens and signs of impending death, classified as external (bāhya) and internal (abhyantara), followed by a compendium of religious and ritual practices to escape or postpone death. To achieve longevity the White Tārā is especially invoked.",
+    "history": "Vāgīśvarakīrti was an Indian Tantric master of the 10th/11th century, reckoned among the 'six doorkeepers' of Vikramaśīla monastery. The Tibetan translation was completed c. 1042/3 by Atiśa (Dīpaṃkaraśrījñāna) and Rin chen bzang po at Tho ling. Edited and studied by Johannes Schneider.",
+    "related_works": ["White Tārā longevity sādhanas"],
+    "confidence": "high",
+    "sources": [
+      "https://www.oeaw.ac.at/en/ikga/publications/series/beitraege-zur-kultur-und-geistesgeschichte-asiens-bkga/literatur-2010-schneider",
+      "https://www.wisdomlib.org/definition/mrityuvancanopadesha",
+      "http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/vamvupau.htm"
+    ]
+  },
+  {
+    "work_id": "T03abhisamu",
+    "title": "Abhisamayālaṅkāranāmaprajñāpāramitopadeśaśāstra",
+    "author": "attributed to Maitreyanātha (Tibetan tradition: revealed by Maitreya to Asaṅga)",
+    "tradition": "Buddhist (Mahayana; Yogācāra/Maitreya school; Prajñāpāramitā exegesis)",
+    "genre": "śāstra (verse treatise / instructional summary of Prajñāpāramitā)",
+    "date_estimate": "c. 4th c. CE (traditionally; author Maitreyanātha c. 350 CE)",
+    "summary": "This is the full-titled Abhisamayālaṅkāra, 'Ornament for Clear Realization: A Treatise of Instructions on the Perfection of Wisdom.' In 273 verses across eight chapters plus a summary, it lays out the hidden path-structure (the eight abhisamayas / clear realizations and seventy topics) implicit in the Prajñāpāramitā sūtras, summarizing especially the 25,000-line Perfection of Wisdom and charting the stages, practices and result leading to omniscient buddhahood.",
+    "history": "Traditionally ascribed to Maitreyanātha (in Tibet, revealed by the bodhisattva Maitreya to Asaṅga in NW India c. 4th c.). It is the central scholastic root-text of Prajñāpāramitā study and generated a vast Indian and Tibetan commentarial tradition (Ārya Vimuktisena, Haribhadra, etc.).",
+    "related_works": ["Aṣṭasāhasrikā Prajñāpāramitā", "Pañcaviṃśatisāhasrikā Prajñāpāramitā", "Abhisamayālaṅkārāloka (Haribhadra)", "Sphuṭārthā (Haribhadra)"],
+    "confidence": "high",
+    "sources": [
+      "https://oxfordre.com/religion/display/10.1093/acrefore/9780199340378.001.0001/acrefore-9780199340378-e-608",
+      "https://en.wikipedia.org/wiki/Abhisamayalankara",
+      "https://encyclopediaofbuddhism.org/wiki/Abhisamay%C4%81la%E1%B9%83k%C4%81ra"
+    ]
+  },
+  {
+    "work_id": "T03bsa011_u",
+    "title": "Prajñāpāramitāpiṇḍārtha",
+    "author": "Dignāga",
+    "tradition": "Buddhist (Mahayana; Yogācāra; logic-epistemology school)",
+    "genre": "philosophical summary / synopsis (piṇḍārtha) in verse",
+    "date_estimate": "c. early-mid 6th c. CE (Dignāga, c. 480-540 CE)",
+    "summary": "The Prajñāpāramitāpiṇḍārtha ('Condensed Meaning of the Perfection of Wisdom'), also called Prajñāpāramitāsaṃgrahakārikā, condenses the Aṣṭasāhasrikā (Eight Thousand Line) Prajñāpāramitā into a structured set of about thirty-two principal points/themes. Dignāga frames the sūtra's teaching through Yogācāra categories (e.g. the antidotes to distracted conceptions, the three natures), reading it via Madhyāntavibhāga and Mahāyānasaṃgraha.",
+    "history": "By Dignāga (c. 480-540 CE), the founder of the Buddhist epistemological (pramāṇa) tradition. The work is an early example of systematizing Prajñāpāramitā through Yogācāra doctrine and was influential in later commentarial scholasticism.",
+    "related_works": ["Aṣṭasāhasrikā Prajñāpāramitā", "Madhyāntavibhāga", "Mahāyānasaṃgraha"],
+    "confidence": "high",
+    "sources": [
+      "https://dharmadata.org/index.php?Itemid=122&catid=17&id=168:a-preliminary-to-the-explanation-of-the-prajnaparamita&lang=en&option=com_content&view=article",
+      "https://en.wikipedia.org/wiki/A%E1%B9%A3%E1%B9%ADas%C4%81hasrik%C4%81_Praj%C3%B1%C4%81p%C4%81ramit%C4%81_S%C5%ABtra"
+    ]
+  },
+  {
+    "work_id": "T03bsa026_u",
+    "title": "Abhisamayālaṅkāra",
+    "author": "attributed to Maitreyanātha (Tibetan tradition: Maitreya, redacted by Asaṅga)",
+    "tradition": "Buddhist (Mahayana; Yogācāra/Maitreya school; Prajñāpāramitā exegesis)",
+    "genre": "śāstra (root verse treatise on Prajñāpāramitā)",
+    "date_estimate": "c. 4th c. CE",
+    "summary": "The Abhisamayālaṅkāra ('Ornament for Clear Realization'), the root verse-text (273 kārikās in eight chapters plus summary) that systematizes the path-structure latent in the Prajñāpāramitā sūtras through eight clear realizations (abhisamaya) and seventy topics. This is the standalone mūla text; entry T03abhisamu carries its full long title.",
+    "history": "One of the 'Five Treatises of Maitreya' in Tibetan tradition, ascribed to Maitreyanātha (c. 350 CE). It is the central scholastic basis of Prajñāpāramitā study in Indo-Tibetan Buddhism and spawned twenty-one classical Indian commentaries.",
+    "related_works": ["Abhisamayālaṅkāranāmaprajñāpāramitopadeśaśāstra (same work, full title)", "Aṣṭasāhasrikā Prajñāpāramitā", "Pañcaviṃśatisāhasrikā Prajñāpāramitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhisamayalankara",
+      "https://buddhanature.tsadra.org/index.php/Texts/Abhisamay%C4%81la%E1%B9%83k%C4%81ra"
+    ]
+  },
+  {
+    "work_id": "T03bsa031_u",
+    "title": "Abhisamayālaṅkāravṛttiḥ sphuṭārthā",
+    "author": "Haribhadra",
+    "tradition": "Buddhist (Mahayana; Yogācāra-Madhyamaka; Prajñāpāramitā exegesis)",
+    "genre": "bhāṣya/vṛtti (commentary on the Abhisamayālaṅkāra)",
+    "date_estimate": "late 8th c. CE",
+    "summary": "The Sphuṭārthā ('Clear Meaning') is Haribhadra's concise commentary (vṛtti) on Maitreya's Abhisamayālaṅkāra, in effect an abridgement of his own large commentary the Abhisamayālaṅkārāloka. It explains the eight subjects and seventy topics of the root text and is the most celebrated and widely studied commentary on the Abhisamayālaṅkāra.",
+    "history": "By Haribhadra (late 8th c.), the most influential of all Abhisamayālaṅkāra commentators. The Sphuṭārthā became foundational in Tibet after rngog Blo ldan shes rab's translation and summary, launching a Prajñāpāramitā exegetical tradition that spread from gSang phu monastery into all four Tibetan schools.",
+    "related_works": ["Abhisamayālaṅkāra (Maitreyanātha)", "Abhisamayālaṅkārāloka (same author)"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Abhisamay%C4%81la%E1%B9%83k%C4%81raviv%E1%B9%9Bti",
+      "https://rigpawiki.org/index.php?title=Sphutartha",
+      "https://encyclopediaofbuddhism.org/wiki/Haribhadra"
+    ]
+  },
+  {
+    "work_id": "T03bsa033_u",
+    "title": "Abhisamayālaṅkārāntaḥpātināṃ (saṃketānāṃ nāmāni)",
+    "author": "anonymous/traditional (scholastic glossary)",
+    "tradition": "Buddhist (Mahayana; Prajñāpāramitā/Abhisamayālaṅkāra scholasticism)",
+    "genre": "scholastic glossary / nomenclature list (nāmasaṅgati of technical terms)",
+    "date_estimate": "uncertain; medieval Indian Buddhist scholasticism (1st-2nd millennium CE)",
+    "summary": "A list/glossary giving the names of the technical categories (saṃketa) 'contained within' (antaḥpātin) the Abhisamayālaṅkāra, i.e. an enumeration of the standardized terms, topics and sub-points (the eight subjects and seventy topics and their components) of the root treatise. It functions as a study aid and index of the Abhisamayālaṅkāra's nomenclature rather than a discursive commentary.",
+    "history": "Such terminological lists were compiled within the Abhisamayālaṅkāra commentarial tradition as mnemonic and pedagogical tools; authorship and precise date for this particular witness are not securely established.",
+    "related_works": ["Abhisamayālaṅkāra (Maitreyanātha)"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhisamayalankara",
+      "https://www.lotsawahouse.org/tibetan-masters/khenpo-tsondru/seventy-points-abhisamayalankara"
+    ]
+  },
+  {
+    "work_id": "T03bsa050_u",
+    "title": "Pāramitāsamāsa",
+    "author": "Āryaśūra",
+    "tradition": "Buddhist (Mahayana; Madhyamaka/śūnyavāda outlook)",
+    "genre": "kāvya-style doctrinal poem (compendium of the perfections)",
+    "date_estimate": "uncertain; c. 4th c. CE if by the author of the Jātakamālā (debated)",
+    "summary": "The Pāramitāsamāsa ('Compendium / Summary of the Perfections') is a poem expounding the six perfections (pāramitās) cultivated by a bodhisattva on the path to buddhahood, presenting them from the standpoint of emptiness (śūnyavāda / Madhyamaka). It treats generosity, morality, patience, vigor, meditation and wisdom.",
+    "history": "Attributed to Āryaśūra (traditionally identified with the author of the Jātakamālā, c. 4th c., though the attribution and date of this work are debated). Edited, translated and analyzed by Carol Meadows (Indica et Tibetica, 1986).",
+    "related_works": ["Jātakamālā (attributed to Āryaśūra)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.amazon.com/Arya-Suras-compendium-perfections-translation-Paramitasamasa/dp/3923776071",
+      "https://www.academia.edu/90857794/Aryasuras_Summary_of_the_Perfections"
+    ]
+  },
+  {
+    "work_id": "T03bsa051_u",
+    "title": "Sāratamā [āryāṣṭasāhasrikāyāḥ prajñāpāramitāyāḥ sāratamākhyā pañjikā]",
+    "author": "Ratnākaraśānti (Śāntipā)",
+    "tradition": "Buddhist (Mahayana; Yogācāra; Prajñāpāramitā exegesis)",
+    "genre": "pañjikā (commentary on the Aṣṭasāhasrikā Prajñāpāramitā)",
+    "date_estimate": "early 11th c. CE",
+    "summary": "The Sāratamā ('The Very Best / Most Essential') is Ratnākaraśānti's pañjikā on the Aṣṭasāhasrikā Prajñāpāramitā ('Perfection of Wisdom in Eight Thousand Lines'), interpreting it along Yogācāra lines as a theory of transcendental knowledge. It is one of only two commentaries on the Aṣṭasāhasrikā surviving in the original Sanskrit, the other being Haribhadra's Āloka.",
+    "history": "By Ratnākaraśānti (11th c.), a leading Vikramaśīla master. Edited by P. S. Jaini (1979, Tibetan Sanskrit Works Series, Patna) from incomplete manuscripts photographed by Rāhula Sāṃkṛtyāyana in 1937; compared with Haribhadra's Āloka in scholarship (e.g. SOAS Bulletin).",
+    "related_works": ["Aṣṭasāhasrikā Prajñāpāramitā", "Abhisamayālaṅkārāloka (Haribhadra)", "Abhisamayālaṅkāra (Maitreyanātha)"],
+    "confidence": "high",
+    "sources": [
+      "https://books.google.com/books/about/%C4%80ry%C4%81%E1%B9%A3%E1%B9%ADas%C4%81hasrik%C4%81y%C4%81%E1%B8%A5_Praj%C3%B1%C4%81p.html?id=yroeAAAAMAAJ",
+      "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/aloka-of-haribhadra-and-the-saratama-of-ratnakarasanti-a-comparative-study-of-the-two-commentaries-of-the-astasahasrika1/B3D50E3EE42C42887E0683728ABDCDC0",
+      "https://encyclopediaofbuddhism.org/wiki/Ratn%C4%81kara%C5%9B%C4%81nti"
+    ]
+  },
+  {
+    "work_id": "T03kamvchtu",
+    "title": "Prajñāpāramitāvajracchedikāṭīkā",
+    "author": "Kamalaśīla",
+    "tradition": "Buddhist (Mahayana; Yogācāra-Madhyamaka)",
+    "genre": "ṭīkā (commentary on the Vajracchedikā / Diamond Sūtra)",
+    "date_estimate": "late 8th c. CE (Kamalaśīla, c. 740-795 CE)",
+    "summary": "A ṭīkā (commentary) by Kamalaśīla on the Vajracchedikā Prajñāpāramitā Sūtra (the 'Diamond Sūtra'), the famous short Perfection-of-Wisdom scripture that teaches the cutting through of conceptual clinging to self, dharmas and signs. The commentary expounds the sūtra's dialectic of non-apprehension and emptiness.",
+    "history": "By Kamalaśīla (late 8th c.), the disciple of Śāntarakṣita known for the Bhāvanākrama and for representing the gradualist position in the Tibetan 'bSam yas debate.' His Diamond Sūtra commentary survives chiefly through the Tibetan canon.",
+    "related_works": ["Vajracchedikā Prajñāpāramitā Sūtra (Diamond Sūtra)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Diamond_Sutra",
+      "https://www.tantric-studies.uni-hamburg.de/research/e-texts/etext-references.html"
+    ]
+  },
+  {
+    "work_id": "T03knavslou",
+    "title": "Navaślokī",
+    "author": "Kambala (Kambalapāda)",
+    "tradition": "Buddhist (Mahayana; Prajñāpāramitā; Madhyamaka-leaning)",
+    "genre": "verse treatise (nine ślokas) with auto-commentary",
+    "date_estimate": "uncertain; debated late 8th-early 11th c. CE",
+    "summary": "The Navaślokī ('[Text of] Nine Verses') is a short Prajñāpāramitā work by Kambala, comprising nine ślokas (with an accompanying auto-commentary) that condense the essential meaning of the Perfection of Wisdom. It is closely associated with the same author's Ālokamālā.",
+    "history": "Attributed to Kambala (Kambalapāda); his identity and date are debated, with proposals ranging from the late 8th to early 11th century. The Navaślokī was translated into Chinese by Dharmapāla in the early 11th century; a Sanskrit witness survives in a Göttingen manuscript (Cod.ms.sanscr.259).",
+    "related_works": ["Ālokamālā (Kambala)", "Prajñāpāramitā literature"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.academia.edu/73873384/On_Kambalas_Navas_loki_and_Its_Chinese_Translation",
+      "https://www.academia.edu/40355983/Kambalas_Nava%C5%9Blok%C4%AB_and_%C4%80lokam%C4%81l%C4%81"
+    ]
+  },
+  {
+    "work_id": "T03n1146u",
+    "title": "Abhisamayālaṃkārāloka [Abhisamayālaṅkārāloka]",
+    "author": "Haribhadra",
+    "tradition": "Buddhist (Mahayana; Yogācāra-Madhyamaka; Prajñāpāramitā exegesis)",
+    "genre": "commentary (vyākhyā) correlating the Abhisamayālaṅkāra with the Aṣṭasāhasrikā",
+    "date_estimate": "late 8th c. CE (c. 770-800 CE)",
+    "summary": "The Abhisamayālaṅkārāloka ('Light for the Ornament of Clear Realization'), full title Abhisamayālaṅkārālokā Prajñāpāramitāvyākhyā, is Haribhadra's large commentary that correlates the 273 verses of Maitreya's Abhisamayālaṅkāra with the corresponding passages of the Aṣṭasāhasrikā Prajñāpāramitā, providing a verse-by-verse and section-by-section synthesis of root-treatise and sūtra.",
+    "history": "Composed by Haribhadra (late 8th c.) under Pāla patronage; it is one of the two Aṣṭasāhasrikā commentaries surviving in Sanskrit (with Ratnākaraśānti's Sāratamā). First edited by G. Tucci (1932, Gaekwad's Oriental Series 62) and by U. Wogihara (1932-35). Its abridgement is Haribhadra's own Sphuṭārthā.",
+    "related_works": ["Abhisamayālaṅkāra (Maitreyanātha)", "Aṣṭasāhasrikā Prajñāpāramitā", "Sphuṭārthā (same author)", "Sāratamā (Ratnākaraśānti)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhisamayalankaraloka",
+      "https://encyclopediaofbuddhism.org/wiki/Abhisamayalankaraloka",
+      "https://searchworks.stanford.edu/view/7188735"
+    ]
+  }
+]

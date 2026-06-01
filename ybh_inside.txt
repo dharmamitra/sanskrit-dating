@@ -1,0 +1,240 @@
+
+===== Bodhisattvabhūmi (SA_T06_bsa034) =====
+chunks=78  median=425  MAD-based sd=116  range=[112,835]
+   ck        segs   pred     z  section
+    0     0-100      513  +0.8  gotra-paṭalam (Chapter 1.1)
+    1   101-200      388  -0.3  gotra-paṭalam (Chapter 1.1)
+    2   201-302      272  -1.3  Cittotpādapaṭalam (Chapter 1.2)
+    3   303-403      358  -0.6  Cittotpādapaṭalam (Chapter 1.2)
+    4   404-503      322  -0.9  Svaparārthapaṭalam (Chapter 1.3)
+    5   504-603      356  -0.6  Svaparārthapaṭalam (Chapter 1.3)
+    6   604-704      319  -0.9  Tattvārtha-paṭalam (Chapter 1.4)
+    7   705-805      531  +0.9  Tattvārtha-paṭalam (Chapter 1.4)
+    8   806-905      516  +0.8  Tattvārtha-paṭalam (Chapter 1.4)
+    9   906-1006     317  -0.9  Tattvārtha-paṭalam (Chapter 1.4)
+   10  1007-1108     290  -1.2  Prabhāvapaṭalam (Chapter 1.5)
+   11  1109-1208     373  -0.4  Prabhāvapaṭalam (Chapter 1.5)
+   12  1209-1308     454  +0.2  Prabhāvapaṭalam (Chapter 1.5)
+   13  1309-1408     264  -1.4  Prabhāvapaṭalam (Chapter 1.5)
+   14  1409-1508     458  +0.3  Prabhāvapaṭalam (Chapter 1.5)
+   15  1509-1608     478  +0.5  Paripākapaṭalam (Chapter 1.6)
+   16  1609-1708     392  -0.3  Paripākapaṭalam (Chapter 1.6)
+   17  1709-1810     623  +1.7  Bodhipaṭalam (Chapter 1.7)
+   18  1811-1910     352  -0.6  Balagotrapaṭalam (Chapter 1.8)
+   19  1911-2010     530  +0.9  Balagotrapaṭalam (Chapter 1.8)
+   20  2011-2110     311  -1.0  Balagotrapaṭalam (Chapter 1.8)
+   21  2111-2211     423  -0.0  Balagotrapaṭalam (Chapter 1.8)
+   22  2212-2311     502  +0.7  Dānapaṭalam (Chapter 1.9)
+   23  2312-2411     406  -0.2  Dānapaṭalam (Chapter 1.9)
+   24  2412-2511     527  +0.9  Dānapaṭalam (Chapter 1.9)
+   25  2512-2613     517  +0.8  Dānapaṭalam (Chapter 1.9)
+   26  2614-2713     396  -0.3  Śīlapaṭalam (Chapter 1.10)
+   27  2714-2813     409  -0.1  Śīlapaṭalam (Chapter 1.10)
+   28  2814-2913     450  +0.2  Śīlapaṭalam (Chapter 1.10)
+   29  2914-3013     835  +3.5  Śīlapaṭalam (Chapter 1.10) <<OUTLIER
+   30  3014-3115     462  +0.3  Śīlapaṭalam (Chapter 1.10)
+   31  3116-3215     353  -0.6  Śīlapaṭalam (Chapter 1.10)
+   32  3216-3316     112  -2.7  Śīlapaṭalam (Chapter 1.10) <<OUTLIER
+   33  3317-3416     307  -1.0  Śīlapaṭalam (Chapter 1.10)
+   34  3417-3517     342  -0.7  Śīlapaṭalam (Chapter 1.10)
+   35  3518-3618     490  +0.6  Śīlapaṭalam (Chapter 1.10)
+   36  3619-3719     354  -0.6  Kṣāntipaṭalam (Chapter 1.11)
+   37  3720-3819     382  -0.4  Kṣāntipaṭalam (Chapter 1.11)
+   38  3820-3919     397  -0.2  Vīryaṃpaṭalam (Chapter 1.12)
+   39  3920-4020     238  -1.6  Dhyānapaṭalama (Chapter 1.13)
+   40  4021-4120     295  -1.1  Prajñāpaṭalam (Chapter 1.14)
+   41  4121-4221     354  -0.6  Saṃgrahavastupaṭalam
+   42  4222-4322     505  +0.7  Saṃgrahavastupaṭalam
+   43  4323-4422     348  -0.7  Saṃgrahavastupaṭalam
+   44  4423-4522     621  +1.7  Pūjāsevā 'pramāṇapaṭalam (Chapter 1.16)
+   45  4523-4622     395  -0.3  Pūjāsevā 'pramāṇapaṭalam (Chapter 1.16)
+   46  4623-4722     292  -1.1  Pūjāsevā 'pramāṇapaṭalam (Chapter 1.16)
+   47  4723-4822     317  -0.9  Bodhipakṣyapaṭalam (Chapter 1.17)
+   48  4823-4922     452  +0.2  Bodhipakṣyapaṭalam (Chapter 1.17)
+   49  4923-5022     476  +0.4  Bodhipakṣyapaṭalam (Chapter 1.17)
+   50  5023-5123     433  +0.1  Bodhipakṣyapaṭalam (Chapter 1.17)
+   51  5124-5223     427  +0.0  Bodhipakṣyapaṭalam (Chapter 1.17)
+   52  5224-5323     721  +2.5  Bodhipakṣyapaṭalam (Chapter 1.17) <<OUTLIER
+   53  5324-5425     410  -0.1  Bodhisattvaguṇapaṭalam (Chapter 1.18)
+   54  5426-5525     437  +0.1  Bodhisattvaguṇapaṭalam (Chapter 1.18)
+   55  5526-5625     251  -1.5  Bodhisattvaguṇapaṭalam (Chapter 1.18)
+   56  5626-5725     349  -0.7  Bodhisattvaguṇapaṭalam (Chapter 1.18)
+   57  5726-5825     250  -1.5  bodhisattvaliṅgapaṭalam (Chapter 2.1)
+   58  5826-5928     366  -0.5  Pakṣapaṭalam (Chapter 2.2)
+   59  5929-6029     373  -0.4  Vihārapaṭalam (Chapter 2.4)
+   60  6030-6129     587  +1.4  Vihārapaṭalam (Chapter 2.4)
+   61  6130-6229     555  +1.1  Vihārapaṭalam (Chapter 2.4)
+   62  6230-6329     507  +0.7  Vihārapaṭalam (Chapter 2.4)
+   63  6330-6429     577  +1.3  yā tatra vimalā bhūmiḥ sehādhiśīlavihāro
+   64  6430-6529     570  +1.2  yā tatra vimalā bhūmiḥ sehādhiśīlavihāro
+   65  6530-6629     641  +1.9  yā tatra vimalā bhūmiḥ sehādhiśīlavihāro <<OUTLIER
+   66  6630-6729     699  +2.3  yā tatra vimalā bhūmiḥ sehādhiśīlavihāro <<OUTLIER
+   67  6730-6829     441  +0.1  upapattipaṭalam (Chapter 3.1)
+   68  6830-6930     416  -0.1  Parigrahapaṭalam (Chapter 3.2)
+   69  6931-7030     447  +0.2  paramo vihārastāthāgataśca niṣṭhāgamanab
+   70  7031-7130     414  -0.1  Lakṣmaṇānuvyañjanapaṭalam (Chapter 3.5)
+   71  7131-7230     496  +0.6  Lakṣmaṇānuvyañjanapaṭalam (Chapter 3.5)
+   72  7231-7331     528  +0.9  Pratiṣṭhāpaṭalam (Chapter 3.6)
+   73  7332-7431     566  +1.2  Pratiṣṭhāpaṭalam (Chapter 3.6)
+   74  7432-7533     632  +1.8  Pratiṣṭhāpaṭalam (Chapter 3.6)
+   75  7534-7633     458  +0.3  Pratiṣṭhāpaṭalam (Chapter 3.6)
+   76  7634-7733     560  +1.2  Pratiṣṭhāpaṭalam (Chapter 3.6)
+   77  7734-7802     718  +2.5  Pratiṣṭhāpaṭalam (Chapter 3.6) <<OUTLIER
+  -- section medians (n>=1) --
+        238  (n= 1)  Dhyānapaṭalama (Chapter 1.13)
+        250  (n= 1)  bodhisattvaliṅgapaṭalam (Chapter 2.1)
+        295  (n= 1)  Prajñāpaṭalam (Chapter 1.14)
+        315  (n= 2)  Cittotpādapaṭalam (Chapter 1.2)
+        339  (n= 2)  Svaparārthapaṭalam (Chapter 1.3)
+        354  (n= 3)  Saṃgrahavastupaṭalam
+        366  (n= 1)  Pakṣapaṭalam (Chapter 2.2)
+        368  (n= 2)  Kṣāntipaṭalam (Chapter 1.11)
+        373  (n= 5)  Prabhāvapaṭalam (Chapter 1.5)
+        379  (n= 4)  Bodhisattvaguṇapaṭalam (Chapter 1.18)
+        388  (n= 4)  Balagotrapaṭalam (Chapter 1.8)
+        395  (n= 3)  Pūjāsevā 'pramāṇapaṭalam (Chapter 1.16)
+        397  (n= 1)  Vīryaṃpaṭalam (Chapter 1.12)
+        403  (n=10)  Śīlapaṭalam (Chapter 1.10)
+        416  (n= 1)  Parigrahapaṭalam (Chapter 3.2)
+        417  (n= 4)  Tattvārtha-paṭalam (Chapter 1.4)
+        435  (n= 2)  Paripākapaṭalam (Chapter 1.6)
+        441  (n= 1)  upapattipaṭalam (Chapter 3.1)
+        443  (n= 6)  Bodhipakṣyapaṭalam (Chapter 1.17)
+        447  (n= 1)  paramo vihārastāthāgataśca niṣṭhāgamanabhūmiḥ 
+        450  (n= 2)  gotra-paṭalam (Chapter 1.1)
+        455  (n= 2)  Lakṣmaṇānuvyañjanapaṭalam (Chapter 3.5)
+        510  (n= 4)  Dānapaṭalam (Chapter 1.9)
+        531  (n= 4)  Vihārapaṭalam (Chapter 2.4)
+        563  (n= 6)  Pratiṣṭhāpaṭalam (Chapter 3.6)
+        609  (n= 4)  yā tatra vimalā bhūmiḥ sehādhiśīlavihāro vedit
+        623  (n= 1)  Bodhipaṭalam (Chapter 1.7)
+
+===== Śrāvakabhūmi (Shukla, clean Skt) (SA_T06_srabhusu) =====
+chunks=118  median=478  MAD-based sd=138  range=[-152,796]
+   ck        segs   pred     z  section
+    0     0-99       377  -0.7  I. gotrabhūmiḥ
+    1   100-202      179  -2.2  I. gotrabhūmiḥ <<OUTLIER
+    2   203-304      461  -0.1  I. gotrabhūmiḥ
+    3   305-406      537  +0.4  II. avatārabhūmiḥ
+    4   407-506      508  +0.2  II. avatārabhūmiḥ
+    5   507-609      648  +1.2  naiṣkramyabhūmiḥ katamā /
+    6   610-713      631  +1.1  naiṣkramyabhūmiḥ katamā /
+    7   714-815      583  +0.8  naiṣkramyabhūmiḥ katamā /
+    8   816-917      518  +0.3  naiṣkramyabhūmiḥ katamā /
+    9   919-1020     566  +0.6  naiṣkramyabhūmiḥ katamā /
+   10  1021-1120     358  -0.9  naiṣkramyabhūmiḥ katamā /
+   11  1121-1223     384  -0.7  naiṣkramyabhūmiḥ katamā /
+   12  1224-1324     326  -1.1  naiṣkramyabhūmiḥ katamā /
+   13  1325-1425     514  +0.3  naiṣkramyabhūmiḥ katamā /
+   14  1426-1525     478  +0.0  naiṣkramyabhūmiḥ katamā /
+   15  1526-1626     720  +1.8  naiṣkramyabhūmiḥ katamā /
+   16  1627-1726     653  +1.3  naiṣkramyabhūmiḥ katamā /
+   17  1727-1828      62  -3.0  naiṣkramyabhūmiḥ katamā / <<OUTLIER
+   18  1829-1932     435  -0.3  naiṣkramyabhūmiḥ katamā /
+   19  1933-2041     609  +1.0  naiṣkramyabhūmiḥ katamā /
+   20  2042-2142     546  +0.5  naiṣkramyabhūmiḥ katamā /
+   21  2143-2245    -152  -4.6  naiṣkramyabhūmiḥ katamā / <<OUTLIER
+   22  2246-2346     328  -1.1  naiṣkramyabhūmiḥ katamā /
+   23  2347-2449     446  -0.2  naiṣkramyabhūmiḥ katamā /
+   24  2450-2552     277  -1.5  naiṣkramyabhūmiḥ katamā /
+   25  2553-2653     420  -0.4  naiṣkramyabhūmiḥ katamā /
+   26  2654-2753     589  +0.8  naiṣkramyabhūmiḥ katamā /
+   27  2754-2853     693  +1.6  naiṣkramyabhūmiḥ katamā /
+   28  2854-2953     703  +1.6  naiṣkramyabhūmiḥ katamā /
+   29  2954-3053     598  +0.9  naiṣkramyabhūmiḥ katamā /
+   30  3054-3153     500  +0.2  naiṣkramyabhūmiḥ katamā /
+   31  3154-3253     637  +1.2  naiṣkramyabhūmiḥ katamā /
+   32  3254-3357     468  -0.1  naiṣkramyabhūmiḥ katamā /
+   33  3358-3457     295  -1.3  naiṣkramyabhūmiḥ katamā /
+   34  3459-3558     506  +0.2  naiṣkramyabhūmiḥ katamā /
+   35  3559-3662     486  +0.1  naiṣkramyabhūmiḥ katamā /
+   36  3663-3762     366  -0.8  naiṣkramyabhūmiḥ katamā /
+   37  3763-3864     417  -0.4  naiṣkramyabhūmiḥ katamā /
+   38  3865-3965    -147  -4.5  naiṣkramyabhūmiḥ katamā / <<OUTLIER
+   39  3966-4065     436  -0.3  naiṣkramyabhūmiḥ katamā /
+   40  4066-4165     510  +0.2  naiṣkramyabhūmiḥ katamā /
+   41  4166-4268     381  -0.7  II. dvitīyaṃ yogasthānam
+   42  4269-4372     384  -0.7  II. dvitīyaṃ yogasthānam
+   43  4373-4473     323  -1.1  II. dvitīyaṃ yogasthānam
+   44  4474-4573     546  +0.5  II. dvitīyaṃ yogasthānam
+   45  4574-4673     440  -0.3  II. dvitīyaṃ yogasthānam
+   46  4674-4777     555  +0.6  II. dvitīyaṃ yogasthānam
+   47  4778-4880     385  -0.7  II. dvitīyaṃ yogasthānam
+   48  4881-4986     475  -0.0  II. dvitīyaṃ yogasthānam
+   49  4988-5089     562  +0.6  II. dvitīyaṃ yogasthānam
+   50  5090-5194     645  +1.2  II. dvitīyaṃ yogasthānam
+   51  5195-5295     316  -1.2  II. dvitīyaṃ yogasthānam
+   52  5296-5395     263  -1.6  II. dvitīyaṃ yogasthānam
+   53  5396-5498     430  -0.3  II. dvitīyaṃ yogasthānam
+   54  5499-5598     477  -0.0  II. dvitīyaṃ yogasthānam
+   55  5599-5699     204  -2.0  II. dvitīyaṃ yogasthānam <<OUTLIER
+   56  5700-5805     386  -0.7  II. dvitīyaṃ yogasthānam
+   57  5806-5907     335  -1.0  II. dvitīyaṃ yogasthānam
+   58  5908-6009     322  -1.1  II. dvitīyaṃ yogasthānam
+   59  6010-6110     471  -0.0  II. dvitīyaṃ yogasthānam
+   60  6111-6213     490  +0.1  II. dvitīyaṃ yogasthānam
+   61  6214-6314     432  -0.3  II. dvitīyaṃ yogasthānam
+   62  6315-6415     644  +1.2  II. dvitīyaṃ yogasthānam
+   63  6416-6516     629  +1.1  II. dvitīyaṃ yogasthānam
+   64  6517-6618     436  -0.3  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   65  6619-6720     494  +0.1  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   66  6721-6822     500  +0.2  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   67  6823-6925     401  -0.6  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   68  6926-7025     440  -0.3  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   69  7026-7125     349  -0.9  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   70  7126-7225     354  -0.9  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   71  7226-7325     327  -1.1  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   72  7326-7428     335  -1.0  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   73  7429-7529     250  -1.7  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   74  7530-7631     653  +1.3  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   75  7632-7733     391  -0.6  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   76  7734-7837     524  +0.3  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   77  7838-7938     485  +0.1  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   78  7939-8039     525  +0.3  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   79  8040-8139     474  -0.0  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   80  8140-8241     454  -0.2  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ 
+   81  8242-8341     731  +1.8  III. tṛtīyaṃ yogasthānam <<OUTLIER
+   82  8342-8441     469  -0.1  III. tṛtīyaṃ yogasthānam
+   83  8442-8545     560  +0.6  III. tṛtīyaṃ yogasthānam
+   84  8546-8645     557  +0.6  III. tṛtīyaṃ yogasthānam
+   85  8646-8749     465  -0.1  III. tṛtīyaṃ yogasthānam
+   86  8750-8849     535  +0.4  III. tṛtīyaṃ yogasthānam
+   87  8850-8949     659  +1.3  III. tṛtīyaṃ yogasthānam
+   88  8950-9049     341  -1.0  III. tṛtīyaṃ yogasthānam
+   89  9050-9149     333  -1.1  III. tṛtīyaṃ yogasthānam
+   90  9150-9250     553  +0.6  III. tṛtīyaṃ yogasthānam
+   91  9251-9350     743  +1.9  III. tṛtīyaṃ yogasthānam <<OUTLIER
+   92  9351-9453     474  -0.0  III. tṛtīyaṃ yogasthānam
+   93  9454-9555     526  +0.4  III. tṛtīyaṃ yogasthānam
+   94  9556-9659     353  -0.9  III. tṛtīyaṃ yogasthānam
+   95  9660-9759     687  +1.5  III. tṛtīyaṃ yogasthānam
+   96  9760-9859     707  +1.7  III. tṛtīyaṃ yogasthānam
+   97  9860-9959     796  +2.3  III. tṛtīyaṃ yogasthānam <<OUTLIER
+   98  9960-10059    442  -0.3  III. tṛtīyaṃ yogasthānam
+   99 10060-10159    728  +1.8  III. tṛtīyaṃ yogasthānam <<OUTLIER
+  100 10160-10259    459  -0.1  III. tṛtīyaṃ yogasthānam
+  101 10260-10365    471  -0.0  IV. caturthaṃ yogasthānam
+  102 10366-10467    518  +0.3  IV. caturthaṃ yogasthānam
+  103 10468-10569    507  +0.2  IV. caturthaṃ yogasthānam
+  104 10570-10669    480  +0.0  IV. caturthaṃ yogasthānam
+  105 10670-10781    616  +1.0  IV. caturthaṃ yogasthānam
+  106 10782-10883    383  -0.7  IV. caturthaṃ yogasthānam
+  107 10884-10984    552  +0.5  IV. caturthaṃ yogasthānam
+  108 10985-11087    644  +1.2  IV. caturthaṃ yogasthānam
+  109 11088-11188    780  +2.2  IV. caturthaṃ yogasthānam <<OUTLIER
+  110 11189-11288    386  -0.7  IV. caturthaṃ yogasthānam
+  111 11289-11388    566  +0.6  IV. caturthaṃ yogasthānam
+  112 11389-11489    746  +2.0  IV. caturthaṃ yogasthānam <<OUTLIER
+  113 11490-11590    407  -0.5  IV. caturthaṃ yogasthānam
+  114 11591-11690    645  +1.2  IV. caturthaṃ yogasthānam
+  115 11691-11792    357  -0.9  IV. caturthaṃ yogasthānam
+  116 11793-11892    582  +0.8  IV. caturthaṃ yogasthānam
+  117 11893-11926    596  +0.9  IV. caturthaṃ yogasthānam
+  -- section medians (n>=1) --
+        377  (n= 3)  I. gotrabhūmiḥ
+        432  (n=23)  II. dvitīyaṃ yogasthānam
+        440  (n=17)  etadyogasthānaṃ śrutvā sūtrevatārayeyuḥ /
+        493  (n=36)  naiṣkramyabhūmiḥ katamā /
+        522  (n= 2)  II. avatārabhūmiḥ
+        544  (n=20)  III. tṛtīyaṃ yogasthānam
+        552  (n=17)  IV. caturthaṃ yogasthānam

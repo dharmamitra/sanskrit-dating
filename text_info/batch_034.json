@@ -1,0 +1,326 @@
+[
+  {
+    "work_id": "GSP33madhsiddhb_u",
+    "title": "Siddhāntabindu",
+    "author": "Madhusūdana Sarasvatī",
+    "tradition": "Hindu (Advaita Vedānta)",
+    "genre": "bhasya (commentary) / philosophical treatise",
+    "date_estimate": "c. late 16th c. CE",
+    "summary": "A commentary on the Daśaślokī (ten verses) attributed to Śaṅkara, expounding the import of the Upaniṣadic mahāvākya 'tat tvam asi' (That thou art). Though formally a gloss, it functions as an independent and exhaustive digest of Advaita Vedānta, systematically presenting and refuting rival views on the nature of the Self and establishing the Self as pure, attributeless consciousness.",
+    "history": "Written by Madhusūdana Sarasvatī, a renowned Bengali Advaitin of the 16th century, reportedly for the benefit of his pupil Balabhadra. It has been printed repeatedly with subcommentaries, notably by Gauḍabrahmānanda (Nyāyaratnāvalī) and Nārāyaṇatīrtha.",
+    "related_works": ["Daśaślokī", "Advaitasiddhi"],
+    "confidence": "high",
+    "sources": [
+      "https://link.springer.com/article/10.1007/s11841-017-0605-x",
+      "https://www.wisdomlib.org/hinduism/book/preceptors-of-advaita/d/doc62896.html",
+      "https://archive.org/details/Siddhantabindu.of.Madhusudana.Sarasvati.with.Commentaries"
+    ]
+  },
+  {
+    "work_id": "GSP33mbrahsiu",
+    "title": "Brahmasiddhi",
+    "author": "Maṇḍana Miśra",
+    "tradition": "Hindu (Advaita Vedānta / Mīmāṃsā background)",
+    "genre": "philosophical treatise (siddhi)",
+    "date_estimate": "c. early 8th c. CE",
+    "summary": "Maṇḍana Miśra's largest and most important work, the sole one dedicated wholly to Vedānta. It is a systematic demonstration of Brahman, organized in four chapters (Brahmakāṇḍa, Tarkakāṇḍa, Niyogakāṇḍa, Siddhikāṇḍa), arguing for the nondual reality of Brahman and treating themes such as the nature of ignorance, error, and the relation of injunction (niyoga) to liberating knowledge.",
+    "history": "Maṇḍana Miśra, a Mīmāṃsaka influenced by Kumārila who turned to Advaita, was roughly contemporary with Śaṅkara; later tradition sometimes conflated him with Sureśvara. His Advaita differs from Śaṅkara's in several details (e.g. the locus of avidyā). Vācaspati Miśra wrote the commentary Brahmasiddhiṭīkā (Tattvasamīkṣā).",
+    "related_works": ["Brahmasūtra", "Vidhiviveka", "Vibhramaviveka"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ma%E1%B9%87%E1%B8%8Dana_Mi%C5%9Bra",
+      "https://www.advaita-vedanta.org/avhp/mandana.html",
+      "https://archive.org/details/TheAdvaitaVedantaOfBrahmaSiddhiAllenWrightThrasher"
+    ]
+  },
+  {
+    "work_id": "GSP33mndvivpu",
+    "title": "Vibhramaviveka",
+    "author": "Maṇḍana Miśra",
+    "tradition": "Hindu (Mīmāṃsā / Advaita Vedānta)",
+    "genre": "philosophical treatise",
+    "date_estimate": "c. early 8th c. CE",
+    "summary": "A short treatise on the theory of error (khyātivāda) that surveys and compares the major competing accounts of erroneous cognition current in classical Indian epistemology, including the anyathākhyāti of (Pūrva) Mīmāṃsā/Nyāya and the anirvacanīyakhyāti of Advaita. It examines how illusion arises and how understanding error is itself an avenue to truth.",
+    "history": "One of Maṇḍana Miśra's specialized philosophical works, transmitted alongside his Brahmasiddhi and Vidhiviveka. It is an important early source for the systematic classification of theories of perceptual error.",
+    "related_works": ["Brahmasiddhi", "Vidhiviveka"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ma%E1%B9%87%E1%B8%8Dana_Mi%C5%9Bra",
+      "https://www.advaita-vedanta.org/avhp/mandana.html"
+    ]
+  },
+  {
+    "work_id": "GSP33nabodhsu",
+    "title": "Bodhasāra",
+    "author": "Narahari",
+    "tradition": "Hindu (Advaita Vedānta)",
+    "genre": "philosophical treatise / kavya (didactic verse)",
+    "date_estimate": "c. 1789 CE (late 18th c.)",
+    "summary": "A lengthy 18th-century Advaita Vedānta work that is at once a philosophical treatise and a poetic composition, treating standard Vedāntic topics from a fresh perspective and aiming to convey the experience of jīvanmukti (liberation while living). The author employs varied literary devices, similes, and original examples to communicate Advaita teaching.",
+    "history": "Composed by the Advaitin Narahari in or shortly before 1789, it is regarded as an example of the renaissance-spirited Sanskrit wisdom literature of pre-colonial India. It was first translated into English by Jennifer and Grahame Cover (Munīndra-Dinācārya / Bodhasāra editions).",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://books.google.com/books/about/Bodhas%C4%81ra.html?id=WjxLYgEACAAJ",
+      "https://www.wisdomlib.org/definition/bodhasara",
+      "https://arshavidya.org/bodhasara-munindra-dinacarya/"
+    ]
+  },
+  {
+    "work_id": "GSP33nysu__1u",
+    "title": "Nyāyasudhā: Adhyāya 1",
+    "author": "Jayatīrtha",
+    "tradition": "Hindu (Dvaita Vedānta / Mādhva)",
+    "genre": "bhasya (sub-commentary) / philosophical treatise",
+    "date_estimate": "c. 1340-1388 CE",
+    "summary": "The first adhyāya of Jayatīrtha's magnum opus, an exhaustive sub-commentary (ṭīkā) on Madhva's Anuvyākhyāna, which is itself a verse commentary on Bādarāyaṇa's Brahmasūtra. Adhyāya 1 covers the foundational matters (samanvaya) establishing that Brahman is the purport of all Vedānta, defending Dvaita realism on cognition, error, and the distinctness of God, souls, and world.",
+    "history": "Jayatīrtha (the 'Ṭīkācārya'), the chief systematizer of Madhva's Dvaita, produced this work as the school's definitive exegetical authority; it is said that the depths of Tattvavāda can only be grasped through the Nyāyasudhā. It attracted numerous later glosses, e.g. by Rāghavendra Tīrtha.",
+    "related_works": ["Anuvyākhyāna", "Brahmasūtra", "Brahmasūtrabhāṣya (Madhva)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.hindupedia.com/en/Ny%C4%81yasudh%C4%81",
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_jayatIrtha-nyAyasudhA.htm",
+      "https://www.newworldencyclopedia.org/entry/Jayatirtha"
+    ]
+  },
+  {
+    "work_id": "GSP33nysu__2u",
+    "title": "Nyāyasudhā: Adhyāya 2",
+    "author": "Jayatīrtha",
+    "tradition": "Hindu (Dvaita Vedānta / Mādhva)",
+    "genre": "bhasya (sub-commentary) / philosophical treatise",
+    "date_estimate": "c. 1340-1388 CE",
+    "summary": "The second adhyāya of Jayatīrtha's Nyāyasudhā, sub-commenting on Madhva's Anuvyākhyāna on the Brahmasūtra. This adhyāya (avirodha) is devoted to refuting objections and rival systems—Bauddha, Jaina, Nyāya-Vaiśeṣika, Sāṃkhya, Bhāṭṭa and Prābhākara Mīmāṃsā, Advaita and Viśiṣṭādvaita—demonstrating the non-contradiction of the Dvaita reading of Vedānta.",
+    "history": "Part of Jayatīrtha's comprehensive defense of Madhva's Tattvavāda; the Nyāyasudhā is the central scholastic text of Dvaita Vedānta and the basis of the school's traditional curriculum and disputation.",
+    "related_works": ["Anuvyākhyāna", "Brahmasūtra", "Brahmasūtrabhāṣya (Madhva)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.hindupedia.com/en/Ny%C4%81yasudh%C4%81",
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_jayatIrtha-nyAyasudhA.htm"
+    ]
+  },
+  {
+    "work_id": "GSP33nysu__3u",
+    "title": "Nyāyasudhā: Adhyāya 3",
+    "author": "Jayatīrtha",
+    "tradition": "Hindu (Dvaita Vedānta / Mādhva)",
+    "genre": "bhasya (sub-commentary) / philosophical treatise",
+    "date_estimate": "c. 1340-1388 CE",
+    "summary": "The third adhyāya of Jayatīrtha's Nyāyasudhā on Madhva's Anuvyākhyāna. Following the Brahmasūtra structure, this adhyāya (sādhana) treats the means to liberation—the disciplines of devotion and knowledge, the soul's dependence on God, and the path of the aspirant—within the Dvaita framework of an eternal hierarchical distinction between God and souls.",
+    "history": "Continuation of Jayatīrtha's foundational sub-commentary on Madhva's verse exposition of the Brahmasūtra; the work as a whole anchors the Dvaita scholastic tradition.",
+    "related_works": ["Anuvyākhyāna", "Brahmasūtra", "Brahmasūtrabhāṣya (Madhva)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.hindupedia.com/en/Ny%C4%81yasudh%C4%81",
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_jayatIrtha-nyAyasudhA.htm"
+    ]
+  },
+  {
+    "work_id": "GSP33nysu__4u",
+    "title": "Nyāyasudhā: Adhyāya 4, Pāda 1",
+    "author": "Jayatīrtha",
+    "tradition": "Hindu (Dvaita Vedānta / Mādhva)",
+    "genre": "bhasya (sub-commentary) / philosophical treatise",
+    "date_estimate": "c. 1340-1388 CE",
+    "summary": "The first pāda of the fourth and final adhyāya of Jayatīrtha's Nyāyasudhā on Madhva's Anuvyākhyāna. This adhyāya (phala) concerns the fruit of knowledge and meditation; pāda 1 deals with the repeated practice (āvṛtti) of meditation on Brahman and the destruction of accumulated karma, treated according to Dvaita doctrine.",
+    "history": "Concluding portion of Jayatīrtha's exhaustive sub-commentary, the cornerstone scholastic text of the Mādhva Dvaita Vedānta tradition.",
+    "related_works": ["Anuvyākhyāna", "Brahmasūtra", "Brahmasūtrabhāṣya (Madhva)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.hindupedia.com/en/Ny%C4%81yasudh%C4%81",
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_jayatIrtha-nyAyasudhA.htm"
+    ]
+  },
+  {
+    "work_id": "GSP33pada",
+    "title": "Pañcadaśī",
+    "author": "Vidyāraṇya (Mādhava); with possible contribution by Bhāratītīrtha",
+    "tradition": "Hindu (Advaita Vedānta)",
+    "genre": "philosophical treatise (prakaraṇa, in verse)",
+    "date_estimate": "c. 1386-1391 CE (14th c.)",
+    "summary": "A celebrated introductory verse manual of Advaita Vedānta in fifteen chapters, grouped into three pentads: Viveka (discrimination of the real from the unreal), Dīpa (illumination of the nature of consciousness), and Ānanda (the bliss of the Self). It expounds the identity of the individual self and Brahman and the means of realizing it, becoming a standard textbook of the tradition.",
+    "history": "Ascribed to Vidyāraṇya, identified with Mādhava, the Advaita preceptor associated with the founding of Vijayanagara; tradition holds the authorship shifts from the seventh chapter onward, with later portions possibly composed by his associate Bhāratītīrtha. Widely commented upon (e.g. Rāmakṛṣṇa's Vṛtti).",
+    "related_works": ["Jīvanmuktiviveka", "Vivaraṇaprameyasaṃgraha"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vidyaranya",
+      "https://www.wisdomlib.org/definition/vidyaranya"
+    ]
+  },
+  {
+    "work_id": "GSP33ramgbhpu",
+    "title": "Bhagavadgītābhāṣya",
+    "author": "Rāmānuja",
+    "tradition": "Hindu (Viśiṣṭādvaita Vedānta / Śrīvaiṣṇava)",
+    "genre": "bhasya (commentary)",
+    "date_estimate": "c. early-mid 12th c. CE",
+    "summary": "Rāmānuja's commentary on the Bhagavadgītā, reading the text through Viśiṣṭādvaita (qualified non-dualism). It presents Nārāyaṇa as the supreme personal Brahman, individual selves and matter as His real, dependent modes (śarīra), and bhakti (loving devotion), supported by karma- and jñāna-yoga, as the means to attain Him.",
+    "history": "Attributed to Rāmānuja (traditional dates 1017-1137 CE, though the lifespan is debated), it draws structurally on Yāmuna's verse summary Gītārthasaṅgraha. It is one of the three foundational Vedāntic works of the Śrīvaiṣṇava tradition and a principal alternative to Śaṅkara's Advaita reading of the Gītā.",
+    "related_works": ["Bhagavadgītā", "Gītārthasaṅgraha", "Śrībhāṣya", "Vedārthasaṃgraha"],
+    "confidence": "high",
+    "sources": [
+      "https://iep.utm.edu/ramanuja/",
+      "https://www.newworldencyclopedia.org/entry/Ramanuja"
+    ]
+  },
+  {
+    "work_id": "GSP33rams11pu",
+    "title": "Śrībhāṣya: 1,1.3",
+    "author": "Rāmānuja",
+    "tradition": "Hindu (Viśiṣṭādvaita Vedānta / Śrīvaiṣṇava)",
+    "genre": "bhasya (commentary)",
+    "date_estimate": "c. early-mid 12th c. CE",
+    "summary": "A section (adhyāya 1, pāda 1, sūtra 3) of Rāmānuja's Śrībhāṣya, his major commentary on Bādarāyaṇa's Brahmasūtra. The relevant sūtra ('śāstra-yonitvāt') establishes scripture as the source of knowledge of Brahman; this is the locus of Rāmānuja's famous Mahāsiddhānta and his sustained refutation of Advaita illusionism (the Mahāpūrvapakṣa), defending Brahman as endowed with infinite auspicious qualities.",
+    "history": "The Śrībhāṣya is the foundational scriptural commentary of Viśiṣṭādvaita and the definitive Śrīvaiṣṇava response to Śaṅkara's Brahmasūtrabhāṣya; tradition holds Rāmānuja composed it after studying the Bodhāyana-vṛtti. Project hints (1017-1137) reflect Rāmānuja's traditional lifespan.",
+    "related_works": ["Brahmasūtra", "Vedārthasaṃgraha", "Bhagavadgītābhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sri_Bhashya",
+      "https://iep.utm.edu/ramanuja/"
+    ]
+  },
+  {
+    "work_id": "GSP33ramvaspu",
+    "title": "Vedārthasaṃgraha",
+    "author": "Rāmānuja",
+    "tradition": "Hindu (Viśiṣṭādvaita Vedānta / Śrīvaiṣṇava)",
+    "genre": "philosophical treatise",
+    "date_estimate": "c. early 12th c. CE",
+    "summary": "An independent prose summary of Rāmānuja's Viśiṣṭādvaita position, expounding the meaning of the Veda (especially the Upaniṣadic mahāvākyas) as teaching a Brahman qualified by real selves and matter. It establishes the body-soul (śarīra-śarīrin) relation between Brahman and the world and the centrality of bhakti, while refuting Advaita and other rival readings.",
+    "history": "Often regarded as Rāmānuja's earliest major work, it lays out the philosophical framework later developed in the Śrībhāṣya. It is one of his three principal independent compositions and a key text of the Śrīvaiṣṇava school.",
+    "related_works": ["Śrībhāṣya", "Bhagavadgītābhāṣya", "Upaniṣads"],
+    "confidence": "high",
+    "sources": [
+      "https://iep.utm.edu/ramanuja/",
+      "https://link.springer.com/article/10.1007/s11407-022-09328-9"
+    ]
+  },
+  {
+    "work_id": "GSP33samkaubh_u",
+    "title": "Kaṭhopaniṣadbhāṣya",
+    "author": "Śaṃkara (Ādi Śaṅkara)",
+    "tradition": "Hindu (Advaita Vedānta)",
+    "genre": "bhasya (commentary)",
+    "date_estimate": "c. early 8th c. CE (Śaṅkara fl. c. 700-750)",
+    "summary": "Śaṅkara's commentary on the Kaṭha Upaniṣad, the dialogue between the boy Naciketas and Yama (Death) on the nature of the Self and immortality. The commentary develops the Advaita reading: the ātman is the imperishable, unborn reality identical with Brahman, knowable not by argument alone but through scriptural revelation and the grace of insight, and liberation consists in this self-knowledge.",
+    "history": "One of the genuine Upaniṣad commentaries (bhāṣyas) of Ādi Śaṅkara, the founder of classical Advaita Vedānta. The project's date hint (800-1099) is later than the scholarly consensus, which places Śaṅkara around the early 8th century CE.",
+    "related_works": ["Kaṭha Upaniṣad", "Brahmasūtrabhāṣya", "Upaniṣadbhāṣyas"],
+    "confidence": "high",
+    "sources": [
+      "https://iep.utm.edu/ramanuja/",
+      "https://en.wikipedia.org/wiki/Adi_Shankara"
+    ]
+  },
+  {
+    "work_id": "GSP33samkupad_u",
+    "title": "Upadeśasāhasrī",
+    "author": "Śaṃkara (Ādi Śaṅkara)",
+    "tradition": "Hindu (Advaita Vedānta)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. early 8th c. CE (Śaṅkara fl. c. 700-750)",
+    "summary": "The 'Thousand Teachings,' Śaṅkara's principal independent (non-commentarial) treatise on Advaita, comprising a prose part and a metrical part. It instructs on the method of teaching liberating knowledge of the identity of ātman and Brahman, the role of the mahāvākya 'tat tvam asi,' the removal of superimposition (adhyāsa), and the dialogical pedagogy of guiding a qualified pupil to self-realization.",
+    "history": "Widely accepted by scholars as the most important authentic prakaraṇa-grantha of Ādi Śaṅkara, valuable for reconstructing his views independent of his commentaries. The project's date hint (800-1099) postdates the scholarly consensus of the early 8th century.",
+    "related_works": ["Brahmasūtrabhāṣya", "Upaniṣadbhāṣyas"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Adi_Shankara",
+      "https://iep.utm.edu/ramanuja/"
+    ]
+  },
+  {
+    "work_id": "GSP33vesa",
+    "title": "Vedāntasāra",
+    "author": "Sadānanda Yogīndra (Yogendra Sarasvatī)",
+    "tradition": "Hindu (Advaita Vedānta)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. mid-15th c. CE",
+    "summary": "A concise and methodical prose primer of Advaita Vedānta ('Essence of Vedānta'), one of the most popular introductory manuals of the school. It lays out the subject-matter, qualified student, the four prerequisites (sādhana-catuṣṭaya), superimposition and its removal, the cosmology of māyā and the three bodies/states, and the method of scriptural inquiry leading to liberation.",
+    "history": "Composed by Sadānanda Yogīndra around the mid-15th century, the work synthesizes earlier Advaita sources including Gauḍapāda's Kārikā, Śaṅkara's Upadeśasāhasrī, Sureśvara's Naiṣkarmyasiddhi, and Vidyāraṇya's Pañcadaśī. It remains a standard textbook with several commentaries (e.g. Subodhinī, Vidvanmanorañjinī).",
+    "related_works": ["Pañcadaśī", "Upadeśasāhasrī", "Naiṣkarmyasiddhi", "Māṇḍūkyakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vedantasara_(of_Sadananda)",
+      "https://en.wikipedia.org/wiki/Sadananda_(of_Vedantasara)"
+    ]
+  },
+  {
+    "work_id": "GSP33vidhivi",
+    "title": "Vidhiviveka",
+    "author": "Maṇḍana Miśra",
+    "tradition": "Hindu (Pūrva Mīmāṃsā)",
+    "genre": "philosophical treatise (Vedic exegesis)",
+    "date_estimate": "c. early 8th c. CE (Maṇḍana fl. c. 660-720)",
+    "summary": "An influential Mīmāṃsā treatise on the nature of Vedic injunction (vidhi), in roughly forty-two verses with an extensive auto-commentary. Maṇḍana surveys the rival theories of verbal exhortation current in his time before defending his own view that an injunction conveys to the agent the means to attaining what that agent desires (iṣṭasādhana).",
+    "history": "One of the most important works of Vedic exegesis after Kumārila, by the Mīmāṃsaka-Advaitin Maṇḍana Miśra. The polymath Vācaspati Miśra (10th c.) wrote the major commentary Nyāyakaṇikā on it, in turn glossed by Parameśvara (Juṣadhvaṅkaraṇī and Svaditaṅkaraṇī).",
+    "related_works": ["Brahmasiddhi", "Vibhramaviveka", "Ślokavārttika"],
+    "confidence": "high",
+    "sources": [
+      "https://www.ifpindia.org/bookstore/ci155/",
+      "https://en.wikipedia.org/wiki/Ma%E1%B9%87%E1%B8%8Dana_Mi%C5%9Bra"
+    ]
+  },
+  {
+    "work_id": "GSP33vivcud_u",
+    "title": "Vivekacūḍāmaṇi",
+    "author": "Traditionally attributed to Śaṃkara (Ādi Śaṅkara); authorship disputed by modern scholarship",
+    "tradition": "Hindu (Advaita Vedānta)",
+    "genre": "philosophical treatise (prakaraṇa, in verse)",
+    "date_estimate": "traditionally c. 8th c. CE; many scholars regard it as a later (post-Śaṅkara) Advaita compilation",
+    "summary": "The 'Crest-Jewel of Discrimination,' a popular verse manual of Advaita Vedānta presenting the path to liberation through discrimination (viveka) between the eternal Self and the non-Self. It treats the prerequisites of the aspirant, the structure of the bodies and sheaths (kośas), the nature of bondage and māyā, and the realization of the identity of ātman and Brahman culminating in jīvanmukti.",
+    "history": "Traditionally ascribed to Ādi Śaṅkara and among his most widely read works, but its authenticity is contested by many modern scholars on stylistic and doctrinal grounds, with some assigning it to a later author of the Advaita tradition. The project's date hint (800-1099) reflects this uncertainty.",
+    "related_works": ["Upadeśasāhasrī", "Ātmabodha", "Pañcadaśī"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vivekachudamani",
+      "https://en.wikipedia.org/wiki/Adi_Shankara"
+    ]
+  },
+  {
+    "work_id": "GSP33yaatsi_u",
+    "title": "Siddhitraya: Part 1: Ātmasiddhi",
+    "author": "Yāmuna (Yāmunācārya)",
+    "tradition": "Hindu (Viśiṣṭādvaita Vedānta / Śrīvaiṣṇava)",
+    "genre": "philosophical treatise (siddhi)",
+    "date_estimate": "c. 10th-early 11th c. CE",
+    "summary": "The first of the three 'demonstrations' (siddhi) of Yāmuna's Siddhitraya, establishing the nature of the individual self (ātman). It argues against Advaita and Buddhist no-self/illusion positions that the self is a real, eternal, self-luminous knowing subject (jñātṛ)—distinct from the body, senses, and mind—laying epistemological foundations for Viśiṣṭādvaita.",
+    "history": "Yāmunācārya (traditionally c. 918-1038, grand-preceptor of the Śrīvaiṣṇava line) was the seminal thinker whose ideas Rāmānuja later systematized. The Siddhitraya survives incompletely; the Saṃvitsiddhi and Īśvarasiddhi are partly fragmentary.",
+    "related_works": ["Siddhitraya (Īśvarasiddhi, Saṃvitsiddhi)", "Śrībhāṣya", "Āgamaprāmāṇya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Siddhitraya",
+      "https://en.wikipedia.org/wiki/Yamunacharya"
+    ]
+  },
+  {
+    "work_id": "GSP33yaissi_u",
+    "title": "Siddhitraya: Part 2: Īśvarasiddhi",
+    "author": "Yāmuna (Yāmunācārya)",
+    "tradition": "Hindu (Viśiṣṭādvaita Vedānta / Śrīvaiṣṇava)",
+    "genre": "philosophical treatise (siddhi)",
+    "date_estimate": "c. 10th-early 11th c. CE",
+    "summary": "The second 'demonstration' of the Siddhitraya, the 'establishment of God' (Īśvara). It defends the existence of a supreme personal Lord as the creator and inner controller, countering rival positions, and prepares the theistic ground that distinguishes Viśiṣṭādvaita's qualified Brahman from Advaita's attributeless absolute.",
+    "history": "Part of Yāmunācārya's chief philosophical work; like the rest of the Siddhitraya it survives in incomplete form. Yāmuna's theism strongly shaped Rāmānuja's later Viśiṣṭādvaita synthesis.",
+    "related_works": ["Siddhitraya (Ātmasiddhi, Saṃvitsiddhi)", "Śrībhāṣya", "Āgamaprāmāṇya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Siddhitraya",
+      "https://en.wikipedia.org/wiki/Yamunacharya"
+    ]
+  },
+  {
+    "work_id": "GSP33yamgaspu",
+    "title": "Gītārthasaṅgraha",
+    "author": "Yāmuna (Yāmunācārya)",
+    "tradition": "Hindu (Viśiṣṭādvaita Vedānta / Śrīvaiṣṇava)",
+    "genre": "philosophical treatise (verse summary / saṅgraha)",
+    "date_estimate": "c. 10th-early 11th c. CE",
+    "summary": "A concise versified summary of the meaning of the Bhagavadgītā, distilling its teaching into a coherent scheme. Yāmuna shows that the Gītā teaches the attainment of Nārāyaṇa-Parabrahman through the integrated disciplines of karma (action), jñāna (knowledge), and bhakti (devotion), reading the eighteen chapters as three coordinated sets of six.",
+    "history": "An influential short work of Yāmunācārya that provided the basic interpretive structure for Rāmānuja's later Bhagavadgītābhāṣya. It is foundational for the Śrīvaiṣṇava understanding of the Gītā.",
+    "related_works": ["Bhagavadgītā", "Bhagavadgītābhāṣya (Rāmānuja)", "Siddhitraya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yamunacharya",
+      "https://www.hindupedia.com/en/Y%C4%81mun%C4%81c%C4%81rya"
+    ]
+  }
+]

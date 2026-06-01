@@ -1,0 +1,324 @@
+[
+  {
+    "work_id": "GV06dantyovu",
+    "title": "Dantyoṣṭhyavidhi",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Vedic; Atharvaveda ancillary)",
+    "genre": "śikṣā / phonetic-orthographic treatise (lakṣaṇagrantha)",
+    "date_estimate": "1st millennium CE (uncertain; late-Vedic ancillary stratum)",
+    "summary": "A short technical treatise (a lakṣaṇagrantha of the Atharvaveda's ancillary literature) laying down rules for the dental versus labial articulation of sounds, in particular governing where the semivowel 'v' (and related letters) should be pronounced and written as dental (dantya) versus labial (oṣṭhya). It belongs to the body of orthoepic/phonetic aids that fix the correct recitation and spelling of the Vedic text.",
+    "history": "It is counted among the lakṣaṇa (phonetic) texts attached to the Atharvaveda alongside the Atharvaveda-Prātiśākhya and related parisiṣṭas; authorship is anonymous and traditional. Such texts were composed to preserve precise oral and written transmission of the Veda and are difficult to date individually.",
+    "related_works": ["Atharvaveda", "Atharvaveda-Prātiśākhya", "Atharvaveda-Pariśiṣṭa"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.exoticindiaart.com/book/details/ancillary-literature-of-atharva-veda-study-with-special-reference-to-parisistas-naf480/",
+      "https://en.wikipedia.org/wiki/Pari%C5%9Bi%E1%B9%A3%E1%B9%ADa"
+    ]
+  },
+  {
+    "work_id": "GV06higrsuu",
+    "title": "Hiraṇyakeśi-Gṛhyasūtra",
+    "author": "attributed to Hiraṇyakeśin (Satyāṣāḍha)",
+    "tradition": "Hindu (Vedic; Taittirīya school of the Kṛṣṇa Yajurveda)",
+    "genre": "sūtra (gṛhyasūtra, domestic-ritual manual)",
+    "date_estimate": "c. 5th-3rd c. BCE",
+    "summary": "The domestic-ritual (gṛhya) section of the Hiraṇyakeśi (Satyāṣāḍha) Kalpasūtra of the Taittirīya branch of the Black Yajurveda. It prescribes the household rites of passage and life-cycle ceremonies (saṃskāras such as marriage, birth, initiation, funerary offerings) and recurring domestic observances for a householder of this school.",
+    "history": "Forms part of the large Hiraṇyakeśi Kalpasūtra, closely related to the Āpastamba sūtras (Hiraṇyakeśin is traditionally regarded as a reviser within the Āpastamba tradition). It was edited and studied in the Indological tradition (e.g. by J. Kirste; translated in part by Oldenberg in the Sacred Books of the East gṛhyasūtra volumes).",
+    "related_works": ["Hiraṇyakeśi-Śrautasūtra", "Satyāṣāḍha-Kalpasūtra", "Āpastamba-Gṛhyasūtra", "Taittirīya-Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kalpa_(Vedanga)",
+      "https://www.wisdomlib.org/hinduism/essay/kausika-sutra-study/d/doc1497078.html"
+    ]
+  },
+  {
+    "work_id": "GV06jaimigsu",
+    "title": "Jaimini-Gṛhyasūtra",
+    "author": "attributed to the Jaiminīya school (trad. Jaimini)",
+    "tradition": "Hindu (Vedic; Jaiminīya school of the Sāmaveda)",
+    "genre": "sūtra (gṛhyasūtra, domestic-ritual manual)",
+    "date_estimate": "c. 4th c. BCE (mid first millennium BCE)",
+    "summary": "The domestic-ritual manual of the Jaiminīya (Talavakāra) branch of the Sāmaveda, giving rules for the household rites of passage of Jaiminīya Brahmins. The text is in two halves (about 24 and 9 khaṇḍas), covering saṃskāras and domestic ceremonies.",
+    "history": "Belongs to the Jaiminīya śākhā of the Sāmaveda and was edited and translated by W. Caland (The Jaiminigṛhyasūtra, 1922); a critical edition with Bhavatrāta's Vṛtti and the Gṛhyakārikā was prepared by Asko Parpola. It is one of the principal sources for Sāmavedic domestic ritual.",
+    "related_works": ["Jaiminīya-Sāmaveda", "Jaiminīya-Brāhmaṇa", "Gobhila-Gṛhyasūtra", "Khādira-Gṛhyasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://hindupedia.com/en/Jaiminiya_Grhyasutras",
+      "https://www.amazon.in/Jaiminigrhyasutra-Belonging-Samaveda-W-Caland/dp/8120807839",
+      "https://books.google.com/books/about/Jaimini_Grhya_Sutra_with_Bhavatrata_s_Vr.html?id=Ngk1EQAAQBAJ"
+    ]
+  },
+  {
+    "work_id": "GV06kaussu_u",
+    "title": "Kauśika-Sūtra",
+    "author": "attributed to Kauśika",
+    "tradition": "Hindu (Vedic; Atharvaveda, Śaunaka school)",
+    "genre": "sūtra (gṛhya/ritual manual of magical and domestic rites)",
+    "date_estimate": "c. 5th-3rd c. BCE (oldest of the Atharvavedic ritual sūtras)",
+    "summary": "The principal ritual sūtra of the Atharvaveda, combining domestic (gṛhya) rites with a unique body of magical, medical, and apotropaic practices (sorcery, healing, pacification of omens, royal rites). It supplies the ritual application (viniyoga) of the hymns of the Atharvaveda-Saṃhitā, with about 3008 sūtras across 14 adhyāyas and 141 kaṇḍikās.",
+    "history": "Regarded as the oldest of the Atharvavedic ancillary ritual works; it is foundational for understanding ancient Indian magic and medicine and was edited by Bloomfield (1890) and translated/re-edited in modern scholarship. Commentaries and the Kauśikapaddhati of Keśava explicate its often-elliptical rules.",
+    "related_works": ["Atharvaveda-Saṃhitā (Śaunaka)", "Kauśikapaddhati", "Vaitāna-Śrautasūtra", "Atharvaveda-Pariśiṣṭa"],
+    "confidence": "high",
+    "sources": [
+      "https://www.hindupedia.com/en/Kau%C5%9Bika_Sutras",
+      "https://www.wisdomlib.org/hinduism/essay/atharvaveda-ancillary-literature-study/d/doc1527383.html",
+      "https://www.academia.edu/10194472/A_New_Edition_and_an_Annotated_Translation_of_the_Kau%C5%9Bika_S%C5%ABtra"
+    ]
+  },
+  {
+    "work_id": "GV06kauthgsu",
+    "title": "Kauthuma-Gṛhyasūtra",
+    "author": "anonymous/traditional (Kauthuma school)",
+    "tradition": "Hindu (Vedic; Kauthuma branch of the Sāmaveda)",
+    "genre": "sūtra (gṛhyasūtra, domestic-ritual manual)",
+    "date_estimate": "mid first millennium BCE",
+    "summary": "A domestic-ritual manual associated with the Kauthuma śākhā, the principal surviving branch of the Sāmaveda. It prescribes the household saṃskāras and domestic ceremonies for adherents of this school; in practice the Kauthuma tradition's gṛhya rules are closely bound up with the Gobhila-Gṛhyasūtra (and its derivative Khādira-Gṛhyasūtra), the standard domestic sūtras of the Kauthuma/Rāṇāyanīya Sāmavedins.",
+    "history": "The Kauthuma is the main school of the Sāmaveda, alongside the Rāṇāyanīya and Jaiminīya branches, and is still maintained in Gujarat and Tamil Nadu. The domestic ritual of this tradition is represented chiefly by the Gobhila-Gṛhyasūtra; the title 'Kauthuma-Gṛhyasūtra' designates this Kauthuma-school gṛhya material.",
+    "related_works": ["Gobhila-Gṛhyasūtra", "Khādira-Gṛhyasūtra", "Sāmaveda-Saṃhitā (Kauthuma)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.hindu-blog.com/2019/05/kauthumasakha-information-about.html",
+      "https://vedicheritage.gov.in/samhitas/samaveda-samhitas/kauthuma-samhita/"
+    ]
+  },
+  {
+    "work_id": "GV06keskaupu",
+    "title": "Kauśikapaddhati",
+    "author": "Keśava",
+    "tradition": "Hindu (Vedic; Atharvaveda)",
+    "genre": "paddhati (ritual manual / commentary-handbook)",
+    "date_estimate": "c. 10th-12th c. CE",
+    "summary": "A practical ritual handbook (paddhati) by Keśava systematizing and explaining the procedures of the Kauśika-Sūtra of the Atharvaveda. It arranges the often-cryptic sūtra rules into usable step-by-step ritual prescriptions for Atharvavedic priests, and is a major aid to interpreting the Kauśika-Sūtra.",
+    "history": "Keśava's paddhati (together with the commentary tradition on the Kauśika-Sūtra) was extensively used by Bloomfield and later editors to reconstruct Atharvavedic ritual practice; it is a key medieval link in the transmission of the Atharvaveda's ritual system.",
+    "related_works": ["Kauśika-Sūtra", "Atharvaveda-Saṃhitā", "Atharvaveda-Pariśiṣṭa"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.hindupedia.com/en/Kau%C5%9Bika_Sutras",
+      "https://www.wisdomlib.org/hinduism/essay/atharvaveda-ancillary-literature-study/d/doc1527383.html"
+    ]
+  },
+  {
+    "work_id": "GV06khagrsuu",
+    "title": "Khādira-Gṛhyasūtra",
+    "author": "attributed to Khādira (a redaction of Gobhila)",
+    "tradition": "Hindu (Vedic; Drāhyāyaṇa/Khādira branch of the Sāmaveda)",
+    "genre": "sūtra (gṛhyasūtra, domestic-ritual manual)",
+    "date_estimate": "mid first millennium BCE",
+    "summary": "A concise domestic-ritual manual of the Khādira (Drāhyāyaṇa) school of the Sāmaveda, essentially a condensed and rearranged recension of the Gobhila-Gṛhyasūtra. It sets out the household saṃskāras and domestic ceremonies in a tighter sūtra form.",
+    "history": "Widely recognized as a more compact reworking of Gobhila's gṛhya material for the Khādira/Drāhyāyaṇa branch; it was translated by H. Oldenberg in the Sacred Books of the East series of Gṛhyasūtras. Its close dependence on Gobhila is a standard point in Vedic ritual scholarship.",
+    "related_works": ["Gobhila-Gṛhyasūtra", "Drāhyāyaṇa-Śrautasūtra", "Sāmaveda-Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kalpa_(Vedanga)",
+      "https://www.wisdomlib.org/hinduism/essay/kausika-sutra-study/d/doc1497078.html"
+    ]
+  },
+  {
+    "work_id": "GV06manavgsu",
+    "title": "Mānava-Gṛhyasūtra [Maitrāyaṇīyamānava-Gṛhyasūtra]",
+    "author": "anonymous/traditional (Mānava school)",
+    "tradition": "Hindu (Vedic; Maitrāyaṇīya/Mānava branch of the Kṛṣṇa Yajurveda)",
+    "genre": "sūtra (gṛhyasūtra, domestic-ritual manual)",
+    "date_estimate": "c. 5th-3rd c. BCE",
+    "summary": "The domestic-ritual manual of the Mānava (Maitrāyaṇīya) school of the Black Yajurveda, prescribing the household saṃskāras and domestic ceremonies of householders in that tradition. It is notable for some archaic ritual details and is closely associated with the Mānava-Śrautasūtra and the Mānava Dharmaśāstra tradition.",
+    "history": "Edited by Friedrich Knauer (1897); it belongs to the Maitrāyaṇīya branch and is studied for its relationship to the broader Mānava sūtra corpus and to early dharma literature. Authorship is anonymous within the school.",
+    "related_works": ["Maitrāyaṇī-Saṃhitā", "Mānava-Śrautasūtra", "Vārāha-Gṛhyasūtra", "Kāṭhaka-Gṛhyasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kalpa_(Vedanga)",
+      "https://www.wisdomlib.org/hinduism/essay/kausika-sutra-study/d/doc1497078.html"
+    ]
+  },
+  {
+    "work_id": "GV06rgvidh_u",
+    "title": "Ṛgvidhāna",
+    "author": "attributed (traditionally) to Śaunaka",
+    "tradition": "Hindu (Vedic; Ṛgveda ancillary)",
+    "genre": "vidhāna text (manual on ritual/magical application of hymns)",
+    "date_estimate": "c. last centuries BCE - early centuries CE",
+    "summary": "A versified manual describing the magical, apotropaic, and ritual uses (vidhāna) of the hymns and verses of the Ṛgveda: which ṛcs to recite, in what manner, and with what accompanying rites to obtain particular ends (healing, protection, prosperity, expiation). It treats the Veda as a repository of power-laden formulas applicable outside the solemn śrauta ritual.",
+    "history": "Traditionally ascribed to Śaunaka and counted among the Ṛgvedic ancillary literature; it parallels the Sāmavidhāna and Atharvavedic vidhāna texts and was edited and translated by M. S. Bhat and earlier by R. Meyer. It is an important witness to popular and magical Vedic religion.",
+    "related_works": ["Ṛgveda-Saṃhitā", "Sāmavidhāna-Brāhmaṇa", "Atharvaveda-Pariśiṣṭa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rigveda",
+      "https://www.wisdomlib.org/definition/rigvidhana"
+    ]
+  },
+  {
+    "work_id": "GV06sankhssu",
+    "title": "Śāṅkhāyana-Śrautasūtra",
+    "author": "attributed to Śāṅkhāyana (Sāṅkhāyana)",
+    "tradition": "Hindu (Vedic; Ṛgveda, Kauṣītaki/Śāṅkhāyana school)",
+    "genre": "sūtra (śrautasūtra, solemn-ritual manual)",
+    "date_estimate": "c. 6th-4th c. BCE",
+    "summary": "The solemn-sacrifice (śrauta) manual of the Śāṅkhāyana (Kauṣītaki) branch of the Ṛgveda, prescribing the great public Vedic sacrifices and the duties of the hotṛ priest and his assistants. It covers the agnihotra, soma sacrifices, and the cycle of śrauta rites with their Ṛgvedic recitations.",
+    "history": "Belongs to the Kauṣītaki/Śāṅkhāyana school and is associated with the Kauṣītaki (Śāṅkhāyana) Brāhmaṇa and Āraṇyaka; it was edited by Alfred Hillebrandt and translated by W. Caland. It is one of the two principal Ṛgvedic śrautasūtras (with the Āśvalāyana).",
+    "related_works": ["Ṛgveda-Saṃhitā", "Kauṣītaki-Brāhmaṇa (Śāṅkhāyana-Brāhmaṇa)", "Śāṅkhāyana-Gṛhyasūtra", "Āśvalāyana-Śrautasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kalpa_(Vedanga)",
+      "https://en.wikipedia.org/wiki/Kaushitaki"
+    ]
+  },
+  {
+    "work_id": "GV06vaitss_u",
+    "title": "Vaitāna-Śrautasūtra [Vaitānasūtra]",
+    "author": "anonymous/traditional (Atharvaveda, Śaunaka school)",
+    "tradition": "Hindu (Vedic; Atharvaveda)",
+    "genre": "sūtra (śrautasūtra, solemn-ritual manual)",
+    "date_estimate": "c. 4th-2nd c. BCE (later than the Kauśika-Sūtra)",
+    "summary": "The solemn-sacrifice (śrauta) manual of the Atharvaveda, describing the role of the brahman priest and the Atharvavedic contribution to the great public sacrifices. It supplements the predominantly domestic/magical Kauśika-Sūtra by covering the śrauta ritual side of the Atharvaveda tradition.",
+    "history": "Generally regarded as later than and dependent on the Kauśika-Sūtra; it was edited by R. Garbe and translated into German by W. Caland. It is the principal śrauta text attaching the Atharvaveda to the system of solemn Vedic sacrifice.",
+    "related_works": ["Atharvaveda-Saṃhitā (Śaunaka)", "Kauśika-Sūtra", "Gopatha-Brāhmaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atharvaveda",
+      "https://www.wisdomlib.org/hinduism/essay/kausika-sutra-study/d/doc1497078.html"
+    ]
+  },
+  {
+    "work_id": "GV06vargs_u",
+    "title": "Vārāha-Gṛhyasūtra",
+    "author": "anonymous/traditional (Vārāha/Maitrāyaṇīya school)",
+    "tradition": "Hindu (Vedic; Maitrāyaṇīya branch of the Kṛṣṇa Yajurveda)",
+    "genre": "sūtra (gṛhyasūtra, domestic-ritual manual)",
+    "date_estimate": "c. 5th-3rd c. BCE",
+    "summary": "The domestic-ritual manual of the Vārāha school of the Maitrāyaṇīya branch of the Black Yajurveda, prescribing the household saṃskāras and domestic ceremonies for that tradition. It is closely related to the Mānava and Kāṭhaka gṛhya material of the same Yajurvedic milieu.",
+    "history": "Belongs to the Vārāha recension within the Maitrāyaṇīya tradition and was edited by R. Shamasastry (and studied in relation to the Mānava-Gṛhyasūtra). Authorship is anonymous within the school.",
+    "related_works": ["Maitrāyaṇī-Saṃhitā", "Vārāha-Śrautasūtra", "Mānava-Gṛhyasūtra", "Kāṭhaka-Gṛhyasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kalpa_(Vedanga)",
+      "https://www.wisdomlib.org/hinduism/essay/kausika-sutra-study/d/doc1497078.html"
+    ]
+  },
+  {
+    "work_id": "K01abhisdhu",
+    "title": "Abhisamācārikadharma",
+    "author": "anonymous/traditional (Mahāsāṃghika-Lokottaravāda)",
+    "tradition": "Buddhist (Mahāsāṃghika-Lokottaravāda Vinaya)",
+    "genre": "vinaya text (rules of proper conduct / monastic etiquette)",
+    "date_estimate": "c. 1st-3rd c. CE (text), reflecting earlier traditions",
+    "summary": "A monastic-discipline text (Abhisamācārikā Dharmāḥ, 'rules of proper conduct') of the Mahāsāṃghika-Lokottaravāda school, laying down the everyday etiquette and behavioral norms for Buddhist monks — how to dress, eat, move, use requisites, and conduct daily monastic life. It complements the Prātimokṣa and Skandhaka by covering customary good conduct rather than formal offenses.",
+    "history": "Preserved in a single, very corrupt Sanskrit (Buddhist Hybrid Sanskrit) manuscript; first edited in 1969 and re-edited with major reinterpretation by Seishi Karashima in collaboration with Oskar von Hinüber (2012). Its vocabulary is valuable for Indian cultural history.",
+    "related_works": ["Mahāvastu", "Mahāsāṃghika-Lokottaravāda Vinaya", "Bhikṣuṇī-Vinaya (Mahāsāṃghika)", "Prātimokṣasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://brill.com/view/journals/iij/58/4/article-p376_4.xml?language=en",
+      "https://www.academia.edu/14864234/Die_Abhisam%C4%81c%C4%81rik%C4%81_Dharm%C4%81%E1%B8%A5_Verhaltensregeln_f%C3%BCr_buddhistische_M%C3%B6nche_der_Mah%C4%81s%C4%81%E1%B9%83ghika_Lokottarav%C4%81dins_Bd_I"
+    ]
+  },
+  {
+    "work_id": "K01bhikavau",
+    "title": "Bhikṣuṇī-Karmavācanā",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vinaya; Mahāsāṃghika-Lokottaravāda)",
+    "genre": "vinaya text (karmavācanā: formulary of monastic legal acts)",
+    "date_estimate": "early-mid first millennium CE (formulary, reflecting earlier practice)",
+    "summary": "A formulary (karmavācanā) giving the precise wording of the ecclesiastical legal acts for nuns, above all the procedure for the higher ordination (upasampadā) of bhikṣuṇīs, as practiced in the Mahāsāṃghika(-Lokottaravāda) tradition. It supplies the motions and proclamations a monastic chapter must recite to validly carry out acts of the saṅgha.",
+    "history": "Such karmavācanā texts were edited from Central Asian and Nepalese Sanskrit manuscripts (e.g. work by Ridding, La Vallée Poussin, and Michael Schmidt); the bhikṣuṇī ordination of the first nuns is described as based on a Mahāsāṃghika karmavācanā and prātimokṣa. It is a key source for the history of nuns' ordination.",
+    "related_works": ["Bhikṣuṇī-Vinaya (Mahāsāṃghika)", "Prātimokṣasūtra", "Bhikṣukarmavākya", "Abhisamācārikadharma"],
+    "confidence": "medium",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Bhik%E1%B9%A3u%E1%B9%87%C4%AB",
+      "https://www.buddhismuskunde.uni-hamburg.de/pdf/6-woman-in-buddhism/2014-e-learning/2014bhikkhunilecture10.pdf"
+    ]
+  },
+  {
+    "work_id": "K01bhivin_u",
+    "title": "Bhikṣuṇīvinaya",
+    "author": "anonymous/traditional (Mahāsāṃghika-Lokottaravāda)",
+    "tradition": "Buddhist (Mahāsāṃghika-Lokottaravāda Vinaya)",
+    "genre": "vinaya text (monastic disciplinary code for nuns)",
+    "date_estimate": "composed in the early centuries CE, transmitting older material",
+    "summary": "The disciplinary code for Buddhist nuns (bhikṣuṇīs) of the Mahāsāṃghika-Lokottaravāda school, setting out the Prātimokṣa rules specific to nuns together with the narrative occasions for their promulgation. It regulates ordination, the eight gurudharmas, and the offenses and procedures governing the order of nuns.",
+    "history": "The Sanskrit Mahāsāṃghika Bhikṣuṇī-Vinaya was edited by Gustav Roth (1970) and translated into English by Akira Hirakawa (1982); it is one of the few extensively preserved Indic-language nuns' Vinayas and a major source for early Buddhist monasticism and women's ordination.",
+    "related_works": ["Mahāsāṃghika-Lokottaravāda Vinaya", "Bhikṣuṇī-Karmavācanā", "Abhisamācārikadharma", "Prātimokṣasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://blogs.dickinson.edu/buddhistethics/files/2013/12/Anaalayo-Gurudharma-final-formatted.pdf",
+      "https://en.wikipedia.org/wiki/Mah%C4%81s%C4%81%E1%B9%83ghika"
+    ]
+  },
+  {
+    "work_id": "K01bsa068_u",
+    "title": "Bhikṣukarmavākya",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vinaya)",
+    "genre": "vinaya text (karmavācanā: formulary of monastic legal acts)",
+    "date_estimate": "first millennium CE (formulary, transmitting earlier procedure)",
+    "summary": "A short formulary giving the wording (karmavākya/karmavācanā) for the ecclesiastical legal acts pertaining to monks (bhikṣus), centrally the procedure for the going-forth (pravrajyā) and higher ordination and other formal acts of the monastic community. It provides the fixed verbal formulas a chapter of monks recites to perform valid saṅgha-acts.",
+    "history": "The work_id's title was anonymized in the project metadata; the Sanskrit text (GRETIL/DSBC) is the Bhikṣukarmavākya, edited by A. C. Banerjee in the Indian Historical Quarterly 25 (1949), pp. 19-30 (2nd ed. 1977). It belongs to the karmavācanā genre of ordination/legal-act formularies.",
+    "related_works": ["Prātimokṣasūtra", "Bhikṣuṇī-Karmavācanā", "Mūlasarvāstivāda Vinaya"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/buddh/bsa068_u.htm",
+      "https://www.dsbcproject.org/"
+    ]
+  },
+  {
+    "work_id": "K01bsu011_u",
+    "title": "Bodhisattvaprātimokṣasūtra",
+    "author": "anonymous/traditional (Mahāyāna)",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sūtra (Mahāyāna disciplinary text on bodhisattva ethics)",
+    "date_estimate": "c. 3rd-5th c. CE",
+    "summary": "A Mahāyāna text that adapts the prātimokṣa (rule-recitation) framework to the bodhisattva path, setting out the ethical discipline (śīla), vows, and precepts that govern a bodhisattva's conduct. It is concerned with the moral training (bodhisattva-saṃvara) that advances a practitioner toward buddhahood rather than with the offenses of ordinary monastic life.",
+    "history": "Known from a Sanskrit manuscript discovered in Nepal and edited by Nalinaksa Dutt (1931); it is an important early source for the formulation of bodhisattva precepts and is related to the śīla material of texts such as the Bodhisattvabhūmi.",
+    "related_works": ["Bodhisattvabhūmi", "Prātimokṣasūtra", "Mahāyāna sūtras on śīla"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Bodhisattvapr%C4%81timok%E1%B9%A3as%C5%ABtra",
+      "https://en.wikipedia.org/wiki/Bodhisattva_Precepts"
+    ]
+  },
+  {
+    "work_id": "K01bsu046_u",
+    "title": "Prātimokṣasūtra",
+    "author": "anonymous/traditional (Mūlasarvāstivāda)",
+    "tradition": "Buddhist (Vinaya; Mūlasarvāstivāda)",
+    "genre": "sūtra (prātimokṣa: code of monastic rules for recitation)",
+    "date_estimate": "core rules early (last centuries BCE); this recension first millennium CE",
+    "summary": "The Prātimokṣasūtra is the code of disciplinary rules recited at the fortnightly (uposatha/poṣadha) confession ceremony, enumerating the categories of offenses for fully ordained monks — pārājika, saṃghāvaśeṣa, and the rest — that define monastic discipline. This Sanskrit recension represents the Mūlasarvāstivāda Bhikṣu-Prātimokṣasūtra (preserved partly in Gilgit manuscripts).",
+    "history": "The Mūlasarvāstivāda Bhikṣu-Prātimokṣasūtra survives in Sanskrit from Gilgit and Tibetan manuscripts and was critically edited (e.g. by Banerjee, and 'Das Bhikṣu-Prātimokṣasūtra der Mūlasarvāstivādins'). The Prātimokṣa is the disciplinary heart of every Vinaya school and exists in several recensions.",
+    "related_works": ["Mūlasarvāstivāda Vinaya", "Vinayavibhaṅga", "Bhikṣuṇī-Prātimokṣasūtra", "Vinayasūtra (Guṇaprabha)"],
+    "confidence": "medium",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Vinaya_texts_(Tibetan_Canon)",
+      "https://en.wikipedia.org/wiki/Vinaya"
+    ]
+  },
+  {
+    "work_id": "K01bsu058_u",
+    "title": "Vinayasūtra [1: Pravrajyāvastu]",
+    "author": "Guṇaprabha",
+    "tradition": "Buddhist (Mūlasarvāstivāda Vinaya)",
+    "genre": "sūtra / śāstra (systematic digest of the Vinaya)",
+    "date_estimate": "c. 5th-7th c. CE (Guṇaprabha)",
+    "summary": "The opening section, the Pravrajyāvastu ('chapter on going forth'), of Guṇaprabha's Vinayasūtra — a terse, systematic sūtra-style digest condensing the vast Mūlasarvāstivāda Vinaya. The Pravrajyāvastu treats the rules and procedures for renunciation, novice (śrāmaṇera) and full ordination, and entry into the monastic community.",
+    "history": "Guṇaprabha's Vinayasūtra, in seventeen chapters corresponding to the seventeen vastus/topics of the Skandhaka, became the standard scholastic epitome of the Mūlasarvāstivāda Vinaya and was hugely influential in India and Tibet (with auto-commentary and later commentaries). Its rediscovery and study mark the revival of Vinaya scholarship ('Guṇaprabha revived the Vinayapiṭaka').",
+    "related_works": ["Mūlasarvāstivāda Vinaya", "Vinayavastu (Pravrajyāvastu)", "Vinayasūtravṛtti (Guṇaprabha)", "Śayanāsanavastu"],
+    "confidence": "high",
+    "sources": [
+      "https://www.buddhismuskunde.uni-hamburg.de/en/veranstaltungen/vergangene/2018/2018-hong.html",
+      "https://tibetanbuddhistencyclopedia.com/en/index.php/Gu%E1%B9%87aprabha%E2%80%99s_Vinayas%C5%ABtra_Corpus:_Texts_and_Contexts"
+    ]
+  },
+  {
+    "work_id": "K01n2853u",
+    "title": "Śayanāsanavastu",
+    "author": "anonymous/traditional (Mūlasarvāstivāda)",
+    "tradition": "Buddhist (Mūlasarvāstivāda Vinaya)",
+    "genre": "vinaya text (vastu/skandhaka section on dwellings and furniture)",
+    "date_estimate": "compiled in the early centuries CE (Gilgit manuscript c. 6th-7th c. CE)",
+    "summary": "The Śayanāsanavastu ('chapter on bedding and seating'), the 15th section of the Mūlasarvāstivāda Vinaya, regulating monastic lodgings, dwellings, beds, seats, and furniture — their allotment, use, and the construction and donation of monasteries (vihāras). It includes narrative material on the founding of monastic residences.",
+    "history": "Preserved in the Gilgit Sanskrit manuscripts and edited by Raniero Gnoli (with the Adhikaraṇavastu) as 'The Gilgit Manuscript of the Śayanāsanavastu and the Adhikaraṇavastu' (IsMEO, Serie Orientale Roma, 1978). It is part of the Vinayavastu (Skandhaka) of the Mūlasarvāstivādins and survives also in Tibetan and Chinese.",
+    "related_works": ["Mūlasarvāstivāda Vinaya", "Vinayavastu", "Adhikaraṇavastu", "Saṅghabhedavastu", "Vinayasūtra (Guṇaprabha)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.dsbcproject.org/canon-text/book/725",
+      "https://www.journals.uchicago.edu/doi/abs/10.1086/462849"
+    ]
+  }
+]

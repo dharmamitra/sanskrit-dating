@@ -1,0 +1,299 @@
+[
+  {
+    "work_id": "GSP29antark",
+    "title": "Tarkasaṃgraha",
+    "author": "Annambhaṭṭa",
+    "tradition": "Hindu (Nyāya-Vaiśeṣika)",
+    "genre": "philosophical treatise (prakaraṇa / introductory manual of logic)",
+    "date_estimate": "second half of the 17th c. CE",
+    "summary": "A concise introductory manual of the syncretic Navya-Nyāya/Vaiśeṣika system, expounding the seven categories (padārthas) of Vaiśeṣika ontology together with Nyāya epistemology, including the means of valid knowledge (pramāṇas) and especially the theory of inference (anumāna). It is famous for its brevity and pedagogical clarity, intended to teach beginners the basic principles of logic and reasoning.",
+    "history": "Annambhaṭṭa, a scholar associated with Banaras and originally from Andhra, composed both the root text and his own commentary, the Tarkasaṃgraha-dīpikā. The work became one of the most widely used elementary textbooks of Indian logic, attracting numerous later commentaries and remaining standard in traditional pāṭhaśālā education to this day.",
+    "related_works": ["Tarkasaṃgraha-dīpikā", "Tarkabhāṣā", "Nyāyasūtra", "Vaiśeṣikasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tarka-Sangraha",
+      "https://www.wisdomlib.org/definition/tarkasamgraha"
+    ]
+  },
+  {
+    "work_id": "GP12garup",
+    "title": "Garuḍa-Purāṇa",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu (Vaiṣṇava)",
+    "genre": "purāṇa",
+    "date_estimate": "core c. 850-1000 CE with earlier material and later accretions (composite)",
+    "summary": "A Vaiṣṇava Mahāpurāṇa framed as a dialogue between Viṣṇu and his eagle mount Garuḍa. Its first, encyclopedic part (Pūrva-khaṇḍa / Ācāra-kāṇḍa) covers cosmology, worship, ethics, gemmology, medicine (Āyurveda) and astrology, while its celebrated later portion, the Preta-kāṇḍa, deals with death, the fate of the soul, karmic punishments in the hells, and the rites for the departed (śrāddha).",
+    "history": "One of the eighteen Mahāpurāṇas, the text is composite and grew over centuries, with the eschatological Preta-kāṇḍa becoming its best-known section, traditionally recited at funerals. Its dating is disputed, with scholars placing the layered core in the early medieval period.",
+    "related_works": ["Garuḍa-Purāṇa Preta-kāṇḍa", "Aṣṭādaśa Mahāpurāṇa corpus"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Garuda_Purana",
+      "https://archive.org/details/garudapuranapretakanda"
+    ]
+  },
+  {
+    "work_id": "GK23jonart",
+    "title": "Rājataraṅginī",
+    "author": "Jonarāja (and Pseudo-Jonarāja continuator)",
+    "tradition": "Hindu (secular court historiography)",
+    "genre": "historical chronicle / kāvya (metrical chronicle)",
+    "date_estimate": "mid-15th c. CE (Jonarāja d. 1459 CE)",
+    "summary": "Jonarāja's Dvitīyā Rājataraṅginī is a verse chronicle of the kings of Kashmir that continues Kalhaṇa's original Rājataraṅginī, picking up the narrative around 1148/1150 CE and carrying it down to the reign of his patron Sultan Zayn al-ʿĀbidīn (mid-15th c.). It vividly records the decline of the Hindu dynasties and the rise of Muslim rule and conversion in Kashmir.",
+    "history": "Jonarāja died before completing the chronicle; his pupil Śrīvara continued it as the Tṛtīyā Rājataraṅginī. An interpolated recension known as Pseudo-Jonarāja contains additional verses. The project metadata's date hint (1100-1200) conflates Jonarāja with Kalhaṇa and is incorrect; Jonarāja belongs to the 15th century.",
+    "related_works": ["Rājataraṅginī (Kalhaṇa)", "Tṛtīyā Rājataraṅginī (Śrīvara)", "Jaina-Rājataraṅginī"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jonaraja",
+      "https://en.wikipedia.org/wiki/Rajatarangini"
+    ]
+  },
+  {
+    "work_id": "GK21sokss",
+    "title": "Kathāsaritsāgara",
+    "author": "Somadeva",
+    "tradition": "Hindu (secular literature)",
+    "genre": "kathā (story collection) / narrative kāvya",
+    "date_estimate": "c. 1063-1081 CE",
+    "summary": "An enormous Sanskrit collection of tales, fables, romances and legends ('Ocean of the Streams of Story'), arranged in 124 chapters within a frame narrative centering on Naravāhanadatta. It interweaves popular folklore, vidyādhara fantasy, and didactic and erotic narratives into a vast embedded story-within-story structure.",
+    "history": "Composed by the Kashmiri Brahmin poet Somadeva for the entertainment of Queen Sūryavatī, wife of King Anantadeva of Kashmir. It is a Sanskrit recension of the lost Bṛhatkathā of Guṇāḍhya (originally in Paiśācī), parallel to Kṣemendra's Bṛhatkathāmañjarī, and is a major source for comparative folklore and the migration of tale-motifs.",
+    "related_works": ["Bṛhatkathā (Guṇāḍhya)", "Bṛhatkathāmañjarī (Kṣemendra)", "Pañcatantra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kathasaritsagara"
+    ]
+  },
+  {
+    "work_id": "M00084",
+    "title": "Spandasandoha",
+    "author": "Kṣemarāja",
+    "tradition": "Hindu (Kashmir Shaivism, Spanda/Trika)",
+    "genre": "bhāṣya / commentary (vivṛti on a single verse)",
+    "date_estimate": "early 11th c. CE",
+    "summary": "An extensive exegetical exposition (sandoha) by Kṣemarāja on the first verse of the Spandakārikā, the foundational text of the Spanda branch of non-dual Kashmir Shaivism. It elaborates the doctrine of spanda, the dynamic creative 'vibration' or pulsation of Śiva's consciousness by which the universe is manifested, sustained and reabsorbed.",
+    "history": "The title given ('Kallaṭa attributed author spandakārikā: spandasandoha') signals that this is a commentary on the Spandakārikā, which is variously attributed to Vasugupta or his disciple Kallaṭa. The Spandasandoha itself, however, was written by Kṣemarāja, chief disciple of Abhinavagupta, who also wrote the fuller Spandanirṇaya on the whole text.",
+    "related_works": ["Spandakārikā", "Spandanirṇaya", "Śivasūtra"],
+    "confidence": "medium",
+    "sources": [
+      "https://dokumen.pub/the-mystery-of-vibrationless-vibration-in-kashmir-shaivism-vasuguptas-spanda-karika-amp-kshemarajas-spanda-sandoha-9781546933496-9781548540340-9780996636575-9780996636551-9780996636568.html",
+      "https://www.sanskrit-trikashaivism.com/en/spanda-nirnaya-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/566"
+    ]
+  },
+  {
+    "work_id": "T07vakobhau9",
+    "title": "Abhidharmakośabhāṣya Chapter 9",
+    "author": "Vasubandhu",
+    "tradition": "Buddhist (Sarvāstivāda/Sautrāntika; later author of Yogācāra)",
+    "genre": "bhāṣya (auto-commentary) / philosophical treatise",
+    "date_estimate": "c. 4th-5th c. CE",
+    "summary": "The ninth and final chapter of Vasubandhu's prose auto-commentary on the Abhidharmakośa, known as the Pudgalaviniścaya ('Determination concerning the Person') or Ātmavādapratiṣedha ('Refutation of the Doctrine of Self'). It argues that liberation is impossible without abandoning belief in a self, and systematically refutes self/soul theories: chiefly the pudgala doctrine of the Vātsīputrīya/Sāṃmitīya Buddhists, and also the ātman of the Brahmanical Vaiśeṣikas.",
+    "history": "Unlike the preceding eight chapters, this section is composed entirely in prose without root kārikās and is generally regarded as an independent treatise appended to the Kośa. It is a landmark statement of the Buddhist no-self (anātman) doctrine and a key source for understanding inter-Buddhist controversy on personhood.",
+    "related_works": ["Abhidharmakośa", "Abhidharmakośabhāṣya (chapters 1-8)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhidharmako%C5%9Ba-bh%C4%81sya",
+      "https://encyclopediaofbuddhism.org/wiki/Abhidharmako%C5%9Ba"
+    ]
+  },
+  {
+    "work_id": "GSD36visnu",
+    "title": "Viṣṇusmṛti",
+    "author": "anonymous/traditional (revealed by Viṣṇu in the frame)",
+    "tradition": "Hindu (Vaiṣṇava-inflected Dharmaśāstra)",
+    "genre": "dharmaśāstra (smṛti)",
+    "date_estimate": "c. 7th-9th c. CE (one of the latest Dharmaśāstras; disputed, 700-1000 CE)",
+    "summary": "A treatise on dharma, also styled the Vaiṣṇava Dharmaśāstra, largely a collection of older legal aphorisms set within a Vaiṣṇava devotional frame in which the god Viṣṇu instructs the Earth-goddess. It covers the duties of castes and life-stages, ritual, penance, inheritance, and law, distinguished by its strong bhakti orientation and the requirement of daily pūjā to Viṣṇu.",
+    "history": "Though it preserves an archaic aphoristic core (whence its older designation as the Viṣṇu Dharmasūtra), the surviving text is comparatively late. Markers such as the centrality of written documents, mention of satī, and Kashmiri Vaiṣṇava iconographic correlations point to composition in the early medieval period, making it among the latest works of the Dharmaśāstra tradition.",
+    "related_works": ["Manusmṛti", "Gautama Dharmasūtra", "Yājñavalkyasmṛti"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vishnu_Smriti",
+      "https://www.wisdomlib.org/hinduism/essay/vishnu-smriti-study/d/doc1455620.html"
+    ]
+  },
+  {
+    "work_id": "GSP30tantralu1",
+    "title": "Tantrāloka",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu (Kashmir Shaivism, Trika)",
+    "genre": "tantra / philosophical-ritual treatise (encyclopedic)",
+    "date_estimate": "c. 1000 CE (Abhinavagupta fl. c. 975-1025)",
+    "summary": "Abhinavagupta's monumental encyclopedic synthesis of non-dual Trika Shaivism, treating in great detail the metaphysics, ritual, initiation, mantra, cosmology, yoga and means to liberation (the four upāyas) of the tradition. He presents it as an exposition of the teachings of the Mālinīvijayottara Tantra, organizing diverse Śaiva doctrine through the categories of Pratyabhijñā philosophy.",
+    "history": "The Tantrāloka is the central work of mature Kashmir Shaivism and was extensively commented upon by Jayaratha in his Tantrālokaviveka. It integrates the Spanda, Pratyabhijñā, Kaula and Krama streams into a single critical philosophical-ritual structure and remains the foundational reference for the tradition.",
+    "related_works": ["Mālinīvijayottara Tantra", "Tantrālokaviveka (Jayaratha)", "Īśvarapratyabhijñākārikā", "Tantrasāra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Trika",
+      "https://www.sanskrit-trikashaivism.com/en/tantraloka-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/581"
+    ]
+  },
+  {
+    "work_id": "M00083",
+    "title": "Śivasūtravārttika",
+    "author": "Bhāskara (alternatively Varadarāja/Kṛṣṇadāsa; ambiguous)",
+    "tradition": "Hindu (Kashmir Shaivism, Trika)",
+    "genre": "vārttika (versified explanatory commentary)",
+    "date_estimate": "c. 10th-11th c. CE",
+    "summary": "A versified commentary (vārttika) on the Śivasūtra of Vasugupta, the foundational aphoristic scripture of the non-dual Trika system of Kashmir Shaivism that expounds the nature of bondage and the yogic means to liberation. The title given ('Vasugupta author śivasūtra: śivasūtravārttika') indicates the work is a vārttika on Vasugupta's Śivasūtra.",
+    "history": "Two distinct vārttikas on the Śivasūtra are known: one by Bhāskara (an original work in verse, in Vasugupta's lineage, regarded as somewhat idiosyncratic) and one by Varadarāja (also called Kṛṣṇadāsa). Without a disambiguating author the record most plausibly denotes Bhāskara's Vārttika, edited with the Śivasūtra in the Kashmir Series of Texts and Studies; the identification is therefore not certain.",
+    "related_works": ["Śivasūtra (Vasugupta)", "Śivasūtravimarśinī (Kṣemarāja)", "Spandakārikā"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shiva_Sutras_of_Vasugupta",
+      "https://www.sanskrit-trikashaivism.com/en/shiva-sutra-vimarshini-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/547"
+    ]
+  },
+  {
+    "work_id": "M00078",
+    "title": "Śataratnasaṃgraha",
+    "author": "Umāpatiśivācārya",
+    "tradition": "Hindu (Śaiva Siddhānta)",
+    "genre": "anthology / doctrinal compendium (with auto-commentary)",
+    "date_estimate": "early 14th c. CE",
+    "summary": "A compendium of one hundred Āgamic aphorisms/gems (ratna) collected from the Śaiva Āgamas, with an explanatory commentary, systematizing the doctrines of Śaiva Siddhānta. It presents the tradition's core categories of pati (Lord), paśu (soul) and pāśa (bondage) and the path to liberation.",
+    "history": "Umāpatiśivācārya (Umāpati Civācāriyar) was a 14th-century theologian of the Dīkṣitar family attached to the Naṭarāja temple at Cidambaram and one of the four chief preceptors (santāna-ācāryas) of Tamil Śaiva Siddhānta. He is noted as the author who fixed the term 'Śaiva Siddhānta' in his Śivaprakāśam; the Śataratnasaṃgraha is among his Sanskrit works.",
+    "related_works": ["Śivaprakāśam", "Saṅkalpanirākaraṇa", "Śaiva Āgamas"],
+    "confidence": "high",
+    "sources": [
+      "https://archive.org/details/acc.no.25435sataratnasangraha1973",
+      "https://www.wisdomlib.org/hinduism/book/sivaprakasam-study/d/doc1210696.html"
+    ]
+  },
+  {
+    "work_id": "GV00avs",
+    "title": "Atharvaveda-Saṃhitā",
+    "author": "anonymous/traditional (Vedic ṛṣis; ascribed to Atharvan and Aṅgiras)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn/mantra collection)",
+    "date_estimate": "c. 1200-900 BCE (composite; later than the Ṛgveda)",
+    "summary": "The fourth Veda, a collection of hymns, spells, charms and incantations addressing everyday life: healing of diseases, protection from demons and rivals, love and marriage, prosperity, royal consecration, and also speculative cosmological and philosophical hymns. It is the principal source for early Indian magico-religious practice and 'domestic' ritual.",
+    "history": "Transmitted in two main recensions, the Śaunaka and the Paippalāda. Once marginal to the orthodox three-Veda (trayī) canon, it was later fully accepted as the fourth Veda and is associated with the priestly role of the brahman and with the Āyurvedic and Atharvanic ritual traditions.",
+    "related_works": ["Ṛgveda-Saṃhitā", "Yajurveda-Saṃhitā", "Sāmaveda-Saṃhitā", "Gopatha Brāhmaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atharvaveda"
+    ]
+  },
+  {
+    "work_id": "GSP30utipk",
+    "title": "Īśvarapratyabhijñāvṛtti",
+    "author": "Utpaladeva",
+    "tradition": "Hindu (Kashmir Shaivism, Pratyabhijñā/Trika)",
+    "genre": "vṛtti (auto-commentary) / philosophical treatise",
+    "date_estimate": "c. early-mid 10th c. CE (Utpaladeva fl. c. 925-975)",
+    "summary": "Utpaladeva's own concise commentary (vṛtti) on his Īśvarapratyabhijñākārikā, the foundational verse-text of the Pratyabhijñā ('Recognition') school of non-dual Kashmir Shaivism. The work argues that liberation comes through the recognition that one's own self is identical with Śiva, the absolute self-luminous and free consciousness, developing a sophisticated philosophy of cognition, agency and the Lord.",
+    "history": "Utpaladeva, a disciple of Somānanda, composed the kārikās and the vṛtti together (the vṛtti being indispensable for construing the terse verses), and also a longer ṭīkā/vivṛti now only partly extant. Abhinavagupta later wrote the Vimarśinī and Vivṛtivimarśinī commentaries, making this the theoretical core of the entire Trika.",
+    "related_works": ["Īśvarapratyabhijñākārikā", "Śivadṛṣṭi (Somānanda)", "Īśvarapratyabhijñāvimarśinī (Abhinavagupta)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pratyabhijna",
+      "https://iep.utm.edu/kashmiri/"
+    ]
+  },
+  {
+    "work_id": "GK19ragh",
+    "title": "Raghuvaṃśa",
+    "author": "Kālidāsa",
+    "tradition": "Hindu (secular court poetry)",
+    "genre": "mahākāvya (court epic poem)",
+    "date_estimate": "c. 4th-5th c. CE",
+    "summary": "A mahākāvya in nineteen cantos narrating the dynasty (vaṃśa) of the solar kings of Raghu, from Dilīpa and Raghu through Aja and Daśaratha to Rāma and his less illustrious successors. It is celebrated as a model of the ideal king and dynasty and as a showcase of Kālidāsa's refined poetic style.",
+    "history": "Composed by Kālidāsa, the foremost classical Sanskrit poet, generally placed in the Gupta era. The poem became a standard of kāvya pedagogy and attracted many commentaries, most famously Mallinātha's Sañjīvinī.",
+    "related_works": ["Kumārasaṃbhava", "Meghadūta", "Abhijñānaśākuntala", "Rāmāyaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raghuvamsha"
+    ]
+  },
+  {
+    "work_id": "M00089",
+    "title": "Stavacintāmaṇi",
+    "author": "Bhaṭṭanārāyaṇa",
+    "tradition": "Hindu (Kashmir Shaivism)",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "late 9th-early 10th c. CE",
+    "summary": "A devotional hymn of around 120 verses in praise of Lord Śiva as Supreme Reality, together with his power (śakti) responsible for creation, maintenance and dissolution. At once devotional and philosophical, its sustained theme is that loving devotion (bhakti) to Śiva is everything, expressed within the metaphysical framework of non-dual Kashmir Shaivism.",
+    "history": "Authored by Bhaṭṭanārāyaṇa (not the dramatist of the Veṇīsaṃhāra), the hymn was transmitted with the influential commentary of Kṣemarāja and first published in the Kashmir Series of Texts and Studies (vol. X, 1918). It is a revered text of the Kashmiri Śaiva devotional tradition.",
+    "related_works": ["Śivastotrāvalī (Utpaladeva)", "Spandakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.everand.com/book/506908894/The-Magical-Jewel-of-Devotion-in-Kashmir-Shaivism-Bhatta-Narayana-s-Stava-Cintamani",
+      "https://www.gangesindia.com/products/stavacintamani-of-bhatta-narayana-with-the-commentary-by-ksemaraja"
+    ]
+  },
+  {
+    "work_id": "GP12vipce",
+    "title": "Viṣṇu-Purāṇa",
+    "author": "anonymous/traditional (ascribed to Parāśara, related to Vyāsa)",
+    "tradition": "Hindu (Vaiṣṇava)",
+    "genre": "purāṇa",
+    "date_estimate": "c. 4th-5th c. CE (core; disputed, composite)",
+    "summary": "One of the principal Mahāpurāṇas and a foundational text of Vaiṣṇavism, structured as the teaching of the sage Parāśara to his pupil Maitreya. It treats cosmogony, cosmic geography, the genealogies of gods and kings, the four yugas and manvantaras, the duties of caste and life-stage, and devotion to Viṣṇu, including an account of Kṛṣṇa's life.",
+    "history": "The Viṣṇu Purāṇa is regarded as one of the more systematically organized and earlier-redacted of the Mahāpurāṇas, well representing the classical 'pañcalakṣaṇa' (five-topic) purāṇic scheme. It received a notable commentary by Śrīdhara and was translated early into English by H.H. Wilson (1840).",
+    "related_works": ["Bhāgavata Purāṇa", "Aṣṭādaśa Mahāpurāṇa corpus", "Mahābhārata"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vishnu_Purana"
+    ]
+  },
+  {
+    "work_id": "M00300",
+    "title": "Yogakuṇḍalyupaniṣat (Yoga-kuṇḍalinī Upaniṣad)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga; minor Upaniṣad)",
+    "genre": "Upaniṣad (Yoga Upaniṣad)",
+    "date_estimate": "later medieval (c. 12th-16th c. CE; one of the late Yoga Upaniṣads)",
+    "summary": "A minor Yoga Upaniṣad attached to the Kṛṣṇa Yajurveda, in three chapters totaling about 171 verses. The first chapter expounds the rousing of kuṇḍalinī through prāṇāyāma, bandhas, āsana and related haṭha/lambika techniques; the second treats khecarī-mudrā; and the third turns to the ātman, Brahman, meditation and living liberation (jīvanmukti).",
+    "history": "Listed as number 86 among the 108 Upaniṣads of the Muktikā canon, narrated by Rāma to Hanumān. It belongs to the corpus of late Yoga Upaniṣads that systematize haṭha- and laya-yoga practice within a Vedāntic soteriological frame.",
+    "related_works": ["Yogatattva Upaniṣad", "Haṭhayogapradīpikā", "108 Upaniṣads (Muktikā canon)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yoga-kundalini_Upanishad",
+      "https://www.wisdomlib.org/hinduism/book/thirty-minor-upanishads/d/doc217070.html"
+    ]
+  },
+  {
+    "work_id": "GSP33gaukarpu",
+    "title": "Āgamaśāstra (Gauḍapādakārikā / Gauḍapādīyakārikā / Māṇḍūkyakārikā)",
+    "author": "Gauḍapāda",
+    "tradition": "Hindu (Advaita Vedānta)",
+    "genre": "kārikā (versified philosophical treatise)",
+    "date_estimate": "c. 6th c. CE (commonly placed 5th-7th c.)",
+    "summary": "A foundational verse treatise of Advaita Vedānta in four chapters (prakaraṇas): the first comments on the Māṇḍūkya Upaniṣad and the three states of consciousness plus turīya; the later chapters (Vaitathya, Advaita, Alātaśānti) argue for the unreality of the phenomenal world, the doctrine of non-origination (ajātivāda), and non-duality, drawing on dialectical methods with notable parallels to Buddhist (Madhyamaka/Yogācāra) thought.",
+    "history": "Attributed to Gauḍapāda, traditionally the teacher of Śaṅkara's teacher Govinda. It is the earliest systematic exposition of Advaita and is famous for its engagement with Buddhist philosophy; Śaṅkara (or a follower) wrote a commentary on it. The fourth chapter's relation to the rest is debated by scholars.",
+    "related_works": ["Māṇḍūkya Upaniṣad", "Brahmasūtra", "works of Śaṅkara"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gaudapada"
+    ]
+  },
+  {
+    "work_id": "GS40caraka",
+    "title": "Carakasaṃhitā",
+    "author": "Agniveśa (redacted by Caraka; later supplemented by Dṛḍhabala)",
+    "tradition": "Hindu / secular-scientific (Āyurveda)",
+    "genre": "medical treatise (saṃhitā)",
+    "date_estimate": "core c. 2nd c. BCE-2nd c. CE, with redaction by Caraka and later additions by Dṛḍhabala (c. 4th-5th c. CE); composite",
+    "summary": "One of the two foundational classics of Āyurveda, focused chiefly on internal medicine (kāyacikitsā). It treats physiology, the three doṣas, diagnosis, pathology, therapeutics, pharmacology, diet, ethics of the physician, and medical methodology, organized into eight sections (sthānas) and structured around the teaching lineage of Ātreya-Agniveśa.",
+    "history": "Traditionally the Agniveśatantra composed by Agniveśa (pupil of Ātreya Punarvasu), redacted by Caraka, with the lost portions later restored by Dṛḍhabala. It is a layered text foundational to classical Indian medicine and was commented upon by Cakrapāṇidatta among others; it was transmitted in Arabic and influenced wider medical traditions.",
+    "related_works": ["Suśrutasaṃhitā", "Aṣṭāṅgahṛdaya (Vāgbhaṭa)", "Agniveśatantra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charaka_Samhita"
+    ]
+  },
+  {
+    "work_id": "GV05chup",
+    "title": "Chāndogya-Upaniṣad",
+    "author": "anonymous/traditional (Vedic ṛṣis)",
+    "tradition": "Hindu (Vedic / Vedānta)",
+    "genre": "Upaniṣad (Vedic philosophical text)",
+    "date_estimate": "c. 8th-6th c. BCE (one of the oldest, pre-Buddhist Upaniṣads)",
+    "summary": "One of the oldest and largest principal Upaniṣads, belonging to the Sāmaveda and embedded in the Chāndogya Brāhmaṇa. In eight chapters it moves from the symbolism of the udgītha and the syllable Oṃ to profound metaphysical teachings, including the doctrine of Brahman as the Self, the dialogue of Śvetaketu and the great saying 'tat tvam asi' ('that thou art'), and Sanatkumāra's instruction on bhūman.",
+    "history": "A foundational source for Vedānta, it is among the most frequently cited Upaniṣads in the Brahmasūtra and the commentaries of Śaṅkara, Rāmānuja and others. Its prose dialogues are key documents of early Indian philosophical and religious thought.",
+    "related_works": ["Bṛhadāraṇyaka Upaniṣad", "Sāmaveda", "Brahmasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chandogya_Upanishad"
+    ]
+  }
+]

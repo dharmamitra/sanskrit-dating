@@ -1,0 +1,311 @@
+[
+  {
+    "work_id": "GK22ksdarppu",
+    "title": "Darpadalana",
+    "author": "Kṣemendra",
+    "tradition": "Hindu (Kashmir; Śaiva milieu, ethical/didactic)",
+    "genre": "kavya (didactic/satirical poem)",
+    "date_estimate": "mid-11th c. CE (c. 1050)",
+    "summary": "A satirical and didactic poem in seven chapters (vicāras) totaling some 587 stanzas that attacks human pride (darpa). Each chapter targets a cause of arrogance—noble birth, wealth, learning, beauty, valor, charity, and asceticism—and illustrates through embedded narratives how such pride leads to ruin. The work moralizes against vanity and counsels humility.",
+    "history": "Kṣemendra was an 11th-century Kashmiri polymath, satirist, and disciple of Abhinavagupta who wrote prolifically across genres. The Darpadalana belongs to his moralizing-satirical works (alongside the Kalāvilāsa and Deśopadeśa) and survives in the Kāvyamālā series; it is valued for its sharp social criticism of Kashmiri society.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_poetry/5_subhas/ksdarppu.htm",
+      "https://www.exoticindiaart.com/book/details/ending-of-arrogance-nau130/"
+    ]
+  },
+  {
+    "work_id": "GK19bhattiku",
+    "title": "Rāvaṇavadha [Bhaṭṭikāvya]",
+    "author": "Bhaṭṭi",
+    "tradition": "Hindu (secular court poetry with grammatical/scientific purpose)",
+    "genre": "kavya / śāstra-kāvya (mahākāvya that illustrates grammar)",
+    "date_estimate": "c. 6th-7th c. CE (often c. 600 CE)",
+    "summary": "A mahākāvya retelling the story of Rāma and the slaying of Rāvaṇa, paralleling the Rāmāyaṇa narrative across 22 cantos. Its distinguishing feature is that it systematically illustrates the rules of Pāṇinian grammar, poetic figures (alaṃkāra), and verbal moods, functioning simultaneously as poetry and as a teaching aid for Sanskrit grammar—the earliest exemplar of the 'instructional poem' (śāstra-kāvya).",
+    "history": "The author is traditionally identified as Bhaṭṭi (sometimes equated with Bhartṛhari, though this is doubted); a colophon associates its composition with Valabhī under King Śrīdharasena. Its original title was Rāvaṇavadha, with Bhaṭṭikāvya being the later popular name. It became a standard pedagogical text and inspired later grammar-poems.",
+    "related_works": ["Rāmāyaṇa", "Aṣṭādhyāyī"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ravanavadha_(Bhattikavya)",
+      "https://www.britannica.com/topic/Bhattikavya"
+    ]
+  },
+  {
+    "work_id": "GSP29nyayasiddhanjana",
+    "title": "Nyāyasiddhāñjana",
+    "author": "Veṅkaṭanātha (Vedānta Deśika)",
+    "tradition": "Hindu, Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 13th-14th c. CE (author c. 1269-1370)",
+    "summary": "A systematic Viśiṣṭādvaita treatise (also called Tarkasiddhāñjana) running to six chapters (paricchedas) that expounds the categories (padārtha) of reality—substance and attribute—within Rāmānuja's qualified non-dualism. It treats epistemology and ontology, presenting the world and all souls as constituting the 'body' of God (Brahman/Nārāyaṇa) of which he is the inner self.",
+    "history": "Authored by Vedānta Deśika, the leading systematizer of post-Rāmānuja Śrīvaiṣṇava thought, it functions as a companion/continuation to his Nyāyapariśuddhi and is a foundational text of Viśiṣṭādvaita ontology, engaging and refuting Buddhist, Nyāya, and Advaita positions.",
+    "related_works": ["Nyāyapariśuddhi"],
+    "confidence": "medium",
+    "sources": [
+      "https://iep.utm.edu/venkatan/",
+      "https://www.wisdomlib.org/hinduism/essay/sankalpa-suryodaya-study/d/doc1528035.html"
+    ]
+  },
+  {
+    "work_id": "GE07bhg",
+    "title": "Bhagavadgītā",
+    "author": "anonymous/traditional (ascribed to Vyāsa; part of the Mahābhārata)",
+    "tradition": "Hindu (theistic/Vedāntic; foundational across schools)",
+    "genre": "philosophical-religious poem (didactic episode within the epic)",
+    "date_estimate": "c. 2nd c. BCE - 2nd c. CE",
+    "summary": "A 700-verse dialogue forming part of the Bhīṣmaparvan of the Mahābhārata, in which the warrior Arjuna, despairing on the eve of the Kurukṣetra battle, is counseled by his charioteer Kṛṣṇa, revealed as the supreme deity. It synthesizes paths of disciplined action (karma-yoga), devotion (bhakti), and knowledge (jñāna), and includes Kṛṣṇa's theophany in chapter 11.",
+    "history": "Embedded in the Mahābhārata but widely transmitted as an independent scripture, it became the most commented-upon Hindu text, with classic bhāṣyas by Śaṅkara, Rāmānuja, and Madhva, each reading it through their school. It is central to nearly all later Hindu theology and to the modern reception of Hinduism.",
+    "related_works": ["Mahābhārata", "Mahābhārata: Bhīṣmaparvan"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+    ]
+  },
+  {
+    "work_id": "GE07hv_apppu",
+    "title": "Harivaṃśa (appendix)",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu (Vaiṣṇava; Kṛṣṇa devotion)",
+    "genre": "epic appendix / khila (supplementary additions/interpolations)",
+    "date_estimate": "additions accreting c. 4th-10th c. CE (later than the main Harivaṃśa)",
+    "summary": "The appendix material (appendices/interpolated passages) attached to the Harivaṃśa, the khila or supplement to the Mahābhārata. These passages contain further elaborations of the genealogy of Viṣṇu/Kṛṣṇa, Kṛṣṇa's exploits, and miscellaneous mythological and cosmological additions that grew around the core text.",
+    "history": "In the Poona critical edition the Harivaṃśa is divided into a constituted (con) text and an apparatus of appendices (app) representing later interpolations of varying date and region. The appendix passages document the ongoing expansion of Kṛṣṇa narrative material in the first millennium CE.",
+    "related_works": ["Harivaṃśa", "Mahābhārata"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harivamsa"
+    ]
+  },
+  {
+    "work_id": "GE07hv_conpu",
+    "title": "Harivaṃśa",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu (Vaiṣṇava; Kṛṣṇa devotion)",
+    "genre": "epic supplement (khila to the Mahābhārata) / proto-purāṇic narrative",
+    "date_estimate": "c. 1st-4th c. CE (composite; later than the epic core)",
+    "summary": "The 'Genealogy of Hari (Viṣṇu)', a supplement (khila) to the Mahābhārata in three sections that narrates the creation, the lineage of the Yādavas, and especially the life and deeds of Kṛṣṇa—his birth, childhood, slaying of Kaṃsa, and exploits—followed by a future-oriented Bhaviṣyaparvan. This 'con' designation refers to the constituted critical text proper.",
+    "history": "Regarded as the nineteenth book or appendix of the Mahābhārata, it is a key early source for Kṛṣṇa biography that bridges epic and purāṇa and strongly influenced the Bhāgavata and Viṣṇu Purāṇas. The Poona critical edition (V. S. Sukthankar/P. L. Vaidya tradition) distinguishes its constituted text from later appendices.",
+    "related_works": ["Mahābhārata", "Viṣṇupurāṇa", "Bhāgavatapurāṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harivamsa"
+    ]
+  },
+  {
+    "work_id": "GE07mbh_02_u",
+    "title": "Mahābhārata: Sabhāparvan",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu",
+    "genre": "epic (book/parvan of the Mahābhārata)",
+    "date_estimate": "c. 3rd c. BCE - 4th c. CE (within the composite epic)",
+    "summary": "The second book ('Book of the Assembly Hall') of the Mahābhārata. It describes Yudhiṣṭhira's royal consecration (rājasūya), the construction of the Pāṇḍavas' magnificent assembly hall, the slaying of Jarāsandha and Śiśupāla, and culminates in the fateful dice game in which Yudhiṣṭhira loses the kingdom, his brothers, and Draupadī, who is humiliated in the hall—setting the stage for exile and war.",
+    "history": "Part of the great Sanskrit epic traditionally attributed to Vyāsa but recognized as a composite work redacted over centuries; established in the Poona critical edition. The dice-game episode is among the most dramatically pivotal in the epic.",
+    "related_works": ["Mahābhārata"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sabha_Parva"
+    ]
+  },
+  {
+    "work_id": "GE07mbh_03_u",
+    "title": "Mahābhārata: Āraṇyakaparvan",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu",
+    "genre": "epic (book/parvan of the Mahābhārata)",
+    "date_estimate": "c. 3rd c. BCE - 4th c. CE (within the composite epic)",
+    "summary": "The third and one of the longest books ('Book of the Forest', also Vanaparvan), narrating the twelve years of the Pāṇḍavas' forest exile after losing the dice game. It is rich in embedded didactic and mythological episodes, including the Nala–Damayantī story, the tale of Sāvitrī, the Yakṣa's questions to Yudhiṣṭhira, and numerous tīrtha (pilgrimage) and sermon passages.",
+    "history": "A composite layer of the epic that absorbed many independent legends and moral discourses; attributed to Vyāsa and constituted in the Poona critical edition. Its inset tales (e.g., Nala, Sāvitrī) became famous in their own right.",
+    "related_works": ["Mahābhārata"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vana_Parva"
+    ]
+  },
+  {
+    "work_id": "GE07mbh_04_u",
+    "title": "Mahābhārata: Virāṭaparvan",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu",
+    "genre": "epic (book/parvan of the Mahābhārata)",
+    "date_estimate": "c. 3rd c. BCE - 4th c. CE (within the composite epic)",
+    "summary": "The fourth book ('Book of Virāṭa'), recounting the thirteenth year of exile, which the Pāṇḍavas and Draupadī spend in disguise at the court of King Virāṭa of Matsya. Yudhiṣṭhira poses as a courtier, Bhīma as a cook, Arjuna as the eunuch dance-teacher Bṛhannaḍā, and others in menial roles; the book climaxes with Arjuna's defense of Virāṭa's cattle against the Kauravas, ending their incognito period.",
+    "history": "Part of the composite epic ascribed to Vyāsa and constituted in the Poona critical edition. The disguise narrative provides comic and dramatic relief before the war books.",
+    "related_works": ["Mahābhārata"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Virata_Parva"
+    ]
+  },
+  {
+    "work_id": "GE07mbh_07_u",
+    "title": "Mahābhārata: Droṇaparvan",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu",
+    "genre": "epic (book/parvan of the Mahābhārata)",
+    "date_estimate": "c. 3rd c. BCE - 4th c. CE (within the composite epic)",
+    "summary": "The seventh book ('Book of Droṇa'), describing days eleven through fifteen of the Kurukṣetra war while the preceptor Droṇa serves as Kaurava commander-in-chief. It contains major events such as the death of Abhimanyu in the cakravyūha formation, Arjuna's vow to slay Jayadratha, and ultimately Droṇa's own death after the deceptive announcement of Aśvatthāman's killing.",
+    "history": "A central war-book of the epic, attributed to Vyāsa and constituted in the Poona critical edition. It explores the moral ambiguities (use of deception against Droṇa) that pervade the epic's depiction of dharma in war.",
+    "related_works": ["Mahābhārata"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Drona_Parva"
+    ]
+  },
+  {
+    "work_id": "GE07mbh_08_u",
+    "title": "Mahābhārata: Karṇaparvan",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu",
+    "genre": "epic (book/parvan of the Mahābhārata)",
+    "date_estimate": "c. 3rd c. BCE - 4th c. CE (within the composite epic)",
+    "summary": "The eighth book ('Book of Karṇa') of the Mahābhārata, covering days sixteen and seventeen of the war when Karṇa serves as the third Kaurava commander-in-chief. It narrates the intense fighting, the conflict between Karṇa and Śalya as charioteer, and culminates in the final duel in which Arjuna kills Karṇa as his chariot wheel sinks into the earth. (The batch title field was corrupted to '7'; the work_id _08_ identifies it as the eighth parvan.)",
+    "history": "A pivotal war-book of the composite epic ascribed to Vyāsa; the critical (Poona) edition has 69 chapters versus the vulgate's ~96. The death of Karṇa, achieved through Kṛṣṇa's urging at a vulnerable moment, is a major node in the epic's reflections on dharma.",
+    "related_works": ["Mahābhārata"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Karna_Parva",
+      "https://www.wisdomlib.org/hinduism/book/mahabharata-sanskrit/d/doc1007638.html"
+    ]
+  },
+  {
+    "work_id": "GE07mbh_09_u",
+    "title": "Mahābhārata: Śalyaparvan",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu",
+    "genre": "epic (book/parvan of the Mahābhārata)",
+    "date_estimate": "c. 3rd c. BCE - 4th c. CE (within the composite epic)",
+    "summary": "The ninth book ('Book of Śalya'), describing the eighteenth and final day of battle when Śalya becomes the last Kaurava commander and is slain by Yudhiṣṭhira. The Kaurava army collapses; the book includes Balarāma's pilgrimage along the Sarasvatī and culminates in the climactic mace duel between Bhīma and Duryodhana, in which Bhīma fells Duryodhana with a blow below the belt.",
+    "history": "Part of the composite epic ascribed to Vyāsa and constituted in the Poona critical edition. It effectively ends the great war, leaving Duryodhana mortally wounded and setting up the night-massacre of the Sauptikaparvan.",
+    "related_works": ["Mahābhārata"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shalya_Parva"
+    ]
+  },
+  {
+    "work_id": "GE07mbh_u",
+    "title": "Mahābhārata",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu",
+    "genre": "epic (itihāsa)",
+    "date_estimate": "c. 4th c. BCE - 4th c. CE (composite; core perhaps earlier)",
+    "summary": "The great Sanskrit epic in eighteen books (parvans) of roughly 100,000 verses, narrating the dynastic struggle between the Pāṇḍavas and Kauravas culminating in the Kurukṣetra war. Beyond the central story it is an encyclopedic compendium of myth, genealogy, statecraft, and religious and philosophical teaching (including the Bhagavadgītā and the Śāntiparvan's dharma discourses), declaring 'what is here is found elsewhere; what is not here is nowhere.'",
+    "history": "Traditionally ascribed to Vyāsa but universally recognized as a composite work that grew by accretion over several centuries; its text was reconstructed in the monumental Poona critical edition (Bhandarkar Oriental Research Institute, 1919-1966). It is foundational to Hindu civilization and has generated countless retellings and commentaries.",
+    "related_works": ["Harivaṃśa", "Bhagavadgītā", "Rāmāyaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mahabharata"
+    ]
+  },
+  {
+    "work_id": "GE09ram",
+    "title": "Rāmāyaṇa",
+    "author": "Vālmīki",
+    "tradition": "Hindu (Vaiṣṇava reception; foundational)",
+    "genre": "epic (ādikāvya, the 'first poem')",
+    "date_estimate": "core c. 5th-4th c. BCE - 1st c. CE (composite; books 1 and 7 later)",
+    "summary": "The epic of Rāma in seven books (kāṇḍas) and roughly 24,000 ślokas, recounting the birth of Rāma, his marriage to Sītā, his exile, the abduction of Sītā by the rākṣasa king Rāvaṇa, the alliance with the monkey-host and the war against Laṅkā to recover her, and Rāma's return and reign. It celebrates ideals of dharma, kingship, and conjugal fidelity.",
+    "history": "Attributed to the sage Vālmīki and revered as the ādikāvya (first ornate poem); transmitted in distinct regional recensions and constituted in the Baroda critical edition. The Bālakāṇḍa (book 1) and Uttarakāṇḍa (book 7), which most strongly divinize Rāma as Viṣṇu, are generally regarded as later additions. It shaped a vast tradition of vernacular Rāma-stories across South and Southeast Asia.",
+    "related_works": ["Mahābhārata"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ramayana"
+    ]
+  },
+  {
+    "work_id": "GE09ram_02_u",
+    "title": "Rāmāyaṇa: 2. Ayodhyākāṇḍa",
+    "author": "Vālmīki",
+    "tradition": "Hindu",
+    "genre": "epic (book/kāṇḍa of the Rāmāyaṇa)",
+    "date_estimate": "core c. 5th-4th c. BCE - 1st c. CE (one of the oldest books)",
+    "summary": "The second book ('Book of Ayodhyā') of Vālmīki's Rāmāyaṇa. On the eve of Rāma's consecration as crown prince, Queen Kaikeyī, prompted by her servant Mantharā, invokes two boons from King Daśaratha to install her son Bharata and banish Rāma to the forest for fourteen years. Rāma accepts exile out of filial duty, accompanied by Sītā and Lakṣmaṇa; Daśaratha dies of grief, and the righteous Bharata refuses the throne.",
+    "history": "Part of the older core of the epic ascribed to Vālmīki and constituted in the Baroda critical edition. The Ayodhyākāṇḍa is central to the epic's exploration of dharma, duty, and renunciation.",
+    "related_works": ["Rāmāyaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ayodhya_Kanda"
+    ]
+  },
+  {
+    "work_id": "GE09ram_02su",
+    "title": "Rāmāyaṇa: 2. Ayodhyākāṇḍa",
+    "author": "Vālmīki",
+    "tradition": "Hindu",
+    "genre": "epic (book/kāṇḍa of the Rāmāyaṇa; recension variant)",
+    "date_estimate": "core c. 5th-4th c. BCE - 1st c. CE (one of the oldest books)",
+    "summary": "The Ayodhyākāṇḍa (book 2) of Vālmīki's Rāmāyaṇa, here in a distinct recension/electronic version (the 'su' suffix indicating a different textual witness, likely the Southern recension, from the parallel '02_u' record). Its narrative is the same: Kaikeyī's boons, the banishment of Rāma, Daśaratha's death, and Bharata's refusal of the throne.",
+    "history": "The Rāmāyaṇa survives in divergent regional recensions (notably Northern and Southern); this entry represents a separate recension or digital edition of the same book, useful for comparing textual transmission. Attributed to Vālmīki.",
+    "related_works": ["Rāmāyaṇa", "Rāmāyaṇa: 2. Ayodhyākāṇḍa"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ayodhya_Kanda",
+      "https://en.wikipedia.org/wiki/Ramayana"
+    ]
+  },
+  {
+    "work_id": "GK16dkavy12u",
+    "title": "Kāvyādarśa",
+    "author": "Daṇḍin",
+    "tradition": "Hindu (secular literary theory)",
+    "genre": "alaṃkāraśāstra (treatise on poetics) — partial (chapters 1-2)",
+    "date_estimate": "c. late 7th-8th c. CE",
+    "summary": "A foundational treatise on Sanskrit poetics, the 'Mirror of Poetry', in three pariccheda. This record (suffix '12') covers chapters one and two: chapter 1 classifies kinds of poetry (verse/prose/mixed), the two regional styles (Vaidarbha and Gauḍa) and their ten qualities (guṇa); chapter 2 is a large catalogue and definition of figures of sense (arthālaṃkāra).",
+    "history": "Daṇḍin, who also wrote the prose romance Daśakumāracarita, produced one of the most influential of all poetics manuals; the Kāvyādarśa was translated and adapted across Asia (into Tamil, Sinhala, Tibetan, etc.) and shaped literary theory for centuries.",
+    "related_works": ["Kāvyādarśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kavyadarsha",
+      "https://www.researchgate.net/publication/226634787_The_many_lives_of_Dandin_The_Kavyadarsa_in_Sanskrit_and_Tamil"
+    ]
+  },
+  {
+    "work_id": "GK16dkavy",
+    "title": "Kāvyādarśa",
+    "author": "Daṇḍin",
+    "tradition": "Hindu (secular literary theory)",
+    "genre": "alaṃkāraśāstra (treatise on poetics)",
+    "date_estimate": "c. late 7th-8th c. CE (project hint 500-699 CE; commonly placed late 7th-8th c.)",
+    "summary": "The complete 'Mirror of Poetry' in three chapters (pariccheda): a typology of poetry and the regional styles with their poetic qualities (guṇa), an extensive treatment of figures of sense (arthālaṃkāra), and a final chapter on figures of sound (śabdālaṃkāra), verbal feats (citra), and faults (doṣa). It defines the nature and ornaments of good poetry.",
+    "history": "Composed by Daṇḍin (author also of the Daśakumāracarita), it is among the earliest and most widely diffused works of Sanskrit poetics and exerted enormous trans-regional influence, being adapted into Tamil, Sinhala, Kannada, Tibetan, and other traditions; it anchored the 'ornament' (alaṃkāra) school against which later rasa- and dhvani-theorists reacted.",
+    "related_works": ["Daśakumāracarita"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kavyadarsha"
+    ]
+  },
+  {
+    "work_id": "GK16mamkprku",
+    "title": "Kāvyaprakāśa",
+    "author": "Mammaṭa",
+    "tradition": "Hindu (secular literary theory; dhvani/rasa school)",
+    "genre": "alaṃkāraśāstra (treatise on poetics, with auto-commentary)",
+    "date_estimate": "c. 11th-12th c. CE",
+    "summary": "The 'Light on Poetry', a comprehensive manual of Sanskrit poetics organized in ten ullāsa (chapters), combining concise kārikā verses with prose exposition. It systematizes the definition and purpose of poetry, the powers of words (denotation, indication, suggestion), the doctrine of suggested meaning (dhvani) and aesthetic relish (rasa), poetic faults, qualities, styles, and figures of speech.",
+    "history": "Mammaṭa, an 11th-12th-century Kashmiri theorist, produced the most authoritative synthesis of the dhvani-rasa tradition descending from Ānandavardhana and Abhinavagupta; the Kāvyaprakāśa became the standard textbook of poetics in India, attracting dozens of commentaries and influencing later works such as the Sāhityadarpaṇa. Its final portion is traditionally said to have been completed by another hand (Allaṭa/Alaka).",
+    "related_works": ["Dhvanyāloka", "Sāhityadarpaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kavyaprakasha",
+      "https://www.wisdomlib.org/sanskrit/book/40/kavyaprakasha"
+    ]
+  },
+  {
+    "work_id": "GK19agada",
+    "title": "Āgamaḍambara",
+    "author": "Jayanta Bhaṭṭa",
+    "tradition": "Hindu, Nyāya (Kashmir; engages and satirizes rival sects)",
+    "genre": "drama (nāṭaka / philosophical-satirical 'college' play)",
+    "date_estimate": "c. 900 CE (late 9th c.)",
+    "summary": "A satirical Sanskrit play in four acts ('Much Ado About Religion') that dramatizes religious and philosophical controversy in Kashmir under King Śaṅkaravarman. A young Vedic graduate campaigns against heterodox and antinomian sects; the drama mixes scathing satire of Buddhists, Jains, Kāpālikas, and others with genuine philosophical debate, ending in a royally brokered religious settlement.",
+    "history": "Written by Jayanta Bhaṭṭa (c. 820-900 CE), the great Naiyāyika author of the Nyāyamañjarī and an advisor at Śaṅkaravarman's court, it is a rare example of a philosophically-driven Sanskrit drama and a valuable source for the religious politics of 9th-century Kashmir. It was critically edited and translated by Csaba Dezső for the Clay Sanskrit Library.",
+    "related_works": ["Nyāyamañjarī"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/%C4%80gama%E1%B8%8Dambara",
+      "https://claysanskritlibrary.org/volumes/much-ado-about-religion/"
+    ]
+  }
+]

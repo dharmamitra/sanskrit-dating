@@ -1,0 +1,325 @@
+[
+  {
+    "work_id": "GK16vamkalsu",
+    "title": "Kāvyālaṅkārasūtra",
+    "author": "Vāmana",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics)",
+    "date_estimate": "c. 800 CE (late 8th-early 9th c.)",
+    "summary": "A foundational treatise of Sanskrit poetics (alaṅkāraśāstra), composed in aphoristic sūtras with the author's own vṛtti (gloss). It is the principal exposition of the rīti (style/diction) school, famously declaring 'rītir ātmā kāvyasya' — that rīti, a particular arrangement of words, is the soul of poetry. It treats the purpose of poetry, its body and soul, the guṇas (excellences) and doṣas (faults), and the alaṅkāras (figures of speech).",
+    "history": "Vāmana, a Kashmiri, is traditionally placed around 800 CE and treated as a contemporary of Udbhaṭa; he systematized Daṇḍin's notion of rīti into a full theory. The work is usually transmitted as the Kāvyālaṅkārasūtravṛtti (sūtras plus auto-commentary) and is a canonical reference point in the history of Indian literary theory.",
+    "related_works": ["Kāvyādarśa", "Kāvyālaṅkāra (Bhāmaha)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/alamkaras-mentioned-by-vamana/d/doc1143376.html",
+      "https://www.wisdomlib.org/hinduism/essay/alamkaras-mentioned-by-vamana/d/doc1143377.html"
+    ]
+  },
+  {
+    "work_id": "GK16vamkalvu",
+    "title": "Kāvyālaṅkārasūtra",
+    "author": "Vāmana",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics)",
+    "date_estimate": "c. 800 CE (late 8th-early 9th c.)",
+    "summary": "A second digital witness (likely the vṛtti / auto-commentary version) of Vāmana's treatise on Sanskrit poetics. The work, in sūtra-and-vṛtti form, expounds the rīti school, holding that rīti (a special arrangement of words constituting style) is the soul of poetry, and analyzes guṇas, doṣas, and alaṅkāras as the constituents of kāvya.",
+    "history": "Identical in authorship and content to the companion entry (work_id GK16vamkalsu); the two appear to be separate electronic encodings of Vāmana's Kāvyālaṅkārasūtravṛtti. Vāmana, a Kashmiri scholar of c. 800 CE, gave the rīti school its definitive formulation.",
+    "related_works": ["Kāvyālaṅkārasūtra (Vāmana)", "Kāvyādarśa", "Kāvyālaṅkāra (Bhāmaha)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/alamkaras-mentioned-by-vamana/d/doc1143377.html",
+      "https://archive.org/details/in.ernet.dli.2015.383507"
+    ]
+  },
+  {
+    "work_id": "GK16vcamkc_u",
+    "title": "Camatkāracandrikā",
+    "author": "Viśveśvara Kavicandra",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics)",
+    "date_estimate": "c. 16th-17th c. CE (disputed; not firmly fixed)",
+    "summary": "A late treatise on Sanskrit poetics whose title means 'Moonlight of Aesthetic Wonder (camatkāra).' It deals with the elements of literary aesthetics — rasa, the camatkāra (delight/wonder) experienced by the connoisseur, and the figures of speech (alaṅkāras) — in the tradition of the post-classical alaṅkāra manuals.",
+    "history": "Attributed to Viśveśvara Kavicandra; the work and its author are sparsely documented and should not be confused with the better-known Viśveśvara Paṇḍita (Gāgābhaṭṭa's circle, author of the Alaṅkārakaustubha and Rasacandrikā). The concept of camatkāra it centers on was elaborated by earlier theorists such as Abhinavagupta and Viśvanātha.",
+    "related_works": ["Sāhityadarpaṇa", "Kāvyaprakāśa", "Rasagaṅgādhara"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/camatkara",
+      "https://archive.org/details/in.ernet.dli.2015.513501"
+    ]
+  },
+  {
+    "work_id": "GK16viprud_u",
+    "title": "Pratāparudrīya [Pratāparudrayaśobhūṣaṇa]",
+    "author": "Vidyānātha",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics)",
+    "date_estimate": "early 14th c. CE (c. 1300-1320)",
+    "summary": "A comprehensive manual of Sanskrit poetics and dramaturgy whose full title, Pratāparudrayaśobhūṣaṇa ('Ornament to the Fame of Pratāparudra'), honors its royal patron. Ingeniously, all of its illustrative verses themselves praise King Pratāparudra, so the work doubles as a panegyric. It systematically treats the hero, rasa, dramaturgy, doṣas, guṇas, śabdālaṅkāra and arthālaṅkāra, broadly within the dhvani-influenced tradition.",
+    "history": "Vidyānātha (also called Agastya) was a court poet of Pratāparudra II of the Kākatīya dynasty of Warangal (r. 1295-1323). The text became a standard teaching compendium of alaṅkāraśāstra and attracted commentaries, notably the Ratnāpaṇa of Kumārasvāmin.",
+    "related_works": ["Kāvyaprakāśa", "Sāhityadarpaṇa", "Daśarūpaka"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/vidyanatha",
+      "https://www.prekshaa.in/story-verse-vidyanatha"
+    ]
+  },
+  {
+    "work_id": "GK16visa01cu",
+    "title": "Sāhityadarpaṇa: Pariccheda 1",
+    "author": "Viśvanātha (Kavirāja)",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics), commentary (sūtra + vṛtti)",
+    "date_estimate": "14th c. CE (before c. 1384)",
+    "summary": "The opening chapter of the Sāhityadarpaṇa ('Mirror of Composition'). It introduces the work, defends poetry, and gives Viśvanātha's celebrated definition of kāvya as 'vākyaṃ rasātmakaṃ kāvyam' — a sentence whose soul is rasa — explicitly refuting Mammaṭa's definition. It thus lays the rasa-centered, dhvani-based foundation for the whole treatise.",
+    "history": "The Sāhityadarpaṇa, composed in sūtra-and-vṛtti form, is one of the most comprehensive works of Indian aesthetics and the first to combine in a single treatise both poetics (śravya) and dramaturgy (dṛśya). Its author Viśvanātha Kavirāja served the Eastern Ganga court in Kalinga (Odisha). P. V. Kane's edition (Pariccheda I-X) remains standard.",
+    "related_works": ["Sāhityadarpaṇa", "Kāvyaprakāśa (Mammaṭa)", "Dhvanyāloka"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viswanatha_Kaviraja",
+      "https://www.wisdomlib.org/definition/sahityadarpana"
+    ]
+  },
+  {
+    "work_id": "GK16visa02cu",
+    "title": "Sāhityadarpaṇa: Pariccheda 2",
+    "author": "Viśvanātha (Kavirāja)",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics)",
+    "date_estimate": "14th c. CE (before c. 1384)",
+    "summary": "The second chapter of the Sāhityadarpaṇa, which analyzes the sentence (vākya) and the word (pada), and the three powers of words — denotation (abhidhā), indication (lakṣaṇā), and suggestion (vyañjanā). It also treats the levels of meaning, central to the dhvani theory of suggested sense.",
+    "history": "Part of Viśvanātha Kavirāja's 14th-century Sāhityadarpaṇa; this chapter develops the semantic theory underpinning the work's commitment to dhvani (poetic suggestion) inherited from Ānandavardhana and Mammaṭa.",
+    "related_works": ["Sāhityadarpaṇa", "Dhvanyāloka", "Kāvyaprakāśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viswanatha_Kaviraja",
+      "https://www.wisdomlib.org/definition/sahityadarpana"
+    ]
+  },
+  {
+    "work_id": "GK16visa03cu",
+    "title": "Sāhityadarpaṇa: Pariccheda 3",
+    "author": "Viśvanātha (Kavirāja)",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics)",
+    "date_estimate": "14th c. CE (before c. 1384)",
+    "summary": "The third and one of the most important chapters of the Sāhityadarpaṇa, devoted to rasa (aesthetic emotion). It expounds the doctrine of the eight (or nine) rasas, their underlying sthāyibhāvas, vibhāvas, anubhāvas and vyabhicāribhāvas, and the relishing of rasa as the essence of literature.",
+    "history": "Central chapter of Viśvanātha's 14th-century Sāhityadarpaṇa, articulating the rasa theory that the author makes the very soul of poetry, in the lineage of the Nāṭyaśāstra, Abhinavagupta, and the dhvani school.",
+    "related_works": ["Sāhityadarpaṇa", "Nāṭyaśāstra", "Dhvanyāloka"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viswanatha_Kaviraja",
+      "https://www.wisdomlib.org/definition/sahityadarpana"
+    ]
+  },
+  {
+    "work_id": "GK16visa04cu",
+    "title": "Sāhityadarpaṇa: Pariccheda 4",
+    "author": "Viśvanātha (Kavirāja)",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics)",
+    "date_estimate": "14th c. CE (before c. 1384)",
+    "summary": "The fourth chapter of the Sāhityadarpaṇa, treating the varieties of poetry classified by the predominance of suggestion: dhvani (where the suggested sense dominates), guṇībhūtavyaṅgya (where it is subordinate), and citra (where it is absent). It thereby ranks kāvya according to the dhvani theory of poetic value.",
+    "history": "Part of Viśvanātha Kavirāja's 14th-century Sāhityadarpaṇa, applying the threefold classification of poetry derived from Ānandavardhana's Dhvanyāloka and Mammaṭa's Kāvyaprakāśa.",
+    "related_works": ["Sāhityadarpaṇa", "Dhvanyāloka", "Kāvyaprakāśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viswanatha_Kaviraja",
+      "https://www.wisdomlib.org/definition/sahityadarpana"
+    ]
+  },
+  {
+    "work_id": "GK16visa05cu",
+    "title": "Sāhityadarpaṇa: Pariccheda 5",
+    "author": "Viśvanātha (Kavirāja)",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics)",
+    "date_estimate": "14th c. CE (before c. 1384)",
+    "summary": "The fifth chapter of the Sāhityadarpaṇa, which examines the operation of vyañjanā (suggestion) in detail — how suggested meaning arises from word and sense — and defends the independence of the suggestive function against rival theories that would reduce it to denotation or inference.",
+    "history": "A chapter of Viśvanātha's 14th-century Sāhityadarpaṇa, elaborating the dhvani school's account of poetic suggestion and answering objections from the Mīmāṃsā and Naiyāyika analyses of meaning.",
+    "related_works": ["Sāhityadarpaṇa", "Dhvanyāloka", "Kāvyaprakāśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viswanatha_Kaviraja",
+      "https://www.wisdomlib.org/definition/sahityadarpana"
+    ]
+  },
+  {
+    "work_id": "GK16visa06cu",
+    "title": "Sāhityadarpaṇa: Pariccheda 6",
+    "author": "Viśvanātha (Kavirāja)",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics), dramaturgy",
+    "date_estimate": "14th c. CE (before c. 1384)",
+    "summary": "The sixth and longest chapter of the Sāhityadarpaṇa, devoted to dṛśya kāvya — drama and dramaturgy. It classifies the types of literature into visible (drama) and audible (poetry), then treats the ten major dramatic forms (rūpaka) and minor forms (uparūpaka), plot, hero and heroine types, dramatic junctures (sandhi), and stagecraft.",
+    "history": "This chapter makes the Sāhityadarpaṇa the first major poetics treatise to integrate a full dramaturgy alongside poetics; Viśvanātha draws heavily on the Nāṭyaśāstra and Dhanañjaya's Daśarūpaka.",
+    "related_works": ["Sāhityadarpaṇa", "Nāṭyaśāstra", "Daśarūpaka"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viswanatha_Kaviraja",
+      "https://www.wisdomlib.org/definition/sahityadarpana"
+    ]
+  },
+  {
+    "work_id": "GK16visa07cu",
+    "title": "Sāhityadarpaṇa: Pariccheda 7",
+    "author": "Viśvanātha (Kavirāja)",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics)",
+    "date_estimate": "14th c. CE (before c. 1384)",
+    "summary": "The seventh chapter of the Sāhityadarpaṇa, treating the doṣas — the faults or blemishes of poetry. It catalogs defects of word, sentence, meaning, rasa and so on, explaining how each impairs the aesthetic effect of a literary work.",
+    "history": "Part of Viśvanātha Kavirāja's 14th-century Sāhityadarpaṇa, following the standard alaṅkāraśāstra sequence (after rasa and drama come the faults, then the excellences and figures).",
+    "related_works": ["Sāhityadarpaṇa", "Kāvyaprakāśa", "Kāvyādarśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viswanatha_Kaviraja",
+      "https://www.wisdomlib.org/definition/sahityadarpana"
+    ]
+  },
+  {
+    "work_id": "GK16visa08cu",
+    "title": "Sāhityadarpaṇa: Pariccheda 8",
+    "author": "Viśvanātha (Kavirāja)",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics)",
+    "date_estimate": "14th c. CE (before c. 1384)",
+    "summary": "The eighth chapter of the Sāhityadarpaṇa, devoted to the guṇas — the qualities or excellences of poetry. It expounds the three traditional guṇas (mādhurya/sweetness, ojas/vigor, and prasāda/clarity) and their relation to the rasas and to diction.",
+    "history": "A chapter of Viśvanātha's 14th-century Sāhityadarpaṇa; in line with the dhvani school it ties the guṇas to rasa as properties of the soul of poetry rather than mere ornaments.",
+    "related_works": ["Sāhityadarpaṇa", "Kāvyaprakāśa", "Kāvyālaṅkārasūtra (Vāmana)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viswanatha_Kaviraja",
+      "https://www.wisdomlib.org/definition/sahityadarpana"
+    ]
+  },
+  {
+    "work_id": "GK16visa09cu",
+    "title": "Sāhityadarpaṇa: Pariccheda 9",
+    "author": "Viśvanātha (Kavirāja)",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics)",
+    "date_estimate": "14th c. CE (before c. 1384)",
+    "summary": "The ninth chapter of the Sāhityadarpaṇa, dealing with rīti (style/diction) and related categories such as vṛtti and śabdālaṅkāra (sound figures, e.g. anuprāsa and yamaka). It describes the regional styles of composition and the verbal ornaments that adorn poetic language.",
+    "history": "Part of Viśvanātha Kavirāja's 14th-century Sāhityadarpaṇa, incorporating the rīti doctrine of Vāmana into the broader rasa-dhvani framework of the treatise.",
+    "related_works": ["Sāhityadarpaṇa", "Kāvyālaṅkārasūtra (Vāmana)", "Kāvyaprakāśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viswanatha_Kaviraja",
+      "https://www.wisdomlib.org/definition/sahityadarpana"
+    ]
+  },
+  {
+    "work_id": "GK16visa10cu",
+    "title": "Sāhityadarpaṇa: Pariccheda 10",
+    "author": "Viśvanātha (Kavirāja)",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics)",
+    "date_estimate": "14th c. CE (before c. 1384)",
+    "summary": "The tenth and final chapter of the Sāhityadarpaṇa, the largest treatment of arthālaṅkāra — the figures of speech based on meaning (simile, metaphor, and the many varieties such as upamā, rūpaka, utprekṣā, etc.). It defines and illustrates each figure with verse examples, concluding the work.",
+    "history": "The closing chapter of Viśvanātha's 14th-century Sāhityadarpaṇa; its systematic catalog of sense-figures with examples made it a standard reference for students of Sanskrit poetics.",
+    "related_works": ["Sāhityadarpaṇa", "Kāvyaprakāśa", "Kāvyādarśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viswanatha_Kaviraja",
+      "https://www.wisdomlib.org/definition/sahityadarpana"
+    ]
+  },
+  {
+    "work_id": "GK16visah1",
+    "title": "Sāhityadarpaṇa",
+    "author": "Viśvanātha (Kavirāja)",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics), dramaturgy",
+    "date_estimate": "14th c. CE (before c. 1384)",
+    "summary": "A complete-text witness of the Sāhityadarpaṇa ('Mirror of Composition'), a comprehensive ten-chapter (pariccheda) treatise on Sanskrit poetics and dramaturgy in sūtra-and-vṛtti form. It defines poetry as 'a sentence whose soul is rasa,' and covers semantics, rasa, the classification of poetry, drama, faults, qualities, styles, and the verbal and sense figures of speech.",
+    "history": "Composed by Viśvanātha Kavirāja, a minister at the Eastern Ganga court of Kalinga (Odisha) in the 14th century. It is celebrated as the first treatise to unite poetics and dramaturgy in one work and remains a standard textbook of the rasa-dhvani tradition.",
+    "related_works": ["Kāvyaprakāśa (Mammaṭa)", "Dhvanyāloka", "Nāṭyaśāstra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viswanatha_Kaviraja",
+      "https://www.wisdomlib.org/definition/sahityadarpana"
+    ]
+  },
+  {
+    "work_id": "GK16visah",
+    "title": "Sāhityadarpaṇa (archive bad OCR)",
+    "author": "Viśvanātha (Kavirāja)",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics), dramaturgy",
+    "date_estimate": "14th c. CE (before c. 1384)",
+    "summary": "A digital witness of Viśvanātha Kavirāja's Sāhityadarpaṇa flagged as containing poor OCR. The underlying text is the standard ten-chapter treatise on Sanskrit poetics and dramaturgy that defines poetry as a sentence whose soul is rasa and surveys rasa, dhvani, drama, doṣas, guṇas, rīti and the alaṅkāras.",
+    "history": "Same work and author as the other Sāhityadarpaṇa entries in this batch; this particular file is a lower-quality scanned/OCR version and should be used with caution for textual analysis.",
+    "related_works": ["Sāhityadarpaṇa", "Kāvyaprakāśa", "Dhvanyāloka", "Nāṭyaśāstra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viswanatha_Kaviraja",
+      "https://www.wisdomlib.org/definition/sahityadarpana"
+    ]
+  },
+  {
+    "work_id": "GK16visvsdpu",
+    "title": "Sāhityadarpaṇa",
+    "author": "Viśvanātha (Kavirāja)",
+    "tradition": "Hindu",
+    "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics), dramaturgy",
+    "date_estimate": "14th c. CE (before c. 1384)",
+    "summary": "Another complete-text encoding of the Sāhityadarpaṇa, Viśvanātha Kavirāja's comprehensive treatise on Sanskrit literary theory and dramaturgy in ten paricchedas. It defines kāvya as language whose essence is rasa and systematically expounds suggestion (dhvani), aesthetic emotion, drama, poetic faults and excellences, styles, and figures of speech.",
+    "history": "A standard digital edition of the same 14th-century work as the other Sāhityadarpaṇa entries; the multiple work_ids in this batch represent distinct electronic witnesses of one treatise by Viśvanātha Kavirāja of Kalinga.",
+    "related_works": ["Sāhityadarpaṇa", "Kāvyaprakāśa", "Dhvanyāloka", "Nāṭyaśāstra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viswanatha_Kaviraja",
+      "https://www.wisdomlib.org/definition/sahityadarpana"
+    ]
+  },
+  {
+    "work_id": "GK17chandovu",
+    "title": "Chandoviciti",
+    "author": "attributed to Patañjali (uncertain)",
+    "tradition": "Hindu (Vedic / Vedāṅga)",
+    "genre": "treatise on metrics (chandaśśāstra / Vedāṅga)",
+    "date_estimate": "uncertain; attribution and date disputed",
+    "summary": "A treatise on metre (chandas) titled 'Investigation of Metres,' dealing especially with Vedic metres as part of the Vedāṅga discipline of prosody. It examines the structure and varieties of metres used in sacred and poetic composition.",
+    "history": "The attribution to Patañjali is uncertain (Aufrecht's Catalogus Catalogorum lists it with a question mark), and the title 'Chandoviciti' is shared by several works — one is quoted by Daṇḍin in the Kāvyādarśa, another is ascribed to Janāśraya, and a related text survives among the Turfan fragments. The identity of this specific witness is therefore not firmly established.",
+    "related_works": ["Chandaḥsūtra (Piṅgala)", "Nidānasūtra"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/chandoviciti",
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_chandoviciti.htm",
+      "https://www.exoticindiaart.com/book/details/chandovicitih-of-patanjali-vedanga-nzb638/"
+    ]
+  },
+  {
+    "work_id": "GK17jvrtmspu",
+    "title": "Vṛttamālāstuti",
+    "author": "Jñānaśrīmitra",
+    "tradition": "Buddhist (Mahāyāna; Vikramaśīla pramāṇa tradition)",
+    "genre": "stotra (hymn) combined with treatise on metrics (chandaśśāstra)",
+    "date_estimate": "first half of the 11th c. CE (c. 1000-1040)",
+    "summary": "A 'Garland of Metres' hymn (stuti) composed in about 150 different Sanskrit metres, each verse praising the Bodhisattva Mañjuśrī. With great ingenuity each stanza names its own metre as a natural part of the praise, while also illustrating that metre's syllabic pattern, so the work simultaneously functions as a devotional hymn and a textbook of prosody.",
+    "history": "Composed by Jñānaśrīmitra (fl. c. 975-1040), a Buddhist epistemologist and dvāra-paṇḍita ('gate-scholar') of Vikramaśīla university who was also an accomplished poet. The text was transmitted with a commentary, the Vṛttamālā(stuti)vivṛti, by Śākyarakṣita, and has been critically edited by Michael Hahn.",
+    "related_works": ["Vṛttamālā(stuti)vivṛti (Śākyarakṣita)", "Vṛttaratnākara"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/J%C3%B1anasrimitra",
+      "http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_poetry/1_chandas/jvrtmspu.htm",
+      "https://searchworks-lb.stanford.edu/view/11939920"
+    ]
+  },
+  {
+    "work_id": "GK17kedvratu",
+    "title": "Vṛttaratnākara",
+    "author": "Kedārabhaṭṭa",
+    "tradition": "Hindu (secular/scientific prosody)",
+    "genre": "treatise on metrics (chandaśśāstra)",
+    "date_estimate": "c. 10th-11th c. CE",
+    "summary": "The most popular handbook of classical Sanskrit prosody, the 'Mine of Jewels of Metres.' Arranged in six chapters with about 136 verses, it systematizes the gaṇa (syllabic-foot) notation and defines and illustrates the principal varṇavṛtta (syllabic) and other metres, with each definition typically embodying the metre it describes.",
+    "history": "Composed by Kedārabhaṭṭa (c. 950-1050 CE), it summarizes and makes more accessible the older Chandaḥsūtra of Piṅgala. Its great popularity is shown by the more than sixty commentaries written on it across the centuries, making it the standard teaching text of Sanskrit metrics.",
+    "related_works": ["Chandaḥsūtra (Piṅgala)", "Śrutabodha"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/vrittaratnakara",
+      "https://www.wisdomlib.org/definition/kedarabhatta",
+      "https://ancient-buddhist-texts.net/Textual-Studies/Vrttaratnakara/Vrttaratnakara.pdf"
+    ]
+  }
+]

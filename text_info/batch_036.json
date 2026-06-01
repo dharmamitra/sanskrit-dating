@@ -1,0 +1,323 @@
+[
+  {
+    "work_id": "GV01rv_04_u",
+    "title": "Ṛgveda 4",
+    "author": "anonymous/traditional (hymns attributed to the Gautama/Vāmadeva family of ṛṣis)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1400-1200 BCE (one of the older 'family books')",
+    "summary": "The fourth maṇḍala (book) of the Ṛgveda, comprising 58 hymns (sūktas) addressed mainly to Agni and Indra, with some to the Aśvins, Uṣas, and other deities. As a 'family book' (maṇḍalas 2-7), its hymns are traditionally ascribed to a single lineage of seer-poets, here the family of Vāmadeva Gautama.",
+    "history": "Part of the oldest stratum of the Ṛgveda, the family books were composed orally and transmitted with extraordinary fidelity through the Padapāṭha and Saṃhitāpāṭha recitation systems. The hymns were later arranged and redacted into the canonical collection during the Brahmana period.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mandala_5",
+      "https://en.wikipedia.org/wiki/Rigveda",
+      "https://en.dharmapedia.net/wiki/Mandala_4"
+    ]
+  },
+  {
+    "work_id": "GV01rv_05_u",
+    "title": "Ṛgveda 5",
+    "author": "anonymous/traditional (hymns attributed to the Atri family of ṛṣis)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1400-1200 BCE (family book)",
+    "summary": "The fifth maṇḍala of the Ṛgveda, comprising 87 hymns primarily attributed to the Atri clan of seers, addressed chiefly to Agni and Indra, but also to the Viśvedevas, Maruts, Mitra-Varuṇa, and the Aśvins. As a family book it preserves archaic Indo-Aryan linguistic features.",
+    "history": "One of the six 'family books' forming the core of the Ṛgveda. Absolute dating from philological analysis of its archaic features places composition in the range c. 1400-1200 BCE. Transmitted orally with exact preservation before redaction during the later Vedic period.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mandala_5",
+      "https://en.wikipedia.org/wiki/Rigveda"
+    ]
+  },
+  {
+    "work_id": "GV01rv_06_u",
+    "title": "Ṛgveda 6",
+    "author": "anonymous/traditional (hymns attributed to Bharadvāja and the Bārhaspatya Aṅgirasas)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1500-1200 BCE (family book; argued by some to be the oldest)",
+    "summary": "The sixth maṇḍala of the Ṛgveda, comprising 75 hymns addressed mainly to Agni and Indra. Most of its hymns are attributed to the Bārhaspatya family of the Aṅgirasas, especially to the seer Bharadvāja.",
+    "history": "A family book of the Ṛgveda; some scholars (e.g. Talageri) argue Maṇḍala 6 is the oldest of the family books on internal grounds. Composed and transmitted orally before redaction into the canonical collection.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mandala_6",
+      "https://en.wikipedia.org/wiki/Rigveda"
+    ]
+  },
+  {
+    "work_id": "GV01rv_07_u",
+    "title": "Ṛgveda 7",
+    "author": "anonymous/traditional (hymns attributed to Vasiṣṭha and his family)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1400-1200 BCE (family book)",
+    "summary": "The seventh maṇḍala of the Ṛgveda, comprising 104 hymns. In the Ṛgvedic Anukramaṇī all its hymns are attributed to the seer Vasiṣṭha. It includes celebrated hymns to Indra (including the Battle of the Ten Kings allusions), Agni, Varuṇa, the Maruts, and the famous frog hymn (maṇḍūka sūkta).",
+    "history": "A family book forming part of the oldest core of the Ṛgveda, associated with the Vasiṣṭha lineage who figure prominently in early Vedic history. Composed orally and transmitted with high fidelity before later redaction.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mandala_7",
+      "https://en.wikipedia.org/wiki/Rigveda"
+    ]
+  },
+  {
+    "work_id": "GV01rv_08_u",
+    "title": "Ṛgveda 8",
+    "author": "anonymous/traditional (hymns largely attributed to the Kāṇva and Āṅgirasa families)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1200-1000 BCE (somewhat later than the family books)",
+    "summary": "The eighth maṇḍala of the Ṛgveda, comprising 103 hymns (including the Vālakhilya hymns 49-59), addressed chiefly to Indra and Agni, with many to the Aśvins. A large portion is attributed to the Kāṇva family of seers.",
+    "history": "Together with Maṇḍala 1, Book 8 is generally regarded as a somewhat later stratum than the family books (2-7), though still within the older Ṛgvedic period. It contains the supplementary Vālakhilya hymns. Transmitted orally before canonical redaction.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rigveda",
+      "https://www.newworldencyclopedia.org/entry/Rigveda"
+    ]
+  },
+  {
+    "work_id": "GV01rv_09_u",
+    "title": "Ṛgveda 9",
+    "author": "anonymous/traditional (composite, drawn from multiple seer families)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1500-1000 BCE (composite; hymns of varied age grouped thematically)",
+    "summary": "The ninth maṇḍala of the Ṛgveda, comprising 114 hymns wholly dedicated to Soma Pavamāna ('Soma being purified'), the deified sacred drink and its ritual filtering through the strainer. Unlike the other books, it is organized by deity (Soma) rather than by authoring family.",
+    "history": "Maṇḍala 9 is a thematic compilation gathering Soma hymns extracted from across the seer families, so its constituent hymns span different ages. Its distinctive single-deity arrangement reflects the redactorial organization of the Ṛgveda.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā", "Sāmaveda"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rigveda",
+      "https://www.newworldencyclopedia.org/entry/Rigveda"
+    ]
+  },
+  {
+    "work_id": "GV01rv_10_u",
+    "title": "Ṛgveda 10",
+    "author": "anonymous/traditional (many families; latest stratum)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1200-1000 BCE (latest book of the Ṛgveda)",
+    "summary": "The tenth and final maṇḍala of the Ṛgveda, comprising 191 hymns of diverse content. It contains the most philosophically and cosmologically advanced material, including the Puruṣa Sūkta, the Nāsadīya Sūkta (Creation Hymn), funeral and wedding hymns, and dialogue hymns (e.g. Yama-Yamī, Purūravas-Urvaśī).",
+    "history": "Book 10 is the youngest layer of the Ṛgveda, linguistically and conceptually closer to the Atharvaveda and the later Vedic worldview. It was appended last during the collection's redaction and shows early speculation that prefigures the Upaniṣads.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā", "Atharvaveda"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rigveda",
+      "https://www.newworldencyclopedia.org/entry/Rigveda"
+    ]
+  },
+  {
+    "work_id": "GV01rv_hn01u",
+    "title": "Ṛgveda: Maṇḍala 1",
+    "author": "anonymous/traditional (many seer families; later stratum)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1200-1000 BCE (later than the family books)",
+    "summary": "The first maṇḍala of the Ṛgveda, comprising 191 hymns by numerous seers addressed to a wide range of deities (Agni, Indra, the Aśvins, Uṣas, the Maruts, etc.). Along with Book 10, it is one of the longest and latest of the ten books. (This is the 'hn' edition ID for Maṇḍala 1.)",
+    "history": "Maṇḍala 1 was compiled relatively late, gathering hymns of many families, and serves as an expansive opening to the collection. Like the whole Ṛgveda it was transmitted orally with exact fidelity before redaction.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rigveda",
+      "https://www.newworldencyclopedia.org/entry/Rigveda"
+    ]
+  },
+  {
+    "work_id": "GV01rv_hn02u",
+    "title": "Ṛgveda: Maṇḍala 2",
+    "author": "anonymous/traditional (hymns attributed to Gṛtsamada and his family)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1500-1200 BCE (oldest family books)",
+    "summary": "The second maṇḍala of the Ṛgveda, the shortest book with 43 hymns, addressed mainly to Agni and Indra. Its hymns are traditionally attributed to the seer Gṛtsamada and his lineage. (This is the 'hn' edition ID for Maṇḍala 2.)",
+    "history": "The first of the six 'family books' (2-7) that form the oldest core of the Ṛgveda, arranged by decreasing length of hymns per book. Composed and transmitted orally before canonical redaction.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rigveda",
+      "https://en.dharmapedia.net/wiki/Chronology_of_the_Rig_Veda"
+    ]
+  },
+  {
+    "work_id": "GV01rv_hn03u",
+    "title": "Ṛgveda: Maṇḍala 3",
+    "author": "anonymous/traditional (hymns attributed to Viśvāmitra and his family)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1500-1200 BCE (family book)",
+    "summary": "The third maṇḍala of the Ṛgveda, comprising 62 hymns addressed mainly to Agni and Indra. Its hymns are attributed to the seer Viśvāmitra and his lineage, and it contains the famous Gāyatrī Mantra (RV 3.62.10). (This is the 'hn' edition ID for Maṇḍala 3.)",
+    "history": "A family book forming part of the oldest Ṛgvedic core. Its inclusion of the Gāyatrī, the most sacred Vedic verse, gives it special liturgical prominence. Transmitted orally with high fidelity before redaction.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rigveda",
+      "https://en.dharmapedia.net/wiki/Chronology_of_the_Rig_Veda"
+    ]
+  },
+  {
+    "work_id": "GV01rv_hn04u",
+    "title": "Ṛgveda: Maṇḍala 4",
+    "author": "anonymous/traditional (hymns attributed to Vāmadeva Gautama and family)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1400-1200 BCE (family book)",
+    "summary": "The fourth maṇḍala of the Ṛgveda, comprising 58 hymns addressed mainly to Agni and Indra, with hymns to the Aśvins, Uṣas, and Ṛbhus. Its hymns are attributed to the family of Vāmadeva Gautama. (This is the 'hn' edition ID for Maṇḍala 4, identical content to GV01rv_04_u.)",
+    "history": "One of the six family books forming the oldest core of the Ṛgveda, composed orally and transmitted through the Padapāṭha and Saṃhitāpāṭha systems before redaction.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.dharmapedia.net/wiki/Mandala_4",
+      "https://en.wikipedia.org/wiki/Rigveda"
+    ]
+  },
+  {
+    "work_id": "GV01rv_hn05u",
+    "title": "Ṛgveda: Maṇḍala 5",
+    "author": "anonymous/traditional (hymns attributed to the Atri family of ṛṣis)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1400-1200 BCE (family book)",
+    "summary": "The fifth maṇḍala of the Ṛgveda, comprising 87 hymns primarily attributed to the Atri clan, addressed chiefly to Agni and Indra, with hymns to the Viśvedevas, Maruts, Mitra-Varuṇa, and the Aśvins. (This is the 'hn' edition ID for Maṇḍala 5, identical content to GV01rv_05_u.)",
+    "history": "A family book of the Ṛgveda preserving archaic Indo-Aryan features, dated philologically to c. 1400-1200 BCE. Transmitted orally with exact preservation before redaction.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mandala_5",
+      "https://grokipedia.com/page/mandala_5"
+    ]
+  },
+  {
+    "work_id": "GV01rv_hn06u",
+    "title": "Ṛgveda: Maṇḍala 6",
+    "author": "anonymous/traditional (hymns attributed to Bharadvāja and the Bārhaspatya Aṅgirasas)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1500-1200 BCE (family book; argued by some as oldest)",
+    "summary": "The sixth maṇḍala of the Ṛgveda, comprising 75 hymns addressed mainly to Agni and Indra, most attributed to the Bārhaspatya family of the Aṅgirasas, especially Bharadvāja. (This is the 'hn' edition ID for Maṇḍala 6, identical content to GV01rv_06_u.)",
+    "history": "A family book of the Ṛgveda, regarded by some scholars as the oldest of the family books. Composed and transmitted orally before canonical redaction.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mandala_6",
+      "https://en.wikipedia.org/wiki/Rigveda"
+    ]
+  },
+  {
+    "work_id": "GV01rv_hn07u",
+    "title": "Ṛgveda: Maṇḍala 7",
+    "author": "anonymous/traditional (hymns attributed to Vasiṣṭha and his family)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1400-1200 BCE (family book)",
+    "summary": "The seventh maṇḍala of the Ṛgveda, comprising 104 hymns, all attributed in the Anukramaṇī to the seer Vasiṣṭha. It includes notable hymns to Indra, Varuṇa, Agni, the Maruts, and the celebrated frog hymn. (This is the 'hn' edition ID for Maṇḍala 7, identical content to GV01rv_07_u.)",
+    "history": "A family book forming part of the oldest Ṛgvedic core, associated with the historically prominent Vasiṣṭha lineage. Transmitted orally with high fidelity before redaction.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mandala_7",
+      "https://en.wikipedia.org/wiki/Rigveda"
+    ]
+  },
+  {
+    "work_id": "GV01rv_hn08u",
+    "title": "Ṛgveda: Maṇḍala 8",
+    "author": "anonymous/traditional (hymns largely attributed to the Kāṇva and Āṅgirasa families)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1200-1000 BCE (later than the family books)",
+    "summary": "The eighth maṇḍala of the Ṛgveda, comprising 103 hymns (including the Vālakhilya hymns 49-59), addressed chiefly to Indra, Agni, and the Aśvins, with much of the book attributed to the Kāṇva family. (This is the 'hn' edition ID for Maṇḍala 8.)",
+    "history": "Generally regarded as a somewhat later stratum than the family books, though still within the older Ṛgvedic period. Contains the supplementary Vālakhilya hymns. Transmitted orally before canonical redaction.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rigveda",
+      "https://www.newworldencyclopedia.org/entry/Rigveda"
+    ]
+  },
+  {
+    "work_id": "GV01rv_hn09u",
+    "title": "Ṛgveda: Maṇḍala 9",
+    "author": "anonymous/traditional (composite, drawn from multiple seer families)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1500-1000 BCE (composite; thematically grouped)",
+    "summary": "The ninth maṇḍala of the Ṛgveda, comprising 114 hymns wholly devoted to Soma Pavamāna, the deified ritual drink and its purification through the strainer. It is uniquely organized by deity rather than by authoring family. (This is the 'hn' edition ID for Maṇḍala 9.)",
+    "history": "A thematic compilation gathering Soma hymns from across the seer families, so its constituent hymns vary in age. Many of its verses are closely paralleled in the Sāmaveda for liturgical chant.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā", "Sāmaveda"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rigveda",
+      "https://www.newworldencyclopedia.org/entry/Rigveda"
+    ]
+  },
+  {
+    "work_id": "GV01rv_hn10u",
+    "title": "Ṛgveda: Maṇḍala 10",
+    "author": "anonymous/traditional (many families; latest stratum)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1200-1000 BCE (latest book of the Ṛgveda)",
+    "summary": "The tenth and final maṇḍala of the Ṛgveda, comprising 191 hymns of diverse and often philosophical content, including the Puruṣa Sūkta, the Nāsadīya Sūkta (Creation Hymn), and funeral, wedding, and dialogue hymns. (This is the 'hn' edition ID for Maṇḍala 10.)",
+    "history": "The youngest layer of the Ṛgveda, linguistically and conceptually closer to the Atharvaveda and later Vedic thought, appended last during redaction. Its cosmological speculation prefigures the Upaniṣads.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā", "Atharvaveda"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rigveda",
+      "https://www.newworldencyclopedia.org/entry/Rigveda"
+    ]
+  },
+  {
+    "work_id": "GV01rvkhilau",
+    "title": "The Khila Verses of the Ṛgveda",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā supplement (apocryphal/supplementary hymns)",
+    "date_estimate": "c. 1200-1000 BCE (late additions, still within the Mantra period)",
+    "summary": "The Khilāni are a collection of roughly 98 supplementary or 'apocryphal' hymns of the Ṛgveda, preserved in the Bāṣkala recension but absent from the standard Śākala saṃhitā. They include the celebrated Śrī Sūkta and the Kuntāpa hymns used in the Mahāvrata New Year ceremony of the Kuru kingdom.",
+    "history": "Though later than the main Ṛgvedic corpus, the Khila verses still belong to the Mantra period of Vedic Sanskrit, contemporary with the Atharvaveda, Yajurveda, and Sāmaveda. They were edited critically by I. Scheftelowitz (1906) and represent material appended outside the canonical body of the saṃhitā.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā", "Bāṣkala recension"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Khilani",
+      "https://en.wikipedia.org/wiki/Rigveda"
+    ]
+  },
+  {
+    "work_id": "GV01rvpp_01u",
+    "title": "Ṛgveda-Saṃhitā: Padapāṭha text: Maṇḍala 1",
+    "author": "Śākalya (traditional analyst of the Padapāṭha); hymns anonymous/traditional",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic recitational/analytic text (Padapāṭha word-for-word recension)",
+    "date_estimate": "hymns c. 1200-1000 BCE; Padapāṭha analysis c. 800-600 BCE (later Brahmana period)",
+    "summary": "The Padapāṭha ('word-text') version of Maṇḍala 1 of the Ṛgveda-Saṃhitā: the hymns of the first book presented word by word with sandhi (euphonic combination) dissolved, separating even the members of compound words. It is the analytic recitation form complementing the continuous Saṃhitāpāṭha.",
+    "history": "The Padapāṭha is traditionally ascribed to Śākalya and represents one of the earliest endeavors in Indian linguistic analysis, fixing the exact word-segmentation of the orally transmitted text. Its codification occurred during the later Brahmana period, several centuries after the hymns were composed, and it remains a key tool for grammatical and textual study.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā", "Ṛgveda: Maṇḍala 1"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shakalya",
+      "https://en.wikipedia.org/wiki/Rigveda"
+    ]
+  },
+  {
+    "work_id": "GV01rvpp_02u",
+    "title": "Ṛgveda-Saṃhitā: Padapāṭha text: Maṇḍala 2",
+    "author": "Śākalya (traditional analyst of the Padapāṭha); hymns anonymous/traditional (Gṛtsamada family)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic recitational/analytic text (Padapāṭha word-for-word recension)",
+    "date_estimate": "hymns c. 1500-1200 BCE; Padapāṭha analysis c. 800-600 BCE (later Brahmana period)",
+    "summary": "The Padapāṭha ('word-text') version of Maṇḍala 2 of the Ṛgveda-Saṃhitā: the 43 hymns of the second (Gṛtsamada) family book presented word by word with sandhi dissolved and compounds analyzed into their members. It complements the continuous Saṃhitāpāṭha recitation of the same hymns.",
+    "history": "Like the Padapāṭha of Maṇḍala 1, this is ascribed to Śākalya and embodies early Vedic linguistic analysis, fixing the word-segmentation of the orally transmitted text during the later Brahmana period. It is foundational for grammatical and metrical study of the Ṛgveda.",
+    "related_works": ["Ṛgveda", "Ṛgveda-Saṃhitā", "Ṛgveda: Maṇḍala 2"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shakalya",
+      "https://en.wikipedia.org/wiki/Rigveda"
+    ]
+  }
+]

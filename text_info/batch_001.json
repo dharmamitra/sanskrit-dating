@@ -1,0 +1,326 @@
+[
+  {
+    "work_id": "GK19asvbc_1u",
+    "title": "Buddhacarita",
+    "author": "Aśvaghoṣa",
+    "tradition": "Buddhist",
+    "genre": "mahakavya (court epic)",
+    "date_estimate": "c. early 2nd c. CE (reign of Kaniṣka I)",
+    "summary": "A Sanskrit mahakavya narrating the life of the Buddha (Siddhārtha Gautama) from his birth and youth through the Great Departure, enlightenment, first sermon, and (in later cantos) the spread of the dharma and parinirvāṇa. It frames the Buddha's biography in the ornate diction and structure of classical court poetry, blending doctrine with lyrical description.",
+    "history": "Aśvaghoṣa was a Brahmin convert to Buddhism traditionally associated with the Kushan emperor Kaniṣka; he is regarded as the first named master of Sanskrit kavya and a forerunner of Kālidāsa. Only the first half of the poem (cantos 1-14) survives in Sanskrit; the remainder is preserved through Tibetan and Chinese translations, which have been used to reconstruct the whole.",
+    "related_works": ["Saundarananda", "Śāriputraprakaraṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/A%C5%9Bvagho%E1%B9%A3a",
+      "https://www.britannica.com/biography/Ashvaghosha"
+    ]
+  },
+  {
+    "work_id": "GK19asvsaunu",
+    "title": "Saundarananda",
+    "author": "Aśvaghoṣa",
+    "tradition": "Buddhist",
+    "genre": "mahakavya (court epic)",
+    "date_estimate": "c. early 2nd c. CE",
+    "summary": "A Sanskrit mahakavya in 18 cantos recounting the conversion of Nanda, the Buddha's handsome half-brother, who is torn from his beautiful wife Sundarī and reluctantly led to monastic life. The poem dwells on the conflict between sensual love and renunciation, culminating in Nanda's attainment of arhatship and an extended exposition of Buddhist meditative discipline.",
+    "history": "Composed by the same poet as the Buddhacarita, the Saundarananda survives complete in Sanskrit. Aśvaghoṣa explicitly states he used the sweetness of poetry as a vehicle to convey Buddhist doctrine, making the work a deliberate fusion of kavya artistry and didactic religious aim.",
+    "related_works": ["Buddhacarita"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/A%C5%9Bvagho%E1%B9%A3a",
+      "https://www.britannica.com/biography/Ashvaghosha"
+    ]
+  },
+  {
+    "work_id": "GK19bahcar",
+    "title": "Harṣacarita",
+    "author": "Bāṇa (Bāṇabhaṭṭa)",
+    "tradition": "Hindu",
+    "genre": "akhyayika (ornate prose biography / historical romance)",
+    "date_estimate": "c. 7th c. CE (mid-7th c., reign of Harṣa)",
+    "summary": "An ornate Sanskrit prose biography of the emperor Harṣavardhana of Kanauj, written by his court poet. After autobiographical introductory chapters describing Bāṇa's own lineage and life, it narrates Harṣa's family, his accession following the murder of his brother-in-law and the abduction of his sister, and his early campaigns, told in a richly descriptive gadya-kavya style.",
+    "history": "One of the earliest surviving Sanskrit prose works of a quasi-historical character, the Harṣacarita is prized both as a literary masterpiece of the high prose style and as a near-contemporary source for 7th-century North Indian history. Bāṇa also authored the unfinished prose romance Kādambarī.",
+    "related_works": ["Kādambarī"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harshacharita",
+      "https://www.britannica.com/biography/Bana"
+    ]
+  },
+  {
+    "work_id": "GK19bhadipiu",
+    "title": "Bhāvadīpikā",
+    "author": "Vema Bhūpāla (Vīranārāyaṇa Vema, Reḍḍi dynasty)",
+    "tradition": "Hindu (secular literary/rhetorical)",
+    "genre": "tika (commentary) on kavya",
+    "date_estimate": "early 15th c. CE (c. 1400-1450)",
+    "summary": "A Sanskrit commentary by the Reḍḍi king Vema Bhūpāla. The title is borne by more than one of his works; it is best known as his commentary on the Amaruśataka (the famous anthology of erotic muktaka verses), where he analyzes the love-poetry through the categories of rasa, bhāva and rhetorical figures, and a Bhāvadīpikā is also attached to his recension of the Prakrit Saptaśatīsāra.",
+    "history": "Vema Bhūpāla (also called Vemabhūpāla / Komaṭi Vema) was a 14th-15th century king of the Triliṅga (Andhra) Reḍḍi dynasty and a noted scholar-commentator on Sanskrit erotic poetry; he is credited with both the Bhāvadīpikā and the Śṛṅgāradīpikā on the Amaruśataka. The exact text intended by this record is somewhat ambiguous among his commentaries.",
+    "related_works": ["Amaruśataka", "Śṛṅgāradīpikā", "Saptaśatīsāra"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/vemabhupala",
+      "https://www.worldcat.org/title/saptasatisara-with-bhavadipika-of-vema-bhupala-along-with-the-chappannaya-gahao-text-and-chaya-edited-by-an-upadhye/oclc/81992635",
+      "https://www.academia.edu/3638284/"
+    ]
+  },
+  {
+    "work_id": "GK19bhall_pu",
+    "title": "Bhallaṭaśataka",
+    "author": "Bhallaṭa",
+    "tradition": "Hindu (secular/court poetry)",
+    "genre": "kavya (shataka; anthology of allegorical anyokti verses)",
+    "date_estimate": "c. 9th-10th c. CE (Kashmir)",
+    "summary": "A 'century' (shataka) of independent Sanskrit verses in the anyokti (allegory) mode, in which descriptions of animals, plants and natural objects carry a veiled second meaning, often a bitter social or political commentary on patrons, neglected merit, and the injustices of court life. The verses are admired for their concentrated wit and double-edged suggestion (dhvani).",
+    "history": "Bhallaṭa was a Kashmiri poet usually placed in the reign of Avantivarman (9th c.); several of his stanzas are quoted in later anthologies and poetics treatises, attesting to his high reputation. The collection is celebrated as a peak of the allegorical verse tradition.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/bhallata",
+      "https://www.prekshaa.in/world-allegorical-poetry"
+    ]
+  },
+  {
+    "work_id": "GK19dandkc_u",
+    "title": "Daśakumāracarita",
+    "author": "Daṇḍin",
+    "tradition": "Hindu (secular)",
+    "genre": "katha (prose romance / picaresque narrative)",
+    "date_estimate": "c. late 7th-early 8th c. CE",
+    "summary": "A Sanskrit prose romance, 'The Tale of the Ten Princes,' recounting in a framing structure the adventures of ten young princes separated in childhood as they pursue love, wealth and power. The interwoven episodes are notably realistic and earthy, populated by gamblers, courtesans, thieves, ascetics and merchants, offering a vivid panorama of ordinary life.",
+    "history": "Daṇḍin flourished at the Pallava court of Kāñcī around 670-720 CE and is also credited with the influential poetics treatise Kāvyādarśa. The surviving Daśakumāracarita has lost portions at its beginning and end, which were supplemented by later writers (the Pūrvapīṭhikā and Uttarapīṭhikā).",
+    "related_works": ["Kāvyādarśa", "Avantisundarīkathā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Da%E1%B9%87%E1%B8%8Din",
+      "https://www.britannica.com/biography/Dandin"
+    ]
+  },
+  {
+    "work_id": "GK19jaygit1u",
+    "title": "Gītagovinda-kāvya",
+    "author": "Jayadeva",
+    "tradition": "Hindu (Vaishnava bhakti)",
+    "genre": "lyric poetry / dramatic-musical kavya (dance-song cycle)",
+    "date_estimate": "late 12th c. CE (c. 1170-1200); project hint of 11th c. is too early",
+    "summary": "A lyrical Sanskrit poem in twelve cantos celebrating the love of Krishna and the cowherd-maiden Rādhā, charting their passion, estrangement, jealousy, longing in separation, and ecstatic reunion. Structured around twenty-four ashtapadis (eight-line songs) set to specified ragas and talas, it is meant for singing and dance and is famous for its musical, sensuous diction.",
+    "history": "Jayadeva was a poet at the court of King Lakṣmaṇasena of Bengal; he is reckoned among that court's 'five jewels.' The Gītagovinda became enormously influential across India, was integrated into the ritual at the Jagannātha temple in Puri, and decisively shaped later Radha-Krishna bhakti devotion and regional music and painting.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gita_Govinda",
+      "https://www.britannica.com/topic/Gitagovinda",
+      "https://www.britannica.com/biography/Jayadeva"
+    ]
+  },
+  {
+    "work_id": "GK19kakumspu",
+    "title": "Kumārasambhava",
+    "author": "Kālidāsa",
+    "tradition": "Hindu",
+    "genre": "mahakavya (court epic)",
+    "date_estimate": "c. 4th-5th c. CE (Gupta period)",
+    "summary": "A Sanskrit mahakavya, 'The Birth of Kumāra,' narrating the courtship and union of Śiva and Pārvatī leading toward the birth of the war-god Kumāra (Kārttikeya), who is destined to slay the demon Tāraka. It includes the burning of Kāma (the god of love) by Śiva's third eye, Pārvatī's austerities, and the celebrated descriptions of their wedding and love.",
+    "history": "Attributed to Kālidāsa, the greatest poet of classical Sanskrit, usually dated to the Gupta era. The poem's authentic portion is generally held to be the first eight cantos; later cantos describing the consummation are often considered spurious or doubtful additions.",
+    "related_works": ["Raghuvaṃśa", "Meghadūta", "Abhijñānaśākuntala"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kumarasambhava",
+      "https://www.britannica.com/biography/Kalidasa"
+    ]
+  },
+  {
+    "work_id": "GK19kskala_u",
+    "title": "Kalāvilāsa",
+    "author": "Kṣemendra",
+    "tradition": "Hindu (secular satire)",
+    "genre": "satirical poem (didactic kavya)",
+    "date_estimate": "mid-11th c. CE (Kashmir)",
+    "summary": "A satirical Sanskrit poem in ten cantos (over 500 stanzas) framed as the worldly-wise instruction given by the swindler Muladeva to a naive young man, cataloguing the arts of deceit practiced across society. It exposes the tricks of merchants, physicians, astrologers, courtesans, scribes, ascetics and others, holding a mirror to greed, hypocrisy and folly.",
+    "history": "Kṣemendra was a prolific 11th-century Kashmiri polymath and poet who wrote across genres including poetics (Aucityavicāracarcā) and several biting social satires. The Kalāvilāsa is one of his best-known satirical works, alongside the Narmamālā, Deśopadeśa and Samayamātṛkā.",
+    "related_works": ["Narmamālā", "Deśopadeśa", "Samayamātṛkā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kalavilasa",
+      "https://www.wisdomlib.org/hinduism/essay/satirical-works-of-kshemendra-study"
+    ]
+  },
+  {
+    "work_id": "GK19livasau",
+    "title": "Līlāvatīsāra",
+    "author": "Jinaratna (Jinaratnasūri)",
+    "tradition": "Jain (Śvetāmbara)",
+    "genre": "narrative kavya (religious story-collection)",
+    "date_estimate": "1285 CE",
+    "summary": "A Sanskrit narrative poem in twenty-one cantos (utsāhas) recounting the successive rebirths of a group of souls on their path toward liberation, framed as edifying tales told to Queen Līlāvatī and King Sinha by the monk Samarasena. The interlinked stories illustrate the karmic consequences of attachment and violence and promote the Jain ethic of nonviolence and renunciation.",
+    "history": "Jinaratna completed the work in 1285 CE at Jābāliputra (Jhalor, Rajasthan) as a Sanskrit abridgement of Jineśvarasūri's much larger Prakrit (Jain Māhārāṣṭrī) Nivvāṇalīlāvaīkahā of 1036 CE. By recasting it in Sanskrit, Jinaratna gave the work a far wider pan-Indian learned readership.",
+    "related_works": ["Nivvāṇalīlāvaīkahā (Līlāvaī-kahā) of Jineśvarasūri"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/L%C4%ABl%C4%81vat%C4%ABs%C4%81ra",
+      "https://en.wikipedia.org/wiki/Jinaratna",
+      "https://www.soas.ac.uk/sites/default/files/2022-06/An%20Epitome%20of%20Medieval%20%C5%9Avet%C4%81mbara%20Literary%20Culture%20A%20Review%20and%20Study%20of%20Jinaratnas%C5%ABri%E2%80%99s%20L%C4%ABl%C4%81vat%C4%ABs%C4%81ra%20file48917.pdf"
+    ]
+  },
+  {
+    "work_id": "GK19meghdk_u",
+    "title": "Meghadūta",
+    "author": "Kālidāsa",
+    "tradition": "Hindu",
+    "genre": "khanda-kavya / dutakavya (messenger poem)",
+    "date_estimate": "c. 4th-5th c. CE (Gupta period)",
+    "summary": "A short lyric Sanskrit poem, 'The Cloud Messenger,' in which a yaksha exiled to central India by his lord Kubera persuades a passing monsoon cloud to carry a message of love to his pining wife in the Himalayan city of Alakā. The first half describes the geography and landscape along the cloud's northward route; the second evokes the city, the bereft wife, and the tender message itself.",
+    "history": "Attributed to Kālidāsa, this poem effectively founded the dūtakavya (messenger-poem) genre and inspired countless imitations across later Sanskrit and vernacular literatures. It is celebrated for its meditative tone and its mastery of the mandākrāntā meter.",
+    "related_works": ["Raghuvaṃśa", "Kumārasambhava", "Haṃsadūta", "Uddhava-sandeśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Meghaduta",
+      "https://www.britannica.com/biography/Kalidasa"
+    ]
+  },
+  {
+    "work_id": "GK19nkalivpu",
+    "title": "Kaliviḍambana",
+    "author": "Nīlakaṇṭha Dīkṣita",
+    "tradition": "Hindu (secular satire)",
+    "genre": "satirical poem (shataka-style)",
+    "date_estimate": "early 17th c. CE",
+    "summary": "A satirical Sanskrit poem of about 102 stanzas, 'A Mockery of the Kali Age,' lampooning the corrupt and absurd types of the contemporary world. With sharp wit it skewers venal poets, quack physicians, greedy priests, fraudulent astrologers and mantra-sorcerers, hypocritical ascetics, and sycophantic courtiers as emblems of the degenerate present age.",
+    "history": "Nīlakaṇṭha Dīkṣita was a major poet-scholar and minister active at the Nāyaka court of Madurai in the early 17th century, and grandnephew of the philosopher Appayya Dīkṣita. He wrote across many genres (mahakavya, devotional stotra, Śrīvidyā works); the Kaliviḍambana is among his most popular pieces for its incisive humor.",
+    "related_works": ["Sabhārañjanaśataka", "Śivalīlārṇava"],
+    "confidence": "high",
+    "sources": [
+      "https://tattvamag.org/kalividambana-a-satirical-poem-on-the-kali-yuga",
+      "https://www.wisdomlib.org/definition/kalividambana",
+      "http://www.vidyavrikshah.org/literature/kalividambana/kalint.html"
+    ]
+  },
+  {
+    "work_id": "GK19ragh",
+    "title": "Raghuvaṃśa",
+    "author": "Kālidāsa",
+    "tradition": "Hindu",
+    "genre": "mahakavya (court epic / dynastic poem)",
+    "date_estimate": "c. 4th-5th c. CE (Gupta period)",
+    "summary": "A Sanskrit mahakavya in nineteen cantos chronicling the dynasty of the solar (Raghu) kings of Ayodhyā, from idealized ancestors such as Dilīpa, Raghu and Aja, through the central life of Rāma (a compressed retelling of the Rāmāyaṇa), and on to his lesser successors down to the decadent Agnivarṇa. It presents a model of ideal kingship alongside the eventual decline of the line.",
+    "history": "Attributed to Kālidāsa, the Raghuvaṃśa is regarded as one of the supreme achievements of Sanskrit court epic and a touchstone for later poets and commentators (notably Mallinātha). Its dynastic frame allowed Kālidāsa to range across narrative, description, ethics and statecraft.",
+    "related_works": ["Kumārasambhava", "Meghadūta", "Rāmāyaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raghuvamsa",
+      "https://www.britannica.com/biography/Kalidasa"
+    ]
+  },
+  {
+    "work_id": "GK19ruphamdu",
+    "title": "Haṃsadūta",
+    "author": "Rūpa Gosvāmī",
+    "tradition": "Hindu (Gauḍīya Vaiṣṇava bhakti)",
+    "genre": "dutakavya (messenger poem)",
+    "date_estimate": "16th c. CE (Rūpa Gosvāmī fl. c. 1489-1564)",
+    "summary": "A Sanskrit messenger-poem in which Lalitā, a confidante of Rādhā, dispatches a swan (haṃsa) to carry a message of love and anguished separation to Krishna, who has departed Vraja for distant Mathurā/Dvārakā. The poem is an intense expression of vipralambha-rasa (the mood of love-in-separation) central to Gauḍīya devotional aesthetics.",
+    "history": "Rūpa Gosvāmī was one of the Six Gosvāmins of Vṛndāvana and the foremost theologian-poet of the Gauḍīya Vaiṣṇava movement inspired by Caitanya. Modeled on Kālidāsa's Meghadūta, the Haṃsadūta is one of his two dūta-kāvyas (with the Uddhava-sandeśa) and applies the classical messenger-poem form to Caitanyaite devotion. This is distinct from the earlier Haṃsasandeśa of Vedānta Deśika.",
+    "related_works": ["Meghadūta", "Uddhava-sandeśa", "Bhaktirasāmṛtasindhu"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rupa_Goswami",
+      "http://jagadanandadas.blogspot.com/2021/08/2-rupa-gosvamis-duta-kavyas-dating.html"
+    ]
+  },
+  {
+    "work_id": "GK19utraca",
+    "title": "Uttararāmacarita",
+    "author": "Bhavabhūti",
+    "tradition": "Hindu",
+    "genre": "drama (nataka)",
+    "date_estimate": "c. early 8th c. CE",
+    "summary": "A seven-act Sanskrit play, 'The Later Deeds of Rāma,' dramatizing the events after Rāma's coronation: his painful banishment of the pregnant, innocent Sītā in response to public rumor, her refuge in Vālmīki's hermitage, the upbringing of their twin sons Lava and Kuśa, and an eventual reconciliation. It is celebrated for its sustained pathos (karuṇa-rasa) and profound exploration of grief and conjugal love.",
+    "history": "Bhavabhūti was a learned poet-dramatist patronized at the court of King Yaśovarman of Kanauj in the early 8th century. The Uttararāmacarita is widely regarded as his masterpiece and one of the most emotionally powerful of all Sanskrit dramas.",
+    "related_works": ["Mahāvīracarita", "Mālatīmādhava", "Rāmāyaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Uttararamacharita",
+      "https://www.britannica.com/biography/Bhavabhuti"
+    ]
+  },
+  {
+    "work_id": "GK20anrghu",
+    "title": "Anargharāghava",
+    "author": "Murāri",
+    "tradition": "Hindu",
+    "genre": "drama (nataka)",
+    "date_estimate": "c. late 8th-9th c. CE (disputed; 8th-10th c.)",
+    "summary": "A seven-act Sanskrit play dramatizing the Rāmāyaṇa story, 'Rāghava (Rāma) Beyond Price,' which recasts the epic narrative as a sequence of political intrigues and battles interwoven with lyrical passages on love, war, honor, myth and the cities and regions of ancient India. It is admired (and sometimes criticized) for its dense, learned, highly ornate poetic style.",
+    "history": "The Anargharāghava is the only surviving work of Murāri, a Brahmin court poet who lived between the 8th and 10th centuries, probably in Odisha or neighboring South India. Murāri (styled 'bāla-Vālmīki') was much quoted by later poeticians and remained a model of elevated dramatic poetry.",
+    "related_works": ["Rāmāyaṇa", "Uttararāmacarita", "Anargharāghava-pañcikā (commentary)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anarghar%C4%81ghava",
+      "https://claysanskritlibrary.org/volumes/rama-beyond-price-by-murari/"
+    ]
+  },
+  {
+    "work_id": "GK20ksakunpu",
+    "title": "Abhijñānaśākuntala",
+    "author": "Kālidāsa",
+    "tradition": "Hindu",
+    "genre": "drama (nataka)",
+    "date_estimate": "c. 4th-5th c. CE (Gupta period)",
+    "summary": "A seven-act Sanskrit play, 'The Recognition of Śakuntalā,' telling how King Duṣyanta falls in love with and secretly weds the hermitage-maiden Śakuntalā; a sage's curse makes him forget her until a signet ring restores his memory, after which the lovers and their son Bharata are reunited. Based on an episode of the Mahābhārata, it is the most celebrated of all Sanskrit dramas.",
+    "history": "Attributed to Kālidāsa, the play won early European fame through Sir William Jones's 1789 translation, which strongly influenced Romantic writers such as Goethe. It survives in several recensions (notably the Devanāgarī and Bengālī), which differ in detail.",
+    "related_works": ["Vikramorvaśīya", "Mālavikāgnimitra", "Mahābhārata"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhijnanasakuntalam",
+      "https://www.britannica.com/biography/Kalidasa"
+    ]
+  },
+  {
+    "work_id": "GK20mrtiu",
+    "title": "Mṛcchakaṭikā",
+    "author": "Śūdraka (traditional/legendary attribution)",
+    "tradition": "Hindu (secular)",
+    "genre": "drama (prakaraṇa)",
+    "date_estimate": "disputed; c. 2nd c. BCE-5th c. CE, commonly placed c. 3rd-5th c. CE",
+    "summary": "A ten-act Sanskrit prakaraṇa, 'The Little Clay Cart,' depicting the love between the impoverished but noble Brahmin merchant Cārudatta and the wealthy, virtuous courtesan Vasantasenā, set against a backdrop of political revolution, a villainous royal brother-in-law, a false murder charge, and a courtroom drama. Uniquely, it draws its characters not from myth but from everyday urban life—gamblers, thieves, courtesans and rogues.",
+    "history": "The play is attributed in its prologue to a king named Śūdraka, whose identity and date remain wholly obscure; much of the plot overlaps with the (incomplete) Cārudatta attributed to Bhāsa, suggesting a shared or borrowed source. It is renowned for its realism, humor and social breadth.",
+    "related_works": ["Cārudatta (attributed to Bhāsa)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/M%E1%B9%9Bcchakatika",
+      "https://www.ebsco.com/research-starters/literature-and-writing/little-clay-cart-sudraka"
+    ]
+  },
+  {
+    "work_id": "GK20urmc_u",
+    "title": "Uttararāmacarita",
+    "author": "Bhavabhūti",
+    "tradition": "Hindu",
+    "genre": "drama (nataka)",
+    "date_estimate": "c. early 8th c. CE",
+    "summary": "A seven-act Sanskrit play, 'The Later Deeds of Rāma,' dramatizing events after Rāma's coronation: his anguished exile of the innocent pregnant Sītā under pressure of public scandal, her shelter in Vālmīki's hermitage, the raising of the twins Lava and Kuśa, and the eventual reunion. It is famed for its deep pathos and meditation on grief and married love. (This record duplicates the same work as GK19utraca, with a variant transliteration of the title.)",
+    "history": "Bhavabhūti, patronized at the court of Yaśovarman of Kanauj in the early 8th century, is generally regarded as the foremost Sanskrit dramatist after Kālidāsa, and the Uttararāmacarita is considered his masterpiece for its emotional depth.",
+    "related_works": ["Mahāvīracarita", "Mālatīmādhava", "Rāmāyaṇa", "Uttararāmacarita (GK19utraca)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Uttararamacharita",
+      "https://www.britannica.com/biography/Bhavabhuti"
+    ]
+  },
+  {
+    "work_id": "GK21brkas_pu",
+    "title": "Bṛhatkathāślokasaṃgraha",
+    "author": "Budhasvāmin",
+    "tradition": "Hindu (secular narrative)",
+    "genre": "narrative kavya (verse abridgement / epitome)",
+    "date_estimate": "c. 7th-9th c. CE (uncertain; often placed around 8th-9th c.)",
+    "summary": "A Sanskrit verse abridgement, 'Verse Epitome of the Great Story,' rendering the lost Bṛhatkathā of Guṇāḍhya (originally in the Paiśācī Prakrit) into elegant Sanskrit ślokas. The surviving (incomplete) text recounts the youthful adventures, loves and exploits of Prince Naravāhanadatta, the legendary emperor-to-be of the vidyādharas.",
+    "history": "Budhasvāmin is known only by this work; he is usually thought to belong to Nepal or the northwest and is variously dated from the 7th to the 9th century. His version is regarded as preserving the lost Bṛhatkathā more faithfully than the better-known Kashmiri reworkings, the Bṛhatkathāmañjarī (Kṣemendra) and the Kathāsaritsāgara (Somadeva).",
+    "related_works": ["Bṛhatkathā (Guṇāḍhya, lost)", "Kathāsaritsāgara", "Bṛhatkathāmañjarī"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Budhasvamin",
+      "https://www.britannica.com/topic/Brhatkathaslokasamgraha"
+    ]
+  }
+]

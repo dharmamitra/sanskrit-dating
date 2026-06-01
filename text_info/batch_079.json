@@ -1,0 +1,314 @@
+[
+  {
+    "work_id": "M00255",
+    "title": "Aghoraśivācārya: Mṛgendravṛttidīpikā",
+    "author": "Aghoraśivācārya (Aghoraśiva)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "bhasya (sub-commentary / ṭīkā on an Āgama)",
+    "date_estimate": "c. 12th c. CE (Aghoraśiva fl. 1157 CE, Chidambaram)",
+    "summary": "A sub-commentary (dīpikā, 'lamp') by Aghoraśivācārya on the Vṛtti of Bhaṭṭa Nārāyaṇakaṇṭha on the Mṛgendra(tantra/āgama), an authoritative scripture of the dualist Śaiva Siddhānta. It elucidates the Āgama's vidyāpāda (doctrine) and other sections, treating Śaiva metaphysics, the categories of pati (Śiva), paśu (bound souls) and pāśa (bonds), and ritual.",
+    "history": "Aghoraśiva was a leading 12th-century Śaiva Siddhānta theologian of the Amardaka lineage based at Chidambaram in the Tamil south; he authored a series of influential commentaries (including the aṣṭaprakaraṇa exegesis) that reshaped Saiddhāntika doctrine, notably reclassifying the higher tattvas as effects within the category of bonds. The Mṛgendravṛttidīpikā glosses the earlier Kashmirian Vṛtti of Nārāyaṇakaṇṭha and became a standard study aid for the Mṛgendra in the southern Siddhānta school.",
+    "related_works": ["Mṛgendrāgama / Mṛgendratantra", "Mṛgendravṛtti (Bhaṭṭa Nārāyaṇakaṇṭha)", "Kāmikāgama"],
+    "confidence": "high",
+    "sources": [
+      "https://www.himalayanacademy.com/saivite-scriptures/mrugendra-agama-vidya-pada/",
+      "https://en.wikipedia.org/wiki/Shaiva_Siddhanta",
+      "https://manasataramgini.wordpress.com/2010/09/03/a-brief-hagiography-of-aghorashiva-deshika/"
+    ]
+  },
+  {
+    "work_id": "M00256",
+    "title": "Prodgītāgama (Prodgīta)",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "agama (Śaiva scripture)",
+    "date_estimate": "1st millennium CE (undated; among the canonical 28 Śaiva Āgamas, formative c. 6th-10th c. CE)",
+    "summary": "Prodgīta (also Prodgītam/Udgīta) is counted as one of the twenty-eight Mūlāgamas of the Śaiva Siddhānta canon, traditionally revealed by the Īśāna face of Śiva and taught to the sage Agastya. Like other Śaiva Āgamas it would cover the four pādas (jñāna/doctrine, yoga, kriyā/ritual, caryā/conduct) governing Śiva worship, temple ritual, and liberation, though it survives only fragmentarily.",
+    "history": "It belongs to the standard enumeration of the 28 Siddhānta Āgamas (typically grouped as 10 Śivabheda and 18 Rudrabheda); the Prodgīta is generally listed among the Rudrabheda group revealed in the final cluster with Lalita, Siddha, Santāna, Kiraṇa, Vātula and others. Most of these Āgamas are lost or partially preserved in southern manuscript collections and ritual practice.",
+    "related_works": ["the 28 Śaiva Siddhānta Āgamas", "Kāmikāgama", "Kāraṇāgama", "Vātulāgama"],
+    "confidence": "medium",
+    "sources": [
+      "https://shaivam.org/agama/",
+      "https://www.universal-path.org/Agamas",
+      "https://www.saivism.net/articles/agamas.asp"
+    ]
+  },
+  {
+    "work_id": "M00257",
+    "title": "Siddhalakṣmīpūjāpaddhati",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śākta tantric (Śrīkula / Sarvāmnāya; strongly attested in Newar/Nepalese tradition)",
+    "genre": "paddhati (ritual manual)",
+    "date_estimate": "uncertain; medieval to early-modern (c. 14th-18th c. CE, in the Nepalese Malla-period Siddhilakṣmī cult)",
+    "summary": "A paddhati (procedural ritual manual) prescribing the pūjā (worship), mantras, nyāsa and visualization for the tantric goddess Siddhalakṣmī (Siddhilakṣmī). Siddhilakṣmī is an esoteric fierce form of the Goddess connected with the Krama and Kālī traditions and worshipped especially in the Newar Śrīkula of the Kathmandu Valley, where she received the highly secret ritual associated with Malla royal patronage.",
+    "history": "Siddhilakṣmī (Purṇacaṇḍī/Pratyaṅgirā-related) was a primary tantric deity of the Malla kings of Nepal (e.g. the Nyatapola temple, Bhaktapur), and her cult preserves esoteric Sarvāmnāya material linking her to Kubjikā and Kālī. Such pūjāpaddhatis circulated as practical manuals within initiatory lineages; the specific manuscript here is not individually well documented.",
+    "related_works": ["Sarvāmnāya tantric corpus", "Kālī-/Krama-tradition tantras"],
+    "confidence": "low",
+    "sources": [
+      "https://www.vimarshafoundation.org/post/siddhilak%E1%B9%A3m%C4%AB-and-nepalese-sarv%C4%81mn%C4%81ya-tantra",
+      "https://www.hindu-blog.com/2023/02/goddess-siddhi-lakshmi-in-tantra.html",
+      "https://siddhapedia.com/siddhi-lakshmi"
+    ]
+  },
+  {
+    "work_id": "M00258",
+    "title": "Timirodghāṭa(tantra)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva (tantric)",
+    "genre": "tantra (Śaiva scripture)",
+    "date_estimate": "before c. 1000-1050 CE (quoted by Kṣemarāja, so pre-11th c.)",
+    "summary": "A Śaiva tantric treatise in verse whose title means 'the dispelling of darkness' (timira 'darkness' + udghāṭa 'removal'). It is known mainly through quotation rather than as a complete surviving text; it appears to belong to the early Śaiva tantric/Bhairava-stream scriptures.",
+    "history": "The work is cited by the great Kashmirian exegete Kṣemarāja (early 11th c.), which establishes it as an earlier Śaiva tantra, and it is registered in Aufrecht's Catalogus Catalogorum. No author, full text, or precise date is securely established.",
+    "related_works": ["early Śaiva / Bhairava tantras quoted by Kṣemarāja"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/timirodghata"
+    ]
+  },
+  {
+    "work_id": "M00259",
+    "title": "Pauṣkarasaṃhitā",
+    "author": "anonymous/traditional (revealed Pāñcarātra scripture)",
+    "tradition": "Hindu, Vaiṣṇava (Pāñcarātra)",
+    "genre": "agama / saṃhitā (Vaiṣṇava scripture)",
+    "date_estimate": "disputed; early strata possibly c. 3rd-5th c. CE, with later redaction",
+    "summary": "One of the most revered Pāñcarātra Āgama saṃhitās, counted with the Sāttvata and Jayākhya as the 'Three Gems' (ratnatraya) of the canon. Its roughly 6,500 verses focus heavily on maṇḍala worship, temple architecture, image consecration (pratiṣṭhā) and iconography, framing detailed maṇḍala construction as the core of initiatory worship leading to liberation.",
+    "history": "Traditionally one of the oldest and most authoritative Pāñcarātra texts, it is foundational for Vaiṣṇava temple ritual and theology; its dating is debated, with the earliest layers sometimes placed in the mid-first millennium CE. It has been edited and translated (e.g. the South Indian recension) and remains central to Śrīvaiṣṇava and Pāñcarātra ritual scholarship.",
+    "related_works": ["Pāñcarātra Āgama corpus", "Sāttvatasaṃhitā", "Jayākhyasaṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/paushkarasamhita",
+      "https://en.wikipedia.org/wiki/Pancharatra",
+      "https://vedas.how/blog/agamas/vaishnava-agamas/pancharatra-agamas/paushkara-samhita/"
+    ]
+  },
+  {
+    "work_id": "M00260",
+    "title": "Jagaddhara Bhaṭṭa: Stutikusumāñjali",
+    "author": "Jagaddhara Bhaṭṭa",
+    "tradition": "Hindu, Śaiva (Kashmir)",
+    "genre": "stotra (devotional hymn poetry / kavya)",
+    "date_estimate": "14th c. CE",
+    "summary": "The 'Flower-offering of Praise', a celebrated collection of Śaiva devotional hymns comprising about 1,439 verses arranged in 38-39 stotras dedicated chiefly to Śiva. Highly wrought as literary poetry, it deploys alliteration, complex puns (śleṣa) and varied metres, blending praise, petition and benediction so that prayer itself becomes ornate kāvya.",
+    "history": "Jagaddhara Bhaṭṭa was a 14th-century Kashmiri poet; his Stutikusumāñjali is a key monument of the Kashmiri Sanskrit stotra tradition and has attracted commentaries and modern scholarly study (e.g. Hamsa Stainton's 'Poetry as Prayer in the Sanskrit Hymns of Kashmir'). It exemplifies the fusion of high court poetry with bhakti in late-medieval Kashmir.",
+    "related_works": ["Kashmiri Śaiva stotra tradition (e.g. Utpaladeva's Śivastotrāvalī)"],
+    "confidence": "high",
+    "sources": [
+      "https://link.springer.com/article/10.1007/s11407-016-9197-2",
+      "https://readingreligion.org/9780190889814/poetry-as-prayer-in-the-sanskrit-hymns-of-kashmir/"
+    ]
+  },
+  {
+    "work_id": "M00261",
+    "title": "Ṣaṭcakranirṇaya (Ṣaṭcakranirūpaṇa)",
+    "author": "Pūrṇānanda (if identified with the Ṣaṭcakranirūpaṇa)",
+    "tradition": "Hindu, Śākta tantric / haṭha-yoga",
+    "genre": "tantric yoga treatise",
+    "date_estimate": "c. 1577 CE (if = Pūrṇānanda's Ṣaṭcakranirūpaṇa, 16th c. Bengal)",
+    "summary": "A treatise describing the six bodily cakras (mūlādhāra, svādhiṣṭhāna, maṇipūra, anāhata, viśuddha, ājñā) and the rise of kuṇḍalinī through the suṣumnā to union with Śiva. The title 'determination/description of the six cakras' indicates the classic subtle-body physiology of tantric yoga; it is very likely the same work as, or closely modelled on, Pūrṇānanda's famous Ṣaṭcakranirūpaṇa.",
+    "history": "The standard Ṣaṭcakranirūpaṇa forms the sixth chapter of Pūrṇānanda's Śrītattvacintāmaṇi (Bengal, 1577 CE) and became internationally known through Arthur Avalon's (Sir John Woodroffe) translation 'The Serpent Power' (1919). The slight variant in the title here ('nirṇaya' rather than 'nirūpaṇa') leaves some uncertainty about whether a distinct work is meant.",
+    "related_works": ["Ṣaṭcakranirūpaṇa", "Śrītattvacintāmaṇi (Pūrṇānanda)", "Pādukāpañcaka"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/book/shat-cakra-nirupana-english",
+      "https://www.exoticindiaart.com/book/details/serpent-power-shat-chakra-nirupana-and-paduka-panchaka-nae252/"
+    ]
+  },
+  {
+    "work_id": "M00262",
+    "title": "Brahmasandhāna",
+    "author": "",
+    "tradition": "Hindu (likely Śaiva tantric / ritual context)",
+    "genre": "ritual / yogic treatise (uncertain)",
+    "date_estimate": "unknown",
+    "summary": "The title means 'joining/uniting with brahman' (brahma + sandhāna, 'fixing, conjunction, contemplation'). It most plausibly designates a short ritual or contemplative text concerning the uniting of the worshipper or installed object with brahman/the supreme reality (a sandhāna being a recognized ritual act, e.g. of joining the soul with the divine in tantric and āgamic worship). The specific work could not be securely identified.",
+    "history": "No author, date, or definite textual identity could be confirmed from available sources; brahmasandhāna also occurs as a ritual term within larger paddhati/āgama literature, so this entry may name a section or minor manual rather than an independent classic.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": []
+  },
+  {
+    "work_id": "M00263",
+    "title": "Candrajñānāgama (Candrajñāna)",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "agama (Śaiva scripture)",
+    "date_estimate": "1st millennium CE (undated; canonical Śaiva Siddhānta Āgama, formative c. 7th-10th c. CE)",
+    "summary": "A Siddhānta Śaiva Āgama (also classed as an Upāgama) styled a pratiṣṭhātantra, i.e. a scripture dealing primarily with the installation (pratiṣṭhā) and worship of liṅgas and other representations of Śaiva deities, temple ritual, and related kriyā. Its name ('moon-knowledge') links it to the lunar/calming aspect of Śiva worship.",
+    "history": "Candrajñāna is enumerated among the 28 Śaiva Āgamas, traditionally proclaimed by the Tatpuruṣa face of Śiva and transmitted through Ananta/Bṛhaspati, and is said to have many Upāgamas. It survives chiefly in southern manuscript and ritual traditions and is cited in studies of Śaiva temple installation ritual.",
+    "related_works": ["the 28 Śaiva Siddhānta Āgamas", "Kāmikāgama", "Kāraṇāgama"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/candrajnanagama",
+      "https://vedas.how/blog/agamas/shaiva-tantras/shaiva-agamas/shaiva-agamas/"
+    ]
+  },
+  {
+    "work_id": "M00264",
+    "title": "Haṃsasāra",
+    "author": "",
+    "tradition": "Hindu (yoga / tantric, uncertain)",
+    "genre": "treatise (uncertain)",
+    "date_estimate": "unknown",
+    "summary": "The title means 'the essence (sāra) of the haṃsa', the haṃsa ('so'ham') being the spontaneous breath-mantra central to yoga and tantra, where Ha = exhalation and Sa = inhalation and the haṃsa is identified with the inner self/Śiva. The work is therefore most likely a short tract on haṃsa-mantra yoga or prāṇa contemplation, but its specific identity, author and date could not be confirmed.",
+    "history": "Haṃsa speculation is widespread in tantric (e.g. Niruttara-type) and yogic literature and in Haṃsa/Haṃsopaniṣad material; a discrete text titled Haṃsasāra is not well documented in accessible sources, leaving its identification uncertain.",
+    "related_works": ["haṃsa-mantra / haṃsa-yoga literature"],
+    "confidence": "low",
+    "sources": [
+      "https://shivashakti.com/niruttar"
+    ]
+  },
+  {
+    "work_id": "M00265",
+    "title": "Jñānasāra",
+    "author": "uncertain (multiple works share this title; e.g. Yaśovijaya for the Jain Jñānasāra)",
+    "tradition": "uncertain — title used in Jain, Vedānta, and Śaiva/tantric traditions",
+    "genre": "philosophical/devotional treatise",
+    "date_estimate": "unknown (varies by work; Yaśovijaya's Jain Jñānasāra is 17th c. CE)",
+    "summary": "'The essence of knowledge.' Several distinct Sanskrit works bear this title. The best-known is the Jain Jñānasāra by Upādhyāya Yaśovijaya (1624-1688), a compact verse treatise on spiritual knowledge by a master of Navya-Nyāya; there are also Vedāntic/Advaita texts of the same name distilling Upaniṣadic teaching. Without further markers the intended work cannot be fixed.",
+    "history": "Because 'Jñānasāra' is a common title across traditions, identification depends on context not given here. Yaśovijaya's Jñānasāra is among his roughly 100 works and is a standard Jain text; other Jñānasāras circulate in Vedānta and tantric anthologies.",
+    "related_works": ["Jñānasāra (Yaśovijaya)", "Adhyātmasāra (Yaśovijaya)"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jain_literature",
+      "https://www.exoticindiaart.com/book/details/jnanasara-essence-of-knowledge-sanskrit-text-with-transliteration-and-english-translation-naf202/"
+    ]
+  },
+  {
+    "work_id": "M00266",
+    "title": "Niruttaravāda",
+    "author": "",
+    "tradition": "Hindu (Śākta/Śaiva tantric or philosophical, uncertain)",
+    "genre": "vāda (doctrinal disputation / treatise)",
+    "date_estimate": "unknown",
+    "summary": "The title means 'the doctrine/discourse of the niruttara' (niruttara = 'that which has nothing higher, the unsurpassed; the unanswerable'). It appears to be a doctrinal exposition, plausibly connected with the Kula/Kālī 'Niruttara' tantric stream (cf. the Niruttaratantra) where niruttara names the supreme nondual reality, but it is distinct in title from that tantra and could not be securely identified.",
+    "history": "The Niruttaratantra is a Kālī-class Kula scripture (likely 9th-12th c.) emphasizing nondual realization; a separate work styled Niruttaravāda is not clearly documented in accessible sources, so its author, date and exact affiliation remain uncertain.",
+    "related_works": ["Niruttaratantra", "Kula/Kālī tantric corpus"],
+    "confidence": "low",
+    "sources": [
+      "https://shivashakti.com/niruttar",
+      "https://grokipedia.com/page/niruttara"
+    ]
+  },
+  {
+    "work_id": "M00267",
+    "title": "Nirvāṇayogottara",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva (tantric); possibly Bhairava/Yogottara stream",
+    "genre": "tantra / yoga scripture (uncertain)",
+    "date_estimate": "unknown (early-medieval Śaiva tantric range, c. 7th-11th c. CE, tentative)",
+    "summary": "Apparently a Śaiva tantric or yogic scripture whose title combines nirvāṇa ('extinction, liberation') with yogottara ('the higher/supreme yoga'). 'Yogottara' designates an advanced class of tantric teaching; the work would treat liberation-oriented tantric yoga. Its precise identity, contents, author and date could not be confirmed.",
+    "history": "The label 'yogottara' is used for elevated classes of both Śaiva and Buddhist tantras; a Śaiva text titled Nirvāṇayogottara is not well attested in accessible sources, leaving identification tentative.",
+    "related_works": ["Śaiva tantric / yogottara scriptures"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/nirvanatantra"
+    ]
+  },
+  {
+    "work_id": "M00268",
+    "title": "Prāṇāgnihotra (Prāṇāgnihotra Upaniṣad)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Vedānta (minor/Sāmānya Upaniṣad of the Kṛṣṇa Yajurveda)",
+    "genre": "Upaniṣad (philosophical/ritual scripture)",
+    "date_estimate": "later Vedic/post-Vedic; commonly placed in the early centuries CE (one of the minor Upaniṣads)",
+    "summary": "A short Upaniṣad (about 23 verses) whose title means 'the fire-offering (agnihotra) into the fire of breath (prāṇa).' It internalizes the external Vedic agnihotra: eating is recast as an oblation to the digestive fire, the bodily prāṇas as the sacrificial fires, and the universal Self as dwelling within the body. It teaches that liberation can be attained by realizing the indwelling brahman even without external ritual or formal Sāṃkhya/Yoga.",
+    "history": "It belongs to the corpus of minor (Sāmānya) Upaniṣads attached to the Kṛṣṇa Yajurveda and represents the transition from external Vedic sacrifice to internalized yogic/contemplative practice. It survives in standard Upaniṣad collections and editions.",
+    "related_works": ["minor Upaniṣads of the Kṛṣṇa Yajurveda", "Prāṇāgnihotra / agnihotra Vedic ritual literature"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pranagnihotra_Upanishad",
+      "https://www.celextel.org/upanishads-krishna-yajur-veda/pranagnihotra-upanishad/"
+    ]
+  },
+  {
+    "work_id": "M00269",
+    "title": "Subodhamañjarī",
+    "author": "",
+    "tradition": "uncertain",
+    "genre": "commentary / explanatory manual (the title suggests a ṭīkā or primer)",
+    "date_estimate": "unknown",
+    "summary": "The title means 'a cluster (mañjarī, 'blossom-spray') of easy understanding (subodha)'. Such names typically belong to an accessible commentary, primer or didactic compendium on grammar, poetics, ritual or philosophy. The specific work, its subject, author and date could not be identified from available sources.",
+    "history": "'Subodha' (easy to understand) and 'mañjarī' (anthology/garland) are common in titles of pedagogical and commentarial Sanskrit works, so multiple unrelated texts could bear this name; none could be confirmed here.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": []
+  },
+  {
+    "work_id": "M00270",
+    "title": "Śukavākya",
+    "author": "",
+    "tradition": "uncertain (Hindu; possibly Purāṇic/Vedāntic or nīti/didactic)",
+    "genre": "didactic / discourse text (uncertain)",
+    "date_estimate": "unknown",
+    "summary": "The title means 'the words/sayings of Śuka.' This most likely refers to teachings attributed to the sage Śuka, son of Vyāsa and renowned narrator of the Bhāgavata Purāṇa and exemplar of the liberated knower, and may name a short discourse or anthology of his utterances on liberation. (It is unlikely to be the Śukasaptati 'parrot tales', which is a separate genre.) The specific work could not be securely identified.",
+    "history": "Śuka is a major figure in the Mahābhārata (Mokṣadharma) and Bhāgavata Purāṇa; collections of sayings or dialogues ascribed to him circulate, but a discrete text titled Śukavākya is not well documented in accessible sources.",
+    "related_works": ["Bhāgavata Purāṇa", "Mahābhārata (Śuka episodes)"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shuka"
+    ]
+  },
+  {
+    "work_id": "M00271",
+    "title": "Vijñānabhairava (Vijñānabhairavatantra)",
+    "author": "anonymous/traditional (revealed tantra)",
+    "tradition": "Hindu, Kashmir Śaivism (Trika / Bhairava stream)",
+    "genre": "tantra (yoga/meditation scripture)",
+    "date_estimate": "c. 7th-8th c. CE (disputed)",
+    "summary": "A foundational Trika scripture of Kashmir Śaivism, framed as a dialogue between Bhairava (Śiva) and the Goddess, presenting 112 dhāraṇās (centering/meditation techniques) for attaining recognition of nondual consciousness. The methods range over breath awareness, concentration on bodily centres, sound and mantra, the senses, void, and direct nondual awareness, all aimed at realizing one's identity with Bhairava.",
+    "history": "Said to be drawn from (a chapter of) the Rudrayāmala, it became a key text of the Trika and was commented on by Kṣemarāja and Śivopādhyāya; in the 20th century it was popularized in the West via Swami Lakshmanjoo and Paul Reps's 'Centering' (Zen Flesh, Zen Bones). Its exact date is uncertain, broadly placed in the 7th-9th centuries.",
+    "related_works": ["Rudrayāmalatantra", "Trika/Kashmir Śaiva scriptures", "Tantrāloka (Abhinavagupta)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vij%C3%B1%C4%81na_Bhairava_Tantra",
+      "https://www.wisdomlib.org/definition/vijnanabhairava"
+    ]
+  },
+  {
+    "work_id": "M00272",
+    "title": "Acintyaviśvasādākhyam (Acintyaviśvasādākhya)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva Siddhānta (tantric/āgamic)",
+    "genre": "tantra / āgamic treatise (uncertain)",
+    "date_estimate": "unknown (Śaiva Siddhānta range, mid/late first millennium CE, tentative)",
+    "summary": "An apparently Śaiva work whose title combines acintya ('inconceivable'), viśva ('the universe/all'), and sādākhya — a Saiddhāntika technical term for the Sadāśiva-tattva (also called Sādākhya), the highest manifest level where Śiva's powers of will, knowledge and action are in balance. It would therefore concern the Sadāśiva/Sādākhya principle and Śaiva cosmology/metaphysics. The exact text, author and date could not be confirmed; note the related Cintya/Acintya Āgama within the 28 Śaiva Āgamas.",
+    "history": "Sādākhya = Sadāśiva-tattva is a standard category in Śaiva Siddhānta Āgama theology; a discrete work under this compound title is not clearly attested in accessible sources, so identification is tentative and may relate to the Cintyāgama tradition.",
+    "related_works": ["Śaiva Siddhānta Āgamas", "Cintyāgama / Acintyāgama"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/sadasiva-tattva"
+    ]
+  },
+  {
+    "work_id": "M00273",
+    "title": "Candrajñānāgama (Candrajñāna)",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "agama (Śaiva scripture)",
+    "date_estimate": "1st millennium CE (undated; canonical Śaiva Siddhānta Āgama, formative c. 7th-10th c. CE)",
+    "summary": "A duplicate-titled entry for the Candrajñāna(āgama), a Siddhānta Śaiva Āgama/Upāgama classed as a pratiṣṭhātantra dealing chiefly with the installation and worship of liṅgas and Śaiva images, temple ritual and associated kriyā; the name signals the lunar/serene ('moon-knowledge') aspect of Śiva worship. This work_id may represent a different recension, portion, or manuscript of the same Āgama listed at M00263.",
+    "history": "Candrajñāna is one of the 28 Śaiva Āgamas, traditionally revealed by the Tatpuruṣa face of Śiva and said to possess fourteen Upāgamas; it survives mainly in South Indian manuscript and ritual traditions and is cited in studies of Śaiva pratiṣṭhā (installation) ritual.",
+    "related_works": ["Candrajñānāgama (M00263)", "the 28 Śaiva Siddhānta Āgamas", "Kāmikāgama"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/candrajnanagama",
+      "https://vedas.how/blog/agamas/shaiva-tantras/shaiva-agamas/shaiva-agamas/"
+    ]
+  },
+  {
+    "work_id": "M00274",
+    "title": "Kulālaśāstra",
+    "author": "",
+    "tradition": "uncertain (Hindu; possibly Śaiva/Śākta Kula tantric, or a śilpa/technical treatise)",
+    "genre": "śāstra (technical/doctrinal treatise) — affiliation uncertain",
+    "date_estimate": "unknown",
+    "summary": "The title is ambiguous. 'Kulāla' ordinarily means 'potter', so it could denote a śāstra on pottery/ceramics or a caste/occupational manual; alternatively the compound may relate to the Kula (kaula) tantric tradition. Given the strongly Śaiva-Śākta tantric character of this batch, a Kula(śākta) tantric reading is plausible, but the specific work, its author and date could not be securely identified.",
+    "history": "No definite text matching this title could be confirmed from available sources; the word kulāla ('potter') and the Kula tantric stream both make the affiliation uncertain, so this identification remains tentative.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kularnava"
+    ]
+  }
+]

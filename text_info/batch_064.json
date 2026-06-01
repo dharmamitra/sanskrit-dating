@@ -1,0 +1,323 @@
+[
+  {
+    "work_id": "T11bsa0551u",
+    "title": "Apohasiddhi",
+    "author": "Ratnakīrti",
+    "tradition": "Buddhist (Yogācāra / Buddhist epistemology, pramāṇa school of Dignāga–Dharmakīrti)",
+    "genre": "philosophical treatise (siddhi / proof text on philosophy of language)",
+    "date_estimate": "c. first half of the 11th c. CE (Ratnakīrti fl. c. 1000-1050)",
+    "summary": "A concise treatise establishing the Buddhist apoha ('exclusion') theory of meaning, according to which words and concepts do not refer to real universals but pick out their objects negatively, by exclusion of what they are not (e.g. 'cow' = 'not non-cow'). It defends Dignāga's and Dharmakīrti's nominalist semantics against realist (Nyāya-Vaiśeṣika and Mīmāṃsā) accounts of universals and verbal reference.",
+    "history": "Ratnakīrti was a student of Jñānaśrīmitra at Vikramaśīla and one of the last great figures of the Indian Buddhist logico-epistemological tradition; his short 'siddhi' tracts survive in the Ratnakīrtinibandhāvalī collection. The Apohasiddhi distills and systematizes Jñānaśrīmitra's longer Apohaprakaraṇa and is a key source for the mature Buddhist theory of exclusion.",
+    "related_works": ["Ratnakīrtinibandhāvalī", "Apohaprakaraṇa (Jñānaśrīmitra)", "Pramāṇasamuccaya (Dignāga)", "Pramāṇavārttika (Dharmakīrti)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ratnak%C4%ABrti",
+      "https://encyclopediaofbuddhism.org/wiki/Ratnak%C4%ABrti",
+      "https://muse.jhu.edu/article/797590/summary"
+    ]
+  },
+  {
+    "work_id": "T11bsa0552u",
+    "title": "Kṣaṇabhaṅgasiddhi",
+    "author": "Ratnakīrti",
+    "tradition": "Buddhist (Yogācāra / Buddhist epistemology, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise (siddhi / proof text)",
+    "date_estimate": "c. first half of the 11th c. CE (Ratnakīrti fl. c. 1000-1050)",
+    "summary": "A proof of the doctrine of universal momentariness (kṣaṇabhaṅga): the thesis that whatever exists is causally efficient and therefore arises and perishes in a single instant, so that all phenomena are radically impermanent. Ratnakīrti develops the argument from existence/causal efficacy (sattvānumāna) against Nyāya-Vaiśeṣika and Mīmāṃsā defenders of enduring substances and selves.",
+    "history": "Part of the Ratnakīrtinibandhāvalī, the text exists in two complementary recensions, one arguing by positive correlation (anvayātmikā) and one by negative correlation (vyatirekātmikā). It is a culmination of centuries of Buddhist–Nyāya debate over momentariness initiated by Dharmakīrti and is widely studied in modern scholarship (Feldman & Phillips translation).",
+    "related_works": ["Kṣaṇabhaṅgasiddhi vyatirekātmikā", "Ratnakīrtinibandhāvalī", "Pramāṇavārttika (Dharmakīrti)", "Kṣaṇabhaṅgādhyāya (Jñānaśrīmitra)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.exoticindiaart.com/book/details/buddhist-theory-of-momentariness-case-study-of-ksanabhangasiddhi-of-ratnakirti-nae841/",
+      "https://thus.org/publication-book/ratnakirtis-proof-of-momentariness-by-positive-correlation-ksanabhangasiddhi-anvayatmika/"
+    ]
+  },
+  {
+    "work_id": "T11bsa0553u",
+    "title": "Kṣaṇabhaṅgasiddhi vyatirekātmikā",
+    "author": "Ratnakīrti",
+    "tradition": "Buddhist (Yogācāra / Buddhist epistemology, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise (siddhi / proof text)",
+    "date_estimate": "c. first half of the 11th c. CE (Ratnakīrti fl. c. 1000-1050)",
+    "summary": "The 'negative-correlation' recension of Ratnakīrti's proof of momentariness, which establishes that all existents are momentary by way of contraposition/negative concomitance (vyatireka): if something were non-momentary it could not be causally efficient and hence could not exist. It complements the anvayātmikā (positive-correlation) version of the same proof.",
+    "history": "This forms a pair with the anvaya version within the Ratnakīrtinibandhāvalī, reflecting the standard Buddhist logical method of proving a thesis through both positive (anvaya) and negative (vyatireka) pervasion. It belongs to the late Vikramaśīla phase of Buddhist pramāṇa scholarship and draws on Jñānaśrīmitra's work on momentariness.",
+    "related_works": ["Kṣaṇabhaṅgasiddhi (anvayātmikā)", "Ratnakīrtinibandhāvalī", "Kṣaṇabhaṅgādhyāya (Jñānaśrīmitra)", "Pramāṇavārttika (Dharmakīrti)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.exoticindiaart.com/book/details/buddhist-theory-of-momentariness-case-study-of-ksanabhangasiddhi-of-ratnakirti-nae841/",
+      "https://en.wikipedia.org/wiki/Ratnak%C4%ABrti"
+    ]
+  },
+  {
+    "work_id": "T11bsa0554u",
+    "title": "Avayavinirākaraṇa",
+    "author": "Paṇḍita Aśoka",
+    "tradition": "Buddhist (Buddhist epistemology / nominalism, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise (refutation / polemical tract)",
+    "date_estimate": "c. late 10th-early 11th c. CE",
+    "summary": "A short polemical treatise ('Refutation of the Whole') denying the reality of the avayavin, the partite whole that Nyāya-Vaiśeṣika realists posit as a distinct substance inhering in and over its parts. Paṇḍita Aśoka argues that the alleged whole is unperceived and incoherent, so that only the atoms/parts (or momentary particulars) are real, supporting the Buddhist reductionist and nominalist ontology.",
+    "history": "Paṇḍita Aśoka was a Buddhist logician of the Dignāga–Dharmakīrti tradition, roughly contemporary with Jñānaśrīmitra and Ratnakīrti. The Sanskrit text survives and has been edited and translated (e.g. by Tola and Dragonetti); together with his Sāmānyadūṣaṇa it represents a sharp later-Buddhist attack on Nyāya-Vaiśeṣika realism about wholes and universals.",
+    "related_works": ["Sāmānyadūṣaṇadikprasāritā", "Pramāṇavārttika (Dharmakīrti)"],
+    "confidence": "high",
+    "sources": [
+      "https://east.ikga.oeaw.ac.at/buddh/ind/31/95/",
+      "https://catalog.princeton.edu/catalog/5410675"
+    ]
+  },
+  {
+    "work_id": "T11bsa0555u",
+    "title": "Sāmānyadūṣaṇadikprasāritā",
+    "author": "Paṇḍita Aśoka",
+    "tradition": "Buddhist (Buddhist epistemology / nominalism, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise (refutation / polemical tract)",
+    "date_estimate": "c. late 10th-early 11th c. CE",
+    "summary": "A treatise refuting the reality of universals (sāmānya), often cited simply as the Sāmānyadūṣaṇa ('Refutation of the Universal'); the fuller title indicates it 'opens up the directions' of (i.e. lays out) the critique. Inspired by Dignāga and Dharmakīrti, Paṇḍita Aśoka ridicules the Nyāya-Vaiśeṣika and Mīmāṃsā doctrine of real, permanent, omnipresent universals and upholds the Buddhist view that only unique particulars (svalakṣaṇa) are real.",
+    "history": "A companion piece to Paṇḍita Aśoka's Avayavinirākaraṇa, transmitted among the later Buddhist Nyāya tracts and edited in modern collections of Buddhist Sanskrit logical texts. It is a representative document of mature Buddhist nominalism (apoha-based) directed against realism about universals.",
+    "related_works": ["Avayavinirākaraṇa", "Apohasiddhi (Ratnakīrti)", "Pramāṇavārttika (Dharmakīrti)"],
+    "confidence": "high",
+    "sources": [
+      "https://east.ikga.oeaw.ac.at/buddh/ind/31/95/",
+      "https://plato.stanford.edu/entries/dharmakiirti/"
+    ]
+  },
+  {
+    "work_id": "T11bsa0556u",
+    "title": "Antarvyāptisamarthana",
+    "author": "Ratnākaraśānti",
+    "tradition": "Buddhist (Buddhist epistemology / Yogācāra, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise (logic)",
+    "date_estimate": "c. early 11th c. CE (Ratnākaraśānti fl. c. 970-1045)",
+    "summary": "A technical logical treatise 'establishing internal pervasion' (antarvyāpti), arguing that the invariable concomitance (vyāpti) between reason and what is to be proved is grasped through the conceptual relation of the terms themselves rather than requiring an external corroborating instance (bahirvyāpti / sapakṣa). This refines Buddhist inference theory by minimizing reliance on positive examples.",
+    "history": "Ratnākaraśānti was a celebrated scholar and gatekeeper at Vikramaśīla in the early 11th century, with some forty works preserved in the Tibetan Tengyur. The Antarvyāptisamarthana (edited and studied by Y. Kajiyama) is his principal surviving Sanskrit contribution to pramāṇa logic and influenced later debates on the basis of pervasion.",
+    "related_works": ["Pramāṇavārttika (Dharmakīrti)", "Nyāyabindu (Dharmakīrti)"],
+    "confidence": "high",
+    "sources": [
+      "https://philpapers.org/rec/SANTAO-8",
+      "https://www.rigpawiki.org/index.php?title=Ratnakarashanti"
+    ]
+  },
+  {
+    "work_id": "T11bsa057_u",
+    "title": "Nyāyabindu Prakaraṇakārikā",
+    "author": "Dharmakīrti",
+    "tradition": "Buddhist (Buddhist epistemology / pramāṇa, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise (kārikā / aphoristic primer on logic and epistemology)",
+    "date_estimate": "c. 6th-7th c. CE (Dharmakīrti fl. c. 600-660)",
+    "summary": "A short manual ('Drop of Logic') systematically presenting Dharmakīrti's theory of the two valid means of knowledge: perception (pratyakṣa), defined as non-conceptual and non-erroneous, and inference (anumāna), divided into inference for oneself and for others. It also treats the logical 'mark' (liṅga), its threefold conditions, and the fallacies of inference and proof statements.",
+    "history": "The Nyāyabindu is the most compact of Dharmakīrti's seven treatises on pramāṇa and became the standard introductory text of the school. It attracted major commentaries, above all Dharmottara's Nyāyabinduṭīkā, and was transmitted in both Sanskrit and Tibetan; the 'prakaraṇakārikā' label marks it as a self-standing aphoristic compendium.",
+    "related_works": ["Nyāyabinduṭīkā (Dharmottara)", "Pramāṇavārttika (Dharmakīrti)", "Pramāṇaviniścaya (Dharmakīrti)"],
+    "confidence": "high",
+    "sources": [
+      "https://plato.stanford.edu/entries/dharmakiirti/",
+      "https://en.wikipedia.org/wiki/Dharmak%C4%ABrti"
+    ]
+  },
+  {
+    "work_id": "T11bsa059_u",
+    "title": "Santānāntarasiddhi",
+    "author": "Dharmakīrti",
+    "tradition": "Buddhist (Yogācāra / Buddhist epistemology, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise (siddhi / proof text)",
+    "date_estimate": "c. 6th-7th c. CE (Dharmakīrti fl. c. 600-660)",
+    "summary": "A treatise 'establishing the existence of other mind-streams' (santānāntara), i.e. addressing the problem of other minds from within an idealist (Vijñānavāda) framework. Dharmakīrti argues that, even if external objects are denied, one can infer the existence of other conscious continua from observed purposive behaviour and speech, which require a mental cause analogous to one's own.",
+    "history": "One of Dharmakīrti's seven pramāṇa works, the Santānāntarasiddhi survives chiefly in Tibetan translation (the full Sanskrit being lost or fragmentary) and was glossed by Vinītadeva. It is a classic locus for the Buddhist Yogācāra response to the solipsism objection.",
+    "related_works": ["Santānāntarasiddhiṭīkā (Vinītadeva)", "Pramāṇavārttika (Dharmakīrti)", "Vijñaptimātratāsiddhi (Vasubandhu)"],
+    "confidence": "high",
+    "sources": [
+      "https://plato.stanford.edu/entries/dharmakiirti/",
+      "https://en.wikipedia.org/wiki/Dharmak%C4%ABrti"
+    ]
+  },
+  {
+    "work_id": "T11bsa061_u",
+    "title": "Santānāntarasiddhiṭīkā",
+    "author": "Vinītadeva",
+    "tradition": "Buddhist (Yogācāra / Buddhist epistemology, Dignāga–Dharmakīrti school)",
+    "genre": "bhāṣya/ṭīkā (commentary)",
+    "date_estimate": "c. 8th c. CE (Vinītadeva fl. c. 700-750)",
+    "summary": "A commentary (ṭīkā) on Dharmakīrti's Santānāntarasiddhi, expounding and defending his proof of the existence of other minds from a Yogācāra-idealist standpoint. It elucidates the inference from purposive behaviour to other cognitive continua and answers objections to the doctrine.",
+    "history": "Vinītadeva was an eighth-century commentator at Nālandā who wrote ṭīkās on most of Dharmakīrti's treatises; his works survive mainly in Tibetan translation. This commentary is the principal early exegesis of the Santānāntarasiddhi and an important witness to its interpretation.",
+    "related_works": ["Santānāntarasiddhi (Dharmakīrti)", "Nyāyabindu (Dharmakīrti)"],
+    "confidence": "high",
+    "sources": [
+      "https://plato.stanford.edu/entries/dharmakiirti/",
+      "https://en.wikipedia.org/wiki/Dharmak%C4%ABrti"
+    ]
+  },
+  {
+    "work_id": "T11bsa063_u",
+    "title": "Sambandhaparīkṣā",
+    "author": "Dharmakīrti",
+    "tradition": "Buddhist (Buddhist epistemology / pramāṇa, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise (kārikā with auto-commentary)",
+    "date_estimate": "c. 6th-7th c. CE (Dharmakīrti fl. c. 600-660)",
+    "summary": "An 'Examination of Relation', a short verse work with Dharmakīrti's own prose commentary (vṛtti) analysing the notion of relation (sambandha) such as cause-effect and inherence. Dharmakīrti argues that real, mind-independent relations are untenable: relations are conceptual superimpositions on momentary, discrete particulars, so what appears as connection is mentally constructed.",
+    "history": "One of the seven treatises of Dharmakīrti's pramāṇa corpus, transmitted with his autocommentary and commented on by Vinītadeva and others; it survives in Sanskrit fragments and Tibetan. It underpins the Buddhist critique of realist categories of relation and is foundational for the school's nominalist ontology.",
+    "related_works": ["Pramāṇavārttika (Dharmakīrti)", "Sambandhaparīkṣāṭīkā (Vinītadeva / Śaṅkaranandana)"],
+    "confidence": "high",
+    "sources": [
+      "https://plato.stanford.edu/entries/dharmakiirti/",
+      "https://en.wikipedia.org/wiki/Dharmak%C4%ABrti"
+    ]
+  },
+  {
+    "work_id": "T11bsa064_u",
+    "title": "Vādanyāya",
+    "author": "Dharmakīrti",
+    "tradition": "Buddhist (Buddhist epistemology / pramāṇa, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise (debate theory / dialectics)",
+    "date_estimate": "c. 6th-7th c. CE (Dharmakīrti fl. c. 600-660)",
+    "summary": "A treatise on the rules and logic of formal debate ('The Logic of Debate'), defining what counts as a legitimate point of defeat (nigrahasthāna) for proponent and respondent. Dharmakīrti reworks and criticizes the Nyāya theory of debate, reducing the genuine grounds of defeat essentially to failing to state a correct proof or to expose a real fault.",
+    "history": "The last of Dharmakīrti's seven pramāṇa treatises, the Vādanyāya is preserved in Sanskrit and commented on by Śāntarakṣita (Vipañcitārthā). It is the school's mature statement on dialectics and a sustained polemic against the Nyāya account of debate procedure.",
+    "related_works": ["Vādanyāyaṭīkā Vipañcitārthā (Śāntarakṣita)", "Pramāṇavārttika (Dharmakīrti)", "Nyāyasūtra (Gautama/Akṣapāda)"],
+    "confidence": "high",
+    "sources": [
+      "https://plato.stanford.edu/entries/dharmakiirti/",
+      "https://en.wikipedia.org/wiki/Dharmak%C4%ABrti"
+    ]
+  },
+  {
+    "work_id": "T11bsa066_u",
+    "title": "Nyāyapraveśapravṛtti",
+    "author": "Haribhadrasūri",
+    "tradition": "Jain (Śvetāmbara) commentary on a Buddhist logical text",
+    "genre": "bhāṣya/vṛtti (commentary)",
+    "date_estimate": "8th c. CE (Haribhadrasūri, c. 700-799 per the hint; traditionally 8th c.)",
+    "summary": "A commentary (vṛtti/pravṛtti) by the Jain scholar Haribhadrasūri on the Nyāyapraveśa, the short Buddhist primer of Dignāga-style logic. It explains the elements of inference and proof statement—thesis, reason, example, and their fallacies—and the means of knowledge, glossing the base text for students.",
+    "history": "The Nyāyapraveśa ('Introduction to Logic') is generally ascribed to Śaṅkarasvāmin, a pupil of Dignāga (sometimes attributed to Dignāga himself). Remarkably, the Jain Haribhadrasūri wrote a commentary on this Buddhist manual, attesting to its wide use as a logic textbook across sectarian lines; it was edited by A. B. Dhruva together with Pārśvadeva's gloss.",
+    "related_works": ["Nyāyapraveśa (Śaṅkarasvāmin / attrib. Dignāga)", "Nyāyamukha (Dignāga)", "Pramāṇasamuccaya (Dignāga)"],
+    "confidence": "high",
+    "sources": [
+      "https://archive.org/details/nyayapravesaofdignagawiththecommentariesofharibhadrasuriandparsavadevaabdhruva_13_O",
+      "https://en.wikipedia.org/wiki/Haribhadrasuri"
+    ]
+  },
+  {
+    "work_id": "T11bsa069_u",
+    "title": "Tarkaśāstra",
+    "author": "anonymous/traditional (sometimes attributed to Vasubandhu or his school)",
+    "tradition": "Buddhist (pre-Dignāga logic and debate)",
+    "genre": "philosophical treatise (logic / dialectics)",
+    "date_estimate": "c. 4th-5th c. CE (pre-Dignāga)",
+    "summary": "An early Buddhist treatise on logic and debate in three chapters: the five members of the syllogism (proposition, reason, example, application, conclusion); the futile rejoinders (jāti); and the points of defeat (nigrahasthāna). It is concerned more with the rules of dialectical disputation (vāda) than with epistemology proper.",
+    "history": "The Tarkaśāstra survives only in Chinese translation; the Sanskrit is lost and was retranslated by G. Tucci in his 'Pre-Diṅnāga Buddhist Texts on Logic from Chinese Sources.' It represents the formative, pre-Dignāga phase of Buddhist logic, before Dignāga reformed the syllogism into three members and grounded inference in a developed theory of pervasion.",
+    "related_works": ["Upāyahṛdaya", "Vigrahavyāvartanī (Nāgārjuna)", "Nyāyapraveśa", "Nyāyasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://search.worldcat.org/title/504658645",
+      "http://ccbs.ntu.edu.tw/FULLTEXT/JR-ENG/tucci01.htm"
+    ]
+  },
+  {
+    "work_id": "T11bsa070_u",
+    "title": "Upāyahṛdaya",
+    "author": "anonymous/traditional (sometimes attributed to Nāgārjuna, disputed)",
+    "tradition": "Buddhist (pre-Dignāga logic and debate)",
+    "genre": "philosophical treatise (logic / dialectics)",
+    "date_estimate": "c. 3rd-4th c. CE (pre-Dignāga)",
+    "summary": "An early Buddhist manual on the art of debate ('Heart of the Means'), surveying the means of knowledge (it refers to the four pramāṇas: perception, inference, comparison, and testimony), the components of argument, examples, and the techniques and faults of disputation. It is a practical guide to winning and conducting philosophical debates.",
+    "history": "Like the Tarkaśāstra, the Upāyahṛdaya is preserved only in Chinese and was retranslated into Sanskrit by G. Tucci in his collection of pre-Diṅnāga Buddhist logical texts. Its attribution to Nāgārjuna is contested; it is significant as a witness to Buddhist debate theory before Dignāga's reforms.",
+    "related_works": ["Tarkaśāstra", "Vigrahavyāvartanī (Nāgārjuna)", "Nyāyasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://search.worldcat.org/title/504658645",
+      "http://ccbs.ntu.edu.tw/FULLTEXT/JR-ENG/tucci01.htm"
+    ]
+  },
+  {
+    "work_id": "T11bsa071_u",
+    "title": "Hetubindu",
+    "author": "Dharmakīrti",
+    "tradition": "Buddhist (Buddhist epistemology / pramāṇa, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise (kārikā/prose on logic)",
+    "date_estimate": "c. 6th-7th c. CE (Dharmakīrti fl. c. 600-660)",
+    "summary": "A treatise ('Drop of Reason') focused on the theory of the logical reason or evidence (hetu), classifying the valid types of inferential mark into the non-perception of something perceptible (anupalabdhi), identity/essential property (svabhāva), and effect (kārya). It sets out the conditions a reason must satisfy to yield valid inference and analyses the corresponding fallacies.",
+    "history": "One of Dharmakīrti's seven pramāṇa works, the Hetubindu survives in Sanskrit fragments and Tibetan and was commented on by Arcaṭa (Hetubinduṭīkā) and Vinītadeva. It is a core source for the Buddhist threefold typology of valid evidence.",
+    "related_works": ["Hetubinduṭīkā (Arcaṭa)", "Pramāṇavārttika (Dharmakīrti)", "Nyāyabindu (Dharmakīrti)"],
+    "confidence": "high",
+    "sources": [
+      "https://plato.stanford.edu/entries/dharmakiirti/",
+      "https://en.wikipedia.org/wiki/Dharmak%C4%ABrti"
+    ]
+  },
+  {
+    "work_id": "T11bsa072_u",
+    "title": "Tarkabhāṣā",
+    "author": "Mokṣākaragupta",
+    "tradition": "Buddhist (Buddhist epistemology / pramāṇa, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise (manual / digest of logic and epistemology)",
+    "date_estimate": "c. late 11th-12th c. CE (Mokṣākaragupta fl. between 1050 and 1202)",
+    "summary": "A late systematic manual ('Language of Logic') of Buddhist epistemology and logic, expounding the two valid means of knowledge—perception and inference—the threefold logical reason, debate, and the apoha theory of meaning. It serves as a lucid late-period summary of the whole Dignāga–Dharmakīrti system.",
+    "history": "Mokṣākaragupta was a scholar of the Jagaddala monastery in Varendra (Bengal); his dates are fixed between c. 1050 and 1202 partly from his being cited in the Jain Syādvādamañjarī. The Bauddha-Tarkabhāṣā is one of the finest and last comprehensive Buddhist logic textbooks, translated and studied notably by Y. Kajiyama. (Not to be confused with the Naiyāyika Keśava Miśra's Tarkabhāṣā.)",
+    "related_works": ["Pramāṇavārttika (Dharmakīrti)", "Nyāyabindu (Dharmakīrti)", "Apohasiddhi (Ratnakīrti)"],
+    "confidence": "high",
+    "sources": [
+      "https://east.ikga.oeaw.ac.at/data/37/123/",
+      "https://core.ac.uk/download/pdf/39205790.pdf"
+    ]
+  },
+  {
+    "work_id": "T11bsa075_u",
+    "title": "Nibandhāvalī",
+    "author": "Ratnakīrti",
+    "tradition": "Buddhist (Yogācāra / Buddhist epistemology, Dignāga–Dharmakīrti school)",
+    "genre": "collection of philosophical treatises (nibandha anthology)",
+    "date_estimate": "c. first half of the 11th c. CE (Ratnakīrti fl. c. 1000-1050; hint 11th c.)",
+    "summary": "The Ratnakīrtinibandhāvalī is the collected corpus of the short philosophical tracts (nibandhas) of Ratnakīrti, including the Apohasiddhi, the two Kṣaṇabhaṅgasiddhi recensions, the Sthirasiddhidūṣaṇa, the Īśvarasādhanadūṣaṇa, the Citrādvaitaprakāśavāda, the Santānāntaradūṣaṇa, and others. Together they argue for momentariness, apoha semantics, idealism, and against God, enduring substances, and other minds, from the late Buddhist epistemological standpoint.",
+    "history": "These tracts, gathered as the Nibandhāvalī, were critically edited by Anantalal Thakur (Tibetan Sanskrit Works Series) and are a principal source for the final, highly refined phase of Indian Buddhist philosophy at Vikramaśīla under Jñānaśrīmitra's lineage. They have been intensively studied in modern scholarship (e.g. Parimal Patil, McAllister).",
+    "related_works": ["Apohasiddhi (Ratnakīrti)", "Kṣaṇabhaṅgasiddhi (Ratnakīrti)", "Īśvarasādhanadūṣaṇa", "works of Jñānaśrīmitra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ratnak%C4%ABrti",
+      "https://documents.pub/document/parimal-g-patil-apoha-ratnakrti-parimal-g-patil-on-what-it-is-that-buddhists.html"
+    ]
+  },
+  {
+    "work_id": "T11dhkhetuu",
+    "title": "Hetubindu",
+    "author": "Dharmakīrti",
+    "tradition": "Buddhist (Buddhist epistemology / pramāṇa, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise (kārikā/prose on logic)",
+    "date_estimate": "c. 6th-7th c. CE (Dharmakīrti fl. c. 600-660)",
+    "summary": "A treatise ('Drop of Reason') on the theory of the valid logical reason (hetu), classifying inferential evidence into non-perception (anupalabdhi), essential identity (svabhāva), and effect (kārya), and specifying the conditions and fallacies of valid inference. (This is a duplicate record of Dharmakīrti's Hetubindu, likely from a different edition/source than T11bsa071_u.)",
+    "history": "One of Dharmakīrti's seven pramāṇa works, surviving in Sanskrit fragments and Tibetan, with major commentaries by Arcaṭa and Vinītadeva. It is foundational for the Buddhist account of valid evidence.",
+    "related_works": ["Hetubinduṭīkā (Arcaṭa)", "Hetubindu (T11bsa071_u)", "Pramāṇavārttika (Dharmakīrti)", "Nyāyabindu (Dharmakīrti)"],
+    "confidence": "high",
+    "sources": [
+      "https://plato.stanford.edu/entries/dharmakiirti/",
+      "https://en.wikipedia.org/wiki/Dharmak%C4%ABrti"
+    ]
+  },
+  {
+    "work_id": "T11dhknyayu",
+    "title": "Nyāyabindu",
+    "author": "Dharmakīrti",
+    "tradition": "Buddhist (Buddhist epistemology / pramāṇa, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise (aphoristic manual of logic and epistemology)",
+    "date_estimate": "c. 6th-7th c. CE (Dharmakīrti fl. c. 600-660)",
+    "summary": "The 'Drop of Logic', Dharmakīrti's compact manual presenting the two valid means of knowledge—non-conceptual, non-erroneous perception (pratyakṣa) and inference (anumāna), for oneself and for others—together with the theory of the threefold logical mark and the fallacies of reason and proof statement. It is the most concise distillation of his epistemology.",
+    "history": "The Nyāyabindu became the standard textbook of the Buddhist logical school and the object of Dharmottara's celebrated Nyāyabinduṭīkā, transmitted in both Sanskrit and Tibetan and central to the study of Buddhist pramāṇa down to the present.",
+    "related_works": ["Nyāyabinduṭīkā (Dharmottara)", "Pramāṇavārttika (Dharmakīrti)", "Pramāṇaviniścaya (Dharmakīrti)"],
+    "confidence": "high",
+    "sources": [
+      "https://plato.stanford.edu/entries/dharmakiirti/",
+      "https://en.wikipedia.org/wiki/Dharmak%C4%ABrti"
+    ]
+  },
+  {
+    "work_id": "T11dhkprviu",
+    "title": "Pramāṇaviniścaya",
+    "author": "Dharmakīrti",
+    "tradition": "Buddhist (Buddhist epistemology / pramāṇa, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise (kārikā with auto-commentary)",
+    "date_estimate": "c. 6th-7th c. CE (Dharmakīrti fl. c. 600-660)",
+    "summary": "The 'Ascertainment of the Means of Knowledge', a major treatise in three chapters on perception, inference-for-oneself, and inference-for-others, partly restating and condensing the Pramāṇavārttika in verse with autocommentary. It gives Dharmakīrti's mature, self-revised account of valid cognition, the apoha theory, and the logic of inference.",
+    "history": "One of Dharmakīrti's seven pramāṇa works and second in importance only to the Pramāṇavārttika; long known mainly through Tibetan, substantial Sanskrit has been recovered and critically edited (Steinkellner and the Vienna/Beijing project). It was commented on by Dharmottara and was highly influential in both India and Tibet.",
+    "related_works": ["Pramāṇavārttika (Dharmakīrti)", "Pramāṇaviniścayaṭīkā (Dharmottara)", "Pramāṇasamuccaya (Dignāga)", "Nyāyabindu (Dharmakīrti)"],
+    "confidence": "high",
+    "sources": [
+      "https://plato.stanford.edu/entries/dharmakiirti/",
+      "https://en.wikipedia.org/wiki/Dharmak%C4%ABrti"
+    ]
+  }
+]

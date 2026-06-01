@@ -1,0 +1,322 @@
+[
+  {
+    "work_id": "T03n864u",
+    "title": "Prajñāpāramitāstuti",
+    "author": "traditionally Rāhulabhadra",
+    "tradition": "Buddhist (Mahayana, Prajñāpāramitā / Madhyamaka)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "c. 2nd-4th c. CE (attribution and date uncertain)",
+    "summary": "A short devotional hymn in praise of the Perfection of Wisdom (Prajñāpāramitā), personified and venerated as the 'mother' of all buddhas and the source of awakening. The verses extol transcendent wisdom as ineffable, beyond conceptual grasping, and the ground of the bodhisattva path.",
+    "history": "This Prajñāpāramitā praise is traditionally ascribed to Rāhulabhadra (an early Madhyamaka figure sometimes linked to Nāgārjuna's lineage), and such stutis were frequently appended to Prajñāpāramitā sutra manuscripts such as the Aṣṭasāhasrikā. The Sanskrit attribution and exact dating remain uncertain.",
+    "related_works": ["Aṣṭasāhasrikā Prajñāpāramitā", "Prajñāpāramitā sutras"],
+    "confidence": "medium",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Praj%C3%B1%C4%81p%C4%81ramit%C4%81",
+      "https://en.wikipedia.org/wiki/Prajnaparamita"
+    ]
+  },
+  {
+    "work_id": "T03n865u",
+    "title": "Ṣaṭpāramitāstotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "1st millennium CE (uncertain)",
+    "summary": "A hymn in praise of the six perfections (ṣaṭpāramitā) that constitute the bodhisattva's training: generosity (dāna), ethics (śīla), patience (kṣānti), diligence (vīrya), meditative concentration (dhyāna), and wisdom (prajñā). It celebrates each perfection devotionally as a stage of the path to buddhahood.",
+    "history": "A minor devotional Mahayana stotra preserved among the praises (stotra/stava) collections of the Buddhist canon. Authorship is uncertain and the work is transmitted chiefly through the Tibetan Tengyur and related stotra anthologies.",
+    "related_works": ["Catuḥstava", "Mahayana stotra collections"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.rigpawiki.org/index.php?title=Six_paramitas",
+      "https://www.wisdomlib.org/definition/six-perfections"
+    ]
+  },
+  {
+    "work_id": "T04acatstvu",
+    "title": "Catuḥstavasamāsārtha [Catuḥstavasamārtha]",
+    "author": "Amṛtākara",
+    "tradition": "Buddhist (Madhyamaka)",
+    "genre": "bhasya / commentary (epitome of meaning)",
+    "date_estimate": "c. 6th-9th c. CE (author Amṛtākara of uncertain date)",
+    "summary": "A short exegetical work by Amṛtākara giving the condensed or summarized meaning (samāsārtha) of the Catuḥstava, the 'Four Hymns' attributed to Nāgārjuna (including the Lokātītastava, Niraupamyastava, Acintyastava, and Paramārthastava). It clarifies the Madhyamaka import of the hymns, which praise the Buddha and ultimate reality (emptiness).",
+    "history": "The text was edited and made known to scholarship by Giuseppe Tucci in his 'Minor Buddhist Texts' (1956); it is an important witness for reconstructing Nāgārjuna's Catuḥstava. Amṛtākara is otherwise little documented and his dates are uncertain.",
+    "related_works": ["Catuḥstava (Nāgārjuna)", "Lokātītastava", "Niraupamyastava", "Acintyastava", "Paramārthastava"],
+    "confidence": "high",
+    "sources": [
+      "https://www.academia.edu/43479753/N%C4%81g%C4%81rjunas_Catustava",
+      "https://link.springer.com/article/10.1007/BF00208526"
+    ]
+  },
+  {
+    "work_id": "T04bsa003_u",
+    "title": "Bodhicaryāvatāra [Bodhisattvacaryāvatāra]",
+    "author": "Śāntideva",
+    "tradition": "Buddhist (Mahayana, Madhyamaka)",
+    "genre": "kavya / philosophical-devotional poem (bodhisattva path manual)",
+    "date_estimate": "c. 700 CE (early 8th c.)",
+    "summary": "A celebrated verse work, 'Entering the Way of the Bodhisattva,' guiding the practitioner through the cultivation of the awakening mind (bodhicitta) across ten chapters, covering confession, the gift of bodhicitta, vigilance, patience, diligence, meditation, and wisdom. The ninth (wisdom) chapter presents a rigorous Madhyamaka critique of inherent existence, and the work is renowned for its emotional power and ethical depth.",
+    "history": "Composed by Śāntideva, a monk of Nālandā; he must predate 763 CE since Śāntarakṣita quotes him. The text became foundational in Tibetan Buddhism, attracting numerous Indian and Tibetan commentaries, and exists in distinct recensions (a shorter Dunhuang version and the longer canonical version).",
+    "related_works": ["Śikṣāsamuccaya (Śāntideva)", "Mūlamadhyamakakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://plato.stanford.edu/entries/shantideva/",
+      "https://en.wikipedia.org/wiki/Bodhisattvacary%C4%81vat%C4%81ra"
+    ]
+  },
+  {
+    "work_id": "T04bsa004_u",
+    "title": "Bodhipathapradīpa",
+    "author": "Atiśa Dīpaṃkaraśrījñāna",
+    "tradition": "Buddhist (Mahayana; foundational to Tibetan Kadam/Lamrim)",
+    "genre": "philosophical treatise / path manual (verse)",
+    "date_estimate": "c. 1042 CE (11th c.)",
+    "summary": "Atiśa's 'Lamp for the Path to Enlightenment,' a concise verse treatise outlining the entire graded path to buddhahood. It introduces the schema of three levels of spiritual capacity (lesser, middling, superior practitioners) and integrates the doctrines of sutra and tantra into a unified progression.",
+    "history": "Written in Tibet at the request of the king Jangchub Ö (Byang chub 'od), it is Atiśa's most influential work and became the root text of the entire Lamrim ('stages of the path') genre, including Tsongkhapa's later expansions. Atiśa composed an autocommentary (Bodhimārgapradīpapañjikā).",
+    "related_works": ["Bodhimārgapradīpapañjikā", "Lamrim tradition"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bodhipathaprad%C4%ABpa",
+      "https://www.lotsawahouse.org/indian-masters/atisha/lamp-path-enlightenment"
+    ]
+  },
+  {
+    "work_id": "T04bsa008_u",
+    "title": "Garbhasaṅgraha",
+    "author": "attributed to Nāgārjuna (traditional)",
+    "tradition": "Buddhist (Mahayana)",
+    "genre": "verse compendium (saṅgraha)",
+    "date_estimate": "1st millennium CE (uncertain)",
+    "summary": "A short 'compendium concerning the womb/embryo' (garbha), a minor work transmitted in the Buddhist canon dealing with conception, gestation and the stages of embryonic development, set within a Buddhist framework of rebirth and impermanence. It relates to the broader Indic-Buddhist embryological tradition (cf. the Garbhāvakrānti-sūtra).",
+    "history": "A minor work preserved chiefly in Tibetan translation in the Tengyur, sometimes ascribed to Nāgārjuna; the attribution is traditional and uncertain. It is part of the small body of Buddhist texts on embryology that informed later Tibetan medical literature.",
+    "related_works": ["Garbhāvakrānti-sūtra"],
+    "confidence": "low",
+    "sources": [
+      "https://84000.co/translation/toh58",
+      "https://encyclopediaofbuddhism.org/wiki/Garbh%C4%81vakr%C4%81nti-s%C5%ABtra"
+    ]
+  },
+  {
+    "work_id": "T04bsa009_u",
+    "title": "Hastavālaprakaraṇavṛtti",
+    "author": "attributed to Āryadeva (also linked to Dignāga); disputed",
+    "tradition": "Buddhist (Madhyamaka / early Yogacara epistemology)",
+    "genre": "bhasya / autocommentary (vṛtti) on a prakaraṇa",
+    "date_estimate": "c. 3rd-6th c. CE (disputed)",
+    "summary": "The prose commentary (vṛtti) accompanying the Hastavālaprakaraṇa, a short treatise that uses the famous rope-mistaken-for-a-snake analogy to argue that things lack inherent essence (asvabhāva) when analyzed into parts. The commentary develops a whole-part critique pointing toward emptiness and, in places, consciousness-only (vijñaptimātratā).",
+    "history": "Attribution is contested: the verses and commentary are variously assigned to Āryadeva or to Dignāga, and the original Sanskrit is largely lost, the work surviving in Tibetan and Chinese. It is a notable early statement of the snake-rope analysis in Buddhist epistemology.",
+    "related_works": ["Hastavālaprakaraṇa (kārikā)"],
+    "confidence": "medium",
+    "sources": [
+      "https://texts.mandala.library.virginia.edu/text/aryadeva-measure-at-hand",
+      "https://en.wikipedia.org/wiki/Dign%C4%81ga"
+    ]
+  },
+  {
+    "work_id": "T04bsa012_u",
+    "title": "Pratītyasamutpādahṛdayakārikā",
+    "author": "Nāgārjuna",
+    "tradition": "Buddhist (Madhyamaka)",
+    "genre": "kārikā (verse treatise)",
+    "date_estimate": "c. 2nd-3rd c. CE",
+    "summary": "The 'Verses on the Heart of Dependent Origination,' a very short text (seven stanzas) distilling the essence of pratītyasamutpāda. It analyzes the twelve links of dependent origination, reducing them to defilements, action, and suffering, and argues there is no transmigrating self, only conditioned arising.",
+    "history": "Attributed to Nāgārjuna and preserved in the Abhidharma section of the Tengyur (Toh 4101); it survives with early Dunhuang manuscript witnesses and has been edited and studied by R.C. Jamieson. It is paired with its own prose interpretation (vyākhyāna).",
+    "related_works": ["Pratītyasamutpādahṛdayavyākhyāna", "Mūlamadhyamakakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.lotsawahouse.org/indian-masters/nagarjuna/heart-dependent-origination",
+      "https://books.google.com/books/about/A_Study_of_N%C4%81g%C4%81rjuna_s_Twenty_Verses_o.html?id=H8MKAAAAYAAJ"
+    ]
+  },
+  {
+    "work_id": "T04bsa013_u",
+    "title": "Pratītyasamutpādahṛdayavyākhyāna",
+    "author": "Nāgārjuna (attributed)",
+    "tradition": "Buddhist (Madhyamaka)",
+    "genre": "bhasya / autocommentary (vyākhyāna)",
+    "date_estimate": "c. 2nd-3rd c. CE (attribution to Nāgārjuna traditional)",
+    "summary": "The prose 'interpretation' accompanying the Pratītyasamutpādahṛdayakārikā, explaining its seven verses on the essence of dependent origination. It expounds the reduction of the twelve links to affliction, karma and suffering, and the absence of any substantial transmigrating entity.",
+    "history": "Transmitted as the autocommentary to the Heart of Dependent Origination verses and traditionally ascribed to Nāgārjuna, though the attribution of the commentary is debated. It survives in Tibetan and in Dunhuang manuscript material studied alongside the kārikā.",
+    "related_works": ["Pratītyasamutpādahṛdayakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.lotsawahouse.org/indian-masters/nagarjuna/heart-dependent-origination",
+      "https://wellcomecollection.org/works/rwu83xkh"
+    ]
+  },
+  {
+    "work_id": "T04bsa014_u",
+    "title": "Śikṣāsamuccayakārikā",
+    "author": "Śāntideva",
+    "tradition": "Buddhist (Mahayana)",
+    "genre": "kārikā (verse summary)",
+    "date_estimate": "c. 700 CE (early 8th c.)",
+    "summary": "The set of root verses (kārikā) that form the skeleton of Śāntideva's Śikṣāsamuccaya ('Compendium of Training'). These few mnemonic stanzas summarize the bodhisattva's training in safeguarding and purifying body, possessions, and merit for the benefit of beings, around which the prose anthology of sutra quotations is organized.",
+    "history": "By Śāntideva (early 8th c.), the same author as the Bodhicaryāvatāra; the kārikās are the verse armature of the larger Śikṣāsamuccaya, an anthology preserving many otherwise lost Mahayana sutra passages.",
+    "related_works": ["Śikṣāsamuccaya (Śāntideva)", "Bodhicaryāvatāra"],
+    "confidence": "high",
+    "sources": [
+      "https://plato.stanford.edu/entries/shantideva/",
+      "https://en.wikipedia.org/wiki/Bodhisattvacary%C4%81vat%C4%81ra"
+    ]
+  },
+  {
+    "work_id": "T04bsa015_u",
+    "title": "Suhṛllekha",
+    "author": "Nāgārjuna",
+    "tradition": "Buddhist (Mahayana)",
+    "genre": "didactic epistle (verse)",
+    "date_estimate": "c. 2nd-3rd c. CE",
+    "summary": "The 'Letter to a Friend,' a didactic verse epistle of about 123 stanzas addressed to a South Indian king (traditionally a Śātavāhana ruler). It presents a compact summary of Buddhist ethics and doctrine, urging the recipient toward mindfulness, the six recollections, renunciation, karma, the dangers of saṃsāra, and the path to liberation.",
+    "history": "Attributed to Nāgārjuna and traditionally said to be written for Gautamīputra Śātakarṇi; the Sanskrit original is lost but it survives in three Chinese translations and one Tibetan version, and is widely commented upon in Tibetan Buddhism.",
+    "related_works": ["Ratnāvalī (Nāgārjuna)"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Suh%E1%B9%9Bllekha",
+      "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100541231"
+    ]
+  },
+  {
+    "work_id": "T04bsa016_u",
+    "title": "Śūnyatāsaptati",
+    "author": "Nāgārjuna",
+    "tradition": "Buddhist (Madhyamaka)",
+    "genre": "kārikā (verse treatise)",
+    "date_estimate": "c. 2nd-3rd c. CE",
+    "summary": "The 'Seventy Verses on Emptiness,' a core Madhyamaka treatise arguing that all phenomena are empty of inherent existence (svabhāva) precisely because they are dependently arisen. It defends emptiness against objections and clarifies that conventional designations (arising, ceasing, existence) hold only nominally.",
+    "history": "One of Nāgārjuna's 'collection of reasonings' (yukti corpus), transmitted with a prose autocommentary also ascribed to Nāgārjuna; the Sanskrit is lost and the text survives mainly in Tibetan. It is a key companion to the Mūlamadhyamakakārikā.",
+    "related_works": ["Mūlamadhyamakakārikā", "Vigrahavyāvartanī", "Yuktiṣaṣṭikā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.rigpawiki.org/index.php?title=Seventy_Stanzas_on_Emptiness",
+      "https://plato.stanford.edu/entries/nagarjuna/"
+    ]
+  },
+  {
+    "work_id": "T04bsa021_u",
+    "title": "Vigrahavyāvartanī",
+    "author": "Nāgārjuna",
+    "tradition": "Buddhist (Madhyamaka)",
+    "genre": "philosophical treatise (verse with autocommentary)",
+    "date_estimate": "c. 2nd-3rd c. CE",
+    "summary": "The 'Dispeller of Disputes,' a work of seventy verses with a prose autocommentary in which Nāgārjuna answers objections (largely from Nyaya logicians) against his doctrine of universal emptiness. Most famously he replies to the charge that if his own thesis is empty it cannot refute anything, arguing his statements have no inherent thesis to be self-refuting.",
+    "history": "A fundamental early Madhyamaka text and an important document of early Indian dialectics; it engages the pramāṇa (means of knowledge) theory of the Nyaya. The Sanskrit survives, and it was critically edited and translated by E. H. Johnston, A. Kunst and K. Bhattacharya.",
+    "related_works": ["Mūlamadhyamakakārikā", "Nyāyasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Vigrahavy%C4%81vartan%C4%AB",
+      "https://plato.stanford.edu/entries/nagarjuna/"
+    ]
+  },
+  {
+    "work_id": "T04bsa024_u",
+    "title": "Satyadvayāvatāranāma",
+    "author": "Atiśa Dīpaṃkaraśrījñāna (Dīpaṃkara)",
+    "tradition": "Buddhist (Madhyamaka)",
+    "genre": "philosophical treatise (verse)",
+    "date_estimate": "early 11th c. CE (c. 1012-1024)",
+    "summary": "Atiśa's 'Entry into the Two Truths,' a short verse treatise expounding the Madhyamaka doctrine of conventional (saṃvṛti) and ultimate (paramārtha) truth. It addresses how ultimate reality is known and which Madhyamaka authorities to follow, reflecting Atiśa's Prāsaṅgika-leaning understanding.",
+    "history": "Composed by Atiśa (Dīpaṃkaraśrījñāna, 982-1054), likely during his studies, the work was influential in early Tibetan and even Tangut Madhyamaka; an early Tibetan commentary on it is a key witness to the beginnings of Tibetan scholasticism (studied by J. Apple).",
+    "related_works": ["Bodhipathapradīpa", "Madhyamaka two truths literature"],
+    "confidence": "high",
+    "sources": [
+      "https://link.springer.com/article/10.1007/s10781-013-9180-9",
+      "https://link.springer.com/article/10.1007/s10781-016-9301-3"
+    ]
+  },
+  {
+    "work_id": "T04bsa027_u",
+    "title": "Madhyamakaśāstra",
+    "author": "Nāgārjuna",
+    "tradition": "Buddhist (Madhyamaka)",
+    "genre": "kārikā / philosophical treatise (verse)",
+    "date_estimate": "c. 2nd-3rd c. CE",
+    "summary": "An alternate title for Nāgārjuna's foundational Mūlamadhyamakakārikā ('Root Verses on the Middle Way'), the seminal Madhyamaka treatise in roughly 450 verses over 27 chapters. Through systematic reductio arguments it shows that all phenomena (causation, motion, time, self, nirvāṇa, the Buddha) lack inherent existence and are empty, established only as dependently arisen.",
+    "history": "The cornerstone text of the Madhyamaka school, it spawned a vast commentarial tradition (Buddhapālita, Bhāviveka, Candrakīrti's Prasannapadā, and the Chinese 'Zhong lun' tradition). 'Madhyamakaśāstra' is the title under which the work, often with embedded commentary, was transmitted.",
+    "related_works": ["Mūlamadhyamakakārikā", "Prasannapadā (Candrakīrti)", "Akutobhayā"],
+    "confidence": "high",
+    "sources": [
+      "https://plato.stanford.edu/entries/nagarjuna/",
+      "https://iep.utm.edu/madhyamaka-buddhist-philosophy/"
+    ]
+  },
+  {
+    "work_id": "T04bsa028_u",
+    "title": "Catuḥśatikā",
+    "author": "Āryadeva",
+    "tradition": "Buddhist (Madhyamaka)",
+    "genre": "kārikā / philosophical treatise (verse)",
+    "date_estimate": "c. late 2nd-early 3rd c. CE",
+    "summary": "The Catuḥśataka ('Four Hundred Verses'), Āryadeva's principal Madhyamaka treatise in sixteen chapters of roughly four hundred verses. The first eight chapters set out bodhisattva practice and the abandonment of misconceptions about permanence, pleasure, self and purity; the latter eight refute the metaphysical positions of rival Buddhist and non-Buddhist schools, establishing emptiness.",
+    "history": "By Āryadeva, the chief disciple of Nāgārjuna; it became a core Madhyamaka authority. Candrakīrti wrote the most important Indian commentary (Catuḥśatakaṭīkā / Bodhisattvayogācāracatuḥśatakaṭīkā), and the work was widely studied in Tibet.",
+    "related_works": ["Mūlamadhyamakakārikā", "Catuḥśatakaṭīkā (Candrakīrti)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aryadeva",
+      "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095555675"
+    ]
+  },
+  {
+    "work_id": "T04bsa035_u",
+    "title": "Bodhisattvādikarmikamārgāvatāradeśanā",
+    "author": "Atiśa Dīpaṃkaraśrījñāna",
+    "tradition": "Buddhist (Mahayana; Kadam)",
+    "genre": "path instruction / teaching (deśanā)",
+    "date_estimate": "11th c. CE",
+    "summary": "A teaching by Atiśa instructing the beginner bodhisattva (ādikarmika) on how to enter the path (mārgāvatāra). It lays out the preliminary practices, conduct, and graded steps appropriate to a novice setting out on the Mahayana path to awakening.",
+    "history": "One of Atiśa's many short instructional works composed for or transmitted to Tibet and collected among his complete works; it complements his Bodhipathapradīpa within the Kadam path literature.",
+    "related_works": ["Bodhipathapradīpa", "Atiśa's collected path instructions"],
+    "confidence": "medium",
+    "sources": [
+      "https://bodhicitta.tsadra.org/index.php/Books/The_Complete_Works_of_At%C4%AB%C5%9Ba",
+      "https://en.wikipedia.org/wiki/Ati%C5%9Ba"
+    ]
+  },
+  {
+    "work_id": "T04bsa036_u",
+    "title": "Śaraṇagamanadeśanā",
+    "author": "Atiśa Dīpaṃkaraśrījñāna",
+    "tradition": "Buddhist (Mahayana; Kadam)",
+    "genre": "instruction / teaching (deśanā) on refuge",
+    "date_estimate": "11th c. CE",
+    "summary": "A short teaching by Atiśa on going for refuge (śaraṇagamana) to the Three Jewels (Buddha, Dharma, Saṅgha). It explains the basis, motivation, and practice of taking refuge as the entry point and foundation of the Buddhist path.",
+    "history": "A minor instructional text among Atiśa's collected works composed in connection with his teaching mission in Tibet, where refuge instruction was foundational to the Kadam tradition he inspired.",
+    "related_works": ["Bodhipathapradīpa", "Atiśa's collected works"],
+    "confidence": "medium",
+    "sources": [
+      "https://bodhicitta.tsadra.org/index.php/Books/The_Complete_Works_of_At%C4%AB%C5%9Ba",
+      "https://en.wikipedia.org/wiki/Ati%C5%9Ba"
+    ]
+  },
+  {
+    "work_id": "T04bsa037_u",
+    "title": "Mahāyānapathasādhanasaṅgraha",
+    "author": "Atiśa Dīpaṃkaraśrījñāna",
+    "tradition": "Buddhist (Mahayana; Kadam)",
+    "genre": "compendium (saṅgraha) on path practice",
+    "date_estimate": "11th c. CE",
+    "summary": "A 'compendium of the means of accomplishing the Mahayana path,' summarizing the methods and practices (sādhana) by which a practitioner progresses along the Great Vehicle path to buddhahood. It gathers the essential practical instructions of the bodhisattva path.",
+    "history": "Listed among Atiśa Dīpaṃkaraśrījñāna's major compositions that shaped Tibetan Buddhist commentarial and path literature, transmitted within his collected works and the Kadam tradition.",
+    "related_works": ["Bodhipathapradīpa", "Atiśa's collected works"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.researchgate.net/publication/361137121_The_Legacy_of_Atisa",
+      "https://bodhicitta.tsadra.org/index.php/Books/The_Complete_Works_of_At%C4%AB%C5%9Ba"
+    ]
+  },
+  {
+    "work_id": "T04bsa038_u",
+    "title": "Sūtrārthasamuccayopadeśa",
+    "author": "Atiśa Dīpaṃkaraśrījñāna",
+    "tradition": "Buddhist (Mahayana; Kadam)",
+    "genre": "upadeśa (instruction) / digest of sutra meaning",
+    "date_estimate": "11th c. CE",
+    "summary": "An instructional digest 'gathering the meaning of the sutras,' in which Atiśa assembles and explains essential points drawn from Mahayana scriptures as practical guidance for practitioners. It functions as a condensed scriptural anthology with the master's pith instructions (upadeśa).",
+    "history": "One of Atiśa's short works of scriptural synthesis preserved in his collected writings and the Tibetan Tengyur, part of the body of texts through which he transmitted Indian Mahayana learning to Tibet.",
+    "related_works": ["Atiśa's collected works", "Śikṣāsamuccaya"],
+    "confidence": "medium",
+    "sources": [
+      "https://bodhicitta.tsadra.org/index.php/Books/The_Complete_Works_of_At%C4%AB%C5%9Ba",
+      "https://en.wikipedia.org/wiki/Ati%C5%9Ba"
+    ]
+  }
+]

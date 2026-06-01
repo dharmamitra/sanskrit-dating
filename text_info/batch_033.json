@@ -1,0 +1,328 @@
+[
+  {
+    "work_id": "GSP33brasurau",
+    "title": "Brahmasūtra (Rāmānuja)",
+    "author": "Rāmānuja",
+    "tradition": "Hindu, Vedānta (Viśiṣṭādvaita / Śrīvaiṣṇava)",
+    "genre": "bhāṣya (commentary on the Brahmasūtra)",
+    "date_estimate": "early 12th c. CE (Rāmānuja trad. 1017-1137 CE)",
+    "summary": "This is Rāmānuja's Śrībhāṣya, his magisterial commentary on Bādarāyaṇa's Brahmasūtra. It expounds Viśiṣṭādvaita ('qualified non-dualism'), arguing that Brahman (identified with Viṣṇu-Nārāyaṇa) is the supreme person whose 'body' is composed of the world of sentient souls and insentient matter, which are real and distinct yet wholly dependent on him. It systematically rebuts Śaṅkara's Advaita interpretation of māyā and the doctrine of an attributeless Brahman.",
+    "history": "The Śrībhāṣya is Rāmānuja's most important work and the foundational systematic text of the Śrīvaiṣṇava theological tradition, drawing on the earlier Bodhāyana-vṛtti tradition. It became the authoritative Vedānta reading for the Viśiṣṭādvaita school and generated an extensive sub-commentarial literature (e.g. Sudarśanasūri's Śrutaprakāśikā).",
+    "related_works": ["Brahmasūtra", "Vedārthasaṃgraha", "Vedāntadīpa", "Vedāntasāra", "Śrutaprakāśikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sri_Bhashya",
+      "https://www.wisdomlib.org/hinduism/book/brahma-sutras-ramanuja",
+      "https://www.encyclopedia.com/people/philosophy-and-religion/hinduism-biographies/ramanuja"
+    ]
+  },
+  {
+    "work_id": "GSP33brsgor1u",
+    "title": "Brahmasūtra: Adhyāya 1 (with Govindānanda's Ratnaprabhā)",
+    "author": "Bādarāyaṇa (mūla); Govindānanda (Ratnaprabhā sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "tradition": "Hindu, Vedānta (Advaita)",
+    "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
+    "summary": "This is the first adhyāya (chapter) of the Brahmasūtra accompanied by Govindānanda's Ratnaprabhā, a sub-commentary (vyākhyā) on Śaṅkara's Śārīrakamīmāṃsābhāṣya. Adhyāya 1 (samanvaya) establishes that all Upaniṣadic statements consistently refer to Brahman as the sole cause of the world. Govindānanda's gloss clarifies the wording and logic of Śaṅkara's Advaitic exposition.",
+    "history": "The Ratnaprabhā (Bhāṣyaratnaprabhā) by Govindānanda is one of the standard Advaita glosses on Śaṅkara's commentary, regularly printed alongside Vācaspati's Bhāmatī and Ānandagiri's Nyāyanirṇaya in the Nirṇaya-Sāgara/Bakre editions. This GRETIL e-text (legacy file brsgor1u) was prepared by the Sansknet project.",
+    "related_works": ["Brahmasūtra", "Śārīrakamīmāṃsābhāṣya (Śaṅkara)", "Bhāmatī (Vācaspati Miśra)", "Nyāyanirṇaya (Ānandagiri)"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bAdarAyaNa-brahmasUtra-subcomm.htm",
+      "https://www.wisdomlib.org/definition/bhashyaratnaprabha",
+      "https://archive.org/details/The.Brahmasutra.Sankara.Bhasya.with.Ratna-Prabha.Bhamati.and.Nyaya-Nirnaya"
+    ]
+  },
+  {
+    "work_id": "GSP33brsgor2u",
+    "title": "Brahmasūtra: Adhyāya 2 (with Govindānanda's Ratnaprabhā)",
+    "author": "Bādarāyaṇa (mūla); Govindānanda (Ratnaprabhā sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "tradition": "Hindu, Vedānta (Advaita)",
+    "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
+    "summary": "The second adhyāya (avirodha) of the Brahmasūtra with Govindānanda's Ratnaprabhā gloss on Śaṅkara's bhāṣya. This chapter answers objections to the Vedānta doctrine, refuting rival systems (Sāṃkhya, Vaiśeṣika, Buddhist, Jain schools) and resolving apparent internal contradictions in the Upaniṣadic teaching about Brahman as cause.",
+    "history": "Part of the standard Advaita commentarial complex on the Brahmasūtra; Govindānanda's Ratnaprabhā is a widely used clarificatory sub-commentary on Śaṅkara's bhāṣya. GRETIL legacy file brsgor2u, prepared by the Sansknet project.",
+    "related_works": ["Brahmasūtra", "Śārīrakamīmāṃsābhāṣya (Śaṅkara)", "Bhāmatī (Vācaspati Miśra)"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bAdarAyaNa-brahmasUtra-subcomm.htm",
+      "https://www.wisdomlib.org/definition/bhashyaratnaprabha"
+    ]
+  },
+  {
+    "work_id": "GSP33brsgor3u",
+    "title": "Brahmasūtra: Adhyāya 3 (with Govindānanda's Ratnaprabhā)",
+    "author": "Bādarāyaṇa (mūla); Govindānanda (Ratnaprabhā sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "tradition": "Hindu, Vedānta (Advaita)",
+    "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
+    "summary": "The third adhyāya (sādhana) of the Brahmasūtra with Govindānanda's Ratnaprabhā on Śaṅkara's bhāṣya. This chapter treats the means to liberation: the nature of transmigration, meditation on Brahman, the qualifications of the seeker, and the disciplines (sādhanas) that lead to knowledge of Brahman.",
+    "history": "Part of the standard Advaita commentarial complex on the Brahmasūtra. GRETIL legacy file brsgor3u, prepared by the Sansknet project.",
+    "related_works": ["Brahmasūtra", "Śārīrakamīmāṃsābhāṣya (Śaṅkara)", "Bhāmatī (Vācaspati Miśra)"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bAdarAyaNa-brahmasUtra-subcomm.htm",
+      "https://www.wisdomlib.org/definition/bhashyaratnaprabha"
+    ]
+  },
+  {
+    "work_id": "GSP33brsgor4u",
+    "title": "Brahmasūtra: Adhyāya 4 (with Govindānanda's Ratnaprabhā)",
+    "author": "Bādarāyaṇa (mūla); Govindānanda (Ratnaprabhā sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "tradition": "Hindu, Vedānta (Advaita)",
+    "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
+    "summary": "The fourth and final adhyāya (phala) of the Brahmasūtra with Govindānanda's Ratnaprabhā on Śaṅkara's bhāṣya. This chapter describes the fruit (phala) of Brahman-knowledge: the dawning of liberation, the fate of the knower after death, the path of the gods (devayāna), and final release (mokṣa / videhamukti).",
+    "history": "Part of the standard Advaita commentarial complex on the Brahmasūtra. GRETIL legacy file brsgor4u, prepared by the Sansknet project.",
+    "related_works": ["Brahmasūtra", "Śārīrakamīmāṃsābhāṣya (Śaṅkara)", "Bhāmatī (Vācaspati Miśra)"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bAdarAyaNa-brahmasUtra-subcomm.htm",
+      "https://www.wisdomlib.org/definition/bhashyaratnaprabha"
+    ]
+  },
+  {
+    "work_id": "GSP33brssbh1u",
+    "title": "Brahmasūtra: Adhyāya 1 (with Śaṅkara's Śārīrakamīmāṃsābhāṣya)",
+    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya)",
+    "tradition": "Hindu, Vedānta (Advaita)",
+    "genre": "sūtra with bhāṣya (commentary)",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE",
+    "summary": "The first adhyāya (samanvaya) of the Brahmasūtra together with Śaṅkara's Śārīrakamīmāṃsābhāṣya, the bare bhāṣya without sub-commentary. The chapter demonstrates that all Upaniṣadic texts harmoniously (samanvaya) teach Brahman as the one cause of the world; Śaṅkara reads this through his non-dualist (Advaita) lens, including the famous adhyāsa-bhāṣya on superimposition that opens the commentary.",
+    "history": "Śaṅkara's Brahmasūtrabhāṣya is the foundational text of the Advaita Vedānta school and the most influential of all Brahmasūtra commentaries, prompting the rival readings of Bhāskara, Rāmānuja, Madhva and others. This GRETIL e-text (legacy file brssbh1u) contains Śaṅkara's bhāṣya alone, converted by the Sansknet project.",
+    "related_works": ["Brahmasūtra", "Bhāmatī (Vācaspati Miśra)", "Ratnaprabhā (Govindānanda)", "Śrībhāṣya (Rāmānuja)"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bAdarAyaNa-brahmasUtra-comm.htm",
+      "https://en.wikipedia.org/wiki/Brahma_Sutras"
+    ]
+  },
+  {
+    "work_id": "GSP33brssbh2u",
+    "title": "Brahmasūtra: Adhyāya 2 (with Śaṅkara's Śārīrakamīmāṃsābhāṣya)",
+    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya)",
+    "tradition": "Hindu, Vedānta (Advaita)",
+    "genre": "sūtra with bhāṣya (commentary)",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE",
+    "summary": "The second adhyāya (avirodha) of the Brahmasūtra with Śaṅkara's bhāṣya. The chapter removes apparent contradictions, refuting the cosmologies of Sāṃkhya, Vaiśeṣika, Buddhist and other rival schools and defending the consistency of the Vedāntic doctrine of Brahman as material and efficient cause.",
+    "history": "The bare Śaṅkara bhāṣya text; foundational for the Advaita school. GRETIL legacy file brssbh2u, converted by the Sansknet project.",
+    "related_works": ["Brahmasūtra", "Bhāmatī (Vācaspati Miśra)", "Ratnaprabhā (Govindānanda)"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bAdarAyaNa-brahmasUtra-comm.htm",
+      "https://en.wikipedia.org/wiki/Brahma_Sutras"
+    ]
+  },
+  {
+    "work_id": "GSP33brssbh3u",
+    "title": "Brahmasūtra: Adhyāya 3 (with Śaṅkara's Śārīrakamīmāṃsābhāṣya)",
+    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya)",
+    "tradition": "Hindu, Vedānta (Advaita)",
+    "genre": "sūtra with bhāṣya (commentary)",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE",
+    "summary": "The third adhyāya (sādhana) of the Brahmasūtra with Śaṅkara's bhāṣya. The chapter treats the means to liberating knowledge: transmigration of the soul, the objects and modes of meditation (vidyās/upāsanās), the qualifications of the aspirant, and the disciplines conducive to realizing Brahman.",
+    "history": "The bare Śaṅkara bhāṣya text. GRETIL legacy file brssbh3u, converted by the Sansknet project.",
+    "related_works": ["Brahmasūtra", "Bhāmatī (Vācaspati Miśra)", "Ratnaprabhā (Govindānanda)"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bAdarAyaNa-brahmasUtra-comm.htm",
+      "https://en.wikipedia.org/wiki/Brahma_Sutras"
+    ]
+  },
+  {
+    "work_id": "GSP33brssbh4u",
+    "title": "Brahmasūtra: Adhyāya 4 (with Śaṅkara's Śārīrakamīmāṃsābhāṣya)",
+    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya)",
+    "tradition": "Hindu, Vedānta (Advaita)",
+    "genre": "sūtra with bhāṣya (commentary)",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE",
+    "summary": "The fourth and final adhyāya (phala) of the Brahmasūtra with Śaṅkara's bhāṣya. The chapter expounds the fruit of Brahman-knowledge: the destruction of karma, the experience of liberation while living (jīvanmukti), the soul's departure by the path of the gods, and final non-return (mokṣa).",
+    "history": "The bare Śaṅkara bhāṣya text. GRETIL legacy file brssbh4u, converted by the Sansknet project.",
+    "related_works": ["Brahmasūtra", "Bhāmatī (Vācaspati Miśra)", "Ratnaprabhā (Govindānanda)"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bAdarAyaNa-brahmasUtra-comm.htm",
+      "https://en.wikipedia.org/wiki/Brahma_Sutras"
+    ]
+  },
+  {
+    "work_id": "GSP33brssgo1u",
+    "title": "Brahmasūtra: Adhyāya 1 (Śaṅkara's bhāṣya with Govindānanda's Ratnaprabhā)",
+    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya); Govindānanda (Ratnaprabhā)",
+    "tradition": "Hindu, Vedānta (Advaita)",
+    "genre": "sūtra with bhāṣya and sub-commentary",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
+    "summary": "Adhyāya 1 (samanvaya) of the Brahmasūtra in the combined form of Śaṅkara's Śārīrakamīmāṃsābhāṣya together with Govindānanda's Ratnaprabhā gloss — a parallel GRETIL e-text version of the Advaita Brahmasūtra commentarial complex. The chapter shows that all Upaniṣadic statements coherently denote Brahman as the world's sole cause.",
+    "history": "This GRETIL e-text (legacy file brssgo1u) is a distinct digital recension pairing Śaṅkara's bhāṣya with Govindānanda's Ratnaprabhā within the same standard Advaita commentarial tradition. The 'ssgo' code denotes Śaṅkara-bhāṣya plus Govindānanda.",
+    "related_works": ["Brahmasūtra", "Śārīrakamīmāṃsābhāṣya (Śaṅkara)", "Ratnaprabhā (Govindānanda)", "Bhāmatī (Vācaspati Miśra)"],
+    "confidence": "medium",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bAdarAyaNa-brahmasUtra-subcomm.htm",
+      "https://archive.org/details/The.Brahmasutra.Sankara.Bhasya.with.Ratna-Prabha.Bhamati.and.Nyaya-Nirnaya"
+    ]
+  },
+  {
+    "work_id": "GSP33brssgo2u",
+    "title": "Brahmasūtra: Adhyāya 2 (Śaṅkara's bhāṣya with Govindānanda's Ratnaprabhā)",
+    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya); Govindānanda (Ratnaprabhā)",
+    "tradition": "Hindu, Vedānta (Advaita)",
+    "genre": "sūtra with bhāṣya and sub-commentary",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
+    "summary": "Adhyāya 2 (avirodha) of the Brahmasūtra with Śaṅkara's bhāṣya and Govindānanda's Ratnaprabhā. The chapter rebuts rival philosophical systems and resolves apparent contradictions, defending the Vedāntic account of Brahman as the cause of the world.",
+    "history": "GRETIL e-text (legacy file brssgo2u), a digital recension pairing Śaṅkara's bhāṣya with Govindānanda's Ratnaprabhā in the Advaita commentarial tradition.",
+    "related_works": ["Brahmasūtra", "Śārīrakamīmāṃsābhāṣya (Śaṅkara)", "Ratnaprabhā (Govindānanda)"],
+    "confidence": "medium",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bAdarAyaNa-brahmasUtra-subcomm.htm",
+      "https://archive.org/details/The.Brahmasutra.Sankara.Bhasya.with.Ratna-Prabha.Bhamati.and.Nyaya-Nirnaya"
+    ]
+  },
+  {
+    "work_id": "GSP33brssgo3u",
+    "title": "Brahmasūtra: Adhyāya 3 (Śaṅkara's bhāṣya with Govindānanda's Ratnaprabhā)",
+    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya); Govindānanda (Ratnaprabhā)",
+    "tradition": "Hindu, Vedānta (Advaita)",
+    "genre": "sūtra with bhāṣya and sub-commentary",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
+    "summary": "Adhyāya 3 (sādhana) of the Brahmasūtra with Śaṅkara's bhāṣya and Govindānanda's Ratnaprabhā. The chapter treats the means to liberation — transmigration, the meditations (vidyās) on Brahman, and the qualifications and disciplines of the seeker of knowledge.",
+    "history": "GRETIL e-text (legacy file brssgo3u), a digital recension pairing Śaṅkara's bhāṣya with Govindānanda's Ratnaprabhā in the Advaita commentarial tradition.",
+    "related_works": ["Brahmasūtra", "Śārīrakamīmāṃsābhāṣya (Śaṅkara)", "Ratnaprabhā (Govindānanda)"],
+    "confidence": "medium",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bAdarAyaNa-brahmasUtra-subcomm.htm",
+      "https://archive.org/details/The.Brahmasutra.Sankara.Bhasya.with.Ratna-Prabha.Bhamati.and.Nyaya-Nirnaya"
+    ]
+  },
+  {
+    "work_id": "GSP33brssgo4u",
+    "title": "Brahmasūtra: Adhyāya 4 (Śaṅkara's bhāṣya with Govindānanda's Ratnaprabhā)",
+    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya); Govindānanda (Ratnaprabhā)",
+    "tradition": "Hindu, Vedānta (Advaita)",
+    "genre": "sūtra with bhāṣya and sub-commentary",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
+    "summary": "Adhyāya 4 (phala) of the Brahmasūtra with Śaṅkara's bhāṣya and Govindānanda's Ratnaprabhā. The chapter describes the fruit of Brahman-knowledge: liberation, the soul's post-mortem path, and final release (mokṣa).",
+    "history": "GRETIL e-text (legacy file brssgo4u), a digital recension pairing Śaṅkara's bhāṣya with Govindānanda's Ratnaprabhā in the Advaita commentarial tradition.",
+    "related_works": ["Brahmasūtra", "Śārīrakamīmāṃsābhāṣya (Śaṅkara)", "Ratnaprabhā (Govindānanda)"],
+    "confidence": "medium",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bAdarAyaNa-brahmasUtra-subcomm.htm",
+      "https://archive.org/details/The.Brahmasutra.Sankara.Bhasya.with.Ratna-Prabha.Bhamati.and.Nyaya-Nirnaya"
+    ]
+  },
+  {
+    "work_id": "GSP33brsvbh1u",
+    "title": "Brahmasūtra: Adhyāya 1 (with Vācaspati Miśra's Bhāmatī)",
+    "author": "Bādarāyaṇa (mūla); Vācaspati Miśra (Bhāmatī sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "tradition": "Hindu, Vedānta (Advaita, Bhāmatī school)",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Vācaspati's Bhāmatī c. 950-980 CE",
+    "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
+    "summary": "Adhyāya 1 (samanvaya) of the Brahmasūtra with Vācaspati Miśra's Bhāmatī, the celebrated sub-commentary on Śaṅkara's bhāṣya. The chapter establishes the Upaniṣadic harmony in teaching Brahman as cause; the Bhāmatī develops Śaṅkara's Advaita with its distinctive positions (e.g. avidyā located in the individual jīva).",
+    "history": "The Bhāmatī, named after Vācaspati Miśra's wife, founded the 'Bhāmatī' sub-school of Advaita Vedānta and stands alongside the Vivaraṇa lineage as a principal stream of post-Śaṅkara Advaita. It spawned further glosses (Amalānanda's Kalpataru, Appayya Dīkṣita's Parimala). GRETIL legacy file brsvbh1u.",
+    "related_works": ["Brahmasūtra", "Śārīrakamīmāṃsābhāṣya (Śaṅkara)", "Kalpataru (Amalānanda)", "Parimala (Appayya Dīkṣita)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/V%C4%81chaspati_Misra",
+      "http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/vedanta/vacbhamu.htm",
+      "https://www.indianculture.gov.in/ebooks/bhamati-vacaspati-sankaras-brahmasutrabhasya"
+    ]
+  },
+  {
+    "work_id": "GSP33brsvbh2u",
+    "title": "Brahmasūtra: Adhyāya 2 (with Vācaspati Miśra's Bhāmatī)",
+    "author": "Bādarāyaṇa (mūla); Vācaspati Miśra (Bhāmatī sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "tradition": "Hindu, Vedānta (Advaita, Bhāmatī school)",
+    "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Vācaspati's Bhāmatī c. 950-980 CE",
+    "summary": "Adhyāya 2 (avirodha) of the Brahmasūtra with Vācaspati Miśra's Bhāmatī on Śaṅkara's bhāṣya. The chapter refutes rival systems and resolves contradictions in the doctrine of Brahman; the Bhāmatī supplies fine logical and exegetical clarification in line with its sub-school's positions.",
+    "history": "Part of the Bhāmatī sub-school's foundational commentary on Śaṅkara. GRETIL legacy file brsvbh2u.",
+    "related_works": ["Brahmasūtra", "Śārīrakamīmāṃsābhāṣya (Śaṅkara)", "Kalpataru (Amalānanda)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/V%C4%81chaspati_Misra",
+      "http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/vedanta/vacbhamu.htm"
+    ]
+  },
+  {
+    "work_id": "GSP33brsvbh3u",
+    "title": "Brahmasūtra: Adhyāya 3 (with Vācaspati Miśra's Bhāmatī)",
+    "author": "Bādarāyaṇa (mūla); Vācaspati Miśra (Bhāmatī sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "tradition": "Hindu, Vedānta (Advaita, Bhāmatī school)",
+    "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Vācaspati's Bhāmatī c. 950-980 CE",
+    "summary": "Adhyāya 3 (sādhana) of the Brahmasūtra with Vācaspati Miśra's Bhāmatī on Śaṅkara's bhāṣya. The chapter treats the means to liberation — transmigration, the meditations on Brahman, and the seeker's qualifications and disciplines — glossed in the Bhāmatī.",
+    "history": "Part of the Bhāmatī sub-school's foundational commentary on Śaṅkara. GRETIL legacy file brsvbh3u.",
+    "related_works": ["Brahmasūtra", "Śārīrakamīmāṃsābhāṣya (Śaṅkara)", "Kalpataru (Amalānanda)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/V%C4%81chaspati_Misra",
+      "http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/vedanta/vacbhamu.htm"
+    ]
+  },
+  {
+    "work_id": "GSP33brsvbh4u",
+    "title": "Brahmasūtra: Adhyāya 4 (with Vācaspati Miśra's Bhāmatī)",
+    "author": "Bādarāyaṇa (mūla); Vācaspati Miśra (Bhāmatī sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "tradition": "Hindu, Vedānta (Advaita, Bhāmatī school)",
+    "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
+    "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Vācaspati's Bhāmatī c. 950-980 CE",
+    "summary": "Adhyāya 4 (phala) of the Brahmasūtra with Vācaspati Miśra's Bhāmatī on Śaṅkara's bhāṣya. The chapter expounds the fruit of Brahman-knowledge — liberation, the post-mortem path of the knower, and final release (mokṣa) — with the Bhāmatī's clarifications.",
+    "history": "Part of the Bhāmatī sub-school's foundational commentary on Śaṅkara. GRETIL legacy file brsvbh4u.",
+    "related_works": ["Brahmasūtra", "Śārīrakamīmāṃsābhāṣya (Śaṅkara)", "Kalpataru (Amalānanda)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/V%C4%81chaspati_Misra",
+      "http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/vedanta/vacbhamu.htm"
+    ]
+  },
+  {
+    "work_id": "GSP33gaukarpu",
+    "title": "Āgamaśāstra (Gauḍapādakārikā / Gauḍapādīyakārikā / Māṇḍūkyakārikā)",
+    "author": "Gauḍapāda",
+    "tradition": "Hindu, Vedānta (Advaita); shows strong Buddhist (Mahāyāna) influence",
+    "genre": "kārikā (verse philosophical treatise)",
+    "date_estimate": "c. 6th c. CE (c. 500-600 CE; some place it as early as 5th c.)",
+    "summary": "The Āgamaśāstra, better known as the Gauḍapādakārikā or Māṇḍūkyakārikā, is a verse treatise in four chapters (prakaraṇas) traditionally attached to the Māṇḍūkya Upaniṣad. It expounds an uncompromising non-dualism: the phenomenal world is unreal like a dream, the self (Ātman) alone is real, and ultimate truth is 'non-origination' (ajātivāda). The fourth chapter (Alātaśānti) deploys Mahāyāna Buddhist terminology and dialectic.",
+    "history": "It is the earliest surviving systematic text of Advaita Vedānta; Gauḍapāda is regarded as the paramaguru (teacher's teacher) of Śaṅkara, who revered him. Scholars debate the unity of the four chapters and the extent and direction of its engagement with Yogācāra and Madhyamaka Buddhism. Śaṅkara (or a follower) wrote a bhāṣya on it.",
+    "related_works": ["Māṇḍūkya Upaniṣad", "Brahmasūtra", "Śaṅkara's Gauḍapādakārikābhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gaudapada",
+      "https://iep.utm.edu/gau%E1%B8%8Dapad/",
+      "https://www.wisdomlib.org/definition/mandukyakarika"
+    ]
+  },
+  {
+    "work_id": "GSP33m_mbhtnu",
+    "title": "Mahābhāratatātparyanirṇaya",
+    "author": "Madhva (Ānandatīrtha)",
+    "tradition": "Hindu, Vedānta (Dvaita / Tattvavāda)",
+    "genre": "philosophical-exegetical treatise (tātparyanirṇaya, 'determination of the purport')",
+    "date_estimate": "13th c. CE (Madhva fl. c. 1238-1317 CE)",
+    "summary": "A wide-ranging work in 32 chapters in which Madhva determines the true purport (tātparya) of the Mahābhārata — together with the Rāmāyaṇa, the birth of Vyāsa, and the Harivaṃśa — reading the epic not as mere narrative but as a doctrinally authoritative (nirṇāyaka) text. It harmonizes apparent contradictions across śruti, smṛti and Purāṇa to present a single consistent Dvaita (dualist, Viṣṇu-supreme) theology, and discusses methods for establishing the authentic text.",
+    "history": "Composed by Madhvācārya, founder of the Dvaita school, it is one of his major works and is included in his collected Sarvamūla. It became central to Mādhva exegesis of epic and Purāṇic literature and attracted later commentaries (tippaṇī).",
+    "related_works": ["Mahābhārata", "Rāmāyaṇa", "Harivaṃśa", "Brahmasūtrabhāṣya (Madhva)", "Sarvamūla"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mahabharata_Tatparya_Nirnaya",
+      "https://en.wikipedia.org/wiki/Madhvacharya",
+      "https://srimadhvyasa.wordpress.com/acharya-madhwa/mahabharata-tatparya-nirnaya/"
+    ]
+  },
+  {
+    "work_id": "GSP33madhanuu",
+    "title": "Anuvyākhyāna",
+    "author": "Madhva (Ānandatīrtha)",
+    "tradition": "Hindu, Vedānta (Dvaita / Tattvavāda)",
+    "genre": "verse commentary / supplement (anuvyākhyāna) on the Brahmasūtra",
+    "date_estimate": "13th c. CE (Madhva fl. c. 1238-1317 CE)",
+    "summary": "The Anuvyākhyāna is Madhva's verse supplement to his own prose Brahmasūtrabhāṣya, restating and defending his Dvaita interpretation of Bādarāyaṇa's sūtras. Composed in a polemical, poetic style comparable to Kumārila's Ślokavārttika, it argues at length against Advaita and rival readings, expounding the real distinction (dvaita) between God, souls and matter.",
+    "history": "Often regarded as Madhva's philosophical masterpiece, the Anuvyākhyāna is the basis of Jayatīrtha's famous sub-commentary the Nyāyasudhā, which became authoritative for the Mādhva tradition. It is part of Madhva's collected Sarvamūla.",
+    "related_works": ["Brahmasūtra", "Brahmasūtrabhāṣya (Madhva)", "Nyāyasudhā (Jayatīrtha)", "Sarvamūla"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Madhvacharya",
+      "https://www.wisdomlib.org/hinduism/book/a-history-of-indian-philosophy-volume-4/d/doc210005.html",
+      "https://iep.utm.edu/madhva/"
+    ]
+  }
+]

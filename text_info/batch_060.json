@@ -1,0 +1,330 @@
+[
+  {
+    "work_id": "T04bsa039_u",
+    "title": "Daśākuśalakarmapathadeśanā",
+    "author": "Atiśa Dīpaṃkaraśrījñāna",
+    "tradition": "Buddhist (Mahāyāna; Bengali master active in Tibet, associated with the Bka'-gdams-pa/Lamrim tradition)",
+    "genre": "didactic/ethical treatise (short doctrinal exposition)",
+    "date_estimate": "first half of 11th c. CE (Atiśa, 982-1054)",
+    "summary": "A short instructional text expounding the 'ten unwholesome paths of action' (daśa-akuśala-karmapatha): the three bodily misdeeds (killing, stealing, sexual misconduct), four of speech (lying, divisive speech, harsh speech, idle talk), and three of mind (covetousness, malice, wrong view). It presents these as the basis of negative karma to be abandoned on the Buddhist path.",
+    "history": "Attributed to Atiśa, the renowned Indian master from Vikramaśīla who came to Tibet in 1042; like his other short works it survives chiefly in Tibetan translation in the Tengyur. It belongs to the cluster of ethical and practice texts that shaped the Tibetan stages-of-the-path (Lamrim) literature.",
+    "related_works": ["Bodhipathapradīpa"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ati%C5%9Ba",
+      "https://buddhanature.tsadra.org/index.php/People/Ati%C5%9Ba",
+      "https://treasuryoflives.org/biographies/view/Ati%C5%9Ba/TBRC_P3379"
+    ]
+  },
+  {
+    "work_id": "T04bsa040_u",
+    "title": "Cittotpādasaṃvaravidhikrama",
+    "author": "Atiśa Dīpaṃkaraśrījñāna",
+    "tradition": "Buddhist (Mahāyāna; Bka'-gdams-pa tradition)",
+    "genre": "ritual manual (vidhi/liturgy)",
+    "date_estimate": "first half of 11th c. CE (Atiśa, 982-1054)",
+    "summary": "A liturgical manual setting out the sequence (krama) of the rite (vidhi) for generating bodhicitta (cittotpāda) and taking the bodhisattva vow/restraint (saṃvara). It provides the procedure for the aspiring bodhisattva to formally arouse the mind of awakening and undertake the bodhisattva discipline.",
+    "history": "One of several short ritual and ethical texts by Atiśa preserved in the Tibetan Tengyur; such bodhicitta-vow liturgies were foundational to the Bka'-gdams-pa transmission of Mahāyāna practice in Tibet.",
+    "related_works": ["Bodhipathapradīpa"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ati%C5%9Ba",
+      "https://buddhanature.tsadra.org/index.php/People/Ati%C5%9Ba"
+    ]
+  },
+  {
+    "work_id": "T04bsa041_u",
+    "title": "Āpattideśanāvidhi",
+    "author": "Atiśa Dīpaṃkaraśrījñāna",
+    "tradition": "Buddhist (Mahāyāna; Bka'-gdams-pa tradition)",
+    "genre": "ritual manual (vidhi/confession liturgy)",
+    "date_estimate": "first half of 11th c. CE (Atiśa, 982-1054)",
+    "summary": "A short ritual procedure (vidhi) for the confession or disclosure (deśanā) of transgressions/faults (āpatti), i.e. the formal Buddhist practice of acknowledging and purifying ethical lapses against one's vows. It guides the practitioner through the liturgy of confessing downfalls and restoring discipline.",
+    "history": "Ascribed to Atiśa and transmitted in the Tibetan canon among his short practice texts; confession-of-faults rites of this kind were integral to the monastic and bodhisattva ethics that Atiśa promoted in Tibet.",
+    "related_works": ["Bodhipathapradīpa", "Cittotpādasaṃvaravidhikrama"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ati%C5%9Ba",
+      "https://buddhanature.tsadra.org/index.php/People/Ati%C5%9Ba"
+    ]
+  },
+  {
+    "work_id": "T04bsa042_u",
+    "title": "Gurukriyākrama",
+    "author": "Atiśa Dīpaṃkaraśrījñāna",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna; Bka'-gdams-pa tradition)",
+    "genre": "ritual manual (vidhi/krama on guru-practice)",
+    "date_estimate": "first half of 11th c. CE (Atiśa, 982-1054)",
+    "summary": "A short manual setting out the sequence (krama) of devotional acts and ritual procedure (kriyā) directed toward the spiritual teacher (guru), i.e. the proper way of relying upon and serving one's master. It belongs to the genre of guru-devotion instructions central to Mahāyāna and tantric practice.",
+    "history": "Attributed to Atiśa and preserved among his minor works in the Tibetan Tengyur; reliance on the qualified teacher was a key theme of the Lamrim/Bka'-gdams-pa tradition he founded in Tibet.",
+    "related_works": ["Bodhipathapradīpa"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ati%C5%9Ba",
+      "https://buddhanature.tsadra.org/index.php/People/Ati%C5%9Ba"
+    ]
+  },
+  {
+    "work_id": "T04bsa053_u",
+    "title": "Madhyamakāvatāra",
+    "author": "Candrakīrti",
+    "tradition": "Buddhist (Mahāyāna; Madhyamaka, Prāsaṅgika)",
+    "genre": "philosophical treatise (verse śāstra, introduction to Madhyamaka)",
+    "date_estimate": "c. 7th c. CE (Candrakīrti, c. 600-650)",
+    "summary": "A versified 'Introduction to the Middle Way' that presents Madhyamaka philosophy structured around the ten bodhisattva stages (bhūmis) corresponding to the ten perfections (pāramitās). Its sixth chapter, on the perfection of wisdom, contains Candrakīrti's celebrated refutation of intrinsic existence (svabhāva), his critique of Yogācāra mind-only and of Bhāvaviveka's autonomous-inference method, and his sevenfold analysis of the self (the 'chariot' argument).",
+    "history": "Composed by Candrakīrti as a complement and entryway to Nāgārjuna's Mūlamadhyamakakārikā, the work (with its autocommentary, the Madhyamakāvatārabhāṣya) became the central textbook of Prāsaṅgika Madhyamaka in Tibet, especially in the Dge-lugs curriculum following Tsong-kha-pa. The Sanskrit of the verses largely survives; the bhāṣya is preserved mainly in Tibetan.",
+    "related_works": ["Mūlamadhyamakakārikā", "Madhyamakāvatārakārikā", "Prasannapadā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Madhyamak%C4%81vat%C4%81ra",
+      "https://en.wikipedia.org/wiki/Chandrakirti",
+      "https://buddhanature.tsadra.org/index.php/People/Candrak%C4%ABrti"
+    ]
+  },
+  {
+    "work_id": "T04bsa054_u",
+    "title": "Bodhicaryāvatārapañjikā",
+    "author": "Prajñākaramati",
+    "tradition": "Buddhist (Mahāyāna; Madhyamaka, in Candrakīrti's Prāsaṅgika lineage)",
+    "genre": "bhāṣya/pañjikā (running commentary)",
+    "date_estimate": "c. late 10th-early 11th c. CE (Prajñākaramati, c. 950-1030)",
+    "summary": "A detailed word-commentary (pañjikā) on Śāntideva's Bodhicaryāvatāra, the classic poem on the bodhisattva path. It glosses the verses chapter by chapter, expounding the cultivation of bodhicitta, the perfections, and especially the difficult ninth (wisdom) chapter, which it reads through a Prāsaṅgika-Madhyamaka lens.",
+    "history": "Prajñākaramati was a Madhyamaka master associated with Vikramaśīla; his pañjikā is the most important surviving Indian commentary on the Bodhicaryāvatāra and a principal witness to the Sanskrit text. It was edited by L. de la Vallée Poussin and later P. L. Vaidya.",
+    "related_works": ["Bodhicaryāvatāra"],
+    "confidence": "high",
+    "sources": [
+      "https://buddhanature.tsadra.org/index.php/Praj%C3%B1%C4%81karamati",
+      "https://www.oxfordreference.com/view/10.1093/acref/9780190681159.001.0001/acref-9780190681159-e-3303",
+      "https://archive.org/details/bodhicaryavatara-panjika"
+    ]
+  },
+  {
+    "work_id": "T04bsa058_u",
+    "title": "Bhavasaṅkrāntiṭīkā",
+    "author": "Maitreyanātha (attributed; commentator on Nāgārjuna's Bhavasaṅkrānti)",
+    "tradition": "Buddhist (Mahāyāna; Madhyamaka)",
+    "genre": "ṭīkā (commentary)",
+    "date_estimate": "1st millennium CE; precise dating uncertain (commentary on a work ascribed to Nāgārjuna)",
+    "summary": "A word-by-word commentary (ṭīkā, Toh 3841) on the Bhavasaṅkrānti, a short verse treatise attributed to Nāgārjuna that addresses 'transmission/transmigration through existences' (bhava-saṅkrānti). The root text and commentary explain how rebirth and karmic continuity occur without any self or dharma actually passing from one life to the next, harmonizing transmigration with anātman and emptiness.",
+    "history": "The Bhavasaṅkrānti is one of three similarly titled works attributed to Nāgārjuna in the Tengyur; this commentary on it is ascribed to Maitreyanātha (here per the project metadata). The texts survive primarily in Tibetan translation and relate to the Bhavasaṅkrāntisūtra.",
+    "related_works": ["Bhavasaṅkrānti", "Bhavasaṅkrāntisūtra"],
+    "confidence": "medium",
+    "sources": [
+      "https://84000.co/translation/toh226",
+      "https://www.encyclopediaofbuddhism.org/wiki/Bhavasa%E1%B9%85kr%C4%81ntis%C5%ABtra"
+    ]
+  },
+  {
+    "work_id": "T04bsu060_u",
+    "title": "Karmavibhaṅgopadeśa",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "upadeśa (exegetical exposition) on a karma sūtra",
+    "date_estimate": "1st millennium CE (uncertain)",
+    "summary": "An exposition/instruction (upadeśa) elaborating the Karmavibhaṅga ('Exposition of Karma'), a Buddhist text framed as the Buddha's answers about why beings differ in lifespan, health, beauty, status and rebirth-destiny according to past deeds. It catalogs specific wholesome and unwholesome actions together with their ripening results, treating the mechanics of karma and rebirth in detail.",
+    "history": "The Karmavibhaṅga circulated widely in Sanskrit, Tibetan and other Asian languages; its imagery is famously depicted on the base reliefs of Borobudur in Java. The upadeśa is a commentarial layer expanding the root karma-classification material.",
+    "related_works": ["Karmavibhaṅga", "Karmavibhaṅgasūtra", "Mahākarmavibhaṅga"],
+    "confidence": "medium",
+    "sources": [
+      "https://84000.co/translation/toh338",
+      "https://www.wisdomlib.org/definition/karmavibhanga",
+      "https://ancient-buddhist-texts.net/Texts-and-Translations/Karma-vibhanga/00-Introduction.htm"
+    ]
+  },
+  {
+    "work_id": "T04canprasu1",
+    "title": "Prasannapadā [Madhyamakaśāstravṛtti] Chapter 1",
+    "author": "Candrakīrti",
+    "tradition": "Buddhist (Mahāyāna; Madhyamaka, Prāsaṅgika)",
+    "genre": "vṛtti/bhāṣya (commentary), individual chapter",
+    "date_estimate": "c. 7th c. CE (Candrakīrti, c. 600-650)",
+    "summary": "The first chapter of Candrakīrti's 'Clear Words' commentary on Nāgārjuna's Mūlamadhyamakakārikā, commenting on the opening 'examination of conditions' (pratyaya-parīkṣā). It is famous for Candrakīrti's methodological defense of the Prāsaṅgika reductio method against Bhāvaviveka's use of autonomous syllogisms, and his analysis of the four conditions and the denial of arising from self, other, both, or neither.",
+    "history": "Chapter 1 of the Prasannapadā is the most studied and philosophically pivotal portion, as it stages the Prāsaṅgika-Svātantrika debate; it has been edited and translated repeatedly (e.g. by Stcherbatsky, May, and others). The full Prasannapadā is the only Sanskrit commentary on the MMK to survive complete.",
+    "related_works": ["Mūlamadhyamakakārikā", "Prasannapadā [Madhyamakaśāstravṛtti]"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/M%C5%ABlamadhyamakak%C4%81rik%C4%81",
+      "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/candrakirti"
+    ]
+  },
+  {
+    "work_id": "T04canprasu",
+    "title": "Prasannapadā [Madhyamakaśāstravṛtti]",
+    "author": "Candrakīrti",
+    "tradition": "Buddhist (Mahāyāna; Madhyamaka, Prāsaṅgika)",
+    "genre": "vṛtti/bhāṣya (running commentary)",
+    "date_estimate": "c. 7th c. CE (Candrakīrti, c. 600-650)",
+    "summary": "Candrakīrti's 'Clear Words' (Prasannapadā), a prose commentary on the twenty-seven chapters of Nāgārjuna's Mūlamadhyamakakārikā. It expounds emptiness (śūnyatā) and dependent origination chapter by chapter and articulates the Prāsaṅgika method of refuting opponents purely through reductio (prasaṅga), critiquing Bhāvaviveka's autonomous-inference (svatantra) approach.",
+    "history": "The Prasannapadā is the only fully extant Sanskrit commentary on the MMK and the most influential for Tibetan Buddhism; it preserves many verses of the root text and defines the Prāsaṅgika sub-school. It was edited by Louis de la Vallée Poussin (Bibliotheca Buddhica, 1903-13).",
+    "related_works": ["Mūlamadhyamakakārikā", "Madhyamakāvatāra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chandrakirti",
+      "https://en.wikipedia.org/wiki/M%C5%ABlamadhyamakak%C4%81rik%C4%81",
+      "https://buddhanature.tsadra.org/index.php/People/Candrak%C4%ABrti"
+    ]
+  },
+  {
+    "work_id": "T04ksmadhlu",
+    "title": "Madhyamakāloka",
+    "author": "Kamalaśīla",
+    "tradition": "Buddhist (Mahāyāna; Yogācāra-Svātantrika-Madhyamaka)",
+    "genre": "philosophical treatise (independent śāstra)",
+    "date_estimate": "c. 740-795 CE (Kamalaśīla, 8th c.)",
+    "summary": "The 'Illumination of the Middle Way', the major independent treatise of Kamalaśīla, synthesizing Madhyamaka emptiness with Yogācāra epistemology and pramāṇa-method. It argues for the lack of intrinsic nature of all phenomena using logical reasoning, treats the two truths, and is reckoned among the 'three works of the eastern Svātantrikas'.",
+    "history": "Kamalaśīla was the direct disciple of Śāntarakṣita (and the Indian protagonist of the 'Council of Lhasa/Samyé' debate). The Madhyamakāloka complements his commentaries on Śāntarakṣita's Madhyamakālaṃkāra and Tattvasaṃgraha and survives chiefly in Tibetan translation.",
+    "related_works": ["Madhyamakālaṃkāra", "Tattvasaṃgraha", "Madhyamakālaṃkārapañjikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kamala%C5%9B%C4%ABla",
+      "https://www.oxfordreference.com/view/10.1093/acref/9780190681159.001.0001/acref-9780190681159-e-2463",
+      "https://buddhanature.tsadra.org/index.php/People/Kamala%C5%9B%C4%ABla"
+    ]
+  },
+  {
+    "work_id": "T04n1002u",
+    "title": "Hastavālaprakaraṇavṛtti",
+    "author": "attributed to Āryadeva (or Dignāga; authorship disputed)",
+    "tradition": "Buddhist (Mahāyāna; Madhyamaka)",
+    "genre": "prakaraṇa with autocommentary (vṛtti)",
+    "date_estimate": "c. 3rd-5th c. CE (uncertain; depends on attribution)",
+    "summary": "The 'Treatise of the Hand-grasp/Handful' (also rendered Hastavālanāmaprakaraṇa), a very short verse treatise with its own commentary (vṛtti) arguing that ordinary objects, like a snake mistakenly seen in a coiled rope, are merely conceptual imputations lacking real existence when analyzed. It uses the rope-snake and part-whole analyses to teach the unreality of substantial things and thus emptiness.",
+    "history": "The work is variously ascribed to Āryadeva or to Dignāga in different traditions, and its attribution is debated in modern scholarship; it survives in Tibetan and Chinese with the autocommentary. It is a compact pedagogical demonstration of Madhyamaka non-substantiality.",
+    "related_works": ["Hastavālaprakaraṇa", "Catuḥśataka"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/aryadeva",
+      "https://en.wikipedia.org/wiki/Aryadeva"
+    ]
+  },
+  {
+    "work_id": "T04n1003u",
+    "title": "Madhyamakahṛdaya",
+    "author": "Bhāvaviveka (Bhāviveka/Bhavya)",
+    "tradition": "Buddhist (Mahāyāna; Madhyamaka, Svātantrika)",
+    "genre": "philosophical treatise (verse kārikā)",
+    "date_estimate": "c. 6th c. CE (Bhāvaviveka, c. 500-570)",
+    "summary": "The 'Heart of the Middle Way' (Madhyamakahṛdayakārikā), Bhāvaviveka's independent verse treatise expounding Madhyamaka and surveying rival systems. It defends the use of autonomous inference (svatantra-anumāna) in establishing emptiness and devotes whole chapters to critiquing the Śrāvakas, Yogācāra, Sāṃkhya, Vaiśeṣika, Vedānta, and Mīmāṃsā.",
+    "history": "Bhāvaviveka founded the Svātantrika branch of Madhyamaka, criticizing Buddhapālita and provoking Candrakīrti's Prāsaṅgika response. The kārikās partly survive in Sanskrit; the prose autocommentary, the Tarkajvālā ('Blaze of Reasoning'), survives only in Tibetan and is a major doxographical source for sixth-century Indian philosophy.",
+    "related_works": ["Tarkajvālā", "Prajñāpradīpa", "Mūlamadhyamakakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bh%C4%81viveka",
+      "https://www.britannica.com/biography/Bhavaviveka",
+      "https://www.panditproject.org/entity/88483/work"
+    ]
+  },
+  {
+    "work_id": "T04n1047u",
+    "title": "Madhyamārthasaṃgraha",
+    "author": "attributed to Bhāvaviveka (Bhavya; attribution debated)",
+    "tradition": "Buddhist (Mahāyāna; Madhyamaka)",
+    "genre": "philosophical treatise (short verse compendium)",
+    "date_estimate": "c. 6th c. CE if by Bhāvaviveka; attribution and date uncertain",
+    "summary": "A very brief 'Compendium of the Meaning of the Middle' summarizing core Madhyamaka doctrine, notably the analysis of the two truths (conventional and ultimate) and the divisions of ultimate truth. It distills the Madhyamaka view into a compact set of verses.",
+    "history": "Traditionally ascribed to Bhāvaviveka/Bhavya, though scholars debate whether it is by the sixth-century Bhāvaviveka or a later author of the same name; it is preserved in Tibetan. It is studied as a concise statement of the graded two-truths schema in the Svātantrika tradition.",
+    "related_works": ["Madhyamakahṛdaya", "Tarkajvālā"],
+    "confidence": "low",
+    "sources": [
+      "https://plato.stanford.edu/entries/twotruths-india/",
+      "https://en.wikipedia.org/wiki/Bh%C4%81viveka"
+    ]
+  },
+  {
+    "work_id": "T04n2850u",
+    "title": "Svabhāvavāda",
+    "author": "anonymous/traditional (collection; authorship unclear)",
+    "tradition": "Buddhist (Madhyamaka context) / Indian philosophy on svabhāva",
+    "genre": "verse collection / doctrinal treatise on 'inherent nature'",
+    "date_estimate": "1st millennium CE (uncertain)",
+    "summary": "A text concerned with svabhāva-vāda, the doctrine of 'inherent nature/own-being'. In the broader Indian setting svabhāvavāda denotes a naturalist position that things are simply as their intrinsic nature determines (a view discussed and often rejected); in the Buddhist Madhyamaka frame the concept of svabhāva is the central target of the emptiness critique. The exact content of this particular short work is not securely identifiable from available sources.",
+    "history": "Verses relating to svabhāvavāda were collected and cited across philosophical literature; the precise identity and authorship of this catalogued item (Toh 2850) could not be confirmed.",
+    "related_works": ["Mūlamadhyamakakārikā"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Svabhava",
+      "https://www.wisdomlib.org/definition/svabhava"
+    ]
+  },
+  {
+    "work_id": "T04n2980u",
+    "title": "Madhyamakāvatārakārikā",
+    "author": "Candrakīrti",
+    "tradition": "Buddhist (Mahāyāna; Madhyamaka, Prāsaṅgika)",
+    "genre": "philosophical treatise (root verses)",
+    "date_estimate": "c. 7th c. CE (Candrakīrti, c. 600-650)",
+    "summary": "The root verses (kārikā) of Candrakīrti's Madhyamakāvatāra, i.e. the verse text alone of the 'Introduction to the Middle Way', extracted from the work he glossed in his own bhāṣya. It lays out Madhyamaka along the ten bodhisattva grounds and culminates in the refutation of svabhāva and the critique of Yogācāra in the sixth ground.",
+    "history": "This is the bare verse layer corresponding to the full Madhyamakāvatāra (with autocommentary); the verses largely survive in Sanskrit and are the basis of extensive Tibetan exegesis, especially in the Dge-lugs tradition.",
+    "related_works": ["Madhyamakāvatāra", "Mūlamadhyamakakārikā", "Prasannapadā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Madhyamak%C4%81vat%C4%81ra",
+      "https://buddhanature.tsadra.org/index.php/People/Candrak%C4%ABrti"
+    ]
+  },
+  {
+    "work_id": "T04n847u",
+    "title": "Madhyamakaśāstrastuti",
+    "author": "Candrakīrti (traditionally attributed)",
+    "tradition": "Buddhist (Mahāyāna; Madhyamaka)",
+    "genre": "stuti/stotra (hymn of praise)",
+    "date_estimate": "c. 7th c. CE if by Candrakīrti (uncertain)",
+    "summary": "A short hymn 'in praise of the Madhyamaka treatise', that is, a eulogy to Nāgārjuna and his Mūlamadhyamakakārikā as the foundational śāstra of the Middle Way. It venerates the author and teaching of emptiness in verse.",
+    "history": "Such dedicatory verses to Nāgārjuna appear in and around Candrakīrti's works; this brief stuti is traditionally linked to him, though its independent transmission and authorship are not firmly established. It survives among the minor Madhyamaka texts of the canon.",
+    "related_works": ["Mūlamadhyamakakārikā", "Prasannapadā", "Madhyamakāvatāra"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/M%C5%ABlamadhyamakak%C4%81rik%C4%81",
+      "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/candrakirti"
+    ]
+  },
+  {
+    "work_id": "T04n848u",
+    "title": "Niraupamyastava",
+    "author": "Nāgārjuna (traditionally attributed; part of the Catuḥstava)",
+    "tradition": "Buddhist (Mahāyāna; Madhyamaka)",
+    "genre": "stava/stotra (hymn of praise)",
+    "date_estimate": "c. 2nd-3rd c. CE if by Nāgārjuna; authorship of the Catuḥstava disputed",
+    "summary": "The 'Hymn to the Peerless/Incomparable One', a devotional poem praising the Buddha as without equal. While laudatory in form, it expresses Madhyamaka themes, presenting the Buddha and his awakening in terms consistent with emptiness and the absence of intrinsic marks.",
+    "history": "It is counted among Nāgārjuna's Catuḥstava ('Four Hymns'), alongside the Lokātītastava, Acintyastava, and Paramārthastava, though more than four such hymns are transmitted and which constitute the original quartet is debated. The Sanskrit survives and the hymns were popular in Indian Mahāyāna circles.",
+    "related_works": ["Catuḥstava", "Lokātītastava", "Acintyastava", "Paramārthastava"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.oxfordreference.com/display/10.1093/acref/9780190681159.001.0001/acref-9780190681159-e-2938",
+      "https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095555677"
+    ]
+  },
+  {
+    "work_id": "T04n849u",
+    "title": "Paramārthastava",
+    "author": "Nāgārjuna (traditionally attributed; part of the Catuḥstava)",
+    "tradition": "Buddhist (Mahāyāna; Madhyamaka)",
+    "genre": "stava/stotra (hymn of praise)",
+    "date_estimate": "c. 2nd-3rd c. CE if by Nāgārjuna; authorship of the Catuḥstava disputed",
+    "summary": "The 'Hymn to the Ultimate', praising the Buddha in terms of ultimate truth (paramārtha). It uses a sequence of negations to indicate that the Buddha, like ultimate reality and nirvāṇa, cannot be captured by predicates, thereby voicing Madhyamaka apophasis in the form of devotional praise.",
+    "history": "One of the four hymns of Nāgārjuna's Catuḥstava; its Sanskrit survives. As with the other staves, the secure attribution to Nāgārjuna and membership in the original 'four' are matters of scholarly discussion.",
+    "related_works": ["Catuḥstava", "Lokātītastava", "Acintyastava", "Niraupamyastava"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095555677",
+      "https://plato.stanford.edu/entries/nagarjuna/"
+    ]
+  },
+  {
+    "work_id": "T04nagmmk_u",
+    "title": "Mūlamadhyamakakārikā",
+    "author": "Nāgārjuna",
+    "tradition": "Buddhist (Mahāyāna; Madhyamaka)",
+    "genre": "philosophical treatise (root verses / kārikā)",
+    "date_estimate": "c. 2nd-3rd c. CE (Nāgārjuna)",
+    "summary": "The 'Root Verses on the Middle Way', the foundational text of the Madhyamaka school, comprising c. 450 verses in 27 chapters. Through dialectical analysis it argues that all phenomena are empty of intrinsic nature (svabhāva) because they arise dependently, examining causation, motion, the aggregates, time, the self, nirvāṇa, and the four noble truths, and equating dependent origination with emptiness and the middle way.",
+    "history": "Composed by Nāgārjuna (c. 150-250 CE), the MMK is among the most influential works of Buddhist philosophy and spawned a vast commentarial tradition (Buddhapālita, Bhāvaviveka's Prajñāpradīpa, Candrakīrti's Prasannapadā, etc.) and the Svātantrika/Prāsaṅgika split. The verses are preserved in Sanskrit (chiefly via Candrakīrti's commentary), Tibetan, and Chinese.",
+    "related_works": ["Prasannapadā", "Madhyamakāvatāra", "Madhyamakahṛdaya", "Prajñāpradīpa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/M%C5%ABlamadhyamakak%C4%81rik%C4%81",
+      "https://plato.stanford.edu/entries/nagarjuna/",
+      "https://encyclopediaofbuddhism.org/wiki/M%C5%ABlamadhyamakak%C4%81rik%C4%81"
+    ]
+  }
+]

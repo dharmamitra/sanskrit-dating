@@ -1,0 +1,322 @@
+[
+  {
+    "work_id": "K10klpdrapu",
+    "title": "Kalpadrumāvadānamālā",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna; Nepalese avadāna tradition)",
+    "genre": "avadāna (narrative legend collection), composed in verse",
+    "date_estimate": "later than the Avadānaśataka; broadly mid-to-late 1st millennium CE or later medieval (disputed; known only from late Nepalese manuscripts)",
+    "summary": "A 'garland of avadānas' (avadānamālā), the 'Wish-Tree Garland of Avadānas' is a poetic verse elaboration of Buddhist legends illustrating karma and moral cause-and-effect. It begins by elaborating the last story of the Avadānaśataka and frames its legends as conversations between Emperor Aśoka and the elder Upagupta.",
+    "history": "One of several Sanskrit avadānamālās drawing partly on the older prose Avadānaśataka and partly on other sources, recast entirely in epic ślokas in a style reminiscent of the Purāṇas. It survives only in manuscript and remains largely unedited and untranslated; scholars have called for a critical edition.",
+    "related_works": ["Avadānaśataka", "Divyāvadāna", "Aśokāvadāna"],
+    "confidence": "medium",
+    "sources": [
+      "https://ancient-buddhist-texts.net/Reference/Literary-History-of-Sanskrit-Buddhism/06-Avadana.htm",
+      "https://www.academia.edu/39010557/The_Avad%C4%81na%C5%9Bataka_and_the_Kalpadrum%C4%81vad%C4%81nam%C4%81l%C4%81_What_should_we_be_doing_now"
+    ]
+  },
+  {
+    "work_id": "K10mahama_u",
+    "title": "Mahāmantrānusāriṇī",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna; dhāraṇī cult)",
+    "genre": "dhāraṇī (protective spell text)",
+    "date_estimate": "1st millennium CE (text grouped into the Pañcarakṣā by c. 800 CE; Sanskrit mss from 11th c. onward)",
+    "summary": "A protective dhāraṇī scripture, the 'Great Mantra-Follower,' which is one of the five texts of the Pañcarakṣā ('Five Protections') collection. It contains spells, lists of benefits, and ritual instructions aimed at worldly welfare—curing snakebite, averting disease and disaster, and overcoming fear.",
+    "history": "The Pañcarakṣā group (Mahāpratisarā, Mahāmāyūrī, Mahāsāhasrapramardanī, Mahāmantrānusāriṇī, Mahāśītavatī) is first attested as a set in Tibetan catalogues around 800 CE; the surviving Sanskrit collection is preserved in Nepalese manuscripts from the 11th century onward. The deity is described as blue, three-faced and twelve-armed in the Niṣpannayogāvalī.",
+    "related_works": ["Pañcarakṣā", "Mahāpratisarā", "Mahāmāyūrī", "Mahāsāhasrapramardanī", "Mahāśītavatī"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mahamantranusarini",
+      "https://en.wikipedia.org/wiki/Pan%CC%82carak%E1%B9%A3%C4%81",
+      "https://encyclopediaofbuddhism.org/wiki/Pa%C3%B1carak%E1%B9%A3%C4%81"
+    ]
+  },
+  {
+    "work_id": "K10maivy_pu",
+    "title": "Maitreyavyākaraṇa [Maitreyavyākaraṇasūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna; Maitreya cult)",
+    "genre": "vyākaraṇa (prophecy) sūtra",
+    "date_estimate": "uncertain; c. 3rd-5th c. CE (Gilgit-era fragments c. 400-600 CE)",
+    "summary": "The 'Prophecy of Maitreya' foretells the future advent of Maitreya, the next Buddha, and the ideal world of his time. It describes how gods, humans, and other beings will have their doubts dispelled and their cravings cut off through Maitreya's teaching, enabling them to lead the holy life.",
+    "history": "A noncanonical Sanskrit prophetic text of uncertain origin and date, paralleling the Pali Anāgatavaṃsa. Early fragments have been found at Mes Aynak (Afghanistan) and Gilgit, predating more complete Nepalese, Tibetan, and Chinese witnesses; the Maitreya cult developed roughly contemporaneously with that of Amitābha around the 3rd century CE.",
+    "related_works": ["Anāgatavaṃsa", "Maitreyasamiti"],
+    "confidence": "high",
+    "sources": [
+      "https://texts.mandala.library.virginia.edu/text/prophecy-maitreya",
+      "https://en.wikipedia.org/wiki/Maitreya"
+    ]
+  },
+  {
+    "work_id": "K10n206u",
+    "title": "Avikalpapraveśadhāraṇī [Avikalpapraveśadhāraṇīsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna; Yogācāra)",
+    "genre": "dhāraṇī sūtra / short Mahāyāna sūtra",
+    "date_estimate": "c. 3rd-5th c. CE (influential in Yogācāra by the 5th-6th c.)",
+    "summary": "A short Mahāyāna sūtra, 'Entering into Nonconceptuality,' teaching the attainment of the nonconceptual realm (nirvikalpa) through progressively relinquishing all conceptual signs by not directing the mind toward them. It maps a graded sequence of abandoning conceptual marks corresponding to stages of the bodhisattva path.",
+    "history": "From an early period it was closely associated with the Five Treatises of Maitreya and is regarded as a source text for the Dharmadharmatāvibhāga. Indian commentaries include Kamalaśīla's Avikalpapraveśadhāraṇīṭīkā and a lost work by Śākyamitra; it was cited by Yogācārins such as Sthiramati and Ratnākaraśānti.",
+    "related_works": ["Dharmadharmatāvibhāga", "Five Treatises of Maitreya", "Avikalpapraveśadhāraṇīṭīkā (Kamalaśīla)"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh142",
+      "https://www.rigpawiki.org/index.php?title=The_Dharani_%E2%80%9CEntering_into_Nonconceptuality%E2%80%9D"
+    ]
+  },
+  {
+    "work_id": "K10n262u",
+    "title": "Āryānityatāsūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (broadly Mainstream/Mahāyāna)",
+    "genre": "sūtra (short doctrinal discourse)",
+    "date_estimate": "1st millennium CE (Chinese translation by Fatian, 984 CE)",
+    "summary": "The 'Noble Sūtra on Impermanence' is a short discourse on the impermanence of all conditioned states (anitya). The Buddha teaches that regardless of social status, rebirth in a heaven, or even the attainment of arhatship, pratyekabuddhahood, or buddhahood, all that lives must die, concluding with verses urging the audience to bring conditioned states to rest.",
+    "history": "A brief canonical sūtra preserved in Sanskrit, Tibetan, and a Chinese translation by Fatian (984 CE) whose content broadly agrees across versions. Note that two distinct works share the title Anityatāsūtra in the Tibetan collection.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh310"
+    ]
+  },
+  {
+    "work_id": "K10n266u",
+    "title": "Āryasāgaranāgarājaparipṛcchānāmamahāyānasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "paripṛcchā (dialogue) Mahāyāna sūtra",
+    "date_estimate": "1st millennium CE",
+    "summary": "'The Questions of the Nāga King Sāgara' is set in the undersea palace of the nāga king Sāgara, where the Buddha teaches and acts as a peacemaker amid conflicts between gods and asuras and between nāgas and garuḍas. Several distinct recensions exist; their teachings range from the ten nonvirtuous deeds to the merit of reciting the four aphorisms (dharmoddāna) of the Dharma.",
+    "history": "Known in three substantially different versions extant in both the Tibetan Kangyur and the Taishō canon (T0598, T0599, T0601; Toh 153-155). The nāga king Sāgara also figures prominently in the Avataṃsaka and Lotus sūtras.",
+    "related_works": ["Saddharmapuṇḍarīkasūtra", "Avataṃsakasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh153",
+      "https://en.wikipedia.org/wiki/S%C4%81gara_(Dragon_King)"
+    ]
+  },
+  {
+    "work_id": "K10n267u",
+    "title": "Āryasaṃghāṭasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "Mahāyāna sūtra (dhāraṇī-type)",
+    "date_estimate": "by c. 5th c. CE (translated into Khotanese before mid-5th c.; Gilgit mss 5th c.)",
+    "summary": "The 'Saṅghāṭa Sūtra,' a 'dharma-paryāya' widely circulated in northwest India and Central Asia, emphasizes the immense merit, purification of karma, and protection gained from hearing, reciting, or copying the text. It frames its teaching through dialogues with the bodhisattva Sarvaśūra and recounts past-life and afterlife narratives stressing impermanence and the path to liberation.",
+    "history": "Among the most popular Mahāyāna scriptures in the region: more copies were found in the Gilgit cache than of the Lotus, Diamond, or Prajñāpāramitā sūtras. It was translated into Khotanese, Chinese, Sogdian, and Tibetan between the 5th and 10th centuries.",
+    "related_works": ["Saṃghāṭasūtra (K10samghscu)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sanghata_Sutra",
+      "https://encyclopediaofbuddhism.org/wiki/Sanghata_Sutra"
+    ]
+  },
+  {
+    "work_id": "K10n269u",
+    "title": "Āryatriratnānusmṛtisūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sūtra (devotional/recollection text)",
+    "date_estimate": "1st millennium CE",
+    "summary": "The 'Sūtra of the Recollection of the Noble Three Jewels' is a short text (in some recensions a set of three short texts) presenting formulas for the recollection (anusmṛti) of the Buddha, the Dharma, and the Saṅgha. It enumerates the qualities of each of the Three Jewels and is commonly recited as a devotional practice to purify karma and generate merit.",
+    "history": "A widely recited liturgical scripture across Buddhist traditions, transmitted in Sanskrit and Tibetan and forming a core part of daily chants; it has been commented upon and incorporated into ritual practice in Tibetan and other communities.",
+    "related_works": ["Buddhānusmṛti", "Dharmānusmṛti", "Saṃghānusmṛti"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Sutra_of_Recollecting_the_Three_Jewels",
+      "https://www.lotsawahouse.org/words-of-the-buddha/sutra-recalling-three-jewels"
+    ]
+  },
+  {
+    "work_id": "K10n2942u",
+    "title": "Saddharmasmṛtyupasthānasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mainstream/early Mahāyāna; cosmological)",
+    "genre": "sūtra (doctrinal, cosmological, meditative)",
+    "date_estimate": "first half of the 1st millennium CE (composite)",
+    "summary": "A very large sūtra ('Application of Mindfulness of the True Dharma') treating karma, the realms of rebirth, Buddhist cosmology, and meditation. Its famous chapter 7 offers an unusually detailed, anatomical and osteological meditation on the body, including descriptions of internal worms and the winds that destroy them at death, presented as a dispassionate 'scientific' observation rather than as a generator of disgust.",
+    "history": "An extensive Indian Buddhist sūtra dated to the first half of the first millennium, surviving in Sanskrit fragments and in Chinese and Tibetan translations; it is a major source for Buddhist cosmology and karma doctrine and has attracted recent scholarly study of its distinctive body-meditation.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.mdpi.com/2077-1444/11/6/283",
+      "https://www.academia.edu/43700758/Meditation_on_the_Body_in_Chapter_7_of_Saddharmasm%E1%B9%9Btyupasth%C4%81nas%C5%ABtra"
+    ]
+  },
+  {
+    "work_id": "K10n443u",
+    "title": "Mahāmeghasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna; tathāgatagarbha)",
+    "genre": "Mahāyāna sūtra (with dhāraṇī and rain ritual)",
+    "date_estimate": "by early 5th c. CE (Chinese translation by Dharmakṣema, 385-433)",
+    "summary": "The 'Great Cloud Sūtra' is a tathāgatagarbha-type Mahāyāna sūtra teaching that the Buddha is eternal and does not truly enter parinirvāṇa. Asked by the king of the nāgas (dragons) for a way to bring rain, the Buddha teaches the 'single dharma' of loving-kindness and provides a dhāraṇī together with a ritual manual for a rain-making rite involving a mandala, a blue canopy, water vases, and images of four dragon kings.",
+    "history": "Translated into Chinese by Dharmakṣema (early 5th c.) and into Tibetan by Surendrabodhi and Yeshe Dé in the 9th century. It became central to imperial state ritual under Empress Wu (683-690) and to court rain-making rituals in Japan for centuries.",
+    "related_works": ["Meghasūtra", "Mahāmeghasūtra (Tibetan Toh 235/657)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mah%C4%81megha_S%C5%ABtra",
+      "https://84000.co/translation/toh235"
+    ]
+  },
+  {
+    "work_id": "K10n446u",
+    "title": "Meghasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna; nāga/rain cult)",
+    "genre": "dhāraṇī / rain-making ritual sūtra",
+    "date_estimate": "c. 2nd-4th c. CE",
+    "summary": "The 'Cloud Sūtra' is the earliest surviving Sanskrit Buddhist rain-making text. It contains a long series of invocations to the nāgas (snake-kings) for rain, prescribing a rite called the 'great-cloud-circle' (mahāmeghamaṇḍala) performed in an open space, in which various nāgarājas—Triśīrṣaka, Pañcaśīrṣaka, Saptaśīrṣaka, Navaśīrṣaka and others—are depicted in the four quarters.",
+    "history": "Partially edited and translated by Cecil Bendall (1880) from a Nepalese manuscript now in Cambridge University Library (Or.135). It is distinct from, though thematically related to, the larger tathāgatagarbha Mahāmeghasūtra.",
+    "related_works": ["Mahāmeghasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://sacred-texts.com/journals/jras/ns12-10.htm",
+      "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/abs/art-xthe-meghasutra/5EC0854BBE9FC2B0D73229EE7004629C"
+    ]
+  },
+  {
+    "work_id": "K10n526u",
+    "title": "Sarvatathāgatādhiṣṭhānavyūhasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna; dhāraṇī cult)",
+    "genre": "dhāraṇī sūtra (vyūharāja)",
+    "date_estimate": "1st millennium CE",
+    "summary": "A dhāraṇī sūtra whose full title is roughly 'King of Arrayed Empowerments of All Tathāgatas, by which the Buddha-fields and Beings are Beheld.' It concerns the empowerment (adhiṣṭhāna) of all the Tathāgatas and offers a dhāraṇī through which one beholds the Buddha-fields and surveys all beings, with associated merit and ritual benefits.",
+    "history": "A relatively obscure Mahāyāna dhāraṇī scripture preserved in Sanskrit and in Chinese (Zhuangyan wang tuoluoni zhou jing) and Tibetan translations, transmitted within the broader Indian dhāraṇī-sūtra literature; it has received little modern scholarly study.",
+    "related_works": [],
+    "confidence": "medium",
+    "sources": [
+      "http://www.buddhism-dict.net/ddb/indexes/text-sa.html",
+      "https://www.scribd.com/doc/271679926/Sarva-Tathagata-Adhisthana-Sattva-Avalokita-Buddha-Ksetra-Samdarsana-Vyuha-Raja-Dharani-Sanskrit-Cohen-R"
+    ]
+  },
+  {
+    "work_id": "K10nagasu",
+    "title": "nagarasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mainstream; Sarvāstivāda)",
+    "genre": "sūtra (early canonical discourse)",
+    "date_estimate": "early Buddhist material; Sanskrit recension transmitted within the Sarvāstivāda canon (text material BCE-early CE; mss later)",
+    "summary": "The 'City Sūtra' (Nagarasūtra), preserved in Sanskrit within the Nidānasaṃyukta, recounts the Buddha's discovery of dependent origination (pratītyasamutpāda) through the simile of a man who finds an ancient overgrown city and reports it to a king who then restores it. It is the discourse usually known as the Nagaropama ('Simile of the City') sūtra.",
+    "history": "Part of the Sarvāstivāda Saṃyuktāgama / Nidānasaṃyukta, recovered among Sanskrit fragments from Central Asia (Turfan) and edited by Ch. Tripāṭhī in 'Fünfundzwanzig Sūtras des Nidānasaṃyukta'; it has counterparts in the Pali canon and the Chinese Saṃyuktāgama.",
+    "related_works": ["Nidānasaṃyukta", "Saṃyuktāgama", "Nagaropamasūtra"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da",
+      "https://84000.co/translation/toh212"
+    ]
+  },
+  {
+    "work_id": "K10nagsu_pu",
+    "title": "Nagaropamasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mainstream; Sarvāstivāda)",
+    "genre": "sūtra (early canonical discourse)",
+    "date_estimate": "early Buddhist material; Sanskrit recension transmitted within the Sarvāstivāda canon (text BCE-early CE; mss later)",
+    "summary": "'The Discourse on the Simile of the City' relates how the Buddha discovered dependent origination (pratītyasamutpāda) before his awakening, comparing his rediscovery of the ancient path to a traveler who chances upon a long-forgotten city. It expounds the chain of conditioned arising and its cessation.",
+    "history": "Preserved in Sanskrit within the Nidānasaṃyukta of the Sarvāstivāda Saṃyuktāgama, with fragments from Turfan edited by Ch. Tripāṭhī; it parallels the Pali Nagara Sutta (SN 12.65) and the Chinese Saṃyuktāgama.",
+    "related_works": ["Nidānasaṃyukta", "Saṃyuktāgama", "nagarasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da",
+      "https://84000.co/translation/toh212"
+    ]
+  },
+  {
+    "work_id": "K10nidansyu",
+    "title": "Nidānasaṃyukta",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mainstream; Sarvāstivāda)",
+    "genre": "āgama section (collection of canonical sūtras)",
+    "date_estimate": "early Buddhist material; Sanskrit recension transmitted in the Sarvāstivāda canon (text BCE-early CE; Turfan mss mid-1st millennium CE)",
+    "summary": "The 'Connected Discourses on Causation' is the section of the Sarvāstivāda Saṃyuktāgama gathering sūtras devoted to dependent origination (pratītyasamutpāda) and related causal doctrine. It comprises a set of short discourses—classically a group of twenty-five—including the Nagaropamasūtra and Pratītyasamutpādasūtra.",
+    "history": "Reconstructed from Sanskrit manuscript fragments recovered from Turfan in Central Asia and edited by Chandrabhāl Tripāṭhī in 'Fünfundzwanzig Sūtras des Nidānasaṃyukta' (1962); it corresponds to the Nidāna section of the Pali Saṃyutta Nikāya and the Chinese Saṃyuktāgama.",
+    "related_works": ["Saṃyuktāgama", "Nagaropamasūtra", "Pratītyasamutpādasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da",
+      "https://www.mdpi.com/2077-1444/15/12/1432"
+    ]
+  },
+  {
+    "work_id": "K10ratnakeu",
+    "title": "Mahāsannipātaratnaketudhāraṇīsūtra [Ratnaketuparivarta, Ratnaketudhāraṇīsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna; dhāraṇī cult)",
+    "genre": "dhāraṇī sūtra (part of a great-assembly anthology)",
+    "date_estimate": "by early 5th c. CE (Chinese translation by Dharmakṣema, from 414)",
+    "summary": "The 'Ratnaketu Dhāraṇī' is one of the constituent sūtras of the Mahāsaṃnipāta ('Great Assembly') collection. It narrates the Buddha's subjugation of Māra and hostile forces and provides protective dhāraṇīs, set within the cosmic 'great assembly' framework typical of the anthology.",
+    "history": "Belongs to the Mahāvaipulya Mahāsaṃnipāta Sūtra, a Mahāyāna anthology of seventeen sūtras whose complete form survives only in Chinese (begun by Dharmakṣema in 414); individual sūtras like the Ratnaketu survive in Sanskrit and in the Tibetan canon (Toh 138) and has been translated by the 84000 project.",
+    "related_works": ["Mahāsaṃnipātasūtra", "Mahāvaipulya Mahāsaṃnipāta Sūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mahasamnipata_Sutra",
+      "https://84000.co/translation/toh138"
+    ]
+  },
+  {
+    "work_id": "K10samghscu",
+    "title": "Saṃghāṭasūtra [Saṅghāṭasūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "Mahāyāna sūtra (dhāraṇī-type)",
+    "date_estimate": "by c. 5th c. CE (Gilgit mss 5th c.; Khotanese translation before mid-5th c.)",
+    "summary": "The 'Saṅghāṭa Sūtra' is a popular Mahāyāna 'dharma-paryāya' promising vast merit, purification of negative karma, and protection to those who hear, recite, or copy it. Through dialogues (notably with the bodhisattva Sarvaśūra) it teaches on impermanence, the experiences of beings after death, and the path to liberation. This is a second catalogue entry for the same work as Āryasaṃghāṭasūtra (K10n267u).",
+    "history": "One of the most widely copied scriptures of northwest India and Central Asia—found in greater numbers at Gilgit than the Lotus or Diamond sūtras—and translated into Khotanese, Chinese, Sogdian, and Tibetan between the 5th and 10th centuries.",
+    "related_works": ["Āryasaṃghāṭasūtra (K10n267u)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sanghata_Sutra",
+      "https://encyclopediaofbuddhism.org/wiki/Sanghata_Sutra"
+    ]
+  },
+  {
+    "work_id": "K10samyu_wu",
+    "title": "Saṃyuktāgama",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mainstream; Sarvāstivāda)",
+    "genre": "āgama (canonical collection of discourses)",
+    "date_estimate": "early Buddhist material (canonical core BCE-early CE); Sanskrit fragments and Chinese translation mid-1st millennium CE",
+    "summary": "The 'Connected Discourses,' one of the four principal āgamas, is a large collection of (mostly short) sūtras grouped thematically by subject (e.g., the aggregates, the sense-bases, dependent origination, the path). It corresponds to the Pali Saṃyutta Nikāya and is associated with the Sarvāstivāda school.",
+    "history": "The main Chinese version (Za ahan jing, T99) was translated by Guṇabhadra and Baoyun in 435-436 CE; portions of a Sanskrit Sarvāstivāda recension survive as fragments from Central Asia (e.g., the Nidānasaṃyukta), and several sūtras survive in Tibetan.",
+    "related_works": ["Saṃyutta Nikāya", "Nidānasaṃyukta", "Dīrghāgama", "Madhyamāgama", "Ekottarāgama"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Samyukta_Agama",
+      "https://en.wikipedia.org/wiki/%C4%80gama_(Buddhism)"
+    ]
+  },
+  {
+    "work_id": "K10sjdh_u",
+    "title": "Sarvajñatākāradhāraṇī [Karuṇāpuṇḍarīka(sūtra)]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "dhāraṇī passage within a Mahāyāna sūtra",
+    "date_estimate": "c. 4th c. CE (the parent Karuṇāpuṇḍarīka formed around the 4th c.; Sanskrit text dated c. 414-421)",
+    "summary": "The Sarvajñatākāradhāraṇī ('Dhāraṇī Embodying the Mode of Omniscience') is a dhāraṇī doctrine taught in the second chapter (Dhāraṇīmukhaparivarta) of the Karuṇāpuṇḍarīka ('White Lotus of Compassion'). By attaining this dhāraṇī one is said to grasp omniscience (sarvajñajñāna) and all the Buddha's teachings; it notably contains a 'Dravidian' mantra phrase (Dramiḍa-mantrapada).",
+    "history": "The parent Karuṇāpuṇḍarīka is a Mahāyāna sūtra recounting the origins of many buddhas and bodhisattvas (especially Śākyamuni), centered on the cakravartin Araṇemin and his priest Samudrareṇu; it was formed around the 4th century, with the Sanskrit text dated c. 414-421 CE.",
+    "related_works": ["Karuṇāpuṇḍarīkasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Karu%E1%B9%87%C4%81pu%E1%B9%87%E1%B8%8Dar%C4%ABka",
+      "https://www.researchgate.net/publication/363395953_Dharani_in_the_Karunapundarikabeihuajingniokerutuoluoni"
+    ]
+  },
+  {
+    "work_id": "K10srajsgiu",
+    "title": "Samādhirājasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna; important for Madhyamaka)",
+    "genre": "Mahāyāna sūtra",
+    "date_estimate": "redaction c. 2nd/3rd-6th c. CE (disputed)",
+    "summary": "The 'King of Samādhis Sūtra' (also Candrapradīpasūtra, 'Moon-Lamp Sūtra') centers on a particular samādhi described as 'the samādhi manifested as the sameness of the essential nature of all dharmas,' presented as the key to the whole path and to the virtues of the buddhas. It expounds emptiness, bodhisattva conduct, mendicancy, past-life tales, and future prophecies.",
+    "history": "Its redaction is variously dated from the 2nd-3rd century to the 6th century (the date of the earliest manuscript), and some scholars hold the date cannot be fixed. It is a major scriptural source for the Madhyamaka school, cited by Candrakīrti, Śāntideva, and others, though its doctrinal stance is not purely Mādhyamika.",
+    "related_works": ["Candrapradīpasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Samadhiraja_Sutra",
+      "https://encyclopediaofbuddhism.org/wiki/Samadhiraja_Sutra"
+    ]
+  }
+]

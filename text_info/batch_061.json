@@ -1,0 +1,326 @@
+[
+  {
+    "work_id": "T04nagmyv_u",
+    "title": "Mahāyānaviṃśikā [Mahāyānaviṃśati]",
+    "author": "attributed to Nāgārjuna (disputed)",
+    "tradition": "Buddhist (Mahayana, Madhyamaka)",
+    "genre": "philosophical treatise (verse kārikā)",
+    "date_estimate": "c. 2nd-4th c. CE (if by Nāgārjuna, c. 150-250 CE; authorship doubted, may be later)",
+    "summary": "A short work of roughly twenty verses ('Twenty Verses on the Great Vehicle') expounding core Mahayana and Madhyamaka themes such as emptiness (śūnyatā), the illusory, dependently arisen nature of phenomena, and the non-substantiality of mind and objects. It compresses the standard Madhyamaka critique of inherent existence into a brief devotional-philosophical compass.",
+    "history": "Traditionally ascribed to Nāgārjuna, the founder of the Madhyamaka school, though the attribution is contested by modern scholars and the text may belong to a later author working in his name. It survives chiefly in Tibetan (and partly Sanskrit/Chinese) and was studied alongside his Pratītyasamutpādahṛdayakārikā.",
+    "related_works": ["Mūlamadhyamakakārikā", "Pratītyasamutpādahṛdayakārikā", "Vigrahavyāvartanī"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.peterlang.com/document/1094440",
+      "https://www.goodreads.com/book/show/22318748-twenty-verses-on-mahayana-buddhism-or-the-mahayanavimsika-of-nagarjuna",
+      "https://plato.stanford.edu/entries/nagarjuna/"
+    ]
+  },
+  {
+    "work_id": "T04nagvigvu",
+    "title": "Vigrahavyāvartanī",
+    "author": "Nāgārjuna (traditional; some scholarly doubt)",
+    "tradition": "Buddhist (Mahayana, Madhyamaka)",
+    "genre": "philosophical treatise (verse kārikās with autocommentary/vṛtti)",
+    "date_estimate": "c. 2nd-3rd c. CE (Nāgārjuna, c. 150-250 CE)",
+    "summary": "The 'Averting of the Disputes,' comprising seventy verses with an accompanying prose autocommentary (vṛtti), in which Nāgārjuna answers objections to the doctrine of emptiness, especially the charge that the thesis 'all things are empty' is self-refuting. It contains his famous critique of the Nyāya theory of pramāṇas (means of valid knowledge) and the assertion that emptiness is itself empty and entails no positive thesis.",
+    "history": "One of the two works (with the Mūlamadhyamakakārikā) used as the touchstone for Nāgārjuna's authentic corpus, though a few scholars have questioned the attribution. It is a foundational text for Buddhist debate with the Brahmanical Nyāya school and survives in Sanskrit, Tibetan, and Chinese with later commentaries.",
+    "related_works": ["Mūlamadhyamakakārikā", "Vigrahavyāvartanīkārikā", "Nyāyasūtra (responds to)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nagarjuna",
+      "https://plato.stanford.edu/entries/nagarjuna/",
+      "https://www.academia.edu/43482686/Against_the_Attribution_of_the_Vigrahavya_vartani_to_Na_ga_rjuna"
+    ]
+  },
+  {
+    "work_id": "T04nagvvy_u",
+    "title": "Vigrahavyāvartanīkārikā",
+    "author": "Nāgārjuna (traditional; some scholarly doubt)",
+    "tradition": "Buddhist (Mahayana, Madhyamaka)",
+    "genre": "philosophical treatise (verse kārikās)",
+    "date_estimate": "c. 2nd-3rd c. CE (Nāgārjuna, c. 150-250 CE)",
+    "summary": "The bare verse portion (kārikās, ~70 stanzas) of the Vigrahavyāvartanī, presenting Nāgārjuna's reply to objections against emptiness and his critique of the Nyāya epistemology of pramāṇas, without the accompanying prose autocommentary. The verses argue that the proposition 'everything is empty' does not undermine itself because the statement too lacks intrinsic nature.",
+    "history": "This is the metrical core of the same work catalogued separately above (the Vigrahavyāvartanī normally circulates with Nāgārjuna's own vṛtti); the kārikā designation isolates the verses alone. It is part of Nāgārjuna's foundational Madhyamaka corpus and shares its transmission and commentarial tradition.",
+    "related_works": ["Vigrahavyāvartanī", "Mūlamadhyamakakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nagarjuna",
+      "https://plato.stanford.edu/entries/nagarjuna/"
+    ]
+  },
+  {
+    "work_id": "T04nagysk_u",
+    "title": "Yuktiṣaṣṭikakārikā",
+    "author": "Nāgārjuna",
+    "tradition": "Buddhist (Mahayana, Madhyamaka)",
+    "genre": "philosophical treatise (verse kārikās)",
+    "date_estimate": "c. 2nd-3rd c. CE (Nāgārjuna, c. 150-250 CE)",
+    "summary": "The 'Sixty Stanzas on Reasoning' (kārikā form), a concise Madhyamaka treatise that develops the relationship between emptiness (śūnyatā) and dependent origination (pratītyasamutpāda) and argues for the middle way avoiding the extremes of existence and non-existence. It frames philosophy therapeutically as the elimination of reifying and nihilistic cognitive biases.",
+    "history": "One of Nāgārjuna's most frequently cited works among later Madhyamaka commentators and a member of the Tibetan 'Sixfold Canon of Reasoning' (rigs tshogs drug). Candrakīrti wrote an influential commentary (Yuktiṣaṣṭikāvṛtti); the verses survive in Tibetan and Chinese with Sanskrit fragments.",
+    "related_works": ["Mūlamadhyamakakārikā", "Yuktiṣaṣṭikāvṛtti (Candrakīrti)", "Śūnyatāsaptati"],
+    "confidence": "high",
+    "sources": [
+      "https://plato.stanford.edu/entries/nagarjuna/",
+      "https://www.rigpawiki.org/index.php?title=Sixty_Stanzas_on_Reasoning",
+      "https://www.amazon.com/Nagarjunas-Yuktisastika-Candrakirtis-Commentary-Yuktisastikavrrti/dp/0975373420"
+    ]
+  },
+  {
+    "work_id": "T04nagyuksu",
+    "title": "Yuktiṣaṣṭikārikā",
+    "author": "Nāgārjuna",
+    "tradition": "Buddhist (Mahayana, Madhyamaka)",
+    "genre": "philosophical treatise (verse kārikās)",
+    "date_estimate": "c. 2nd-3rd c. CE (Nāgārjuna, c. 150-250 CE)",
+    "summary": "A variant catalogue spelling of the Yuktiṣaṣṭikā ('Sixty Stanzas on Reasoning'), the same sixty-verse Madhyamaka work that correlates emptiness with dependent origination and counsels the middle way free of the extremes of being and nothingness. It is among Nāgārjuna's shortest and most-quoted reasoning treatises.",
+    "history": "Identical work to the Yuktiṣaṣṭikakārikā entry above, here listed under a slightly different title form. Part of the Tibetan 'Sixfold Canon of Reasoning,' it is traditionally read with Candrakīrti's commentary.",
+    "related_works": ["Yuktiṣaṣṭikakārikā", "Mūlamadhyamakakārikā", "Yuktiṣaṣṭikāvṛtti (Candrakīrti)"],
+    "confidence": "high",
+    "sources": [
+      "https://plato.stanford.edu/entries/nagarjuna/",
+      "https://www.rigpawiki.org/index.php?title=Sixty_Stanzas_on_Reasoning"
+    ]
+  },
+  {
+    "work_id": "T04santbcpu",
+    "title": "Bodhicaryāvatāra [Bodhisattvacaryāvatāra]",
+    "author": "Śāntideva",
+    "tradition": "Buddhist (Mahayana, Madhyamaka)",
+    "genre": "kavya / didactic religious poem (verse manual of the bodhisattva path)",
+    "date_estimate": "c. early 8th c. CE (c. 700-750 CE)",
+    "summary": "The 'Introduction to the Practice of Awakening,' a ten-chapter verse work guiding the practitioner through the cultivation of bodhicitta (the awakening mind) and the six perfections, culminating in the renowned ninth chapter on wisdom (prajñā) that expounds Madhyamaka emptiness, and a tenth chapter of dedication. It is celebrated for its poetic power and ethical depth, including the argument against the self and for compassion grounded in the absence of inherent existence.",
+    "history": "Composed by Śāntideva, an 8th-century monk-scholar at Nālandā university. The most beloved practical manual of the Mahayana, especially in Tibetan Buddhism where it generated an enormous commentarial literature; it survives in Sanskrit with multiple recensions (a shorter Dūn-huáng version exists) and numerous translations.",
+    "related_works": ["Śikṣāsamuccaya (Śāntideva)", "Mūlamadhyamakakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bodhisattvacary%C4%81vat%C4%81ra",
+      "https://www.encyclopediaofbuddhism.org/wiki/Shantideva",
+      "https://oxfordre.com/religion/view/10.1093/acrefore/9780199340378.001.0001/acrefore-9780199340378-e-727"
+    ]
+  },
+  {
+    "work_id": "T04vasbocpu",
+    "title": "Bodhicittotpādasūtraśāstra",
+    "author": "Vasubandhu (attributed)",
+    "tradition": "Buddhist (Mahayana, Yogācāra)",
+    "genre": "śāstra (treatise / sūtra commentary)",
+    "date_estimate": "c. 4th-5th c. CE (Vasubandhu, c. 350-430 CE)",
+    "summary": "A treatise ('Treatise on the Sūtra of Generating the Mind of Awakening') discoursing on the arising of bodhicitta — the resolve to attain buddhahood for the sake of all beings — and on the six perfections (pāramitās) through which that vow matures into buddhahood. It treats the causes, conditions, and stages of the bodhisattva's aspiration.",
+    "history": "Attributed to Vasubandhu and preserved primarily through its Chinese translation (Fa putixin lun, T.1659). As with several works ascribed to Vasubandhu, the attribution is traditional and the underlying Sanskrit does not survive intact.",
+    "related_works": ["Bodhisattvabhūmi (Asaṅga)", "Mahāyānasūtrālaṅkāra"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bodhicitta",
+      "https://www.facebook.com/groups/ChineseBuddhistEncyclopedia/posts/3429670067208582/"
+    ]
+  },
+  {
+    "work_id": "T05bsa062_u",
+    "title": "Śālistambakakārikā [Āryaśālistambakakārikā]",
+    "author": "attributed to Nāgārjuna (disputed)",
+    "tradition": "Buddhist (Mahayana, Madhyamaka)",
+    "genre": "commentary in verse (kārikā on a sūtra)",
+    "date_estimate": "c. 2nd-5th c. CE (uncertain; if Nāgārjuna, c. 150-250 CE)",
+    "summary": "A versified commentary on the Śālistamba ('Rice Seedling') Sūtra, distilling the sūtra's teaching on dependent origination (pratītyasamutpāda) — illustrated by the growth of a rice shoot from a seed — into mnemonic kārikās. It articulates the twelve links and the absence of a creator or self in the causal process.",
+    "history": "One of three Indian commentaries on the Rice Seedling Sūtra preserved in Tibetan; two of them (this kārikā and the Śālistambakamahāyānasūtraṭīkā) are traditionally ascribed to Nāgārjuna, though the attribution is doubted by scholars and may belong to a later author of that name. Studied and translated by Jeffrey D. Schoening (1995).",
+    "related_works": ["Śālistamba Sūtra", "Śālistambakamahāyānasūtraṭīkā", "Śālistambaṭīkā (Kamalaśīla)"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Salistamba_Sutra",
+      "https://84000.co/translation/toh210"
+    ]
+  },
+  {
+    "work_id": "T05bsu027_u",
+    "title": "Pratītyasamutpādādivibhaṅganirdeśasūtra",
+    "author": "anonymous/traditional (Buddhavacana)",
+    "tradition": "Buddhist (Mahayana sūtra)",
+    "genre": "sūtra",
+    "date_estimate": "1st millennium CE (first centuries CE; pre-5th c.)",
+    "summary": "The 'Sūtra Teaching the Fundamental Exposition and Detailed Analysis of Dependent Arising,' which expounds the doctrine of pratītyasamutpāda, first stating its basic formula and then analyzing each of the twelve links (nidānas) from ignorance to old-age-and-death. It is a canonical scriptural source treating dependent origination as the essence of the Dharma.",
+    "history": "A short canonical sūtra (Tohoku 211 in the Tibetan Kangyur) that stands beside the Rice Seedling Sūtra (Toh 210) and the Sūtra on Dependent Arising (Toh 212) as part of a cluster of Kangyur texts on dependent origination; translated into English by Annie Bien for 84000 (2020).",
+    "related_works": ["Śālistamba Sūtra", "Pratītyasamutpādasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://read.84000.co/translation/toh212.html",
+      "https://www.rigpawiki.org/index.php?title=Sutra_on_Dependent_Arising"
+    ]
+  },
+  {
+    "work_id": "T05n1110u",
+    "title": "Bodhyāpattideśanāvṛtti",
+    "author": "attributed to Nāgārjuna",
+    "tradition": "Buddhist (Mahayana)",
+    "genre": "bhasya / vṛtti (running commentary on a sūtra)",
+    "date_estimate": "1st millennium CE (uncertain; traditionally Nāgārjuna, c. 150-250 CE)",
+    "summary": "A 'Running Commentary on the Confession of the Transgressions of a Bodhisattva,' explicating the practice of confessing ethical downfalls before the Thirty-Five Buddhas drawn from the Triskandhaka (Three Heaps) Sūtra. It treats the bodhisattva's purification of moral faults through prostration, confession, and dedication.",
+    "history": "Ascribed to Nāgārjuna, this śāstra-commentary supports one of the central purificatory practices of Mahayana and Tibetan Buddhism (the confession of downfalls to the Thirty-Five Buddhas), the root text of which is embedded in the Ratnakūṭa collection's 'Definitive Vinaya' chapter. The attribution to Nāgārjuna is traditional.",
+    "related_works": ["Triskandhaka Sūtra", "Ratnakūṭa Sūtra (Mahāratnakūṭa)"],
+    "confidence": "medium",
+    "sources": [
+      "https://bodhicitta.tsadra.org/index.php/Texts/Triskandhakas%C5%ABtra",
+      "https://tibetanbuddhistencyclopedia.com/en/index.php/Prostrations_to_the_Thirty-five_Buddhas_%E2%80%93_The_Bodhisattva%E2%80%99s_Confession_of_Ethical_Downfalls"
+    ]
+  },
+  {
+    "work_id": "T05nagsaliu",
+    "title": "Śālistambakamahāyānasūtraṭīkā [Āryaśālistambakamahāyānasūtraṭīkā]",
+    "author": "attributed to Nāgārjuna (disputed)",
+    "tradition": "Buddhist (Mahayana, Madhyamaka)",
+    "genre": "ṭīkā (prose commentary on a sūtra)",
+    "date_estimate": "c. 2nd-5th c. CE (uncertain; if Nāgārjuna, c. 150-250 CE)",
+    "summary": "A prose commentary (ṭīkā) on the Śālistamba ('Rice Seedling') Mahāyāna Sūtra, expounding its teaching on dependent origination through the simile of a rice seedling arising from a seed and explaining the twelve links of conditioned arising and the impossibility of an independent agent. It elaborates the sūtra's identification of dependent arising with the Dharma itself.",
+    "history": "One of three Indian commentaries on the Rice Seedling Sūtra surviving in Tibetan; like the related Śālistambakakārikā it is traditionally attributed to Nāgārjuna, an attribution modern scholarship questions. Studied and translated by Jeffrey D. Schoening (1995); a third commentary is by Kamalaśīla.",
+    "related_works": ["Śālistamba Sūtra", "Śālistambakakārikā", "Śālistambaṭīkā (Kamalaśīla)"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Salistamba_Sutra",
+      "https://84000.co/translation/toh210"
+    ]
+  },
+  {
+    "work_id": "T06abhsubhu",
+    "title": "Abhidharmasamuccayabhāṣya",
+    "author": "attributed to Sthiramati (some sources Jinaputra/Buddhasiṃha)",
+    "tradition": "Buddhist (Mahayana, Yogācāra / Abhidharma)",
+    "genre": "bhasya (prose commentary)",
+    "date_estimate": "c. 6th c. CE (Sthiramati, fl. 6th c.)",
+    "summary": "A prose commentary (bhāṣya) on Asaṅga's Abhidharmasamuccaya ('Compendium of Abhidharma'), the principal Yogācāra systematization of Buddhist phenomenology — the aggregates, elements, bases, and the path. The bhāṣya glosses and expands Asaṅga's terse compendium, integrating Abhidharma analysis with Yogācāra doctrine such as the storehouse consciousness.",
+    "history": "Surviving in Sanskrit (a unique manuscript), Tibetan, and Chinese, the bhāṣya is commonly attributed to Sthiramati, the great 6th-century Yogācāra commentator, though some traditions name Jinaputra or Buddhasiṃha; modern scholars debate the precise authorship of works ascribed to Sthiramati.",
+    "related_works": ["Abhidharmasamuccaya (Asaṅga)", "Abhidharmakośabhāṣya (Vasubandhu)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhidharma-samuccaya",
+      "https://en.wikipedia.org/wiki/Sthiramati"
+    ]
+  },
+  {
+    "work_id": "T06asmahsbu",
+    "title": "Mahāyānasūtrālaṅkāra",
+    "author": "Maitreya(nātha) (kārikās); Vasubandhu (bhāṣya); transmitted via Asaṅga",
+    "tradition": "Buddhist (Mahayana, Yogācāra)",
+    "genre": "philosophical treatise (verse kārikās with prose bhāṣya)",
+    "date_estimate": "c. 4th c. CE (verses 4th c.; Vasubandhu bhāṣya c. 4th-5th c.)",
+    "summary": "The 'Ornament of the Mahayana Sūtras,' a verse treatise of about 800 stanzas in 22 chapters presenting the entire Mahayana path from the Yogācāra standpoint — the greatness of the Mahayana, taking refuge, the bodhisattva lineage, generation of bodhicitta, the perfections, the stages, and buddhahood. It includes the three-nature doctrine and mind-only (cittamātra) themes, accompanied by Vasubandhu's prose commentary (bhāṣya).",
+    "history": "Attributed in the Yogācāra tradition to Maitreyanātha, who is said to have transmitted it to Asaṅga, with a prose bhāṣya by Asaṅga's brother Vasubandhu; both verse and bhāṣya survive in Sanskrit, Tibetan, Chinese, and Mongolian, with sub-commentaries by Sthiramati and Asvabhāva. It is one of the 'Five Treatises of Maitreya.'",
+    "related_works": ["Madhyāntavibhāga", "Dharmadharmatāvibhāga", "Abhisamayālaṅkāra", "Ratnagotravibhāga", "Mahāyānasūtrālaṃkārabhāṣya (Vasubandhu)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mahayana-sutra-alamkara-karika",
+      "https://buddhanature.tsadra.org/index.php/Texts/Mah%C4%81y%C4%81nas%C5%ABtr%C4%81la%E1%B9%83k%C4%81rak%C4%81rik%C4%81"
+    ]
+  },
+  {
+    "work_id": "T06asycsaru",
+    "title": "Śarīrārthagāthā",
+    "author": "anonymous/traditional (compiled within the Yogācārabhūmi, ascribed to Asaṅga)",
+    "tradition": "Buddhist (Mahayana, Yogācāra)",
+    "genre": "verse anthology with exegesis (section of a śāstra)",
+    "date_estimate": "c. 4th c. CE (final redaction of the Yogācārabhūmi)",
+    "summary": "The 'Verses on the Essential Meaning' (or 'Collected-Meaning Verses'), a collection of canonical gāthās embedded in the Yogācārabhūmi together with their exegesis, organizing earlier scriptural verses around fundamental Buddhist doctrinal topics. It functions as a structured anthology that interprets received verse-material within the Yogācāra framework.",
+    "history": "A constituent section of the vast Yogācārabhūmi-śāstra, the foundational Yogācāra encyclopedia traditionally attributed to Asaṅga (or to Maitreya as transmitted through Asaṅga) and reaching final redaction in the 4th century CE. The title's term śarīra ('body/aggregate') is rendered in Tibetan as 'collection,' reflecting its anthological character.",
+    "related_works": ["Yogācārabhūmi-śāstra", "Abhidharmasamuccaya"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yogacarabhumi-sastra",
+      "https://tibetanbuddhistencyclopedia.com/en/index.php?title=A_STUDY_OF_THE_%C5%9AAR%C4%AAR%C4%80RTHAG%C4%80TH%C4%80_IN_THE_YOG%C4%80C%C4%80RABH%C5%AAMI"
+    ]
+  },
+  {
+    "work_id": "T06bsa010_u",
+    "title": "Madhyāntavibhāgakārikā",
+    "author": "Maitreya(nātha); transmitted via Asaṅga",
+    "tradition": "Buddhist (Mahayana, Yogācāra)",
+    "genre": "philosophical treatise (verse kārikās)",
+    "date_estimate": "c. 4th c. CE",
+    "summary": "The 'Verses Distinguishing the Middle from the Extremes,' a concise Yogācāra treatise expounding the three natures (trisvabhāva), a distinctly Yogācāra account of emptiness, and the middle way between the extremes of reification and denial, organized across chapters on characteristics, obscurations, the truths, cultivation of antidotes, the vehicles, and the ultimate. It is foundational for the mind-only analysis of imagined, dependent, and perfected natures.",
+    "history": "One of the 'Five Treatises of Maitreya,' transmitted to Asaṅga and equipped with a prose commentary (bhāṣya) by Vasubandhu and an influential sub-commentary (ṭīkā) by Sthiramati; the verses survive in Sanskrit, Tibetan, and Chinese. Translated and studied in English by Mario D'Amato (2012).",
+    "related_works": ["Madhyāntavibhāgabhāṣya (Vasubandhu)", "Madhyāntavibhāgaṭīkā (Sthiramati)", "Mahāyānasūtrālaṅkāra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Madhyanta-vibhaga-karika",
+      "https://buddhanature.tsadra.org/index.php/Books/Maitreya's_Distinguishing_the_Middle_from_the_Extremes"
+    ]
+  },
+  {
+    "work_id": "T06bsa017_u",
+    "title": "Tattvaratnāvaloka [Tattvaratnāloka]",
+    "author": "Vāgīśvarakīrti",
+    "tradition": "Buddhist (Vajrayana / tantric)",
+    "genre": "tantric treatise (with autocommentary/vṛtti)",
+    "date_estimate": "c. early 11th c. CE",
+    "summary": "The 'Light on the Jewel of Reality,' a tantric Buddhist treatise (with an accompanying vṛtti) by Vāgīśvarakīrti dealing with the realization of ultimate reality (tattva) within the esoteric Vajrayana framework, including discussion of higher initiations (abhiṣeka) and the practices and coded language of tantric attainment.",
+    "history": "Composed by Vāgīśvarakīrti, an East Indian tantric scholar who flourished in the early 11th century as a colleague of Ratnākaraśānti at the monastic university of Vikramaśīla. His views were influential enough to be debated in Kashmir before 1057 CE and he is reverently alluded to on the Khmer Sab Bāk inscription of 1067 CE.",
+    "related_works": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/vagishvarakirti",
+      "https://brill.com/display/book/edcoll/9789004432802/BP000010.xml"
+    ]
+  },
+  {
+    "work_id": "T06trimsikatika",
+    "title": "Triṃśikāṭīkā",
+    "author": "Vinītadeva",
+    "tradition": "Buddhist (Mahayana, Yogācāra)",
+    "genre": "ṭīkā (sub-commentary)",
+    "date_estimate": "c. late 7th-early 8th c. CE (Vinītadeva, c. 645-715)",
+    "summary": "A sub-commentary (ṭīkā) on Vasubandhu's Triṃśikā ('Thirty Verses' on consciousness-only), explicating the foundational Yogācāra doctrines of the verses — the storehouse consciousness (ālayavijñāna), the afflicted mind (kliṣṭa-manas), the active consciousnesses, the three natures, and the realization of vijñaptimātratā. It glosses both Vasubandhu's verses and the established commentarial tradition (associated with Sthiramati's reading).",
+    "history": "Written by Vinītadeva (c. 645-715), a Nālandā scholar important in both the Yogācāra and Buddhist-logic (pramāṇa) traditions, who produced numerous ṭīkās preserved chiefly in Tibetan; Sanskrit fragments of this Triṃśikāṭīkā were published by P. S. Jaini (1985).",
+    "related_works": ["Triṃśikāvijñaptimātratā (Vasubandhu)", "Triṃśikābhāṣya (Sthiramati)", "Viṃśatikā (Vasubandhu)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tri%E1%B9%83%C5%9Bik%C4%81-vij%C3%B1aptim%C4%81trat%C4%81",
+      "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/sanskrit-fragments-of-vinitadevas-trimsikatika/33D5107893E828CC51C31B55C8CE5924"
+    ]
+  },
+  {
+    "work_id": "T06bsa019_u",
+    "title": "Trisvabhāvanirdeśa",
+    "author": "Vasubandhu",
+    "tradition": "Buddhist (Mahayana, Yogācāra)",
+    "genre": "philosophical treatise (verse)",
+    "date_estimate": "c. 4th-5th c. CE (Vasubandhu, c. 350-430 CE)",
+    "summary": "The 'Treatise on the Three Natures,' a short verse work presenting Vasubandhu's mature exposition of the Yogācāra trisvabhāva doctrine: the imagined (parikalpita), dependent (paratantra), and consummate (pariniṣpanna) natures, and their interrelation. It explains, often via the simile of a magical illusion, how delusion arises through misconstruing the dependent and how liberation comes through realizing the perfected nature.",
+    "history": "Among the trio of short independent treatises (with the Viṃśatikā and Triṃśikā) that present Vasubandhu's own Yogācāra philosophy, and possibly his last work; it survives in Sanskrit and Tibetan and is noted for lacking an early Indian commentary. The attribution to Vasubandhu is generally accepted.",
+    "related_works": ["Triṃśikāvijñaptimātratā (Vasubandhu)", "Viṃśatikā (Vasubandhu)", "Madhyāntavibhāga"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Trisvabh%C4%81vanirde%C5%9Ba",
+      "https://www.tandfonline.com/doi/abs/10.1080/09552369708575458"
+    ]
+  },
+  {
+    "work_id": "T06bsa030_u",
+    "title": "Mahāyānasūtrālaṃkāra",
+    "author": "Maitreya(nātha) (kārikās); Vasubandhu (bhāṣya); via Asaṅga",
+    "tradition": "Buddhist (Mahayana, Yogācāra)",
+    "genre": "philosophical treatise (verse kārikās with prose bhāṣya)",
+    "date_estimate": "c. 4th c. CE (verses; Vasubandhu bhāṣya c. 4th-5th c.)",
+    "summary": "The 'Ornament of the Mahayana Sūtras' — the same 22-chapter, ~800-verse Yogācāra treatise on the entire bodhisattva path (the greatness of the Mahayana, bodhicitta, the perfections, the bhūmis, and buddhahood) listed earlier under the variant spelling. It systematizes Mahayana doctrine with the three-nature and mind-only teachings and is accompanied by Vasubandhu's bhāṣya.",
+    "history": "Identical work to entry T06asmahsbu above, here catalogued with the anusvāra spelling Mahāyānasūtrālaṃkāra. It is one of the 'Five Treatises of Maitreya,' transmitted to Asaṅga with a prose commentary by Vasubandhu and later sub-commentaries by Sthiramati and Asvabhāva; it survives in Sanskrit, Tibetan, Chinese, and Mongolian.",
+    "related_works": ["Madhyāntavibhāga", "Abhisamayālaṅkāra", "Dharmadharmatāvibhāga", "Ratnagotravibhāga"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mahayana-sutra-alamkara-karika",
+      "https://encyclopediaofbuddhism.org/wiki/Mah%C4%81y%C4%81nas%C5%ABtr%C4%81la%E1%B9%83k%C4%81ra"
+    ]
+  },
+  {
+    "work_id": "T06bsa073_u",
+    "title": "Ratnagotravibhāga [Ratnagotravibhāga Mahāyānottaratantraśāstra, Ratnagotravibhāga-Mahāyāna-Uttaratantra, Uttaratantra]",
+    "author": "Maitreya (verses, per Tibetan tradition) / Sāramati (per Chinese tradition); commentary ascribed to Asaṅga — disputed",
+    "tradition": "Buddhist (Mahayana, tathāgatagarbha)",
+    "genre": "philosophical treatise (verse kārikās with prose vyākhyā)",
+    "date_estimate": "c. 5th c. CE (likely; disputed authorship)",
+    "summary": "The 'Analysis of the Jeweled Lineage,' also called the Uttaratantra, the principal Indian śāstra on buddha-nature (tathāgatagarbha) theory, expounding seven 'vajra topics' — the Three Jewels, the buddha-element/disposition present in all beings, awakening, the qualities of a buddha, and buddha-activity. It argues that all sentient beings possess the potential for buddhahood, which is merely obscured by adventitious defilements.",
+    "history": "Authorship is famously disputed: the Tibetan tradition assigns the verses to Maitreya and the prose commentary (vyākhyā/RGVV) to Asaṅga, while the Chinese tradition attributes the whole to the obscure Sāramati; modern scholarship remains divided. Composed probably in the 5th century, it is the only tathāgatagarbha treatise surviving in Sanskrit, was translated into Chinese by Ratnamati (early 6th c.), and became central to East Asian and Tibetan buddha-nature thought.",
+    "related_works": ["Mahāyānasūtrālaṅkāra", "Madhyāntavibhāga", "Tathāgatagarbha Sūtra", "Śrīmālādevīsiṃhanāda Sūtra", "Ratnagotravibhāgavyākhyā"],
+    "confidence": "high",
+    "sources": [
+      "https://buddhanature.tsadra.org/index.php/Texts/Ratnagotravibh%C4%81ga_Mah%C4%81y%C4%81nottaratantra%C5%9B%C4%81stra",
+      "https://encyclopediaofbuddhism.org/wiki/Ratnagotravibh%C4%81ga"
+    ]
+  }
+]

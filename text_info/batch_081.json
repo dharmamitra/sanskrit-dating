@@ -1,0 +1,322 @@
+[
+  {
+    "work_id": "M00296",
+    "title": "Darśanopaniṣat (Darśana Upaniṣad)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga/Vedanta)",
+    "genre": "Upaniṣad (Yoga Upaniṣad)",
+    "date_estimate": "uncertain; classed among the Yoga Upaniṣads, variously dated c. 100 BCE–300 CE (Flood) but likely a comparatively late composition reflecting developed yoga and haṭha ideas",
+    "summary": "One of the twenty minor 'Yoga Upaniṣads', cast as a teaching of the sage Dattātreya to Sāṃkṛti. It expounds an eight-limbed (aṣṭāṅga) yoga, the nāḍīs and cakras of the subtle body, prāṇāyāma, purificatory practices and meditation aimed at realizing the non-dual Self (Brahman/Ātman).",
+    "history": "It is a sectarian Yoga Upaniṣad usually affiliated to the Sāmaveda and absorbed into late anthologies of the 108 Upaniṣads; its precise authorship and date are unknown, and scholars debate whether it predates or postdates Patañjali's Yogasūtra. It is preserved within the South Indian Muktikā canon and printed in collections of the minor Upaniṣads.",
+    "related_works": ["Yoga Upaniṣads (collection)", "Muktikā Upaniṣad canon", "Patañjali Yogasūtra", "Śāṇḍilya Upaniṣad"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Darshana_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00297",
+    "title": "Triśikhibrāhmaṇopaniṣat (Triśikhibrāhmaṇa Upaniṣad)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga/Advaita Vedanta)",
+    "genre": "Upaniṣad (Yoga Upaniṣad)",
+    "date_estimate": "disputed; Flood places the Yoga Upaniṣads in the early 1st millennium CE, but Raman and others argue this text is post-10th c. CE because it reflects haṭha-yoga traditions",
+    "summary": "A minor Yoga Upaniṣad attached to the Śukla Yajurveda in which a brāhmaṇa named Triśikhin questions the sun-deity. It teaches non-dualist Vedānta through yoga, treating the unity of Brahman, Ātman and the world, and presenting an eight-limbed yoga with prāṇāyāma, āsana and meditative absorption as the means to liberating self-knowledge.",
+    "history": "It belongs to the corpus of twenty Yoga Upaniṣads incorporated into the late Muktikā canon; its authorship is unknown and its dating is contested, with much of its content overlapping later haṭha-yoga literature. It survives in South Indian Upaniṣad anthologies and printed editions of the minor Upaniṣads.",
+    "related_works": ["Yoga Upaniṣads (collection)", "Śukla Yajurveda", "Muktikā Upaniṣad canon"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Trishikhibrahmana_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00298",
+    "title": "Vārāhopaniṣat (Varāha Upaniṣad)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga/Advaita Vedanta, Vaiṣṇava framing)",
+    "genre": "Upaniṣad (Yoga Upaniṣad)",
+    "date_estimate": "late; commonly dated c. 13th–16th c. CE",
+    "summary": "A minor Yoga Upaniṣad of the Kṛṣṇa Yajurveda in five chapters (c. 251 verses), framed as a dialogue between Viṣṇu as the boar-avatāra Varāha and the sage Ṛbhu. It surveys the tattvas (lists of 24, 36 and 96), the path to liberation, realization of the Self, jīvanmukti, and incorporates tantric and yogic material on cakras, nāḍīs, mantra, laya and haṭha yoga.",
+    "history": "A demonstrably late Upaniṣad, it is absent from the 17th-c. Dārā Shikoh and early-19th-c. Colebrooke anthologies, and its authorship and source are uncertain. It is preserved in the South Indian Muktikā canon and printed among the thirty minor Upaniṣads.",
+    "related_works": ["Yoga Upaniṣads (collection)", "Kṛṣṇa Yajurveda", "Muktikā Upaniṣad canon"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Varaha_Upanishad",
+      "https://www.wisdomlib.org/hinduism/book/varaha-upanishad-of-krishna-yajurveda"
+    ]
+  },
+  {
+    "work_id": "M00299",
+    "title": "Yogacūḍāmaṇyupaniṣat (Yogacūḍāmaṇi Upaniṣad)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga; Nātha/haṭha milieu)",
+    "genre": "Upaniṣad (Yoga Upaniṣad)",
+    "date_estimate": "late; c. 14th–15th c. CE (Rosen), among the latest of the Yoga Upaniṣads",
+    "summary": "A short 'Crest-Jewel of Yoga' treatise for advanced practitioners, treating the subtle body of nāḍīs (72,000 issuing from the kanda below the navel), cakras, prāṇāyāma, the bandhas and mudrās, kuṇḍalinī and the syllable Om. It is one of the principal Upaniṣadic sources for kuṇḍalinī and haṭha-yoga theory.",
+    "history": "Counted among the twenty Yoga Upaniṣads and closely tied to the Nātha and haṭha-yoga traditions, it overlaps with texts such as the Gorakṣa corpus. Its anonymous composition is placed in the late medieval period, and it survives in South Indian Upaniṣad collections.",
+    "related_works": ["Yoga Upaniṣads (collection)", "Gorakṣaśataka", "Haṭhayogapradīpikā", "Muktikā Upaniṣad canon"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yogachudamani_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00300",
+    "title": "Yogakuṇḍalyupaniṣat (Yogakuṇḍalinī / Yogakuṇḍalī Upaniṣad)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga; Advaita Vedanta framing)",
+    "genre": "Upaniṣad (Yoga Upaniṣad)",
+    "date_estimate": "late; among the late medieval Yoga Upaniṣads (broad range c. 100 BCE–1100 CE proposed for the corpus, but this text is reckoned late)",
+    "summary": "One of the twenty Yoga Upaniṣads, attached to the Kṛṣṇa Yajurveda, devoted chiefly to kuṇḍalinī yoga. In three chapters it describes the rousing of kuṇḍalinī through prāṇa, food and posture, haṭha and lambikā techniques (khecarī mudrā), and culminates in the quest for the non-dual Ātman/Brahman and living liberation.",
+    "history": "A late, anonymous Yoga Upaniṣad incorporated into the Muktikā canon; it is one of the most important Upaniṣadic expositions of kuṇḍalinī and haṭha practice and draws on the same milieu as the Goraksa and Haṭhayoga literature.",
+    "related_works": ["Yoga Upaniṣads (collection)", "Kṛṣṇa Yajurveda", "Haṭhayogapradīpikā", "Muktikā Upaniṣad canon"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yoga-kundalini_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00301",
+    "title": "Yogaśikhopaniṣat (Yogaśikhā Upaniṣad)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga/Vedanta)",
+    "genre": "Upaniṣad (Yoga Upaniṣad)",
+    "date_estimate": "disputed; Flood/Eliade place it in the early 1st millennium CE alongside the early Yoga Upaniṣads, though it shows later expansion",
+    "summary": "Called by Feuerstein the 'Crest of Yoga' and the most comprehensive of the Yoga Upaniṣads, it presents an integral yoga combining mantra, laya, haṭha and rāja yoga to realize the unity of Self and Brahman, with discussion of prāṇa, the subtle body and the dissolution of mind.",
+    "history": "An anonymous Yoga Upaniṣad transmitted in the Muktikā canon; Eliade grouped it with the earliest Yoga Upaniṣads (Brahmabindu, Tejobindu, Dhyānabindu, etc.), though its received text shows later accretions. Printed among the minor Upaniṣads.",
+    "related_works": ["Yoga Upaniṣads (collection)", "Yogatattva Upaniṣad", "Dhyānabindu Upaniṣad", "Muktikā Upaniṣad canon"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yogashikha_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00302",
+    "title": "Yogatattvopaniṣat (Yogatattva Upaniṣad)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga/Vedanta)",
+    "genre": "Upaniṣad (Yoga Upaniṣad)",
+    "date_estimate": "disputed; reckoned among the early Yoga Upaniṣads (Eliade/Flood, early 1st millennium CE) but with later haṭha expansions (proposed 9th–13th c. and beyond)",
+    "summary": "A Yoga Upaniṣad that expounds four kinds of yoga—mantra, laya, haṭha and rāja—and elaborates the meaning of the Ātman through yogic discipline beginning from the syllable Om. It treats prāṇāyāma, the subtle physiology and the stages of meditative attainment within an Advaita-Vedānta framework.",
+    "history": "Grouped by Eliade with the early Yoga Upaniṣads, its received form also reflects later haṭha-yoga developments; anonymous and transmitted in the Muktikā canon, it exists in shorter and longer recensions.",
+    "related_works": ["Yoga Upaniṣads (collection)", "Yogaśikhā Upaniṣad", "Dhyānabindu Upaniṣad", "Muktikā Upaniṣad canon"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yogatattva_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00303",
+    "title": "Prāyaścittasamuccaya",
+    "author": "Trilocanaśiva (a similar, slightly earlier work of the same name is by Hṛdayaśiva)",
+    "tradition": "Hindu (Śaiva Siddhānta)",
+    "genre": "nibandha / ritual digest (dharmaśāstra-style compilation on expiation)",
+    "date_estimate": "12th c. CE (Trilocanaśiva); Hṛdayaśiva's version slightly earlier",
+    "summary": "An authoritative Śaiva-Siddhānta manual wholly devoted to rites of expiation (prāyaścitta). It compiles and systematizes verses from a range of Siddhānta scriptures prescribing atonements for ritual lapses and transgressions, paralleling the dharmaśāstra digests of the same era.",
+    "history": "Trilocanaśiva, a 12th-century Siddhānta theologian also known for the Siddhāntasārāvalī, composed this nibandha; an earlier and closely related Prāyaścittasamuccaya by Hṛdayaśiva attributes many of the same verses to source tantras reaching back perhaps to the 6th century. It was critically edited and translated by R. Sathyanarayanan with an introduction by Dominic Goodall (IFP/EFEO).",
+    "related_works": ["Siddhāntasārāvalī of Trilocanaśiva", "Hṛdayaśiva's Prāyaścittasamuccaya", "Śaiva Siddhānta Āgamas"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/expiatory-rites-in-keralite-tantra/d/doc1150774.html",
+      "https://www.ifpindia.org/bookstore/ci127/"
+    ]
+  },
+  {
+    "work_id": "M00304",
+    "title": "Mohacūḍottara (Mohacūḍottaratantra)",
+    "author": "anonymous/traditional (scripture)",
+    "tradition": "Hindu (Śaiva Siddhānta)",
+    "genre": "tantra / āgama (pratiṣṭhā-tantra on ritual installation)",
+    "date_estimate": "early medieval; pre-12th c. CE (classed as an upabheda of the Siddhānta canon)",
+    "summary": "A Śaiva-Siddhānta scripture counted as one of the two principal pratiṣṭhā-tantras (with the Mayasaṃgraha) that the tradition relies on for the rites of installation (pratiṣṭhā) of liṅgas, images and temple structures. It is largely concerned with ritual consecration and the construction and establishment of sacred objects.",
+    "history": "Classified as an upabheda—a derivative scripture not among the twenty-eight 'original' Siddhānta tantras but claiming descent from them—it is cited as authoritative for pratiṣṭhā in later Siddhānta ritual and is preserved in South Indian and Nepalese manuscript traditions.",
+    "related_works": ["Mayasaṃgraha", "Śaiva Siddhānta Āgamas (28 mūlatantras)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.thefreelibrary.com/The+Parakhyatantra,+A+Scripture+of+the+Saiva+Siddhanta.-a0201100626",
+      "https://en.wikipedia.org/wiki/Agama_(Hinduism)"
+    ]
+  },
+  {
+    "work_id": "M00305",
+    "title": "Piṅgalāmata",
+    "author": "anonymous/traditional (a Nepalese manuscript names Śrīkaṇṭhanātha as promulgator)",
+    "tradition": "Hindu (Tantric Śaiva; Vidyāpīṭha / Yāmala stream)",
+    "genre": "tantra / āgama (with strong pratiṣṭhā and ritual content)",
+    "date_estimate": "early medieval; c. 8th–10th c. CE",
+    "summary": "A Śaiva tantra of the Yāmala/Vidyāpīṭha stream, transmitted as a subsidiary of the Jayadrathayāmala (itself a subsidiary of the Brahmayāmala). It treats tantric ritual including the installation (pratiṣṭhā) of images and temples, iconography and related observances, and is an important source for early medieval Śaiva temple ritual.",
+    "history": "Known chiefly from early Nepalese palm-leaf manuscripts, it is cited in scholarship (e.g. Sanderson) as an early witness to Śaiva pratiṣṭhā and iconographic norms; its precise authorship is traditional/anonymous, one old manuscript attributing it to Śrīkaṇṭhanātha.",
+    "related_works": ["Jayadrathayāmala", "Brahmayāmala", "Yāmala tantras"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/jayadrathayamala",
+      "https://angkordatabase.asia/libs/docs/publications/saivism-and-the-tantric-traditions/Sanderson-Saivism-and-the-Tantric-Traditions.pdf"
+    ]
+  },
+  {
+    "work_id": "M00306",
+    "title": "Laghustava",
+    "author": "anonymous/traditional (one of the five hymns of the Pañcastavī)",
+    "tradition": "Hindu (Śākta; Kashmiri Śrīvidyā/Krama milieu)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "older than a millennium (the Pañcastavī as a whole is reckoned over 1000 years old); precise date uncertain, c. 1st millennium CE",
+    "summary": "The first of the five hymns constituting the Pañcastavī, a pentad of laudations to the supreme Goddess Mahātripurasundarī. In 21 verses it celebrates the dynamic power (śakti) of the Goddess and encodes Śākta-tantric doctrine through bīja-mantras, treating kuṇḍalinī and the inner ascent of consciousness.",
+    "history": "Highly popular among the Śaivas of Kashmir, the Pañcastavī is a monistic Śākta work corresponding to the Krama system of Kashmir Śaivism; the Laghustava bears several Sanskrit commentaries, one of which titles it Tripurabhairavīstava. Its individual authorship is unknown.",
+    "related_works": ["Pañcastavī", "Carcāstava", "Ghaṭastava", "Saundaryalaharī"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.exoticindiaart.com/book/details/pancastavi-pentad-of-hymns-of-kundalini-yoga-idf850/",
+      "https://ikashmir.net/panchastavi/doc/panchastavi.pdf"
+    ]
+  },
+  {
+    "work_id": "M00307",
+    "title": "Carcāstava",
+    "author": "anonymous/traditional (one of the five hymns of the Pañcastavī)",
+    "tradition": "Hindu (Śākta; Kashmiri Śrīvidyā/Krama milieu)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "c. 1st millennium CE (with the rest of the Pañcastavī)",
+    "summary": "The second hymn of the Pañcastavī, addressed to Mahātripurasundarī. In 31 reflective verses it meditates on the nature of the supreme Goddess and her cosmic power, expressing the non-dual Śākta-tantric vision of Kashmir in devotional form.",
+    "history": "Part of the Pañcastavī pentad popular among Kashmiri Śaivas and aligned with the Krama tradition; like its companion hymns it is anonymous and survives with Sanskrit commentaries within the Śākta hymn literature.",
+    "related_works": ["Pañcastavī", "Laghustava", "Ghaṭastava"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.exoticindiaart.com/book/details/pancastavi-pentad-of-hymns-of-kundalini-yoga-idf850/",
+      "https://ikashmir.net/panchastavi/doc/panchastavi.pdf"
+    ]
+  },
+  {
+    "work_id": "M00309",
+    "title": "Bhuvaneśvarīmahāstotra",
+    "author": "Pṛthvīdharācārya (Pṛthvīdhara Ācārya)",
+    "tradition": "Hindu (Śākta; Mantra/Tantra)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; traditionally placed early (a tradition makes the author a disciple of Śaṅkara, hence c. 8th c. CE), but the dating is unverified",
+    "summary": "A devotional Śākta hymn in praise of the goddess Bhuvaneśvarī, one of the ten Mahāvidyās. It extols the Goddess as supreme cosmic sovereign and encodes mantric/tantric elements of her worship.",
+    "history": "Attributed to Pṛthvīdharācārya, styled a scholar of mantra and tantra; a traditional account makes him a disciple of Śaṅkara, but this attribution and dating are not securely established. The work survives in manuscripts and printed Śākta stotra collections.",
+    "related_works": ["Bhuvaneśvarī Mahāvidyā literature", "Daśamahāvidyā stotras"],
+    "confidence": "medium",
+    "sources": [
+      "https://archive.org/details/ShriBhuwaneshwariMahastotramPrithviDharAcharya",
+      "https://www.wisdomlib.org/definition/bhuvaneshvaristotra"
+    ]
+  },
+  {
+    "work_id": "M00310",
+    "title": "Devīrahasya (Devīrahasyatantra)",
+    "author": "anonymous/traditional (scripture, framed as Śiva–Pārvatī dialogue)",
+    "tradition": "Hindu (Śākta Tantra)",
+    "genre": "tantra / nibandha (large tantric digest)",
+    "date_estimate": "medieval; uncertain (commonly regarded as a comparatively late Śākta compilation)",
+    "summary": "A large tantric digest in roughly 60 chapters dealing comprehensively with the mantra, yantra, pūjā and sādhanā of many gods and especially goddesses—Bālā, Jvālāmukhī, Śārikā, Mahārājñī, Tārā, Tripurasundarī and others. It covers bīja-mantras, their purification and empowerment, puraścaraṇa and initiation, and includes appendices such as the Uddhārakośa.",
+    "history": "Transmitted especially in the Kashmiri/Himalayan Śākta milieu (with prominence of regional goddesses such as Śārikā and Jvālāmukhī), it functions as a practical handbook for the sādhaka; anonymous and scripturally framed, it survives in manuscripts and printed tantric editions.",
+    "related_works": ["Uddhārakośa", "Śākta Tantras", "Mantraśāstra digests"],
+    "confidence": "medium",
+    "sources": [
+      "https://shivashakti.com/rahasya",
+      "https://www.wisdomlib.org/hinduism/book/varahi-tantra-english-study"
+    ]
+  },
+  {
+    "work_id": "M00311",
+    "title": "Aśeṣakulavallarī",
+    "author": "Gaṇananāthabhaṭṭa (Gaṇanāthabhaṭṭa)",
+    "tradition": "Hindu (Śākta/Kaula Tantra)",
+    "genre": "tantric ritual/compendium work (paddhati or nibandha)",
+    "date_estimate": "unknown (medieval/early-modern; not securely dated)",
+    "summary": "A Śākta-Kaula tantric work composed by Gaṇananāthabhaṭṭa, transmitted in a Nepalese manuscript. Its title ('the creeper of the entire kula') points to Kaula ritual and worship; little is published about its specific contents beyond the manuscript record.",
+    "history": "Known from a National Archives of Nepal / NGMCP manuscript (5-4656) digitized by the Muktabodha Indological Research Institute; its author Gaṇananāthabhaṭṭa and its date are otherwise poorly documented in scholarship.",
+    "related_works": ["Kaula Tantras", "Śākta paddhati literature"],
+    "confidence": "low",
+    "sources": [
+      "https://list.indology.info/pipermail/indology/2014-November/040226.html",
+      "https://muktalib7.com/"
+    ]
+  },
+  {
+    "work_id": "M00312",
+    "title": "Saubhāgyataraṅgiṇī",
+    "author": "Mukunda",
+    "tradition": "Hindu (Śākta; Śrīvidyā)",
+    "genre": "paddhati (liturgical/ritual manual)",
+    "date_estimate": "medieval; uncertain (use of late tantric sources suggests a medieval composition)",
+    "summary": "A Śrīvidyā ritual manual (paddhati) for the worship of the goddess Tripurasundarī, composed by Mukunda and organized in 'waves' (laharī/taraṅga). It lays out the theology of the Goddess, daily worship and meditation, the structure of the Śrīcakra and advanced practice, with frequent appeal to Vedic and Purāṇic authority (Kūrmapurāṇa, Devīmāhātmya and various tantras).",
+    "history": "The author Mukunda treats Veda and Vedic yajña with marked respect as authority for goddess worship, situating his Śrīvidyā within an orthodox frame. The text is preserved in a Nepalese manuscript (breaking off in the fifth chapter) digitized by Muktabodha.",
+    "related_works": ["Nityāṣoḍaśikārṇava (Vāmakeśvaramata)", "Yoginīhṛdaya", "Śrīvidyā paddhati literature"],
+    "confidence": "medium",
+    "sources": [
+      "https://muktalib7.com/DL_CATALOG_ROOT/MUKTABODHA-LIBRARY-DEVANAGARI/saubhAgyataraGgiNI-M00312-DEV.txt",
+      "https://www.kamakotimandali.com/srividya/"
+    ]
+  },
+  {
+    "work_id": "M00313",
+    "title": "Troṭalātantra (Troṭala/Troṭalātantra)",
+    "author": "anonymous/traditional (scripture)",
+    "tradition": "Hindu (Śākta/Śaiva Tantra)",
+    "genre": "tantra / āgama",
+    "date_estimate": "early medieval; uncertain (cited in classical tantric lists, so likely 1st-millennium-CE in core)",
+    "summary": "A tantric scripture named in classical lists of the sixty-four (or thrice-sixty-four) tantras and associated with the Śākta worship tradition reflected in the Saundaryalaharī and Vāmakeśvaratantra. It opens with an enumeration of the tantras and treats the fundamentals of tantric doctrine and ritual.",
+    "history": "Recognized as a Tantra already in lists embedded in works such as the Ānandalaharī/Saundaryalaharī tradition; it survives in Nepalese manuscript form (NGMCP 5-4852) digitized by Muktabodha, but its specific contents are little studied.",
+    "related_works": ["Vāmakeśvaratantra", "Saundaryalaharī", "lists of the 64 Tantras"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/trotalatantra",
+      "https://list.indology.info/pipermail/indology/2014-November/040226.html"
+    ]
+  },
+  {
+    "work_id": "M00314",
+    "title": "Tantracintāmaṇi",
+    "author": "Navamīsiṃha (also called Ādyānanda)",
+    "tradition": "Hindu (Śākta Tantra; Nepalese Newar milieu)",
+    "genre": "nibandha (large tantric digest/compendium)",
+    "date_estimate": "late 17th c. CE (author flourished under the Malla kings of Kathmandu, c. 1689–1694)",
+    "summary": "A vast tantric compendium (40 chapters; first 30 surviving with a pañjikā commentary) compiling passages from a wide range of tantras. It treats the creation of the cosmos and of the tantras, the mantras and ritual procedures for the worship of the Ten Mahāvidyās, and the worship of Śiva and Śakti, with extensive treatment of the goddess Śyāmā.",
+    "history": "Its author Navamīsiṃha/Ādyānanda was a minister of a Malla king of Kathmandu (likely Bhūpālendra Malla) and also composed the Kulamuktikallolinī. A complete 40-chapter manuscript is held in the Asiatic Society of Mumbai; the partial text with commentary survives in a Nepalese manuscript digitized by Muktabodha.",
+    "related_works": ["Kulamuktikallolinī (same author)", "Daśamahāvidyā literature", "Śākta nibandhas"],
+    "confidence": "high",
+    "sources": [
+      "https://muktalib7.com/DL_CATALOG_ROOT/MUKTABODHA-LIBRARY-DEVANAGARI/tantracintAmaNi-M00314-DEV.txt",
+      "https://list.indology.info/pipermail/indology/2014-November/040226.html"
+    ]
+  },
+  {
+    "work_id": "M00315",
+    "title": "Mokṣasopāna",
+    "author": "Kāṇḍadvayātītayogī",
+    "tradition": "Hindu (Yoga / Vedanta–tantra)",
+    "genre": "yoga/spiritual treatise (with commentary)",
+    "date_estimate": "unknown (medieval/early-modern; not securely dated)",
+    "summary": "A 'Staircase to Liberation' (mokṣasopāna), a treatise charting graded steps toward liberation through yogic and contemplative discipline, transmitted together with a commentary. Its author bears the ascetic title Kāṇḍadvayātītayogī ('the yogī who has transcended the two sections').",
+    "history": "Known from a Nepalese (NGMCP) manuscript digitized by the Muktabodha Indological Research Institute; the work and its author are otherwise little documented in published scholarship, leaving its precise affiliation and date uncertain.",
+    "related_works": ["Yoga and mokṣa-oriented treatises", "Vedanta-yoga literature"],
+    "confidence": "low",
+    "sources": [
+      "https://list.indology.info/pipermail/indology/2014-November/040226.html",
+      "https://muktabodha.org/manuscripts/"
+    ]
+  },
+  {
+    "work_id": "M00316",
+    "title": "Nityākaulatantra (Nityākaula)",
+    "author": "anonymous/traditional (scripture)",
+    "tradition": "Hindu (Śākta/Kaula; Nityā cult, antecedent of Śrīvidyā)",
+    "genre": "tantra / āgama (Kaula scripture)",
+    "date_estimate": "early medieval; c. 9th–11th c. CE (an early witness of the Nityā tradition)",
+    "summary": "The sole surviving scripture of the lost Kaula 'Nityā' tradition, the precursor cult to the worship of Tripurasundarī. Its principal goddess is Kāmeśvarī with her consort Kāmadeva and eleven subordinate Nityā goddesses; it expounds the mantras, deities and ritual of this Kaula cult.",
+    "history": "Recognized as authoritative scripture in the Manthānabhairavatantra and important to scholars (Sanderson and others) for reconstructing the origins of Śrīvidyā; it survives in a Nepalese manuscript (NGMCP 2-226) digitized by Muktabodha and has been the object of recent critical editing.",
+    "related_works": ["Nityāṣoḍaśikārṇava (Vāmakeśvaramata)", "Manthānabhairavatantra", "Śrīvidyā Kaula literature"],
+    "confidence": "medium",
+    "sources": [
+      "https://enfolding.org/srividya-the-twists-and-turns-of-a-tantric-tradition-i/",
+      "https://list.indology.info/pipermail/indology/2014-November/040226.html"
+    ]
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "work_id": "K14ahovk2_u",
+    "title": "Ahorātravratakathā 2",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Newar Mahayana-Vajrayana)",
+    "genre": "vratakathā (narrative attached to a ritual vow/observance)",
+    "date_estimate": "late medieval, c. 15th-18th c. CE (Nepalese transmission)",
+    "summary": "A vratakathā ('story of a vow') prescribing and narrating the merit of the ahorātra ('day-and-night') vrata, a fasting and ritual observance kept over a full day and night. Such texts frame a devotional observance with a legendary tale illustrating the rewards of performing it. The '2' marks this as a second recension or version of the text.",
+    "history": "Vratakathās are a characteristic genre of Newar (Kathmandu Valley) Buddhism, in which pan-Indic vow observances were Buddhicized and embedded in avadāna-like narrative. They survive largely in Nepalese Sanskrit manuscripts of the later medieval and early modern period and remain in living ritual use.",
+    "related_works": ["Newar Buddhist vratakathā literature", "avadāna literature"],
+    "confidence": "low",
+    "sources": [
+      "https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/download/8750/2657",
+      "https://journals.sagepub.com/doi/10.1177/026272809601600101"
+    ]
+  },
+  {
+    "work_id": "K14ajitsvyu",
+    "title": "Ajitasenavyākaraṇa",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (proto-Mahayana)",
+    "genre": "sutra (Mahayana; with avadāna-style narrative frame)",
+    "date_estimate": "manuscript c. 5th-7th c. CE; composition likely earlier",
+    "summary": "Full title Ajitasenavyākaraṇanirdeśa-nāma-mahāyānasūtra, 'The Mahayana Sutra called the Explanation of the Prophecy [for King] Ajitasena.' It is structured like an avadāna (past, present and future framing) and centers on the Buddha sending Nandimitra to advise King Ajitasena on the importance of almsgiving, also teaching that recitation of the Buddha's name saves from suffering and hell.",
+    "history": "Known from a Gilgit manuscript discovered in 1931, written in upright Brahmi on brown paper and dated paleographically to roughly the 5th-7th centuries CE. Scholars treat it as a 'proto-Mahayana' work blending Mahayana and Sthaviravada/mainstream ideas. (Despite 'Ajitasena' being a common Jain name, this is a Buddhist text.)",
+    "related_works": ["Gilgit Buddhist manuscripts", "Mahayana sutras"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ajitasena_Sutra",
+      "https://www.academia.edu/11547364/"
+    ]
+  },
+  {
+    "work_id": "K14amoghapu",
+    "title": "Āmoghapāśanāmahṛdayasūtra [Āryāmoghapāśanāmahṛdayasūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; Kriyā Tantra)",
+    "genre": "dhāraṇī-sūtra (tantric ritual scripture)",
+    "date_estimate": "c. 6th-7th c. CE (translated to Chinese by 587 and 693 CE)",
+    "summary": "A dhāraṇī scripture centered on Amoghapāśa ('infallible noose') Lokeśvara, a multi-armed esoteric form of Avalokiteśvara who draws suffering beings to liberation with his noose. The text presents the dhāraṇī's mythic origin (Avalokiteśvara receiving it from the Tathagata Lokeśvararāja aeons ago) and the worldly and spiritual benefits, protections, and ritual procedures associated with its recitation.",
+    "history": "An influential Kriyā Tantra text; an Amoghapāśa-dhāraṇī was rendered into Chinese by Jñānagupta in 587 CE and the Amoghapāśahṛdaya by Bodhiruci in 693 CE, with later expanded recensions. Amoghapāśa Lokeśvara became especially popular in Nepal. This batch contains two closely related witnesses of the text (cf. K14bsu002_u).",
+    "related_works": ["Amoghapāśahṛdaya sūtra (K14bsu002_u)", "Avalokiteśvara dhāraṇī literature"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mantra_of_Light",
+      "https://84000.co/translation/toh725"
+    ]
+  },
+  {
+    "work_id": "K14bsa052_u",
+    "title": "Dharmasamuccaya [Saddharmasmṛtyupasthānakārikā]",
+    "author": "Avalokitasiṃha (compiler of the verse extracts)",
+    "tradition": "Buddhist (mainstream/early Mahayana 'developed Hinayana')",
+    "genre": "verse anthology / doctrinal compendium (kārikā) extracted from a sutra",
+    "date_estimate": "verse compendium 1st millennium CE; source sutra c. 2nd-4th c. CE",
+    "summary": "The Dharmasamuccaya ('Compendium of the Law') is a metrical anthology of doctrinal stanzas extracted from the large Saddharmasmṛtyupasthānasūtra ('Sutra of the Application of Mindfulness of the True Law'), a vast text on karma, the realms of rebirth, cosmology, and meditative observation of body and mind. The verses distill the sutra's ethical and cosmological teaching into memorizable kārikās.",
+    "history": "Edited, with Sanskrit, Tibetan and Chinese versions and a French translation, by Lin Li-kouang (Paris, 1946-1973), who attributed the verse-selection to one Avalokitasiṃha. Lin's accompanying study 'Introduction au Compendium de la loi' (1949) remains the principal scholarship on the parent sutra.",
+    "related_works": ["Saddharmasmṛtyupasthānasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://search.worldcat.org/oclc/219654130",
+      "https://www.researchgate.net/publication/342126212"
+    ]
+  },
+  {
+    "work_id": "K14bsu002_u",
+    "title": "Āmoghapāśanāmahṛdaya sūtra [Ārya amoghapāśahṛdaya nāma mahāyānasūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; Kriyā Tantra)",
+    "genre": "dhāraṇī-sūtra (tantric ritual scripture)",
+    "date_estimate": "c. 6th-7th c. CE (Chinese translations 587 and 693 CE)",
+    "summary": "A recension of the Amoghapāśahṛdaya ('Essence/Heart of the Infallible Noose') sutra, the core dhāraṇī scripture of Amoghapāśa Lokeśvara, an esoteric multi-armed form of Avalokiteśvara. It conveys the dhāraṇī, its origin myth, its ritual employment, and the protections and merits its recitation bestows.",
+    "history": "Belongs to the same textual family as K14amoghapu; the Amoghapāśa cult and its dhāraṇī were extremely popular in Nepal and East Asia, and the text exists in short 'heart' and longer expanded forms in Sanskrit, Chinese and Tibetan. Translated into Chinese by Jñānagupta (587) and Bodhiruci (693).",
+    "related_works": ["Āmoghapāśanāmahṛdayasūtra (K14amoghapu)", "Avalokiteśvara dhāraṇī literature"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mantra_of_Light",
+      "https://84000.co/translation/toh725"
+    ]
+  },
+  {
+    "work_id": "K14bsu015_u",
+    "title": "Ekādaśamukha",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; Kriyā Tantra)",
+    "genre": "dhāraṇī-sūtra",
+    "date_estimate": "c. 6th-7th c. CE (Chinese translation by Xuanzang, 656 CE)",
+    "summary": "The Ekādaśamukha ('Eleven-Faced') Avalokiteśvara dhāraṇī sutra, centered on a potent dhāraṇī of the eleven-faced form of the bodhisattva of compassion. It promises protection, healing and spiritual advancement, structured as an opening homage to the Triple Gem, a central body of invocatory syllables, and a closing dedication sealed with svāhā.",
+    "history": "First translated into Chinese in 656 CE by Xuanzang; the Sanskrit title is recovered chiefly from the Tibetan translation, the original Sanskrit having been largely lost so that the text survives mainly via Chinese and Tibetan with varying Sanskrit reconstructions. The eleven-faced Avalokiteśvara became a major esoteric cult figure across Asia.",
+    "related_works": ["Eleven-Faced Avalokitesvara Heart Dharani Sutra", "Avalokiteśvara dhāraṇī literature"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Eleven-Faced_Avalokitesvara_Heart_Dharani_Sutra",
+      "https://encyclopediaofbuddhism.org/wiki/Dh%C4%81ra%E1%B9%87%C4%AB_of_the_Eleven_Faced_Avalokite%C5%9Bvara"
+    ]
+  },
+  {
+    "work_id": "K14dhppat_u",
+    "title": "Patna Dharmapada",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (mainstream/early; possibly Sammitīya/Sthaviravāda lineage)",
+    "genre": "anthology of ethical verses (Dharmapada)",
+    "date_estimate": "verses early (pre-Common Era core); manuscript c. 11th-12th c. CE",
+    "summary": "A Dharmapada recension — a collection of pithy gnomic verses on ethics, discipline, mindfulness and liberation — paralleling the Pali Dhammapada and the Gandhari and Udanavarga versions. It preserves an independent arrangement and partly distinct verses of this widely circulated Buddhist verse corpus.",
+    "history": "Named 'Patna' because the manuscript photographs are held at the K.P. Jayaswal Research Institute, Patna (photographed during Rahula Sankrtyayana's Tibet expeditions). The 21-palm-leaf manuscript, in proto-Bengali script, dates to roughly the 11th-12th c. CE; its language is a Middle Indo-Aryan idiom variously termed Buddhist Hybrid Sanskrit or Buddhist Prakrit. It was edited by Margaret Cone (1989).",
+    "related_works": ["Dhammapada (Pali)", "Gāndhārī Dharmapada", "Udānavarga"],
+    "confidence": "high",
+    "sources": [
+      "https://hasp.ub.uni-heidelberg.de/journals/jpts/article/download/28164/27564",
+      "https://www.ancient-buddhist-texts.net/Texts-and-Translations/Patna-Dhammapada/00-Preface.htm"
+    ]
+  },
+  {
+    "work_id": "K14mavadsuu",
+    "title": "Mahāvadānasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Sarvāstivāda; mainstream)",
+    "genre": "sutra (canonical; from the Dīrghāgama)",
+    "date_estimate": "core early (BCE); Sanskrit Sarvāstivāda recension c. 1st-3rd c. CE",
+    "summary": "The 'Sutra of the Great Legend,' the Sanskrit Sarvāstivāda counterpart of the Pali Mahāpadāna-sutta (DN 14). It recounts the lives of seven Buddhas — from Vipaśyin down to the historical Śākyamuni — all following an almost identical pattern of events, narrated by Śākyamuni, and elaborates the standard schema of a Buddha's career.",
+    "history": "One of the six fundamental sutras of the Dīrghāgama (the Ṣaṭsūtrakanipāta), abundantly attested among the Central Asian / Turfan Sanskrit manuscripts. The editio princeps was published by Ernst Waldschmidt (1953-1956); a new edition based on the Turfan finds appeared more recently. This batch includes a second witness (K14n445u).",
+    "related_works": ["Dīrghāgama", "Mahāpadāna-sutta (Pali, DN 14)", "Mahāvadānasūtra (K14n445u)"],
+    "confidence": "high",
+    "sources": [
+      "https://suttacentral.net/sf36",
+      "https://go.gale.com/ps/i.do?id=GALE%7CA146942739"
+    ]
+  },
+  {
+    "work_id": "K14mpsu_w_u",
+    "title": "Mahāparinirvāṇasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Sarvāstivāda/Mūlasarvāstivāda; mainstream)",
+    "genre": "sutra (canonical; from the Dīrghāgama)",
+    "date_estimate": "core early (BCE); Sanskrit recension c. 1st-4th c. CE",
+    "summary": "The Sanskrit (non-Mahayana) Mahāparinirvāṇasūtra, the Sarvāstivāda parallel of the Pali Mahāparinibbāna-sutta (DN 16), narrating the Buddha's last journey, final teachings, death (parinirvāṇa), cremation, and the distribution of his relics. It is a biographical-canonical account of the founder's death, distinct from the later doctrinal Mahayana Mahāparinirvāṇa-sūtra.",
+    "history": "Another of the six core Dīrghāgama sutras, reconstructed by Ernst Waldschmidt (1950-1951) from Central Asian Sanskrit fragments, collated with the Tibetan, Pali and the Mūlasarvāstivāda Vinaya. (If instead the Mahayana Mahāparinirvāṇa-sūtra is intended, that is a c. 2nd-4th c. CE 'Buddha-nature' scripture; the grouping with other Dīrghāgama sutras in this batch favors the mainstream identification.)",
+    "related_works": ["Dīrghāgama", "Mahāparinibbāna-sutta (Pali, DN 16)", "Catuṣpariṣatsūtra"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Parinirvana",
+      "https://www.dharmawheel.net/viewtopic.php?t=80"
+    ]
+  },
+  {
+    "work_id": "K14msudarsu",
+    "title": "Mahāsudarśanāvadāna",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (mainstream; Sanskrit avadāna tradition)",
+    "genre": "avadāna (edifying legend)",
+    "date_estimate": "Sanskrit recension c. 1st-4th c. CE (story-core older)",
+    "summary": "The legend of King Mahāsudarśana (Pali Mahāsudassana), a universal monarch (cakravartin) ruling over the splendid city of Kuśāvatī with its eighty-four thousand cities, palaces and treasures. At the approach of death he contemplates the impermanence of all this glory and dies serenely, reborn in the Brahma world — the narrative serving as a meditation on impermanence and renunciation, identified as a past life of the Buddha.",
+    "history": "A Sanskrit avadāna recasting of the material of the Pali Mahāsudassana-sutta (DN 17); such avadānas elaborated jātaka/sutta material to teach merit, impermanence and the bodhisattva ideal. The story is also drawn into the Mahāparinirvāṇa narrative complex.",
+    "related_works": ["Mahāsudassana-sutta (Pali, DN 17)", "Mahāparinirvāṇasūtra", "Divyāvadāna"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mahasudassana-sutta",
+      "https://www.academia.edu/11728504/"
+    ]
+  },
+  {
+    "work_id": "K14n191u",
+    "title": "Kaṭhināvadāna",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (mainstream; Sanskrit avadāna tradition)",
+    "genre": "avadāna (edifying legend)",
+    "date_estimate": "Sanskrit avadāna milieu, c. 2nd-6th c. CE",
+    "summary": "An avadāna concerning the kaṭhina — the cotton cloth offered by lay donors to the monastic community at the close of the rains-retreat (varṣā) for making robes. The tale illustrates the great merit accruing from the kaṭhina robe-offering, framed in the typical avadāna manner linking a present situation to deeds in past lives.",
+    "history": "The kaṭhina robe-offering is rooted in the Vinaya, where the Buddha permitted monks with worn robes to accept it; the avadāna develops this into a merit narrative. It circulates within the broader Sanskrit avadāna literature (cf. Divyāvadāna), with manuscripts notably preserved in Nepal.",
+    "related_works": ["Vinaya (kaṭhina rules)", "Divyāvadāna", "Sanskrit avadāna literature"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kathina",
+      "https://www.wisdomlib.org/definition/kathina"
+    ]
+  },
+  {
+    "work_id": "K14n192u",
+    "title": "Mahāsattvamaṇicūḍamahārājabodhisattvāvadāna",
+    "author": "anonymous/traditional (later versified by Kṣemendra in the Avadānakalpalatā tradition)",
+    "tradition": "Buddhist (Mahayana; Sanskrit avadāna tradition)",
+    "genre": "avadāna (edifying legend of bodhisattva self-sacrifice)",
+    "date_estimate": "Sanskrit avadāna milieu, c. 2nd-6th c. CE",
+    "summary": "The Maṇicūḍāvadāna ('Legend of [King] Maṇicūḍa, the jewel-crested'), a story of the bodhisattva-king Maṇicūḍa whose perfect generosity (dāna-pāramitā) leads him to give away even parts of his own body, including the wish-granting jewel set in his crown. It exemplifies the bodhisattva's boundless self-sacrifice for the welfare of beings.",
+    "history": "A popular Sanskrit avadāna preserved especially in Nepalese manuscripts (e.g. Cambridge MS Add.1398). The episode also figures in Kṣemendra's 11th-century verse Bodhisattvāvadānakalpalatā. The long compound title reflects a Nepalese manuscript heading naming the great-being (mahāsattva) jewel-crested great king bodhisattva.",
+    "related_works": ["Maṇicūḍāvadāna", "Bodhisattvāvadānakalpalatā (Kṣemendra)", "Divyāvadāna"],
+    "confidence": "medium",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-01398",
+      "https://ancient-buddhist-texts.net/Reference/Literary-History-of-Sanskrit-Buddhism/06-Avadana.htm"
+    ]
+  },
+  {
+    "work_id": "K14n285u",
+    "title": "Catuṣpariṣatsūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Sarvāstivāda; mainstream)",
+    "genre": "sutra (canonical; from the Dīrghāgama / Vinaya)",
+    "date_estimate": "core early (BCE); Sanskrit recension c. 1st-3rd c. CE",
+    "summary": "The 'Sutra of the Four Assemblies/Groups,' a canonical narrative of the founding of the Buddhist community: the awakening, the first turning of the wheel of Dharma at Sarnath, the conversion of the first disciples, and the formation of the fourfold assembly. It belongs to the biographical Vinaya-related material on the establishment of the sangha.",
+    "history": "One of the six fundamental Dīrghāgama sutras attested in the Central Asian Sanskrit manuscripts; critically edited by Ernst Waldschmidt as 'Das Catuṣpariṣatsūtra' (Berlin, 1952-1962). It overlaps with the Sarvāstivāda/Mūlasarvāstivāda Vinaya account of the community's beginnings.",
+    "related_works": ["Dīrghāgama", "Sarvāstivāda Vinaya", "Mahāvagga (Pali Vinaya)"],
+    "confidence": "high",
+    "sources": [
+      "https://suttacentral.net/sf259/san/waldschmidt",
+      "https://suttacentral.net/pitaka/vinaya/san-sarv-vi"
+    ]
+  },
+  {
+    "work_id": "K14n2947u",
+    "title": "Vajrasattvaniṣpādanasūtra [Vajrasattvasādhana]",
+    "author": "Candrakīrti (the tantric author of the Guhyasamāja Ārya school)",
+    "tradition": "Buddhist (Vajrayana; Guhyasamāja Ārya school)",
+    "genre": "sādhana / tantric ritual-meditation treatise",
+    "date_estimate": "c. 9th-10th c. CE",
+    "summary": "A sādhana ('means of realization') for accomplishing the state of the primordial Buddha Vajrasattva, expounding the utpattikrama (Generation Stage) of the Ārya school of Guhyasamāja exegesis. It presents the symbolic process of the birth of deities through the yogic union of practitioner and consort, leading to identification with Vajrasattva.",
+    "history": "Ascribed to the tantric Candrakīrti (distinct from the earlier Madhyamaka philosopher of the same name), a commentator within the Ārya tradition of the Guhyasamāja. Hong Luo and Toru Tomabechi produced the first critical edition (Vienna, STTAR) from three manuscripts (12th-14th c.), including one photographed by Rahula Sankrtyayana at Nor monastery.",
+    "related_works": ["Guhyasamāja Tantra", "Ārya school Guhyasamāja exegesis"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.oeaw.ac.at/en/ikga/publikationen/reihen/sanskrit-texts-from-the-tibetan-autonomous-region-sttar/candrakirtis-vajrasattvanispadanasutra-vajrasattvasadhana",
+      "https://us.amazon.com/Candrakirtis-Vajrasattvanispadansutra-Vajrasattvsadhana-Sanskrit-Autonomous/dp/3700167962"
+    ]
+  },
+  {
+    "work_id": "K14n445u",
+    "title": "Mahāvadānasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Sarvāstivāda; mainstream)",
+    "genre": "sutra (canonical; from the Dīrghāgama)",
+    "date_estimate": "core early (BCE); Sanskrit Sarvāstivāda recension c. 1st-3rd c. CE",
+    "summary": "A witness of the 'Sutra of the Great Legend,' the Sanskrit Sarvāstivāda parallel to the Pali Mahāpadāna-sutta (DN 14), narrating the lives of the seven past Buddhas (Vipaśyin through Śākyamuni), all unfolding along an identical pattern, as told by Śākyamuni. (Duplicate work in this batch; see K14mavadsuu.)",
+    "history": "Part of the Ṣaṭsūtrakanipāta of the Dīrghāgama, well attested among Central Asian/Turfan Sanskrit manuscripts and edited by Ernst Waldschmidt (1953-1956). This entry is a second cataloged witness of the same work as K14mavadsuu.",
+    "related_works": ["Dīrghāgama", "Mahāpadāna-sutta (Pali, DN 14)", "Mahāvadānasūtra (K14mavadsuu)"],
+    "confidence": "high",
+    "sources": [
+      "https://suttacentral.net/sf36",
+      "https://go.gale.com/ps/i.do?id=GALE%7CA146942739"
+    ]
+  },
+  {
+    "work_id": "K14pamsuavu",
+    "title": "Pāṃśupradāna-avadāna",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (mainstream; Sanskrit avadāna tradition, part of the Divyāvadāna)",
+    "genre": "avadāna (edifying legend)",
+    "date_estimate": "c. 2nd-4th c. CE (Divyāvadāna milieu)",
+    "summary": "The 'Gift of Dust' avadāna, the opening section of the Aśokāvadāna: in a former life the boy Jaya offers a handful of dust (imagined as food) into the Buddha's begging bowl and makes a vow (praṇidhāna), whereby he is later reborn as the emperor Aśoka. The Buddha predicts that a century after his parinirvāṇa this boy will become a cakravartin at Pāṭaliputra who erects 84,000 stupas.",
+    "history": "Forms chapter 26 of the Divyāvadāna and the beginning of the Aśokāvadāna cycle, the principal Buddhist legendary biography of Aśoka. It is a key text in the Buddhist construction of Aśoka as the ideal dharma-king and great patron of stupa-building.",
+    "related_works": ["Aśokāvadāna", "Divyāvadāna"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/buddhism/book/divyavadana-sanskrit/d/doc633321.html",
+      "https://en.wikipedia.org/wiki/Ashokavadana"
+    ]
+  },
+  {
+    "work_id": "K14ratnml_u",
+    "title": "Ratnamālāvadāna",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana-leaning; Sanskrit avadāna tradition)",
+    "genre": "avadāna collection (metrical edifying tales)",
+    "date_estimate": "compilation likely mid-1st millennium CE or later; Nepalese transmission",
+    "summary": "A 'Garland of Jewels' — a collection of some 38 avadāna tales told in verse, many revolving around King Aśoka and the monk Upagupta, illustrating the workings of karma and the merit of devotion and offering. Each tale typically links a present circumstance to deeds performed in earlier lives.",
+    "history": "Belonging to the same broad milieu as the Avadānaśataka, Aśokāvadāna and Divyāvadāna, it is preserved chiefly in Nepalese Sanskrit manuscripts. The Sanskrit text was edited by Kanga Takahata (Ratnamālāvadāna, 1954). Its precise date of composition is uncertain.",
+    "related_works": ["Avadānaśataka", "Aśokāvadāna", "Divyāvadāna"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/buddhism/book/ratnamalavadana-sanskrit",
+      "https://en.wikipedia.org/wiki/Avadanasataka"
+    ]
+  },
+  {
+    "work_id": "K14sumagavu",
+    "title": "Sumāgadhāvadāna",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (mainstream; Sanskrit avadāna tradition)",
+    "genre": "avadāna (edifying legend)",
+    "date_estimate": "Sanskrit avadāna milieu, c. 2nd-5th c. CE",
+    "summary": "The legend of Sumāgadhā, daughter of the great lay donor Anāthapiṇḍada of Śrāvastī. Married into a Jain (nirgrantha) merchant family in distant Puṇḍravardhana, she instills aversion to the Jains in her husband and, by inviting the Buddha and a miracle, converts the entire city to Buddhism. The tale extols faith in the Buddha and the merit of inviting the sangha.",
+    "history": "Widely transmitted across Buddhist traditions, with a Sanskrit recension, a Tibetan version in the Kangyur, and Chinese translations (including one by Dānapāla). The Sanskrit Sumāgadhāvadāna was edited by Yutaka Iwamoto (Studien zur buddhistischen Erzählungsliteratur 2, Kyoto, 1968). It is also a notable witness to early Buddhism in Bengal/Puṇḍravardhana.",
+    "related_works": ["Avadāna literature", "Kangyur (Tibetan canon)"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh346",
+      "https://www.rigpawiki.org/index.php?title=The_Exemplary_Tale_of_Sumagadha"
+    ]
+  },
+  {
+    "work_id": "K14svabhupu",
+    "title": "Svayambhū Purāṇa",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Newar Mahayana-Vajrayana, Nepal)",
+    "genre": "purāṇa (Buddhist mythological-sthala chronicle)",
+    "date_estimate": "compiled in present forms c. 14th-18th c. CE (with older legendary strata)",
+    "summary": "One of the foundational Buddhist purāṇas of Nepal, recounting the mythic origin of the Kathmandu (Nepal) Valley — drained from a primordial lake by Mañjuśrī — and the appearance and sanctity of the self-arisen (svayambhū) light/flame enshrined at the Svayambhū Dharmadhātu Chaitya (Swayambhunath). It narrates the visits of Buddhas to the valley and the holiness of its sacred sites.",
+    "history": "Exists in multiple Sanskrit (and Newari) recensions differing in chapter and verse count; one common version has 10 chapters and ~1750 verses and is dated to the 18th century, though earlier strata and manuscripts (back to the 14th century) underlie it. It is the central charter-myth and pilgrimage text of Newar Buddhism.",
+    "related_works": ["Newar Buddhist purāṇa and vaṃśāvalī literature", "Swayambhunath stupa tradition"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Swayambhu_Purana",
+      "https://www.wisdomlib.org/definition/svayambhupurana"
+    ]
+  },
+  {
+    "work_id": "K14visvantu",
+    "title": "Viśvantarāvadāna",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (mainstream; Sanskrit avadāna/jātaka tradition)",
+    "genre": "avadāna (edifying legend; bodhisattva past-life story)",
+    "date_estimate": "Sanskrit recension c. 2nd-5th c. CE (story-core older)",
+    "summary": "The Sanskrit avadāna of Prince Viśvantara (Pali Vessantara), the bodhisattva's celebrated past life as the embodiment of perfect generosity (dāna-pāramitā). He gives away the kingdom's rain-bringing white elephant, then in exile bestows even his wife and children on those who ask, before all is ultimately restored — the supreme exemplar of selfless giving.",
+    "history": "A Sanskrit form of the most famous of all giving-narratives, corresponding to the Pali Vessantara-Jātaka (no. 547) and treated in the Mahāprajñāpāramitāśāstra and elsewhere; in the avadāna format the jātaka material is adapted to teach the bodhisattva's perfection of generosity. Hugely popular across the Buddhist world in literature and art.",
+    "related_works": ["Vessantara-Jātaka (Pali, no. 547)", "Jātakamālā", "Divyāvadāna"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vessantara_J%C4%81taka",
+      "https://www.wisdomlib.org/definition/vishvantara"
+    ]
+  }
+]

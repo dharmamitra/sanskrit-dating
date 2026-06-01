@@ -1,0 +1,327 @@
+[
+  {
+    "work_id": "M00317",
+    "title": "Vārāhītantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Shakta (Tantra; Kaula-influenced, associated with Dakṣiṇāmnāya/Southern transmission)",
+    "genre": "tantra",
+    "date_estimate": "uncertain; surviving recensions likely medieval (c. 11th-16th c. CE), drawing on older Shakta material",
+    "summary": "A Śākta Tantra ('Doctrine of the Boar-Goddess') centered on the fierce goddess Vārāhī, revealed as a dialogue between Varāha and Vārāhī. It treats the worship of the Goddess and her śaktis, mantras and yantras, ritual, and esoteric Kaula doctrine, with one recension of fifty chapters and roughly 2545 verses praised as 'highest among the great Tantras.'",
+    "history": "Counted among the sixty-four nondual Tantras and frequently quoted in later Tantric compendia such as the Bṛhattantrasāra, Puraścaryārṇava, Śyāmārahasya and Śāktānandataraṅginī. At least four different works bear the title Vārāhī Tantra, so it is uncertain which (if any) is the one cited in the classical lists of sixty-four; the surviving manuscripts represent overlapping but distinct recensions.",
+    "related_works": ["Bṛhattantrasāra", "Śyāmārahasya", "Śāktānandataraṅginī", "Puraścaryārṇava"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/varahi-tantra-english-study/d/doc1239482.html",
+      "https://www.wisdomlib.org/hinduism/essay/varahi-tantra-english-study/d/doc1239485.html",
+      "https://en.wikipedia.org/wiki/Lakshmi_Tantra"
+    ]
+  },
+  {
+    "work_id": "M00318",
+    "title": "Kulamuktikallolinī",
+    "author": "Navamīsiṃha (also called Ādyānanda)",
+    "tradition": "Hindu, Shakta (Kaula Tantra)",
+    "genre": "tantric digest/compendium (nibandha)",
+    "date_estimate": "late 17th c. CE (c. 1680s-1690s)",
+    "summary": "A large Kaula Tantric compendium (nibandha) that gathers and arranges quoted passages from a wide range of Tantras on Kula doctrine and ritual practice aimed at liberation (mukti). It functions as a digest of authoritative scriptural citations rather than an original revelation.",
+    "history": "Composed by Navamīsiṃha (Ādyānanda), a minister at the Malla court of Kathmandu (Nepal) under King Bhūpālendra/Mahendra Malla, ruling in the late 17th century. The same author compiled the related compendium Tantracintāmaṇi; both works are valued for preserving citations from otherwise lost or fragmentary Tantras.",
+    "related_works": ["Tantracintāmaṇi"],
+    "confidence": "medium",
+    "sources": [
+      "https://muktalib7.com/DL_CATALOG_ROOT/MUKTABODHA-LIBRARY-DEVANAGARI/tantracintAmaNi-M00314-DEV.txt",
+      "https://www.indica.today/long-reads/demystifying-tantra-part-iv/"
+    ]
+  },
+  {
+    "work_id": "M00319",
+    "title": "Brahmayāmala (Picumata)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Shaiva (Vidyāpīṭha / Bhairava-Yāmala tantra; Kāpālika ascetic milieu)",
+    "genre": "tantra",
+    "date_estimate": "c. 650-750 CE, with later additions into the early 9th c.",
+    "summary": "A monumental early Śaiva Bhairava-tantra of the Vidyāpīṭha, also titled Picumata, comprising over 12,000 verses in 104 chapters. It expounds the cult of Kapālīśabhairava and the goddess Caṇḍā Kāpālinī, detailing transgressive ascetic observances (vratas), mantra systems, sexual and cremation-ground ritual, yoginī worship, and the construction of ritual diagrams.",
+    "history": "One of the most important sources for the early Śākta-Śaiva 'left-current' (vāma) traditions and Kāpālika practice. Critically edited and studied by Shaman Hatley and others; transmitted in an early-11th-century Nepalese palm-leaf manuscript. Its dating (late 7th-early 8th c. core) makes it a key witness to the formation of esoteric Śaivism.",
+    "related_works": ["Jayadrathayāmala", "Siddhayogeśvarīmata", "Tantrasadbhāva"],
+    "confidence": "high",
+    "sources": [
+      "https://readingreligion.org/9788184702262/the-brahmayamala-tantra-or-picumata-volume-i/",
+      "https://hal.science/hal-02126896",
+      "https://www.academia.edu/37169073/"
+    ]
+  },
+  {
+    "work_id": "M00320",
+    "title": "Kālasaṃkarṣiṇīmatatantraṭippaṇī",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Shaiva/Shakta (Krama / Kālīkrama of Kashmir)",
+    "genre": "ṭippaṇī (gloss/short commentary) on a tantra",
+    "date_estimate": "uncertain; the underlying tradition is c. 9th-11th c. CE Kashmir, the gloss likely later medieval",
+    "summary": "A short annotative gloss (ṭippaṇī) on a tantra of the Kālasaṃkarṣiṇīmata, the doctrine focused on the goddess Kālasaṃkarṣiṇī, the supreme 'devourer of time' worshipped in the Kālī-centered Krama system. It explains the esoteric Krama worship in which Kālasaṃkarṣiṇī is identified with undifferentiated pure consciousness (the void within Parā Saṃvit).",
+    "history": "Kālasaṃkarṣiṇī appears as a Mata and Tantra in the Jayadrathayāmala, an early and extensive source of the emergent Kālīkrama. The Krama received its most sophisticated theoretical articulation in the works of Abhinavagupta. The ṭippaṇī is a secondary explanatory text within this Kashmirian esoteric lineage.",
+    "related_works": ["Jayadrathayāmala", "Kālasaṃkarṣiṇīmata", "works of Abhinavagupta"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kalasankarshini",
+      "https://shaivayoga.com/kashmir-manuscripts_files/Intro_Krama.pdf",
+      "https://hareesh.org/blog/2023/1/31/the-twelve-kls-part-one"
+    ]
+  },
+  {
+    "work_id": "M00321",
+    "title": "Nigamasāranirṇaya",
+    "author": "Rāmāramaṇadeva (attributed)",
+    "tradition": "Hindu, Tantra (likely Shakta/Shaiva)",
+    "genre": "tantric treatise/digest (nibandha)",
+    "date_estimate": "unknown; likely medieval or early modern",
+    "summary": "A Tantric treatise whose title means roughly 'ascertainment of the essence of the nigama (Tantric scripture).' It appears to be a digest or doctrinal exposition that distills the essential teachings of the Tantric ('nigama/āgama') scriptures, attributed to an author named Rāmāramaṇadeva.",
+    "history": "An obscure work known chiefly through the Muktabodha digital catalogue; little independent scholarly literature identifies its author, date, or precise affiliation. The identification here rests mainly on the title and the author hint supplied in the project metadata.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://muktabodha.org/digital-library/",
+      "https://sanskritdocuments.org/sanskrit/tantra/"
+    ]
+  },
+  {
+    "work_id": "M00322",
+    "title": "Śaktisūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Shakta/Tantra",
+    "genre": "sutra (aphoristic text)",
+    "date_estimate": "uncertain; likely medieval",
+    "summary": "A brief aphoristic Tantric text comprising about twenty sūtras concerning Śakti, the divine feminine power and active principle of the universe. It is conceived as a Shakti counterpart to the Śaiva Śivasūtra, treating the nature and operation of cosmic Power in concise mnemonic formulas.",
+    "history": "Listed in Aufrecht's Catalogus Catalogorum as a tantric text of twenty sūtras. It is little studied and exists in several short manuscript versions; the term śaktisūtra also occurs metaphorically (as 'cord of power') in early Śaiva tantras such as the Brahmayāmala, so identification of the specific work can be ambiguous.",
+    "related_works": ["Śivasūtra"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/shaktisutra",
+      "https://sacred-texts.com/tantra/sas/sas06.htm"
+    ]
+  },
+  {
+    "work_id": "M00324",
+    "title": "Kriyākramadyotikāvyākhyā",
+    "author": "Kacchapeśvaraśivācārya",
+    "tradition": "Hindu, Shaiva Siddhanta (dualist; Tamil/South Indian)",
+    "genre": "bhasya (commentary) on a ritual manual (paddhati)",
+    "date_estimate": "after 1156 CE; commentary likely later medieval (c. 13th-16th c. CE)",
+    "summary": "A commentary (vyākhyā) on Aghoraśiva's Kriyākramadyotikā, the standard Śaiva Siddhānta ritual handbook. The base text covers nearly all Siddhānta ritual—daily worship of Śiva, occasional rites, initiation, funerary rites, and festivals—and this gloss explains its ritual procedures for practicing temple priests.",
+    "history": "The root Kriyākramadyotikā was composed in 1156 CE by Aghoraśiva of the Amardaka order at Chidambaram and became the most authoritative ritual guide for the hereditary Śivācārya priests of Tamil Nadu. Kacchapeśvaraśivācārya's commentary belongs to the South Indian Siddhānta exegetical tradition that grew up around Aghoraśiva's works.",
+    "related_works": ["Kriyākramadyotikā of Aghoraśiva"],
+    "confidence": "high",
+    "sources": [
+      "https://www.hindu-blog.com/2021/11/aghora-shivacharya-great-teacher-of-shaiva-siddhanta.html",
+      "https://en.wikipedia.org/wiki/Shaiva_Siddhanta"
+    ]
+  },
+  {
+    "work_id": "M00326",
+    "title": "Kaularahasya",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Shakta (Kaula Tantra)",
+    "genre": "tantra",
+    "date_estimate": "uncertain; medieval",
+    "summary": "A Kaula Tantric text ('Secret of the Kaula') expounding the esoteric doctrine and ritual of the Kula/Kaula path. As a kaularahasya it would treat the inner, transgressive worship of the Goddess and the lineage's secret practices reserved for initiates.",
+    "history": "Known principally from manuscript witnesses—including a Nepalese codex (NGMCP 1-257, with many missing folios) digitized by the Muktabodha Indological Research Institute (catalogue M00326) and a related manuscript in the Cambridge collection. It belongs to the corpus of North Indian/Bengali Śākta-Kaula Tantras; detailed scholarly study is limited.",
+    "related_works": ["Kularnava Tantra", "Kaulajñānanirṇaya"],
+    "confidence": "medium",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-02476/1",
+      "https://muktalib7.com/DL_CATALOG_ROOT/MUKTABODHA-LIBRARY-DEVANAGARI/kaularahasya-M00326-DEV.txt"
+    ]
+  },
+  {
+    "work_id": "M00327",
+    "title": "Sarvajñānottara",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Shaiva (Siddhānta-tantra / early Mantramārga)",
+    "genre": "tantra/agama",
+    "date_estimate": "early; c. 6th-8th c. CE",
+    "summary": "An early Śaiva tantra of the Siddhānta corpus, notable for its sections on yoga and on the nature of the self and Śiva. Together with the Kālottara, Mataṅgapārameśvara and Mṛgendra it is one of the older scriptures relied upon by the Śaiva Siddhānta, transmitted in both Northern and Southern recensions.",
+    "history": "Though influential, it does not appear in the canonical list of twenty-eight Siddhāntāgamas, instead circulating as an authoritative supplementary scripture cited across Śaiva communities. Its yoga chapter and jñānapāda were drawn on by later Siddhānta theologians; portions have been critically edited in recent indological scholarship.",
+    "related_works": ["Kālottara", "Mataṅgapārameśvara", "Mṛgendrāgama"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Agama_(Hinduism)",
+      "https://siddhanta.shaivam.org/agama"
+    ]
+  },
+  {
+    "work_id": "M00328",
+    "title": "Siddhāntārthasamuccaya",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Shaiva Siddhanta (probable)",
+    "genre": "doctrinal compendium/treatise",
+    "date_estimate": "unknown; likely medieval",
+    "summary": "A doctrinal compendium whose title means 'collection of the meanings/aims of the Siddhānta,' apparently summarizing the tenets of the Śaiva Siddhānta—its theology of Śiva (pati), bound souls (paśu) and the bonds (pāśa), and its ritual-soteriological framework. It is a synthesizing treatise rather than a primary scripture.",
+    "history": "An obscure text known mainly through manuscript catalogues (Muktabodha M00328); independent scholarship securely identifying its author, date and precise contents is lacking, so the affiliation is inferred chiefly from the title.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shaiva_Siddhanta",
+      "https://muktabodha.org/digital-library/"
+    ]
+  },
+  {
+    "work_id": "M00329",
+    "title": "Sūkṣmāgama",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Shaiva Siddhanta (one of the 28 Āgamas)",
+    "genre": "agama (Śaiva scripture)",
+    "date_estimate": "1st millennium CE (composite; core perhaps c. 7th-10th c.), with later ritual additions",
+    "summary": "One of the twenty-eight canonical Śaiva Siddhānta Āgamas, classed among the ten Śivabheda group and traditionally said to have been revealed by the Vāmadeva face of Śiva. As an Āgama it prescribes temple construction and consecration, iconography, initiation (dīkṣā), daily and occasional worship, and the fourfold path of caryā, kriyā, yoga and jñāna.",
+    "history": "Counted seventh in the standard list of twenty-eight Āgamas and reputed to be of enormous (hyperbolically 'trillions of verses') extent. Like other Āgamas it survives in South Indian manuscript recensions used by Śivācārya priests, and its ritual portions have been edited and translated by the French Institute (IFP) and allied scholars.",
+    "related_works": ["Kāmikāgama", "Kāraṇāgama", "the 28 Śaiva Siddhānta Āgamas"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/sukshmagama",
+      "https://siddhanta.shaivam.org/agama",
+      "https://www.saivism.net/articles/agamas.asp"
+    ]
+  },
+  {
+    "work_id": "M00330",
+    "title": "Bhagavadgītā",
+    "author": "anonymous/traditional (attributed to Vyāsa; composite)",
+    "tradition": "Hindu (synthesizes Vedānta, Sāṃkhya, Yoga and bhakti)",
+    "genre": "philosophical poem/scripture (part of an epic)",
+    "date_estimate": "c. 2nd-1st c. BCE (disputed; some place core c. 3rd c. BCE-2nd c. CE)",
+    "summary": "A 700-verse dialogue in which Kṛṣṇa instructs the warrior Arjuna on the battlefield of Kurukṣetra, reconciling duty (dharma), disciplined action without attachment (karmayoga), knowledge (jñāna) and loving devotion (bhakti) as paths to liberation. It teaches the imperishable self (ātman), the supreme deity, and selfless performance of one's prescribed duty.",
+    "history": "Embedded in the Bhīṣmaparvan (Book 6) of the Mahābhārata and traditionally ascribed to Vyāsa, it is regarded by most scholars as a composite work by multiple hands, possibly inserted into or developed within the growing epic. It became one of Hinduism's most authoritative texts, drawing classical commentaries from Śaṅkara, Rāmānuja, Madhva, Abhinavagupta and others.",
+    "related_works": ["Mahābhārata", "Bhīṣmaparvan", "Upaniṣads"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+      "https://www.britannica.com/topic/Bhagavad-Gita"
+    ]
+  },
+  {
+    "work_id": "M00331",
+    "title": "Kulavṛtti",
+    "author": "Pūrṇānanda (Pūrṇānanda(giri))",
+    "tradition": "Hindu, Shakta (Kaula Tantra; Bengal)",
+    "genre": "vṛtti (commentary/exposition)",
+    "date_estimate": "late 16th-early 17th c. CE",
+    "summary": "A Kaula Tantric exposition (vṛtti) on the Kula doctrine and ritual, expounding the esoteric worship of the Goddess in the Śākta-Kaula tradition. It belongs to the explanatory/commentarial genre that systematizes Kula teaching for initiates.",
+    "history": "Attributed to Pūrṇānanda(giri), the prolific Bengali Śākta author who compiled the Śyāmārahasya, Śrītattvacintāmaṇi (1577), Ṣaṭcakranirūpaṇa, Śāktakrama and Tattvānandataraṅgiṇī. His works became foundational for later Bengali Tantric practice; the Kulavṛtti is among his lesser-studied compositions.",
+    "related_works": ["Śyāmārahasya", "Śrītattvacintāmaṇi", "Ṣaṭcakranirūpaṇa"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.exoticindiaart.com/book/details/serpent-power-shat-chakra-nirupana-and-paduka-panchaka-nae252/",
+      "https://sacred-texts.com/tantra/maha/maha00.htm"
+    ]
+  },
+  {
+    "work_id": "M00332",
+    "title": "Lakṣmītantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Vaishnava (Pāñcarātra)",
+    "genre": "tantra/agama (saṃhitā)",
+    "date_estimate": "c. 9th-12th c. CE (often placed c. 9th-10th c.)",
+    "summary": "A Pāñcarātra Āgama devoted almost exclusively to the goddess Lakṣmī (Śrī) as the active power of Nārāyaṇa/Viṣṇu, cast as her own self-revelation. It expounds Pāñcarātra cosmogony and philosophy, the emanation of the vyūhas, mantraśāstra, and a yoga grounded in śaktivāda (the doctrine of divine power).",
+    "history": "Among the large Pāñcarātra corpus it is distinctive for its goddess focus and its sophisticated theology of Śakti, influential on later Śrīvaiṣṇava thought. It was edited and translated into English by Sanjukta Gupta (1972), which made it widely accessible to scholars.",
+    "related_works": ["Ahirbudhnya Saṃhitā", "Jayākhya Saṃhitā", "Pāñcarātra Āgamas"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lakshmi_Tantra",
+      "https://archive.org/details/LakshmiTantraAPancharatraTextSanjuktaGupta"
+    ]
+  },
+  {
+    "work_id": "M00333",
+    "title": "Liṅgadhāraṇacandrikā",
+    "author": "Nandikeśvara",
+    "tradition": "Hindu, Vīraśaiva/Liṅgāyat",
+    "genre": "doctrinal treatise (dharma/ritual)",
+    "date_estimate": "uncertain; post-12th c. CE (Vīraśaiva movement; treatise likely later medieval)",
+    "summary": "A Vīraśaiva treatise establishing the scriptural validity and efficacy of wearing the iṣṭaliṅga (liṅgadhāraṇa), the defining practice of the Liṅgāyats. Nandikeśvara expounds the liṅga in both its external form and its internal/psychological and cosmological dimensions, arguing for the religious necessity of carrying it always on the body.",
+    "history": "The work belongs to the apologetic-doctrinal literature of Vīraśaivism that justifies the iṣṭaliṅga cult promoted in the tradition associated with Basavaṇṇa from the 12th century. It is cited in modern expositions of Liṅgāyat theology as the authoritative treatment of liṅgadhāraṇa.",
+    "related_works": ["Vīraśaiva āgamas/Siddhānta-śikhāmaṇi (Vīraśaiva canon)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.virashaiva.com/quintessence-of-lingayatism-i/",
+      "https://www.britannica.com/topic/Lingayat"
+    ]
+  },
+  {
+    "work_id": "M00334",
+    "title": "Saṃnyāsa Upaniṣads",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Vedānta; asceticism/renunciation)",
+    "genre": "Upaniṣad (collection of minor Upaniṣads)",
+    "date_estimate": "composite; earliest c. last centuries BCE-early CE, several as late as c. 14th-15th c. CE",
+    "summary": "A group of about nineteen-twenty minor Upaniṣads (within the Muktikā list of 108) devoted to renunciation (saṃnyāsa)—the rules, stages, and inner attitude of the ascetic who abandons worldly life to realize Brahman. They cover the saṃnyāsin's vows, conduct, and types, and include such texts as the Jābāla, Āruṇi, Kuṇḍika, Paramahaṃsa, Bhikṣuka and Avadhūta Upaniṣads.",
+    "history": "Composed across a long span, from early ascetic texts to late medieval works, they were collected and studied as a corpus; Patrick Olivelle produced the standard critical edition and translation (The Saṃnyāsa Upaniṣads, OUP). Several were transmitted with the commentary of Upaniṣad-brahmayogin.",
+    "related_works": ["Muktikā Upaniṣad (108 Upaniṣads)", "Jābāla Upaniṣad", "Paramahaṃsa Upaniṣad"],
+    "confidence": "high",
+    "sources": [
+      "https://global.oup.com/academic/product/the-samnyasa-upanisads-9780195070453",
+      "https://en.wikipedia.org/wiki/Brihat-Sannyasa_Upanishad"
+    ]
+  },
+  {
+    "work_id": "M00335",
+    "title": "Yogavāsiṣṭha, Part 1, with the commentary Tātparyaprakāśa",
+    "author": "attributed to Vālmīki (anonymous/composite); commentary by Ānandabodhendra Sarasvatī",
+    "tradition": "Hindu (Advaita-leaning Vedānta; idealist/illusionist)",
+    "genre": "philosophical epic-poem with commentary (bhasya)",
+    "date_estimate": "base text c. 9th-13th c. CE (composite); Tātparyaprakāśa commentary later (traditionally placed c. 17th c. CE or after)",
+    "summary": "Part 1 of the Yogavāsiṣṭha (Vāsiṣṭha-Rāmāyaṇa/Mahārāmāyaṇa), a vast philosophical poem of over 29,000 verses framed as sage Vasiṣṭha's instruction to prince Rāma on liberation through self-effort, dispassion, and knowledge. This opening portion (covering the Vairāgya and early sections) sets out Rāma's disenchantment with the world and the non-dual teaching that reality is mind-projected, accompanied by Ānandabodhendra's Tātparyaprakāśa gloss.",
+    "history": "Traditionally ascribed to Vālmīki but actually anonymous and composite, philosophically akin to Advaita Vedānta with idealist (dṛṣṭi-sṛṣṭi) tendencies. The Tātparyaprakāśa, the most widely used commentary, was written by Ānandabodhendra Sarasvatī (pupil of Gaṅgādharendra Sarasvatī) and is printed with the standard Sanskrit editions of the text.",
+    "related_works": ["Yogavāsiṣṭha (whole)", "Laghu-Yogavāsiṣṭha", "Rāmāyaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yoga_Vasistha",
+      "https://www.wisdomlib.org/definition/yoga-vasishtha",
+      "https://archive.org/details/AtKx_yoga-vasishtha-tika-tatparya-prakash-anand-bodhendra-saraswati-bhikshu-tika-ganp"
+    ]
+  },
+  {
+    "work_id": "M00336",
+    "title": "Yogavāsiṣṭha, Part 2, with the commentary Tātparyaprakāśa",
+    "author": "attributed to Vālmīki (anonymous/composite); commentary by Ānandabodhendra Sarasvatī",
+    "tradition": "Hindu (Advaita-leaning Vedānta; idealist/illusionist)",
+    "genre": "philosophical epic-poem with commentary (bhasya)",
+    "date_estimate": "base text c. 9th-13th c. CE (composite); Tātparyaprakāśa commentary later (c. 17th c. CE or after)",
+    "summary": "Part 2 of the Yogavāsiṣṭha with Ānandabodhendra's Tātparyaprakāśa commentary, continuing the dialogue between Vasiṣṭha and Rāma. This portion (around the Mumukṣuvyavahāra and Utpatti books) elaborates the longing for liberation and the doctrine of the origination of the world as a mental appearance, illustrated through philosophical narratives.",
+    "history": "Part of the multi-volume Sanskrit edition of the Yogavāsiṣṭha printed with the Tātparyaprakāśa of Ānandabodhendra Sarasvatī. The work as a whole is an anonymous composite text conventionally attributed to Vālmīki and central to later Advaita-flavored devotional Vedānta.",
+    "related_works": ["Yogavāsiṣṭha (whole)", "Laghu-Yogavāsiṣṭha", "Rāmāyaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yoga_Vasistha",
+      "https://archive.org/details/YogaVasishtaWithTatparyaPrakasaVol2"
+    ]
+  },
+  {
+    "work_id": "M00337",
+    "title": "Yogavāsiṣṭha, Part 3, with the commentary Tātparyaprakāśa",
+    "author": "attributed to Vālmīki (anonymous/composite); commentary by Ānandabodhendra Sarasvatī",
+    "tradition": "Hindu (Advaita-leaning Vedānta; idealist/illusionist)",
+    "genre": "philosophical epic-poem with commentary (bhasya)",
+    "date_estimate": "base text c. 9th-13th c. CE (composite); Tātparyaprakāśa commentary later (c. 17th c. CE or after)",
+    "summary": "Part 3 of the Yogavāsiṣṭha with the Tātparyaprakāśa commentary, advancing into the larger middle books (notably the Sthiti and Upaśama sections). It develops the teaching of the world's persistence as mind-stuff and the quieting of mental agitation, using extended allegorical tales to convey the non-dual metaphysics.",
+    "history": "One volume of the standard Sanskrit edition of the Yogavāsiṣṭha printed with Ānandabodhendra Sarasvatī's Tātparyaprakāśa. The text is anonymous and composite, traditionally credited to Vālmīki and influential in syncretic Advaita-devotional circles.",
+    "related_works": ["Yogavāsiṣṭha (whole)", "Laghu-Yogavāsiṣṭha", "Rāmāyaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yoga_Vasistha",
+      "https://www.wisdomlib.org/definition/yoga-vasishtha"
+    ]
+  },
+  {
+    "work_id": "M00338",
+    "title": "Yogavāsiṣṭha, Part 4, with the commentary Tātparyaprakāśa",
+    "author": "attributed to Vālmīki (anonymous/composite); commentary by Ānandabodhendra Sarasvatī",
+    "tradition": "Hindu (Advaita-leaning Vedānta; idealist/illusionist)",
+    "genre": "philosophical epic-poem with commentary (bhasya)",
+    "date_estimate": "base text c. 9th-13th c. CE (composite); Tātparyaprakāśa commentary later (c. 17th c. CE or after)",
+    "summary": "Part 4 of the Yogavāsiṣṭha with the Tātparyaprakāśa commentary, completing the work in the large concluding book (Nirvāṇa-prakaraṇa). It culminates the teaching with the realization of liberation-in-life (jīvanmukti), the dissolution of the apparent world in pure consciousness, and Rāma's attainment of equanimity.",
+    "history": "The final volume of the standard multi-volume Sanskrit edition printed with Ānandabodhendra Sarasvatī's Tātparyaprakāśa. The Nirvāṇa book is itself the longest of the six and is sometimes transmitted in two halves; the commentary remains the most authoritative traditional exegesis of the whole composite, Vālmīki-attributed text.",
+    "related_works": ["Yogavāsiṣṭha (whole)", "Laghu-Yogavāsiṣṭha", "Rāmāyaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yoga_Vasistha",
+      "https://www.wisdomlib.org/definition/yoga-vasishtha"
+    ]
+  }
+]

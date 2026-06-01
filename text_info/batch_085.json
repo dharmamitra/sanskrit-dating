@@ -1,0 +1,316 @@
+[
+  {
+    "work_id": "M00420",
+    "title": "ugracaṇḍāpūjāpaddhati",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu; Śākta (tantric Goddess worship)",
+    "genre": "paddhati (ritual manual)",
+    "date_estimate": "undated; likely later medieval / early modern (post-12th c. CE)",
+    "summary": "A ritual handbook (paddhati) prescribing the worship (pūjā) of the goddess Ugracaṇḍā, a fierce multi-armed form of Durgā/Caṇḍikā. Such manuals lay out step-by-step the invocation, mantras, offerings, and meditative visualization (dhyāna) of the deity. Ugracaṇḍā figures among the Ashtashakti/Navadurgā forms worshipped in Śākta and tantric Durgā cults.",
+    "history": "An anonymous practitioner's compilation of the type produced widely in eastern Indian (Bengal/Assam) and broader Śākta tantric milieus; no fixed author, date, or critical edition is established. It draws on the standard Durgā/Caṇḍī ritual repertoire attested in works such as the Durgāpūjātattva.",
+    "related_works": ["Durgāpūjātattva", "Devīmāhātmya (Caṇḍī)"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/ugracanda",
+      "https://en.wikipedia.org/wiki/Durga"
+    ]
+  },
+  {
+    "work_id": "M00421",
+    "title": "ūrdhvāmnāya damanārohaṇapaddhati",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu; Śākta (Ūrdhvāmnāya / Śrīvidyā tantric stream)",
+    "genre": "paddhati (ritual manual)",
+    "date_estimate": "undated; likely later medieval / early modern",
+    "summary": "A ritual manual for the damanārohaṇa (also damanotsava/damanakāropaṇa), a springtime rite in which the fragrant damanaka plant is consecrated and offered to the deity, here within the Ūrdhvāmnāya ('upward transmission') current of Śākta-tantric tradition. The damana rite is a seasonal festival of reparation and renewal associated with the god of love and with offering blossoming herbs.",
+    "history": "Belongs to the Ūrdhvāmnāya stream of the āmnāya (transmission-current) scheme of Śākta/Śrīvidyā Tantra. The damana spring rite is also documented in Śaiva sources (e.g. Jñānaśambhu's Jñānaratnāvalī, studied by D. Goodall); this particular paddhati is an anonymous practitioner's manual with no critical edition.",
+    "related_works": ["Ūrdhvāmnāya tantric corpus", "Śrīvidyā ritual literature"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/urdhvamnaya",
+      "https://www.austriaca.at/0xc1aa5576%200x003b1df0.pdf"
+    ]
+  },
+  {
+    "work_id": "M00422",
+    "title": "ūrdhvāmnāyapūjāvidhi",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu; Śākta (Ūrdhvāmnāya / Śrīvidyā tantric stream)",
+    "genre": "vidhi (ritual prescription / manual)",
+    "date_estimate": "undated; likely later medieval / early modern",
+    "summary": "A prescriptive ritual text (vidhi) setting out the procedure of worship (pūjā) according to the Ūrdhvāmnāya, the 'upward' transmission-current of Śākta-tantric ritual. It would specify the sequence of nyāsa, mantra, mudrā, and offerings proper to that current's deities.",
+    "history": "An anonymous tantric pūjā manual within the āmnāya classificatory scheme of Śākta Tantra, especially Śrīvidyā; no established author, date, or critical edition.",
+    "related_works": ["Ūrdhvāmnāya tantric corpus", "Śrīvidyā ritual literature"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/urdhvamnaya"
+    ]
+  },
+  {
+    "work_id": "M00424",
+    "title": "mukuṭāgama",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu; Śaiva Siddhānta",
+    "genre": "āgama (revealed Śaiva scripture)",
+    "date_estimate": "1st millennium CE (composite; pre-12th c. core)",
+    "summary": "The Mukuṭāgama (= Makuṭāgama) is one of the twenty-eight Siddhāntāgamas, the foundational revealed scriptures of Śaiva Siddhānta. Like other Śaivāgamas it treats the four traditional pādas — doctrine (jñāna), yoga, ritual (kriyā), and conduct (caryā) — including temple construction, image installation, initiation, and daily worship of Śiva.",
+    "history": "Counted among the five Āgamas said to have been revealed by the Tatpuruṣa face of Śiva, with the upāgamas Makuṭa and Makuṭottara. Transmitted as anonymous divine revelation within the Śaiva Siddhānta pratisaṃhitā framework; survives largely in South Indian manuscript and ritual usage.",
+    "related_works": ["the 28 Śaiva Siddhānta Āgamas (e.g. Kāmika, Kāraṇa, Rauravāgama)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/makutagama",
+      "https://en.wikipedia.org/wiki/Agama_(Hinduism)"
+    ]
+  },
+  {
+    "work_id": "M0222",
+    "title": "jñānaratnāvalī",
+    "author": "Jñānaśiva (Jñānaśambhu)",
+    "tradition": "Hindu; Śaiva Siddhānta",
+    "genre": "paddhati (Saiddhāntika ritual manual)",
+    "date_estimate": "c. 12th c. CE",
+    "summary": "A comprehensive Saiddhāntika ritual manual (paddhati) systematizing Śaiva Siddhānta ritual practice — initiation, daily and occasional rites, and festivals, including the damanotsava spring rite of reparation. It is a major source for the reconstruction of medieval Śaiva ritual.",
+    "history": "Composed in Varanasi by a guru from the Cōḻa country known by the initiatic names Jñānaśiva / Jñānaśambhu, a contemporary of the influential exegete Aghoraśiva (12th c.). The text has been studied by Dominic Goodall and others, partly from a Nepalese palm-leaf manuscript.",
+    "related_works": ["Somaśambhupaddhati", "Aghoraśiva's works", "Śaiva Siddhānta Āgamas"],
+    "confidence": "high",
+    "sources": [
+      "https://www.academia.edu/15829494/",
+      "https://www.austriaca.at/0xc1aa5576%200x003b1df0.pdf"
+    ]
+  },
+  {
+    "work_id": "M0230",
+    "title": "kuladīpikā",
+    "author": "Tryambakabhaṭṭāraka (attributed)",
+    "tradition": "Hindu; Śākta-Śaiva tantric (Kaula)",
+    "genre": "tantric treatise / ritual manual",
+    "date_estimate": "undated; medieval",
+    "summary": "The Kuladīpikā ('Lamp of the Kula') is a Kaula tantric work dealing with the doctrines and ritual of the Kula tradition — the esoteric Goddess- and Bhairava-centred current associated with secret worship, mantra, and initiatic transmission. As a 'dīpikā' it functions as an illuminating exposition of Kula practice.",
+    "history": "Attributed to Tryambakabhaṭṭāraka; the name Tryambaka is also that of the legendary founder-teacher of the monistic (Kaula/Trika) lineage of Kashmir Śaivism, so authorship and date are uncertain. No critical edition or secure dating is established.",
+    "related_works": ["Kaula/Trika tantric corpus"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kashmir_Shaivism",
+      "http://parabhairava.org/trika-tradition-or-kashmir-shaivism/"
+    ]
+  },
+  {
+    "work_id": "M0311",
+    "title": "parākramapūjā",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu; Śākta tantric",
+    "genre": "pūjā / ritual manual",
+    "date_estimate": "undated; likely later medieval / early modern",
+    "summary": "A ritual worship text (pūjā). The title is most plausibly read as the worship associated with Parā (the supreme Goddess) — i.e. a Parā-krama-pūjā setting out the sequence (krama) of her tantric worship — though the exact deity and affiliation cannot be confidently fixed.",
+    "history": "An anonymous tantric pūjā manual; no established author, date, or critical edition, and the precise text behind the title is uncertain.",
+    "related_works": ["Śākta/Trika pūjā literature"],
+    "confidence": "low",
+    "sources": [
+      "https://www.sanskrit-trikashaivism.com/en/para-praveshika-trika-scriptures-non-dual-shaivism-of-kashmir/394"
+    ]
+  },
+  {
+    "work_id": "M04001",
+    "title": "hayaśīrṣapañcarātra",
+    "author": "anonymous/traditional (revealed)",
+    "tradition": "Hindu; Vaiṣṇava (Pāñcarātra)",
+    "genre": "āgama / saṃhitā (Pāñcarātra scripture)",
+    "date_estimate": "1st millennium CE (composite)",
+    "summary": "The Hayaśīrṣa Pañcarātra (Hayaśīrṣasaṃhitā) is a large Pāñcarātra Āgama in roughly 6,500 verses across four kāṇḍas (Ādi, Saṃkarṣaṇa, Liṅga, Saura) totalling 144 chapters. It is concerned almost entirely with temple architecture, iconography, and the rites of image installation and consecration in Vaiṣṇava worship.",
+    "history": "Attributed to the horse-headed (Hayaśīrṣa/Hayagrīva) form of Viṣṇu, regarded as the original revealer of the Pāñcarātra. It is among the Pāñcarātra texts cited in the Gauḍīya Vaiṣṇava tradition; transmitted anonymously as revealed scripture.",
+    "related_works": ["Pāñcarātra Saṃhitā corpus (Ahirbudhnya, Jayākhya, Pādma, etc.)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/hayashirshasamhita",
+      "https://en.wikipedia.org/wiki/Pancharatra"
+    ]
+  },
+  {
+    "work_id": "M04002",
+    "title": "kālikāpurāṇam",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu; Śākta",
+    "genre": "purāṇa (upapurāṇa)",
+    "date_estimate": "c. late 9th–11th c. CE (sections range 7th–12th c.)",
+    "summary": "The Kālikāpurāṇa (also Kālī/Sati Purāṇa, sometimes Kālikātantra) is one of the eighteen Upapurāṇas of the Śākta tradition. It glorifies the Goddess (Kālī, Kāmākhyā, Durgā), narrates the myth of Satī, and gives extensive treatment of Goddess worship, pilgrimage, and ritual — including the noted chapter on blood sacrifice (rudhirādhyāya).",
+    "history": "Most likely composed in or near medieval Kāmarūpa (Assam), as shown by its detailed treatment of the Kāmākhyā temple and local geography; associated with the Pāla rulers of Kāmarūpa. Scholarly dating ranges from the late Gupta/early-medieval period, with the core c. 9th–11th c.",
+    "related_works": ["the eighteen Mahāpurāṇas and Upapurāṇas", "Devīmāhātmya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kalika_Purana",
+      "https://www.wisdomlib.org/hinduism/essay/the-kalika-purana-literary-study/d/doc1474327.html"
+    ]
+  },
+  {
+    "work_id": "M04003",
+    "title": "mahāguhyakālīvidhānam",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu; Śākta tantric (Kālī cult)",
+    "genre": "vidhāna (ritual prescription)",
+    "date_estimate": "undated; likely later medieval / early modern",
+    "summary": "A ritual-prescription text (vidhāna) for the worship of Guhyakālī ('Secret Kālī'), an esoteric and fierce form of the goddess Kālī prominent in Śākta tantra (especially Nepal). The 'mahā-' (great) marks it as an elaborated rite. It would lay out the mantras, nyāsa, visualization, and offerings of her secret worship.",
+    "history": "An anonymous tantric ritual manual within the Guhyakālī cult of Śākta Tantra; no established author, date, or critical edition.",
+    "related_works": ["Mahākālasaṃhitā (Guhyakālī khaṇḍa)", "Śākta Kālī-tantra literature"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/maheshvara"
+    ]
+  },
+  {
+    "work_id": "M04004",
+    "title": "mahālakṣmīdīpadānavidhiḥ",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Vaiṣṇava/Śākta devotional)",
+    "genre": "vidhi (ritual prescription)",
+    "date_estimate": "undated; likely later medieval / early modern",
+    "summary": "A ritual-procedure text (vidhi) for the dīpadāna — the offering/donation of lamps — in honour of the goddess Mahālakṣmī. Lamp offering is a meritorious votive rite, especially associated with autumn/Dīpāvalī worship of Lakṣmī; the text would specify the manner, materials, mantras, and rewards of the rite.",
+    "history": "An anonymous votive/ritual manual of the nibandha/vidhi type; no established author, date, or critical edition.",
+    "related_works": ["dharmaśāstra/nibandha literature on vrata and dāna"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/maheshvara"
+    ]
+  },
+  {
+    "work_id": "M0409",
+    "title": "parātriṃśikāvivaraṇa",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu; Kashmir Śaivism (Trika / Pratyabhijñā)",
+    "genre": "bhāṣya/vivaraṇa (commentary / philosophical treatise)",
+    "date_estimate": "c. 990–1015 CE (late 10th–early 11th c.)",
+    "summary": "Abhinavagupta's monumental commentary (vivaraṇa) on the Parātriṃśikā (Parātrīśikā), the short tantric text traditionally drawn from the Rudrayāmala and central to Trika. Going far beyond its 30-odd verses, Abhinavagupta expounds the highest reality, the philosophy of language and mantra, and the means of realizing supreme consciousness.",
+    "history": "One of Abhinavagupta's most difficult and revered works, composed by the great Trika master of Kashmir (fl. c. 975–1025 CE). It is a cornerstone of the exegesis of the Parātrīśikā/Trikasūtra teachings and has attracted extensive modern translation and study.",
+    "related_works": ["Parātrīśikā (Parātriṃśikā)", "Rudrayāmala", "Tantrāloka", "Mālinīvijayottaratantra"],
+    "confidence": "high",
+    "sources": [
+      "https://www.sanskrit-trikashaivism.com/en/paratrishika-vivarana-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/540",
+      "https://en.wikipedia.org/wiki/Abhinavagupta"
+    ]
+  },
+  {
+    "work_id": "T00241",
+    "title": "vāruṇapaddhativyākhyāna",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu; tantric/ritual",
+    "genre": "vyākhyāna (commentary on a paddhati)",
+    "date_estimate": "undated; likely later medieval / early modern",
+    "summary": "An explanatory commentary (vyākhyāna) on a Vāruṇapaddhati — a ritual manual connected with Varuṇa (the water deity) or with water-related (vāruṇa) rites/mantras. It would gloss and expand the underlying paddhati's ritual procedures.",
+    "history": "An anonymous commentarial text on a now poorly identified ritual paddhati; no established author, date, or critical edition.",
+    "related_works": ["the underlying Vāruṇapaddhati"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/maheshvara"
+    ]
+  },
+  {
+    "work_id": "T00242",
+    "title": "kālikārahasya",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu; Śākta tantric (Kālī cult)",
+    "genre": "tantric digest / ritual compendium (rahasya)",
+    "date_estimate": "undated; likely later medieval / early modern",
+    "summary": "A 'secret' (rahasya) text concerning the worship of the goddess Kālikā/Kālī, presenting her esoteric mantras, meditative forms, and ritual practice. Texts of this 'rahasya' genre typically compile from multiple tantras a guide to the pūjā and sādhanā of a particular Mahāvidyā.",
+    "history": "An anonymous Śākta-tantric compilation on Kālī worship; not securely identified with a single edited text and easily confused with related titles (e.g. Tārārahasya, Kālīvilāsatantra). No established author, date, or critical edition.",
+    "related_works": ["Tārārahasya", "Kālī-tantra literature", "Kālikāpurāṇa"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kalivilasatantra"
+    ]
+  },
+  {
+    "work_id": "m00225",
+    "title": "māheśvaratantra",
+    "author": "anonymous/traditional (revealed)",
+    "tradition": "Hindu; tantric (presented as a Śiva–Pārvatī dialogue; classed by some as Vaiṣṇava tantra)",
+    "genre": "tantra",
+    "date_estimate": "undated; likely late medieval / early modern",
+    "summary": "The Māheśvaratantra is a tantra cast as a dialogue between Śiva (Maheśvara) and Pārvatī. Though framed in Śaiva form, it is often classed as a Vaiṣṇava tantra; it treats mantras, deities, prophecy, and ritual and is quoted in later Śākta digests.",
+    "history": "Quoted in the Śāktānandataraṅgiṇī, indicating circulation within later Sanskrit tantric/Śākta scholarship; transmitted anonymously as revealed scripture. Published in modern Sanskrit–Hindi editions (e.g. ed. Sudhakar Malaviya).",
+    "related_works": ["Śāktānandataraṅgiṇī (cites it)", "Vaiṣṇava/Śaiva tantra corpus"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/maheshvaratantra",
+      "https://www.exoticindiaart.com/book/details/maheshwar-tantra-nzk864/"
+    ]
+  },
+  {
+    "work_id": "m00323",
+    "title": "tārārahasyavṛtti 2",
+    "author": "Brahmānanda (Brahmānandagiri)",
+    "tradition": "Hindu; Śākta tantric (Tārā / Mahāvidyā cult)",
+    "genre": "vṛtti (commentary) / tantric compendium",
+    "date_estimate": "c. 16th c. CE",
+    "summary": "Part 2 of the Tārārahasya ('Secret of Tārā'), a compendium and guide to the pūjā and sādhanā of the goddess Tārā, the second Mahāvidyā, including her aspects Nīlasarasvatī, Ugratārā, Ekajaṭā, and related śaktis. Arranged in four paṭalas (c. 2,500 ślokas), it sets out her mantras, meditations, and ritual worship.",
+    "history": "Compiled by the celebrated tantric author Brahmānandagiri, who is said to have worshipped Tārā at Kāmākhyā before composing his compendia; he draws on numerous tantras (Tārāsāra, Nīlatantra, Mahācīna, Rudrayāmala, etc.). Editions include one with a Hindi commentary by Sarayu Prasad Śāstrī.",
+    "related_works": ["Tārāsāra", "Nīlatantra", "Mahācīnatantra", "Rudrayāmala", "Śāktānandataraṅgiṇī (also by Brahmānandagiri)"],
+    "confidence": "medium",
+    "sources": [
+      "https://shivashakti.com/tararas",
+      "https://www.wisdomlib.org/definition/tararahasya"
+    ]
+  },
+  {
+    "work_id": "K10bsu061_u",
+    "title": "Vimalakīrtinirdeśa (Vimalakīrtinirdeśasūtra)",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist; Mahāyāna",
+    "genre": "sūtra (Mahāyāna scripture)",
+    "date_estimate": "c. 1st–2nd c. CE (no later than 3rd c. CE)",
+    "summary": "A celebrated Mahāyāna sūtra centred on Vimalakīrti, an enlightened lay householder whose wisdom matches that of the great bodhisattvas. Through his dialogues — culminating in his famous 'thunderous silence' on nonduality — the sūtra teaches emptiness, skillful means, the bodhisattva path, and the Pure Land as accessible to laypeople.",
+    "history": "An early Mahāyāna text (composed c. 100 CE), enormously influential in East Asian Buddhism (Chan/Zen). Long thought lost in the original, a Sanskrit manuscript was recovered in 1999 at the Potala Palace, Lhasa, and critically edited by the Taishō University study group (2004/2006).",
+    "related_works": ["Mahāyāna Prajñāpāramitā literature"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "https://buddhiststudies.stanford.edu/publications/vimalakirtinirdesa-teaching-vimalakirti"
+    ]
+  },
+  {
+    "work_id": "M00048",
+    "title": "parāprāveśikā",
+    "author": "Kṣemarāja",
+    "tradition": "Hindu; Kashmir Śaivism (Trika / Pratyabhijñā)",
+    "genre": "philosophical treatise (introductory manual)",
+    "date_estimate": "early 11th c. CE",
+    "summary": "A short prose primer of nondual Kashmir Śaiva (Śaivādvaita) philosophy, consisting of an introductory aphorism followed by a concise gloss. It expounds the tattvas (categories of cosmic manifestation) and centres on Śakti in her supreme (Parā) aspect, serving as an accessible introduction to Trika metaphysics.",
+    "history": "Composed by Kṣemarāja, the foremost disciple of Abhinavagupta (early 11th c.), author of the Pratyabhijñāhṛdaya, Spandanirṇaya, and Śivasūtravimarśinī. The Parāprāveśikā is among his shorter introductory works on Pratyabhijñā doctrine.",
+    "related_works": ["Pratyabhijñāhṛdaya", "Spandanirṇaya", "works of Abhinavagupta"],
+    "confidence": "high",
+    "sources": [
+      "https://www.sanskrit-trikashaivism.com/en/para-praveshika-trika-scriptures-non-dual-shaivism-of-kashmir/394",
+      "https://en.wikipedia.org/wiki/Kshemaraja"
+    ]
+  },
+  {
+    "work_id": "GSP29nysvbh_u",
+    "title": "Nyāyasūtra",
+    "author": "Gautama (Akṣapāda Gautama)",
+    "tradition": "Hindu; Nyāya (orthodox philosophical school)",
+    "genre": "sūtra (foundational philosophical aphorisms)",
+    "date_estimate": "core c. 2nd c. CE (with later interpolations; range 6th c. BCE–2nd c. CE debated)",
+    "summary": "The foundational text of the Nyāya school, comprising about 528 aphorisms (sūtras) in five books. It systematizes logic, epistemology (the pramāṇas — perception, inference, comparison, testimony), debate theory, and metaphysics, framing the sixteen categories whose right knowledge leads to liberation.",
+    "history": "Attributed to Gautama (also called Akṣapāda); its date is uncertain, with the core usually placed around 150 CE alongside significant later interpolation. It became the basis of a long commentarial tradition, most importantly Vātsyāyana's Nyāyabhāṣya. (The work_id suggests this is the bhāṣya recension.)",
+    "related_works": ["Nyāyabhāṣya (Vātsyāyana)", "Nyāyavārttika (Uddyotakara)", "Vaiśeṣikasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ny%C4%81ya_S%C5%ABtras",
+      "https://www.britannica.com/topic/Indian-philosophy/The-Nyaya-sutras"
+    ]
+  },
+  {
+    "work_id": "GV01rvh",
+    "title": "Ṛgveda",
+    "author": "anonymous/traditional (ascribed to seer-families, ṛṣis)",
+    "tradition": "Hindu (Vedic)",
+    "genre": "Vedic saṃhitā (hymn collection)",
+    "date_estimate": "c. 1500–1200 BCE (composite; family books oldest)",
+    "summary": "The oldest of the four Vedas and the foundational text of Indian religion: a collection of 1,028 hymns (sūktas) in 10 maṇḍalas, composed in archaic Vedic Sanskrit. The hymns invoke and praise deities such as Agni, Indra, Soma, Varuṇa, and Uṣas, and contain cosmogonic, ritual, and speculative poetry.",
+    "history": "Composed orally in the Punjab region by families of seers (the 'family books' II–VII being the oldest core, with books I and X later) and preserved through an extraordinarily precise oral tradition before being written down. It is the cornerstone of Vedic religion and Indo-European studies, exhibiting the most archaic Sanskrit.",
+    "related_works": ["Sāmaveda", "Yajurveda", "Atharvaveda", "Brāhmaṇas and Upaniṣads"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rigveda",
+      "https://www.britannica.com/topic/Rigveda"
+    ]
+  }
+]

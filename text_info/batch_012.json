@@ -1,0 +1,322 @@
+[
+  {
+    "work_id": "GK17kvrtrsuu",
+    "title": "Vṛttaratnākara",
+    "author": "Kedārabhaṭṭa",
+    "tradition": "Hindu; secular/scientific (prosody)",
+    "genre": "chandas (treatise on metrics/prosody)",
+    "date_estimate": "c. 10th-11th c. CE",
+    "summary": "A concise verse manual of Sanskrit prosody (chandaḥśāstra) in six chapters totaling about 136 verses. It systematically defines the gaṇas (metrical feet), the rules for scansion, and catalogues the principal syllabic (varṇavṛtta) and moraic (mātrāvṛtta) meters, with each meter typically illustrated by a self-exemplifying verse.",
+    "history": "Composed by Kedārabhaṭṭa, traditionally dated to roughly 950-1050 CE. It became the single most popular handbook of Sanskrit metrics, attracting more than sixty commentaries across the centuries and remaining a standard pedagogical text into the modern era.",
+    "related_works": ["Piṅgala Chandaḥsūtra", "Śrutabodha"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kedarabhatta",
+      "https://www.wisdomlib.org/definition/vrittaratnakara"
+    ]
+  },
+  {
+    "work_id": "GK18abhidhau",
+    "title": "Abhinaya-Darpaṇa",
+    "author": "Nandikeśvara",
+    "tradition": "Hindu (performing-arts śāstra)",
+    "genre": "śāstra (treatise on dramaturgy/dance and gesture)",
+    "date_estimate": "uncertain; commonly placed c. 10th-13th c. CE (some traditions claim much greater antiquity)",
+    "summary": "The 'Mirror of Gesture,' a manual of abhinaya (expressive gesture) for classical Indian dance. It codifies hand gestures (hastas/mudrās), movements of the head, eyes, neck, and feet, and the conventions by which a dancer conveys meaning and emotion in performance.",
+    "history": "Attributed to a Nandikeśvara whose identity and date are much debated; scholars commonly assign the surviving text to the medieval period (around or after 1000 CE), though some traditional accounts claim great antiquity. It was made widely known in the West through A. K. Coomaraswamy's translation 'The Mirror of Gesture' and remains a foundational reference for Bharatanatyam and other dance forms.",
+    "related_works": ["Nāṭyaśāstra", "Bharatārṇava"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nandikeshvara",
+      "https://www.wisdomlib.org/concept/abhinayadarpana"
+    ]
+  },
+  {
+    "work_id": "GK18bharnatu",
+    "title": "Nāṭyaśāstra",
+    "author": "Bharata (Bharatamuni; traditional/composite attribution)",
+    "tradition": "Hindu (dramaturgy, aesthetics)",
+    "genre": "śāstra (foundational treatise on drama, dance, music, and aesthetics)",
+    "date_estimate": "composite; c. 200 BCE-200/400 CE (core layers earlier, expanded over centuries)",
+    "summary": "The encyclopedic foundational treatise on the performing arts, traditionally in 36 chapters. It covers the origin of drama, theatre architecture, types of plays (rūpaka), acting and gesture (abhinaya), prosody and language, music and instruments, costume and makeup, and above all the theory of rasa (aesthetic sentiment) and bhāva (emotional states).",
+    "history": "Ascribed to the legendary sage Bharata but in fact a composite work accreted over several centuries (roughly 2nd c. BCE to 4th c. CE). It is the fountainhead of Indian aesthetic theory; its rasa doctrine was elaborated by later theorists, most influentially in Abhinavagupta's commentary, the Abhinavabhāratī.",
+    "related_works": ["Abhinavabhāratī (commentary by Abhinavagupta)", "Daśarūpaka", "Abhinaya-Darpaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Natya_Shastra",
+      "https://www.wisdomlib.org/hinduism/book/the-natyashastra/d/doc202322.html"
+    ]
+  },
+  {
+    "work_id": "GK18dhandasu",
+    "title": "Daśarūpaka",
+    "author": "Dhanañjaya",
+    "tradition": "Hindu (dramaturgy, poetics)",
+    "genre": "śāstra (treatise on dramaturgy)",
+    "date_estimate": "late 10th c. CE (c. 974-995 CE)",
+    "summary": "The 'Ten Forms of Drama,' a concise treatise in four chapters (prakāśas) on Sanskrit dramaturgy. It distills the dramaturgical doctrine of the Nāṭyaśāstra, treating the nature of drama, the ten principal types of play (rūpaka), the characteristics of the hero (nāyaka) and heroine, plot structure, and the theory of rasa.",
+    "history": "Written by Dhanañjaya, son of Viṣṇu, a court poet of the Paramāra king Vākpatirāja II (Muñja) of Mālava (r. c. 974-995). It is regarded as the most important systematic work on dramaturgy after the Nāṭyaśāstra and is usually transmitted with the explanatory Avaloka commentary of Dhanika.",
+    "related_works": ["Nāṭyaśāstra", "Avaloka (commentary by Dhanika)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dasharupakam",
+      "https://www.wisdomlib.org/definition/dasharupa"
+    ]
+  },
+  {
+    "work_id": "GK19aghatkvu",
+    "title": "Ghaṭakarparakāvya",
+    "author": "Ghaṭakarpara (traditionally ascribed to Kālidāsa); NOTE: the project hint 'Abhinavagupta' refers to the commentator, not the poet",
+    "tradition": "Hindu",
+    "genre": "kāvya (short lyric/messenger poem, yamaka showpiece)",
+    "date_estimate": "uncertain; poem perhaps c. 4th-7th c. CE; Abhinavagupta's commentary c. 1000 CE",
+    "summary": "A short poem of about twenty-two stanzas in which a husband, separated during the rains, sends a message of love and longing to his recently married wife. Its distinctive feature is the virtuosic use of yamaka (sound-repetition/paronomasia), every verse displaying chiming wordplay.",
+    "history": "Traditionally attributed to Kālidāsa and counted among works of the 'nine gems,' though the attribution is doubtful; the poet's sobriquet 'Ghaṭakarpara' ('broken pot') derives from a legendary challenge over mastery of yamaka. The Kashmir Shaivite polymath Abhinavagupta (fl. c. 1000) wrote a learned commentary on it (the Ghaṭakarpara-kulaka-vivṛti), which is the basis for the project's mistaken author hint.",
+    "related_works": ["Meghadūta (Kālidāsa)", "Ghaṭakarpara-kulaka-vivṛti (commentary by Abhinavagupta)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/ghatakarpara",
+      "https://archive.org/details/GhatakaparaKavyaOfKalidasaWithAbihnavaGuptaCommentaryKss67"
+    ]
+  },
+  {
+    "work_id": "GK19akadambu",
+    "title": "Kādambarīkathāsāra",
+    "author": "Abhinanda",
+    "tradition": "Hindu",
+    "genre": "kāvya (verse epitome / metrical retelling)",
+    "date_estimate": "9th c. CE",
+    "summary": "A metrical verse condensation ('essence of the story of the Kādambarī') that retells in Sanskrit poetry the celebrated prose romance Kādambarī of Bāṇa. It compresses Bāṇa's intricate, ornate narrative of intertwined lovers and rebirths into a more accessible poem.",
+    "history": "Composed by Abhinanda, son of Jayantabhaṭṭa (the Nyāya philosopher) and a court poet associated with Kashmir, working in the 9th century. The work is studied as an example of the developing Kashmiri poetic style and as evidence for the reception of Bāṇa's prose masterpiece.",
+    "related_works": ["Kādambarī (Bāṇa)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kadambarikathasara",
+      "https://www.wisdomlib.org/definition/abhinanda"
+    ]
+  },
+  {
+    "work_id": "GK19amaru_u",
+    "title": "Amaruśataka",
+    "author": "Amaru (Amaruka)",
+    "tradition": "Hindu (secular court poetry)",
+    "genre": "kāvya (muktaka / single-verse erotic lyric anthology)",
+    "date_estimate": "c. 7th-8th c. CE (disputed; sometimes placed earlier)",
+    "summary": "A celebrated anthology of about one hundred independent stanzas on śṛṅgāra (love), each verse a self-contained vignette capturing a moment of erotic emotion—lovers' quarrels, jealousy, union, separation, and reconciliation. It is prized for psychological subtlety and suggestion (dhvani) achieved in a single verse.",
+    "history": "Attributed to the otherwise shadowy poet Amaru; legend even links the collection to Śaṅkara. The text circulated in several regional recensions with differing verses and orderings, and its individual stanzas are frequently cited by later poeticians as model illustrations of erotic rasa.",
+    "related_works": ["Śṛṅgāraśataka (Bhartṛhari)", "Gāthāsaptaśatī"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Amarushataka",
+      "https://www.wisdomlib.org/definition/vairagyashataka"
+    ]
+  },
+  {
+    "work_id": "GK19anvallcu",
+    "title": "Vallālacarita",
+    "author": "Ānandabhaṭṭa",
+    "tradition": "Hindu (Bengali Smārta/historical)",
+    "genre": "carita (semi-historical/legendary biography)",
+    "date_estimate": "c. 16th c. CE (1510 CE per the text's own statement)",
+    "summary": "A Sanskrit account of the deeds of Vallālasena (Ballāl Sena), the 12th-century Sena king of Bengal. It narrates his reign and is a key source for the legends of social organization in Bengal, especially the institution of Kulīnism among Brahmins and Kāyasthas.",
+    "history": "Composed by Ānandabhaṭṭa, a Bengali Śaivite/Vedānta commentator, reportedly at the request of Buddhimanta Khan, Raja of Nabadwip, in the early 16th century. Written long after the events it describes, it mixes history and legend; it was edited and translated by Haraprasad Sastri (Calcutta, 1901) and is much used in studies of Bengali social history.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ananda_Bhatta",
+      "http://gretil.sub.uni-goettingen.de/gretil_elib/AVa901__Anandabhatta_Vallalacarita_EN_HP-Sastri.pdf"
+    ]
+  },
+  {
+    "work_id": "GK19appvairu",
+    "title": "Vairāgyaśataka",
+    "author": "Appayya Dīkṣita",
+    "tradition": "Hindu (Advaita/Śaiva-leaning Smārta)",
+    "genre": "stotra / nīti-vairāgya śataka (century of verses on renunciation)",
+    "date_estimate": "16th c. CE (c. 1520-1593, the author's lifetime)",
+    "summary": "A 'century of verses on dispassion' meditating on the transience of worldly pleasures, the futility of desire and wealth, and the value of detachment and devotion as the path to spiritual peace. It belongs to the devotional-renunciatory poetic tradition exemplified by Bhartṛhari's Vairāgyaśataka.",
+    "history": "Authored by the prolific South Indian polymath Appayya Dīkṣita (1520-1593), famed for some hundred works across Vedānta, Mīmāṃsā, poetics, and Śaiva theology. The title Vairāgyaśataka is shared with the more famous work of Bhartṛhari and with another by Appayya's grand-nephew Nīlakaṇṭha Dīkṣita, so attribution must be specified by author.",
+    "related_works": ["Vairāgyaśataka (Bhartṛhari)", "Vairāgyaśataka (Nīlakaṇṭha Dīkṣita)"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Appayya_Dikshita",
+      "https://www.wisdomlib.org/definition/vairagyashataka"
+    ]
+  },
+  {
+    "work_id": "GK19asvbuc2u",
+    "title": "Buddhacarita",
+    "author": "Aśvaghoṣa",
+    "tradition": "Buddhist",
+    "genre": "mahākāvya (epic court poem)",
+    "date_estimate": "c. 1st-2nd c. CE",
+    "summary": "An ornate epic poem (mahākāvya) narrating the life of the Buddha, from his birth and youth in luxury, through the encounters that prompt his renunciation, his ascetic struggle and enlightenment, to his teaching and (in the full work) parinirvāṇa. It is the earliest surviving complete Sanskrit kāvya and combines Buddhist doctrine with refined poetic art.",
+    "history": "Composed by Aśvaghoṣa, a Brahmin convert to Buddhism active around the time of Kaniṣka (1st-2nd c. CE). Only the first thirteen-plus cantos survive in Sanskrit; the complete work is preserved in Tibetan and Chinese translations. It is foundational both for the kāvya tradition and for Buddhist literature.",
+    "related_works": ["Saundarananda (Aśvaghoṣa)", "Śāriputraprakaraṇa (Aśvaghoṣa)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Buddhacharita",
+      "https://en.wikipedia.org/wiki/Ashvaghosha"
+    ]
+  },
+  {
+    "work_id": "GK19asvsau2u",
+    "title": "Saundarananda",
+    "author": "Aśvaghoṣa",
+    "tradition": "Buddhist",
+    "genre": "mahākāvya (epic court poem)",
+    "date_estimate": "c. 1st-2nd c. CE",
+    "summary": "An epic poem ('Handsome Nanda') recounting the conversion of the Buddha's half-brother Nanda, who is torn from his beautiful wife Sundarī and reluctantly made a monk. Through teaching and a vision of heavenly nymphs and their impermanence, Nanda overcomes his attachment and attains arhatship; the poem thus dramatizes the path from sensual love to liberation.",
+    "history": "Composed by Aśvaghoṣa (1st-2nd c. CE), the companion piece to his Buddhacarita and, unlike that work, fully preserved in Sanskrit in eighteen cantos. It blends polished kāvya artistry with explicit exposition of Buddhist meditative and doctrinal teaching.",
+    "related_works": ["Buddhacarita (Aśvaghoṣa)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Saundarananda",
+      "https://en.wikipedia.org/wiki/Ashvaghosha"
+    ]
+  },
+  {
+    "work_id": "GK19bahcar2u",
+    "title": "Harṣacarita: Ucchvāsa 2",
+    "author": "Bāṇa (Bāṇabhaṭṭa)",
+    "tradition": "Hindu (secular court literature)",
+    "genre": "ākhyāyikā / gadyakāvya (prose biography in ornate prose)",
+    "date_estimate": "c. 640 CE (7th c.)",
+    "summary": "The second chapter (ucchvāsa) of Bāṇa's prose biography of Emperor Harṣa. In the opening ucchvāsas Bāṇa narrates his own family background, lineage, and early life, framing the work autobiographically before turning to the emperor; ucchvāsa 2 forms part of this introductory account of the poet's ancestry and personal history.",
+    "history": "The Harṣacarita, written c. 640 CE by Bāṇabhaṭṭa, court poet of Harṣavardhana of Kanauj, is the first historical biography (ākhyāyikā) in Sanskrit and a masterpiece of ornate prose. It survives in eight ucchvāsas plus supplementary matter and is a major source for 7th-century North Indian history.",
+    "related_works": ["Harṣacarita (Bāṇa)", "Kādambarī (Bāṇa)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harshacharita",
+      "https://en.wikipedia.org/wiki/B%C4%81%E1%B9%87abha%E1%B9%AD%E1%B9%ADa"
+    ]
+  },
+  {
+    "work_id": "GK19bahcar3u",
+    "title": "Harṣacarita: Ucchvāsa 3",
+    "author": "Bāṇa (Bāṇabhaṭṭa)",
+    "tradition": "Hindu (secular court literature)",
+    "genre": "ākhyāyikā / gadyakāvya (prose biography in ornate prose)",
+    "date_estimate": "c. 640 CE (7th c.)",
+    "summary": "The third chapter of Bāṇa's prose biography of Harṣa. With this ucchvāsa the narrative moves from the poet's own background toward the dynastic story, introducing the Puṣyabhūti (Vardhana) line of Sthāṇvīśvara and the legendary founder-king Puṣyabhūti, thus setting the stage for Harṣa's family history.",
+    "history": "Part of the Harṣacarita, written c. 640 CE by Bāṇabhaṭṭa, court poet of Harṣa, the first historical biography in Sanskrit and a celebrated exemplar of ornate gadya (prose) style, transmitted in eight ucchvāsas.",
+    "related_works": ["Harṣacarita (Bāṇa)", "Kādambarī (Bāṇa)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harshacharita",
+      "https://www.britannica.com/topic/Harshacharita"
+    ]
+  },
+  {
+    "work_id": "GK19bahcar4u",
+    "title": "Harṣacarita: Ucchvāsa 4",
+    "author": "Bāṇa (Bāṇabhaṭṭa)",
+    "tradition": "Hindu (secular court literature)",
+    "genre": "ākhyāyikā / gadyakāvya (prose biography in ornate prose)",
+    "date_estimate": "c. 640 CE (7th c.)",
+    "summary": "The fourth chapter of Bāṇa's biography of Harṣa, continuing the account of the Puṣyabhūti dynasty. It develops the story of Harṣa's immediate forebears—his father Prabhākaravardhana and the royal household—amid the ornate descriptive prose for which Bāṇa is famed.",
+    "history": "A section of the Harṣacarita, composed c. 640 CE by Bāṇabhaṭṭa for Emperor Harṣa; the work pioneered historical biography in Sanskrit and is a model of the high gadyakāvya style, preserved in eight ucchvāsas.",
+    "related_works": ["Harṣacarita (Bāṇa)", "Kādambarī (Bāṇa)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harshacharita",
+      "https://www.britannica.com/topic/Harshacharita"
+    ]
+  },
+  {
+    "work_id": "GK19bahcar5_pu",
+    "title": "Harṣacarita: Ucchvāsa 5",
+    "author": "Bāṇa (Bāṇabhaṭṭa)",
+    "tradition": "Hindu (secular court literature)",
+    "genre": "ākhyāyikā / gadyakāvya (prose biography in ornate prose)",
+    "date_estimate": "c. 640 CE (7th c.)",
+    "summary": "The fifth chapter of Bāṇa's biography of Harṣa. It carries the dynastic narrative into the crisis of Harṣa's accession—the illness and death of his father Prabhākaravardhana and the deepening misfortunes of the royal family that lead toward Harṣa's rise to power.",
+    "history": "A section of the Harṣacarita, written c. 640 CE by Bāṇabhaṭṭa, court poet of Harṣa of Kanauj; the earliest Sanskrit historical biography and a celebrated exemplar of ornate prose, transmitted in eight ucchvāsas.",
+    "related_works": ["Harṣacarita (Bāṇa)", "Kādambarī (Bāṇa)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harshacharita",
+      "https://www.britannica.com/topic/Harshacharita"
+    ]
+  },
+  {
+    "work_id": "GK19bahcar6u",
+    "title": "Harṣacarita: Ucchvāsa 6",
+    "author": "Bāṇa (Bāṇabhaṭṭa)",
+    "tradition": "Hindu (secular court literature)",
+    "genre": "ākhyāyikā / gadyakāvya (prose biography in ornate prose)",
+    "date_estimate": "c. 640 CE (7th c.)",
+    "summary": "The sixth chapter of Bāṇa's biography of Harṣa. It treats the tumultuous events surrounding the murder of Harṣa's elder brother Rājyavardhana and the abduction of their sister Rājyaśrī, the calamities that propel the young Harṣa to assume kingship and vow vengeance.",
+    "history": "A section of the Harṣacarita, composed c. 640 CE by Bāṇabhaṭṭa, court poet of Harṣa; the work is the first historical biography in Sanskrit and a high point of ornate prose, preserved in eight ucchvāsas.",
+    "related_works": ["Harṣacarita (Bāṇa)", "Kādambarī (Bāṇa)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harshacharita",
+      "https://www.britannica.com/topic/Harshacharita"
+    ]
+  },
+  {
+    "work_id": "GK19bahcar7u",
+    "title": "Harṣacarita: Ucchvāsa 7",
+    "author": "Bāṇa (Bāṇabhaṭṭa)",
+    "tradition": "Hindu (secular court literature)",
+    "genre": "ākhyāyikā / gadyakāvya (prose biography in ornate prose)",
+    "date_estimate": "c. 640 CE (7th c.)",
+    "summary": "The seventh chapter of Bāṇa's biography of Harṣa. It describes Harṣa's military campaign and march in search of his lost sister Rājyaśrī, including the famous extended description of his army and camp, as the king pursues his enemies through the forests of the Vindhyas.",
+    "history": "A section of the Harṣacarita, written c. 640 CE by Bāṇabhaṭṭa for Emperor Harṣa; celebrated as the first Sanskrit historical biography and a masterwork of ornate descriptive prose, transmitted in eight ucchvāsas.",
+    "related_works": ["Harṣacarita (Bāṇa)", "Kādambarī (Bāṇa)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harshacharita",
+      "https://www.britannica.com/topic/Harshacharita"
+    ]
+  },
+  {
+    "work_id": "GK19bahcar8u",
+    "title": "Harṣacarita: Ucchvāsa 8",
+    "author": "Bāṇa (Bāṇabhaṭṭa)",
+    "tradition": "Hindu (secular court literature)",
+    "genre": "ākhyāyikā / gadyakāvya (prose biography in ornate prose)",
+    "date_estimate": "c. 640 CE (7th c.)",
+    "summary": "The eighth and final extant chapter of Bāṇa's biography of Harṣa. It brings the narrative to its climax with Harṣa's reunion with his sister Rājyaśrī—rescued as she is about to immolate herself in the Vindhya forest—and includes the celebrated description of the ascetic Divākaramitra's woodland hermitage. The work breaks off without a formal conclusion.",
+    "history": "The closing surviving ucchvāsa of the Harṣacarita, composed c. 640 CE by Bāṇabhaṭṭa; the unfinished ending of this first Sanskrit historical biography has long been noted by scholars. It remains a key source for 7th-century North Indian history and society.",
+    "related_works": ["Harṣacarita (Bāṇa)", "Kādambarī (Bāṇa)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harshacharita",
+      "https://www.britannica.com/topic/Harshacharita"
+    ]
+  },
+  {
+    "work_id": "GK19bahcarpu",
+    "title": "Harṣacarita: Pariśiṣṭa",
+    "author": "Bāṇa (Bāṇabhaṭṭa); supplementary/appended matter",
+    "tradition": "Hindu (secular court literature)",
+    "genre": "appendix / supplement to a prose biography",
+    "date_estimate": "associated with the Harṣacarita, c. 640 CE; appended material possibly later",
+    "summary": "The 'pariśiṣṭa' (supplement/appendix) attached to the Harṣacarita in the manuscript and editorial tradition. It comprises supplementary or concluding matter associated with Bāṇa's unfinished prose biography of Harṣa rather than a numbered narrative ucchvāsa.",
+    "history": "Bāṇa's Harṣacarita famously ends abruptly in the eighth ucchvāsa; editions sometimes group additional verses or supplementary matter as a pariśiṣṭa. This entry corresponds to that appended portion of the work transmitted alongside the main text.",
+    "related_works": ["Harṣacarita (Bāṇa)", "Kādambarī (Bāṇa)"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harshacharita",
+      "https://www.wisdomlib.org/definition/harshacarita"
+    ]
+  },
+  {
+    "work_id": "GK19bankad1u",
+    "title": "Kādambarī",
+    "author": "Bāṇa (Bāṇabhaṭṭa); completed by his son Bhūṣaṇabhaṭṭa (Pulinda)",
+    "tradition": "Hindu (secular court literature)",
+    "genre": "kathā / gadyakāvya (prose romance)",
+    "date_estimate": "early-mid 7th c. CE",
+    "summary": "One of the supreme prose romances of Sanskrit literature, an elaborate fantastical love story spanning multiple intertwined narratives and successive rebirths, centered on the princess Kādambarī and the prince Candrāpīḍa, with parallel lovers Mahāśvetā and Puṇḍarīka. It is renowned for its immense, intricately ornamented sentences, lush description, and emotional depth.",
+    "history": "Begun by Bāṇabhaṭṭa, court poet of Harṣa (7th c.), and left unfinished at his death; it was completed by his son Bhūṣaṇabhaṭṭa. The 'Kādambarī' became a byword for ornate Sanskrit prose (the word kādambarī even came to denote 'a novel' in later Indian languages) and is a cornerstone of the kathā/gadyakāvya tradition.",
+    "related_works": ["Harṣacarita (Bāṇa)", "Kādambarīkathāsāra (Abhinanda)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kadambari",
+      "https://en.wikipedia.org/wiki/B%C4%81%E1%B9%87abha%E1%B9%AD%E1%B9%ADa"
+    ]
+  }
+]

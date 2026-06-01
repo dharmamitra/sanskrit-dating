@@ -1,0 +1,315 @@
+[
+  {
+    "work_id": "GSP33yamis_pu",
+    "title": "Īśvarasiddhi",
+    "author": "Yāmuna (Yāmunācārya / Ālavandār)",
+    "tradition": "Hindu, Śrī Vaiṣṇava / Viśiṣṭādvaita Vedānta",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 10th c. CE (Yāmuna fl. c. 918–1038 CE)",
+    "summary": "The Īśvarasiddhi ('Demonstration of God') is one of the three component treatises of Yāmuna's Siddhitraya. It argues for the existence and nature of a personal supreme Lord (Īśvara), defending theism against rival positions and laying a foundation for the later Viśiṣṭādvaita doctrine of God as the inner controller of all souls and matter.",
+    "history": "Yāmuna was the grand-teacher and principal philosophical predecessor of Rāmānuja, and the Siddhitraya provided much of the conceptual groundwork that Rāmānuja systematized. The Īśvarasiddhi survives incompletely and is among the earliest systematic Viśiṣṭādvaita statements on theism.",
+    "related_works": ["Siddhitraya", "Ātmasiddhi", "Saṃvitsiddhi", "Āgamaprāmāṇya", "Stotraratna"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Siddhitraya",
+      "https://en.wikipedia.org/wiki/Yamunacharya"
+    ]
+  },
+  {
+    "work_id": "GSP33yamss_pu",
+    "title": "Saṃvitsiddhi",
+    "author": "Yāmuna (Yāmunācārya / Ālavandār)",
+    "tradition": "Hindu, Śrī Vaiṣṇava / Viśiṣṭādvaita Vedānta",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 10th c. CE (Yāmuna fl. c. 918–1038 CE)",
+    "summary": "The Saṃvitsiddhi ('Demonstration of [the validity of] cognition/empirical reality') is the third treatise of Yāmuna's Siddhitraya. It defends the reality and validity of consciousness and the empirical world (saṃvit) against Advaita illusionism, arguing that knowledge truly reveals real objects and that the manifold world is not a mere appearance.",
+    "history": "A foundational anti-Advaita polemic of early Viśiṣṭādvaita, the Saṃvitsiddhi anticipates Rāmānuja's critique of māyāvāda. The text is preserved only in part, and its arguments were absorbed and expanded by Rāmānuja and later Śrī Vaiṣṇava authors.",
+    "related_works": ["Siddhitraya", "Ātmasiddhi", "Īśvarasiddhi"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Siddhitraya",
+      "https://en.wikipedia.org/wiki/Yamunacharya"
+    ]
+  },
+  {
+    "work_id": "GSP33yamsvspu",
+    "title": "Saṃvitsiddhi",
+    "author": "Yāmunācārya",
+    "tradition": "Hindu, Śrī Vaiṣṇava / Viśiṣṭādvaita Vedānta",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 10th c. CE (Yāmuna fl. c. 918–1038 CE)",
+    "summary": "A copy/recension of Yāmuna's Saṃvitsiddhi, the third part of the Siddhitraya, demonstrating the reality and self-validity of consciousness and the empirical world against Advaita non-dualism. The treatise upholds that cognition discloses genuinely existing objects rather than illusory appearances.",
+    "history": "This is another textual witness of the same work as GSP33yamss_pu, a cornerstone of early Viśiṣṭādvaita that prepared the philosophical ground for Rāmānuja. It survives in fragmentary form.",
+    "related_works": ["Siddhitraya", "Ātmasiddhi", "Īśvarasiddhi"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Siddhitraya",
+      "https://en.wikipedia.org/wiki/Yamunacharya"
+    ]
+  },
+  {
+    "work_id": "GSP33yasasi_u",
+    "title": "Siddhitraya: Part 3: Saṃvitsiddhi",
+    "author": "Yāmuna (Yāmunācārya / Ālavandār)",
+    "tradition": "Hindu, Śrī Vaiṣṇava / Viśiṣṭādvaita Vedānta",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 10th c. CE (Yāmuna fl. c. 918–1038 CE)",
+    "summary": "Explicitly the third section (Saṃvitsiddhi) of Yāmuna's Siddhitraya, the 'triad of demonstrations.' It establishes the reality of consciousness (saṃvit) and the perceived world, refuting the Advaitin reduction of plurality to illusion and defending the validity of knowledge.",
+    "history": "The Siddhitraya as a whole comprises Ātmasiddhi, Īśvarasiddhi, and Saṃvitsiddhi, and is reckoned Yāmuna's most important philosophical work and a direct precursor to Rāmānuja's Viśiṣṭādvaita. The text is transmitted incompletely.",
+    "related_works": ["Siddhitraya", "Ātmasiddhi", "Īśvarasiddhi"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Siddhitraya",
+      "https://en.wikipedia.org/wiki/Yamunacharya"
+    ]
+  },
+  {
+    "work_id": "GSP34ghers_pu",
+    "title": "Gheraṇḍa-Saṃhitā",
+    "author": "anonymous/traditional (attributed to the sage Gheraṇḍa)",
+    "tradition": "Hindu, Haṭha Yoga",
+    "genre": "yoga manual / technical treatise",
+    "date_estimate": "c. late 17th c. CE",
+    "summary": "The Gheraṇḍa-Saṃhitā is a classical manual of Haṭha Yoga cast as a dialogue in which the sage Gheraṇḍa instructs his pupil Caṇḍakāpāli. It teaches a sevenfold (saptāṅga) path of 'ghaṭastha' yoga covering purification (ṣaṭkarma), āsanas, mudrās, pratyāhāra, prāṇāyāma, dhyāna, and samādhi, with one of the most extensive premodern lists of postures and cleansing techniques.",
+    "history": "Probably composed in eastern India (Bengal region) in the late 17th century, it is one of the three most influential classical Haṭha Yoga texts alongside the Haṭhayogapradīpikā and Śiva Saṃhitā. Its sevenfold scheme is distinctive among yoga manuals.",
+    "related_works": ["Haṭhayogapradīpikā", "Śiva Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gheranda_Samhita"
+    ]
+  },
+  {
+    "work_id": "GSP34hathyopu",
+    "title": "Haṭhayogapradīpikā",
+    "author": "Svātmārāma",
+    "tradition": "Hindu, Haṭha Yoga / Nātha tradition",
+    "genre": "yoga manual / technical treatise",
+    "date_estimate": "c. 15th c. CE",
+    "summary": "The Haṭhayogapradīpikā ('Light on Haṭha Yoga') is the most influential classical compendium of Haṭha Yoga, systematizing teachings on āsana, prāṇāyāma (with bandhas and kumbhakas), the ṣaṭkarmas, mudrās, the awakening of kuṇḍalinī, nāda, and samādhi. It frames physical and energetic practices as a ladder leading toward Rāja Yoga.",
+    "history": "Compiled by Svātmārāma, who draws on earlier Nātha and tantric yoga sources, the text became the standard reference work for later Haṭha Yoga and attracted commentaries such as Brahmānanda's Jyotsnā. It strongly shaped modern transmission of postural yoga.",
+    "related_works": ["Gheraṇḍa-Saṃhitā", "Śiva Saṃhitā", "Yogasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hatha_Yoga_Pradipika"
+    ]
+  },
+  {
+    "work_id": "GSP34patyog_u",
+    "title": "Yogasūtra",
+    "author": "Patañjali",
+    "tradition": "Hindu, Yoga darśana (Pātañjala Yoga)",
+    "genre": "sūtra (aphoristic philosophical treatise)",
+    "date_estimate": "c. 350–450 CE (commonly c. 400 CE)",
+    "summary": "The Yogasūtra of Patañjali is the foundational text of the Yoga school of Indian philosophy, comprising c. 195 terse aphorisms in four pādas (Samādhi, Sādhana, Vibhūti, Kaivalya). It defines yoga as 'the stilling of the fluctuations of the mind' (cittavṛttinirodha) and expounds the eightfold path (aṣṭāṅga yoga) culminating in liberation (kaivalya) within a Sāṃkhya-derived metaphysics.",
+    "history": "Modern scholarship (e.g. Maas) often treats the sūtras and the Bhāṣya as a single 'Pātañjalayogaśāstra' composed/redacted around 400 CE; the text shows awareness of Buddhist (Vasubandhu-era) ideas. It generated a rich commentarial tradition and is the most authoritative classical statement of yoga.",
+    "related_works": ["Yogasūtrabhāṣya", "Tattvavaiśāradī (Vācaspati Miśra)", "Sāṃkhyakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali",
+      "https://www.sahapedia.org/patanjalayogasastra-alias-yogasutra-and-yogabhasya"
+    ]
+  },
+  {
+    "work_id": "GSP34patyogbu",
+    "title": "Yogasūtra with Bhāṣya",
+    "author": "Patañjali (sūtras); Bhāṣya attributed to Vyāsa (or Patañjali himself)",
+    "tradition": "Hindu, Yoga darśana (Pātañjala Yoga)",
+    "genre": "sūtra with bhāṣya (commentary)",
+    "date_estimate": "c. 350–450 CE (the Pātañjalayogaśāstra, sūtras + Bhāṣya, c. 400 CE)",
+    "summary": "This is the Yogasūtra together with its earliest commentary, the Yogabhāṣya, traditionally ascribed to Vyāsa. The Bhāṣya explains each aphorism, elaborating the theory of mind, the kleśas, the means of practice, the attainments (vibhūti/siddhi), and kaivalya, and is essential to the classical interpretation of the sūtras.",
+    "history": "Recent scholarship argues the sūtras and Bhāṣya form one original work (the Pātañjalayogaśāstra), the 'Vyāsa' attribution being later; either way the commentary attained near-canonical authority. It anchored the subcommentarial tradition of Vācaspati Miśra and Vijñānabhikṣu.",
+    "related_works": ["Yogasūtra", "Yogasūtrabhāṣya", "Tattvavaiśāradī (Vācaspati Miśra)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali",
+      "https://www.sahapedia.org/patanjalayogasastra-alias-yogasutra-and-yogabhasya"
+    ]
+  },
+  {
+    "work_id": "GSP34yogasubha",
+    "title": "Yogasūtrabhāṣya",
+    "author": "attributed to Vyāsa (Vedavyāsa); possibly Patañjali himself",
+    "tradition": "Hindu, Yoga darśana (Pātañjala Yoga)",
+    "genre": "bhāṣya (commentary)",
+    "date_estimate": "c. 4th–5th c. CE (c. 400 CE)",
+    "summary": "The Yogasūtrabhāṣya (Yogabhāṣya) is the foundational prose commentary on Patañjali's Yogasūtra. It systematically expounds the aphorisms, detailing the nature of citta and its modifications, the five kleśas, the eightfold practice, the supernatural attainments, and the doctrine of isolation (kaivalya), embedding the whole in Sāṃkhya-Yoga metaphysics.",
+    "history": "Traditionally credited to the legendary Vyāsa and dated to roughly the 4th–5th century CE, though many modern scholars regard it as integral to the original Pātañjalayogaśāstra. It is the most authoritative classical commentary and the basis for all later Yoga exegesis.",
+    "related_works": ["Yogasūtra", "Tattvavaiśāradī (Vācaspati Miśra)", "Yogavārttika (Vijñānabhikṣu)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali",
+      "https://www.sahapedia.org/patanjalayogasastra-alias-yogasutra-and-yogabhasya"
+    ]
+  },
+  {
+    "work_id": "GSP34yogasutu",
+    "title": "Yogasūtra",
+    "author": "Patañjali",
+    "tradition": "Hindu, Yoga darśana (Pātañjala Yoga)",
+    "genre": "sūtra (aphoristic philosophical treatise)",
+    "date_estimate": "c. 350–450 CE (commonly c. 400 CE)",
+    "summary": "Another witness of Patañjali's Yogasūtra, the c. 195 aphorisms in four pādas that found the Yoga school. It teaches the cessation of mental fluctuations and the eightfold discipline (yama, niyama, āsana, prāṇāyāma, pratyāhāra, dhāraṇā, dhyāna, samādhi) leading to kaivalya.",
+    "history": "The canonical source text of classical Yoga, frequently transmitted alongside the Yogabhāṣya and dated to around 400 CE. It remains the most authoritative philosophical treatment of yoga.",
+    "related_works": ["Yogasūtrabhāṣya", "Sāṃkhyakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali"
+    ]
+  },
+  {
+    "work_id": "GSP34hathayogapradipika",
+    "title": "Haṭhayogapradīpikā",
+    "author": "Svātmārāma",
+    "tradition": "Hindu, Haṭha Yoga / Nātha tradition",
+    "genre": "yoga manual / technical treatise",
+    "date_estimate": "c. 15th c. CE",
+    "summary": "A copy of the 'Light on Haṭha Yoga' by Svātmārāma, the standard classical compendium of Haṭha Yoga covering āsana, prāṇāyāma, ṣaṭkarma, mudrā and bandha, kuṇḍalinī awakening, nāda, and samādhi, presented as preparatory to Rāja Yoga.",
+    "history": "This is another textual witness of the same work as GSP34hathyopu. Compiled from earlier Nātha sources, it became the most authoritative premodern Haṭha Yoga text, commented on by Brahmānanda (Jyotsnā).",
+    "related_works": ["Gheraṇḍa-Saṃhitā", "Śiva Saṃhitā", "Yogasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hatha_Yoga_Pradipika"
+    ]
+  },
+  {
+    "work_id": "GSP34yogsubhu",
+    "title": "Yogasūtra",
+    "author": "Patañjali",
+    "tradition": "Hindu, Yoga darśana (Pātañjala Yoga)",
+    "genre": "sūtra (aphoristic philosophical treatise)",
+    "date_estimate": "c. 350–450 CE (commonly c. 400 CE)",
+    "summary": "A further witness of Patañjali's Yogasūtra (the work_id suggests the sūtra with its Bhāṣya). It comprises the four pādas of aphorisms founding the Yoga darśana, defining yoga as cittavṛttinirodha and detailing the eightfold path to kaivalya.",
+    "history": "The base text of classical Yoga, typically circulated with the Yogabhāṣya and dated to around 400 CE; it remains the school's most authoritative source.",
+    "related_works": ["Yogasūtrabhāṣya", "Sāṃkhyakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali"
+    ]
+  },
+  {
+    "work_id": "GSP35sa_bhAskarakaNTha-mokSopAyaTIkA",
+    "title": "Mokṣopāyaṭīkā",
+    "author": "Rājānaka Bhāskarakaṇṭha",
+    "tradition": "Hindu, Kashmiri (non-dualist, broadly Kashmir Śaiva milieu)",
+    "genre": "ṭīkā (commentary)",
+    "date_estimate": "late 17th–early 18th c. CE",
+    "summary": "The Mokṣopāyaṭīkā is Bhāskarakaṇṭha's vast Sanskrit commentary on the Mokṣopāya (the Kashmiri recension underlying the Yogavāsiṣṭha). Running to some 110,000 verses/units, it elucidates the philosophical narrative of the source text, expounding its idealist doctrine that the world is mind-dependent and that liberation comes through insight.",
+    "history": "Bhāskarakaṇṭha, a learned Kashmiri Brahmin, wrote this commentary in the late 17th century; it is a principal witness for reconstructing the original Mokṣopāya and is central to Walter Slaje's critical Mokṣopāya project.",
+    "related_works": ["Mokṣopāya", "Yogavāsiṣṭha"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mokshopaya",
+      "https://www.wisdomlib.org/definition/bhaskarakantha"
+    ]
+  },
+  {
+    "work_id": "GSP35sa_mokSopAya",
+    "title": "Mokṣopāya",
+    "author": "anonymous (the 'Anonymus Casmiriensis')",
+    "tradition": "Hindu, Kashmiri non-dualist (idealist; related to Advaita/Kashmir Śaiva milieu)",
+    "genre": "philosophical-narrative poem / mokṣaśāstra",
+    "date_estimate": "c. 10th c. CE (Kashmir)",
+    "summary": "The Mokṣopāya ('Means to Liberation') is the original Kashmirian work that was later reworked into the popular Yogavāsiṣṭha. Framed as Vasiṣṭha's instruction of Rāma, it teaches through elaborate nested stories an absolute idealism in which the world is a projection of mind/consciousness, and liberation is attained by realizing this while living an active life.",
+    "history": "Composed by an unknown author (the 'Anonymus Casmiriensis') on the Pradyumna hill in Śrīnagar in the 10th century, it predates and underlies the more theistically reworked vulgate Yogavāsiṣṭha. Its critical reconstruction is the focus of Walter Slaje's Mokṣopāya project.",
+    "related_works": ["Yogavāsiṣṭha", "Mokṣopāyaṭīkā (Bhāskarakaṇṭha)", "Laghu-Yogavāsiṣṭha"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mokshopaya"
+    ]
+  },
+  {
+    "work_id": "GV00maitrs_pu",
+    "title": "Maitrāyaṇī-Saṃhitā",
+    "author": "anonymous/traditional (Maitrāyaṇīya school)",
+    "tradition": "Hindu, Vedic (Kṛṣṇa Yajurveda)",
+    "genre": "Vedic saṃhitā (mantra and prose collection)",
+    "date_estimate": "c. 1200–900 BCE (early–mid Vedic period)",
+    "summary": "The Maitrāyaṇī-Saṃhitā is a saṃhitā of the Black (Kṛṣṇa) Yajurveda belonging to the Maitrāyaṇīya school, intermixing sacrificial mantras with prose discussions (brāhmaṇa-type passages) on the ritual application of the formulas. It is a principal liturgical text for the performance of the śrauta sacrifices.",
+    "history": "One of the oldest and linguistically most archaic Yajurveda recensions, valued for preserving early Vedic dialectal and ritual features. It is closely related to the Kāṭhaka and Taittirīya saṃhitās and was edited by Leopold von Schroeder.",
+    "related_works": ["Kāṭhaka-Saṃhitā", "Taittirīya-Saṃhitā", "Yajurveda"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yajurveda",
+      "https://en.wikipedia.org/wiki/Krishna_Yajurveda"
+    ]
+  },
+  {
+    "work_id": "GV00sa_paippalAdasaMhitA",
+    "title": "Paippalāda-Saṃhitā",
+    "author": "anonymous/traditional (Paippalāda school)",
+    "tradition": "Hindu, Vedic (Atharvaveda)",
+    "genre": "Vedic saṃhitā (mantra collection)",
+    "date_estimate": "c. 1200–900 BCE (composed; surviving recension transmitted later)",
+    "summary": "The Paippalāda-Saṃhitā is one of the two surviving recensions of the Atharvaveda (alongside the Śaunaka). It collects hymns, spells, charms, and prayers concerning healing, protection, prosperity, sorcery, royal rites, and speculation, often differing in arrangement and containing material absent from the Śaunaka version.",
+    "history": "Long thought largely lost, it was substantially recovered through Kashmiri and especially Odia (Orissa) manuscript traditions, and is the object of major modern critical editions (e.g. Witzel, Zehnder, Lubotsky, Griffiths, Kim). It is essential for Atharvavedic and comparative Vedic studies.",
+    "related_works": ["Atharvaveda", "Śaunaka-Saṃhitā (Atharvaveda)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Paippalada",
+      "https://en.wikipedia.org/wiki/Atharvaveda"
+    ]
+  },
+  {
+    "work_id": "GV01aibra",
+    "title": "Aitareyabrāhmaṇa",
+    "author": "anonymous/traditional (associated with Mahidāsa Aitareya)",
+    "tradition": "Hindu, Vedic (Ṛgveda)",
+    "genre": "brāhmaṇa (Vedic ritual exegesis)",
+    "date_estimate": "c. 8th–6th c. BCE (before c. 600 BCE)",
+    "summary": "The Aitareyabrāhmaṇa is the principal brāhmaṇa of the Ṛgveda, in 40 adhyāyas grouped in eight pañcikās. It expounds the great Soma sacrifices (especially the Agniṣṭoma and other soma rites), the duties of the hotṛ priest, and the royal consecration (rājasūya), explaining the meaning and procedure of the rituals and including legends such as that of Śunaḥśepa.",
+    "history": "Traditionally attributed to the sage Mahidāsa Aitareya, it is a key prose text of the late Vedic period documenting the developed śrauta sacrificial system, and was famously translated by Martin Haug. The associated Aitareya Āraṇyaka and Upaniṣad continue its school.",
+    "related_works": ["Ṛgveda", "Kauṣītaki-Brāhmaṇa", "Aitareya-Āraṇyaka", "Aitareya-Upaniṣad"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aitareya_Brahmana"
+    ]
+  },
+  {
+    "work_id": "GV01rv_01_u",
+    "title": "Ṛgveda 1",
+    "author": "anonymous/traditional (multiple ṛṣi families)",
+    "tradition": "Hindu, Vedic",
+    "genre": "Vedic saṃhitā (hymns / sūkta collection)",
+    "date_estimate": "c. 1500–1200 BCE (Maṇḍala 1 partly later within this range)",
+    "summary": "Maṇḍala 1, the first book of the Ṛgveda, contains 191 hymns addressed chiefly to Agni and Indra but also to many other deities (Aśvins, Maruts, Varuṇa, Uṣas, etc.). As one of the later, more heterogeneous 'family' arrangements, it gathers hymns by varied seers and serves partly as an introductory compilation.",
+    "history": "The Ṛgveda is the oldest of the four Vedas and among the oldest surviving texts of any Indo-European language, orally transmitted with extraordinary fidelity. Maṇḍalas 2–7 form the older 'family books,' while Maṇḍalas 1 and 10 are generally considered later additions.",
+    "related_works": ["Ṛgveda", "Aitareyabrāhmaṇa", "Sāmaveda"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rigveda",
+      "https://en.wikipedia.org/wiki/Mandala_1"
+    ]
+  },
+  {
+    "work_id": "GV01rv_02_u",
+    "title": "Ṛgveda 2",
+    "author": "anonymous/traditional (Gṛtsamada family)",
+    "tradition": "Hindu, Vedic",
+    "genre": "Vedic saṃhitā (hymns / sūkta collection)",
+    "date_estimate": "c. 1500–1200 BCE (early; one of the 'family books')",
+    "summary": "Maṇḍala 2, the second book of the Ṛgveda, comprises 43 hymns mainly to Agni and Indra and is ascribed to the family of the seer Gṛtsamada. As one of the oldest 'family books,' it preserves some of the most archaic strata of Vedic poetry and ritual invocation.",
+    "history": "The family books (Maṇḍalas 2–7) form the core and oldest layer of the Ṛgveda, each associated with a particular ṛṣi lineage. They were orally preserved for millennia with rigorous mnemonic techniques.",
+    "related_works": ["Ṛgveda", "Aitareyabrāhmaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rigveda",
+      "https://en.wikipedia.org/wiki/Mandala_2"
+    ]
+  },
+  {
+    "work_id": "GV01rv_03_u",
+    "title": "Ṛgveda 3",
+    "author": "anonymous/traditional (Viśvāmitra family)",
+    "tradition": "Hindu, Vedic",
+    "genre": "Vedic saṃhitā (hymns / sūkta collection)",
+    "date_estimate": "c. 1500–1200 BCE (early; one of the 'family books')",
+    "summary": "Maṇḍala 3, the third book of the Ṛgveda, contains 62 hymns to Agni, Indra, and other deities and is attributed to the family of the seer Viśvāmitra. It famously includes the Gāyatrī mantra (RV 3.62.10), one of the most revered Vedic verses.",
+    "history": "Part of the oldest 'family books' core of the Ṛgveda, associated with the Viśvāmitra lineage. Transmitted orally with great precision, it is foundational to later Vedic ritual and recitation traditions.",
+    "related_works": ["Ṛgveda", "Aitareyabrāhmaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rigveda",
+      "https://en.wikipedia.org/wiki/Mandala_3"
+    ]
+  }
+]

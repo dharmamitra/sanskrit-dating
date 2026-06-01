@@ -1,0 +1,5 @@
+type	arg1	arg2	arg3	note
+order	SA_GSD37_apastd_u	SA_GSD37_gautdhcu		chronBMM: ĀpDhS<GautDhS (Olivelle 2000)
+order	SA_GSD37_gautdhcu	SA_GSD37_apastd_u		chronBMM: GautDhS<ĀpDhS (Olivelle 2000)
+order	SA_GV06_asvss_u	SA_GV06_sankhssu		chronBMM: ĀśvŚS<ŚāṅkhŚS (Keith 1907)
+order	SA_GV06_sankhssu	SA_GV06_asvss_u		chronBMM: ĀśvŚS>ŚāṅkhŚS (Mylius 1994)

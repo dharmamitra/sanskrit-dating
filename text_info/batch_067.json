@@ -1,0 +1,365 @@
+[
+  {
+    "work_id": "T16n2875u",
+    "title": "Śvānastavakāvya",
+    "author": "Davuldena Jñāneśvara Mahāsthavira",
+    "tradition": "Buddhist (Theravāda; Sri Lankan)",
+    "genre": "kavya (court/devotional poetry); stava (praise poem)",
+    "date_estimate": "20th c. CE (modern Sanskrit composition)",
+    "summary": "A short Sanskrit kāvya in praise of a dog (śvan), composed by the modern Sri Lankan Buddhist monk-poet Davuldena Jñāneśvara Mahāsthavira. The poem celebrates the virtues, loyalty and companionship of the dog in ornate classical Sanskrit verse.",
+    "history": "This is a piece of contemporary Sri Lankan Sanskrit poetry rather than a classical work, illustrating the continued living tradition of Sanskrit composition among Buddhist monastic scholars in Sri Lanka. It has been studied in indological scholarship on modern Sanskrit literature.",
+    "related_works": [],
+    "confidence": "medium",
+    "sources": [
+      "https://indianmedicine.eldoc.ub.rug.nl/53006/"
+    ]
+  },
+  {
+    "work_id": "T16n2916u",
+    "title": "Svastyayanagāthā",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist",
+    "genre": "stotra/gāthā (benedictory verses)",
+    "date_estimate": "uncertain; 1st millennium CE (undetermined)",
+    "summary": "A set of benedictory verses (svastyayana = 'recitation of auspicious/blessing verses', gāthā = stanzas) of the Buddhist tradition, of the type recited to invoke well-being and auspiciousness, typically praising the Buddha and the Three Jewels. The title indicates a protective/auspicious liturgical poem rather than a doctrinal treatise.",
+    "history": "Svastyayana benedictory verses follow the standard convention of Buddhist Sanskrit works, opening with praise of the Buddha. The specific text could not be confidently identified beyond its genre and is preserved in digital Buddhist Sanskrit text collections.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/svastyayana",
+      "https://www.wisdomlib.org/concept/benedictory-verse"
+    ]
+  },
+  {
+    "work_id": "T16n2959u",
+    "title": "Vajrayāna darśana mīmāṁsā",
+    "author": "",
+    "tradition": "Buddhist (Vajrayāna / Tantric)",
+    "genre": "philosophical treatise (darśana-mīmāṁsā = inquiry into the philosophical view)",
+    "date_estimate": "modern (likely 20th c. CE Sanskrit composition); uncertain",
+    "summary": "A Sanskrit treatise inquiring into the philosophical standpoint (darśana) of Vajrayāna Buddhism — the tantric/esoteric vehicle of Mahāyāna that combines Yogācāra and Madhyamaka thought with ritual practice (mantra, mudrā, maṇḍala, deity visualization). The 'mīmāṁsā' (critical investigation) framing suggests a systematic exposition or apologetic of the tantric view.",
+    "history": "The title appears to be a modern scholarly Sanskrit exposition of Vajrayāna philosophy rather than a classical primary tantra; it is preserved in digital Buddhist Sanskrit collections. The specific authorship and date could not be confirmed.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vajrayana",
+      "https://www.britannica.com/topic/Vajrayana"
+    ]
+  },
+  {
+    "work_id": "T16tarkrsau",
+    "title": "Tarkarahasya",
+    "author": "anonymous/traditional (Buddhist Pramāṇa tradition)",
+    "tradition": "Buddhist (Pramāṇa / logico-epistemology, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise; manual of logic (tarka)",
+    "date_estimate": "c. late 1st millennium CE; uncertain",
+    "summary": "A short Sanskrit manual ('Secret/Essence of Reasoning') belonging to the Buddhist pramāṇa (logic and epistemology) tradition, treating the means of valid cognition (perception and inference) and the rules of inference and debate. It is one of a small group of Buddhist Sanskrit logical primers transmitted alongside texts such as the Hetuvidyā section of the Yogācārabhūmi and the Dharmottaraṭippanaka.",
+    "history": "The Tarkarahasya (sometimes paired with a Vādarahasya) has been studied by indologists such as Gudrun Bühnemann as part of the late Indian Buddhist logical curriculum descending from Dignāga and Dharmakīrti. Its precise authorship and date remain debated.",
+    "related_works": [
+      "Hetuvidyā section of the Yogācārabhūmi",
+      "Dharmottaraṭippanaka",
+      "Vādarahasya"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://www.academia.edu/11836650/Tarkarahasya_and_V%C4%81darahasya",
+      "https://en.wikipedia.org/wiki/Buddhist_logico-epistemology"
+    ]
+  },
+  {
+    "work_id": "T17bsa046_u",
+    "title": "Yogāvatāra",
+    "author": "Dignāga (attributed)",
+    "tradition": "Buddhist (Yogācāra; also Pramāṇa school)",
+    "genre": "philosophical/meditation verses (didactic stanzas on yoga)",
+    "date_estimate": "c. 480–540 CE (if by Dignāga)",
+    "summary": "A very short verse text ('Introduction/Descent into Yoga') on Buddhist meditative practice and the stages of yogic absorption, attributed to the great logician Dignāga. It sketches the path of mental cultivation by which the yogin realizes the nature of mind/reality.",
+    "history": "Dignāga, the founder of the Buddhist epistemological school and an important Yogācāra thinker, is traditionally credited with the Yogāvatāra; the attribution and the relationship to a lost commentary on the Yogācārabhūmi have been discussed by scholars such as Marek Mejor. The Sanskrit survives in only a small number of verses.",
+    "related_works": [
+      "Yogācārabhūmi",
+      "Pramāṇasamuccaya",
+      "Ālambanaparīkṣā"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://www.academia.edu/50984389/Dignaga_Yogavatara",
+      "https://plato.stanford.edu/entries/yogacara/"
+    ]
+  },
+  {
+    "work_id": "T17byogalbu",
+    "title": "Buddhist Yoga Manual",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Sarvāstivāda Abhidharma with Yogācāra elements; Central Asian)",
+    "genre": "meditation manual (yoga-lehrbuch / sādhana of visualization)",
+    "date_estimate": "c. 7th c. CE (manuscript); Central Asia (Kucha)",
+    "summary": "Modern scholarly title (Schlingloff's 'Yogalehrbuch') for a fragmentary Sanskrit Buddhist meditation manual recovered from the cave sites of Qizil and Shorchuk near Kucha on the Silk Road. It guides the yogin through methods of vivid visualization and stages of meditative attainment on the bodhisattva path, drawing on Abhidharma (Vibhāṣā) metaphysics.",
+    "history": "The fragments were found 1903–1906 and partially reconstructed and translated into German by Dieter Schlingloff (1964), who named the untitled text 'Ein buddhistisches Yogalehrbuch.' Written in North Turkestan Brāhmī, it is important for the history of Buddhist meditation and its links to Chinese visualization texts.",
+    "related_works": [
+      "Mahāvibhāṣā",
+      "Yogācārabhūmi"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://link.springer.com/article/10.1007/s10781-021-09495-w",
+      "https://www.amazon.com/Ein-Buddhistisches-Yogalehrbuch-DIETER-SCHLINGLOFF/dp/3891296940"
+    ]
+  },
+  {
+    "work_id": "T17kukalpmu",
+    "title": "Kalpanāmaṇḍitikā",
+    "author": "Kumāralāta",
+    "tradition": "Buddhist (Sautrāntika; Gandhāran)",
+    "genre": "kavya / avadāna-dṛṣṭānta narrative collection (didactic tales)",
+    "date_estimate": "c. 2nd–3rd c. CE",
+    "summary": "The Kalpanāmaṇḍitikā Dṛṣṭāntapaṅkti ('Garland of Examples Adorned by Poetic Fancy') is a Sanskrit collection of around 90 illustrative stories (dṛṣṭānta/avadāna) that teach Buddhist morality, piety toward the Three Jewels, and ethical conduct, often interwoven with concerns for social respectability and prudent worldly action. It is a major example of early ornate Buddhist narrative literature from Gandhāra.",
+    "history": "Composed by Kumāralāta, a Gandhāran monk from Taxila regarded as the first teacher (mūlācārya) of the Sautrāntikas, the work was long misattributed to Aśvaghoṣa under the title Sūtrālaṃkāra. The complete text survives only in Kumārajīva's early-5th-century Chinese translation (Dà zhuāngyán lùn, T201); Sanskrit fragments were recovered at Kizil and edited by Heinrich Lüders (1926).",
+    "related_works": [
+      "Sūtrālaṃkāra (mistaken attribution to Aśvaghoṣa)",
+      "Dà zhuāngyán lùn (Taishō 201, Chinese translation)"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://archive.org/details/lueders1926",
+      "https://link.springer.com/chapter/10.1007/978-981-33-4283-5_3"
+    ]
+  },
+  {
+    "work_id": "T17matpra_u",
+    "title": "Prasādapratibhodbhava [Śatapañcāśatka]",
+    "author": "Mātṛceṭa",
+    "tradition": "Buddhist (Mahāyāna-influenced devotional)",
+    "genre": "stotra (hymn of praise to the Buddha)",
+    "date_estimate": "c. 2nd–3rd c. CE",
+    "summary": "A celebrated hymn of praise to the Buddha in 150 (actually 152–153) verses, also titled Śatapañcāśatka ('Hymn in 150 Verses'). It extols the Buddha's wisdom, compassion, supreme qualities and teaching in elegant, deeply devotional Sanskrit, expressing the faith and inspired eloquence (prasāda-pratibhā) the Buddha awakens.",
+    "history": "Composed by the poet Mātṛceṭa, the hymn was enormously popular across all Buddhist schools, was translated into several languages, attracted numerous Indian commentaries, and was reportedly recited by monks throughout India (noted by the pilgrim Yijing). It is a foundational work of Buddhist stotra literature.",
+    "related_works": [
+      "Varṇārhavarṇastotra (also by Mātṛceṭa)",
+      "Catuḥśataka-stotra"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.accesstoinsight.org/lib/authors/dhammika/wheel360.html",
+      "https://sanskritdocuments.org/doc_z_misc_major_works/adhyardhashataka.html"
+    ]
+  },
+  {
+    "work_id": "T17n2936u",
+    "title": "Śabdabhedaprakāśa",
+    "author": "Maheśvara",
+    "tradition": "Hindu / secular (Sanskrit lexicography)",
+    "genre": "kośa (lexicon); treatise on word-differences",
+    "date_estimate": "c. 12th c. CE",
+    "summary": "A Sanskrit lexicographical work ('Illumination of Distinctions among Words') by Maheśvara that treats words distinguished by subtle differences in form, gender, or meaning, complementing his larger homonym dictionary. It belongs to the koṣa tradition that aided poets and scholars in correct Sanskrit usage.",
+    "history": "Maheśvara (Maheśvara Kavīndra/Sūri), an 11th–12th-century lexicographer, is best known for the homonym lexicon Viśvaprakāśa (1111/1253 CE); the Śabdabhedaprakāśa is a companion lexical work attributed to him. The specific text identity is less well documented than the Viśvaprakāśa.",
+    "related_works": [
+      "Viśvaprakāśa (by the same author Maheśvara)",
+      "Amarakośa",
+      "Medinīkośa"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/the-backdrop-of-the-srikanthacarita-and-the-mankhakosa/d/doc370629.html",
+      "https://www.wisdomlib.org/hinduism/essay/amarakoshodghatana-of-kshirasvamin-study/d/doc1151548.html"
+    ]
+  },
+  {
+    "work_id": "T17n2944u",
+    "title": "Viśvaprakāśa",
+    "author": "Maheśvara (Maheśvara Sūri / Kavīndra)",
+    "tradition": "Hindu / secular (Sanskrit lexicography)",
+    "genre": "kośa (homonym lexicon / dictionary)",
+    "date_estimate": "1111/1112 CE (12th c. CE)",
+    "summary": "A major Sanskrit homonym lexicon ('Illumination of All [Words]') that arranges words with multiple meanings, organized by final consonant and number of syllables. It was a standard reference for poets and commentators and a principal source for later lexicons.",
+    "history": "Composed by Maheśvara, son of Śrī Brahma, the Viśvaprakāśa is one of the chief medieval Sanskrit anekārtha (homonym) dictionaries and was directly drawn upon by Medinīkāra's Medinīkośa. It was edited and published (Chowkhamba, Benares, 1911) and is frequently cited in Sanskrit lexical scholarship.",
+    "related_works": [
+      "Medinīkośa (which drew on it)",
+      "Anekārthasaṅgraha of Hemacandra",
+      "Amarakośa"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/the-backdrop-of-the-srikanthacarita-and-the-mankhakosa/d/doc370629.html",
+      "https://www.wisdomlib.org/definition/vishva"
+    ]
+  },
+  {
+    "work_id": "T17n958u",
+    "title": "Bauddhatantrakośa I",
+    "author": "anonymous/traditional (compilation)",
+    "tradition": "Buddhist (Vajrayāna / Tantric)",
+    "genre": "kośa (glossary/encyclopedia of tantric terms)",
+    "date_estimate": "compilation drawing on tantric sources of the late 1st millennium CE onward; modern digital edition",
+    "summary": "A Sanskrit glossary/encyclopedia (kośa) of Buddhist tantric terminology, systematically defining and explaining key Vajrayāna concepts — emptiness and non-duality, ritual and initiation, meditative visualization, deities, the subtle body (channels and cakras), and mantric syllables. 'I' indicates the first part/volume.",
+    "history": "The work is preserved in romanized Sanskrit in the Digital Sanskrit Buddhist Canon (input by Milan Shakya, 2013; Nagarjuna Institute), compiling tantric Buddhist vocabulary; no single classical author is identified in the digital edition.",
+    "related_works": [
+      "Sādhanamālā",
+      "Buddhist tantric corpus (Hevajra, Cakrasaṃvara, etc.)"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://www.dsbcproject.org/canon-text/content/229/958",
+      "https://en.wikipedia.org/wiki/Buddhist_tantric_literature"
+    ]
+  },
+  {
+    "work_id": "T17n996u",
+    "title": "Mahāvyutpatti",
+    "author": "anonymous/traditional (committee of imperially appointed translators)",
+    "tradition": "Buddhist (pan-Buddhist; Tibetan-Indian)",
+    "genre": "kośa (bilingual lexicon / glossary of Buddhist terms)",
+    "date_estimate": "early 9th c. CE (final redaction c. 814 CE)",
+    "summary": "The Mahāvyutpatti ('Great Detailed Explanation') is the earliest substantial bilingual Sanskrit–Tibetan dictionary, a systematically organized glossary of thousands of Buddhist technical terms — names of buddhas and bodhisattvas, doctrinal categories, titles, and vocabulary. It was created to standardize the translation of Sanskrit Buddhist scriptures into Tibetan.",
+    "history": "Compiled in Tibet under imperial sponsorship in the late 8th–early 9th centuries (final redaction sanctioned by decree, c. 814 CE, during the reign of Sad-na-legs / Ralpacan), it standardized translation terminology and became foundational for the Tibetan Buddhist canon. Later expanded into quadrilingual (Sanskrit-Tibetan-Chinese-Mongolian) versions.",
+    "related_works": [
+      "Madhyavyutpatti (sGra sbyor bam po gnyis pa)"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mah%C4%81vyutpatti",
+      "https://www.encyclopediaofbuddhism.org/wiki/Mah%C4%81vyutpatti"
+    ]
+  },
+  {
+    "work_id": "T17sabhivpu",
+    "title": "Sabhikasaugataśāsanapravrajyāvratacaraṇaparivarta",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāsāṃghika–Lokottaravāda)",
+    "genre": "avadāna / biographical narrative chapter (parivarta)",
+    "date_estimate": "section of a text whose core dates to c. 2nd c. BCE–4th c. CE (composite)",
+    "summary": "A chapter ('Chapter on Sabhika's going-forth, vows and practice in the dispensation of the Sugata/Buddha') narrating how the wanderer Sabhika questions the Buddha, is converted, and takes ordination and the monastic vows. It belongs to the 'Questions of Sabhika' episode of the Mahāvastu.",
+    "history": "The episode corresponds to the Sabhika section (Chapter XXXVIII) of the Mahāvastu, the great Vinaya-related biography of the Buddha belonging to the Mahāsāṃghika-Lokottaravāda school, a composite text built up over several centuries.",
+    "related_works": [
+      "Mahāvastu"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/buddhism/book/the-mahavastu/d/doc242643.html"
+    ]
+  },
+  {
+    "work_id": "T17vtrksopu",
+    "title": "Tarkasopāna",
+    "author": "Vidyākaraśānti",
+    "tradition": "Buddhist (Pramāṇa / logico-epistemology, Dignāga–Dharmakīrti school)",
+    "genre": "philosophical treatise; manual of logic (tarka)",
+    "date_estimate": "c. 11th–12th c. CE",
+    "summary": "The Tarkasopāna ('Staircase of Reasoning') is a concise Sanskrit manual of Buddhist logic and epistemology by Vidyākaraśānti, treating the means of valid cognition (pramāṇa) — perception and inference — and the structure of inference and debate within the late Indian Buddhist pramāṇa tradition.",
+    "history": "Vidyākaraśānti, a Buddhist logician of the 11th–12th century, belongs to the late phase of Indian Buddhist epistemology stemming from Dignāga and Dharmakīrti, contemporaneous with figures like Mokṣākaragupta (Tarkabhāṣā). Such manuals were influential in both India and Tibet before the decline of Indian Buddhism.",
+    "related_works": [
+      "Tarkabhāṣā of Mokṣākaragupta",
+      "Nyāyabindu of Dharmakīrti",
+      "Pramāṇasamuccaya of Dignāga"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Buddhist_logico-epistemology",
+      "https://encyclopediaofbuddhism.org/wiki/Buddhist_logico-epistemology"
+    ]
+  },
+  {
+    "work_id": "XXbowermsu",
+    "title": "Bower Manuscript",
+    "author": "anonymous/traditional (multiple authors)",
+    "tradition": "mixed Hindu/Buddhist; secular/scientific (Āyurveda, divination, dhāraṇī)",
+    "genre": "composite collection: medical treatise, divination, and dhāraṇī (incantation)",
+    "date_estimate": "c. 5th–early 6th c. CE (manuscript itself)",
+    "summary": "A birch-bark Sanskrit manuscript comprising seven fragmentary treatises: three on Āyurvedic medicine (including the Nāvanītaka, with prescriptions on garlic, recipes and medicinal formulas), two on divination by dice (pāśaka), and two on incantations (dhāraṇī) against snakebite. It is one of the oldest surviving Indian manuscripts and the earliest dated witness of Indian medical writing.",
+    "history": "Found in a Buddhist memorial stupa near Kucha and acquired in 1890 by Lt. Hamilton Bower, it was studied and edited by Rudolf Hoernle. Written in early Gupta (late Brāhmī) script, it is preserved in the Bodleian Library, Oxford, and is of major importance for the history of Indian medicine, palaeography, and Silk Road Buddhism.",
+    "related_works": [
+      "Nāvanītaka",
+      "Caraka Saṃhitā",
+      "Suśruta Saṃhitā"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bower_Manuscript",
+      "https://historyofinformation.com/detail.php?entryid=3911"
+    ]
+  },
+  {
+    "work_id": "XXn1136u",
+    "title": "Buddhamata",
+    "author": "",
+    "tradition": "Buddhist",
+    "genre": "doctrinal exposition (treatise on the Buddhist view)",
+    "date_estimate": "uncertain; possibly modern Sanskrit compilation",
+    "summary": "A Sanskrit text whose title means 'the doctrine/view of the Buddha' (buddha + mata), i.e., an exposition of Buddhist tenets. The specific work could not be identified with confidence; it appears to be a doctrinal summary of Buddhist teaching rather than a single canonical scripture.",
+    "history": "No specific author, date, or transmission could be confidently established for a work under this exact title; it is preserved in digital Sanskrit text collections and may be a modern or compilatory presentation of Buddhist doctrine.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/sanskrit-buddhist-literature"
+    ]
+  },
+  {
+    "work_id": "XXn1137u",
+    "title": "Nāgānanda Nāṭaka",
+    "author": "Harṣa (Harṣavardhana / Harṣadeva, King of Kanauj)",
+    "tradition": "Buddhist (Mahāyāna-influenced); secular Sanskrit drama",
+    "genre": "nāṭaka (heroic Sanskrit drama)",
+    "date_estimate": "early 7th c. CE (reign 606–647 CE)",
+    "summary": "A five-act Sanskrit play ('Joy of the Serpents') dramatizing the Buddhist jātaka-derived story of the compassionate Vidyādhara prince Jīmūtavāhana, who renounces his kingdom, marries the Siddha princess Malayavatī, and offers his own body to the eagle Garuḍa to save a Nāga youth, before being miraculously revived. The benedictory verse invokes the Buddha defeating Māra, and the play is suffused with themes of compassion, impermanence, and self-sacrifice.",
+    "history": "Composed by the emperor Harṣa, who turned from Śaivism toward Mahāyāna Buddhism, it is his only full nāṭaka (his Ratnāvalī and Priyadarśikā are lighter nāṭikās) and a key example of Buddhist-themed classical drama. It contains an early reference to the practice of satī.",
+    "related_works": [
+      "Ratnāvalī (by Harṣa)",
+      "Priyadarśikā (by Harṣa)"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nagananda",
+      "https://www.britannica.com/topic/Nagananda"
+    ]
+  },
+  {
+    "work_id": "XXn1142u",
+    "title": "Nālandādahana",
+    "author": "",
+    "tradition": "Buddhist (historical/commemorative)",
+    "genre": "kavya / historical poem (likely modern Sanskrit composition)",
+    "date_estimate": "modern (likely 20th c. CE); uncertain",
+    "summary": "A Sanskrit poem titled 'The Burning of Nālandā,' evidently treating the destruction by fire of the great Buddhist monastic university of Nālandā (traditionally associated with the late 12th-century invasions). The specific work could not be confidently identified and appears to be a modern Sanskrit composition on this historical theme.",
+    "history": "Nālandā flourished from the 5th century CE until its destruction around the late 12th century; its burning became a powerful theme in later and modern literature. No classical author or firm date for a poem of this exact title could be confirmed.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nalanda_mahavihara"
+    ]
+  },
+  {
+    "work_id": "XXn1143u",
+    "title": "Nṛtyaprasūti",
+    "author": "",
+    "tradition": "Hindu / secular (performing arts; Sanskrit aesthetics)",
+    "genre": "śāstra / treatise on dance (nṛtya)",
+    "date_estimate": "uncertain; possibly modern Sanskrit composition",
+    "summary": "A Sanskrit work whose title means 'the origin/bringing-forth of dance' (nṛtya + prasūti), evidently a treatise or poem concerning dance, its source and principles within the Indian performing-arts (nāṭya) tradition rooted in the Nāṭyaśāstra. The specific text could not be confidently identified.",
+    "history": "No definite author, date, or transmission could be established for a work of this exact title; it belongs to the broad Indian tradition of texts on nṛtta, nṛtya, and nāṭya descending from Bharata's Nāṭyaśāstra and may be a modern composition.",
+    "related_works": [
+      "Nāṭyaśāstra"
+    ],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/nritya",
+      "https://en.wikipedia.org/wiki/Natya_Shastra"
+    ]
+  },
+  {
+    "work_id": "XXn2856u",
+    "title": "Kalpoktamārīcīsādhana",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayāna / Tantric)",
+    "genre": "sādhana (tantric ritual-meditation manual)",
+    "date_estimate": "c. 8th–11th c. CE (within the Sādhanamālā corpus)",
+    "summary": "A tantric sādhana ('the rite-prescribed [kalpokta] evocation of Mārīcī') giving the visualization and ritual procedure for the goddess Mārīcī, deity of the dawn associated with protection and invincibility. It is preserved as sādhana no. 134 in the Sādhanamālā, where Mārīcī appears in numerous forms (e.g., three-faced and eight-armed).",
+    "history": "It is one of sixteen Mārīcī sādhanas collected in the Sādhanamālā, a Sanskrit anthology of around 300 tantric evocations composed by various Indian masters between roughly the 5th and 11th centuries. The 'kalpokta' designation marks it as following a prescribed ritual manual (kalpa).",
+    "related_works": [
+      "Sādhanamālā"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://www.researchgate.net/publication/338540855_Marici_in_the_Sadhanamala",
+      "https://www.wisdomlib.org/definition/uddiyanamarici"
+    ]
+  }
+]

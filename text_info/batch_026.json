@@ -1,0 +1,330 @@
+[
+  {
+    "work_id": "GSD36ys182_pu",
+    "title": "Bṛhadyamasmṛti",
+    "author": "anonymous/traditional (ascribed to the sage Yama)",
+    "tradition": "Hindu (Dharmaśāstra/Smṛti)",
+    "genre": "dharmaśāstra (smṛti)",
+    "date_estimate": "later metrical Yama recension, probably c. 5th-10th c. CE (uncertain)",
+    "summary": "The Bṛhadyamasmṛti ('Greater Yama-smṛti') is one of the metrical law codes attributed to the legendary sage Yama, dealing with topics of dharma such as ritual purity and impurity (āśauca), penances and expiations (prāyaścitta), and rules of conduct and ascetic/religious observance. It is a 'larger' or expanded recension distinct from the shorter Yamasmṛti, and survives partly through quotation in later digests.",
+    "history": "The Yama corpus is one of the eighteen (or more) smṛtis named in tradition; the verses circulated in multiple recensions and are frequently cited by medieval nibandha authors such as Halāyudha and Vijñāneśvara, indicating their authority in dharma compilations. The original text is not preserved as a single fixed work and is largely reconstructed from such citations.",
+    "related_works": ["Yamasmṛti", "Manusmṛti", "Yājñavalkyasmṛti"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/yamasmriti",
+      "https://en.wikipedia.org/wiki/Smriti",
+      "https://en.wikipedia.org/wiki/Dharma%C5%9B%C4%81stra"
+    ]
+  },
+  {
+    "work_id": "GSD36yssoutpu",
+    "title": "Yamasmṛti",
+    "author": "anonymous/traditional (ascribed to the sage Yama)",
+    "tradition": "Hindu (Dharmaśāstra/Smṛti)",
+    "genre": "dharmaśāstra (smṛti)",
+    "date_estimate": "c. 1st millennium CE (uncertain; later metrical smṛti)",
+    "summary": "The Yamasmṛti is a short metrical Hindu law code attributed to the sage Yama, one of the traditional list of smṛti authors. It treats matters of ritual purity and impurity, penances and expiations (prāyaścitta), conduct, and the duties of various social and religious groups.",
+    "history": "Yama is enumerated among the eighteen authoritative smṛtikāras in tradition, and the text exists in shorter and longer (Bṛhad) recensions. Like other minor smṛtis it survives both in independent manuscript form and through extensive quotation in medieval dharma digests.",
+    "related_works": ["Bṛhadyamasmṛti", "Manusmṛti", "Yājñavalkyasmṛti"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/yamasmriti",
+      "https://hinduonline.co/Scriptures/Smriti/YamaSmriti.html",
+      "https://en.wikipedia.org/wiki/Smriti"
+    ]
+  },
+  {
+    "work_id": "GSD37gautdhcu",
+    "title": "Gautama-Dharmasūtra",
+    "author": "anonymous/traditional (ascribed to the sage Gautama)",
+    "tradition": "Hindu (Dharmaśāstra; Sāmaveda school)",
+    "genre": "dharmasūtra (prose aphoristic law text)",
+    "date_estimate": "c. 600-400 BCE (often regarded as the oldest or among the oldest extant Dharmasūtras; disputed)",
+    "summary": "The Gautama Dharmasūtra is a prose aphoristic treatise on dharma covering the sources of law, the four life-stages (āśrama), the duties of the varṇas, rules for students and householders, ritual purity, penances, inheritance, and the duties of the king and judicial procedure. It is one of the foundational texts of the Hindu legal tradition.",
+    "history": "Traditionally affiliated with the Rāṇāyanīya branch of the Sāmaveda, it was composed by members of that school under the name of the sage Gautama. Scholars including Kane and Lingat regard it as possibly the oldest surviving Dharmasūtra, though Olivelle ranks Āpastamba as likely older; it is preserved with the commentary of Maskarin (Maskari) and is cited as authoritative across later dharmaśāstra literature.",
+    "related_works": ["Āpastamba Dharmasūtra", "Baudhāyana Dharmasūtra", "Vasiṣṭha Dharmasūtra", "Manusmṛti"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gautama_Dharmasutra",
+      "https://ethicsofsuicide.lib.utah.edu/selections/dharmasastra/",
+      "https://en.wikipedia.org/wiki/Apastamba_Dharmasutra"
+    ]
+  },
+  {
+    "work_id": "GSD37vaikhd_u",
+    "title": "Vaikhānasa Dharmasūtra 1–3 [Vaikhānasa Smārtasūtra 8-10]",
+    "author": "anonymous/traditional (ascribed to the sage Vikhanas)",
+    "tradition": "Hindu (Vaikhānasa school, Taittirīya/Black Yajurveda; later Vaiṣṇava)",
+    "genre": "dharmasūtra (part of a Smārtasūtra)",
+    "date_estimate": "c. 4th c. CE (surviving form no older than the 4th century CE; some place its core 3rd c. CE)",
+    "summary": "This is the dharma portion (Praśnas 1-3 of the Dharmasūtra, corresponding to chapters 8-10 of the larger Vaikhānasa Smārtasūtra) of the ritual manual of the Vaikhānasa school. It treats the life-stages (āśrama) — with particular and detailed attention to the classes of forest-dwelling ascetics and hermits (vaikhānasas) — along with conduct, purity, and the duties pertaining to each stage of life.",
+    "history": "The Vaikhānasa Smārtasūtra, belonging to the Taittirīya recension of the Black Yajurveda, combines a Gṛhyasūtra and a Dharmasūtra and is named after its putative author Vikhanas, later regarded as a manifestation of Viṣṇu. The Sanskrit text was edited by W. Caland (1927); the Vaikhānasa community became prominent as temple-priests in South Indian Vaiṣṇava worship.",
+    "related_works": ["Vaikhānasa Smārtasūtra", "Vaikhānasa Gṛhyasūtra", "Gautama Dharmasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://sanskritlibrary.org/catalogsText/titus/vedic/vaikhdhs.html",
+      "https://archive.org/details/wg624",
+      "https://en.wikipedia.org/wiki/Vaikhanasa"
+    ]
+  },
+  {
+    "work_id": "GSP27moksop_u",
+    "title": "Mokṣopāya",
+    "author": "anonymous (traditionally ascribed to Vālmīki)",
+    "tradition": "Hindu (Kashmiri; non-dual idealist philosophy, later assimilated to Advaita/Trika)",
+    "genre": "philosophical treatise / didactic narrative poem",
+    "date_estimate": "c. 10th c. CE (likely c. 950 CE), Kashmir",
+    "summary": "The Mokṣopāya ('Means to Liberation') is a large Kashmiri verse work that teaches a radically idealist, world-as-mind philosophy through a frame dialogue in which the sage Vasiṣṭha instructs the young prince Rāma, illustrated by numerous embedded parables and stories. It argues that the world is a mental projection and liberation comes through insight, self-effort, and the dissolution of mental constructs.",
+    "history": "It is the original recension underlying the better-known, longer Yogavāsiṣṭha (Vasiṣṭha-Mahārāmāyaṇa). Composed on the Pradyumna hill in Śrīnagar in the 10th century (internal references point to King Yaśaskara, r. 939-948), it was later reworked between the 11th and 14th centuries with Śaiva-Trika and Advaita coloring to become the orthodox Yogavāsiṣṭha. Its critical recovery is associated with the Mokṣopāya Project (J. Hanneder, W. Slaje).",
+    "related_works": ["Yogavāsiṣṭha", "Laghu-Yogavāsiṣṭha", "Rāmāyaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Moksopaya",
+      "https://en.wikipedia.org/wiki/Yogavasistha",
+      "https://www.mdpi.com/2077-1444/11/3/111"
+    ]
+  },
+  {
+    "work_id": "GSP28dhebta_u",
+    "title": "Hetubinduṭīkāloka",
+    "author": "Durveka Miśra",
+    "tradition": "Buddhist (Dignāga-Dharmakīrti logico-epistemological school, pramāṇavāda)",
+    "genre": "bhāṣya/ṭīkā (sub-commentary on Buddhist logic)",
+    "date_estimate": "c. 10th-11th c. CE (Durveka Miśra fl. c. 970-1030 CE)",
+    "summary": "The Hetubinduṭīkāloka ('Light on the Hetubinduṭīkā') is Durveka Miśra's sub-commentary (Āloka) on Arcaṭa's Hetubinduṭīkā, which in turn comments on Dharmakīrti's Hetubindu, a treatise on the Buddhist theory of logical reason (hetu) and inference. It elucidates the formal logic, the three characteristics of a valid reason, and the epistemology of inference within the Dharmakīrtian tradition.",
+    "history": "Durveka Miśra was a notable late Buddhist logician (associated with Vikramaśīla milieu) who wrote sub-commentaries on key works of the pramāṇa tradition. The Hetubinduṭīkāloka was edited by S. Sanghavi and Jinavijaya and published by the Oriental Institute, Baroda (1949). It is an important witness to late Indian Buddhist epistemology before its disappearance from the subcontinent.",
+    "related_works": ["Hetubindu (Dharmakīrti)", "Hetubinduṭīkā (Arcaṭa)", "Dharmottarapradīpa", "Nyāyabindu"],
+    "confidence": "high",
+    "sources": [
+      "https://link.springer.com/rwe/10.1007/978-81-322-1812-8_1-1",
+      "https://www.semanticscholar.org/paper/Pa%E1%B9%87%E1%B8%8Dita-Durveka-Mi%C5%9Bra's-Dharmottaraprad%C4%ABpa-%3A-(being-Mi%C5%9Bra-Malvania/bd552da77158a05ccddc00477a181347bf9380b4"
+    ]
+  },
+  {
+    "work_id": "GSP28durdhpru",
+    "title": "Dharmottarapradīpa",
+    "author": "Durveka Miśra",
+    "tradition": "Buddhist (Dignāga-Dharmakīrti logico-epistemological school, pramāṇavāda)",
+    "genre": "bhāṣya/ṭīkā (sub-commentary on Buddhist logic)",
+    "date_estimate": "c. 10th-11th c. CE (Durveka Miśra fl. c. 970-1030 CE)",
+    "summary": "The Dharmottarapradīpa ('Lamp on Dharmottara') is Durveka Miśra's sub-commentary on Dharmottara's Nyāyabinduṭīkā, which is itself a commentary on Dharmakīrti's Nyāyabindu. It expounds and defends the Buddhist epistemology of perception (pratyakṣa) and inference (anumāna), clarifying disputed points in Dharmottara's interpretation.",
+    "history": "It is one of the principal late sub-commentaries in the Nyāyabindu commentarial chain (Dharmakīrti → Dharmottara → Durveka Miśra) and a major source for the views of the late Buddhist logical school. The text was edited by Dalsukhbhai Malvania and published by the K. P. Jayaswal Research Institute, Patna (1955).",
+    "related_works": ["Nyāyabindu (Dharmakīrti)", "Nyāyabinduṭīkā (Dharmottara)", "Hetubinduṭīkāloka"],
+    "confidence": "high",
+    "sources": [
+      "https://sarit.indology.info/dharmottarapradipa.xml?view=div",
+      "https://east.ikga.oeaw.ac.at/buddh/ind/18/44/",
+      "https://www.semanticscholar.org/paper/Pa%E1%B9%87%E1%B8%8Dita-Durveka-Mi%C5%9Bra's-Dharmottaraprad%C4%ABpa-%3A-(being-Mi%C5%9Bra-Malvania/bd552da77158a05ccddc00477a181347bf9380b4"
+    ]
+  },
+  {
+    "work_id": "GSP28jaimsutu",
+    "title": "Mīmāṃsāsūtra",
+    "author": "Jaimini",
+    "tradition": "Hindu (Pūrva-Mīmāṃsā)",
+    "genre": "sūtra (foundational aphoristic text of a darśana)",
+    "date_estimate": "c. 3rd-1st c. BCE (final form by c. 200 BCE-200 CE; the project hint of 2nd c. CE is at the late end)",
+    "summary": "The Mīmāṃsāsūtra (Pūrva-Mīmāṃsā-sūtra or Jaiminisūtra) is the root text of the Pūrva-Mīmāṃsā school, an aphoristic treatise on the interpretation of Vedic injunctions and the principles of ritual exegesis. In about twelve books it systematizes the rules for understanding dharma (defined as that which is enjoined by the Veda), the authority and eternality of the Veda, the structure of sacrificial acts, and hermeneutic principles for resolving textual conflicts.",
+    "history": "Attributed to the sage Jaimini, it is the largest of the darśana sūtra collections and the foundation of the entire Mīmāṃsā tradition. It was commented upon by Śabara (Śābarabhāṣya), whose commentary was in turn expanded by Kumārila and Prabhākara, founding the two main Mīmāṃsā subschools; its hermeneutics deeply influenced Vedānta, Dharmaśāstra, and Indian legal interpretation.",
+    "related_works": ["Śābarabhāṣya", "Ślokavārttika", "Tantravārttika", "Bhāṭṭadīpikā", "Brahmasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mimamsa-sutra",
+      "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100159113",
+      "https://en.wikipedia.org/wiki/Kum%C4%81rila_Bha%E1%B9%AD%E1%B9%ADa"
+    ]
+  },
+  {
+    "work_id": "GSP28jsbh1-1u",
+    "title": "Bhāṭṭadīpikā: Adhyāya 1, Adhikaraṇa 1",
+    "author": "Khaṇḍadeva",
+    "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
+    "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
+    "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
+    "summary": "This is the opening section of the Bhāṭṭadīpikā, covering Book 1, first adhikaraṇa — the famous Tarka-pāda discussion that opens with the inquiry into dharma (athāto dharmajijñāsā), establishing the subject-matter, motive, and the definition of dharma as that enjoined by the Veda. It treats the foundational question of the necessity and scope of the Mīmāṃsā inquiry.",
+    "history": "The Bhāṭṭadīpikā is a commentary ('garland of adhikaraṇas') on Jaimini's Mīmāṃsāsūtra by Khaṇḍadeva Miśra, a leading 17th-century Mīmāṃsaka of Benares and founder of 'New Exegesis' (Navya-Mīmāṃsā), who applied Navya-Nyāya analytical methods to Mīmāṃsā. It remains highly popular as a teaching text, especially in South India.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Mīmāṃsākaustubha", "Bhāṭṭatantrarahasya"],
+    "confidence": "high",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-00905-00002/1",
+      "https://link.springer.com/article/10.1007/s10781-020-09444-z"
+    ]
+  },
+  {
+    "work_id": "GSP28jsbh1-2u",
+    "title": "Bhāṭṭadīpikā: Adhyāya 2, Adhikaraṇa 2",
+    "author": "Khaṇḍadeva",
+    "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
+    "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
+    "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
+    "summary": "This segment of Khaṇḍadeva's Bhāṭṭadīpikā treats a further adhikaraṇa of Book 1, continuing the Tarka-pāda's analysis of the means of valid knowledge of dharma and the authority of the Veda, including the discussion of the eternal, author-less (apauruṣeya) nature of the Vedic word and the relation of word and meaning.",
+    "history": "Part of Khaṇḍadeva's systematic 17th-century Bhāṭṭa-school commentary on the Mīmāṃsāsūtra, the work organizes Jaimini's text adhikaraṇa by adhikaraṇa and is noted for importing Navya-Nyāya precision into Mīmāṃsā exegesis.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Mīmāṃsākaustubha", "Bhāṭṭatantrarahasya"],
+    "confidence": "high",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-00905-00002/1",
+      "https://link.springer.com/article/10.1007/s10781-020-09444-z"
+    ]
+  },
+  {
+    "work_id": "GSP28jsbh1-3u",
+    "title": "Bhāṭṭadīpikā: Adhyāya 1, Adhikaraṇa 3",
+    "author": "Khaṇḍadeva",
+    "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
+    "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
+    "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
+    "summary": "This portion of the Bhāṭṭadīpikā comments on a further adhikaraṇa in Book 1, advancing the discussion of the validity of the Veda as the source of dharma and addressing objections (e.g., from perception and from the Veda's apparent reference to transient things), as part of the foundational Tarka-pāda.",
+    "history": "Section of Khaṇḍadeva's 17th-century Bhāṭṭa-Mīmāṃsā commentary on Jaimini's sūtras, representative of the Navya-Mīmāṃsā ('New Exegesis') movement he is credited with founding.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Mīmāṃsākaustubha", "Bhāṭṭatantrarahasya"],
+    "confidence": "high",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-00905-00002/1",
+      "https://link.springer.com/article/10.1007/s10781-020-09444-z"
+    ]
+  },
+  {
+    "work_id": "GSP28jsbh1-4u",
+    "title": "Bhāṭṭadīpikā: Adhyāya 1, Adhikaraṇa 4",
+    "author": "Khaṇḍadeva",
+    "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
+    "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
+    "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
+    "summary": "This section of Khaṇḍadeva's Bhāṭṭadīpikā treats a further adhikaraṇa of Book 1, continuing the foundational discussion of the relation between Vedic word and meaning, the classes of Vedic statements (injunction, hymn, name, prohibition), and the establishment of the Veda's self-validity as the authority for dharma.",
+    "history": "Part of the 17th-century Bhāṭṭa-school commentary by Khaṇḍadeva of Benares; the Bhāṭṭadīpikā was probably his second Mīmāṃsā work, written after the Mīmāṃsākaustubha and before the Bhāṭṭatantrarahasya.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Mīmāṃsākaustubha", "Bhāṭṭatantrarahasya"],
+    "confidence": "high",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-00905-00002/1",
+      "https://link.springer.com/article/10.1007/s10781-020-09444-z"
+    ]
+  },
+  {
+    "work_id": "GSP28jsbh2-1u",
+    "title": "Bhāṭṭadīpikā: Adhyāya 2, Adhikaraṇa 1",
+    "author": "Khaṇḍadeva",
+    "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
+    "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
+    "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
+    "summary": "This section of the Bhāṭṭadīpikā comments on the opening of Book 2 of the Mīmāṃsāsūtra, which concerns the classification and distinction of ritual acts (karma) — distinguishing primary from subsidiary actions and analyzing the differences of injunctions (codanā) that mark off one rite from another.",
+    "history": "Part of Khaṇḍadeva's 17th-century systematic Bhāṭṭa-Mīmāṃsā commentary on Jaimini's text, applying Navya-Nyāya analytical rigor to the classical adhikaraṇa structure.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Mīmāṃsākaustubha", "Bhāṭṭatantrarahasya"],
+    "confidence": "high",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-00905-00002/1",
+      "https://link.springer.com/article/10.1007/s10781-020-09444-z"
+    ]
+  },
+  {
+    "work_id": "GSP28jsbh2-2u",
+    "title": "Bhāṭṭadīpikā: Adhyāya 2, Adhikaraṇa 2",
+    "author": "Khaṇḍadeva",
+    "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
+    "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
+    "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
+    "summary": "This portion of the Bhāṭṭadīpikā treats a further adhikaraṇa of Book 2, continuing the analysis of the differentiation of rites — including the criteria (such as distinct words, repetition, number, name, and context) by which one is to determine whether textual passages enjoin separate actions or qualify a single action.",
+    "history": "A unit of Khaṇḍadeva's 17th-century Bhāṭṭa-school commentary on the Mīmāṃsāsūtra, part of the Navya-Mīmāṃsā tradition he founded in Benares.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Mīmāṃsākaustubha", "Bhāṭṭatantrarahasya"],
+    "confidence": "high",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-00905-00002/1",
+      "https://link.springer.com/article/10.1007/s10781-020-09444-z"
+    ]
+  },
+  {
+    "work_id": "GSP28jsbh2-3u",
+    "title": "Bhāṭṭadīpikā: Adhyāya 2, Adhikaraṇa 3",
+    "author": "Khaṇḍadeva",
+    "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
+    "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
+    "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
+    "summary": "This section of the Bhāṭṭadīpikā comments on a further adhikaraṇa of Book 2, continuing the Mīmāṃsā treatment of the distinction of ritual acts and the application of injunctive force, including the resolution of whether differing scriptural expressions establish the unity or plurality of enjoined rites.",
+    "history": "Component of Khaṇḍadeva's 17th-century Bhāṭṭa-Mīmāṃsā commentary on Jaimini's sūtras, characteristic of his Navya-Mīmāṃsā method.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Mīmāṃsākaustubha", "Bhāṭṭatantrarahasya"],
+    "confidence": "high",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-00905-00002/1",
+      "https://link.springer.com/article/10.1007/s10781-020-09444-z"
+    ]
+  },
+  {
+    "work_id": "GSP28jsbh2-4u",
+    "title": "Bhāṭṭadīpikā: Adhyāya 2, Adhikaraṇa 4",
+    "author": "Khaṇḍadeva",
+    "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
+    "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
+    "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
+    "summary": "This portion of the Bhāṭṭadīpikā treats a further adhikaraṇa of Book 2, dealing with the differentiation of sacrificial acts and the principles distinguishing principal from subordinate rites, as well as the bearing of mantras and names on the identity of the enjoined action.",
+    "history": "A unit of Khaṇḍadeva's 17th-century Bhāṭṭa-school commentary on the Mīmāṃsāsūtra; the Bhāṭṭadīpikā remains a standard pedagogical work in the Mīmāṃsā curriculum, especially in South India.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Mīmāṃsākaustubha", "Bhāṭṭatantrarahasya"],
+    "confidence": "high",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-00905-00002/1",
+      "https://link.springer.com/article/10.1007/s10781-020-09444-z"
+    ]
+  },
+  {
+    "work_id": "GSP28jsbh3-1u",
+    "title": "Bhāṭṭadīpikā: Adhyāya 3, Adhikaraṇa 1",
+    "author": "Khaṇḍadeva",
+    "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
+    "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
+    "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
+    "summary": "This section of the Bhāṭṭadīpikā comments on the opening of Book 3 of the Mīmāṃsāsūtra, which treats śeṣa (subsidiariness) — the relations of subservience among the elements of a ritual, i.e., how various textual elements serve the principal act, and the hierarchy of direct statement (śruti), indicatory mark (liṅga), syntactic connection (vākya), and so on, that determine ritual application.",
+    "history": "Part of Khaṇḍadeva's 17th-century Bhāṭṭa-Mīmāṃsā commentary; Book 3 is central to Mīmāṃsā hermeneutics and Khaṇḍadeva treats it with Navya-Nyāya analytical precision.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Mīmāṃsākaustubha", "Bhāṭṭatantrarahasya"],
+    "confidence": "high",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-00905-00002/1",
+      "https://link.springer.com/article/10.1007/s10781-020-09444-z"
+    ]
+  },
+  {
+    "work_id": "GSP28jsbh3-2u",
+    "title": "Bhāṭṭadīpikā: Adhyāya 3, Adhikaraṇa 2",
+    "author": "Khaṇḍadeva",
+    "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
+    "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
+    "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
+    "summary": "This portion of the Bhāṭṭadīpikā treats a further adhikaraṇa of Book 3, continuing the analysis of subsidiariness (śeṣa) and the means for determining the purpose served by ritual elements, including the ordering and the relative authority of the various indicators of ritual application.",
+    "history": "Component of Khaṇḍadeva's 17th-century Bhāṭṭa-school commentary on Jaimini's Mīmāṃsāsūtra, a leading product of the Navya-Mīmāṃsā movement.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Mīmāṃsākaustubha", "Bhāṭṭatantrarahasya"],
+    "confidence": "high",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-00905-00002/1",
+      "https://link.springer.com/article/10.1007/s10781-020-09444-z"
+    ]
+  },
+  {
+    "work_id": "GSP28jsbh3-3u",
+    "title": "Bhāṭṭadīpikā: Adhyāya 3, Adhikaraṇa 3",
+    "author": "Khaṇḍadeva",
+    "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
+    "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
+    "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
+    "summary": "This section of the Bhāṭṭadīpikā comments on a further adhikaraṇa of Book 3, continuing the Mīmāṃsā discussion of subsidiary relations within ritual, including questions of which agent or substance a given subsidiary act serves and how conflicting indications are resolved in determining ritual structure.",
+    "history": "A unit of Khaṇḍadeva's 17th-century Bhāṭṭa-Mīmāṃsā commentary on the Mīmāṃsāsūtra, exemplifying his integration of Navya-Nyāya method into classical exegesis.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Mīmāṃsākaustubha", "Bhāṭṭatantrarahasya"],
+    "confidence": "high",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-00905-00002/1",
+      "https://link.springer.com/article/10.1007/s10781-020-09444-z"
+    ]
+  },
+  {
+    "work_id": "GSP28ktv_2-1u",
+    "title": "Tantravārttika 2.1.1–4",
+    "author": "Kumārila (Kumārilabhaṭṭa)",
+    "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school)",
+    "genre": "vārttika/sub-commentary (verse-and-prose commentary on the Śābarabhāṣya)",
+    "date_estimate": "c. 7th c. CE (Kumārila, c. 600-660 CE)",
+    "summary": "This is a portion of Kumārila Bhaṭṭa's Tantravārttika covering the opening adhikaraṇas of Book 2, pāda 1 of the Mīmāṃsāsūtra, where the discussion concerns the differentiation of ritual acts (karmabheda) and the classification and injunctive force of Vedic statements. The Tantravārttika densely interweaves ritual hermeneutics with broader epistemological, grammatical, and theological argument, including polemics against rival schools.",
+    "history": "The Tantravārttika is the second part of Kumārila's great threefold commentary (Ślokavārttika, Tantravārttika, Ṭupṭīkā) on Śabara's Bhāṣya on Jaimini's Mīmāṃsāsūtra, covering Śabara from 1.2 through Book 3. Kumārila, the founder of the Bhāṭṭa subschool, was one of the most influential defenders of Vedic orthodoxy and Mīmāṃsā realism; the work was translated into English by Gaṅgānātha Jhā.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Ślokavārttika", "Ṭupṭīkā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kum%C4%81rila_Bha%E1%B9%AD%E1%B9%ADa",
+      "https://www.semanticscholar.org/paper/The-Tantrav%C4%81rttika-of-Kum%C4%81rila-Bha%E1%B9%AD%E1%B9%ADa-:-a-on-Bh%C4%81%E1%B9%A3ya-Bha%E1%B9%AD%E1%B9%ADa-Jha/ec30e4fa7d123731bfbc551464849c2c800b8fe7",
+      "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100159113"
+    ]
+  }
+]

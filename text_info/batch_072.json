@@ -1,0 +1,318 @@
+[
+  {
+    "work_id": "M00064",
+    "title": "Yoginītantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śākta Tantra",
+    "genre": "tantra",
+    "date_estimate": "c. 16th-17th c. CE",
+    "summary": "A Śākta tantric scripture composed in Assam (ancient Kāmarūpa), cast as a dialogue between Śiva and Pārvatī on esoteric ritual and doctrine. It deals extensively with the worship of the goddesses Kālī and Kāmākhyā and is closely associated with the rites of the Kāmākhyā temple, alongside legendary and geographical material on Kāmarūpa.",
+    "history": "Its dating to the 16th century rests on internal references to the Koch (Kuvacha) dynasty, said to be born of a Mech woman. It is a major regional Śākta text and an important source for the religious history of medieval Assam and the Kāmākhyā cult.",
+    "related_works": ["Kālikāpurāṇa", "Kāmākhyātantra"],
+    "confidence": "high",
+    "sources": [
+      "https://grokipedia.com/page/Yogini_Tantra",
+      "https://en.wikipedia.org/wiki/Kamakhya_Temple"
+    ]
+  },
+  {
+    "work_id": "M00065",
+    "title": "Pratiṣṭhālakṣaṇasārasamuccaya",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu",
+    "genre": "ritual/iconography manual (pratiṣṭhā/śilpa)",
+    "date_estimate": "c. early 2nd millennium CE (uncertain); transmitted especially in Nepal",
+    "summary": "A 32-chapter compendium ('summary of the essence of the characteristics of installation') on Hindu iconography and the consecration (pratiṣṭhā) of images and lingas. It treats the selection of materials, the measurements and forms of deities, the qualifications of officiants, auspicious timings, and the ritual procedures for installing icons.",
+    "history": "The text survives notably in Nepalese manuscript traditions and is a significant technical source for image-making and temple installation rites; it has been studied for what it reveals about Hindu iconographic norms. Its precise authorship and date remain uncertain.",
+    "related_works": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.academia.edu/66762202/The_Pratisthalaksanasarasamuccaya_on_Hindu_Iconography"
+    ]
+  },
+  {
+    "work_id": "M00066",
+    "title": "Ānandatantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śākta Tantra (Śrīvidyā)",
+    "genre": "tantra",
+    "date_estimate": "uncertain; likely later medieval (South Indian)",
+    "summary": "A large Śākta tantra of about 1913 ślokas in twenty chapters, cast as a dialogue between the Goddess and Kāmeśvara (Śiva). It treats various aspects of Tantric worship, including Śaktipūjā in chapter 15, and devotes its final five chapters to caste, philosophical schools, and Tantric sects.",
+    "history": "Of South Indian origin, the text claims descent from the 'Bhagamālinīsaṃhitā' said to belong to the vast Nityāṣoḍaśikārṇavatantra corpus. Two commentaries are recorded: one by Narasiṃhācārya and an anonymous one called Pradīpa.",
+    "related_works": ["Nityāṣoḍaśikārṇavatantra", "Vāmakeśvaratantra"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/anandatantra"
+    ]
+  },
+  {
+    "work_id": "M00067",
+    "title": "Spandakārikā",
+    "author": "Bhaṭṭa Kallaṭa (or his teacher Vasugupta)",
+    "tradition": "Hindu, Kashmir Shaivism (Spanda school)",
+    "genre": "philosophical treatise (kārikā verses)",
+    "date_estimate": "9th c. CE (c. 850 CE)",
+    "summary": "A foundational text of the Spanda branch of non-dual Kashmir Shaivism, expounding spanda, the subtle creative 'vibration' or pulsation of consciousness through which Śiva manifests the universe. The verses teach how recognizing this dynamic divine pulsation underlies perception, action, and liberation.",
+    "history": "Authorship is debated: tradition and Kallaṭa's own statements ascribe the verses to Vasugupta (author of the Śivasūtra), with Kallaṭa, his disciple under King Avantivarman (855-883 CE), composing the Spandavṛtti and transmitting them. Major commentaries include Kṣemarāja's Spandanirṇaya and Spandasandoha.",
+    "related_works": ["Śivasūtra", "Spandanirṇaya", "Spandasandoha", "Spandavṛtti"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhatta_Kallata",
+      "https://en.wikipedia.org/wiki/Vasugupta"
+    ]
+  },
+  {
+    "work_id": "M00068",
+    "title": "Kulapradīpa",
+    "author": "Śivānandācārya",
+    "tradition": "Hindu, Śākta Kaula Tantra",
+    "genre": "tantra (nibandha/manual)",
+    "date_estimate": "later medieval (uncertain)",
+    "summary": "A Sanskrit Kaula-tantric work ('lamp of the kula') treating the doctrine and ritual of the Kaula tradition of goddess worship. It belongs to the body of Kaula manuals concerned with esoteric Śākta practice.",
+    "history": "Attributed to Śivānandācārya (also given as Sevānandācārya), said to be the son of the Gauḍa (Bengal) author Jagannivāsa. It is a relatively obscure text known chiefly from manuscript catalogues (e.g. Aufrecht's Catalogus Catalogorum).",
+    "related_works": ["Kulārṇavatantra"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kulapradipa"
+    ]
+  },
+  {
+    "work_id": "M00069",
+    "title": "Jñānārṇavatantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śākta Tantra (Śrīvidyā)",
+    "genre": "tantra",
+    "date_estimate": "uncertain; later medieval",
+    "summary": "A relatively brief and accessible Śrīvidyā tantra ('ocean of knowledge') in 26 paṭalas, cast as a dialogue between Devī and Īśvara that opens with the Goddess asking the true nature of Śrīvidyā. It describes the cakras within the body and the power of mudrās, yantras, and bīja-mantras in worshipping Tripurā/Tripurasundarī and related forms of the supreme Goddess, with notable attention to inner (rather than external) worship.",
+    "history": "It is counted among the foremost textual sources for Śrīvidyā practice. No firm date can be assigned to the work.",
+    "related_works": ["Vāmakeśvaratantra", "Nityāṣoḍaśikārṇava"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/jnanarnavatantra",
+      "https://shivashakti.com/janarnav"
+    ]
+  },
+  {
+    "work_id": "M00070",
+    "title": "Prāṇatoṣiṇī (Sargakāṇḍa)",
+    "author": "Rāmatoṣaṇa Bhaṭṭācārya (Vidyālaṅkāra), compiler",
+    "tradition": "Hindu, Śākta Tantra",
+    "genre": "tantra digest (nibandha/compendium)",
+    "date_estimate": "1821 CE",
+    "summary": "The Sargakāṇḍa ('section on creation') is the opening division of the Prāṇatoṣiṇī, a large Bengali Tantric compendium that assembles quotations from numerous tantras, purāṇas, and other authorities. This section gathers material on cosmogony and the emanation/creation of the world within the Tantric framework.",
+    "history": "The Prāṇatoṣiṇī was compiled in Bengal by Rāmatoṣaṇa Bhaṭṭācārya in 1821. As a digest it preserves passages from many tantras that are otherwise rare or lost, making it an important source for the textual history of Tantra.",
+    "related_works": ["Prāṇatoṣiṇī (Dharmakāṇḍa)", "Prāṇatoṣiṇī (Arthakāṇḍa)", "Prāṇatoṣiṇī (Kāmyakāṇḍa)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/pranatoshini",
+      "https://archive.org/details/in.ernet.dli.2015.297817"
+    ]
+  },
+  {
+    "work_id": "M00071",
+    "title": "Prāṇatoṣiṇī (Dharmakāṇḍa)",
+    "author": "Rāmatoṣaṇa Bhaṭṭācārya (Vidyālaṅkāra), compiler",
+    "tradition": "Hindu, Śākta Tantra",
+    "genre": "tantra digest (nibandha/compendium)",
+    "date_estimate": "1821 CE",
+    "summary": "The Dharmakāṇḍa ('section on dharma') is a division of the Prāṇatoṣiṇī, the early-19th-century Bengali Tantric compendium of Rāmatoṣaṇa. This part compiles authoritative passages on religious duty, conduct, and the regulative aspects of Tantric and Śākta practice.",
+    "history": "Part of the Prāṇatoṣiṇī compiled in Bengal in 1821; the work as a whole is valued for preserving citations from a wide range of tantras and purāṇas.",
+    "related_works": ["Prāṇatoṣiṇī (Sargakāṇḍa)", "Prāṇatoṣiṇī (Arthakāṇḍa)", "Prāṇatoṣiṇī (Kāmyakāṇḍa)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/pranatoshini",
+      "https://archive.org/details/in.ernet.dli.2015.297817"
+    ]
+  },
+  {
+    "work_id": "M00072",
+    "title": "Prāṇatoṣiṇī (Arthakāṇḍa)",
+    "author": "Rāmatoṣaṇa Bhaṭṭācārya (Vidyālaṅkāra), compiler",
+    "tradition": "Hindu, Śākta Tantra",
+    "genre": "tantra digest (nibandha/compendium)",
+    "date_estimate": "1821 CE",
+    "summary": "The Arthakāṇḍa ('section on artha/meaning or purpose') is a division of the Prāṇatoṣiṇī, the Bengali Tantric compendium of Rāmatoṣaṇa. It collects Tantric and Śākta source passages organized around this thematic heading within the digest.",
+    "history": "Part of the Prāṇatoṣiṇī compiled in Bengal in 1821; the compendium preserves quotations from many tantras and purāṇas important for the study of Tantra.",
+    "related_works": ["Prāṇatoṣiṇī (Sargakāṇḍa)", "Prāṇatoṣiṇī (Dharmakāṇḍa)", "Prāṇatoṣiṇī (Kāmyakāṇḍa)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/pranatoshini",
+      "https://archive.org/details/in.ernet.dli.2015.297817"
+    ]
+  },
+  {
+    "work_id": "M00073",
+    "title": "Prāṇatoṣiṇī (Kāmyakāṇḍa)",
+    "author": "Rāmatoṣaṇa Bhaṭṭācārya (Vidyālaṅkāra), compiler",
+    "tradition": "Hindu, Śākta Tantra",
+    "genre": "tantra digest (nibandha/compendium)",
+    "date_estimate": "1821 CE",
+    "summary": "The Kāmyakāṇḍa ('section on optional/desire-prompted rites') is a division of the Prāṇatoṣiṇī, the Bengali Tantric compendium of Rāmatoṣaṇa. It assembles source passages on kāmya rituals — those performed to obtain specific desired ends — within the larger digest.",
+    "history": "Part of the Prāṇatoṣiṇī compiled in Bengal in 1821; valued for preserving Tantric and Purāṇic citations otherwise scattered or rare.",
+    "related_works": ["Prāṇatoṣiṇī (Sargakāṇḍa)", "Prāṇatoṣiṇī (Dharmakāṇḍa)", "Prāṇatoṣiṇī (Arthakāṇḍa)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/pranatoshini",
+      "https://archive.org/details/in.ernet.dli.2015.297817"
+    ]
+  },
+  {
+    "work_id": "M00074",
+    "title": "Rudrayāmalatantra (Uttarakāṇḍa)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śākta/Śaiva Tantra",
+    "genre": "tantra",
+    "date_estimate": "uncertain; the surviving Uttarakhaṇḍa is comparatively late",
+    "summary": "The Uttarakhaṇḍa ('latter section') circulates as a tantric text in some 17 (or 66, by another reckoning) paṭalas, written in a relatively plain style. It centers on the goddess identified with Kuṇḍalinī and covers initiation, the cakras, the types of practitioners, and the vital breaths within the body.",
+    "history": "The Rudrayāmala is one of the famed Yāmala tantras, cited by many later āgamas and tantric works, but the original is effectively lost and survives mainly as quotations; the extant Uttarakhaṇḍa is widely regarded as a later compilation under that prestigious title. Its provenance and date remain unknown.",
+    "related_works": ["Rudrayāmala"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/rudrayamala",
+      "https://shivashakti.com/rudrayam"
+    ]
+  },
+  {
+    "work_id": "M00075",
+    "title": "Śaivasiddhāntaparibhāṣā",
+    "author": "Śivāgrayogin (Śivāgra Yogin)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "philosophical treatise (paribhāṣā / doctrinal manual)",
+    "date_estimate": "c. 16th c. CE",
+    "summary": "A Sanskrit doctrinal manual systematizing the philosophy of Śaiva Siddhānta — its account of the three eternal realities pati (Lord), paśu (bound soul), and pāśa (bondage), and the path to liberation through Śiva's grace. It serves as a 'definitional' summary (paribhāṣā) of Siddhānta tenets.",
+    "history": "Attributed to Śivāgrayogin, a major South Indian Śaiva Siddhānta theologian of roughly the 16th century who also wrote commentaries within the Sanskrit Saiddhāntika tradition. The work is part of the late Sanskrit systematization of the school in the Tamil country.",
+    "related_works": [],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shaiva_Siddhanta",
+      "https://www.britannica.com/topic/Shaiva-siddhanta"
+    ]
+  },
+  {
+    "work_id": "M00076",
+    "title": "Sāmbapañcāśikā",
+    "author": "attributed to Sāmba (son of Kṛṣṇa)",
+    "tradition": "Hindu (Saura / sun worship)",
+    "genre": "stotra (hymn)",
+    "date_estimate": "1st millennium CE (uncertain)",
+    "summary": "A devotional hymn of fifty verses (pañcāśikā) in praise of Sūrya, the Sun God, traditionally ascribed to Sāmba, the son of Kṛṣṇa. It is associated with the legend in which Sāmba, cursed with leprosy, worshipped Sūrya and was cured.",
+    "history": "The hymn is mentioned already in the Varāhapurāṇa. Its Kāvyamālā edition carries a commentary by the Kashmiri Śaiva writer Kṣemarāja, and the Trivandrum Sanskrit Series edition another anonymous commentary; this Śaiva interest in a Saura hymn reflects the syncretism of medieval sun worship.",
+    "related_works": ["Sāmbapurāṇa", "Varāhapurāṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://stotranidhi.com/en/samba-panchashika-in-english/",
+      "https://www.wisdomlib.org/hinduism/journal/purana-bulletin/d/doc1456837.html"
+    ]
+  },
+  {
+    "work_id": "M00077",
+    "title": "Śāradātilaka",
+    "author": "Lakṣmaṇadeśika(ndra)",
+    "tradition": "Hindu, Tantra (mantraśāstra)",
+    "genre": "tantra (mantraśāstra compendium)",
+    "date_estimate": "disputed: c. 800 CE to 11th c. CE",
+    "summary": "A voluminous and authoritative compendium of mantraśāstra (some 3,500 stanzas) covering cosmogony, the deities and their mantras, ritual worship, dīkṣā, mudrās, yantras, and the practical technology of Tantric mantra practice. It became one of the most widely used handbooks of Tantric ritual.",
+    "history": "Composed by Lakṣmaṇadeśika(ndra); the dating ranges in scholarship from around 800 CE to the 11th century. It was hugely influential and drew many commentaries, most famously Rāghavabhaṭṭa's Padārthādarśa, and was edited by John Woodroffe (Arthur Avalon).",
+    "related_works": ["Padārthādarśa (commentary by Rāghavabhaṭṭa)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sarada_Tilaka",
+      "https://www.wisdomlib.org/definition/sharadatilaka"
+    ]
+  },
+  {
+    "work_id": "M00078",
+    "title": "Śataratnasaṃgraha",
+    "author": "Umāpati Śivācārya",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "philosophical treatise / doctrinal anthology",
+    "date_estimate": "c. early 14th c. CE",
+    "summary": "A Sanskrit Śaiva Siddhānta anthology ('collection of a hundred jewels') gathering and arranging one hundred doctrinal aphorisms/verses (ratnas), drawn largely from the Śaiva Āgamas, that set out the essentials of Siddhānta theology — the soul, bondage, Śiva, and liberation. It functions as a compact authoritative digest of the school's tenets.",
+    "history": "Attributed to Umāpati Śivācārya (Umāpati Śivam), one of the four chief Tamil Śaiva Siddhānta teachers (santāna-ācāryas), active c. 1290-1340 CE (his Saṅkalpanirākaraṇa is dated 1313 CE). He was a Dīkṣitar of Chidambaram who held Śaiva Siddhānta to be the essence of the Vedas and Āgamas.",
+    "related_works": ["Śivaprakāśam", "Saṅkalpanirākaraṇa"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/book/sivaprakasam-study/d/doc1210696.html",
+      "https://en.wikipedia.org/wiki/Shaiva_Siddhanta"
+    ]
+  },
+  {
+    "work_id": "M00079",
+    "title": "Śivārcanacandrikā",
+    "author": "Appayya Dīkṣita",
+    "tradition": "Hindu, Śaiva (Advaita/Śivādvaita orientation)",
+    "genre": "ritual manual (paddhati on Śiva worship)",
+    "date_estimate": "c. 16th c. CE (1520-1593)",
+    "summary": "A manual ('moonlight on the worship of Śiva') setting out the procedure for the ritual worship (arcanā/pūjā) of Śiva. It belongs to Appayya Dīkṣita's group of practical works guiding the performance of Śiva pūjā, and carries an attached commentary.",
+    "history": "Composed by the great South Indian polymath Appayya Dīkṣita (1520-1593), a prolific Advaitin and devotee of Śiva who wrote across Vedānta, poetics, and Śaiva theology. The work sits among his several writings on Śiva worship such as the Śivadhyānapaddhati and Śivapūjāvidhi.",
+    "related_works": ["Śivadhyānapaddhati", "Śivapūjāvidhi"],
+    "confidence": "high",
+    "sources": [
+      "https://shaivam.org/devotees/works-of-sri-appaiya-dikshita/",
+      "https://en.wikipedia.org/wiki/Appayya_Dikshita"
+    ]
+  },
+  {
+    "work_id": "M00080",
+    "title": "Sambandhasiddhi",
+    "author": "Utpaladeva",
+    "tradition": "Hindu, Kashmir Shaivism (Pratyabhijñā)",
+    "genre": "philosophical treatise",
+    "date_estimate": "c. first half of 10th c. CE (c. 900-950)",
+    "summary": "One of the three short proof-treatises constituting Utpaladeva's Siddhitrayī, the Sambandhasiddhi ('establishment of relation') argues, against rival schools, for the reality and nature of relation (sambandha) within the Pratyabhijñā (Recognition) philosophy. It defends how distinct entities can be genuinely related given the non-dual consciousness of Śiva.",
+    "history": "Utpaladeva, disciple of Somānanda and teacher in the lineage culminating in Abhinavagupta, was the great systematizer of Pratyabhijñā; the Siddhitrayī (Ajaḍapramātṛsiddhi, Īśvarasiddhi, Sambandhasiddhi) supplements his main work, the Īśvarapratyabhijñākārikā.",
+    "related_works": ["Īśvarapratyabhijñākārikā", "Siddhitrayī", "Ajaḍapramātṛsiddhi", "Īśvarasiddhi"],
+    "confidence": "high",
+    "sources": [
+      "https://iep.utm.edu/kashmiri/",
+      "https://grokipedia.com/page/Pratyabhijna"
+    ]
+  },
+  {
+    "work_id": "M00081",
+    "title": "Śivadṛṣṭi",
+    "author": "Somānanda",
+    "tradition": "Hindu, Kashmir Shaivism (Pratyabhijñā)",
+    "genre": "philosophical treatise (kārikā verses)",
+    "date_estimate": "c. late 9th-early 10th c. CE (c. 875-925)",
+    "summary": "The foundational text of the Pratyabhijñā ('Recognition') school of non-dual Kashmir Shaivism, the Śivadṛṣṭi ('vision of Śiva') posits Śiva as the sole ultimate reality, encompassing consciousness and its dynamic power (śakti). Engaging Advaita Vedānta, Sāṃkhya realism, and Buddhist positions, it establishes the doctrine that all reality is the self-recognition of Śiva.",
+    "history": "Somānanda is regarded as the founder of the Pratyabhijñā school; his pupil Utpaladeva systematized and expanded the system, and it was later brought to its peak by Abhinavagupta. Utpaladeva wrote the (partly lost) Śivadṛṣṭivṛtti commentary.",
+    "related_works": ["Īśvarapratyabhijñākārikā", "Śivadṛṣṭivṛtti"],
+    "confidence": "high",
+    "sources": [
+      "https://grokipedia.com/page/Pratyabhijna",
+      "https://iep.utm.edu/kashmiri/"
+    ]
+  },
+  {
+    "work_id": "M00082",
+    "title": "Śivasaṃhitā",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Haṭha Yoga; tantric/Śrīvidyā-inflected)",
+    "genre": "yoga treatise",
+    "date_estimate": "c. 1300-1500 CE (some scholars 17th c.)",
+    "summary": "One of the three classical treatises on Haṭha Yoga (with the Haṭhayogapradīpikā and Gheraṇḍasaṃhitā), framed as Śiva's teaching to Pārvatī. It expounds yogic physiology, nāḍīs and cakras, prāṇāyāma, mudrās, the awakening of kuṇḍalinī, and the siddhis and liberation attainable through practice, and notably commends yoga even for householders.",
+    "history": "The author is unknown; James Mallinson argues for a date of roughly 1300-1500 CE, probably composed in or near Varanasi, while some earlier scholars placed it in the 17th century. It absorbs tantric and Śrīvidyā elements into its yogic framework.",
+    "related_works": ["Haṭhayogapradīpikā", "Gheraṇḍasaṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shiva_Samhita"
+    ]
+  },
+  {
+    "work_id": "M00083",
+    "title": "Śivasūtravārttika",
+    "author": "Bhāskara (alternatively Varadarāja)",
+    "tradition": "Hindu, Kashmir Shaivism",
+    "genre": "bhāṣya/vārttika (commentary in verse)",
+    "date_estimate": "c. 11th c. CE (Bhāskara); Varadarāja's somewhat later",
+    "summary": "A verse commentary (vārttika) on the Śivasūtra, the root aphoristic scripture of non-dual Kashmir Shaivism revealed to Vasugupta. It expounds the Śivasūtra's teaching on the three 'means' (upāyas) to recognizing one's identity with Śiva. Two such vārttikas exist: Bhāskara's, an original verse exposition, and Varadarāja's, which largely versifies Kṣemarāja's Vimarśinī.",
+    "history": "The Śivasūtra is attributed to Vasugupta (9th c. CE). Bhāskara, in Vasugupta's lineage, wrote his Vārttika c. 11th century (translated by Mark Dyczkowski); Varadarāja's later Vārttika depends on Kṣemarāja's prose Śivasūtravimarśinī.",
+    "related_works": ["Śivasūtra", "Śivasūtravimarśinī", "Spandakārikā"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shiva_Sutras_of_Vasugupta",
+      "https://www.vivaswan.pl/en/content/shivasutras-vasugupta-kshemarajas-and-varadarajas-commentaries"
+    ]
+  }
+]

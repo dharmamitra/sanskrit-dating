@@ -1,0 +1,22 @@
+prefix	nb	na	label	source
+SA_GV01_rvkhila	-1000	-500	Rigveda Khila (later additions)	wiki:Rigveda
+SA_GV01_rv	-1500	-1000	Rigveda Samhita	wiki:Rigveda (bulk 1500-1000 BCE)
+SA_GV00_samavedu	-1200	-1000	Samaveda Samhita	wiki:Vedas
+SA_GV_syajurvedu	-1200	-800	Shukla Yajurveda	wiki:Vedas
+SA_GV_kyajurvedu	-1200	-800	Krishna Yajurveda	wiki:Vedas
+SA_GV00_maitrs	-1200	-800	Maitrayani Samhita (YV)	wiki:Vedas
+SA_GV00_avs	-1200	-800	Atharvaveda Samhita	wiki:Vedas (~900 BCE compiled)
+SA_GV00_sa_paippalAda	-1200	-800	Paippalada Samhita (AV)	wiki:Vedas
+SA_GV03_sb	-800	-600	Shatapatha Brahmana	wiki:Shatapatha (8th-6th c BCE)
+SA_GV02_gopbra	-900	-700	Gopatha Brahmana	wiki:Brahmanas
+SA_GV02_gopthbr	-900	-700	Gopatha Brahmana	wiki:Brahmanas
+SA_GV02_kausibr	-900	-700	Kausitaki/Sankhayana Brahmana	wiki:Brahmanas
+SA_GV02_pncvbr	-900	-700	Pancavimsha Brahmana	wiki:Brahmanas
+SA_GV05_brup	-700	-500	Brihadaranyaka Upanisad	wiki:Olivelle (7th-6th c BCE)
+SA_GV05_chup	-700	-500	Chandogya Upanisad	wiki:Olivelle (7th-6th c BCE)
+SA_GV05_aitup	-600	-400	Aitareya Upanisad	wiki:Olivelle (6th-5th c BCE)
+SA_GV05_kathop	-500	-100	Katha Upanisad	wiki:Olivelle (last few c BCE)
+SA_GV05_isup	-500	-100	Isha Upanisad	wiki:Olivelle (last few c BCE)
+SA_GV05_svet	-500	-100	Shvetashvatara Upanisad	wiki:Olivelle (last few c BCE)
+SA_GV05_prasup	-200	100	Prashna Upanisad	wiki:Olivelle (~start of CE)
+SA_GV05_mand_up	-200	100	Mandukya Upanisad	wiki:Olivelle (~start of CE)

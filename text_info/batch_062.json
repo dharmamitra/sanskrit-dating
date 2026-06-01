@@ -1,0 +1,323 @@
+[
+  {
+    "work_id": "T06n1290u",
+    "title": "Bāhyārthasiddhikārikā",
+    "author": "Śubhagupta",
+    "tradition": "Buddhist (epistemological/pramāṇa school; realist position between Sautrāntika and Vaibhāṣika)",
+    "genre": "philosophical treatise (kārikā verses)",
+    "date_estimate": "c. 720-780 CE",
+    "summary": "A verse treatise (kārikā) 'Establishing [the Existence of] External Objects' that argues for the reality of external objects of cognition against Yogācāra idealism. Śubhagupta engages critically with Diṅnāga and Vasubandhu, defending the existence of mind-independent atoms/objects while holding a distinctive view that the images (ākāra) of those objects do not themselves appear in cognition. His position oscillates between Sautrāntika and Vaibhāṣika realism.",
+    "history": "The work survives only in Tibetan translation. Śubhagupta was a notable opponent targeted in the Bahirarthaparīkṣā section of Śāntarakṣita's Tattvasaṅgraha and Kamalaśīla's commentary, which helps fix his date to the 8th century. The text is a key source for the Buddhist realist defense of external objects in the perception debate.",
+    "related_works": ["Tattvasaṅgraha", "Pramāṇavārttika", "Viṃśatikā"],
+    "confidence": "high",
+    "sources": [
+      "https://link.springer.com/article/10.1007/s10781-013-9201-8",
+      "https://www.academia.edu/37610719/%C5%9Aubhagupta_on_the_Cognitive_Process",
+      "https://grokipedia.com/page/Sautr%C4%81ntika"
+    ]
+  },
+  {
+    "work_id": "T06n1333u",
+    "title": "Cittatattvasaṅgraha",
+    "author": "",
+    "tradition": "Buddhist (Mahāyāna; likely tantric/Vajrayāna)",
+    "genre": "compendium / saṅgraha (possibly tantric)",
+    "date_estimate": "uncertain (1st millennium CE)",
+    "summary": "A 'Compendium of the True Nature of Mind' (citta-tattva-saṅgraha). The precise identity of this Taishō-canon item could not be confidently established; the title suggests a compendium focused on the nature of mind, and works of this name appear in the esoteric/tantric portions of the Chinese Buddhist canon, distinct from Śāntarakṣita's well-known Tattvasaṅgraha.",
+    "history": "This is an obscure title that could not be securely identified or distinguished from similarly named works. It should not be confused with Śāntarakṣita's encyclopedic Tattvasaṅgraha. Authorship, date, and content remain uncertain in the available scholarly sources.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tattvasamgraha",
+      "https://www.wisdomlib.org/buddhism/book/taisho-chinese-buddhist-canon"
+    ]
+  },
+  {
+    "work_id": "T06n1394u",
+    "title": "Yogācārabhūmi",
+    "author": "Asaṅga (traditional; East Asian tradition ascribes to Maitreya; modern scholarship sees it as a layered compilation)",
+    "tradition": "Buddhist, Mahāyāna (Yogācāra)",
+    "genre": "philosophical treatise / encyclopedic śāstra",
+    "date_estimate": "c. 300-350 CE (composite, layered)",
+    "summary": "A monumental encyclopedic foundational text of the Yogācāra school describing the spiritual states, practices, and fruits along the path to Buddhahood. Its core 'Maulī Bhūmi' division comprises seventeen stages (bhūmis), followed by four supplementary compendia (Viniścaya-, Vivaraṇa-, Paryāya-, and Vastu-saṃgrahaṇī, plus a Vinaya-saṃgrahaṇī). It expounds the full range of mental and spiritual levels and Yogācāra doctrine including the ālayavijñāna.",
+    "history": "Traditionally attributed to Asaṅga (4th c.), though East Asian tradition credits his teacher Maitreya; modern scholars regard it as a multi-authored, layered compilation finalized around 300-350 CE. Preserved in Sanskrit fragments, Tibetan, and Chinese (Xuanzang's translation). It is the largest and most influential foundational treatise of Yogācāra.",
+    "related_works": ["Mahāyānasaṃgraha", "Abhidharmasamuccaya", "Śrāvakabhūmi"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yogacarabhumi-sastra",
+      "https://encyclopediaofbuddhism.org/wiki/Yogacarabhumi-sastra"
+    ]
+  },
+  {
+    "work_id": "T06n2994u",
+    "title": "Mahāyānasaṃgraha",
+    "author": "Asaṅga",
+    "tradition": "Buddhist, Mahāyāna (Yogācāra)",
+    "genre": "philosophical treatise / doctrinal summary",
+    "date_estimate": "c. 4th century CE",
+    "summary": "The 'Summary (Compendium) of the Great Vehicle', a ten-chapter systematic exposition of the major doctrines of Yogācāra Mahāyāna. It offers the most extensive early analysis of the ālayavijñāna (storehouse consciousness), the eight consciousnesses, the three natures (trisvabhāva), 'mind-only' (cittamātra), dependent origination, the bodhisattva path, the four wisdoms, and the three bodies (kāyas) of a buddha.",
+    "history": "One of the two most important works attributed to Asaṅga and often regarded as a distillation of the Yogācārabhūmi. It generated major commentaries, including Vasubandhu's Mahāyānasaṃgraha-bhāṣya and Asvabhāva's Mahāyānasaṃgraha-upanibandhana (6th c.). It survives in Tibetan and several Chinese translations.",
+    "related_works": ["Yogācārabhūmi", "Mahāyānasaṃgraha-bhāṣya (Vasubandhu)", "Abhidharmasamuccaya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mah%C4%81y%C4%81nasa%E1%B9%83graha",
+      "https://encyclopediaofbuddhism.org/wiki/Mah%C4%81y%C4%81nasa%E1%B9%83graha"
+    ]
+  },
+  {
+    "work_id": "T06-ybh-laukikamarga",
+    "title": "Yogācārabhūmi: Laukikamārga",
+    "author": "Asaṅga (traditional; see Yogācārabhūmi)",
+    "tradition": "Buddhist, Mahāyāna (Yogācāra)",
+    "genre": "philosophical treatise (section of an encyclopedic śāstra)",
+    "date_estimate": "c. 300-350 CE",
+    "summary": "The 'Mundane Path' (laukika-mārga) portion within the Yogācārabhūmi (specifically within the Śrāvakabhūmi's treatment of the path). It describes the worldly/mundane branch of meditative practice—progressive attainment of the dhyānas and formless absorptions by suppressing grosser levels for subtler ones—as distinct from the supramundane path (lokottara-mārga) that yields liberating insight.",
+    "history": "This is a sub-section of the larger Yogācārabhūmi corpus, which treats meditation practice (especially in the Śrāvakabhūmi) by dividing the path into the mundane and supramundane. It shares the Yogācārabhūmi's composite authorship and dating.",
+    "related_works": ["Yogācārabhūmi", "Śrāvakabhūmi"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yogacarabhumi-sastra",
+      "http://www.icabs.ac.jp/wp/wp-content/uploads/2018/01/7dc588bf8b0ca5427fc03df8e0e0dcde.pdf"
+    ]
+  },
+  {
+    "work_id": "T06sambhu",
+    "title": "Yogācārabhūmi: Samāhitā Bhūmi",
+    "author": "Asaṅga (traditional; see Yogācārabhūmi)",
+    "tradition": "Buddhist, Mahāyāna (Yogācāra)",
+    "genre": "philosophical treatise (section of an encyclopedic śāstra)",
+    "date_estimate": "c. 300-350 CE",
+    "summary": "The 'Stage of Concentration/Meditative Equipoise' (samāhitā bhūmi), one of the seventeen bhūmis constituting the core (Maulī) division of the Yogācārabhūmi. It systematically treats states of meditative absorption (samādhi/samāpatti), including the dhyānas and formless attainments, and the conditions and characteristics of mind in equipoise.",
+    "history": "This is one of the seventeen foundational stages of the Yogācārabhūmi. It belongs to the same composite corpus and shares its dating and transmission in Sanskrit, Tibetan, and Chinese.",
+    "related_works": ["Yogācārabhūmi", "Śrāvakabhūmi"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yogacarabhumi-sastra",
+      "http://www.acmuller.net/yogacara/outlines/YBh-summary.html"
+    ]
+  },
+  {
+    "work_id": "T06srabhu_u",
+    "title": "Yogācārabhūmi: Śrāvakabhūmi",
+    "author": "Asaṅga (traditional; see Yogācārabhūmi)",
+    "tradition": "Buddhist, Mahāyāna (Yogācāra)",
+    "genre": "meditation manual (section of an encyclopedic śāstra)",
+    "date_estimate": "c. 300-350 CE (hints of an earlier 3rd-c. core)",
+    "summary": "The 'Stage of the Disciple/Hearer' (śrāvakabhūmi), the second-largest book of the Yogācārabhūmi and a detailed meditation manual. Divided into four yogasthānas, it gives an exhaustive presentation of meditation, defining dhyāna, vimokṣa, samāpatti and samādhi, treating prerequisites of practice, objects of meditation, and the staged progress through mundane and supramundane paths.",
+    "history": "A self-contained meditation treatise embedded in the Yogācārabhūmi, often studied independently as one of the most systematic Indian Buddhist accounts of meditative practice. Some scholars posit an early core; the project hint of c. 200-270 CE reflects this proposed earlier stratum, while the broader corpus is dated c. 300-350 CE.",
+    "related_works": ["Yogācārabhūmi", "Mahāyānasaṃgraha"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yogacarabhumi-sastra",
+      "http://www.icabs.ac.jp/wp/wp-content/uploads/2018/01/7dc588bf8b0ca5427fc03df8e0e0dcde.pdf"
+    ]
+  },
+  {
+    "work_id": "T06srabhusu",
+    "title": "Yogācārabhūmi: Śrāvakabhūmi",
+    "author": "Asaṅga (traditional; see Yogācārabhūmi)",
+    "tradition": "Buddhist, Mahāyāna (Yogācāra)",
+    "genre": "meditation manual (section of an encyclopedic śāstra)",
+    "date_estimate": "c. 300-350 CE (hints of an earlier 3rd-c. core)",
+    "summary": "The 'Stage of the Disciple/Hearer' (śrāvakabhūmi) of the Yogācārabhūmi—a detailed, four-part meditation manual presenting the prerequisites, objects, and stages of meditative practice for the śrāvaka. This appears to be a second representation (e.g., a distinct recension or text-stream, perhaps the Sanskrit) of the same Śrāvakabhūmi as the preceding entry.",
+    "history": "A duplicate/parallel record of the Śrāvakabhūmi within this dataset, likely reflecting a different language version or edition (e.g., Sanskrit vs. Chinese). Same corpus, authorship, and dating as the Yogācārabhūmi.",
+    "related_works": ["Yogācārabhūmi", "Mahāyānasaṃgraha"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yogacarabhumi-sastra",
+      "http://www.icabs.ac.jp/wp/wp-content/uploads/2018/01/7dc588bf8b0ca5427fc03df8e0e0dcde.pdf"
+    ]
+  },
+  {
+    "work_id": "T07dhrmsk_u",
+    "title": "Dharmaskandha",
+    "author": "anonymous/traditional (ascribed to Śāriputra in Sanskrit/Tibetan sources, to Maudgalyāyana in Chinese sources)",
+    "tradition": "Buddhist (Sarvāstivāda Abhidharma)",
+    "genre": "Abhidharma treatise (canonical)",
+    "date_estimate": "c. 2nd-1st century BCE (one of the earliest of the seven Sarvāstivāda Abhidharma treatises)",
+    "summary": "The 'Aggregation of Dharmas', one of the seven canonical Abhidharma treatises of the Sarvāstivāda. It is an early, list-based ('mātṛkā') treatise systematizing core Buddhist doctrinal categories—such as the path factors, faculties, meditative attainments, and the constituents (skandhas, dhātus, āyatanas)—largely by collecting and glossing sūtra material.",
+    "history": "Counted among the 'six feet and one body' of Sarvāstivāda Abhidharma and regarded as one of the oldest of the seven. Authorship is disputed: Śāriputra per Sanskrit/Tibetan tradition, Maudgalyāyana per Chinese tradition. It survives in Chinese (and Sanskrit fragments) and is foundational for later Abhidharma scholasticism.",
+    "related_works": ["Saṃgītiparyāya", "Jñānaprasthāna", "Prakaraṇapāda", "Mahāvibhāṣā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dharmaskandha",
+      "https://www.rigpawiki.org/index.php?title=Seven_treatises_of_Abhidharma"
+    ]
+  },
+  {
+    "work_id": "T07n772u",
+    "title": "Abhidharmāmṛta",
+    "author": "Ghoṣaka",
+    "tradition": "Buddhist (Sarvāstivāda-Vaibhāṣika Abhidharma)",
+    "genre": "Abhidharma treatise / doctrinal manual",
+    "date_estimate": "c. 2nd century CE (1st-3rd c. CE)",
+    "summary": "The Abhidharmāmṛta(-rasa)-śāstra, 'The [Taste of the] Nectar of Abhidharma', a concise systematic manual of Sarvāstivāda-Vaibhāṣika Abhidharma. It presents core Abhidharma topics—dharma categories, faculties, defilements, karma, the path, and meditative states—as an accessible compendium of the system.",
+    "history": "Attributed to Ghoṣaka, a Sarvāstivāda master associated with the post-Mahāvibhāṣā Gandhāran tradition (sometimes called Tocharian). The work survives in Chinese translation (T 1553) and represents the more concise manual genre within Sarvāstivāda Abhidharma literature.",
+    "related_works": ["Mahāvibhāṣā", "Abhidharmahṛdaya", "Abhidharmakośa"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Abhidharma_texts_(Sarv%C4%81stiv%C4%81din_Canon)",
+      "https://en.wikipedia.org/wiki/Vaibh%C4%81%E1%B9%A3ika"
+    ]
+  },
+  {
+    "work_id": "T07n797u",
+    "title": "Subodhālaṅkāra",
+    "author": "Saṅgharakkhita Mahāsāmi",
+    "tradition": "Buddhist (Theravāda; Pāli literary tradition of Sri Lanka)",
+    "genre": "poetics / rhetoric manual (alaṃkāraśāstra)",
+    "date_estimate": "13th century CE",
+    "summary": "The 'Lucid (Easily-Understood) Ornament', the first manual of Pāli poetics, treating figures of speech, poetic faults and merits, and rhetorical ornamentation (alaṃkāra). It adapts Sanskrit poetic theory—drawing heavily on Daṇḍin's Kāvyādarśa—into Pāli, recasting some ideas in a Buddhist light.",
+    "history": "Composed in the 13th century by the Sri Lankan monk Saṅgharakkhita, it was a pivotal work in the development of second-millennium Pāli kāvya. The Pali Text Society edition (ed. P. S. Jaini, 2000) includes two versions of its vṛtti and documents extensive parallels with Daṇḍin's Kāvyādarśa. Note: this is a Pāli rather than Sanskrit work.",
+    "related_works": ["Kāvyādarśa (Daṇḍin)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/pali-subodhalankara-and-dandins-kavyadarsa/9175C88D781803EC2D0B558495AB04CF",
+      "https://muse.jhu.edu/pub/354/oa_edited_volume/chapter/2779987"
+    ]
+  },
+  {
+    "work_id": "T07nagdhdbu",
+    "title": "Dharmadhātugarbhavivaraṇa",
+    "author": "attributed to Nāgārjuna (attribution uncertain)",
+    "tradition": "Buddhist, Mahāyāna (Madhyamaka / tathāgatagarbha)",
+    "genre": "commentary / exposition (vivaraṇa)",
+    "date_estimate": "uncertain (attributed authorship would imply c. 2nd-3rd c. CE, but likely later)",
+    "summary": "An 'Exposition of the Womb/Essence of the Dharma-Realm' (dharmadhātu-garbha), a short doctrinal work in the dharmadhātu / tathāgatagarbha sphere associated with the Nāgārjuna corpus. It elaborates the nature of the dharmadhātu as the basis temporarily obscured by adventitious stains and uncovered along the path—themes central to the Dharmadhātustava milieu.",
+    "history": "The attribution to Nāgārjuna is part of the broad pseudepigraphic 'Nāgārjuna' devotional/tathāgatagarbha corpus and is not securely established; this particular vivaraṇa is obscure and distinct from the better-known Dharmadhātustava. Reliable details on its date and transmission are limited.",
+    "related_works": ["Dharmadhātustava"],
+    "confidence": "low",
+    "sources": [
+      "https://buddhanature.tsadra.org/index.php/Books/In_Praise_of_Dharmadh%C4%81tu",
+      "https://selfdefinition.org/tibetan/Nagarjuna-In-Praise-of-Dharmadhatu.pdf"
+    ]
+  },
+  {
+    "work_id": "K10udanav_u",
+    "title": "Udānavarga",
+    "author": "anonymous/traditional (compilation traditionally ascribed to Dharmatrāta)",
+    "tradition": "Buddhist (Sarvāstivāda/Mūlasarvāstivāda)",
+    "genre": "anthology of canonical verses (gāthā collection)",
+    "date_estimate": "compiled in the early centuries CE (verse material from much earlier; compiler dated c. 1st c. BCE-2nd c. CE)",
+    "summary": "An early Buddhist anthology of aphoristic verses ('utterances', udāna) attributed to the Buddha and his disciples, organized into topical chapters (varga). It is the Sanskrit counterpart to the Pāli Dhammapada and Gāndhārī Dharmapada, sharing 330-340 verses, sixteen chapter headings, and an underlying structure, while adding much further material.",
+    "history": "Traditionally compiled by the Sarvāstivādin master Dharmatrāta. Scholars (Hinüber, Brough) debate whether it grew from an Udāna-like core augmented with Dhammapada verses or whether all three Dharmapada-type texts share a common ancestor. Preserved in Sanskrit (Central Asian manuscripts), Tibetan, and Chinese.",
+    "related_works": ["Dhammapada", "Gāndhārī Dharmapada", "Udāna"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Udanavarga",
+      "https://encyclopediaofbuddhism.org/wiki/Udanavarga"
+    ]
+  },
+  {
+    "work_id": "T07vabhdicu",
+    "title": "Vibhāṣāprabhāvṛtti",
+    "author": "the anonymous 'Dīpakāra' (the Abhidharmadīpa's author; project hint of 'Vimalamitra' is unverified—proposals also include Vasumitra/Īśvaravarman)",
+    "tradition": "Buddhist (Sarvāstivāda-Vaibhāṣika Abhidharma)",
+    "genre": "auto-commentary (vṛtti) on Abhidharma kārikās",
+    "date_estimate": "c. 5th-6th century CE (after Vasubandhu's Abhidharmakośa)",
+    "summary": "The prose auto-commentary ('Light of the Vibhāṣā Commentary') accompanying the Abhidharmadīpa-kārikā. It defends orthodox Vaibhāṣika positions and is written primarily to refute Vasubandhu's Sautrāntika-leaning critiques in the Abhidharmakośabhāṣya, polemically calling Vasubandhu the 'Kośakāra'.",
+    "history": "Edited together with the Abhidharmadīpa by Padmanabh S. Jaini (1959/1977) from incomplete Sanskrit fragments. Unlike most Abhidharma works, it was not translated into Tibetan or Chinese. Its author—the 'Dīpakāra'—is anonymous; the attribution to Vimalamitra in the project metadata is not well supported in scholarship.",
+    "related_works": ["Abhidharmadīpa", "Abhidharmakośabhāṣya (Vasubandhu)", "Nyāyānusāra (Saṅghabhadra)"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhidharmad%C4%ABpa",
+      "https://archive.org/details/in.ernet.dli.2015.541436"
+    ]
+  },
+  {
+    "work_id": "T07vabhdiku",
+    "title": "Abhidharmadīpakārikā",
+    "author": "the anonymous 'Dīpakāra' (project hint 'Vimalamitra' unverified)",
+    "tradition": "Buddhist (Sarvāstivāda-Vaibhāṣika Abhidharma)",
+    "genre": "philosophical treatise (kārikā verses)",
+    "date_estimate": "c. 5th-6th century CE (after Vasubandhu)",
+    "summary": "The verse (kārikā) portion of the Abhidharmadīpa, the 'Lamp of Abhidharma'. Modeled on Vasubandhu's Abhidharmakośakārikā, it sets out Vaibhāṣika Abhidharma doctrine but adopts an orthodox Vaibhāṣika standpoint to refute the Sautrāntika-leaning positions Vasubandhu took in his Kośa-bhāṣya.",
+    "history": "A less-known Vaibhāṣika treatise surviving only in incomplete Sanskrit fragments, critically edited (with its Vibhāṣāprabhāvṛtti commentary) by Padmanabh S. Jaini. It is valuable for confirming Vasubandhu's authorship of the Abhidharmakośakārikā and for documenting late Vaibhāṣika polemics. The author is conventionally the anonymous 'Dīpakāra'.",
+    "related_works": ["Vibhāṣāprabhāvṛtti", "Abhidharmakośakārikā (Vasubandhu)"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhidharmad%C4%ABpa",
+      "https://archive.org/details/in.ernet.dli.2015.541436"
+    ]
+  },
+  {
+    "work_id": "T07vabhdilu",
+    "title": "Abhidharmadīpakārikā",
+    "author": "the anonymous 'Dīpakāra' (project hint 'Vimalamitra' unverified)",
+    "tradition": "Buddhist (Sarvāstivāda-Vaibhāṣika Abhidharma)",
+    "genre": "philosophical treatise (kārikā verses)",
+    "date_estimate": "c. 5th-6th century CE (after Vasubandhu)",
+    "summary": "The kārikā (verse) text of the Abhidharmadīpa, 'Lamp of Abhidharma', presenting Vaibhāṣika Abhidharma in verse and refuting Vasubandhu's Sautrāntika-leaning Abhidharmakośa from an orthodox Vaibhāṣika standpoint. This appears to be a second representation (distinct recension or text-stream) of the same kārikā work as the preceding entry.",
+    "history": "A duplicate/parallel record of the Abhidharmadīpa-kārikā within this dataset. The work survives in incomplete Sanskrit fragments and was edited by Padmanabh S. Jaini. The author is conventionally the anonymous 'Dīpakāra'; the metadata attribution to Vimalamitra is not well established.",
+    "related_works": ["Vibhāṣāprabhāvṛtti", "Abhidharmakośakārikā (Vasubandhu)"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhidharmad%C4%ABpa",
+      "https://archive.org/details/in.ernet.dli.2015.541436"
+    ]
+  },
+  {
+    "work_id": "T07yabhkvyu",
+    "title": "Sphuṭārthā Abhidharmakośavyākhyā",
+    "author": "Yaśomitra",
+    "tradition": "Buddhist (Sarvāstivāda/Sautrāntika Abhidharma)",
+    "genre": "commentary (vyākhyā) on Abhidharma",
+    "date_estimate": "c. 6th century CE (sometimes placed slightly later)",
+    "summary": "The 'Clear-Meaning Commentary' (Sphuṭārthā), a celebrated and extensive commentary on Vasubandhu's Abhidharmakośa-bhāṣya. It glosses the verses and prose of the Kośa word-by-word, clarifies technical terms, identifies opponents' positions, and preserves much information about the various Abhidharma schools.",
+    "history": "Authored by Yaśomitra and preserved in both Sanskrit and Tibetan—making it especially important since it transmits the Kośa-bhāṣya's Sanskrit. Regarded by the Tibetan scholar Chim Jampaiyang as the best of the renowned Kośa commentaries. The standard edition is Unrai Wogihara's (Tokyo, 1932-1936).",
+    "related_works": ["Abhidharmakośa-bhāṣya (Vasubandhu)", "Abhidharmakośakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Ya%C5%9Bomitra",
+      "https://en.wikipedia.org/wiki/Abhidharmako%C5%9Ba-bh%C4%81sya"
+    ]
+  },
+  {
+    "work_id": "T08jsphustu",
+    "title": "Sphuṭārthā Śrīghanācārasaṃgrahaṭīkā",
+    "author": "Jayarakṣita",
+    "tradition": "Buddhist (Vinaya; nikāya affiliation debated—linked to Mahāsāṃghika)",
+    "genre": "commentary (ṭīkā) on monastic discipline (vinaya)",
+    "date_estimate": "c. 7th-8th century CE",
+    "summary": "The 'Clear-Meaning Commentary' on the Śrīghanācārasaṃgraha—a compendium of regulations for Buddhist novices (śrāmaṇera). It explains the rules and conduct prescribed for novices, elaborating the verses of the root saṃgraha and providing detailed vinaya context.",
+    "history": "Composed by Jayarakṣita. Its nikāya affiliation has been studied by scholars, with the Sphuṭārthā Śrīghanācārasaṃgrahaṭīkā linked to the Mahāsāṃghika vinaya tradition (comparable with the Chinese Mahāsāṃghika vinaya). It survives in Sanskrit and is an important witness to novice-discipline literature.",
+    "related_works": ["Śrīghanācārasaṃgraha"],
+    "confidence": "high",
+    "sources": [
+      "https://www.academia.edu/2293010/On_the_Nik%C4%81ya_Affiliation_of_the_%C5%9Ar%C4%ABghan%C4%81c%C4%81rasa%E1%B9%85graha_and_the_Sphu%E1%B9%AD%C4%81rth%C4%81_%C5%9Ar%C4%ABghan%C4%81c%C4%81rasa%E1%B9%85graha%E1%B9%AD%C4%ABk%C4%81",
+      "https://www.academia.edu/122687791/The_Sphutartha_Srighanacarasangrahatika_and_the_Chinese_Mahasanghika_vinaya"
+    ]
+  },
+  {
+    "work_id": "T08sghancsu",
+    "title": "Śrīghanācārasaṃgraha",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vinaya; nikāya affiliation debated—linked to Mahāsāṃghika)",
+    "genre": "monastic discipline manual (vinaya saṃgraha)",
+    "date_estimate": "before the 7th-8th c. CE (root text of Jayarakṣita's ṭīkā)",
+    "summary": "A 'Compendium of the Conduct of Śrīghana [the Buddha]', a verse compilation of regulations governing the conduct of Buddhist novices (śrāmaṇera). It serves as the root text on which Jayarakṣita's Sphuṭārthā ṭīkā comments.",
+    "history": "The root text whose nikāya affiliation has been examined alongside its commentary and connected to the Mahāsāṃghika tradition. It survives in Sanskrit; its specific author is not securely identified, and it predates Jayarakṣita's commentary.",
+    "related_works": ["Sphuṭārthā Śrīghanācārasaṃgrahaṭīkā"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.academia.edu/2293010/On_the_Nik%C4%81ya_Affiliation_of_the_%C5%9Ar%C4%ABghan%C4%81c%C4%81rasa%E1%B9%85graha_and_the_Sphu%E1%B9%AD%C4%81rth%C4%81_%C5%9Ar%C4%ABghan%C4%81c%C4%81rasa%E1%B9%85graha%E1%B9%AD%C4%ABk%C4%81",
+      "https://www.academia.edu/122687791/The_Sphutartha_Srighanacarasangrahatika_and_the_Chinese_Mahasanghika_vinaya"
+    ]
+  },
+  {
+    "work_id": "T08suvrnavu",
+    "title": "Suvarṇavarṇāvadāna",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna-influenced avadāna literature)",
+    "genre": "avadāna (Buddhist narrative legend)",
+    "date_estimate": "mid-1st millennium CE (uncertain)",
+    "summary": "The 'Avadāna of [the youth] Suvarṇavarṇa (Golden-Colored)', a Buddhist narrative tale recounting the karmically significant story of a golden-hued protagonist, illustrating the workings of karma and merit. A version is embedded in the later Vrata-avadāna-mālā, where the story is adapted to highlight the importance of observing various religious vows (vratas).",
+    "history": "Long known only through its adaptation in the Vratāvadānamālā, the text was later identified through a palm-leaf Sanskrit manuscript corresponding closely to Tibetan and Chinese versions, showing the mālā version to be a secondary reworking. It was edited and studied by Sita Ram Roy (1971) and translated by Tissa Rajapatirana.",
+    "related_works": ["Vratāvadānamālā", "Divyāvadāna"],
+    "confidence": "medium",
+    "sources": [
+      "https://books.google.com/books/about/Suvar%E1%B9%87avar%E1%B9%87%C4%81vad%C4%81na.html?id=lN2HmQEACAAJ",
+      "https://www.iranicaonline.org/articles/avadana-sanskrit-term-for-a-category-of-buddhist-narrative-literature/"
+    ]
+  }
+]

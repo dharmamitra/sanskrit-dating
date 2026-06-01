@@ -1,0 +1,322 @@
+[
+  {
+    "work_id": "GS40rassanku",
+    "title": "Rasasaṃketakalikā",
+    "author": "Cāmuṇḍa (Kāyastha Cāmuṇḍa, also called Caṇḍa)",
+    "tradition": "Hindu; rasaśāstra (Indian alchemy/iatrochemistry within Ayurveda)",
+    "genre": "rasaśāstra / Ayurvedic alchemical and pharmaceutical treatise",
+    "date_estimate": "c. 13th-15th c. CE (uncertain; medieval)",
+    "summary": "A compact rasaśāstra manual dealing with the processing (śodhana, māraṇa) of mercury, metals, minerals and gems, and their use in medicinal preparations. It belongs to the iatrochemical phase of Indian alchemy in which alchemical knowledge was systematized for therapeutic ends.",
+    "history": "Authored by the Kāyastha Cāmuṇḍa (Caṇḍa); the text survives in manuscripts and has been edited and translated into English (e.g. by P. Satyanarayana Sastry, Chowkhamba). Its precise date is not firmly established and remains debated among historians of Indian alchemy.",
+    "related_works": ["Rasaratnasamuccaya", "Rasaprakāśasudhākara", "Rasaratnākara"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/rasasamketakalika",
+      "https://www.exoticindiaart.com/book/details/rasa-sanketa-kalika-of-kayastha-camunda-idg558/"
+    ]
+  },
+  {
+    "work_id": "GS40salrasmu",
+    "title": "Rasamañjarī",
+    "author": "Śālinātha",
+    "tradition": "Hindu; rasaśāstra (Indian alchemy within Ayurveda)",
+    "genre": "rasaśāstra / Ayurvedic alchemical-pharmaceutical treatise",
+    "date_estimate": "medieval (c. 14th-16th c. CE; uncertain)",
+    "summary": "A rasaśāstra text describing a wide range of mercurial and herbo-mineral medicinal preparations, their methods of manufacture and therapeutic application. Chapters include treatment of rasāyana (rejuvenation) and ariṣṭa (prognostic/fatal signs), and it discusses pottalī-type formulations.",
+    "history": "Attributed to Ācārya Śālinātha; the work is studied in Ayurvedic pharmaceutics and has a modern Hindi commentary by Siddhinandan Mishra. Several alchemical texts bear the title Rasamañjarī (one is ascribed to Śālinātha), and dating is not securely fixed.",
+    "related_works": ["Rasaratnasamuccaya", "Rasaprakāśasudhākara"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/concept/rasamanjari",
+      "https://en.wikipedia.org/wiki/Rasashastra"
+    ]
+  },
+  {
+    "work_id": "GS40samapviu",
+    "title": "Āyurvedamahodadhau Annapānavidhi",
+    "author": "Suṣeṇa (Suṣeṇa Deva)",
+    "tradition": "Hindu; Ayurveda",
+    "genre": "Ayurvedic treatise (dietetics section of a larger work)",
+    "date_estimate": "medieval (uncertain)",
+    "summary": "The Annapānavidhi ('rules concerning food and drink') is a section of the larger Ayurvedic work Āyurvedamahodadhi, dealing in detail with dietetics: the classification, qualities and proper consumption of foods and beverages and their effect on health. It belongs to the genre of svasthavṛtta (regimen for health) in Ayurveda.",
+    "history": "Composed by Suṣeṇa (Suṣeṇa Deva), to whom an Ayurvedic nighaṇṭu (Suṣeṇa Nighaṇṭu) is also attributed. The Annapānavidhi portion was edited and published in the Thanjavur Sarasvati Mahal series; its precise date is not established.",
+    "related_works": ["Āyurvedamahodadhi", "Suṣeṇa Nighaṇṭu", "Annapānavidhi-adhyāya (Caraka Saṃhitā)"],
+    "confidence": "medium",
+    "sources": [
+      "https://archive.org/details/dli.ministry.10021",
+      "https://www.sanskritbooks.com/blog/ayurveda-mahodadhi/"
+    ]
+  },
+  {
+    "work_id": "GS40kalyanakaraka",
+    "title": "Kalyāṇakāraka",
+    "author": "Ugrāditya",
+    "tradition": "Jain; Ayurveda",
+    "genre": "Ayurvedic medical treatise (saṃhitā)",
+    "date_estimate": "early 9th c. CE (c. 790-830 CE)",
+    "summary": "A comprehensive Jain Ayurvedic compendium covering daily and seasonal regimens, anatomy, diagnosis, the eight branches of medicine and treatment procedures, with a notable section advocating strict vegetarianism and rejecting animal/alcoholic substances in medicine in line with Jain ethics. It also contains a special section on prognosis and prediction of a patient's death.",
+    "history": "Composed by the Jain monk Ugrāditya, traditionally at Rāmagiri hill in Veṅgī (Andhra). Scholars date it to the first half of the 9th century; its vegetarianism chapter is said to have been delivered at the court of the Rāṣṭrakūṭa king Nṛpatuṅga (Amoghavarṣa) c. 830 CE. It is a key source for the Jain contribution to Indian medicine.",
+    "related_works": ["Caraka Saṃhitā", "Suśruta Saṃhitā", "Aṣṭāṅgahṛdaya"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/science/journal/ayushdhara/d/doc1430297.html",
+      "https://hasp.ub.uni-heidelberg.de/catalog/view/815/1343/93819"
+    ]
+  },
+  {
+    "work_id": "GS40vagaah_u",
+    "title": "Aṣṭāṅgahṛdayasūtra (Aṣṭāṅgahṛdaya, Sūtrasthāna)",
+    "author": "Vāgbhaṭa",
+    "tradition": "Hindu/Buddhist milieu; Ayurveda",
+    "genre": "Ayurvedic treatise (saṃhitā); this is the Sūtrasthāna (foundational principles section)",
+    "date_estimate": "c. 6th-7th c. CE",
+    "summary": "The Sūtrasthāna is the opening, foundational section of the Aṣṭāṅgahṛdaya, one of the three classical 'great' Ayurvedic compendia (bṛhattrayī). It lays out the fundamentals of Ayurveda: the doctrine of the three doṣas, daily and seasonal regimen (dinacaryā, ṛtucaryā), diet, the qualities of substances, and the basics of pañcakarma therapy, in elegant, condensed verse.",
+    "history": "Vāgbhaṭa, who flourished c. 600-700 CE (likely in Sindh and connected to a Buddhist milieu), distilled the teachings of Caraka and Suśruta into the Aṣṭāṅgahṛdaya, the most widely used of the bṛhattrayī, attracting many commentaries (notably Aruṇadatta's Sarvāṅgasundarā and Hemādri's Āyurvedarasāyana). The metadata's 700-800 hint is slightly late; most scholars favour the 6th-7th c.",
+    "related_works": ["Aṣṭāṅgasaṃgraha", "Caraka Saṃhitā", "Suśruta Saṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://archive.org/details/Ashtanga.Hridaya.of.Vagbhata",
+      "https://www.easyayurveda.com/2016/08/21/acharya-vagbhata/"
+    ]
+  },
+  {
+    "work_id": "GS40vanighpu",
+    "title": "Aṣṭāṅganighaṇṭu",
+    "author": "Vāhaṭa (a Vāgbhaṭa)",
+    "tradition": "Hindu; Ayurveda",
+    "genre": "nighaṇṭu (Ayurvedic medical lexicon / materia medica)",
+    "date_estimate": "early medieval (c. 8th-12th c. CE; uncertain)",
+    "summary": "An Ayurvedic glossary (nighaṇṭu) that catalogues medicinal substances—chiefly plants—grouping synonyms of each drug together and giving their properties for ease of study. It is one of the simpler, study-oriented lexicons of the nighaṇṭu tradition of Ayurvedic materia medica.",
+    "history": "Attributed to Vāhaṭa (a form of the name Vāgbhaṭa); part of the broader nighaṇṭu literature that includes the Dhanvantari, Madanapāla and other lexicons. Its precise authorship and date are uncertain.",
+    "related_works": ["Dhanvantarinighaṇṭu", "Madanapālanighaṇṭu", "Aṣṭāṅgahṛdaya"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/ashtanganighantu",
+      "https://www.wisdomlib.org/concept/nighantu-period"
+    ]
+  },
+  {
+    "work_id": "GS40vrasrs_u",
+    "title": "Rasaratnasamuccaya",
+    "author": "Vāgbhaṭa (the alchemical Vāgbhaṭa; not the Ayurvedic author of the Aṣṭāṅgahṛdaya)",
+    "tradition": "Hindu; rasaśāstra (Indian alchemy/iatrochemistry)",
+    "genre": "rasaśāstra / alchemical treatise (mūla text)",
+    "date_estimate": "c. 13th-14th c. CE",
+    "summary": "The most authoritative classical compendium of Indian alchemy, a systematic 'collection of the gems of rasaśāstra'. It describes mercury (and the eight saṃskāras of its processing), metals, minerals and gems, their purification, incineration into bhasmas, the apparatus (yantras) and laboratory (rasaśālā) needed, and the use of herbo-mineral preparations to treat numerous diseases.",
+    "history": "Authored by an alchemical Vāgbhaṭa, distinct from the earlier author of the Aṣṭāṅgahṛdaya. It compiles and supersedes earlier rasa texts and became the standard reference of the iatrochemical period, drawing many later commentaries. This record is the root text.",
+    "related_works": ["Rasaprakāśasudhākara", "Rasahṛdayatantra", "Rasārṇava"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/alchemy-in-india-and-china/d/doc1476703.html",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5255965/"
+    ]
+  },
+  {
+    "work_id": "GS40vrasrscu",
+    "title": "Rasaratnasamuccaya (with commentary)",
+    "author": "Vāgbhaṭa (mūla); commentary by a later commentator (e.g. Āśubodha/Vinodalāla or others)",
+    "tradition": "Hindu; rasaśāstra (Indian alchemy)",
+    "genre": "rasaśāstra treatise with commentary (bhāṣya/ṭīkā)",
+    "date_estimate": "root text c. 13th-14th c. CE; commentary later",
+    "summary": "The same classical alchemical compendium Rasaratnasamuccaya of Vāgbhaṭa, here in a commented version. The commentary glosses the technical alchemical vocabulary, the processing of mercury and metals into therapeutic bhasmas, the apparatus, and the herbo-mineral formulations of the base text.",
+    "history": "This record parallels the root Rasaratnasamuccaya but represents a version accompanied by a Sanskrit commentary; several commentaries on the text exist. The base work is by the alchemical Vāgbhaṭa, distinct from the author of the Aṣṭāṅgahṛdaya.",
+    "related_works": ["Rasaratnasamuccaya (mūla)", "Rasaprakāśasudhākara", "Rasārṇava"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/alchemy-in-india-and-china/d/doc1476703.html",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5255965/"
+    ]
+  },
+  {
+    "work_id": "GS40yogasatu",
+    "title": "Yogaśataka",
+    "author": "anonymous; traditionally attributed to Nāgārjuna (Nāgārjunīya school)",
+    "tradition": "Buddhist-influenced milieu; Ayurveda",
+    "genre": "Ayurvedic formulary (collection of therapeutic recipes/yogas)",
+    "date_estimate": "c. 6th c. CE (uncertain)",
+    "summary": "An Ayurvedic handbook of about one hundred therapeutic 'combinations' (yogas), i.e. compound prescriptions. More a practical collection of recipes than a theoretical treatise, it covers cures for fever, eye disorders, poisoning, demon-caused and childhood ailments, aphrodisiacs, rejuvenatives and purgatives.",
+    "history": "Traditionally ascribed to Nāgārjuna (within the Nāgārjunīya medical tradition); if the report of Yijing is accepted, its compiler lived in the 6th century. Its popularity is shown by its translation into Tibetan and Tocharian (Kuchean), and the text was edited and translated into French (Yogaśataka, IFP, Pondicherry).",
+    "related_works": ["Caraka Saṃhitā", "Suśruta Saṃhitā", "Aṣṭāṅgahṛdaya"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.ifpindia.org/bookstore/pifi62/",
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-02538"
+    ]
+  },
+  {
+    "work_id": "GS40yrasprpu",
+    "title": "Rasaprakāśasudhākara",
+    "author": "Yaśodhara (Yaśodhara Bhaṭṭa)",
+    "tradition": "Hindu; rasaśāstra (Indian alchemy)",
+    "genre": "rasaśāstra / alchemical-pharmaceutical treatise",
+    "date_estimate": "c. 13th c. CE",
+    "summary": "An important rasaśāstra treatise in thirteen chapters describing mercury, metals, minerals and gems—their varieties, qualities, distinction of good from bad, methods of purification (śodhana) and incineration (māraṇa), and the preparation of medicinal bhasmas. It is a notable source for early Indian knowledge of the metallurgy of zinc and for special preparations such as Somanāthī tāmra-bhasma.",
+    "history": "Composed by Yaśodhara (Yaśodhara Bhaṭṭa) around the 13th century, it is counted among the principal works of the iatrochemical period of Indian alchemy. The metadata hint of 1500-1699 is too late; scholarly consensus places it in the 13th c. CE.",
+    "related_works": ["Rasaratnasamuccaya", "Rasārṇava", "Rasaratnākara"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/rasaprakashasudhakara",
+      "https://www.wisdomlib.org/hinduism/essay/minerals-and-metals-in-sanskrit-literature/d/doc1474425.html"
+    ]
+  },
+  {
+    "work_id": "GS41hayanaratna",
+    "title": "Hāyanaratna",
+    "author": "Balabhadra (Balabhadra Daivajña)",
+    "tradition": "Hindu; jyotiṣa (astrology, Tājika school)",
+    "genre": "jyotiṣa / astrological treatise (nibandha on annual horoscopy)",
+    "date_estimate": "1649 CE",
+    "summary": "A major treatise of the Tājika tradition—the Sanskritized adaptation of Perso-Arabic astrology blended with pre-Islamic Indian jyotiṣa and Hellenistic elements. The Hāyanaratna ('Jewel of the Year') is a meta-commentary (nibandha) chiefly concerned with varṣaphala, the casting and interpretation of annual (anniversary/solar-return) horoscopes.",
+    "history": "Written in 1649 CE by Balabhadra Daivajña, an astrologer associated with the Mughal court, drawing on and digesting many earlier Tājika authorities. It has been critically edited and translated into English by Martin Gansten (Brill, 2020).",
+    "related_works": ["Tājikanīlakaṇṭhī", "Tājikaśāstra works"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/book/hayanaratna-by-balabhadra-sanskrit",
+      "https://www.jstor.org/content/oa_book_edited/10.1163/j.ctv2gjwzsx"
+    ]
+  },
+  {
+    "work_id": "GS41aryabh_u",
+    "title": "Āryabhaṭīya",
+    "author": "Āryabhaṭa (Āryabhaṭa I)",
+    "tradition": "secular/scientific (Hindu astronomical-mathematical tradition)",
+    "genre": "jyotiṣa / mathematics and astronomy treatise (siddhānta)",
+    "date_estimate": "499 CE",
+    "summary": "A foundational, highly condensed Sanskrit treatise on mathematics and astronomy in 121 verses across four sections: Gītikāpāda (astronomical constants), Gaṇitapāda (arithmetic, algebra, geometry, the sine table, series, an approximation of π ≈ 3.1416), Kālakriyāpāda (reckoning of time and planetary longitudes), and Golapāda (spherical astronomy, eclipses). It famously proposes the Earth's axial rotation.",
+    "history": "Composed by Āryabhaṭa in 499 CE (at age 23), it founded a major school of Indian mathematical astronomy and attracted numerous commentaries (Bhāskara I, Someśvara, Nīlakaṇṭha Somayāji, etc.). It introduced influential algorithms including the kuṭṭaka (pulverizer). This record is the root (mūla) text.",
+    "related_works": ["Āryabhaṭīyabhāṣya (Bhāskara I)", "Āryabhaṭīyabhāṣya (Nīlakaṇṭha)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aryabhatiya",
+      "https://en.wikipedia.org/wiki/Aryabhata"
+    ]
+  },
+  {
+    "work_id": "GS41aryabhcu",
+    "title": "Āryabhaṭīya (with commentary)",
+    "author": "Āryabhaṭa (mūla); commentary by a later astronomer (e.g. Bhāskara I, 629 CE, or Nīlakaṇṭha Somayāji)",
+    "tradition": "secular/scientific (Hindu astronomical-mathematical tradition)",
+    "genre": "siddhānta with commentary (bhāṣya/ṭīkā)",
+    "date_estimate": "root text 499 CE; commentary 7th c. CE or later",
+    "summary": "The same Āryabhaṭīya of Āryabhaṭa, here in a commented version. The commentary expounds the terse aphoristic verses—working out the mathematical procedures (square/cube roots, sine table, kuṭṭaka), the astronomical parameters, time-reckoning and spherical astronomy that the root text only states cryptically.",
+    "history": "The Āryabhaṭīya generated a rich commentarial tradition; the earliest surviving commentary is by Bhāskara I (629 CE), followed by many others including Nīlakaṇṭha Somayāji's. This record corresponds to the text accompanied by such a commentary.",
+    "related_works": ["Āryabhaṭīya (mūla)", "Mahābhāskarīya", "Laghubhāskarīya"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aryabhatiya",
+      "https://en.wikipedia.org/wiki/Aryabhata"
+    ]
+  },
+  {
+    "work_id": "GS41bijaganu",
+    "title": "Bījagaṇita",
+    "author": "Bhāskara (Bhāskara II / Bhāskarācārya)",
+    "tradition": "secular/scientific (Hindu mathematical tradition)",
+    "genre": "mathematics treatise (algebra)",
+    "date_estimate": "c. 1150 CE",
+    "summary": "A classic Sanskrit treatise on algebra, forming part of Bhāskara II's larger Siddhāntaśiromaṇi. It treats operations on positive and negative quantities and zero, surds, the kuṭṭaka (indeterminate linear equations), quadratic and higher equations, and the cakravāla method for Pell-type equations (e.g. Nx²+1=y²).",
+    "history": "Written by Bhāskara II (1114-1185) c. 1150 CE—not the 7th-century Bhāskara I, so the metadata's 600-799 hint is incorrect. The Bījagaṇita was highly influential, later translated into Persian (1634) and studied in Europe. It is one of the high points of medieval Indian mathematics.",
+    "related_works": ["Siddhāntaśiromaṇi", "Līlāvatī", "Brāhmasphuṭasiddhānta"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bh%C4%81skara_II",
+      "https://cultureandheritage.org/2023/06/bijaganita-a-treatise-on-algebra-and-trigonometry-by-bhaskara-ii.html"
+    ]
+  },
+  {
+    "work_id": "GS41brhajj_u",
+    "title": "Bṛhajjātaka (Bṛhat Jātaka)",
+    "author": "Varāhamihira",
+    "tradition": "Hindu; jyotiṣa (astrology)",
+    "genre": "jyotiṣa / treatise on horoscopic (natal) astrology",
+    "date_estimate": "6th c. CE (c. 550 CE)",
+    "summary": "A standard, systematic treatise on horā (natal/horoscopic) astrology, treating the zodiac signs, planets, houses, planetary combinations and yogas, and the prediction of life-events such as longevity, profession and marriage from a birth chart. It became the foundational textbook of Indian predictive astrology.",
+    "history": "Composed by Varāhamihira (b. c. 505 CE, near Ujjain) in the 6th century, it is one of his five principal works (alongside the Pañcasiddhāntikā, Bṛhatsaṃhitā, Laghujātaka and Yogayātrā) and shows assimilation of Hellenistic Greek astrology into the Indian tradition. It drew many commentaries (notably Bhaṭṭotpala's).",
+    "related_works": ["Bṛhatsaṃhitā", "Laghujātaka", "Pañcasiddhāntikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brihat_Jataka",
+      "https://en.wikipedia.org/wiki/B%E1%B9%9Bhat_Sa%E1%B9%83hit%C4%81"
+    ]
+  },
+  {
+    "work_id": "GS41brhats_u",
+    "title": "Bṛhatsaṃhitā",
+    "author": "Varāhamihira",
+    "tradition": "Hindu; jyotiṣa (saṃhitā branch) and encyclopaedic",
+    "genre": "encyclopaedic treatise (jyotiṣa / omens, natural science, śilpa)",
+    "date_estimate": "6th c. CE (c. 550 CE)",
+    "summary": "A wide-ranging encyclopaedia in about 106 chapters covering astral and natural omens, planetary and stellar movements, eclipses, rainfall and clouds (weather prognostication), agriculture, architecture (vāstu) and iconography, gemmology and pearls, perfumery, matrimony, and ritual. It is a key source for the material and scientific culture of Gupta-era India.",
+    "history": "Compiled by Varāhamihira in the 6th century, it belongs to the saṃhitā (mundane/omen) branch of jyotiṣa. Its breadth makes it an invaluable witness to 6th-century Indian science, society and art; it too was commented on by Bhaṭṭotpala (10th c.).",
+    "related_works": ["Bṛhajjātaka", "Pañcasiddhāntikā", "Yogayātrā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/B%E1%B9%9Bhat_Sa%E1%B9%83hit%C4%81",
+      "https://www.wisdomlib.org/hinduism/book/brihat-samhita"
+    ]
+  },
+  {
+    "work_id": "GS41brhatparasarahorasastram",
+    "title": "Bṛhatpārāśarahorāśāstram",
+    "author": "anonymous/traditional (ascribed to Maharṣi Parāśara)",
+    "tradition": "Hindu; jyotiṣa (astrology)",
+    "genre": "jyotiṣa / treatise on horoscopic (natal) astrology",
+    "date_estimate": "composite; core c. 7th-8th c. CE, expanded/redacted later",
+    "summary": "The most comprehensive extant treatise on Indian natal (horā) astrology, ascribed to the sage Parāśara. It covers cosmogony, descriptions of planets and zodiac signs, vargas (divisional charts), planetary combinations, the daśā systems (especially Viṃśottarī) and remedial measures, and is a primary reference of modern Vedic astrology.",
+    "history": "Though attributed to Maharṣi Parāśara, it is a composite work of uncertain origin; the oldest printed core (chs. 1-51) is dated to the 7th-early 8th c. CE and a second part (chs. 52-71) to the later 8th c., with the popular 97-chapter recension being a much later expansion. Authorship and original date remain unknown.",
+    "related_works": ["Bṛhajjātaka", "Phaladīpikā", "Jātakapārijāta"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brihat_Parashara_Hora_Shastra",
+      "https://www.wisdomlib.org/definition/brihat-parashara-hora-shastra"
+    ]
+  },
+  {
+    "work_id": "GS41phaladipika",
+    "title": "Phaladīpikā",
+    "author": "Mantreśvara",
+    "tradition": "Hindu; jyotiṣa (astrology)",
+    "genre": "jyotiṣa / treatise on predictive (natal) astrology",
+    "date_estimate": "medieval, c. 13th-15th c. CE (disputed)",
+    "summary": "An authoritative and comprehensive treatise on predictive astrology in roughly 865 verses across 28 chapters. It systematically expounds the signs, planets, houses, yogas and daśās and the interpretation of horoscopes to predict events of life, and is widely used alongside the Bṛhatpārāśarahorāśāstra and Bṛhajjātaka.",
+    "history": "Written by Mantreśvara, whose dates are uncertain (variously placed from the 13th-14th to the 16th century). It remains one of the most popular practical handbooks of traditional Indian astrology and has many printed editions and translations.",
+    "related_works": ["Bṛhatpārāśarahorāśāstra", "Bṛhajjātaka", "Jātakapārijāta"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Phaladeepika",
+      "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation"
+    ]
+  },
+  {
+    "work_id": "GS41brsphutu",
+    "title": "Brāhmasphuṭasiddhānta",
+    "author": "Brahmagupta",
+    "tradition": "secular/scientific (Hindu astronomical-mathematical tradition, Brāhmapakṣa school)",
+    "genre": "jyotiṣa / mathematical astronomy treatise (siddhānta)",
+    "date_estimate": "628 CE",
+    "summary": "A major treatise of mathematical astronomy that also contains landmark pure mathematics: the first systematic rules for arithmetic with zero and negative numbers, methods for square roots, solutions of linear and quadratic equations, summation of series, Brahmagupta's identity and his theorem on cyclic quadrilaterals, plus astronomical computations of planetary positions, eclipses, and the length of the year.",
+    "history": "Composed by Brahmagupta in 628 CE at Bhillamāla (Bhinmal). It is celebrated for formalizing zero as a number and for rules on negative quantities; it became the chief text of the Brāhmapakṣa and, through its Arabic translation (the Sindhind), transmitted Indian astronomy and the decimal system to the Islamic world.",
+    "related_works": ["Khaṇḍakhādyaka (Brahmagupta)", "Āryabhaṭīya", "Brahmasiddhānta"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Br%C4%81hmasphu%E1%B9%ADasiddh%C4%81nta",
+      "https://en.wikipedia.org/wiki/Brahmagupta"
+    ]
+  },
+  {
+    "work_id": "GS41lagrvvju",
+    "title": "Ṛgvedavedāṅgajyotiṣa (Ārca/Ṛk recension of the Vedāṅgajyotiṣa)",
+    "author": "attributed to Lagadha (anonymous/traditional)",
+    "tradition": "Hindu; Vedic ancillary science (Vedāṅga jyotiṣa)",
+    "genre": "jyotiṣa / Vedic astronomical-calendrical treatise (vedāṅga)",
+    "date_estimate": "late Vedic; extant text c. 1st millennium BCE (often c. 1400-1200 BCE traditionally, c. 5th c. BCE on linguistic grounds; disputed)",
+    "summary": "The Ṛgveda recension of the Vedāṅgajyotiṣa, the oldest surviving Indian astronomical text, here in 36 verses. It provides a calendrical and astronomical framework—a five-year yuga, lunar and solar months, tithis, nakṣatras, intercalation and solstice positions—to fix the correct times for Vedic sacrifices and rituals.",
+    "history": "Traditionally ascribed to the sage Lagadha; it is the jyotiṣa Vedāṅga (one of the six limbs of the Veda). Its solstitial data are used to argue for a late-Vedic date, with traditional estimates ranging c. 1400-1200 BCE and conservative linguistic estimates around the mid-1st millennium BCE; the dating is much debated. The text survives in Ṛk (Ārca) and Yajus recensions.",
+    "related_works": ["Yajurvedavedāṅgajyotiṣa", "Vedāṅgas", "Ṛgveda"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vedanga_Jyotisha",
+      "https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/vedanga-jyotisha"
+    ]
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "work_id": "GK19ksbhm19u",
+    "title": "Bhāratamañjarī: 19. Harivaṃśa",
+    "author": "Kṣemendra",
+    "tradition": "Hindu",
+    "genre": "kavya (verse epitome/abridgement)",
+    "date_estimate": "c. 1037 CE (mid-11th c.)",
+    "summary": "The Bhāratamañjarī is Kṣemendra's verse condensation of the entire Mahābhārata, rendering Vyāsa's epic into a compact poetic summary in his own words. This section corresponds to the nineteenth book, the Harivaṃśa, the genealogical and Krishna-centred appendix (khila) of the Mahābhārata that narrates the lineage of Hari (Vishnu/Krishna), the creation, and the deeds of Krishna. Kṣemendra preserves the narrative substance while upholding śānta (serenity) as the work's predominant rasa.",
+    "history": "Kṣemendra (c. 990–1070 CE) was a prolific Kashmiri polymath who studied under Abhinavagupta and Vaishnava teachers; he was renowned as a master 'abridger' (mañjarī-maker) who also condensed the Rāmāyaṇa (Rāmāyaṇamañjarī) and Guṇāḍhya's Bṛhatkathā. The Bhāratamañjarī is an important witness to the form of the Mahābhārata circulating in 11th-century Kashmir.",
+    "related_works": ["Mahābhārata", "Harivaṃśa", "Rāmāyaṇamañjarī", "Bṛhatkathāmañjarī"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://adbhutam.wordpress.com/2015/01/18/the-bharatamanjari-of-kshemendra/",
+      "https://www.wisdomlib.org/definition/bharatamanjari"
+    ]
+  },
+  {
+    "work_id": "GK19ksyadndu",
+    "title": "Śyāmalādaṇḍaka",
+    "author": "Kālidāsa (traditionally attributed)",
+    "tradition": "Hindu (Shakta/Devi worship)",
+    "genre": "stotra (hymn) in daṇḍaka meter",
+    "date_estimate": "traditionally ascribed to Kālidāsa (c. 4th–5th c. CE); attribution uncertain, possibly later",
+    "summary": "The Śyāmalādaṇḍaka is a devotional hymn in praise of the goddess Śyāmalā (also called Mātaṅgī or Rājaśyāmalā), a dark-hued form associated with Sarasvatī and with Lalitā-Tripurasundarī in the Śrīvidyā tradition. It is composed in the rare and demanding daṇḍaka meter, in which long runs of syllables produce an almost prose-like, single continuous sentence praising the goddess's beauty, attributes, and grace.",
+    "history": "Tradition attributes the hymn to Kālidāsa, framing it within the legend of the dull poet transformed by the goddess's grace, though the ascription is doubtful and the work may be considerably later. It remains a popular liturgical text in goddess worship, especially in South India.",
+    "related_works": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.hindupedia.com/en/Shyamala_Dandakam",
+      "https://sanskritdocuments.org/doc_devii/shyaamala.html",
+      "https://stotranidhi.com/en/shyamala-dandakam-in-english/"
+    ]
+  },
+  {
+    "work_id": "GK19kulmukuu",
+    "title": "Mukundamālā",
+    "author": "Kulaśekhara (Kulaśekhara Āḻvār)",
+    "tradition": "Hindu (Śrī Vaishnava / Bhakti)",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "c. 9th century CE (early medieval)",
+    "summary": "The Mukundamālā ('Garland for Mukunda') is a Sanskrit devotional hymn of roughly 40 verses addressed to Vishnu-Krishna (Mukunda). It expresses single-minded surrender (prapatti) and longing for the deity, expressing the wish to remember Krishna at the moment of death and to find refuge in him rather than in worldly attainments.",
+    "history": "It is attributed to Kulaśekhara, traditionally identified with the Āḻvār poet-saint and Chera king Kulaśekhara, counted among the twelve Āḻvārs of the Tamil Śrī Vaishnava tradition. The hymn is widely recited and has been commented upon within the Vaishnava devotional milieu; the date hint of 900–1099 CE roughly fits the early medieval setting.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mukundamala",
+      "https://www.wisdomlib.org/definition/mukundamala"
+    ]
+  },
+  {
+    "work_id": "GK19lnksivsu",
+    "title": "Śivastuti",
+    "author": "attributed to Laṅkeśvara (Rāvaṇa, legendary)",
+    "tradition": "Hindu (Shaiva)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; the Rāvaṇa-attributed Śiva hymn (Śiva Tāṇḍava Stotra) is generally medieval, exact date unknown",
+    "summary": "A hymn of praise to Śiva attributed to Laṅkeśvara, the 'Lord of Lanka' Rāvaṇa, who in Hindu tradition is a supreme devotee of Śiva. The title and author point to the celebrated Rāvaṇa-authored Śiva hymn (best known as the Śiva Tāṇḍava Stotra), which extols Śiva's cosmic dance and his terrifying yet auspicious form—the Ganges in his matted locks, the crescent moon, the third eye, and the sound of the ḍamaru.",
+    "history": "By legend Rāvaṇa composed the hymn while pinned beneath Mount Kailāsa by Śiva's toe, singing praises until released; the Uttarakāṇḍa of the Rāmāyaṇa supplies the narrative frame. The actual date and authorship are unknown and the work is far later than the legendary attribution. Identification of this specific 'Śivastuti' with the Śiva Tāṇḍava Stotra is probable but not certain.",
+    "related_works": ["Rāmāyaṇa (Uttarakāṇḍa)"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shiva_Tandava_Stotra",
+      "https://www.hindupedia.com/en/Shiva_Thandava_stotram_by_Ravana"
+    ]
+  },
+  {
+    "work_id": "GK19maghspvu",
+    "title": "Śiśupālavadha",
+    "author": "Māgha",
+    "tradition": "Hindu",
+    "genre": "kavya (mahākāvya, court epic)",
+    "date_estimate": "c. late 7th–early 8th century CE",
+    "summary": "The Śiśupālavadha ('The Slaying of Śiśupāla') is a mahākāvya in 20 cantos that elaborates an episode from the Mahābhārata: Krishna's killing of the insolent king Śiśupāla of Chedi at Yudhiṣṭhira's Rājasūya sacrifice. The narrative serves as a frame for dazzling poetic ornamentation, learned description, and metrical and verbal virtuosity rather than for plot alone.",
+    "history": "Composed by Māgha (son of Dattaka), probably in the late 7th or early 8th century in western India (Śrīmāla/Bhinmal). It is counted among the five canonical mahākāvyas and gave rise to the proverb 'in Māgha are found the three—simile, words, and meaning' (the poet who rivals Kālidāsa and Bhāravi). It is famous for citra (constrained/figured verse) display.",
+    "related_works": ["Mahābhārata", "Kirātārjunīya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shishupala_Vadha"
+    ]
+  },
+  {
+    "work_id": "GK19mala",
+    "title": "Mālatīmādhava",
+    "author": "Bhavabhūti",
+    "tradition": "Hindu",
+    "genre": "drama (prakaraṇa, a 10-act play of invented plot)",
+    "date_estimate": "c. early 8th century CE (fl. c. 700–730 CE)",
+    "summary": "The Mālatīmādhava is a ten-act prakaraṇa dramatizing the love of Mādhava and Mālatī, whose union is obstructed by her betrothal to another and by intrigue. The play is notable for its dark and macabre elements—a Kāpālika ascetic and his pupil attempt to sacrifice Mālatī to the goddess Cāmuṇḍā—combining romantic sentiment with cremation-ground horror and supernatural danger.",
+    "history": "Bhavabhūti (Śrīkaṇṭha Nīlakaṇṭha) was a Maharashtrian Brahmin poet-dramatist patronized at the court of Yaśovarman of Kanauj in the early 8th century. He is ranked just below Kālidāsa among Sanskrit dramatists and is also author of the Mahāvīracarita and Uttararāmacarita.",
+    "related_works": ["Uttararāmacarita", "Mahāvīracarita"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhavabhuti",
+      "https://en.wikipedia.org/wiki/Malatimadhava"
+    ]
+  },
+  {
+    "work_id": "GK19naicau",
+    "title": "Naiṣadhīya-carita",
+    "author": "Śrīharṣa",
+    "tradition": "Hindu",
+    "genre": "kavya (mahākāvya, court epic)",
+    "date_estimate": "c. second half of the 12th century CE",
+    "summary": "The Naiṣadhīyacarita (Naiṣadhacarita) is a mahākāvya in 22 cantos retelling the romance of King Nala of Niṣadha and Princess Damayantī of Vidarbha, drawn from the Mahābhārata, up to their marriage. It elaborates the swan messenger, Damayantī's svayaṃvara at which the gods disguise themselves as Nala, and Nala's testing—rendered in extraordinarily dense, learned, and ślesa-laden verse.",
+    "history": "Śrīharṣa was a 12th-century philosopher-poet of northern India, also author of the Advaita dialectical treatise Khaṇḍanakhaṇḍakhādya. Counted among the five great mahākāvyas, the poem is famed for its difficulty and is called a 'scholars' tonic' (vidvad-auṣadha), a test of Sanskrit erudition.",
+    "related_works": ["Mahābhārata", "Khaṇḍanakhaṇḍakhādya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Naishadha_Charita",
+      "https://www.britannica.com/topic/Naisadhacarita"
+    ]
+  },
+  {
+    "work_id": "GK19padnscpu",
+    "title": "Navasāhasāṅkacarita",
+    "author": "Padmagupta (Parimala)",
+    "tradition": "Hindu",
+    "genre": "kavya (historical mahākāvya / praśasti epic)",
+    "date_estimate": "c. 1000 CE (composed during reign of Sindhurāja, r. c. 997–1010)",
+    "summary": "The Navasāhasāṅkacarita is a mahākāvya in 18 cantos that romanticizes the Paramāra king Sindhurāja of Malwa (whose epithet was Navasāhasāṅka), centring on his quest and marriage to the princess Śaśiprabhā, narrated in a quasi-fairytale manner with vidyādharas and a Nāga quest. It blends courtly historical eulogy (praśasti) with romantic fantasy in the polished Vaidarbhī style.",
+    "history": "Padmagupta, also called Parimala (or Parimala-Kālidāsa), was a court poet of the Paramāra king Sindhurāja and states he composed the poem at the king's command. It is a valued, if poeticized, source for early-11th-century Paramāra dynastic history.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nava-sahasanka-charita",
+      "https://www.wisdomlib.org/definition/padmagupta"
+    ]
+  },
+  {
+    "work_id": "GK19padyavlu",
+    "title": "Padyāvalī",
+    "author": "Rūpa Gosvāmī",
+    "tradition": "Hindu (Gauḍīya Vaishnava / Bhakti)",
+    "genre": "anthology of devotional verse (subhāṣita/padya saṃgraha)",
+    "date_estimate": "c. 16th century CE",
+    "summary": "The Padyāvalī is an anthology of devotional Sanskrit verses (around 380–390 verses) compiled by Rūpa Gosvāmī, gathering compositions by over a hundred poet-devotees. The verses are arranged thematically around aspects of bhakti—the moods and aspirations of devotees and the deeds and pastimes of Krishna and his associates.",
+    "history": "Rūpa Gosvāmī (16th c.) was a leading disciple of Caitanya Mahāprabhu and a foundational theologian of the Gauḍīya Vaishnava tradition. The Padyāvalī preserves verses (some otherwise lost) drawn on by later Gauḍīya literature; it was critically edited by S. K. De (Dacca, 1934).",
+    "related_works": ["Bhaktirasāmṛtasindhu", "Gītagovinda"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/sanskrit/book/15/padyavali",
+      "https://vaniquotes.org/wiki/Padyavali"
+    ]
+  },
+  {
+    "work_id": "GK19raggancu",
+    "title": "Mahāgaṇapatistotra",
+    "author": "Rāghavacaitanya (attributed)",
+    "tradition": "Hindu",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "uncertain; if by the Vaishnava commentator Rāghavacaitanya, c. 16th century CE",
+    "summary": "A hymn of praise to Mahāgaṇapati, the 'Great Gaṇeśa,' the elephant-headed deity invoked as remover of obstacles and lord of beginnings. As a gaṇapati-stotra it would enumerate the deity's forms, names, and attributes and seek his grace; the specific text under this exact title and authorship is poorly documented.",
+    "history": "The hymn is ascribed to Rāghavacaitanya, a name borne by a Vaishnava teacher/commentator (associated with commentary on the Gītagovinda, c. 16th c.); the attribution of this particular Gaṇapati hymn to him could not be confirmed from accessible scholarly sources. Identification and dating remain tentative.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gita_Govinda"
+    ]
+  },
+  {
+    "work_id": "GK19ramodtpu",
+    "title": "Rāmodanta",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu",
+    "genre": "kavya (short narrative poem / pedagogical epitome)",
+    "date_estimate": "uncertain; likely late medieval / early modern, used as a Sanskrit primer",
+    "summary": "The Rāmodanta (Rāmodantam, 'The Account of Rāma') is a short Sanskrit poem that retells the entire story of the Rāmāyaṇa in simple, accessible verses following Vālmīki's narrative. Because of its simplicity it has long functioned as an introductory text for learning Sanskrit, presenting Rāma's life while exemplifying basic grammar and vocabulary.",
+    "history": "The work is anonymous in the received tradition and is widely used as a beginner's reader in traditional Sanskrit pedagogy, especially in South India. Its compact, didactic character distinguishes it from the great epic it summarizes.",
+    "related_works": ["Rāmāyaṇa (Vālmīki)"],
+    "confidence": "medium",
+    "sources": [
+      "https://chinfo.org/courses/sri-ramodantam/"
+    ]
+  },
+  {
+    "work_id": "GK19setu",
+    "title": "Setubandha",
+    "author": "Pravarasena",
+    "tradition": "Hindu",
+    "genre": "kavya (mahākāvya, in Prakrit)",
+    "date_estimate": "c. 5th century CE (disputed; some place it mid-3rd c. CE under the Vākāṭakas)",
+    "summary": "The Setubandha ('Building of the Bridge'), also called Rāvaṇavaho ('The Slaying of Rāvaṇa'), is a mahākāvya composed in Mahārāṣṭrī Prakrit that narrates the Rāmāyaṇa episode of Rāma's army building the bridge (setu) to Lanka and the ensuing war against Rāvaṇa. It is celebrated for its elaborate descriptive set-pieces and is the principal surviving early Prakrit court epic.",
+    "history": "It is attributed to a king Pravarasena (commonly identified with the Vākāṭaka ruler Pravarasena II); tradition variously connects it to Kālidāsa as well. Dating is disputed between the mid-3rd and the 5th century CE. It is the earliest extant Prakrit mahākāvya and was hugely influential as a model of Prakrit poetic style.",
+    "related_works": ["Rāmāyaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/setubandha",
+      "https://en.wikipedia.org/wiki/Pravarasena_II"
+    ]
+  },
+  {
+    "work_id": "GK19srngt_pu",
+    "title": "Śṛṅgāratilaka",
+    "author": "Rudrabhaṭṭa (Rudra Bhaṭṭa)",
+    "tradition": "Hindu (secular poetics)",
+    "genre": "philosophical/literary treatise on poetics (alaṃkāraśāstra), specifically on rasa",
+    "date_estimate": "uncertain; commonly placed c. 10th century CE (variously 10th–13th c.)",
+    "summary": "The Śṛṅgāratilaka ('Ornament of the Erotic') is a short treatise on Sanskrit poetics devoted specifically to rasa (aesthetic emotion), and especially to śṛṅgāra, the erotic sentiment. It is notable as the first independent Indian work to take rasa—and the typology of lovers (nāyaka/nāyikā) and the erotic mood—as its sole subject, illustrating the theory with verses.",
+    "history": "Its author Rudra Bhaṭṭa is poorly identified and sometimes conflated with the poetician Rudraṭa; his date, place, and even name are uncertain. The work is an important early link in the history of rasa theory and of nāyikābheda (classification of heroines). Sheldon Pollock has worked on a critical edition/translation.",
+    "related_works": [],
+    "confidence": "medium",
+    "sources": [
+      "https://sheldonpollock.org/archive/progress/pollock-2018-srngaratilaka.pdf",
+      "https://www.wisdomlib.org/definition/shringaratilaka",
+      "https://en.wikipedia.org/wiki/Rudrabhatta"
+    ]
+  },
+  {
+    "work_id": "GK19suvasavu",
+    "title": "Vāsavadattā",
+    "author": "Subandhu",
+    "tradition": "Hindu",
+    "genre": "kavya (ornate prose romance, gadya-kāvya)",
+    "date_estimate": "c. late 6th–early 7th century CE",
+    "summary": "The Vāsavadattā of Subandhu is an ornate prose romance (ākhyāyikā/kathā) recounting how Prince Kandarpaketu, after seeing Princess Vāsavadattā in a dream, journeys to find her; the lovers elope, she is turned to stone by a curse, and is finally restored. The work is famed less for its slender plot than for its dense, pun-laden (śleṣa) ornate prose style.",
+    "history": "Subandhu is praised by Bāṇa in the Harṣacarita, placing him before the 7th century; he is generally assigned to the late 6th or early 7th century CE. The Vāsavadattā is one of the earliest specimens of Sanskrit ornate prose romance and a forerunner of Bāṇa's Kādambarī and Harṣacarita.",
+    "related_works": ["Kādambarī", "Harṣacarita", "Daśakumāracarita"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/vasavadatta",
+      "https://archive.org/details/vasavadattasansk00suba"
+    ]
+  },
+  {
+    "work_id": "GK19uddkokpu",
+    "title": "Kokilasandeśa",
+    "author": "Uddaṇḍa (Uddaṇḍa Śāstrī)",
+    "tradition": "Hindu",
+    "genre": "kavya (sandeśa / dūta 'messenger' poem)",
+    "date_estimate": "c. 15th century CE",
+    "summary": "The Kokilasandeśa ('Message of the Koel') is a messenger poem of about 162 verses in which a nameless hero, carried off from his wife by mysterious women, sends a message of love to her by way of a koel (Indian cuckoo). Modelled on Kālidāsa's Meghadūta, it traces the bird's route across Kerala, lavishly describing the towns, rivers, and temples along the way.",
+    "history": "Its author Uddaṇḍa Śāstrī (originally Irugupanātha) was a 15th-century Tamil Brahmin scholar who migrated west and found patronage at the Zamorin's court in Calicut, where he earned the title 'Uddaṇḍa' ('pre-eminent'). It is among the most celebrated of the many Kerala sandeśa kāvyas and a valued source for Kerala's historical geography.",
+    "related_works": ["Meghadūta", "Mayūrasandeśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kokila_Sande%C5%9Ba",
+      "https://www.wisdomlib.org/history/essay/sanskrit-sources-of-kerala-history/d/doc1239704.html"
+    ]
+  },
+  {
+    "work_id": "GK20bhasdutu",
+    "title": "Dūtavākya",
+    "author": "Bhāsa",
+    "tradition": "Hindu",
+    "genre": "drama (one-act vyāyoga / play)",
+    "date_estimate": "attributed to Bhāsa; commonly c. 2nd–4th c. CE (Bhāsa's dating disputed)",
+    "summary": "Dūtavākya ('The Envoy's Message') is a one-act play in which Krishna goes as the Pāṇḍavas' peace envoy to Duryodhana's court on the eve of the Mahābhārata war. It dramatizes the verbal confrontation between Krishna and the defiant Duryodhana, culminating in Krishna's display of his cosmic form and his weapons before the assembled kings.",
+    "history": "It is one of the so-called 'Trivandrum plays' recovered in the early 20th century and attributed to Bhāsa, among his cycle of short Mahābhārata-based dramas (with Madhyamavyāyoga, Karṇabhāra, Ūrubhaṅga, Dūtaghaṭotkaca). Bhāsa is cited by Kālidāsa as a predecessor; his exact dates and the authorship of the Trivandrum plays remain debated.",
+    "related_works": ["Mahābhārata (Udyogaparvan)", "Svapnavāsavadatta", "Ūrubhaṅga", "Karṇabhāra"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/book/bhasa-critical-and-historical-study/d/doc1473537.html",
+      "https://www.wisdomlib.org/concept/dutavakya"
+    ]
+  },
+  {
+    "work_id": "GK20bhassv_u",
+    "title": "Svapnavāsavadatta",
+    "author": "Bhāsa",
+    "tradition": "Hindu",
+    "genre": "drama (nāṭaka, six-act play)",
+    "date_estimate": "attributed to Bhāsa; commonly c. 2nd–4th c. CE (dating disputed)",
+    "summary": "Svapnavāsavadatta ('The Dream of Vāsavadattā') is a six-act play telling how King Udayana of Vatsa, having lost his kingdom, is persuaded by his minister Yaugandharāyaṇa to marry Padmāvatī of Magadha for political alliance; his beloved queen Vāsavadattā, believed dead, lives in disguise. The famous 'dream' scene, in which the sleeping Udayana speaks of his love and Vāsavadattā overhears, is among the most admired in Sanskrit theatre.",
+    "history": "Generally regarded as the finest of the Trivandrum plays attributed to Bhāsa, recovered by T. Gaṇapati Śāstrī in 1909–10. Bhāsa predates Kālidāsa (who names him); his date is uncertain and the attribution of the plays continues to be debated. The drama draws on the Udayana legend cycle (Bṛhatkathā).",
+    "related_works": ["Pratijñāyaugandharāyaṇa", "Bṛhatkathā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Svapnavasavadattam",
+      "https://www.sanskritbhuvan.com/2020/08/Bhasa.html"
+    ]
+  },
+  {
+    "work_id": "GK20bhveni_u",
+    "title": "Veṇīsaṃhāra",
+    "author": "Bhaṭṭanārāyaṇa",
+    "tradition": "Hindu",
+    "genre": "drama (nāṭaka, six-act play)",
+    "date_estimate": "c. late 7th–early 8th century CE (fl. c. 700 CE)",
+    "summary": "The Veṇīsaṃhāra ('The Binding of the Braid') is a six-act play dramatizing the Mahābhārata war, built around Bhīma's vow to avenge the outrage of Draupadī: he will not let her rebind her loosened hair until he has slain Duḥśāsana and Duryodhana and smeared her braid with their blood. The play emphasizes vīra (heroic) and raudra (furious) rasa and culminates in the fulfilment of the vow.",
+    "history": "Bhaṭṭanārāyaṇa flourished around 700 CE; tradition makes him one of the Brahmins invited to Bengal, and he is the earliest source for the dramatic motif of Draupadī's blood-bound braid. The play has attracted commentaries (e.g. Jagaddhara's) and is a standard text of classical Sanskrit dramaturgy.",
+    "related_works": ["Mahābhārata"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/bhattanarayana",
+      "https://www.wisdomlib.org/hinduism/essay/dramaturgy-in-the-venisamhara/d/doc1211317.html"
+    ]
+  },
+  {
+    "work_id": "GK20dramfrag_pu",
+    "title": "Dramatic Fragments (buddhist)",
+    "author": "Aśvaghoṣa (and unidentified author[s])",
+    "tradition": "Buddhist",
+    "genre": "drama (fragmentary plays)",
+    "date_estimate": "c. 1st–2nd century CE",
+    "summary": "These are the fragmentary remains of early Buddhist Sanskrit plays recovered from the Turfan (Central Asia) palm-leaf finds. They include the colophon-bearing Śāriputraprakaraṇa, a nine-act drama by Aśvaghoṣa dramatizing the conversion of the disciples Śāriputra and Maudgalyāyana, together with fragments of one or more allegorical/morality plays featuring personified figures (e.g. Buddhi, Kīrti, Dhṛti).",
+    "history": "The fragments were discovered in the Berlin Turfan collection and edited by Heinrich Lüders (Bruchstücke buddhistischer Dramen, Berlin 1911). They are among the oldest surviving specimens of Sanskrit drama, predating Bhāsa and Kālidāsa, and attest the use of theatre for Buddhist religious propagation under Aśvaghoṣa (1st–2nd c. CE, associated with the Kuṣāṇa court of Kaniṣka).",
+    "related_works": ["Śāriputraprakaraṇa", "Buddhacarita", "Saundarananda"],
+    "confidence": "high",
+    "sources": [
+      "http://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_dramatic-fragments-buddhist.htm",
+      "https://ancient-buddhist-texts.net/Reference/Buddhist-Drama.htm"
+    ]
+  },
+  {
+    "work_id": "GK20harnagau",
+    "title": "Nāgānandanāṭaka",
+    "author": "Harṣa (Harṣadeva / Śrīharṣadeva)",
+    "tradition": "Hindu/Buddhist (Buddhist-themed play by a Hindu king)",
+    "genre": "drama (nāṭaka, five-act play)",
+    "date_estimate": "c. first half of the 7th century CE (r. 606–647 CE)",
+    "summary": "The Nāgānanda ('Joy of the Nāgas') is a five-act play that dramatizes the legend of the vidyādhara prince Jīmūtavāhana, who, embodying Buddhist compassion, offers his own body to the bird-god Garuḍa to save a young Nāga destined to be devoured, thereby ending Garuḍa's slaughter of the serpents. It blends a romantic first portion (Jīmūtavāhana's love for Malayavatī) with a strongly self-sacrificial, Bodhisattva-like climax.",
+    "history": "Attributed to the emperor Harṣa of Kanauj (also credited with the plays Ratnāvalī and Priyadarśikā). The Nāgānanda is unusual for its Buddhist ethos and its benedictory verse to the Buddha (and/or Gaurī), reflecting Harṣa's syncretic patronage. The story parallels material later found in the Kathāsaritsāgara.",
+    "related_works": ["Ratnāvalī", "Priyadarśikā", "Bṛhatkathā / Kathāsaritsāgara"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nagananda",
+      "https://handwiki.org/wiki/Religion:Nagananda"
+    ]
+  }
+]

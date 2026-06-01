@@ -1,0 +1,329 @@
+[
+  {
+    "work_id": "M00209",
+    "title": "Śivadharma (Śivadharmaśāstra)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva (lay/devotional Śaivism)",
+    "genre": "dharmaśāstra / Śaiva religious treatise (smṛti-style)",
+    "date_estimate": "c. 6th-7th c. CE (earliest layer of the Śivadharma corpus; before 12th c.)",
+    "summary": "The Śivadharmaśāstra is the foundational text of the Śivadharma corpus, a body of works prescribing the religious duties, devotional practices, and observances of the lay Śaiva community. It treats topics such as worship of the Śivaliṅga, gift-giving (dāna), the merit of building and maintaining temples, vows, and the conduct expected of a Śiva devotee. It is cast as a dialogue, traditionally narrated by Nandikeśvara (Nandi) to the sages.",
+    "history": "It is among the earliest surviving devotional Śaiva texts, immensely influential as shown by abundant manuscript evidence (especially from Nepal) and inscriptions, and it even served as a source for the Buddhist Kāraṇḍavyūhasūtra. Its narration is traditionally ascribed to Nandin, so it is also cited as 'Nandiprokta.' It circulates as the first of usually six to eight texts that make up the Śivadharma corpus.",
+    "related_works": ["Śivadharmottara", "Śivadharmasaṃgraha", "Umāmaheśvarasaṃvāda", "Śivopaniṣad", "Vṛṣasārasaṃgraha"],
+    "confidence": "high",
+    "sources": [
+      "https://shaivastudies.in/siva-dharmasastra-the-foundational-text-of-devotional-saivism/",
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/1",
+      "https://www.academia.edu/38180902/Buddhist_and_%C5%9Aaiva_Interactions_in_the_Kali_Age_The_%C5%9Aivadharma%C5%9B%C4%81stra_as_a_Source_of_the_K%C4%81ra%E1%B9%87%E1%B8%8Davy%C5%ABhas%C5%ABtra"
+    ]
+  },
+  {
+    "work_id": "M00210",
+    "title": "Śivadharma Nandiprokta (Śivadharmaśāstra, 'spoken by Nandin')",
+    "author": "anonymous/traditional (narrated by Nandikeśvara)",
+    "tradition": "Hindu, Śaiva (lay/devotional Śaivism)",
+    "genre": "dharmaśāstra / Śaiva religious treatise",
+    "date_estimate": "c. 6th-7th c. CE (before 12th c.)",
+    "summary": "This title ('Śivadharma spoken by Nandin') refers to the Śivadharmaśāstra, the foundational text of the Śivadharma corpus, framed as the teaching delivered by Nandikeśvara (Nandin) on the religious duties of lay Śaivas. It covers Śivaliṅga worship, dāna (gift-giving), temple endowment, vows, and the merit of devotion to Śiva.",
+    "history": "The epithet 'Nandiprokta' marks the work's traditional ascription of narration to Nandin and indicates this is the same text as the Śivadharmaśāstra rather than a separate work. It is the earliest and most influential component of the Śivadharma corpus, widely transmitted in Nepalese and South Indian manuscript traditions.",
+    "related_works": ["Śivadharmaśāstra", "Śivadharmottara", "Śivadharmasaṃgraha"],
+    "confidence": "medium",
+    "sources": [
+      "https://shaivastudies.in/siva-dharmasastra-the-foundational-text-of-devotional-saivism/",
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-01694-00001/1"
+    ]
+  },
+  {
+    "work_id": "M00211",
+    "title": "Śivadharmottara",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva (lay/devotional Śaivism)",
+    "genre": "dharmaśāstra / Śaiva religious treatise",
+    "date_estimate": "c. 7th-9th c. CE (after the Śivadharmaśāstra; before 12th c.)",
+    "summary": "The Śivadharmottara is the second principal text of the Śivadharma corpus, a sequel ('uttara') to the Śivadharmaśāstra. In roughly 1,750 verses across about twelve chapters it expounds dharma, worldly enjoyment (bhukti) and liberation (mukti), with emphasis on gift-giving, the merit of teaching and copying the Śivadharma itself, devotional discipline, and a notable chapter on yoga and meditation.",
+    "history": "Composed somewhat later than the Śivadharmaśāstra, it became one of the two most authoritative Śivadharma texts, transmitted widely in Nepal, South India and Odisha. It is sometimes classed as an upāgama of the Śarvoktāgama within the Siddhānta scheme and survives in versions of twelve or thirteen chapters in different manuscript traditions.",
+    "related_works": ["Śivadharmaśāstra", "Śivadharma corpus", "Śivadharmasaṃgraha"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/shivadharmottara",
+      "https://royalasiaticcollections.org/south-indian-sanskrit-ms-156-whish-ms-162sivadharmottara/",
+      "https://zenodo.org/records/7901820"
+    ]
+  },
+  {
+    "work_id": "M00212",
+    "title": "Mṛgendrapaddhatiṭīkā",
+    "author": "Naṭeśaguru (alias Vaktraśambhu); on the Mṛgendrapaddhati attributed to Aghoraśivācārya",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "bhāṣya/ṭīkā (commentary) on a ritual manual (paddhati)",
+    "date_estimate": "ṭīkā likely 13th c. or later; base Mṛgendrapaddhati mid-12th c. CE (Tamil country)",
+    "summary": "This is the commentary (ṭīkā) on the Mṛgendrapaddhati, a Śaiva Siddhānta ritual manual that systematizes the practices taught in the Mṛgendrāgama (an authoritative Siddhānta scripture, an upāgama of the Kāmikāgama). The work transmits the rules of initiation, daily and occasional worship, and temple ritual, with the commentary clarifying the terse procedural verses.",
+    "history": "The Mṛgendrapaddhati is associated with Aghoraśivācārya (mid-12th c.), the major systematizer of South Indian Śaiva Siddhānta; the ṭīkā is by Naṭeśaguru, known also as Vaktraśambhu, son of one Śaṃkara, per its colophon. Both text and commentary survive only in manuscript and have been studied/edited by the French Institute of Pondicherry.",
+    "related_works": ["Mṛgendrapaddhati", "Mṛgendrāgama", "Kāmikāgama"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.ifpindia.org/projects/saiva-ritual-manual-mrigendrapaddhatitika/",
+      "https://books.openedition.org/ifp/1788?lang=en",
+      "https://www.wisdomlib.org/definition/shaivagama"
+    ]
+  },
+  {
+    "work_id": "M00213",
+    "title": "Yogasārasaṃgraha",
+    "author": "Vijñānabhikṣu",
+    "tradition": "Hindu (Pātañjala Yoga / Sāṃkhya, integrated with Bhedābheda Vedānta)",
+    "genre": "philosophical treatise / compendium (saṃgraha) on Yoga",
+    "date_estimate": "16th c. CE",
+    "summary": "The Yogasārasaṃgraha is a concise prose digest of the essentials of Pātañjala Yoga compiled by Vijñānabhikṣu, distilling the substance of his larger commentary, the Yogavārttika (on the Yogasūtras and the Vyāsabhāṣya). It presents the key concepts and stages of yoga practice in an accessible, systematic form.",
+    "history": "Vijñānabhikṣu (15th-16th c., from Bihar) was a major commentator who wrote on Vedānta, Sāṃkhya and Yoga and sought to integrate them on a non-dualist (Bhedābheda) basis. The Yogasārasaṃgraha was edited and translated into English by Gaṅgānātha Jhā. (Note: a distinct Śaiva 'Yogasārasaṃgraha' also exists; this entry follows the best-attested identification.)",
+    "related_works": ["Yogavārttika", "Yogasūtra of Patañjali", "Vyāsabhāṣya (Yogabhāṣya)"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vijnanabhiksu",
+      "https://www.wisdomlib.org/definition/yogasarasamgraha"
+    ]
+  },
+  {
+    "work_id": "M00214",
+    "title": "Paraśurāmakalpasūtra",
+    "author": "traditionally ascribed to Paraśurāma (compiled by Sumedha); historically anonymous",
+    "tradition": "Hindu, Śākta (Śrīvidyā / Kaula)",
+    "genre": "sūtra / Tantric ritual manual (kalpasūtra)",
+    "date_estimate": "c. 16th-17th c. CE (probably South India)",
+    "summary": "The Paraśurāmakalpasūtra is a terse aphoristic manual of Śrīvidyā Tantric worship of the goddess Lalitā-Tripurasundarī and associated deities (including Gaṇapati), set out in sūtra form. It codifies the Kaula ritual procedures, mantras, and the construction of the Śrīcakra used in the cult of the goddess.",
+    "history": "Traditionally attributed to the avatāra Paraśurāma and said to have been compiled by his disciple Sumedha, it is in fact an anonymous text of roughly the 16th-17th century from South India, with roots in the Dattātreya tradition. Its aphorisms are cryptic and are typically read with Rameśvara's commentary (Saubhāgyodaya, 1831 CE), making it a central practical text of Śrīvidyā.",
+    "related_works": ["Tripurārahasya", "Śrīvidyārṇavatantra", "Dattātreya tantra tradition", "Rameśvara's Saubhāgyodaya (commentary)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Parashurama_Kalpasutra",
+      "https://www.hindu-blog.com/2020/04/parasurama-kalpasutra-tantric-text-on.html",
+      "https://en.wikipedia.org/wiki/Shri_Vidya"
+    ]
+  },
+  {
+    "work_id": "M00215",
+    "title": "Parātriśikāvivṛti (Parātrīśikāvivaraṇa)",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu, Kashmir Shaivism (Trika)",
+    "genre": "bhāṣya/commentary (vivaraṇa/vivṛti) on a Tantric scripture",
+    "date_estimate": "c. late 10th - early 11th c. CE",
+    "summary": "This is Abhinavagupta's extensive commentary on the Parātriśikā (Parātrīśikā), a short Trika scriptural text of around 36 verses (drawn from the Rudrayāmala) on the supreme goddess Parā and the metaphysics of sound, mantra, and the phonematic emanation of reality. In it Abhinavagupta develops his non-dual Trika philosophy, the doctrine of recognition (pratyabhijñā), and the highest 'anuttara' teaching.",
+    "history": "Abhinavagupta (fl. c. 975-1025 CE), the great polymath of Kashmir, wrote two commentaries on this text: a longer Vivaraṇa (often called Parātriśikāvivṛti) and a shorter Laghuvṛtti. The Vivaraṇa is one of his most philosophically dense works and a cornerstone of Trika Śaiva metaphysics and mantra theory.",
+    "related_works": ["Parātrīśikā (Parātriṃśikā)", "Rudrayāmala", "Parātrīśikālaghuvṛtti", "Tantrāloka"],
+    "confidence": "high",
+    "sources": [
+      "https://www.sanskrit-trikashaivism.com/en/paratrishika-vivarana-trika-scriptures-non-dual-shaivism-of-kashmir-stanzas-5-to-8-part-3/800",
+      "https://www.anuttaratrikakula.org/abhinava/"
+    ]
+  },
+  {
+    "work_id": "M00216",
+    "title": "Gurustutiratnāvalī",
+    "author": "Govinda Kaula",
+    "tradition": "Hindu, Kashmir Shaivism (Śākta-Śaiva)",
+    "genre": "stotra (devotional hymn) in praise of the guru",
+    "date_estimate": "18th c. CE",
+    "summary": "The Gurustutiratnāvalī ('String of Jewels in Praise of the Guru') is a sophisticated Sanskrit hymn by Govinda Kaula of Kashmir celebrating his lineage teacher, the prolific author Sāhib Kaula, and equating the guru with the supreme deity Śiva. It is a literary expression of guru-devotion (gurubhakti) within the Kashmirian Śaiva-Śākta tradition.",
+    "history": "Govinda Kaula was an eighteenth-century Kashmirian author writing in the post-classical Kashmir Shaiva milieu; the hymn praises his teacher's teacher Sāhib Kaula. The work survives in several manuscripts and has been studied as a window onto the history of guru-stuti and guru-devotion in Kashmir and South Asia more broadly.",
+    "related_works": ["works of Sāhib Kaula", "Kashmirian gurustuti / gurubhakti tradition"],
+    "confidence": "high",
+    "sources": [
+      "https://brill.com/view/journals/iij/64/4/article-p348_2.xml?language=en",
+      "https://escholarship.mcgill.ca/downloads/gm80j1553"
+    ]
+  },
+  {
+    "work_id": "M00217",
+    "title": "Śrīvidyārṇavatantra",
+    "author": "Vidyāraṇya Yati (Śrīvidyāraṇya)",
+    "tradition": "Hindu, Śākta (Śrīvidyā Tantra)",
+    "genre": "tantra / comprehensive ritual and mantra compendium",
+    "date_estimate": "disputed; commonly placed c. 16th-17th c. CE (later than the famed 14th-c. Vidyāraṇya)",
+    "summary": "The Śrīvidyārṇava ('Ocean of Śrīvidyā') is a large, comprehensive Tantric manual of mantraśāstra and Śākta worship, especially of the goddess in the Śrīvidyā tradition. Divided into pūrva and uttara halves of eighteen chapters (śvāsa) each, it served as a textbook for mantra instruction in certain brahminical circles and even discusses Buddhist deities and mantras absorbed into the Hindu Tantras.",
+    "history": "It is attributed to a Vidyāraṇya Yati (Śrīvidyāraṇya); the attribution to the renowned 14th-century Vidyāraṇya of Vijayanagara/Sringeri is doubtful, and the text is generally regarded as a later compilation. It is an important encyclopedic source for Śrīvidyā and tantric practice, frequently cited in studies of cross-traditional mantra borrowing.",
+    "related_works": ["Tantrasāra", "Paraśurāmakalpasūtra", "Śrīvidyā tradition"],
+    "confidence": "medium",
+    "sources": [
+      "https://manasataramgini.wordpress.com/2006/03/26/shri-vidyaranaya-yati-and-his-shrividyarnava/",
+      "https://link.springer.com/article/10.1023/A:1003926505063",
+      "https://www.wisdomlib.org/definition/shrividya"
+    ]
+  },
+  {
+    "work_id": "M00218",
+    "title": "Parameśvarīmatatantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva-Śākta (Kubjikā / Paścimāmnāya Kaula)",
+    "genre": "tantra (scripture)",
+    "date_estimate": "uncertain; likely 1st-2nd millennium CE Kaula tantra (medieval)",
+    "summary": "The Parameśvarīmatatantra is a Tantric scripture associated with the cult of the goddess (the 'Parameśvarī'), connected to the Kubjikā / Paścimāmnāya stream of goddess-centred Kaula Śaivism. Such texts teach the worship of the supreme Goddess, her mantras, maṇḍalas, yogic anatomy, and esoteric ritual practice.",
+    "history": "It belongs to the broad corpus of goddess-oriented Kaula tantras (the Kubjikā tradition and related Bhairava/Śākta scriptures); precise authorship and date are not securely established. It should be distinguished from the Saiddhāntika Pārameśvaratantra (a different, dated Śaiva Siddhānta scripture).",
+    "related_works": ["Kubjikāmatatantra", "Manthānabhairavatantra", "Paścimāmnāya Kaula corpus"],
+    "confidence": "low",
+    "sources": [
+      "https://manmitkumarr.com/who-is-kubjika-and-why-she-matters-to-every-tantra-sadhak/",
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-01049-00001/46"
+    ]
+  },
+  {
+    "work_id": "M00219",
+    "title": "Vātulottarāgama (Vātulottara)",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "āgama (scripture) / upāgama",
+    "date_estimate": "uncertain; medieval (1st-2nd millennium CE)",
+    "summary": "The Vātulottarāgama ('vatullotarāgama') is an upāgama (supplementary scripture) of the Vātulāgama, one of the twenty-eight Siddhāntāgamas that form the canonical Śaiva Siddhānta revelation. As an āgama it treats the standard four-fold matter of doctrine, yoga, ritual, and conduct (jñāna, yoga, kriyā, caryā), elaborating worship, initiation, and temple practice of Śiva.",
+    "history": "Within the Siddhānta classification the twenty-eight mūlāgamas each have associated upāgamas; the Vātulottara is listed among the upāgamas of the Vātulāgama. Such upāgamas were held to expound the parent scripture more fully and to add new material; they survive chiefly in South Indian manuscript traditions.",
+    "related_works": ["Vātulāgama", "Vātulaśuddhāgama", "the twenty-eight Siddhāntāgamas"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/vatulottara",
+      "https://www.wisdomlib.org/definition/vatulagama",
+      "https://www.wisdomlib.org/definition/siddhantagama"
+    ]
+  },
+  {
+    "work_id": "M00220",
+    "title": "Somaśambhupaddhativyākhyā",
+    "author": "uncertain (commentary on the Somaśambhupaddhati of Somaśambhu)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "vyākhyā (commentary) on a ritual manual (paddhati)",
+    "date_estimate": "commentary post-1100 CE; base text Somaśambhupaddhati 1048/49 CE",
+    "summary": "This is a commentary (vyākhyā) on the Somaśambhupaddhati (also called Kriyākāṇḍakramāvalī), the influential eleventh-century Śaiva Siddhānta manual of ritual composed by Somaśambhu, abbot of the Golakī monastery. The parent paddhati systematizes initiation (dīkṣā), consecration, daily and occasional rites, funerary ritual, and expiations; the vyākhyā explains its procedures and terminology.",
+    "history": "The Somaśambhupaddhati (1048/49 CE) was one of the most authoritative Saiddhāntika ritual digests and was revised and commented on by later Southern authors (e.g. in the lineage of Trilocanaśiva and others) in the eleventh-twelfth centuries; it was studied and translated by Hélène Brunner. The precise author of this particular vyākhyā is not securely identified here.",
+    "related_works": ["Somaśambhupaddhati (Kriyākāṇḍakramāvalī)", "Saiddhāntika paddhati literature"],
+    "confidence": "low",
+    "sources": [
+      "https://journals.akademicka.pl/cis/article/view/1534",
+      "https://www.proquest.com/docview/217124285"
+    ]
+  },
+  {
+    "work_id": "M00221",
+    "title": "Tripurārahasya, Māhātmyakhaṇḍa",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śākta (Tripurā / Śrīvidyā)",
+    "genre": "purāṇa-style māhātmya (narrative glorification) within a Tantric framework",
+    "date_estimate": "c. 13th-16th c. CE (South India)",
+    "summary": "The Māhātmyakhaṇḍa ('Section on Glorification') is one of the two extant sections of the Tripurārahasya, a Śākta work affiliated with the cult of the goddess Tripurā (later Śrīvidyā). This section narrates, in purāṇic style, the deeds and greatness of Tripurā and the goddesses regarded as her manifestations, embedding Tantric theology within mythological narrative.",
+    "history": "The Tripurārahasya survives in a Māhātmyakhaṇḍa and a Jñānakhaṇḍa (a third Caryākhaṇḍa is lost). On the evidence of its mythic origin-story and the sources it cites, it is dated relatively to the 13th-16th centuries and located in South India. It is a key text of the Tripurā/Śrīvidyā Śākta tradition.",
+    "related_works": ["Tripurārahasya (Jñānakhaṇḍa)", "Śrīvidyārṇavatantra", "Paraśurāmakalpasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tripura_Rahasya",
+      "https://ochs.org.uk/2021/03/27/tantric-elements-embedded-in-a-pura%E1%B9%87ic-context-the-example-of-the-mahatmyakha%E1%B9%87%E1%B8%8Da-of-the-tripurarahasya/",
+      "https://www.routledge.com/Goddess-Traditions-in-India-Theological-Poems-and-Philosophical-Tales-in-the-Tripurarahasya/SchwarzLinder/p/book/9781032232867"
+    ]
+  },
+  {
+    "work_id": "M00223",
+    "title": "Vāruṇapaddhati",
+    "author": "Varuṇaśivācārya",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "paddhati (ritual manual)",
+    "date_estimate": "medieval; based on classical Siddhāntāgamas (compiled before the 16th c.)",
+    "summary": "The Vāruṇapaddhati (also called Ātmārthapūjāpaddhati) is a detailed yet compact Śaiva Siddhānta manual on personal ('ātmārtha') worship and ritual practice. Varuṇaśivācārya compiled it from the major Śaivasiddhāntāgamas, organizing initiation, daily worship, and liturgical procedure into a systematic guide for practitioners.",
+    "history": "Varuṇaśiva opens the work by invoking many of the great Siddhāntācāryas and draws extensively on their writings, making the paddhati an important witness to the Saiddhāntika ritual tradition. The text was edited and published in the latter half of the twentieth century.",
+    "related_works": ["Somaśambhupaddhati", "Śaivasiddhāntāgamas", "Ātmārthapūjāpaddhati literature"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/paddhati",
+      "https://www.academia.edu/9140449/The_%C5%9Aaiva_Literature_Journal_of_Indological_Studies_Kyoto_Nos_24_and_25_2012_2013_2014_pp_1_113"
+    ]
+  },
+  {
+    "work_id": "M00226",
+    "title": "Śivajñānasiddhi",
+    "author": "uncertain (a Śivajñānasiddhi is associated with Arulnandi Śivācārya; Tamil tradition)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "philosophical treatise (siddhānta) on Śaiva knowledge",
+    "date_estimate": "uncertain; Tamil Śaiva Siddhānta canon c. 13th-14th c. CE (if = Śivajñānasiddhiyār)",
+    "summary": "Śivajñānasiddhi ('Establishment of the Knowledge of Śiva') is the title of a doctrinal work of Śaiva Siddhānta expounding the system's core metaphysics: the three principles pati (Lord), paśu (bound souls) and pāśa (bondage), and the path to liberation through Śiva's grace. It defends the Saiddhāntika position against rival schools.",
+    "history": "The name corresponds to the Tamil Śivajñānasiddhiyār of Aruḷnandi Śivācārya, one of the fourteen canonical Meykaṇṭa Śāstras of Tamil Śaiva Siddhānta, which seconds and elaborates Meykaṇṭār's Śivajñānabodham. As a Sanskrit title the precise text and author cannot be securely fixed here.",
+    "related_works": ["Śivajñānabodham (Meykaṇṭār)", "Meykaṇṭa Śāstras", "Śaiva Siddhānta canon"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/shivajnanasiddhi",
+      "https://en.wikipedia.org/wiki/Meykandar"
+    ]
+  },
+  {
+    "work_id": "M00227",
+    "title": "Sarvajñānottaravṛtti",
+    "author": "Aghoraśivācārya",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "vṛtti (commentary) on a Tantric scripture",
+    "date_estimate": "12th c. CE (commentary); base Sarvajñānottaratantra c. 7th c. CE",
+    "summary": "The Sarvajñānottaravṛtti is Aghoraśivācārya's commentary on the Sarvajñānottaratantra, an early Saiddhāntika Śaiva scripture especially valued for its sections on yoga and Śaiva doctrine. The commentary expounds the tantra's teaching on the soul, bondage, knowledge, and yogic practice within the Śaiva Siddhānta framework.",
+    "history": "Aghoraśivācārya (mid-12th c., Tamil country) was the foremost systematizer of South Indian Śaiva Siddhānta and a prolific commentator. The Sarvajñānottara, a 7th-century scripture, later acquired nondualist readings and became a proof text for Saiddhāntika theologians; Aghoraśiva's vṛtti survives in manuscript (e.g. at the IFP, Pondicherry) and covers the Yogaprakaraṇa among other sections.",
+    "related_works": ["Sarvajñānottaratantra", "other works of Aghoraśivācārya (e.g. Mṛgendrapaddhati, Tattvaprakāśavṛtti)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/aghorashiva-acarya",
+      "https://link.springer.com/article/10.1007/s10781-024-09579-3"
+    ]
+  },
+  {
+    "work_id": "M00228",
+    "title": "Śaivāgamādimāhātmya (Śivāgamādimāhātmyasaṃgraha)",
+    "author": "Jñānaprakāśa of Śālivāṭi (Jaffna)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "doctrinal treatise / compilation (saṃgraha) glorifying the Śaiva Āgamas",
+    "date_estimate": "late 16th - early 17th c. CE",
+    "summary": "The Śivāgamādimāhātmyasaṃgraha is a treatise that establishes the supreme authority and validity of the Śaiva Āgamas and the doctrines of Śaiva Siddhānta. It compiles passages glorifying Śaiva scripture and supplements them with the author's own explanatory comments, defending the primacy of Śaiva revelation.",
+    "history": "Its author Śālivāṭi Jñānaprakāśa was a prolific Śaiva Siddhānta ācārya from Tirunelveli (Śālivāṭi) in Jaffna, Sri Lanka, active in the late sixteenth to early seventeenth century; he is also known for commentaries on the Pauṣkarāgama. The work reflects the late-Saiddhāntika effort to assert Śaiva scriptural supremacy.",
+    "related_works": ["Pauṣkarāgama", "Śaivāgamas", "works of Umāpati Śivācārya"],
+    "confidence": "high",
+    "sources": [
+      "https://www.scribd.com/document/422609836/%C5%9Aiv%C4%81gam%C4%81dim%C4%81h%C4%81tmyasa%E1%B9%83graha-of-%C5%9A%C4%81liv%C4%81%E1%B9%ADi-Jn%C4%81naprak%C4%81%C5%9Ba",
+      "https://ochs.org.uk/lecture/paukargama-the-aivasiddhnta-doctrinal-base-in-its-later-developments-two-commentators-umpati-and-jnnapraka-of-livi-jaffna/"
+    ]
+  },
+  {
+    "work_id": "M00229",
+    "title": "Mantrakaumudī",
+    "author": "Devanātha Ṭhakkura (Tarkapañcānana)",
+    "tradition": "Hindu, Tantric/Smārta (Maithila tradition)",
+    "genre": "Tantric / mantraśāstra digest (nibandha)",
+    "date_estimate": "uncertain; Maithila author, likely c. 16th-17th c. CE",
+    "summary": "The Mantrakaumudī ('Moonlight of Mantras') is a digest on mantraśāstra and Tantric ritual practice compiled by the Maithila scholar Devanātha Ṭhakkura. It systematizes the use of mantras, deity worship, and associated ritual procedures for practitioners in the Mithila Tantric milieu.",
+    "history": "Devanātha Ṭhakkura, also styled Tarkapañcānana, was a Maithila author credited with both the Mantrakaumudī and a companion Tantrakaumudī. The works belong to the rich tradition of Maithila Tantric and ritual digests (nibandhas); the Tantrakaumudī has been printed in the Internet Archive collections.",
+    "related_works": ["Tantrakaumudī", "Maithila Tantric nibandha literature"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/devanatha",
+      "https://archive.org/details/TantraKaumudiMMDevaNathThakkurTarkaPanchanana"
+    ]
+  },
+  {
+    "work_id": "M00231",
+    "title": "Kaulāvalīnirṇaya",
+    "author": "Jñānānanda Paramahaṃsa (Jñānānandagiri)",
+    "tradition": "Hindu, Śākta (Kaula Tantra)",
+    "genre": "tantra / Kaula ritual digest (nirṇaya)",
+    "date_estimate": "uncertain; medieval/early-modern (before 16th c.; printed 1928)",
+    "summary": "The Kaulāvalīnirṇaya ('Determination of the Sequence/Series of Kaula [Rites]') is a compendium of Kaula Tantric doctrine and ritual practice, treating the worship, mantras, and esoteric observances of the Kaula left-hand (vāmācāra) Śākta tradition. It serves as a practical and doctrinal handbook for Kaula initiates.",
+    "history": "Its author Jñānānanda Paramahaṃsa is known essentially only from this work; the text was edited and published by Arthur Avalon (Sir John Woodroffe) in 1928 within his Tantric Texts series. It is a frequently cited authority on Kaula ritual but its precise date of composition is undetermined.",
+    "related_works": ["Kaula Tantric corpus", "Tantric Texts series (Arthur Avalon)"],
+    "confidence": "medium",
+    "sources": [
+      "https://shivashakti.com/kaulav",
+      "https://hinduonline.co/Scriptures/Tantra/Kaulavalinirnaya.html"
+    ]
+  },
+  {
+    "work_id": "M00232",
+    "title": "Kriyāsāratattvaprakāśinīvyākhyā",
+    "author": "uncertain (a commentary on the Kriyāsāra of Nīlakaṇṭhaśivācārya)",
+    "tradition": "Hindu, Vīraśaiva (Śaiva)",
+    "genre": "vyākhyā (commentary)",
+    "date_estimate": "commentary later than base text; Kriyāsāra c. 1350-1450 CE",
+    "summary": "This is a commentary (the 'Tattvaprakāśinī vyākhyā') on the Kriyāsāra ('Essence of Ritual Action'), a venerated Vīraśaiva work by Nīlakaṇṭhaśivācārya treating Śaiva ritual, worship of the Śivaliṅga set in a maṇḍala, and yogic/devotional practice. The commentary elucidates the ritual prescriptions and doctrine of the base text.",
+    "history": "The Kriyāsāra of the 14th-15th-century Vīraśaiva leader Nīlakaṇṭhaśivācārya was an influential ritual authority, cited from the late 15th century (e.g. by Rāghavabhaṭṭa, 1493 CE) onward into the 19th century, and contains some of the earliest evidence for Sūrya/Namaskāra sequencing. The specific commentator and date of this 'Tattvaprakāśinī' vyākhyā are not securely identified here.",
+    "related_works": ["Kriyāsāra (Nīlakaṇṭhaśivācārya)", "Śāradātilaka tradition", "Vīraśaiva ritual literature"],
+    "confidence": "low",
+    "sources": [
+      "https://ci.nii.ac.jp/ncid/BA57697422?l=en",
+      "https://www.yogavidhi.org/blog/tantric-origins-of-chandra-namaskara5/15/2018"
+    ]
+  }
+]

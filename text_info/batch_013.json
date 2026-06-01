@@ -1,0 +1,321 @@
+[
+  {
+    "work_id": "GK19bhago",
+    "title": "Bhaja-Govindam",
+    "author": "Śaṅkara (Ādi Śaṅkarācārya), traditionally attributed",
+    "tradition": "Hindu, Advaita Vedanta",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "traditionally c. 8th c. CE (attribution disputed; some verses likely later accretions)",
+    "summary": "A short Sanskrit devotional hymn, also called Mohamudgara ('hammer that destroys delusion'), urging the listener to worship Govinda (Kṛṣṇa/Viṣṇu) and abandon attachment to worldly wealth, pride in scholarship, and sensual desire in light of the inevitability of death. Its refrain 'bhaja govindaṃ' frames a meditation on impermanence and the priority of devotion and self-knowledge over mere grammatical or material pursuits.",
+    "history": "Traditionally ascribed to Ādi Śaṅkara, said to have been improvised in Varanasi on seeing an old man memorizing grammar; the so-called Dvādaśamañjarikā core is attributed to Śaṅkara with additional verses attributed to his disciples (Caturdaśamañjarikā), yielding a transmitted text of around 31-33 verses. It is one of the most popular short devotional poems in the Advaita tradition, frequently set to music and commented upon.",
+    "related_works": ["Mohamudgara", "Vivekacūḍāmaṇi"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhaja_Govindam",
+      "https://shlokam.org/bhajagovindamall/"
+    ]
+  },
+  {
+    "work_id": "GK19bhakirpu",
+    "title": "Kirātārjunīya",
+    "author": "Bhāravi",
+    "tradition": "Hindu (secular court epic)",
+    "genre": "mahākāvya (court epic / kavya)",
+    "date_estimate": "c. 6th c. CE (Bhāravi fl. c. 550-600 CE)",
+    "summary": "A mahākāvya of eighteen cantos elaborating an episode from the Mahabharata's Vanaparvan: the ascetic Arjuna's penance in the Himalayas, his confrontation and combat with Śiva disguised as a kirāta (mountain hunter) over a slain boar, and his eventual recognition of the god, who rewards him with the Pāśupata weapon. The poem is celebrated for its dense, ornate style, structural virtuosity, and emphasis on heroic and political (nīti) themes.",
+    "history": "Bhāravi is one of the canonical Sanskrit mahakavi, often paired with Kalidasa and Magha; his floruit is fixed by the Aihole inscription and other epigraphic references. The Kiratarjuniya attracted more than forty commentaries (notably by Mallinatha) and is frequently quoted in works on poetics and anthologies, with canto 8 verse 37 especially admired.",
+    "related_works": ["Mahābhārata", "Śiśupālavadha", "Naiṣadhīyacarita"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kir%C4%81t%C4%81rjun%C4%ABya",
+      "https://www.britannica.com/biography/Bharavi"
+    ]
+  },
+  {
+    "work_id": "GK19bhicau",
+    "title": "Bhiṣma-Cāritra",
+    "author": "Dr. Hari Narayan Dikshit (Hari Nārāyaṇa Dīkṣita)",
+    "tradition": "Hindu (modern Sanskrit literature)",
+    "genre": "mahākāvya (epic poem), biographical kavya",
+    "date_estimate": "modern, composed 1991 CE",
+    "summary": "A modern Sanskrit mahākāvya in twenty cantos (roughly 1,118 verses) narrating the life of Devavrata Bhīṣma of the Mahabharata, from his birth as son of Śāntanu and Gaṅgā through his vow of celibacy, his role in the Kuru dynasty, his valor and wisdom, and his death. The poet employs about eleven classical metres in an exhibition of traditional poetic craft applied to a familiar epic hero.",
+    "history": "A work of contemporary (twentieth-century) Sanskrit composition by Dr. Hari Narayan Dikshit, completed in February 1991; it exemplifies the continuing tradition of original Sanskrit kavya and biographical epic (caritakavya) in modern India and has been the subject of critical study.",
+    "related_works": ["Mahābhārata"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/book/bhishma-charitra",
+      "https://www.wisdomlib.org/hinduism/book/bhishma-charitra/d/doc492003.html"
+    ]
+  },
+  {
+    "work_id": "GK19bicauppu",
+    "title": "Caurapañcāśikā",
+    "author": "Bilhaṇa",
+    "tradition": "Hindu (secular court poetry)",
+    "genre": "kavya (erotic lyric / muktaka sequence)",
+    "date_estimate": "c. 11th c. CE",
+    "summary": "A famous Sanskrit lyric poem of about fifty stanzas (also called Caurisuratapañcāśikā), each conventionally beginning 'adyāpi' ('even now'), in which the speaker recalls in passionate, sensuous detail his secret love affair with a princess. Each verse is a vivid erotic-memory tableau of the beloved's beauty and their union.",
+    "history": "Attributed to the Kashmiri poet Bilhaṇa (11th c.), author of the Vikramāṅkadevacarita; legend holds he composed the verses while imprisoned and awaiting sentence for a clandestine affair with a king's daughter. The poem circulated in several recensions (notably a Southern/Kashmiri and a Western recension) and became internationally famous through translations such as Barbara Stoler Miller's and E. Powys Mathers's 'Black Marigolds.'",
+    "related_works": ["Vikramāṅkadevacarita", "Amaruśataka"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Caurapa%C3%B1c%C4%81%C5%9Bik%C4%81",
+      "https://scroll.in/article/818014/how-a-thousand-year-old-sanskrit-love-poem-has-travelled-the-world"
+    ]
+  },
+  {
+    "work_id": "GK19damkuttu",
+    "title": "Kuṭṭanīmata",
+    "author": "Dāmodaragupta",
+    "tradition": "Hindu (secular court poetry)",
+    "genre": "kavya (erotico-didactic / satirical poem)",
+    "date_estimate": "c. late 8th c. CE (reign of Jayāpīḍa of Kashmir, 779-813 CE)",
+    "summary": "An erotic-comic-didactic poem of over a thousand stanzas, mostly in the Āryā metre, framed as 'the bawd's counsel': an experienced procuress (kuṭṭanī) instructs a young courtesan in the arts and tricks of the trade, embedding a vivid satirical portrait of urban pleasure-culture in early medieval Kashmir. It blends erotic, comic, satiric, and instructional registers.",
+    "history": "Composed by Dāmodaragupta, a minister of the Kashmiri king Jayāpīḍa, making it the earliest securely datable Sanskrit work of the erotico-satiric genre; it anticipates and influences later Kashmiri satire such as Kṣemendra's Samayamātṛkā. It is an important social-historical source for the period.",
+    "related_works": ["Samayamātṛkā (Kṣemendra)", "Kāmasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/satirical-works-of-kshemendra-study/d/doc1211044.html",
+      "https://www.wisdomlib.org/definition/kuttanimata"
+    ]
+  },
+  {
+    "work_id": "GK19danddk1u",
+    "title": "Daśakumāracarita: Ucchvāsas 3, 5 & 6",
+    "author": "Daṇḍin",
+    "tradition": "Hindu (secular court prose)",
+    "genre": "gadyakāvya (prose romance / kathā), section",
+    "date_estimate": "c. late 7th-8th c. CE (Daṇḍin fl. c. 7th c.)",
+    "summary": "Selected chapters (ucchvāsas) from Daṇḍin's prose romance 'The Tale of the Ten Princes,' which narrates the picaresque adventures, separations, and reunions of ten young princes who recount their experiences of love, intrigue, gambling, theft, and statecraft across the cities of India. These ucchvāsas are individual princes' first-person narratives within the larger frame, showcasing Daṇḍin's lively, worldly storytelling and ornate prose.",
+    "history": "Daṇḍin, also author of the poetics treatise Kāvyādarśa, is one of the great masters of Sanskrit prose. The Daśakumāracarita survives in an incomplete and textually complex state, with a Pūrvapīṭhikā and Uttarapīṭhikā of disputed authorship supplying its missing frame; the central ucchvāsas (here 3, 5, 6) form the well-attested core.",
+    "related_works": ["Daśakumāracarita", "Kāvyādarśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dasakumaracharita",
+      "https://www.britannica.com/biography/Bharavi"
+    ]
+  },
+  {
+    "work_id": "GK19dhoypavu",
+    "title": "Pavanadūta",
+    "author": "Dhoyī (Dhoyin)",
+    "tradition": "Hindu (secular court poetry)",
+    "genre": "dūtakāvya (messenger poem)",
+    "date_estimate": "c. late 12th c. CE (court of Lakṣmaṇasena of Bengal)",
+    "summary": "A messenger poem of about 104 stanzas in the mandākrāntā metre in which Kuvalayavatī, a gandharva maiden from the south who has fallen in love with King Lakṣmaṇasena during his world-conquest tour, sends the south wind (pavana) as her messenger to carry her longing to him at his capital. Modeled closely on Kalidasa's Meghadūta, it describes the route and landscapes and culminates in the lover's plea.",
+    "history": "Composed by Dhoyī, one of the 'five gems' of poets at the court of the Sena king Lakṣmaṇasena (alongside Jayadeva and Govardhana); it is probably the earliest surviving imitation of the Meghadūta and inaugurated a long line of more than thirty-five later dūtakāvyas. A key witness to the twelfth-century Sanskrit literary 'renaissance' in Bengal.",
+    "related_works": ["Meghadūta (Kālidāsa)", "Gītagovinda", "Āryāsaptaśatī"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pavanad%C5%ABta",
+      "https://en.wikipedia.org/wiki/Dhoyin"
+    ]
+  },
+  {
+    "work_id": "GK19gakou",
+    "title": "Gāhākoṣa",
+    "author": "Hāla (Sātavāhana), traditional compiler",
+    "tradition": "Hindu (secular lyric anthology)",
+    "genre": "muktaka anthology (lyric poetry)",
+    "date_estimate": "core c. 1st-2nd c. CE; expanded/redacted over later centuries (Prakrit, not Sanskrit)",
+    "summary": "The Gāhākoṣa (Sanskrit Gāthākośa/Gāthāsaptaśatī, 'Treasury of Verses' or 'Seven Hundred Verses') is an anthology of roughly seven hundred single-stanza lyric poems (gāthās) in Māhārāṣṭrī Prakrit, mostly in the Āryā metre, traditionally attributed to or compiled by the Sātavāhana king Hāla. The verses, drawn from many poets, vividly evoke rural Deccan life, nature, and erotic love, frequently voiced from a woman's perspective with suggestive, allusive imagery.",
+    "history": "The oldest surviving Prakrit lyric anthology, its core is dated to the early centuries CE, though the collection grew through later recensions and accreted commentaries; the project metadata's 1200-1300 CE hint is incorrect for the work's composition. It deeply influenced later Sanskrit erotic muktaka poetry, including Govardhana's Āryāsaptaśatī, which was modeled on it.",
+    "related_works": ["Āryāsaptaśatī (Govardhana)", "Amaruśataka"],
+    "confidence": "high",
+    "sources": [
+      "https://grokipedia.com/page/Gaha_Sattasai",
+      "https://www.cse.iitk.ac.in/users/amit/books/mehrotra-2008-absent-traveller-prakrit.html"
+    ]
+  },
+  {
+    "work_id": "GK19ghatgu_u",
+    "title": "Gūḍhārthadīpikā",
+    "author": "Kuśalamiśra (attribution per project hint; uncertain)",
+    "tradition": "Hindu (uncertain school)",
+    "genre": "bhasya (commentary)",
+    "date_estimate": "uncertain",
+    "summary": "A commentary (the title Gūḍhārthadīpikā means 'lamp on the hidden meaning'). The specific work by Kuśalamiśra could not be reliably identified; the title is shared by several distinct Sanskrit commentaries (e.g., Madhusūdana Sarasvatī's commentary on the Bhagavadgītā, a Vedānta commentary, a dharma text by Vāmadeva, and a commentary on the medical Śārṅgadharasaṃhitā), so the base text being commented on is unclear for this attribution.",
+    "history": "The author Kuśalamiśra is not prominently attested for a work of this title in standard reference catalogues consulted, and the identification remains uncertain; the title 'Gūḍhārthadīpikā' was a common one applied to commentaries across genres.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/gudharthadipika"
+    ]
+  },
+  {
+    "work_id": "GK19govass_u",
+    "title": "Āryāsaptaśatī",
+    "author": "Govardhana (Govardhanācārya)",
+    "tradition": "Hindu (secular court poetry)",
+    "genre": "kavya (erotic muktaka anthology)",
+    "date_estimate": "c. late 12th-early 13th c. CE (court of Lakṣmaṇasena of Bengal)",
+    "summary": "A collection of about seven hundred single-stanza Sanskrit poems (muktakas) in the Āryā metre, predominantly on erotic (śṛṅgāra) themes, prized for its compressed, suggestive, intellectually dense style. It self-consciously transposes into refined Sanskrit the tradition of Hāla's earlier Prakrit Sattasaī (Gāhākoṣa).",
+    "history": "Composed by Govardhana, a poet at the court of the Sena king Lakṣmaṇasena and a contemporary of Jayadeva and Dhoyī; it is a flagship of the late twelfth-century Bengali Sanskrit literary efflorescence and was admired as a virtuoso 'antigravity' poetics. The project's 1000-1299 CE hint is loose; a date around c. 1200 CE is more precise.",
+    "related_works": ["Gāhākoṣa / Gāthāsaptaśatī (Hāla)", "Gītagovinda", "Pavanadūta"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Govardhana_(poet)",
+      "https://www.degruyterbrill.com/document/doi/10.1525/9780520957794-004/html?lang=en"
+    ]
+  },
+  {
+    "work_id": "GK19gp01-11u",
+    "title": "Gopālacampū: Pūrvacampū, 1-11",
+    "author": "Jīva Gosvāmin",
+    "tradition": "Hindu, Gaudiya Vaishnava (Bhakti)",
+    "genre": "campū (mixed prose-and-verse narrative)",
+    "date_estimate": "c. 16th c. CE",
+    "summary": "The opening eleven chapters (pūraṇas/sandarbhas) of the Pūrva-campū, the first part of Jīva Gosvāmin's theological campū on the life of Kṛṣṇa. The Pūrvacampū (33 chapters total) narrates Kṛṣṇa's activities in Vraja/Vrindavana, weaving together ornate prose and verse to present his pastimes within a Gaudiya Vaishnava devotional and philosophical framework.",
+    "history": "Jīva Gosvāmin, one of the Six Gosvāmins of Vrindavana and author of the Ṣaṭ Sandarbhas, composed the Gopālacampū in the sixteenth century as a literary-theological masterwork of the Gaudiya tradition founded in the wake of Caitanya. The campū form (alternating prose and verse) is used to dramatize and theologize Kṛṣṇa's līlā.",
+    "related_works": ["Gopālacampū (Uttaracampū)", "Ṣaṭ Sandarbha", "Bhāgavata Purāṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jiva_Goswami",
+      "http://sandarbhas.jiva.org/"
+    ]
+  },
+  {
+    "work_id": "GK19gp12-22u",
+    "title": "Gopālacampū: Pūrvacampū, 12-22",
+    "author": "Jīva Gosvāmin",
+    "tradition": "Hindu, Gaudiya Vaishnava (Bhakti)",
+    "genre": "campū (mixed prose-and-verse narrative)",
+    "date_estimate": "c. 16th c. CE",
+    "summary": "Chapters 12-22 of the Pūrva-campū of Jīva Gosvāmin's Gopālacampū, continuing the elaborate prose-and-verse narration of Kṛṣṇa's childhood and youthful pastimes in Vraja. This middle portion develops his līlā in Vrindavana within the work's Gaudiya Vaishnava devotional theology.",
+    "history": "Part of the same sixteenth-century campū by Jīva Gosvāmin, one of the Six Gosvāmins of Vrindavana; the Pūrvacampū comprises 33 chapters describing Kṛṣṇa in Vraja before the Uttaracampū's account of his later life and return.",
+    "related_works": ["Gopālacampū (Uttaracampū)", "Ṣaṭ Sandarbha", "Bhāgavata Purāṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jiva_Goswami",
+      "https://learning.jiva.org/courses/gopala-campu-1"
+    ]
+  },
+  {
+    "work_id": "GK19gp23-33u",
+    "title": "Gopālacampū: Pūrvacampū, 23-33",
+    "author": "Jīva Gosvāmin",
+    "tradition": "Hindu, Gaudiya Vaishnava (Bhakti)",
+    "genre": "campū (mixed prose-and-verse narrative)",
+    "date_estimate": "c. 16th c. CE",
+    "summary": "The concluding chapters (23-33) of the Pūrva-campū of Jīva Gosvāmin's Gopālacampū, completing the first part's account of Kṛṣṇa's pastimes in Vraja. These chapters bring the Vrindavana līlā to its close before the transition to the Uttara-campū, all rendered in the campū's characteristic alternation of ornate prose and verse.",
+    "history": "Belongs to the same sixteenth-century Gaudiya Vaishnava campū by Jīva Gosvāmin, completing the 33-chapter Pūrvacampū. The work as a whole is an intensely theological poetic synthesis of Kṛṣṇa-bhakti grounded in the Bhāgavata Purāṇa and Jīva's own Sandarbhas.",
+    "related_works": ["Gopālacampū (Uttaracampū)", "Ṣaṭ Sandarbha", "Bhāgavata Purāṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jiva_Goswami",
+      "https://www.exoticindiaart.com/book/details/gopala-campu-srila-by-jiva-gosvami-ihe052/"
+    ]
+  },
+  {
+    "work_id": "GK19gu01-03u",
+    "title": "Gopālacampū: Uttaracampū, 1-3",
+    "author": "Jīva Gosvāmin",
+    "tradition": "Hindu, Gaudiya Vaishnava (Bhakti)",
+    "genre": "campū (mixed prose-and-verse narrative)",
+    "date_estimate": "c. 16th c. CE",
+    "summary": "The opening three chapters of the Uttara-campū, the second part (37 chapters total) of Jīva Gosvāmin's Gopālacampū. The Uttaracampū narrates Kṛṣṇa's later pastimes, including his departure from and longed-for return to Vraja, again in alternating prose and verse, with strong devotional and consolatory theological emphasis.",
+    "history": "The second part of Jīva Gosvāmin's sixteenth-century campū; the Uttaracampū is structured to console the residents of Vraja over Kṛṣṇa's absence and affirm his eternal presence, reflecting core Gaudiya Vaishnava theology of līlā and prema.",
+    "related_works": ["Gopālacampū (Pūrvacampū)", "Ṣaṭ Sandarbha", "Bhāgavata Purāṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jiva_Goswami",
+      "http://sandarbhas.jiva.org/"
+    ]
+  },
+  {
+    "work_id": "GK19gu05-06u",
+    "title": "Gopālacampū: Uttaracampū, 5-6",
+    "author": "Jīva Gosvāmin",
+    "tradition": "Hindu, Gaudiya Vaishnava (Bhakti)",
+    "genre": "campū (mixed prose-and-verse narrative)",
+    "date_estimate": "c. 16th c. CE",
+    "summary": "Chapters 5-6 of the Uttara-campū of Jīva Gosvāmin's Gopālacampū, continuing the prose-and-verse narration of Kṛṣṇa's later pastimes and the Vraja residents' relationship to him after his departure. Part of the 37-chapter second division of the work.",
+    "history": "A section of Jīva Gosvāmin's sixteenth-century Gopālacampū, the magnum opus campū of the Gaudiya Vaishnava tradition by one of the Six Gosvāmins of Vrindavana.",
+    "related_works": ["Gopālacampū (Pūrvacampū)", "Ṣaṭ Sandarbha", "Bhāgavata Purāṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jiva_Goswami",
+      "https://learning.jiva.org/courses/gopala-campu-1"
+    ]
+  },
+  {
+    "work_id": "GK19gu29___u",
+    "title": "Gopālacampū: Uttaracampū, 29",
+    "author": "Jīva Gosvāmin",
+    "tradition": "Hindu, Gaudiya Vaishnava (Bhakti)",
+    "genre": "campū (mixed prose-and-verse narrative)",
+    "date_estimate": "c. 16th c. CE",
+    "summary": "Chapter 29 of the Uttara-campū of Jīva Gosvāmin's Gopālacampū, a single later chapter within the 37-chapter second part of the work that narrates Kṛṣṇa's mature pastimes in the campū's alternating prose-and-verse style with Gaudiya Vaishnava theological framing.",
+    "history": "Part of Jīva Gosvāmin's sixteenth-century Gopālacampū, the culminating literary-theological work of the Gaudiya Vaishnava tradition founded by the followers of Caitanya.",
+    "related_works": ["Gopālacampū (Pūrvacampū)", "Ṣaṭ Sandarbha", "Bhāgavata Purāṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jiva_Goswami",
+      "http://sandarbhas.jiva.org/"
+    ]
+  },
+  {
+    "work_id": "GK19jagpranu",
+    "title": "Prāṇābharaṇa",
+    "author": "Jagannātha Paṇḍitarāja",
+    "tradition": "Hindu (secular court poetry)",
+    "genre": "kavya (court poem)",
+    "date_estimate": "c. 17th c. CE (Jagannātha c. 1590-1670)",
+    "summary": "A kāvya (Prāṇābharaṇa) by Jagannātha Paṇḍitarāja, the eminent seventeenth-century poet and literary theorist. It is one of his lesser-known poetic compositions; as with several of his occasional works, it is a panegyric/ornamental court poem reflecting his patronage connections and his celebrated mastery of Sanskrit poetic diction.",
+    "history": "Jagannātha (c. 1590-1670), titled 'Paṇḍitarāja' reportedly by the Mughal emperor Shah Jahan at whose court he was patronized, is best known for the poetics treatise Rasagaṅgādhara and the anthology Bhāminīvilāsa; the Prāṇābharaṇa appears in catalogue lists of his works (Aufrecht) as a kāvya.",
+    "related_works": ["Rasagaṅgādhara", "Bhāminīvilāsa", "Jagadābharaṇa"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jagannatha_Panditaraja",
+      "https://grokipedia.com/page/Jagannatha_Panditaraja"
+    ]
+  },
+  {
+    "work_id": "GK19jagsudhu",
+    "title": "Sudhālaharī",
+    "author": "Jagannātha Paṇḍitarāja",
+    "tradition": "Hindu (devotional / court poetry)",
+    "genre": "stotra (laharī devotional hymn)",
+    "date_estimate": "c. 17th c. CE (Jagannātha c. 1590-1670)",
+    "summary": "A short devotional 'laharī' ('wave/flow') hymn by Jagannātha Paṇḍitarāja, in the genre of cascading praise-poems for which he is well known (e.g., his Gaṅgālaharī/Pīyūṣalaharī and others). The Sudhālaharī ('Wave of Nectar') is a lyrical stotra blending bhakti sentiment with his characteristic polished poetic style.",
+    "history": "Listed among Jagannātha's works in Aufrecht's Catalogus Catalogorum alongside his other laharī hymns; Jagannātha, the seventeenth-century 'Paṇḍitarāja,' is celebrated both as a poet (Bhāminīvilāsa) and as the author of the poetics treatise Rasagaṅgādhara.",
+    "related_works": ["Gaṅgālaharī / Pīyūṣalaharī", "Amṛtalaharī", "Karuṇālaharī", "Bhāminīvilāsa"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jagannatha_Panditaraja",
+      "https://grokipedia.com/page/Jagannatha_Panditaraja"
+    ]
+  },
+  {
+    "work_id": "GK19jalmugpu",
+    "title": "Mugdhopadeśa",
+    "author": "Jalhaṇa",
+    "tradition": "Hindu (secular court poetry)",
+    "genre": "kavya (didactic / satirical short poem)",
+    "date_estimate": "c. 12th c. CE (uncertain)",
+    "summary": "A short Sanskrit kāvya titled 'Instruction of the Naive (or Deluded) One' (Mugdhopadeśa), in the tradition of didactic-satirical poems warning a guileless young man against the wiles of courtesans and the dangers of infatuation. It belongs to the same erotic-cautionary milieu as works like the Kuṭṭanīmata and Samayamātṛkā.",
+    "history": "Attributed to Jalhaṇa and printed in the Kāvyamālā series (part VIII). The author Jalhaṇa is generally associated with the poet of the same name (likely the Kashmiri/medieval Jalhaṇa, distinct from the anthologist Jalhaṇa of the Sūktimuktāvalī); details of date and biography are not firmly established here.",
+    "related_works": ["Kuṭṭanīmata", "Samayamātṛkā"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mugdhopadesha",
+      "https://www.wisdomlib.org/definition/veshya"
+    ]
+  },
+  {
+    "work_id": "GK19japa",
+    "title": "Jānakī Pariṇaya",
+    "author": "Rāmabhadra Dīkṣita",
+    "tradition": "Hindu (secular court drama)",
+    "genre": "nāṭaka (drama)",
+    "date_estimate": "c. late 17th-early 18th c. CE",
+    "summary": "A Sanskrit nāṭaka ('The Marriage of Jānakī/Sītā') dramatizing the Rāmāyaṇa episode of Rāma winning Sītā, including the breaking of Śiva's bow at Janaka's court and the wedding. The play treats the well-loved marriage narrative in classical dramatic form with ornate poetic embellishment.",
+    "history": "Composed by Rāmabhadra Dīkṣita (also called Cokkanātha), a Tamil-region Sanskrit scholar of the Kauṇḍinya family in the Tanjore area, associated with the circle of Nīlakaṇṭha Dīkṣita and active in the late seventeenth to early eighteenth century. (Note: other dramatists also wrote plays of this title; this entry follows the project's and catalogues' attribution to Rāmabhadra Dīkṣita.)",
+    "related_works": ["Rāmāyaṇa"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/janakiparinaya",
+      "https://www.wisdomlib.org/definition/ramabhadradikshita"
+    ]
+  }
+]

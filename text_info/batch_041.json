@@ -1,0 +1,329 @@
+[
+  {
+    "work_id": "K01n2892u",
+    "title": "Vajrasatvapārājikā [Vajrasattvapārājikā]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayāna / Newar Mahāyāna-Tantric)",
+    "genre": "tantra / vow text (samaya-pārājika, on grave transgressions of tantric vows)",
+    "date_estimate": "later 1st millennium CE; redaction and surviving Nepalese manuscripts c. 11th-17th c. CE (uncertain)",
+    "summary": "A short Vajrayāna scriptural text on the 'pārājika' (gravest, vow-destroying transgressions) of the tantric/bodhisattva commitments (samaya), here framed as the teaching associated with Vajrasattva, the archetypal Buddha and ideal guru of Vajrayāna ritual. Such pārājikā texts enumerate the cardinal downfalls that nullify the practitioner's tantric vows and the means of guarding or restoring them.",
+    "history": "Preserved in the Sanskrit Buddhist manuscript tradition of Nepal (and digitized in the Digital Sanskrit Buddhist Canon). It belongs to the same conceptual sphere as the well-known Vajrayāna mūlāpatti (root-downfall) literature (e.g. Aśvaghoṣa's Vajrayānamūlāpattisaṅgraha listing fourteen root downfalls). Its precise authorship and date are not securely established.",
+    "related_works": ["Vajrayānamūlāpattisaṅgraha", "Saddharmapārājikā", "Mañjuśrīpārājikā", "Lokeśvarapārājikā"],
+    "confidence": "low",
+    "sources": [
+      "https://www.dsbcproject.org/canon-text/content/762/2890",
+      "https://www.rigpawiki.org/index.php?title=Fourteen_root_downfalls",
+      "https://www.lotsawahouse.org/indian-masters/ashvaghosha/root-downfalls",
+      "https://en.wikipedia.org/wiki/Vajrasattva"
+    ]
+  },
+  {
+    "work_id": "K01n2894u",
+    "title": "Saddharmapārājikā",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayāna / Newar Mahāyāna-Tantric)",
+    "genre": "tantra / vow text (on grave transgressions, pārājika)",
+    "date_estimate": "later 1st millennium CE; surviving Nepalese manuscripts medieval (uncertain)",
+    "summary": "A short Vajrayāna text on the gravest, vow-destroying transgressions (pārājika) within the Mahāyāna-Tantric framework, here keyed to the 'Saddharma' (the True Dharma). Like its companion pārājikā texts it warns against and enumerates the cardinal downfalls that destroy a practitioner's bodhisattva and tantric commitments.",
+    "history": "Transmitted in the Sanskrit Buddhist manuscript collections of Nepal and included in the Digital Sanskrit Buddhist Canon. It is part of a small cluster of related 'pārājikā' scriptures (Vajrasattva-, Mañjuśrī-, Lokeśvara-, Śrīlokeśvarabhāṣita-) of uncertain individual authorship and date.",
+    "related_works": ["Vajrasattvapārājikā", "Mañjuśrīpārājikā", "Lokeśvarapārājikā", "Śrīlokeśvarabhāṣitaparājikā", "Vajrayānamūlāpattisaṅgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://www.dsbcproject.org/canon-text/content/762/2890",
+      "https://www.rigpawiki.org/index.php?title=Fourteen_root_downfalls"
+    ]
+  },
+  {
+    "work_id": "K01n2896u",
+    "title": "Śrīlokeśvarabhāṣitaparājikā",
+    "author": "anonymous/traditional (attributed in title to the teaching of Śrī Lokeśvara/Avalokiteśvara)",
+    "tradition": "Buddhist (Vajrayāna / Newar Mahāyāna-Tantric)",
+    "genre": "tantra / vow text (pārājika), buddhavacana-style scripture",
+    "date_estimate": "later 1st millennium CE; surviving Nepalese manuscripts medieval (uncertain)",
+    "summary": "A short Vajrayāna scripture, framed as 'spoken by the glorious Lokeśvara' (Avalokiteśvara), on the pārājika — the grave, vow-destroying transgressions of the tantric/bodhisattva path. It belongs to the genre that enumerates cardinal downfalls and the duty to guard one's samaya vows.",
+    "history": "Avalokiteśvara/Lokeśvara is the central cultic deity of Newar Buddhism in the Kathmandu Valley, which makes a Lokeśvara-attributed scripture characteristic of that milieu. The text survives in Nepalese Sanskrit manuscripts (Digital Sanskrit Buddhist Canon). Its authorship and date are not securely established and it is closely related to the other pārājikā texts in this group.",
+    "related_works": ["Lokeśvarapārājikā", "Vajrasattvapārājikā", "Saddharmapārājikā", "Mañjuśrīpārājikā"],
+    "confidence": "low",
+    "sources": [
+      "https://www.dsbcproject.org/canon-text/content/762/2890",
+      "https://archive.org/stream/KarunamayaTheCultOfAvalokitesvaraMatsyendranathInTheValleyOfNepalByJohnK.Locke/Karunamaya--the%20Cult%20of%20Avalokitesvara-Matsyendranath%20in%20the%20Valley%20of%20Nepal%20by%20John%20K.%20Locke_djvu.txt"
+    ]
+  },
+  {
+    "work_id": "K01n2900u",
+    "title": "Maṃjuśrīpārājikā [Mañjuśrīpārājikā]",
+    "author": "anonymous/traditional (attributed in title to Mañjuśrī)",
+    "tradition": "Buddhist (Vajrayāna / Newar Mahāyāna-Tantric)",
+    "genre": "tantra / vow text (pārājika), buddhavacana-style scripture",
+    "date_estimate": "later 1st millennium CE; surviving Nepalese manuscripts medieval (uncertain)",
+    "summary": "A short Vajrayāna text, associated with the bodhisattva Mañjuśrī, on the pārājika — the gravest transgressions that destroy a practitioner's tantric and bodhisattva vows. It enumerates and warns against the cardinal downfalls of the path.",
+    "history": "Preserved in Nepalese Sanskrit manuscript tradition and digitized in the Digital Sanskrit Buddhist Canon. Part of a closely related cluster of pārājikā scriptures, each framed around a major Vajrayāna deity; individual authorship and date are not established.",
+    "related_works": ["Vajrasattvapārājikā", "Saddharmapārājikā", "Lokeśvarapārājikā", "Vajrayānamūlāpattisaṅgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://www.dsbcproject.org/canon-text/content/762/2890",
+      "https://www.rigpawiki.org/index.php?title=Fourteen_root_downfalls"
+    ]
+  },
+  {
+    "work_id": "K01n2904u",
+    "title": "Lokeśvarapārājikā",
+    "author": "anonymous/traditional (attributed in title to Lokeśvara/Avalokiteśvara)",
+    "tradition": "Buddhist (Vajrayāna / Newar Mahāyāna-Tantric)",
+    "genre": "tantra / vow text (pārājika), buddhavacana-style scripture",
+    "date_estimate": "later 1st millennium CE; surviving Nepalese manuscripts medieval (uncertain)",
+    "summary": "A short Vajrayāna scripture associated with Lokeśvara (Avalokiteśvara) on the pārājika — the grave, vow-destroying transgressions of the tantric/bodhisattva commitments. It belongs to the genre enumerating the cardinal downfalls that nullify samaya.",
+    "history": "Closely related to the Śrīlokeśvarabhāṣitaparājikā (the two may represent variant or paired recensions of a Lokeśvara-centered pārājika text). Avalokiteśvara is the principal deity of Newar Buddhism, the milieu in which these Sanskrit manuscripts were transmitted (Digital Sanskrit Buddhist Canon). Authorship and date are unsettled.",
+    "related_works": ["Śrīlokeśvarabhāṣitaparājikā", "Vajrasattvapārājikā", "Saddharmapārājikā", "Mañjuśrīpārājikā"],
+    "confidence": "low",
+    "sources": [
+      "https://www.dsbcproject.org/canon-text/content/762/2890",
+      "https://archive.org/stream/KarunamayaTheCultOfAvalokitesvaraMatsyendranathInTheValleyOfNepalByJohnK.Locke/Karunamaya--the%20Cult%20of%20Avalokitesvara-Matsyendranath%20in%20the%20Valley%20of%20Nepal%20by%20John%20K.%20Locke_djvu.txt"
+    ]
+  },
+  {
+    "work_id": "K01n2954u",
+    "title": "Upasampadājñapti",
+    "author": "anonymous/traditional (Mūlasarvāstivāda Vinaya tradition; edited by B. Jinananda)",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya / monastic legal formulary (karmavācanā for ordination)",
+    "date_estimate": "Vinaya material c. 1st-4th c. CE (formative); manuscript transmission later 1st millennium CE",
+    "summary": "A monastic legal text giving the formal motion (jñapti) and legal acts (karmavācanā) for the higher ordination (upasampadā) of a Buddhist monk in the Mūlasarvāstivāda tradition. It sets out the precisely prescribed wording the saṅgha must recite to confer full monastic status.",
+    "history": "An extract from the procedural (karmavācanā/karmavastu) layer of the Mūlasarvāstivāda Vinaya. The Sanskrit Upasampadājñaptiḥ was edited by B. Jinananda (Tibetan Sanskrit Works Series, Patna, 1961) from Gilgit/Tibetan-area material. Such formularies were copied independently across the Buddhist world as working ritual texts.",
+    "related_works": ["Mūlasarvāstivāda Vinayavastu", "Prātimokṣasūtra (Mūlasarvāstivāda)", "Upasaṃpadājñapti (K01upsmpjnu)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.academia.edu/110712349/Petra_Kieffer_P%C3%BClz_Kammav%C4%81c%C4%81_Manuscripts",
+      "https://www.academia.edu/31621461/THE_M%C5%AALASARV%C4%80STIV%C4%80DA_VINAYA_AN_ATTEMPT_AT_AN_INDEX_LOCORUM"
+    ]
+  },
+  {
+    "work_id": "K01n742u",
+    "title": "Bhikṣuṇīvinaya",
+    "author": "anonymous/traditional (Ārya-Mahāsāṃghika-Lokottaravādin recension; ed. Gustav Roth)",
+    "tradition": "Buddhist (Mahāsāṃghika-Lokottaravāda school)",
+    "genre": "vinaya (monastic discipline, code for nuns)",
+    "date_estimate": "code formed in the early centuries CE; the recension's wording often judged comparatively archaic; surviving manuscript later",
+    "summary": "The disciplinary code (Vinaya) governing Buddhist nuns (bhikṣuṇī) of the Ārya-Mahāsāṃghika-Lokottaravādin school, including the eight 'weighty rules' (gurudharma), the Bhikṣuṇī-prātimokṣa-vibhaṅga (rule-by-rule analysis), and the Bhikṣuṇī-prakīrṇaka (miscellaneous regulations). It regulates ordination, conduct, communal procedure and the relations between nuns and the monks' order.",
+    "history": "Edited for the first time by Gustav Roth as 'Bhikṣuṇī-Vinaya' (K.P. Jayaswal Research Institute, Patna, 1970) from a Tibetan-transmitted Sanskrit manuscript, together with a summary of the Bhikṣu-prakīrṇaka. It is a major source for the comparative study of nuns' Vinaya, its formulations sometimes preserving an older, less streamlined wording than parallel recensions.",
+    "related_works": ["Mahāsāṃghika-Lokottaravāda Bhikṣu-Vinaya / Prātimokṣa", "Bhikṣuṇī-prakīrṇaka", "Mahāvastu"],
+    "confidence": "high",
+    "sources": [
+      "https://link.springer.com/chapter/10.1007/978-94-010-2242-2_8",
+      "https://iucat.iu.edu/iub/10205145",
+      "https://catalog.hathitrust.org/Record/000263019"
+    ]
+  },
+  {
+    "work_id": "K01prmosu_u",
+    "title": "Prātimokṣasūtra",
+    "author": "anonymous/traditional (Mūlasarvāstivāda recension)",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya / prātimokṣa (code of monastic precepts for fortnightly recitation)",
+    "date_estimate": "core c. 3rd c. BCE onward, redacted in this recension by early centuries CE; Sanskrit manuscript transmission mid-1st millennium CE",
+    "summary": "The Prātimokṣasūtra is the core list of monastic precepts recited communally at the fortnightly poṣadha ceremony. The Mūlasarvāstivāda bhikṣu version comprises 4 pārājika (defeats), 13 saṃghāvaśeṣa (suspensions), 2 aniyata, 30 naiḥsargika-prāyaścittika, 90 prāyaścittika, 4 pratideśanīya, numerous śaikṣa (training) rules and 7 adhikaraṇaśamatha, recited so monks may confess and purify transgressions.",
+    "history": "This variant (file marker '_') is one of several Prātimokṣasūtra recensions in the corpus. The Mūlasarvāstivāda Prātimokṣa survives in Sanskrit (notably the Gilgit manuscripts), Tibetan and Chinese; it is the basis of the still-living ordination lineages of Tibetan and East Asian Buddhism.",
+    "related_works": ["Mūlasarvāstivāda Vinayavibhaṅga", "Vinayasūtra (Guṇaprabha)", "Prātimokṣasūtra (other recensions in this corpus)"],
+    "confidence": "medium",
+    "sources": [
+      "http://dhammatalks.net/suttacentral/sc2016/sc/skt/skt-mu-bu-pm-gbm3.html",
+      "https://en.wikipedia.org/wiki/Pratimok%E1%B9%A3a",
+      "https://info-buddhism.com/Pratimoksha-Sutra-Mulasarvastivada.html"
+    ]
+  },
+  {
+    "work_id": "K01prmosubu",
+    "title": "Prātimokṣasūtra",
+    "author": "anonymous/traditional (Buddhist Vinaya recension)",
+    "tradition": "Buddhist (Vinaya; likely Mūlasarvāstivāda, marker 'b' possibly bhikṣu/variant)",
+    "genre": "vinaya / prātimokṣa (code of monastic precepts)",
+    "date_estimate": "core c. 3rd c. BCE onward, recension redacted by early centuries CE; manuscript transmission mid-1st millennium CE",
+    "summary": "A recension/variant of the Prātimokṣasūtra, the list of monastic precepts recited at the fortnightly poṣadha. It enumerates the categories of offence (pārājika, saṃghāvaśeṣa, aniyata, naiḥsargika-prāyaścittika, prāyaścittika, pratideśanīya, śaikṣa, adhikaraṇaśamatha) by which monastics review and confess their conduct.",
+    "history": "One of several near-identical Prātimokṣasūtra files in this corpus (markers '_', 'b', 'f', 'l') that likely represent different editions, recensions, or manuscript witnesses. The marker 'bu' may indicate a bhikṣu (monk) version. The Prātimokṣa is among the oldest strata of Buddhist canonical literature.",
+    "related_works": ["Prātimokṣasūtra (K01prmosu_u, K01prmosufu, K01prmosulu)", "Mūlasarvāstivāda Vinayavibhaṅga"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pratimok%E1%B9%A3a",
+      "https://info-buddhism.com/Pratimoksha-Sutra-Mulasarvastivada.html"
+    ]
+  },
+  {
+    "work_id": "K01prmosufu",
+    "title": "Prātimokṣasūtra",
+    "author": "anonymous/traditional (Buddhist Vinaya recension)",
+    "tradition": "Buddhist (Vinaya; likely Mūlasarvāstivāda)",
+    "genre": "vinaya / prātimokṣa (code of monastic precepts)",
+    "date_estimate": "core c. 3rd c. BCE onward, recension redacted by early centuries CE; manuscript transmission mid-1st millennium CE",
+    "summary": "A recension/variant of the Prātimokṣasūtra, the catalogue of monastic precepts recited fortnightly at the poṣadha ceremony, organized by descending gravity of offence. It functions as the confessional checklist by which the saṅgha maintains and purifies its discipline.",
+    "history": "One of several Prātimokṣasūtra witnesses in this corpus (markers '_', 'b', 'f', 'l'), probably distinct editions or manuscript copies of the same Vinaya code. The text is foundational to all Buddhist monastic ordination traditions.",
+    "related_works": ["Prātimokṣasūtra (K01prmosu_u, K01prmosubu, K01prmosulu)", "Mūlasarvāstivāda Vinayavibhaṅga"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pratimok%E1%B9%A3a",
+      "https://info-buddhism.com/Pratimoksha-Sutra-Mulasarvastivada.html"
+    ]
+  },
+  {
+    "work_id": "K01prmosulu",
+    "title": "Prātimokṣasūtra",
+    "author": "anonymous/traditional (Buddhist Vinaya recension)",
+    "tradition": "Buddhist (Vinaya; likely Mūlasarvāstivāda)",
+    "genre": "vinaya / prātimokṣa (code of monastic precepts)",
+    "date_estimate": "core c. 3rd c. BCE onward, recension redacted by early centuries CE; manuscript transmission mid-1st millennium CE",
+    "summary": "A recension/variant of the Prātimokṣasūtra, the list of monastic precepts recited at the fortnightly poṣadha, arranged by classes of offence from the four pārājika downward. It is recited so that monastics may confess and restore their discipline.",
+    "history": "One of several Prātimokṣasūtra files in this corpus (markers '_', 'b', 'f', 'l') that likely correspond to different editions, recensions, or manuscript witnesses of the code. The Prātimokṣa belongs to the earliest layer of Buddhist monastic literature.",
+    "related_works": ["Prātimokṣasūtra (K01prmosu_u, K01prmosubu, K01prmosufu)", "Mūlasarvāstivāda Vinayavibhaṅga"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pratimok%E1%B9%A3a",
+      "https://info-buddhism.com/Pratimoksha-Sutra-Mulasarvastivada.html"
+    ]
+  },
+  {
+    "work_id": "K01upsmpjnu",
+    "title": "Upasaṃpadājñapti",
+    "author": "anonymous/traditional (Mūlasarvāstivāda Vinaya; ed. B. Jinananda)",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya / monastic legal formulary (karmavācanā for higher ordination)",
+    "date_estimate": "Vinaya material c. 1st-4th c. CE (formative); manuscript transmission later 1st millennium CE",
+    "summary": "The formulary of the motion (jñapti) and the legal acts (karmavācanā) required to confer the higher ordination (upasampadā) of a monk in the Mūlasarvāstivāda tradition. It records the exact wording the assembled saṅgha must recite to admit a candidate to full monastic status.",
+    "history": "Drawn from the procedural layer of the Mūlasarvāstivāda Vinaya; the Sanskrit Upasampadājñaptiḥ was edited by B. Jinananda (Tibetan Sanskrit Works Series, Patna, 1961). This is a duplicate/parallel entry to the Upasampadājñapti (K01n2954u) in the same corpus.",
+    "related_works": ["Upasampadājñapti (K01n2954u)", "Mūlasarvāstivāda Vinayavastu", "Prātimokṣasūtra (Mūlasarvāstivāda)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.academia.edu/110712349/Petra_Kieffer_P%C3%BClz_Kammav%C4%81c%C4%81_Manuscripts",
+      "https://www.academia.edu/31621461/THE_M%C5%AALASARV%C4%80STIV%C4%80DA_VINAYA_AN_ATTEMPT_AT_AN_INDEX_LOCORUM"
+    ]
+  },
+  {
+    "work_id": "K01vinsutru",
+    "title": "Vinayasūtra",
+    "author": "Guṇaprabha",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya / sūtra-style digest (mūla / root aphoristic treatise)",
+    "date_estimate": "c. 5th-7th c. CE (Guṇaprabha; dating disputed, sometimes placed as late as the early medieval period)",
+    "summary": "A highly condensed, aphoristic (sūtra-style) digest of the entire Mūlasarvāstivāda Vinaya, covering the Prātimokṣa, the Vibhaṅga (rule analysis), and the Skandhaka/Vastu sections. Its terse statements were designed as mnemonic summaries of monastic law, with chapters corresponding to the topics of the Vinayavastu.",
+    "history": "Composed by the Indian scholar-monk Guṇaprabha and transmitted with an auto-commentary (Svavyākhyāna) and commentaries such as Dharmamitra's Ṭīkā; translated into Tibetan by Jinamitra and Cog-ro Klu'i rgyal-mtshan and central to the monastic curriculum of Tibetan Buddhism. The Sanskrit text has been recovered in part from Tibetan-area manuscripts.",
+    "related_works": ["Mūlasarvāstivāda Vinayavastu", "Prātimokṣasūtra (Mūlasarvāstivāda)", "Vinayasūtravṛtti (Guṇaprabha)", "Dharmamitra's Ṭīkā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.thlib.org/collections/texts/jiats/?_escaped_fragment_=jiats=/05/nietupski/b5/",
+      "https://www.jstage.jst.go.jp/article/ibk/65/3/65_1171/_pdf",
+      "https://tibetanbuddhistencyclopedia.com/en/index.php/Gu%E1%B9%87aprabha%E2%80%99s_Vinayas%C5%ABtra_Corpus:_Texts_and_Contexts"
+    ]
+  },
+  {
+    "work_id": "K01vinv01_u",
+    "title": "Pravrajyāvastu",
+    "author": "anonymous/traditional (Mūlasarvāstivāda Vinaya)",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (Vinayavastu chapter on going-forth and ordination)",
+    "date_estimate": "compiled in the early centuries CE; Sanskrit (Gilgit) manuscripts mid-1st millennium CE",
+    "summary": "The first chapter (vastu) of the Mūlasarvāstivāda Vinayavastu, dealing with 'going forth' (pravrajyā) into the monastic life and the procedures of admission and ordination. It sets out who may be ordained, the disqualifications, and the legal acts for novice (pravrajyā) and full ordination, interwoven with narrative.",
+    "history": "Part of the Vinayavastu (Skandhaka), one of the four divisions of the Mūlasarvāstivāda Vinaya, transmitted in Sanskrit (Gilgit manuscripts), Tibetan (Toh 1, 'The Chapter on Going Forth') and Chinese. The Sanskrit Pravrajyāvastu has been critically edited and is widely studied.",
+    "related_works": ["Mūlasarvāstivāda Vinayavastu", "Poṣadhavastu", "Pravāraṇāvastu", "Vinayasūtra (Guṇaprabha)"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh1-1",
+      "https://www.mdpi.com/2077-1444/15/6/669",
+      "http://gretil.sub.uni-goettingen.de/gretilbk.htm"
+    ]
+  },
+  {
+    "work_id": "K01vinv02_u",
+    "title": "Poṣadhavastu",
+    "author": "anonymous/traditional (Mūlasarvāstivāda Vinaya)",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (Vinayavastu chapter on the poṣadha observance)",
+    "date_estimate": "compiled in the early centuries CE; Sanskrit (Gilgit) manuscripts mid-1st millennium CE",
+    "summary": "The Vinayavastu chapter governing the poṣadha (uposatha), the fortnightly communal observance at which monastics assemble, recite the Prātimokṣa, and confess transgressions. It regulates the boundary (sīmā), the quorum, and the procedure of the ceremony that maintains the unity and purity of the saṅgha.",
+    "history": "One of the topics (vastu) of the Mūlasarvāstivāda Vinayavastu (Skandhaka), preserved in Sanskrit (Gilgit), Tibetan and Chinese. It corresponds to the Uposathakkhandhaka of the Pali Vinaya and is a key source for monastic communal law.",
+    "related_works": ["Mūlasarvāstivāda Vinayavastu", "Pravrajyāvastu", "Pravāraṇāvastu", "Prātimokṣasūtra (Mūlasarvāstivāda)"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/canon-sections/discipline",
+      "https://encyclopediaofbuddhism.org/wiki/Vinaya_texts_(Tibetan_Canon)",
+      "https://en.wikipedia.org/wiki/Mulasarvastivada"
+    ]
+  },
+  {
+    "work_id": "K01vinv03_u",
+    "title": "Pravāraṇāvastu",
+    "author": "anonymous/traditional (Mūlasarvāstivāda Vinaya)",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (Vinayavastu chapter on the pravāraṇā ceremony)",
+    "date_estimate": "compiled in the early centuries CE; Sanskrit (Gilgit) manuscripts mid-1st millennium CE",
+    "summary": "The Vinayavastu chapter on the pravāraṇā, the 'invitation' ceremony held at the close of the rains-retreat at which each monk invites the community to point out any faults he has committed. It regulates the procedure by which the saṅgha collectively reviews conduct before dispersing.",
+    "history": "A topic (vastu) of the Mūlasarvāstivāda Vinayavastu (Skandhaka), preserved in Sanskrit (Gilgit), Tibetan and Chinese, corresponding to the Pavāraṇākkhandhaka of the Pali Vinaya. It is closely paired with the Varṣāvastu on the rains-retreat.",
+    "related_works": ["Mūlasarvāstivāda Vinayavastu", "Varṣāvastu", "Poṣadhavastu", "Pravrajyāvastu"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/canon-sections/discipline",
+      "https://encyclopediaofbuddhism.org/wiki/Vinaya_texts_(Tibetan_Canon)"
+    ]
+  },
+  {
+    "work_id": "K01vinv04_u",
+    "title": "Varṣāvastu",
+    "author": "anonymous/traditional (Mūlasarvāstivāda Vinaya)",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (Vinayavastu chapter on the rains-retreat)",
+    "date_estimate": "compiled in the early centuries CE; Sanskrit (Gilgit) manuscripts mid-1st millennium CE",
+    "summary": "The Vinayavastu chapter (also called Vārṣikavastu) regulating the varṣā, the obligatory three-month rains-retreat during which monastics remain settled in one residence. It sets out the rules for entering and observing the retreat and the permitted reasons for temporary absence.",
+    "history": "A topic (vastu) of the Mūlasarvāstivāda Vinayavastu (Skandhaka), preserved in Sanskrit (Gilgit), Tibetan and Chinese, corresponding to the Vassūpanāyikakkhandhaka of the Pali Vinaya. The rains-retreat structures the monastic year and is closely linked to the following Pravāraṇā and Kaṭhina observances.",
+    "related_works": ["Mūlasarvāstivāda Vinayavastu", "Pravāraṇāvastu", "Kaṭhinavastu", "Cīvaravastu"],
+    "confidence": "high",
+    "sources": [
+      "https://www.jstage.jst.go.jp/article/ibk/65/3/65_1171/_pdf",
+      "https://encyclopediaofbuddhism.org/wiki/Vinaya_texts_(Tibetan_Canon)"
+    ]
+  },
+  {
+    "work_id": "K01vinv05_u",
+    "title": "Carmavastu",
+    "author": "anonymous/traditional (Mūlasarvāstivāda Vinaya)",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (Vinayavastu chapter on leather/hides)",
+    "date_estimate": "compiled in the early centuries CE; Sanskrit (Gilgit) manuscripts mid-1st millennium CE",
+    "summary": "The Vinayavastu chapter on leather and hides (carman), regulating monastics' use of skins, footwear and leather articles — what is permitted, what is prohibited, and under what conditions. The chapter is famously prefaced by the narrative of the monk Śroṇa Koṭīkarṇa, which frames the relaxation of certain rules in border regions.",
+    "history": "A topic (vastu) of the Mūlasarvāstivāda Vinayavastu (Skandhaka), preserved in Sanskrit (Gilgit), Tibetan and Chinese, corresponding to the Cammakkhandhaka of the Pali Vinaya. In some enumerations of the vastus the order of Carma- and Cīvara-vastu varies.",
+    "related_works": ["Mūlasarvāstivāda Vinayavastu", "Cīvaravastu", "Kaṭhinavastu", "Bhaiṣajyavastu"],
+    "confidence": "high",
+    "sources": [
+      "https://www.jstage.jst.go.jp/article/ibk/65/3/65_1171/_pdf",
+      "https://encyclopediaofbuddhism.org/wiki/Vinaya_texts_(Tibetan_Canon)"
+    ]
+  },
+  {
+    "work_id": "K01vinv07_u",
+    "title": "Cīvaravastu",
+    "author": "anonymous/traditional (Mūlasarvāstivāda Vinaya)",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (Vinayavastu chapter on robes)",
+    "date_estimate": "compiled in the early centuries CE; Sanskrit (Gilgit) manuscripts mid-1st millennium CE",
+    "summary": "The Vinayavastu chapter on monastic robes (cīvara), regulating the acquisition, allotment, making, and ownership of robes, the handling of the robes of deceased monks, and related material matters. It contains substantial narrative material alongside its legal prescriptions.",
+    "history": "A topic (vastu) of the Mūlasarvāstivāda Vinayavastu (Skandhaka), preserved in Sanskrit (Gilgit), Tibetan and Chinese, corresponding to the Cīvarakkhandhaka of the Pali Vinaya. Bilingual Sanskrit–Tocharian fragments containing extracts from the Cīvaravastu are attested, indicating its wide circulation in Central Asia.",
+    "related_works": ["Mūlasarvāstivāda Vinayavastu", "Kaṭhinavastu", "Carmavastu", "Varṣāvastu"],
+    "confidence": "high",
+    "sources": [
+      "https://www.mdpi.com/2077-1444/15/6/669",
+      "https://encyclopediaofbuddhism.org/wiki/Vinaya_texts_(Tibetan_Canon)"
+    ]
+  },
+  {
+    "work_id": "K01vinv08_u",
+    "title": "Kaṭhinavastu",
+    "author": "anonymous/traditional (Mūlasarvāstivāda Vinaya)",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (Vinayavastu chapter on the kaṭhina robe ceremony)",
+    "date_estimate": "compiled in the early centuries CE; Sanskrit (Gilgit) manuscripts mid-1st millennium CE",
+    "summary": "The Vinayavastu chapter on the kaṭhina, the ceremony following the rains-retreat in which the laity offer cloth that the community formally makes up and 'spreads' as a robe, thereby earning certain temporary relaxations of the robe rules. It regulates the conditions, performance, and lapsing of the kaṭhina privileges.",
+    "history": "A topic (vastu) of the Mūlasarvāstivāda Vinayavastu (Skandhaka), preserved in Sanskrit (Gilgit), Tibetan and Chinese, corresponding to the Kaṭhinakkhandhaka of the Pali Vinaya. It links the rains-retreat cycle (Varṣā, Pravāraṇā) with the robe rules of the Cīvaravastu.",
+    "related_works": ["Mūlasarvāstivāda Vinayavastu", "Cīvaravastu", "Varṣāvastu", "Pravāraṇāvastu"],
+    "confidence": "high",
+    "sources": [
+      "https://www.jstage.jst.go.jp/article/ibk/65/3/65_1171/_pdf",
+      "https://encyclopediaofbuddhism.org/wiki/Vinaya_texts_(Tibetan_Canon)"
+    ]
+  }
+]

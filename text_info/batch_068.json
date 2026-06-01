@@ -1,0 +1,320 @@
+[
+  {
+    "work_id": "XXn2898u",
+    "title": "Svapnādhyāya",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (divination/nimittaśāstra); the title also occurs in Buddhist contexts",
+    "genre": "divination treatise (oneiromancy / dream-omen text)",
+    "date_estimate": "uncertain; the genre is ancient (1st millennium CE), individual recensions later and variable",
+    "summary": "A 'chapter/treatise on dreams' (svapna-adhyāya), i.e. a manual of oneiromancy classifying auspicious and inauspicious dreams and their predictive meanings. Such texts form one of the recognized divisions of the 'science of omens' (nimittaśāstra) and circulate both as independent tracts and as embedded chapters in larger works (e.g. the Agni Purāṇa's dream chapter, the Suśruta Saṃhitā's section on dreams).",
+    "history": "Svapnādhyāya is a generic title shared by several short anonymous dream-interpretation texts in the Sanskrit (and Buddhist) traditions rather than a single fixed work; dream divination also entered later redactions of texts such as the Divyāvadāna. Without a specific manuscript or recension it cannot be pinned to one author or date.",
+    "related_works": ["Agni Purāṇa", "Nimittaśāstra literature"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/svapnadhyaya",
+      "https://www.wisdomlib.org/hinduism/book/the-agni-purana/d/doc1083458.html"
+    ]
+  },
+  {
+    "work_id": "XXn2927u",
+    "title": "Buddhakapālatantra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayāna, Yoginītantra class)",
+    "genre": "tantra",
+    "date_estimate": "c. 9th-10th c. CE",
+    "summary": "A Buddhist Yoginītantra of the Heruka/Yoginī class centered on the deity Buddhakapāla ('Buddha-skull') and his consort, teaching maṇḍala, mantra, deity-yoga and transgressive yoginī-cult ritual and practice aimed at the attainment of mahāmudrā-siddhi. It belongs to the same milieu as the Hevajra, Cakrasaṃvara and Saṃvarodaya tantras.",
+    "history": "The Yoginītantras are a late stratum of Indian Buddhist tantric literature, emerging no earlier than the 8th century and prominent in the 9th-10th centuries. The Buddhakapālatantra survives in Sanskrit and in Tibetan translation with commentary, and is associated with the mahāsiddha lineages.",
+    "related_works": ["Hevajratantra", "Cakrasaṃvaratantra", "Saṃvarodayatantra"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tantras_(Buddhism)",
+      "https://www.mdpi.com/2077-1444/12/11/927"
+    ]
+  },
+  {
+    "work_id": "XXn2938u",
+    "title": "Ḍākārṇava",
+    "author": "anonymous/traditional (Tibetan tradition attributes commentary to Padmavajra)",
+    "tradition": "Buddhist (Vajrayāna, Cakrasaṃvara/Śaṃvara tradition)",
+    "genre": "tantra (explanatory yoginītantra)",
+    "date_estimate": "c. late 10th-early 12th c. CE",
+    "summary": "The Ḍākārṇava ('Ocean of the Ḍāka'), fully Śrīḍākārṇavamahāyoginītantrarāja, is a large, inclusive Buddhist Yoginītantra of the Cakrasaṃvara cycle that integrates deities from numerous tantric traditions and the Buddhist cosmos into the Saṃvara system, describing the Heruka maṇḍala, sacred sites (pīṭhas), and yoginī practice. It functions as one of the principal explanatory tantras of the Saṃvara corpus.",
+    "history": "Composed in eastern India between the late 10th and early 12th centuries, it was translated into Tibetan (with Padmavajra's Vohitā commentary) by Jayasena and Dharma yon tan in 12th-century Kathmandu. It is studied as a key witness to the late, encyclopedic phase of Indian tantric Buddhism.",
+    "related_works": ["Cakrasaṃvaratantra", "Saṃpuṭatantra", "Hevajratantra"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/dakarnava",
+      "https://en.wikipedia.org/wiki/Cakrasa%E1%B9%83vara_Tantra",
+      "https://library.oapen.org/handle/20.500.12657/57189"
+    ]
+  },
+  {
+    "work_id": "XXn690u",
+    "title": "Nānāsiddhopadeśa",
+    "author": "anonymous/traditional",
+    "tradition": "uncertain; likely tantric/siddha milieu (Buddhist or Nātha-Śaiva)",
+    "genre": "upadeśa (instructional treatise) on siddhi attainments",
+    "date_estimate": "uncertain (medieval; 1st-2nd millennium CE)",
+    "summary": "The title means 'instruction on the various siddhis (perfections/accomplishments)', indicating a short tantric/yogic manual conveying esoteric teachings on attaining diverse magical and spiritual powers. The specific recension and tradition could not be confidently established.",
+    "history": "An obscure text not well documented in the standard reference literature; it belongs to the broad siddha-upadeśa genre cultivated in both Buddhist Vajrayāna and Hindu Nātha/Śaiva circles. Its author, date and affiliation remain unverified.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/svapnadhyaya"
+    ]
+  },
+  {
+    "work_id": "XXn693u",
+    "title": "Advayavajrasaṃgraha",
+    "author": "Advayavajra (Maitrīpāda / Maitrīpa, c. 1007-1085)",
+    "tradition": "Buddhist (Vajrayāna; Mahāmudrā / apratiṣṭhāna-Madhyamaka, Siddha tradition)",
+    "genre": "collection of philosophical/tantric treatises (saṃgraha)",
+    "date_estimate": "11th c. CE",
+    "summary": "A modern editorial collection (first edited by H. P. Śāstrī/Bhattacharyya, 1927) of about twenty-one short works attributed to Advayavajra, treating non-conceptual realization (amanasikāra), Mahāmudrā, and a strongly anti-foundational Madhyamaka view (apratiṣṭhāna), blending Siddha tantric and Madhyamaka thought. Component texts include the Tattvaratnāvalī, Nairātmyāprakāśa, Caturmudropadeśa and others.",
+    "history": "Advayavajra is another name for the mahāsiddha Maitrīpāda (Maitrīpa), a major figure in the transmission of Mahāmudrā. In Tibet these texts correspond largely to the 'Amanasikāra cycle'; the Sanskrit collection assembled under this title is a scholarly grouping of his short works.",
+    "related_works": ["Tattvaratnāvalī", "Nairātmyāprakāśa", "Caturmudropadeśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Maitripada",
+      "https://www.wisdomlib.org/definition/advayavajra",
+      "https://link.springer.com/article/10.1007/s10781-018-9363-5"
+    ]
+  },
+  {
+    "work_id": "XXn740u",
+    "title": "Advayasiddhi",
+    "author": "Lakṣmīṅkarā (Lakṣmī; a yoginī, traditionally sister of king Indrabhūti of Oḍḍiyāna)",
+    "tradition": "Buddhist (Vajrayāna; sahaja / mahāmudrā siddha tradition)",
+    "genre": "tantric philosophical manual (siddhi)",
+    "date_estimate": "c. 8th-9th c. CE",
+    "summary": "A brief tantric work of about thirty-six verses expounding a non-dual (advaya) view of Vajrayāna emancipation, critical of external ritualism and image-worship in favour of inner sahaja realization. It is notable as a rare early Buddhist tantric text authored by a woman.",
+    "history": "Attributed to Lakṣmīṅkarā, counted among the eighty-four mahāsiddhas and traditionally a princess of Oḍḍiyāna. Long lost in Sanskrit and preserved in Tibetan translation in the Tengyur (alongside two of her other works); it is valued as an example of bold female-authored Vajrayāna doctrine.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://thebuddhawiki.com/doku.php?id=advayasiddhi",
+      "https://www.academia.edu/67270855/Advayasiddhi_of_Yogini_Lakshminkara_Bengali_Translation"
+    ]
+  },
+  {
+    "work_id": "0",
+    "title": "Saundaryalaharī",
+    "author": "traditionally attributed to Śaṅkarācārya (authorship disputed)",
+    "tradition": "Hindu (Śākta / Śrīvidyā Tantra)",
+    "genre": "stotra (devotional hymn) with strong tantric content",
+    "date_estimate": "disputed; commonly placed in the latter 1st millennium CE, plausibly c. 7th-10th c. CE; the attribution to Ādi Śaṅkara (c. 8th c.) is questioned",
+    "summary": "A celebrated hymn of (traditionally) one hundred verses in the śikhariṇī metre praising the Goddess Tripurasundarī. The first part (Ānandalaharī, 'wave of bliss') is heavily tantric, treating the Śrīcakra, kuṇḍalinī, mantra and yantra; the second part (the 'Saundaryalaharī' proper) lyrically describes the Goddess's beauty from head to foot.",
+    "history": "Traditionally ascribed to Ādi Śaṅkara, but many scholars doubt this, suggesting a later Śrīvidyā-tantra author or a different 'Śaṅkara'. The text is an epitome of Śākta Tantrism, accreted with dozens of commentaries (notably Lakṣmīdhara's) and a rich ritual/yantra tradition.",
+    "related_works": ["Śrīvidyā / Tripurasundarī stotra literature"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Saundarya_Lahari",
+      "https://www.wisdomlib.org/hinduism/essay/soundarya-lahari-of-shri-shankara-study"
+    ]
+  },
+  {
+    "work_id": "E00012",
+    "title": "Kāllottara (Kālottara)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śaiva Siddhānta)",
+    "genre": "tantra / āgama (ritual scripture)",
+    "date_estimate": "uncertain; early-medieval (c. mid 1st millennium CE), with recensions of varying length",
+    "summary": "The Kālottara (also spelled Kāllottara) is an influential Śaiva Siddhānta scripture circulating in multiple recensions of differing verse-length (e.g. 50, 100, 150 verses; the shortest being the Śatika-Kālajñāna). It supplies doctrine, mantra and ritual material on which many surviving Saiddhāntika ritual manuals are based.",
+    "history": "An important but long under-edited tantra, quoted by later authorities such as Kṣemarāja, Hemādri, Raghunandana and Kamalākara. This entry corresponds to a Muktabodha digital-library e-text (work id E00012); the project records two 'kāllotara' items (this and E0011), apparently different recensions/copies.",
+    "related_works": ["Śatika-Kālajñāna (short Kālottara recension)", "Niśvāsa corpus", "Śaiva Siddhānta āgamas"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kalottara",
+      "https://www.academia.edu/3350036/A_first_edition_of_the_%C5%9Aatika_K%C4%81laj%C3%B1%C4%81na_the_shortest_of_the_non_eclectic_recensions_of_the_K%C4%81lottara"
+    ]
+  },
+  {
+    "work_id": "E0002",
+    "title": "Cinmantramālinī",
+    "author": "Prakāśānanda (likely the 16th-c. author; identity uncertain for this title)",
+    "tradition": "Hindu (Śākta / Advaita-leaning tantra)",
+    "genre": "tantric mantra-manual / stotra",
+    "date_estimate": "uncertain; possibly c. 16th c. CE if by the known Prakāśānanda",
+    "summary": "The title ('garland [mālinī] of the mantra of consciousness [cit]') indicates a Śākta/non-dual tantric work organized as a sequence (mālā/mālinī) of mantras and meditations on consciousness as the supreme reality. The specific content could not be confirmed from available sources.",
+    "history": "Attributed to a Prakāśānanda; a well-known Prakāśānanda flourished c. 1550-1600 (author of the Advaita Vedānta Siddhāntamuktāvalī), though it is uncertain whether he authored this tantric text. The entry corresponds to a Muktabodha digital-library e-text (id E0002).",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/prakashananda",
+      "https://www.wisdomlib.org/hinduism/book/a-history-of-indian-philosophy-volume-2/d/doc209889.html"
+    ]
+  },
+  {
+    "work_id": "E0003",
+    "title": "Dattātreyabodha",
+    "author": "anonymous/traditional (attributed to Dattātreya)",
+    "tradition": "Hindu (Advaita / Avadhūta yoga tradition of Dattātreya)",
+    "genre": "philosophical/spiritual instruction (bodha)",
+    "date_estimate": "uncertain (medieval to early-modern)",
+    "summary": "A short text in the Dattātreya tradition whose title means 'the awakening/instruction (bodha) of Dattātreya', presumably conveying non-dual, avadhūta-style realization associated with the deity-sage Dattātreya (the combined form of Brahmā, Viṣṇu and Śiva and a paradigmatic lord of yoga). The precise content and recension could not be verified.",
+    "history": "Belongs to the broad corpus of Dattātreya works (alongside the Avadhūta Gītā, Dattātreya Upaniṣad, Dattātreya Yogaśāstra, etc.); a specific 'Dattātreyabodha' is not well documented in standard references. The entry corresponds to a Muktabodha digital-library e-text (id E0003).",
+    "related_works": ["Avadhūta Gītā", "Dattātreya Upaniṣad"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dattatreya",
+      "https://sanskritdocuments.org/iast/dattatreya/"
+    ]
+  },
+  {
+    "work_id": "E0004",
+    "title": "Cinmayadīkṣāvidhāna",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śaiva / Śākta tantra)",
+    "genre": "ritual manual (paddhati / vidhāna) on initiation",
+    "date_estimate": "uncertain (medieval to early-modern)",
+    "summary": "A tantric ritual manual setting out the procedure (vidhāna) for 'consciousness-pervaded' initiation (cinmaya-dīkṣā), i.e. the rite by which a guru transmits liberating consciousness to the disciple. It belongs to the Śaiva/Śākta initiatory ritual literature.",
+    "history": "An obscure ritual text known chiefly through manuscript/e-text catalogues; this entry corresponds to a Muktabodha digital-library e-text (id E0004). Author and date are not established.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://muktabodha.org/digital-library/"
+    ]
+  },
+  {
+    "work_id": "E0005",
+    "title": "Jñānadīkṣā",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śaiva / Śākta tantra)",
+    "genre": "ritual / doctrinal treatise on initiation",
+    "date_estimate": "uncertain (medieval)",
+    "summary": "The title 'Jñānadīkṣā' denotes the 'initiation by knowledge' (jñāna-dīkṣā), a form of higher, non-ritual or gnostic initiation in Śaiva/Śākta tantra by which the guru confers liberating knowledge directly. The text presumably expounds the doctrine and procedure of this initiation.",
+    "history": "An obscure tantric initiation text documented through manuscript/e-text catalogues; this entry corresponds to a Muktabodha digital-library e-text (id E0005). Author, date and exact affiliation are unverified.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://muktabodha.org/digital-library/"
+    ]
+  },
+  {
+    "work_id": "E0006",
+    "title": "Jñānasiddhyāgama",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śaiva Siddhānta / āgama tradition)",
+    "genre": "āgama (scripture)",
+    "date_estimate": "uncertain (1st-2nd millennium CE)",
+    "summary": "An āgama (revealed Śaiva scripture) whose title means 'āgama of the attainment of knowledge' (jñāna-siddhi), presumably treating the jñāna-pāda (doctrinal/gnostic section) of Śaiva revelation, alongside the usual āgamic concerns of ritual, yoga and conduct. The precise recension is unconfirmed.",
+    "history": "Part of the large body of South Indian Śaiva āgamas/upāgamas, many of which survive only in manuscripts being edited by institutions such as the IFP and Muktabodha. This entry corresponds to a Muktabodha digital-library e-text (id E0006); its author and date are not established.",
+    "related_works": ["Śaiva Siddhānta āgama corpus"],
+    "confidence": "low",
+    "sources": [
+      "https://muktabodha.org/75-saiva-texts-in-new-project-with-ifp-2/"
+    ]
+  },
+  {
+    "work_id": "E0008",
+    "title": "Dhyānaratnāvali",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (tantric / devotional; likely Śaiva-Śākta)",
+    "genre": "compilation of meditation/visualization verses (dhyāna)",
+    "date_estimate": "uncertain (medieval to early-modern)",
+    "summary": "The title 'Dhyānaratnāvalī' ('jewel-garland of meditations') indicates an anthology of dhyāna verses — iconographic visualization formulae describing deities for meditation and worship. Such collections are used in tantric and pūjā contexts to fix the mental image of deities before mantra recitation.",
+    "history": "An obscure compilatory text known through manuscript/e-text catalogues; this entry corresponds to a Muktabodha digital-library e-text (id E0008). Author and date are not established.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://muktabodha.org/digital-library/"
+    ]
+  },
+  {
+    "work_id": "E0009",
+    "title": "Matatrayaikyaprakāśikā",
+    "author": "Aiyyaṇācārya (Aiyyaṇa)",
+    "tradition": "Hindu (non-dualist synthesis of Śaiva, Vaiṣṇava and Advaita Vedānta)",
+    "genre": "philosophical treatise (synthetic / doxographic)",
+    "date_estimate": "uncertain (medieval to early-modern South India)",
+    "summary": "A treatise 'illuminating the unity (aikya) of the three systems (matatraya)' — arguing that Śaiva, Vaiṣṇava and the non-dualist Vedānta of the Upaniṣads ultimately teach the same non-dual reality. It is a harmonizing/conciliatory work in the spirit of South Indian samarasa thought.",
+    "history": "Attributed to Aiyyaṇācārya, an otherwise little-documented author; the text survives as a Muktabodha digital-library e-text (id E0009). Its date and precise sectarian background are not securely established.",
+    "related_works": [],
+    "confidence": "medium",
+    "sources": [
+      "https://muktalib7.com/DL_CATALOG_ROOT/MUKTABODHA-LIBRARY-DEVANAGARI/matatrayaikyaprakAzikA-E0009-DEV.txt",
+      "https://www.academia.edu/9140449/The_%C5%9Aaiva_Literature_Journal_of_Indological_Studies_Kyoto_Nos_24_and_25_2012_2013_2014_pp_1_113"
+    ]
+  },
+  {
+    "work_id": "E0010",
+    "title": "Vijayottaratantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śaiva tantra)",
+    "genre": "tantra",
+    "date_estimate": "uncertain (early-medieval)",
+    "summary": "A Śaiva tantra; the title 'Vijayottara(tantra)' suggests an 'uttara' (later/supplementary) recension associated with a 'Vijaya' scripture. It may be related to, or confused with, the well-known Trika Mālinīvijayottaratantra, or be a distinct Vijaya-class Śaiva tantra; the identity could not be confirmed.",
+    "history": "Known through manuscript/e-text catalogues (this entry corresponds to a Muktabodha digital-library e-text, id E0010). Whether it is independent of the famous Mālinīvijayottara (commented on by Abhinavagupta) is unclear, so the identification remains tentative.",
+    "related_works": ["Mālinīvijayottaratantra (possible relation)"],
+    "confidence": "low",
+    "sources": [
+      "https://muktabodha.org/digital-library/",
+      "https://www.sanskrit-trikashaivism.com/en/malinivijayottaratantra-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/828"
+    ]
+  },
+  {
+    "work_id": "E0011",
+    "title": "Kāllottara (Kālottara)",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śaiva Siddhānta)",
+    "genre": "tantra / āgama (ritual scripture)",
+    "date_estimate": "uncertain; early-medieval (c. mid 1st millennium CE), recensions of varying length",
+    "summary": "Another copy/recension of the Kālottara, an influential Śaiva Siddhānta scripture transmitted in several recensions of differing verse-length, supplying the doctrinal, mantric and ritual basis for many surviving Saiddhāntika manuals. (Duplicate title to E00012 within this project.)",
+    "history": "The Kālottara was widely quoted by later authorities (Kṣemarāja, Hemādri, Raghunandana, Kamalākara) and underlies much Śaiva Siddhānta ritual practice. This entry corresponds to a second Muktabodha digital-library e-text labelled 'kāllotara' (id E0011), apparently a distinct recension or copy from E00012.",
+    "related_works": ["Śatika-Kālajñāna (short Kālottara recension)", "Śaiva Siddhānta āgamas"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kalottaratantra",
+      "https://www.academia.edu/3350036/A_first_edition_of_the_%C5%9Aatika_K%C4%81laj%C3%B1%C4%81na_the_shortest_of_the_non_eclectic_recensions_of_the_K%C4%81lottara"
+    ]
+  },
+  {
+    "work_id": "M00001",
+    "title": "Āgamaprāmāṇya",
+    "author": "Yāmunācārya (Yāmunācārya-svāmin, c. 918-1038 CE / traditionally 10th-11th c.)",
+    "tradition": "Hindu (Śrīvaiṣṇava; Viśiṣṭādvaita Vedānta defending Pāñcarātra)",
+    "genre": "philosophical/polemical treatise (prāmāṇya — on scriptural authority)",
+    "date_estimate": "c. 10th-early 11th c. CE",
+    "summary": "A polemical treatise establishing the scriptural authority (prāmāṇya) of the Pāñcarātra Āgamas, arguing they are as authoritative as the Veda and refuting Mīmāṃsaka and other objections to their validity. It defends the Vaiṣṇava ritual-theological tradition against charges of non-Vedic, heterodox origin.",
+    "history": "By Yāmunācārya (Ālavandār), the grand-teacher of Rāmānuja, who laid the philosophical foundations of Viśiṣṭādvaita Śrīvaiṣṇavism. Together with his Gītārthasaṃgraha it is among his most important surviving works and was foundational for the later Śrīvaiṣṇava acceptance of Pāñcarātra as orthodox.",
+    "related_works": ["Gītārthasaṃgraha", "Pāñcarātra Saṃhitās"],
+    "confidence": "high",
+    "sources": [
+      "https://www.hindupedia.com/en/Y%C4%81mun%C4%81c%C4%81rya",
+      "https://www.wisdomlib.org/definition/agamapramanya",
+      "https://books.google.com/books/about/%C4%80gamapr%C4%81m%C4%81%E1%B9%87ya_of_Y%C4%81mun%C4%81c%C4%81rya.html?id=o5iLBMssEccC"
+    ]
+  },
+  {
+    "work_id": "M00002a",
+    "title": "Ahirbudhnyasaṃhitā, Volume 1",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu (Vaiṣṇava; Pāñcarātra Āgama, with strong tantric and Śākta elements)",
+    "genre": "saṃhitā / āgama (scripture)",
+    "date_estimate": "composite; early-to-mid 1st millennium CE (frequently placed c. 2nd-7th c. CE; disputed)",
+    "summary": "Volume 1 of the Ahirbudhnyasaṃhitā, a major Pāñcarātra scripture cast as a dialogue revealed by Ahirbudhnya (a form of Śiva/Rudra) to Nārada. It expounds Pāñcarātra cosmology and metaphysics (the vyūhas, śakti, the unfolding of the cosmos from Viṣṇu-Nārāyaṇa), as well as mantra-śāstra, the Sudarśana cakra, ritual, yoga and even statecraft/weaponry.",
+    "history": "One of the most important and philosophically rich Pāñcarātra Saṃhitās; F. O. Schrader's 'Introduction to the Pāñcarātra and the Ahirbudhnya Saṃhitā' (1916) made it a key text for Western study of the tradition. Its date is much disputed and the text is likely composite, accreted over several centuries.",
+    "related_works": ["Lakṣmītantra", "Jayākhyasaṃhitā", "Pāñcarātra Saṃhitā corpus"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ahirbudhnya_Samhita",
+      "https://archive.org/details/introtothepancar00shcruoft"
+    ]
+  },
+  {
+    "work_id": "M00002b",
+    "title": "Ahirbudhnyasaṃhitā, Volume 2",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu (Vaiṣṇava; Pāñcarātra Āgama, with strong tantric and Śākta elements)",
+    "genre": "saṃhitā / āgama (scripture)",
+    "date_estimate": "composite; early-to-mid 1st millennium CE (frequently placed c. 2nd-7th c. CE; disputed)",
+    "summary": "Volume 2 (continuation) of the Ahirbudhnyasaṃhitā, the same Pāñcarātra scripture revealed by Ahirbudhnya to Nārada. The later portions continue its treatment of mantra-śāstra, the Sudarśana cakra, ritual worship, yoga, and applied topics, completing the work begun in Volume 1.",
+    "history": "Part of the same major Pāñcarātra text as M00002a, split into two volumes in this edition. Foundational for the study of Vaiṣṇava tantric theology since Schrader's work; its composite character and uncertain dating apply throughout.",
+    "related_works": ["Ahirbudhnyasaṃhitā Volume 1", "Lakṣmītantra", "Jayākhyasaṃhitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ahirbudhnya_Samhita",
+      "https://archive.org/details/introtothepancar00shcruoft"
+    ]
+  }
+]

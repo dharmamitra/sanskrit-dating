@@ -1,0 +1,331 @@
+[
+  {
+    "work_id": "K10bsu024_u",
+    "title": "Mahāsannipātaratnaketudhāraṇīsūtra [Ratnaketuparivarta, Ratnaketudhāraṇīsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra (Mahāyāna sūtra / dhāraṇī)",
+    "date_estimate": "c. 1st-3rd c. CE (formative Mahāyāna period); extant Sanskrit incomplete",
+    "summary": "A Mahāyāna sūtra that forms one of the core constituent texts of the great Mahāsannipāta ('Great Collection') corpus, also circulating independently as the Ratnaketu Dhāraṇī. It centers on the bodhisattva/buddha Ratnaketu and presents narratives of the Buddha subduing Māra and his hosts together with protective dhāraṇī formulas. The text dramatizes cosmic struggle between the Dharma and demonic forces and the power of the buddhas to safeguard practitioners.",
+    "history": "It is counted among the earliest stratum of Mahāyāna literature, datable to the first centuries CE. The Sanskrit survives only incompletely (notably in Gilgit and Central Asian fragments), with the complete text preserved in the Tibetan Kangyur (Toh 138) and in Chinese translation; it was incorporated as the Ratnaketuparivarta within the larger Mahāsannipāta collection.",
+    "related_works": ["Mahāsannipātasūtra (Mahāsaṃnipāta collection)"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh138",
+      "https://en.wikipedia.org/wiki/Mahasamnipata_Sutra",
+      "https://www.rigpawiki.org/index.php?title=The_Ratnaketu_Dharani"
+    ]
+  },
+  {
+    "work_id": "K10bsu026_u",
+    "title": "Pratītyasamutpādamahāyānasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra (short Mahāyāna sūtra)",
+    "date_estimate": "mid-1st millennium CE",
+    "summary": "A short Mahāyāna sūtra on dependent origination (pratītyasamutpāda). In its frame the Buddha, residing in the Heaven of the Thirty-Three, is asked by Avalokiteśvara about the merit gained from building a stūpa; the Buddha responds by reciting the Buddhist creed (ye dharmā hetuprabhavā…) on dependent arising and declares that this dependent arising is itself the dharmakāya. It thus links the doctrine of conditioned causation to the practice of enshrining relics and the verse-formula placed inside stūpas and images.",
+    "history": "The 'ye dharmā' creed at its heart is one of the most widely deposited dhāraṇī-like formulas in Buddhist Asia, inscribed in countless stūpas and clay tablets. The sūtra is preserved in Sanskrit and in the Tibetan Kangyur (Sūtra on Dependent Arising, Toh 212) and corresponding Chinese versions.",
+    "related_works": ["Pratītyasamutpādasūtra"],
+    "confidence": "medium",
+    "sources": [
+      "https://read.84000.co/translation/toh212.html",
+      "https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da",
+      "https://www.rigpawiki.org/index.php?title=Sutra_on_Dependent_Arising"
+    ]
+  },
+  {
+    "work_id": "K10bsu032_u",
+    "title": "Sukhāvatyamṛtavyūha [Sukhāvatī(amṛta)vyūhasūtra], the Smaller Sukhāvatīvyūha",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna, Pure Land)",
+    "genre": "sutra (Mahāyāna sūtra)",
+    "date_estimate": "c. 1st-2nd c. CE (probably before c. 100 CE)",
+    "summary": "The shorter of the two Sukhāvatīvyūha sūtras (the 'Amitābha Sūtra'), a foundational Pure Land scripture. It describes Sukhāvatī, the western Pure Land of the Buddha Amitābha, in glowing detail and teaches that rebirth there can be attained by single-minded faith and recollection of Amitābha's name at the moment of death. Unlike the larger Sukhāvatīvyūha, it emphasizes faith and devotion over the accumulation of good works.",
+    "history": "Scholars such as Luis Gómez and Julian Pas place its written composition in the 1st-2nd century CE in greater Gandhāra/northwest India, with the smaller version generally regarded as earlier. It became one of the three principal Pure Land sūtras of East Asian Buddhism (Chinese, Japanese Jōdo and Shin schools) and survives in Sanskrit, Chinese, and Tibetan.",
+    "related_works": ["Sukhāvatīvyūhasūtra (Larger)", "Amitāyurdhyānasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh115",
+      "https://en.wikipedia.org/wiki/Amitabha_Sutra",
+      "https://www.britannica.com/topic/Pure-Land-Sutra"
+    ]
+  },
+  {
+    "work_id": "K10bsu037_u",
+    "title": "Sarvatathāgatādhiṣṭhānavyūhasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra (Mahāyāna sūtra, with dhāraṇī/proto-tantric elements)",
+    "date_estimate": "mid-1st millennium CE (uncertain)",
+    "summary": "A Mahāyāna sūtra whose title means 'The Array of the Blessing/Empowerment (adhiṣṭhāna) of All the Tathāgatas.' It concerns the consecrating power and grace bestowed by all the buddhas, in the genre of 'vyūha' (display/array) scriptures, and is associated in fuller titles with the vision of buddha-fields and with dhāraṇī. Its subject is the salvific blessing-power of the tathāgatas extended to beings and to sacred objects.",
+    "history": "The text survives chiefly in Sanskrit manuscript and in canonical translation; it belongs to the broad current of vyūha and dhāraṇī sūtras that mediated between Mahāyāna and emerging tantric practice. Precise dating and recension are not securely established, and the title appears in fuller forms (e.g. Sarvatathāgatādhiṣṭhāna-sattvāvalokana-buddhakṣetra-saṃdarśana-vyūha).",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/sarvatathagata",
+      "https://www.scribd.com/doc/271679926/Sarva-Tathagata-Adhisthana-Sattva-Avalokita-Buddha-Ksetra-Samdarsana-Vyuha-Raja-Dharani-Sanskrit-Cohen-R"
+    ]
+  },
+  {
+    "work_id": "K10bsu038_u",
+    "title": "Sāgaranāgarājaparipṛcchā Nāma Mahāyānasūtra [Sāgaranāgarājaparipṛcchāsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra (Mahāyāna paripṛcchā 'questions' sūtra)",
+    "date_estimate": "mid-1st millennium CE",
+    "summary": "A 'Questions of the Nāga King Sāgara' Mahāyāna sūtra, set in the underwater court of the nāga (serpent) king Sāgara. The Buddha discourses to the nāga king and an assembly on karma and its effects, explaining that the variety of forms and indeed all phenomena arise from virtuous and nonvirtuous actions, and (in the shorter recension) that reciting the four seals of the Dharma equals reciting all 84,000 articles of the teaching.",
+    "history": "Three distinct sūtras of this title (long, medium, short) are preserved in the Tibetan Kangyur (Toh 153-155), reflecting a popular cycle of nāga-king teachings in Mahāyāna; the texts survive in Sanskrit, Tibetan, and Chinese. Sāgara is a prominent nāgarāja throughout Mahāyāna scripture (notably the Lotus Sūtra and Prajñāpāramitā literature).",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh153",
+      "https://read.84000.co/translation/toh154.html",
+      "https://84000.co/translation/toh155"
+    ]
+  },
+  {
+    "work_id": "K10bsu039_u",
+    "title": "Triskandhasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra (confession/liturgical sūtra)",
+    "date_estimate": "mid-1st millennium CE",
+    "summary": "The 'Sūtra of the Three Heaps' (Triskandha[dharma]sūtra), a Mahāyāna confessional liturgy. Its title reflects three sections—(1) homage/prostration to the Thirty-five Confession Buddhas, (2) confession of negative actions, and (3) dedication of merit—the 'three heaps' of practice. It is widely used to purify transgressions of the bodhisattva vows.",
+    "history": "Traditionally drawn from the Ratnakūṭa (Ratnarāśi) collection, it became a central purification rite in Indo-Tibetan Buddhism, with distinct ritual traditions developed in the Madhyamaka (Nāgārjuna) and Yogācāra (Asaṅga/Vasubandhu) lineages for conferring bodhisattva vows. It survives in Sanskrit, Tibetan, and Chinese.",
+    "related_works": ["Ratnakūṭasūtra (Mahāratnakūṭa)"],
+    "confidence": "high",
+    "sources": [
+      "https://bodhicitta.tsadra.org/index.php/Texts/Triskandhakas%C5%ABtra",
+      "https://en.wikipedia.org/wiki/Thirty-five_Confession_Buddhas",
+      "https://www.sachenfoundation.org/three-heap-sutra-and-general-confession/"
+    ]
+  },
+  {
+    "work_id": "K10bsu045_u",
+    "title": "Saṃghāṭa Sūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra (Mahāyāna sūtra / dharmaparyāya)",
+    "date_estimate": "before c. 4th-5th c. CE (translated 5th-10th c.)",
+    "summary": "The Saṃghāṭasūtra ('Saṃghāṭa Dharmaparyāya') is a Mahāyāna sūtra cast as a dialogue in which the Buddha, prompted by the bodhisattva Sarvaśūra, teaches a 'treasury of Dharma' beneficial to both young and old. It promises vast merit, protection, and good rebirth to those who hear, recite, or copy it, presenting itself as an object of intense devotion.",
+    "history": "It was enormously popular in northwest India and Central Asia and is one of the texts recovered among the Gilgit manuscripts (1931 and 1938), surviving also in Khotanese, Sanskrit, Chinese, and Tibetan, with translations spanning the 5th-10th centuries. Gregory Schopen and others cite it as a prime example of the Mahāyāna 'cult of the book.'",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sanghata_Sutra",
+      "https://www.historyofinformation.com/detail.php?entryid=4678"
+    ]
+  },
+  {
+    "work_id": "K10dbsu1-4u",
+    "title": "Daśabalasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Sarvāstivāda / Mūlasarvāstivāda; mainstream/āgama)",
+    "genre": "sutra (āgama discourse)",
+    "date_estimate": "early; redacted in early centuries CE; Sanskrit fragments c. 5th-8th c. CE",
+    "summary": "A canonical discourse on the daśabala, the 'ten powers' unique to a buddha—forms of perfect knowledge such as discerning the possible from the impossible, the ripening of karma, the dispositions and faculties of beings, the paths leading everywhere, the defilements and purification of meditative states, recollection of past lives, the divine eye, and the destruction of the contaminants. The recital of these powers grounds the Buddha's authority to 'roar the lion's roar.'",
+    "history": "This Sanskrit Daśabalasūtra (here in sections 1-4) is a mainstream (non-Mahāyāna) āgama sūtra of the Sarvāstivāda/Mūlasarvāstivāda transmission, known from Central Asian (Turfan/Gilgit) Sanskrit fragments and parallel to Pali Dasabala suttas and Chinese āgama versions; the doctrine is elaborated in Abhidharma and in Nāgārjuna's Mahāprajñāpāramitāśāstra.",
+    "related_works": ["Saṃyuktāgama", "Mahāsīhanāda-sutta (parallel)"],
+    "confidence": "medium",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Ten_powers_of_a_buddha",
+      "https://www.wisdomlib.org/definition/dashabalasutra"
+    ]
+  },
+  {
+    "work_id": "K10disu",
+    "title": "Dīpasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist",
+    "genre": "sutra (short discourse)",
+    "date_estimate": "uncertain",
+    "summary": "A short Buddhist sūtra titled 'Dīpa' ('Lamp'). The title corresponds to the well-known lamp simile in which feeling/consciousness is likened to a flame that burns dependent on oil and wick and is extinguished when its fuel is exhausted, illustrating impermanence and conditioned arising (cf. the Pali Dīpa-sutta, SN 54.8). Identification of this specific Sanskrit text is not certain.",
+    "history": "The lamp simile is a stock Buddhist image; a discrete Sanskrit Dīpasūtra is not firmly attested in standard reference literature, and this entry may correspond to a short sūtra or fragment in a digital Sanskrit Buddhist corpus rather than a major independent work.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.accesstoinsight.org/tipitaka/sn/sn54/sn54.008.than.html"
+    ]
+  },
+  {
+    "work_id": "K10divav29u",
+    "title": "Aśokāvadāna",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Sarvāstivāda / Mūlasarvāstivāda)",
+    "genre": "avadāna (didactic legendary narrative)",
+    "date_estimate": "c. 2nd c. CE (oral roots from c. 2nd c. BCE); within Divyāvadāna by c. 4th-5th c. CE",
+    "summary": "The 'Legend of King Aśoka,' the avadāna narrative (story 29 of the Divyāvadāna) recounting the legendary career of the Mauryan emperor Aśoka from a Buddhist standpoint. It tells of his prior incarnation, his violent early reign and conversion, his building of 84,000 stūpas, his patronage of the saṅgha, and his relationship with monks such as Upagupta. It blends purported history with miraculous and karmic motifs.",
+    "history": "Composed in Sanskrit around the 2nd century CE (with earlier oral antecedents), it was redacted by Mathurā-region monks of the Sarvāstivāda/Mūlasarvāstivāda tradition and later incorporated into the Divyāvadāna anthology. It is a key source for the Buddhist image of Aśoka, distinct from his own edicts. John S. Strong produced the standard study and translation.",
+    "related_works": ["Divyāvadāna"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ashokavadana",
+      "https://encyclopediaofbuddhism.org/wiki/A%C5%9Bok%C4%81vad%C4%81na",
+      "https://books.google.com/books/about/The_Legend_of_King_A%C5%9Boka.html?id=Kp9uaQTQ8h8C"
+    ]
+  },
+  {
+    "work_id": "K10divav33u",
+    "title": "Śārdūlakarṇāvadāna",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Sarvāstivāda / Mūlasarvāstivāda)",
+    "genre": "avadāna (legendary narrative; also termed Mātaṅga-sūtra)",
+    "date_estimate": "by c. 2nd c. CE (known to An Shigao); within Divyāvadāna by c. 4th-5th c. CE",
+    "summary": "Story 33 of the Divyāvadāna, the tale of Śārdūlakarṇa, concerning Prakṛti, a low-caste Mātaṅga (caṇḍāla) woman, and the Buddha's disciple Ānanda. The narrative mounts a pointed anti-Brahmanical, anti-caste polemic—treating the four varṇas as mere conventional designations—and embeds an extensive encyclopedic exposition of pre-Hellenistic Indian nakṣatra (lunar-mansion) astrology and astronomy.",
+    "history": "It is an unusually early and influential avadāna: summarized in Chinese by the Parthian An Shigao in the 2nd century CE and fully translated twice in the 3rd century, it was widely transmitted across Central Asia and Iran. It is valued by historians of science for preserving an early Indian astronomical/astrological system prior to Greek influence.",
+    "related_works": ["Divyāvadāna", "Mātaṅga-sūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh358",
+      "https://www.wisdomlib.org/definition/shardulakarnavadana",
+      "https://www.exoticindiaart.com/book/details/astrological-lore-in-buddhist-sardulakarnavadana-nao537/"
+    ]
+  },
+  {
+    "work_id": "K10divyav_u",
+    "title": "Divyāvadāna",
+    "author": "anonymous/traditional (compiled)",
+    "tradition": "Buddhist (Mūlasarvāstivāda)",
+    "genre": "avadāna anthology (narrative literature)",
+    "date_estimate": "compiled c. 2nd-5th c. CE (oral roots from c. 2nd c. BCE); anthology arrangement late",
+    "summary": "The 'Divine Narratives,' a Sanskrit anthology of 38 avadāna tales illustrating the workings of karma through stories of the Buddha, his disciples, kings, and laypeople and their past and present lives. Many of its narratives derive from the Mūlasarvāstivāda Vinaya; famous components include the Aśokāvadāna, Śārdūlakarṇāvadāna, Pūrṇāvadāna, and Sahasodgatāvadāna.",
+    "history": "Its tales circulated from as early as the 2nd century BCE and reached largely their present form between the 2nd and 5th centuries CE in northwest India or the western Deccan, though the anthology as a fixed collection is attested chiefly in later Nepalese Sanskrit manuscripts. The standard Western edition was published by Cowell and Neil (1886); Andy Rotman's 'Divine Stories' is the modern translation.",
+    "related_works": ["Mūlasarvāstivāda Vinaya", "Avadānaśataka"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Divyavadana",
+      "https://encyclopediaofbuddhism.org/wiki/Divy%C4%81vad%C4%81na",
+      "https://www.wisdomlib.org/buddhism/book/divyavadana-sanskrit"
+    ]
+  },
+  {
+    "work_id": "K10dvavims_tu",
+    "title": "Dvāviṃśatyavadānakathā",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna; Nepalese)",
+    "genre": "avadāna collection (narrative literature)",
+    "date_estimate": "later, Nepalese (mid/late 1st-early 2nd millennium CE; manuscripts down to c. 1800 CE)",
+    "summary": "A collection of twenty-two avadāna tales ('Stories of the Twenty-two Avadānas') illustrating the merits of devotion to the Buddha and the duties enjoined by the Dharma. It belongs to the genre of Nepalese Sanskrit avadānamālā literature, narratives that frame moral and devotional teaching through stories of karma and merit.",
+    "history": "It is transmitted in Nepalese Sanskrit multi-text manuscripts (e.g. a Cambridge manuscript dated 1803 CE pairs it with the Ratnamālāvadāna and Upoṣadhāvadāna) and has been studied for textual reuse alongside the Avadānaśataka and Divyāvadāna, illuminating the scribal creation of Nepalese avadāna anthologies.",
+    "related_works": ["Avadānaśataka", "Divyāvadāna", "Ratnamālāvadāna"],
+    "confidence": "medium",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-01615/1",
+      "https://www.academia.edu/39010557/The_Avad%C4%81na%C5%9Bataka_and_the_Kalpadrum%C4%81vad%C4%81nam%C4%81l%C4%81_What_should_we_be_doing_now"
+    ]
+  },
+  {
+    "work_id": "K10dvtasutu",
+    "title": "Devatāsūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (mainstream/āgama; Mūlasarvāstivāda)",
+    "genre": "sutra (short āgama discourse)",
+    "date_estimate": "early discourse; Gilgit Sanskrit manuscript c. 6th-8th c. CE",
+    "summary": "A short sūtra in which a divine being (devatā) appears before the Buddha and poses a series of riddle-like questions about how best to live a good life. The Buddha's verse answers form a compact teaching on core Buddhist values—overcoming the three poisons, virtue of body, speech, and mind, and practical wisdom for daily conduct.",
+    "history": "It is preserved in numerous first-millennium manuscripts in Sanskrit, Chinese, and Tibetan; a full Sanskrit version closely matching the Tibetan (Toh 329) survives among the Gilgit manuscripts in proto-Śāradā script (c. 6th-8th c. CE). It often travels with the Daśabalasūtra and Alpadevatāsūtra in the manuscript tradition.",
+    "related_works": ["Daśabalasūtra", "Alpadevatāsūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh329",
+      "https://encyclopediaofbuddhism.org/wiki/Devat%C4%81s%C5%ABtra"
+    ]
+  },
+  {
+    "work_id": "K10ekottaru",
+    "title": "Ekottarāgama [Ekottarāgamasūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (mainstream; affiliation debated, often Mahāsāṃghika)",
+    "genre": "āgama (canonical collection of discourses)",
+    "date_estimate": "early discourses; Sanskrit Gilgit fragments mid-1st millennium CE (Chinese trans. 384-385 CE)",
+    "summary": "The 'Increasing-by-One Collection,' an āgama (the counterpart of the Pali Aṅguttara Nikāya) in which the Buddha's discourses are arranged numerically, by topics grouped in ascending numbers. Here it denotes the Sanskrit Ekottarāgama, known from manuscript fragments rather than a complete text.",
+    "history": "A substantial portion of a Sanskrit Ekottarāgama was found at Gilgit and edited/reconstructed by Chandrabhal Tripāṭhi; school affiliation is uncertain, with many scholars pointing to the Mahāsāṃghika or a sub-school. The complete extant version is the Chinese translation by Dharmanandī, edited by Gautama Saṃghadeva and Dao'an (384-385 CE), which underwent later redaction; Gāndhārī Ekottarikāgama-type fragments also survive.",
+    "related_works": ["Aṅguttara Nikāya (parallel)", "Madhyamāgama", "Saṃyuktāgama", "Dīrghāgama"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ekottara_Agama",
+      "https://www.wisdomlib.org/definition/ekottarikagama",
+      "https://uwapress.uw.edu/book/9780295981857/three-gandhari-ekottarikagama-type-sutras/"
+    ]
+  },
+  {
+    "work_id": "K10kathinau",
+    "title": "Kaṭhināvadāna",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mūlasarvāstivāda)",
+    "genre": "avadāna (legendary narrative)",
+    "date_estimate": "1st millennium CE (uncertain)",
+    "summary": "An avadāna concerning the kaṭhina, the wooden frame used to cut and the seasonal ceremony for offering monastic robes at the close of the rains retreat (varṣā). The narrative illustrates, through karmic story, the great merit accruing to lay donors who offer robes and requisites to the saṅgha and the proper monastic observance surrounding the kaṭhina robe.",
+    "history": "It belongs to the broad Sanskrit avadāna literature rooted in Mūlasarvāstivāda Vinaya material concerning the kaṭhina ceremony; the kaṭhina robe-offering remains a major rite in Buddhist monasticism. Precise dating and the relation of this specific recension to the Avadānaśataka/Divyāvadāna corpora are not firmly established.",
+    "related_works": ["Mūlasarvāstivāda Vinaya", "Divyāvadāna"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kathina",
+      "https://ancient-buddhist-texts.net/Reference/Literary-History-of-Sanskrit-Buddhism/06-Avadana.htm"
+    ]
+  },
+  {
+    "work_id": "K10kbavk10u",
+    "title": "Garbhāvakrāntyavadāna",
+    "author": "Kṣemendra",
+    "tradition": "Buddhist (Mahāyāna); composed by a Kashmiri Śaiva-background poet",
+    "genre": "avadāna / kāvya (versified Buddhist narrative)",
+    "date_estimate": "c. 1037 CE (Kṣemendra fl. c. 990-1070 CE)",
+    "summary": "A pallava (chapter) of Kṣemendra's Bodhisattvāvadānakalpalatā, the 'Garbhāvakrānti' ('Descent into the Womb') avadāna. It versifies a teaching on the process of conception, gestation, and entry of consciousness into the womb, framed as a Buddhist narrative on impermanence, the sufferings of embodied existence, and karma.",
+    "history": "Kṣemendra (c. 990-1070 CE), a prolific Kashmiri polymath who studied under Abhinavagupta, composed the Avadānakalpalatā (Bodhisattvāvadānakalpalatā), a Sanskrit anthology of 107+ avadānas in elegant kāvya verse, completed c. 1037 and later supplemented by his son Somendra. It became canonical in Tibet, where it was translated into the Tengyur.",
+    "related_works": ["Bodhisattvāvadānakalpalatā (Avadānakalpalatā)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://www.wisdomlib.org/definition/kshemendra"
+    ]
+  },
+  {
+    "work_id": "K10kbavk64u",
+    "title": "Sudhanakinnaryavadāna",
+    "author": "Kṣemendra",
+    "tradition": "Buddhist (Mahāyāna); Kashmiri poet",
+    "genre": "avadāna / kāvya (versified Buddhist narrative)",
+    "date_estimate": "c. 1037 CE (Kṣemendra fl. c. 990-1070 CE)",
+    "summary": "A pallava of Kṣemendra's Bodhisattvāvadānakalpalatā retelling the popular love-and-devotion legend of Prince Sudhana and the kinnarī (celestial half-bird maiden) Manoharā. The tale narrates their union, separation, and Sudhana's arduous quest to recover Manoharā, framed as a former-life story of the Bodhisattva illustrating perseverance and loyalty.",
+    "history": "The Sudhana-Kinnarī story is among the most widely diffused Buddhist narratives across India and Southeast Asia (depicted at Borobudur and in Pali/Thai versions). Kṣemendra incorporated it as a verse avadāna in his eleventh-century Kashmiri anthology, later transmitted in the Tibetan Tengyur.",
+    "related_works": ["Bodhisattvāvadānakalpalatā (Avadānakalpalatā)", "Divyāvadāna (Sudhanakumārāvadāna)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://www.wisdomlib.org/definition/kshemendra"
+    ]
+  },
+  {
+    "work_id": "K10kbavk75u",
+    "title": "Pratītyasamutpādāvadāna",
+    "author": "Kṣemendra",
+    "tradition": "Buddhist (Mahāyāna); Kashmiri poet",
+    "genre": "avadāna / kāvya (versified Buddhist narrative)",
+    "date_estimate": "c. 1037 CE (Kṣemendra fl. c. 990-1070 CE)",
+    "summary": "A pallava of Kṣemendra's Bodhisattvāvadānakalpalatā, the 'Pratītyasamutpāda' (Dependent Origination) avadāna. It frames the doctrine of conditioned arising and the twelve nidānas within a narrative illustrating how beings are bound in saṃsāra by karma and ignorance and liberated through insight into dependent origination.",
+    "history": "Part of Kṣemendra's c. 1037 verse anthology of bodhisattva avadānas, composed in Kashmir and later translated into Tibetan. The Avadānakalpalatā was prized as a model of devotional Buddhist kāvya and circulated widely in Nepal and Tibet.",
+    "related_works": ["Bodhisattvāvadānakalpalatā (Avadānakalpalatā)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://www.wisdomlib.org/definition/kshemendra"
+    ]
+  },
+  {
+    "work_id": "K10kbavk93u",
+    "title": "Sumāgadhāvadāna [Sumāgadhāvadānasūtra]",
+    "author": "Kṣemendra",
+    "tradition": "Buddhist (Mahāyāna); Kashmiri poet",
+    "genre": "avadāna / kāvya (versified Buddhist narrative)",
+    "date_estimate": "c. 1037 CE (Kṣemendra fl. c. 990-1070 CE); underlying story by c. 2nd c. CE",
+    "summary": "A pallava of Kṣemendra's Bodhisattvāvadānakalpalatā retelling the story of Sumāgadhā, daughter of the merchant Anāthapiṇḍada, who is married into a Jain (nirgrantha) household in distant Puṇḍravardhana. Disgusted by the Jain ascetics, she invites the Buddha, who arrives miraculously and converts the city; the Buddha then relates her meritorious past lives.",
+    "history": "The Sumāgadhā narrative is an old and popular Buddhist tale circulating in Gandhāra by the 2nd century CE and existing in independent Sanskrit avadāna form and Tibetan/Chinese versions (cf. Toh 346); Kṣemendra reworked it as a verse avadāna in his eleventh-century Kashmiri anthology. The version here is the Avadānakalpalatā pallava attributed to Kṣemendra.",
+    "related_works": ["Bodhisattvāvadānakalpalatā (Avadānakalpalatā)", "Sumāgadhāvadāna (independent sūtra)"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh346",
+      "https://www.rigpawiki.org/index.php?title=The_Exemplary_Tale_of_Sumagadha",
+      "https://en.wikipedia.org/wiki/Kshemendra"
+    ]
+  }
+]

@@ -1,0 +1,323 @@
+[
+  {
+    "work_id": "GK19jaravau",
+    "title": "Jarāsandhavadha",
+    "author": "Goswami Hariraiji (Harirāi)",
+    "tradition": "Hindu (Vaishnava, Puṣṭimārga / Vallabha sampradāya)",
+    "genre": "mahākāvya (court epic poem)",
+    "date_estimate": "20th c. CE (modern Sanskrit composition)",
+    "summary": "A Sanskrit mahākāvya narrating the slaying of Jarāsandha, the powerful king of Magadha, by Bhīma at Kṛṣṇa's instigation. The narrative draws on the Mahābhārata, Harivaṃśa and Bhāgavatapurāṇa, and is structured into cantos that culminate in Jarāsandha's death and the liberation of the kings he had imprisoned. Its moral thrust is the maxim that 'where there is righteousness (dharma), there is victory.'",
+    "history": "Composed by Goswami Hariraiji, a modern Puṣṭimārgīya Vaiṣṇava scholar and former principal of the Government Sanskrit Pāṭhaśālā in Jamnagar; the poem consciously follows the model of Māgha's Śiśupālavadha. It is a contemporary work of classical Sanskrit poetry rather than a medieval text.",
+    "related_works": ["Mahābhārata", "Harivaṃśa", "Bhāgavatapurāṇa", "Śiśupālavadha"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/book/jarasandhavadha-mahakavyam",
+      "https://www.wisdomlib.org/hinduism/book/jarasandhavadha-mahakavyam/d/doc419446.html"
+    ]
+  },
+  {
+    "work_id": "GK19jaygit2u",
+    "title": "Gītagovinda",
+    "author": "Jayadeva",
+    "tradition": "Hindu (Vaishnava, Kṛṣṇa bhakti)",
+    "genre": "kavya / lyrical devotional poem (with musical aṣṭapadī songs)",
+    "date_estimate": "late 12th c. CE (c. 1170-1200); project hint of 11th c. is too early",
+    "summary": "A celebrated Sanskrit lyrical poem in twelve cantos dramatizing the love of Kṛṣṇa and the cowherdess Rādhā, moving through their union, estrangement, longing and reconciliation. It is organized around twenty-four aṣṭapadīs (eight-couplet songs) set to specified ragas and talas, blending erotic (śṛṅgāra) sentiment with devotional allegory.",
+    "history": "Composed by Jayadeva, a court poet associated with the Sena king Lakṣmaṇasena; his birthplace is disputed among Odisha, Bengal and Mithila. The earliest commentary appeared in Odisha around 1190 CE. The work became foundational to Vaishnava bhakti, Odissi temple ritual, and later Gauḍīya devotion, generating numerous commentaries and pan-Indian musical traditions.",
+    "related_works": ["Bhāgavatapurāṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jayadeva",
+      "https://en.wikipedia.org/wiki/Gita_Govinda",
+      "https://www.britannica.com/topic/Gitagovinda"
+    ]
+  },
+  {
+    "work_id": "GK19jivskd_u",
+    "title": "Saṅkalpakalpadruma",
+    "author": "Jīva Gosvāmin",
+    "tradition": "Hindu (Gauḍīya Vaishnava / Acintya-bhedābheda Vedanta)",
+    "genre": "devotional philosophical poem / meditative treatise (stotra-like)",
+    "date_estimate": "late 16th c. CE (c. 1580s-1590s)",
+    "summary": "A devotional Sanskrit work of over 700 verses in which Jīva Gosvāmin addresses his own mind, urging it, as he grows old, to fix itself permanently on Kṛṣṇa's eternal pastimes (nitya-līlā) in Vṛndāvana. It meditates on Kṛṣṇa's līlā from his birth onward and treats the theological relationship between manifest (prakaṭa) and eternal (nitya) pastimes.",
+    "history": "Regarded as one of the last works of Jīva Gosvāmin, the most systematic theologian of the six Gosvāmins of Vṛndāvana in the Caitanya (Gauḍīya) tradition. It functions in part as a recapitulation of the theology of his Gopālacampū, distilling his life's devotional vision.",
+    "related_works": ["Gopālacampū", "Ṣaṭ Sandarbha", "Bhāgavatapurāṇa"],
+    "confidence": "high",
+    "sources": [
+      "http://jagadanandadas.blogspot.com/2016/12/jiva-goswamis-final-word-sankalpa-kalpa.html",
+      "https://en.wikipedia.org/wiki/Jiva_Goswami"
+    ]
+  },
+  {
+    "work_id": "GK19kalrs_pu",
+    "title": "Ṛtusaṃhāra",
+    "author": "Kālidāsa (attributed)",
+    "tradition": "Hindu",
+    "genre": "kavya (lyric / descriptive court poetry)",
+    "date_estimate": "c. 4th-5th c. CE (Gupta period); authorship sometimes questioned as an early work",
+    "summary": "A short lyric poem in six cantos describing the six Indian seasons (grīṣma, varṣā, śarad, hemanta, śiśira, vasanta), depicting the effect of each season on nature and on lovers. It is rich in nature imagery and erotic (śṛṅgāra) sentiment, treating the cycle of the year as a backdrop for romantic union.",
+    "history": "Traditionally ascribed to Kālidāsa and generally regarded as one of his earliest and simplest works, though some scholars have doubted the attribution on stylistic grounds. It is among the earliest extant Sanskrit poems devoted wholly to seasonal description.",
+    "related_works": ["Meghadūta", "Raghuvaṃśa", "Kumārasambhava"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ritusamhara",
+      "https://en.wikipedia.org/wiki/Kalidasa"
+    ]
+  },
+  {
+    "work_id": "GK19kmeghdpu",
+    "title": "Meghadūta",
+    "author": "Kālidāsa",
+    "tradition": "Hindu",
+    "genre": "kavya (lyric messenger poem, dūtakāvya)",
+    "date_estimate": "c. 4th-5th c. CE (Gupta period)",
+    "summary": "A lyric poem in the mandākrāntā metre in which an exiled yakṣa, separated from his beloved, asks a passing rain cloud to carry a message of love to her in the Himalayan city of Alakā. The poem's first half (Pūrvamegha) maps the cloud's route across northern India, while the second half (Uttaramegha) describes Alakā and the lovesick wife. This entry is one of two Meghadūta witnesses in the corpus, likely a distinct recension or part-division.",
+    "history": "Universally regarded as Kālidāsa's masterpiece of lyric poetry and the model for the entire dūtakāvya (messenger-poem) genre. It attracted dozens of commentaries (notably Mallinātha's Sañjīvanī) and inspired countless imitations across Indian languages.",
+    "related_works": ["Meghadūta (other recension)", "Ṛtusaṃhāra", "Raghuvaṃśa", "Kumārasambhava"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Meghaduta",
+      "https://en.wikipedia.org/wiki/Kalidasa"
+    ]
+  },
+  {
+    "work_id": "GK19kmeghvpu",
+    "title": "Meghadūta",
+    "author": "Kālidāsa",
+    "tradition": "Hindu",
+    "genre": "kavya (lyric messenger poem, dūtakāvya)",
+    "date_estimate": "c. 4th-5th c. CE (Gupta period)",
+    "summary": "Kālidāsa's celebrated 'Cloud Messenger,' in which a banished yakṣa entreats a monsoon cloud to convey his words of longing to his distant wife in Alakā. This is a second corpus witness of the Meghadūta (distinct from GK19kmeghdpu), reflecting either a different recension/commentary basis or a separate digital edition of the same poem.",
+    "history": "The same canonical Kālidāsa poem; multiple recensions and a vast commentarial tradition (e.g., Mallinātha, Vallabhadeva) produced variant texts, which is why more than one witness appears in scholarly corpora.",
+    "related_works": ["Meghadūta (other recension)", "Ṛtusaṃhāra", "Raghuvaṃśa", "Kumārasambhava"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Meghaduta",
+      "https://en.wikipedia.org/wiki/Kalidasa"
+    ]
+  },
+  {
+    "work_id": "GK19kragh_pu",
+    "title": "Raghuvaṃśa",
+    "author": "Kālidāsa",
+    "tradition": "Hindu",
+    "genre": "mahākāvya (court epic poem)",
+    "date_estimate": "c. 4th-5th c. CE (Gupta period)",
+    "summary": "A mahākāvya in nineteen cantos chronicling the dynasty of the Raghu (Ikṣvāku/Solar) kings of Ayodhyā, from Dilīpa and Raghu through Aja, Daśaratha, Rāma and his successors down to the decadent Agnivarṇa. It interweaves dynastic history, ideals of kingship and dharma, and a poetic retelling of the Rāma story, showcasing Kālidāsa's mastery of description and metre.",
+    "history": "One of the two great mahākāvyas of Kālidāsa and a model of the classical epic genre, central to the Sanskrit literary canon. It accumulated many commentaries, the most famous being Mallinātha's Sañjīvanī.",
+    "related_works": ["Kumārasambhava", "Meghadūta", "Rāmāyaṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raghuvamsha",
+      "https://en.wikipedia.org/wiki/Kalidasa"
+    ]
+  },
+  {
+    "work_id": "GK19ksbhm06u",
+    "title": "Bhāratamañjarī: 6. Bhīṣmaparvan",
+    "author": "Kṣemendra",
+    "tradition": "Hindu",
+    "genre": "kavya (verse epitome / abridgement of the Mahābhārata)",
+    "date_estimate": "11th c. CE (c. 1037 CE; Kṣemendra fl. c. 1010-1066)",
+    "summary": "The sixth book of Kṣemendra's verse condensation of the Mahābhārata, corresponding to the epic's Bhīṣmaparvan. It compresses the opening of the Kurukṣetra war and the events surrounding Bhīṣma's generalship, and notably incorporates an abridged version of the Bhagavadgītā as delivered to Arjuna on the battlefield.",
+    "history": "Kṣemendra (c. 990-1070 CE), a Kashmiri polymath who styled himself Vyāsadāsa, reduced the roughly 100,000-verse Mahābhārata to about 10,692 verses in his Bhāratamañjarī. He freely omitted, abridged and modified portions of the original while preserving its narrative arc in elegant verse.",
+    "related_works": ["Mahābhārata", "Bhāratamañjarī (complete work)", "Bhagavadgītā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://adbhutam.wordpress.com/2015/01/18/the-bharatamanjari-of-kshemendra/"
+    ]
+  },
+  {
+    "work_id": "GK19ksbhm07u",
+    "title": "Bhāratamañjarī: 7. Droṇaparvan",
+    "author": "Kṣemendra",
+    "tradition": "Hindu",
+    "genre": "kavya (verse epitome / abridgement of the Mahābhārata)",
+    "date_estimate": "11th c. CE (Kṣemendra fl. c. 1010-1066)",
+    "summary": "The seventh book of Kṣemendra's verse Mahābhārata, condensing the Droṇaparvan, in which Droṇa serves as commander of the Kaurava army. It covers the intense central battles, the death of Abhimanyu, and the slaying of Droṇa himself through the stratagem of the false report of Aśvatthāman's death.",
+    "history": "Part of the integrated Bhāratamañjarī by the Kashmiri poet Kṣemendra (Vyāsadāsa), who summarized the whole epic in roughly 10,692 verses, abridging and selectively reshaping the narrative.",
+    "related_works": ["Mahābhārata", "Bhāratamañjarī (complete work)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://adbhutam.wordpress.com/2015/01/18/the-bharatamanjari-of-kshemendra/"
+    ]
+  },
+  {
+    "work_id": "GK19ksbhm08u",
+    "title": "Bhāratamañjarī: 8. Karṇaparvan",
+    "author": "Kṣemendra",
+    "tradition": "Hindu",
+    "genre": "kavya (verse epitome / abridgement of the Mahābhārata)",
+    "date_estimate": "11th c. CE (Kṣemendra fl. c. 1010-1066)",
+    "summary": "The eighth book of Kṣemendra's verse Mahābhārata, abridging the Karṇaparvan, which narrates the two days during which Karṇa commands the Kaurava forces. It culminates in the climactic duel between Karṇa and Arjuna and Karṇa's death when his chariot wheel sinks into the earth.",
+    "history": "A section of Kṣemendra's Bhāratamañjarī, the 11th-century Kashmiri verse epitome of the Mahābhārata composed by the poet who called himself Vyāsadāsa.",
+    "related_works": ["Mahābhārata", "Bhāratamañjarī (complete work)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://adbhutam.wordpress.com/2015/01/18/the-bharatamanjari-of-kshemendra/"
+    ]
+  },
+  {
+    "work_id": "GK19ksbhm09u",
+    "title": "Bhāratamañjarī: 9. Śalyaparvan",
+    "author": "Kṣemendra",
+    "tradition": "Hindu",
+    "genre": "kavya (verse epitome / abridgement of the Mahābhārata)",
+    "date_estimate": "11th c. CE (Kṣemendra fl. c. 1010-1066)",
+    "summary": "The ninth book of Kṣemendra's verse Mahābhārata, condensing the Śalyaparvan, in which Śalya becomes the last Kaurava commander. It covers the final collapse of the Kaurava army and leads into the climactic mace duel between Bhīma and Duryodhana.",
+    "history": "Part of the Bhāratamañjarī, Kṣemendra's 11th-century abridged verse rendering of the Mahābhārata in about 10,692 verses.",
+    "related_works": ["Mahābhārata", "Bhāratamañjarī (complete work)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://adbhutam.wordpress.com/2015/01/18/the-bharatamanjari-of-kshemendra/"
+    ]
+  },
+  {
+    "work_id": "GK19ksbhm10u",
+    "title": "Bhāratamañjarī: 10. Gadāparvan",
+    "author": "Kṣemendra",
+    "tradition": "Hindu",
+    "genre": "kavya (verse epitome / abridgement of the Mahābhārata)",
+    "date_estimate": "11th c. CE (Kṣemendra fl. c. 1010-1066)",
+    "summary": "Kṣemendra's verse condensation of the 'mace section,' which in the standard Mahābhārata forms the latter part of the Śalyaparvan. It narrates the climactic mace duel between Bhīma and Duryodhana, Bhīma's foul blow to the thigh, and Duryodhana's mortal wounding, effectively ending the great war.",
+    "history": "A division of Kṣemendra's Bhāratamañjarī; the poet's structural numbering of parvans can differ slightly from the standard 18-book Mahābhārata, here treating the Gadā(yuddha) episode as a separate book.",
+    "related_works": ["Mahābhārata", "Bhāratamañjarī (complete work)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://adbhutam.wordpress.com/2015/01/18/the-bharatamanjari-of-kshemendra/"
+    ]
+  },
+  {
+    "work_id": "GK19ksbhm11u",
+    "title": "Bhāratamañjarī: 11. Sauptikaparvan",
+    "author": "Kṣemendra",
+    "tradition": "Hindu",
+    "genre": "kavya (verse epitome / abridgement of the Mahābhārata)",
+    "date_estimate": "11th c. CE (Kṣemendra fl. c. 1010-1066)",
+    "summary": "Kṣemendra's verse epitome of the Sauptikaparvan, the 'Book of the Night Attack,' in which Aśvatthāman, Kṛpa and Kṛtavarman slaughter the sleeping Pāñcāla warriors and the sons of the Pāṇḍavas by night. It includes the firing of the brahmaśiras weapon and the cursing of Aśvatthāman.",
+    "history": "Part of the Bhāratamañjarī, Kṣemendra's compact 11th-century verse retelling of the Mahābhārata.",
+    "related_works": ["Mahābhārata", "Bhāratamañjarī (complete work)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://adbhutam.wordpress.com/2015/01/18/the-bharatamanjari-of-kshemendra/"
+    ]
+  },
+  {
+    "work_id": "GK19ksbhm12u",
+    "title": "Bhāratamañjarī: 12. Strīparvan",
+    "author": "Kṣemendra",
+    "tradition": "Hindu",
+    "genre": "kavya (verse epitome / abridgement of the Mahābhārata)",
+    "date_estimate": "11th c. CE (Kṣemendra fl. c. 1010-1066)",
+    "summary": "Kṣemendra's verse condensation of the Strīparvan, the 'Book of the Women,' depicting the lamentation of the bereaved women of both armies who come to the battlefield to mourn their slain husbands and sons. Gāndhārī's grief and her curse upon Kṛṣṇa are central, as are the funeral rites for the fallen.",
+    "history": "A section of the Bhāratamañjarī, Kṣemendra's 11th-century Kashmiri abridgement of the Mahābhārata.",
+    "related_works": ["Mahābhārata", "Bhāratamañjarī (complete work)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://adbhutam.wordpress.com/2015/01/18/the-bharatamanjari-of-kshemendra/"
+    ]
+  },
+  {
+    "work_id": "GK19ksbhm13u",
+    "title": "Bhāratamañjarī: 13. Śāntiparvan",
+    "author": "Kṣemendra",
+    "tradition": "Hindu",
+    "genre": "kavya (verse epitome / abridgement of the Mahābhārata)",
+    "date_estimate": "11th c. CE (Kṣemendra fl. c. 1010-1066)",
+    "summary": "Kṣemendra's verse abridgement of the vast Śāntiparvan, the 'Book of Peace,' in which the dying Bhīṣma, lying on his bed of arrows, instructs Yudhiṣṭhira at length on kingship (rājadharma), duty in calamity (āpaddharma) and the path to liberation (mokṣadharma). Kṣemendra notably has Bhīṣma transmit the thousand names of Śiva and includes a Śivastuti.",
+    "history": "Part of Kṣemendra's Bhāratamañjarī; the poet greatly compressed the encyclopedic didactic Śāntiparvan while preserving select theological and ethical highlights, reflecting his own Śaiva-inflected interests.",
+    "related_works": ["Mahābhārata", "Bhāratamañjarī (complete work)", "Śivasahasranāma"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://adbhutam.wordpress.com/2015/01/18/the-bharatamanjari-of-kshemendra/"
+    ]
+  },
+  {
+    "work_id": "GK19ksbhm14u",
+    "title": "Bhāratamañjarī: 14. Āśvamedhikaparvan",
+    "author": "Kṣemendra",
+    "tradition": "Hindu",
+    "genre": "kavya (verse epitome / abridgement of the Mahābhārata)",
+    "date_estimate": "11th c. CE (Kṣemendra fl. c. 1010-1066)",
+    "summary": "Kṣemendra's verse epitome of the Āśvamedhikaparvan, the 'Book of the Horse Sacrifice,' in which Yudhiṣṭhira, to expiate the bloodshed of the war, performs the aśvamedha. It follows the wandering sacrificial horse guarded by Arjuna and his ensuing battles, and typically includes the philosophical Anugītā discourse.",
+    "history": "A division of Kṣemendra's Bhāratamañjarī, his 11th-century condensed verse Mahābhārata.",
+    "related_works": ["Mahābhārata", "Bhāratamañjarī (complete work)", "Anugītā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://adbhutam.wordpress.com/2015/01/18/the-bharatamanjari-of-kshemendra/"
+    ]
+  },
+  {
+    "work_id": "GK19ksbhm15u",
+    "title": "Bhāratamañjarī: 15. Āśramavāsikaparvan",
+    "author": "Kṣemendra",
+    "tradition": "Hindu",
+    "genre": "kavya (verse epitome / abridgement of the Mahābhārata)",
+    "date_estimate": "11th c. CE (Kṣemendra fl. c. 1010-1066)",
+    "summary": "Kṣemendra's verse condensation of the Āśramavāsikaparvan, the 'Book of the Hermitage,' in which the aged Dhṛtarāṣṭra, Gāndhārī and Kuntī retire to the forest for ascetic life. It recounts Vidura's death, a vision in which the fallen warriors briefly reappear from the river, and the elders' eventual deaths in a forest fire.",
+    "history": "Part of the Bhāratamañjarī, Kṣemendra's 11th-century abridged verse Mahābhārata.",
+    "related_works": ["Mahābhārata", "Bhāratamañjarī (complete work)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://adbhutam.wordpress.com/2015/01/18/the-bharatamanjari-of-kshemendra/"
+    ]
+  },
+  {
+    "work_id": "GK19ksbhm16u",
+    "title": "Bhāratamañjarī: 16. Mausalaparvan",
+    "author": "Kṣemendra",
+    "tradition": "Hindu",
+    "genre": "kavya (verse epitome / abridgement of the Mahābhārata)",
+    "date_estimate": "11th c. CE (Kṣemendra fl. c. 1010-1066)",
+    "summary": "Kṣemendra's verse epitome of the Mausalaparvan, the 'Book of the Clubs,' recounting the self-destruction of the Yādava clan in a drunken brawl with iron clubs born of a curse, the deaths of Balarāma and Kṛṣṇa, and the submersion of Dvārakā beneath the sea.",
+    "history": "A short section of Kṣemendra's Bhāratamañjarī, his 11th-century condensed verse Mahābhārata.",
+    "related_works": ["Mahābhārata", "Bhāratamañjarī (complete work)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://adbhutam.wordpress.com/2015/01/18/the-bharatamanjari-of-kshemendra/"
+    ]
+  },
+  {
+    "work_id": "GK19ksbhm17u",
+    "title": "Bhāratamañjarī: 17. Mahāprasthānikaparvan",
+    "author": "Kṣemendra",
+    "tradition": "Hindu",
+    "genre": "kavya (verse epitome / abridgement of the Mahābhārata)",
+    "date_estimate": "11th c. CE (Kṣemendra fl. c. 1010-1066)",
+    "summary": "Kṣemendra's verse condensation of the Mahāprasthānikaparvan, the 'Book of the Great Departure,' in which the Pāṇḍavas and Draupadī renounce the throne and set out on their final journey toward the Himalayas and Mount Meru, falling one by one along the way, with only Yudhiṣṭhira and a faithful dog continuing.",
+    "history": "One of the brief closing books of Kṣemendra's Bhāratamañjarī, his 11th-century abridged verse Mahābhārata.",
+    "related_works": ["Mahābhārata", "Bhāratamañjarī (complete work)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://adbhutam.wordpress.com/2015/01/18/the-bharatamanjari-of-kshemendra/"
+    ]
+  },
+  {
+    "work_id": "GK19ksbhm18u",
+    "title": "Bhāratamañjarī: 18. Svargaparvan",
+    "author": "Kṣemendra",
+    "tradition": "Hindu",
+    "genre": "kavya (verse epitome / abridgement of the Mahābhārata)",
+    "date_estimate": "11th c. CE (Kṣemendra fl. c. 1010-1066)",
+    "summary": "Kṣemendra's verse epitome of the Svargārohaṇaparvan, the 'Book of the Ascent to Heaven,' the final book, in which Yudhiṣṭhira undergoes a test in which he briefly sees his kin in hell and his foes in heaven, before the illusion is dispelled and all attain their heavenly stations, concluding the epic.",
+    "history": "The concluding book of Kṣemendra's Bhāratamañjarī, his 11th-century condensed verse rendering of the whole Mahābhārata.",
+    "related_works": ["Mahābhārata", "Bhāratamañjarī (complete work)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshemendra",
+      "https://adbhutam.wordpress.com/2015/01/18/the-bharatamanjari-of-kshemendra/"
+    ]
+  }
+]

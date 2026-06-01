@@ -1,0 +1,407 @@
+[
+  {
+    "work_id": "GR13cakbhavu",
+    "title": "Cakrapāṇinātha: Bhāvopahārastotra",
+    "author": "Cakrapāṇinātha",
+    "tradition": "Hindu, non-dual Kashmir Shaivism (Trika)",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "c. 10th-11th c. CE",
+    "summary": "A Sanskrit hymn to Śiva in the Trika (non-dual Kashmir Shaiva) idiom, whose title means roughly 'The Offering [Made] with One's Inner States/Being.' Rather than external worship, the poem reinterprets the elements of ritual offering as inner, contemplative acts, presenting the worshipper's own states of consciousness and devotion as the true oblation to Śiva.",
+    "history": "The author conceals his own name in the closing verse, where the commentator Ramyadeva Bhaṭṭa (Rāmyadeva), who wrote the Bhāvopahāravivaraṇa, reads it as either 'Cakrapāṇinātha' or as an epithet of the Lord who holds the discus. The hymn was edited and translated into Italian/English by Enrica Garzilli and is associated with Kashmirian Trika devotional poetry.",
+    "related_works": [
+      "Bhāvopahāravivaraṇa (commentary by Ramyadeva Bhaṭṭa)"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/bhavopahara",
+      "https://www.goodreads.com/book/show/27824437-the-bh-vopah-ra-of-cakrap-in-tha",
+      "https://www.scribd.com/document/624925472/Bhavopaharastotra-by-Cakrapaninatha"
+    ]
+  },
+  {
+    "work_id": "GR13devikapu",
+    "title": "Devīkālottara-Āgama",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva (Śaiva Siddhānta / Kālottara tradition)",
+    "genre": "tantra/āgama (with later Advaitic-soteriological reception)",
+    "date_estimate": "c. 7th-9th c. CE (one of several recensions of the Kālottara)",
+    "summary": "One of the many recensions of the Kālottara, a body of early Śaiva scripture, cast as a dialogue in which Śiva imparts liberating wisdom to the Goddess (Īśvarī/Devī). This particular recension emphasizes jñāna (knowledge) and yogic-meditative practice leading to mokṣa rather than elaborate ritual, and it became influential in later Advaita-flavored Śaiva spirituality (e.g. it was translated/commented upon in Ramana Maharshi's circle).",
+    "history": "The Kālottara circulated in numerous recensions of differing verse-lengths (e.g. the Śatika/hundred-verse and two-hundred-verse versions); the Devīkālottara is the recension framed as Śiva's teaching to the Goddess. Its terse verses on the nature of consciousness and liberation gave it lasting devotional and philosophical reception in South India.",
+    "related_works": [
+      "Kālottara (parent scriptural complex)",
+      "Sārdhatriśatikālottara",
+      "Niśvāsatattvasaṃhitā"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/devikalottara",
+      "https://archive.arunachala.org/docs/sri-devikalottara/",
+      "https://www.academia.edu/3350036/A_first_edition_of_the_%C5%9Aatika_K%C4%81laj%C3%B1%C4%81na_the_shortest_of_the_non_eclectic_recensions_of_the_K%C4%81lottara"
+    ]
+  },
+  {
+    "work_id": "GR13goramaru",
+    "title": "Āmaraughaśāsana",
+    "author": "attributed to Gorakṣanātha (Gorakhnāth)",
+    "tradition": "Hindu, Nātha / haṭha yoga (Śaiva)",
+    "genre": "yoga treatise (sūtra/śāsana)",
+    "date_estimate": "c. 12th-13th c. CE",
+    "summary": "A short Sanskrit yoga work in the orbit of the Amaraugha ('Lineage/Flow of the Immortals') textual cluster attributed to Gorakṣanātha, teaching haṭha-yogic techniques (kuṇḍalinī, breath, the union of Śakti and Śiva) as the means to attain rājayoga. It belongs to the formative phase in which earlier tantric/Buddhist physical practices were systematized for a Śaiva Nātha audience.",
+    "history": "The Amaraugha and its recension the Amaraughaprabodha, recently critically edited by Jason Birch, are among the earliest texts to lay out the fourfold yoga culminating in rājayoga; the closely related Āmaraughaśāsana shares this material. Many of these verses were later absorbed into the influential Haṭhapradīpikā.",
+    "related_works": [
+      "Amaraugha",
+      "Amaraughaprabodha",
+      "Haṭhapradīpikā",
+      "Gorakṣaśataka / Vivekamārtaṇḍa"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Amaraugha",
+      "https://eprints.soas.ac.uk/41298/2/The%20Amaraugha%20Jason%20Birch%20Final%20Print%20Version%209%20Nov%202023.pdf",
+      "https://publications.efeo.fr/en/livres/1013_the-amaraugha-and-amaraughaprabodha-of-gorak-an-tha"
+    ]
+  },
+  {
+    "work_id": "GR13gorst1pu",
+    "title": "Gorakṣaśataka",
+    "author": "attributed to Gorakṣanātha (Gorakhnāth)",
+    "tradition": "Hindu, Nātha / haṭha yoga (Śaiva)",
+    "genre": "yoga treatise (verse manual)",
+    "date_estimate": "c. 12th-13th c. CE (recension/version one)",
+    "summary": "A foundational haṭha-yoga manual of the Nātha tradition, the 'Hundred Verses of Gorakṣa,' which outlines yogic limbs including āsana, prāṇāyāma, mudrā, the cakras and the raising of kuṇḍalinī (notably the technique of 'stimulating Sarasvatī'). The title 'Gorakṣaśataka' attaches to several overlapping texts; this is one of the transmitted versions/recensions in the corpus.",
+    "history": "The work now often called Gorakṣaśataka is closely entangled with the Vivekamārtaṇḍa and the Gorakṣasaṃhitā; James Mallinson and others have shown that the original ~200-verse Vivekamārtaṇḍa was abridged/retitled to fit a hundred-verse 'śataka.' Though ascribed to Gorakṣanātha, the surviving texts postdate the historical figure.",
+    "related_works": [
+      "Vivekamārtaṇḍa",
+      "Gorakṣasaṃhitā",
+      "Haṭhapradīpikā",
+      "Amaraugha"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Goraksha_Shataka",
+      "https://en.wikipedia.org/wiki/Vivekam%C4%81rta%E1%B9%87%E1%B8%8Da",
+      "https://www.yrec.info/old-hatha-yoga-sources/"
+    ]
+  },
+  {
+    "work_id": "GR13gorst2pu",
+    "title": "Gorakṣaśataka",
+    "author": "attributed to Gorakṣanātha (Gorakhnāth)",
+    "tradition": "Hindu, Nātha / haṭha yoga (Śaiva)",
+    "genre": "yoga treatise (verse manual)",
+    "date_estimate": "c. 12th-13th c. CE (a second recension/version)",
+    "summary": "A second transmitted recension of the 'Hundred Verses of Gorakṣa,' the Nātha haṭha-yoga manual teaching postures, breath control, mudrās, the subtle body and the awakening of kuṇḍalinī. The two GRETIL entries reflect the well-known fact that the Gorakṣaśataka survives in divergent versions of differing length and verse-order.",
+    "history": "As with the parallel entry, the text is bound up with the Vivekamārtaṇḍa/Gorakṣasaṃhitā complex; more than two hundred manuscripts circulate under variant titles. The hundred-verse format is in part a secondary abridgement to match the name 'śataka.' Authorship is traditionally ascribed to Gorakṣanātha but the texts are later than him.",
+    "related_works": [
+      "Vivekamārtaṇḍa",
+      "Gorakṣasaṃhitā",
+      "Haṭhapradīpikā",
+      "Amaraugha"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Goraksha_Shataka",
+      "https://en.wikipedia.org/wiki/Vivekam%C4%81rta%E1%B9%87%E1%B8%8Da",
+      "https://www.yrec.info/old-hatha-yoga-sources/"
+    ]
+  },
+  {
+    "work_id": "GR13jssivppu",
+    "title": "Jñānaśambhu: Śivapūjāstava",
+    "author": "Jñānaśambhu (Jñānaśiva)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "stava/stotra (hymn) on Śiva worship",
+    "date_estimate": "c. 12th c. CE",
+    "summary": "A Śaiva hymn/eulogy concerning the worship (pūjā) of Śiva, attributed to Jñānaśambhu, a Saiddhāntika teacher. It articulates, in praise-poetry form, the devotional and ritual adoration of Śiva characteristic of the Śaiva Siddhānta milieu.",
+    "history": "Jñānaśambhu (also Jñānaśiva) was a twelfth-century Saiddhāntika guru from the Cōḻa country who worked in Banaras and is best known for the ritual manual Jñānaratnāvalī; the Śivapūjāstava is a shorter hymnic work associated with him. Documentation of this specific stava is sparse, so the attribution rests on the manuscript/corpus tradition.",
+    "related_works": [
+      "Jñānaratnāvalī (ritual manual by the same author)"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://www.academia.edu/15829494/A_note_on_damanotsava_a_spring_rite_of_reparation_and_on_the_twelfth_century_Saiddh%C4%81ntika_ritual_manual_called_the_J%C3%B1%C4%81naratn%C4%81val%C4%AB"
+    ]
+  },
+  {
+    "work_id": "GR13kalhans_u",
+    "title": "Ardhanārīśvarastotra",
+    "author": "attributed to Kalhaṇa",
+    "tradition": "Hindu, Śaiva (Kashmir)",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "c. 12th c. CE (if by Kalhaṇa, author of the Rājataraṅgiṇī)",
+    "summary": "A devotional hymn praising Śiva in his Ardhanārīśvara form, the androgynous deity who is half Śiva and half the Goddess Pārvatī, symbolizing the inseparable union of consciousness and energy (Śiva-Śakti). The verses dwell on the bicorporate divine image, contrasting and harmonizing the male and female halves.",
+    "history": "The hymn is transmitted in some collections as 'kalhaṇakṛtam' (composed by Kalhaṇa), associating it with the famed twelfth-century Kashmirian chronicler of the Rājataraṅgiṇī, though such attributions of short stotras are not always secure. An Ardhanārīśvarastotra is also widely circulated under the name of Śaṅkarācārya, so the title attaches to more than one poem.",
+    "related_works": [
+      "Rājataraṅgiṇī (by Kalhaṇa)"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/ardhanarishvarastotra",
+      "https://resanskrit.com/blogs/blog-post/ardhanarishvara-stotram-meaning-adi-shankaracharya"
+    ]
+  },
+  {
+    "work_id": "GR13karatopu",
+    "title": "Karatoyāmāhātmya",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Purāṇic / tīrtha literature)",
+    "genre": "māhātmya (glorification of a sacred place)",
+    "date_estimate": "before the mid/late 12th c. CE",
+    "summary": "A māhātmya glorifying the Karatoyā river (in northern Bengal / present-day Bangladesh and West Bengal) as a sacred tīrtha, extolling the spiritual merit of bathing in and visiting it. It describes the prosperity, fertility and purity of the lands along its course and the religious rewards accruing to pilgrims.",
+    "history": "The Karatoyā, once a great river now reduced to a stream, was celebrated for sanctity in the Mahābhārata and Purāṇas; the Karatoyāmāhātmya, composed sometime before the latter half of the twelfth century, is an important witness to the river's former greatness and to medieval Bengal's sacred geography.",
+    "related_works": [
+      "Purāṇic māhātmya literature"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://en.banglapedia.org/index.php/Karatoya_River",
+      "https://www.wisdomlib.org/definition/karatoya",
+      "https://en.wikipedia.org/wiki/Karatoya_River"
+    ]
+  },
+  {
+    "work_id": "GR13kirtc_pu",
+    "title": "Kiraṇatantra",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "tantra/āgama (scripture)",
+    "date_estimate": "c. 6th-8th c. CE (early dualist Śaiva Siddhānta)",
+    "summary": "An early Śaiva Siddhānta scripture cast as a dialogue between Garuḍa (the 'ray,' kiraṇa) and Śiva, covering the canonical fourfold subject matter of doctrine (jñāna), yoga, ritual (kriyā) and conduct (caryā). It treats the metaphysics of Śiva, the bound soul, bondage (mala, karma, māyā), initiation and the path to liberation in the dualist Saiddhāntika framework. This is the 'c' recension/edition in the corpus.",
+    "history": "The Kiraṇatantra (Kiraṇāgama) is counted among the earliest revealed scriptures of the dualist Śaiva Siddhānta, alongside the Niśvāsa and Svāyambhuvasūtrasaṃgraha. Bhaṭṭa Rāmakaṇṭha wrote an important commentary on its doctrinal portion, critically edited and translated by Dominic Goodall (1998).",
+    "related_works": [
+      "Niśvāsatattvasaṃhitā",
+      "Svāyambhuvasūtrasaṃgraha",
+      "Bhaṭṭa Rāmakaṇṭha's commentary on the Kiraṇatantra"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/abs/problems-of-name-and-lineage-relationships-between-south-indian-authors-of-the-saiva-siddhanta/CF19E8CA909B57805729C8A7EF4E2AF8",
+      "https://link.springer.com/article/10.1007/s10781-013-9209-0"
+    ]
+  },
+  {
+    "work_id": "GR13kirtm_pu",
+    "title": "Kiraṇatantra",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "tantra/āgama (scripture)",
+    "date_estimate": "c. 6th-8th c. CE (early dualist Śaiva Siddhānta)",
+    "summary": "A second transmitted recension/edition of the Kiraṇatantra (Kiraṇāgama), an early Saiddhāntika Śaiva scripture structured as Śiva's revelation and covering doctrine, yoga, ritual and conduct. The two GRETIL entries reflect distinct manuscript/edition traditions of the same scripture (e.g. a Kashmirian/Nepalese vs. a South Indian transmission).",
+    "history": "Like its parallel entry, this is the Kiraṇatantra known from the early dualist Śaiva Siddhānta canon, on whose doctrinal chapters Bhaṭṭa Rāmakaṇṭha composed his commentary (edited by Goodall, 1998). It is frequently cited as a touchstone scripture by later Saiddhāntika authors.",
+    "related_works": [
+      "Niśvāsatattvasaṃhitā",
+      "Svāyambhuvasūtrasaṃgraha",
+      "Bhaṭṭa Rāmakaṇṭha's commentary on the Kiraṇatantra"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/abs/problems-of-name-and-lineage-relationships-between-south-indian-authors-of-the-saiva-siddhanta/CF19E8CA909B57805729C8A7EF4E2AF8",
+      "https://link.springer.com/article/10.1007/s10781-013-9209-0"
+    ]
+  },
+  {
+    "work_id": "GR13kubjt_pu",
+    "title": "Kubjikāmatatantra",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śākta-Śaiva (Kaula; Paścimāmnāya / Western transmission)",
+    "genre": "tantra (scripture)",
+    "date_estimate": "c. 9th-10th c. CE",
+    "summary": "The root scripture (mata) of the Western transmission (Paścimāmnāya) of Kaula tantrism, centered on the goddess Kubjikā ('the crooked/hunchbacked one') and her consort. It expounds the cult's distinctive cosmology, the subtle body and kuṇḍalinī, mantra and the worship of Kubjikā as the embodiment of kuṇḍalinī energy.",
+    "history": "The Kubjikāmatatantra is the foundational text of the Kubjikā cult, which flourished especially in Nepal where its manuscripts were preserved. Text-critical work (e.g. by Goudriaan, Schoterman, and others) dates it to the ninth or tenth century; the label 'paścimāmnāya' for the tradition is largely a later development absent from the earliest sources.",
+    "related_works": [
+      "Ṣaṭsāhasrasaṃhitā (expanded recension)",
+      "Paścimāmnāya/Kubjikā corpus"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kubjika",
+      "https://www.academia.edu/2705870/Remarks_on_the_Text_of_the_Kubjik%C4%81matatantra_Indo_Iranian_Journal_45_2002_pp_1_24",
+      "https://www.wisdomlib.org/definition/pashcimamnaya"
+    ]
+  },
+  {
+    "work_id": "GR13mabhedtu",
+    "title": "Mātṛkābhedatantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śākta-Śaiva (Kaula)",
+    "genre": "tantra (scripture; includes alchemical material)",
+    "date_estimate": "c. 13th-16th c. CE (commonly placed around the 13th c., probably not earlier)",
+    "summary": "A later Śākta-Śaiva Kaula tantra dealing with the worship of Śiva and the Goddess, including mantra-śāstra and the 'mātṛkā' (the matrix of phonemes/letters). Notably, several of its chapters (the first, fifth and eighth) contain alchemical (rasaśāstra) material, especially on the fabrication of mercurial liṅgas.",
+    "history": "The Mātṛkābhedatantra is generally regarded as a relatively late work, often dated to around the thirteenth century but probably not as old as some traditional claims; it has been edited and discussed in studies of Indian alchemy (e.g. White's work on rasa) and Bengali/eastern Śākta tantra.",
+    "related_works": [
+      "Śākta/Kaula tantra corpus",
+      "rasaśāstra (alchemical) literature"
+    ],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/matrikabhedatantra",
+      "https://indiafacts.org/demystifying-tantra-shakta-tantras-kaula-tantras-mantrashastra-nibandhas/"
+    ]
+  },
+  {
+    "work_id": "GR13malinivu",
+    "title": "Mālinīvijayottaratantra",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, non-dual Kashmir Shaivism (Trika)",
+    "genre": "tantra (scripture)",
+    "date_estimate": "c. 8th-9th c. CE (before Abhinavagupta, c. 975-1025 CE)",
+    "summary": "A Bhairava-tantra of the Trika and, according to Abhinavagupta, the single most authoritative of the sixty-four non-dualist tantras on which the Trika system rests. It treats the Trika cosmology and pantheon (especially the goddess Mālinī and the arrangement of phonemes), initiation, ritual and an influential exposition of yoga and the means (upāyas) to liberation.",
+    "history": "The Mālinīvijayottara was foundational for Abhinavagupta, who took it as the scriptural backbone of his monumental Tantrāloka and discussed it throughout his works; its yoga sections were critically edited and translated by Somadeva Vasudeva. It is generally dated to roughly the 8th-9th century, predating the Kashmirian exegetes who systematized the Trika.",
+    "related_works": [
+      "Tantrāloka (Abhinavagupta)",
+      "Mālinīvijayavārttika (Abhinavagupta)",
+      "Siddhayogeśvarīmata"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.sanskrit-trikashaivism.com/en/malinivijayottaratantra-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/828",
+      "https://www.exoticindiaart.com/book/details/yoga-of-malinivijayottaratantra-critical-text-translation-and-notes-idk188/"
+    ]
+  },
+  {
+    "work_id": "GR13mrgt1mpu",
+    "title": "Mṛgendrāgama [Mṛgendratantra]: 1. Vidyāpāda",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "tantra/āgama (scripture) — doctrinal section",
+    "date_estimate": "c. 7th-9th c. CE (pre-12th c.)",
+    "summary": "The Vidyāpāda (doctrine/knowledge section) of the Mṛgendrāgama, an Upāgama affiliated with the Kāmika scriptural tradition of the Śaiva Siddhānta. This section sets out the system's metaphysics: the nature of Śiva (pati), the bound souls (paśu), the bonds (pāśa), the categories (tattvas), epistemology and the rationale of grace and liberation.",
+    "history": "The Mṛgendra is among the pre-twelfth-century Śaiva āgamas and was much used by Saiddhāntika theologians; Bhaṭṭanārāyaṇakaṇṭha wrote a vṛtti and Aghoraśiva a dīpikā on it. The Vidyāpāda and Yogapāda with Nārāyaṇakaṇṭha's commentary were published in the Kashmir Series of Texts and Studies (1930), and a French translation was produced at the IFP.",
+    "related_works": [
+      "Kāmikāgama (parent scriptural tradition)",
+      "Mṛgendrāgama: Kriyāpāda / Caryāpāda / Yogapāda",
+      "Bhaṭṭanārāyaṇakaṇṭha's vṛtti",
+      "Aghoraśiva's dīpikā"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://catalog.hathitrust.org/Record/000601308",
+      "https://books.openedition.org/ifp/1788?lang=en"
+    ]
+  },
+  {
+    "work_id": "GR13mrgt3mpu",
+    "title": "Mṛgendrāgama [Mṛgendratantra]: 3. Caryāpāda",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "tantra/āgama (scripture) — conduct section",
+    "date_estimate": "c. 7th-9th c. CE (pre-12th c.)",
+    "summary": "The Caryāpāda (section on conduct/observance) of the Mṛgendrāgama, prescribing the daily religious discipline, behavioral rules, observances and duties of the initiated Śaiva Siddhānta practitioner. It complements the doctrinal, ritual and yogic sections of the same āgama.",
+    "history": "Part of the pre-twelfth-century Mṛgendra (an Upāgama of the Kāmika); Hélène Brunner-Lachaux edited and translated the rites and conduct sections (Mṛgendrāgama: section des rites et section du comportement, IFP 1985), with the commentaries of Bhaṭṭanārāyaṇakaṇṭha and Aghoraśiva.",
+    "related_works": [
+      "Kāmikāgama (parent scriptural tradition)",
+      "Mṛgendrāgama: Vidyāpāda / Kriyāpāda / Yogapāda",
+      "Bhaṭṭanārāyaṇakaṇṭha's vṛtti",
+      "Aghoraśiva's dīpikā"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.academia.edu/26226483/M%E1%B9%9Bgendr%C4%81gama_section_des_rites_et_section_du_comportement_traduction_introduction_et_notes_par_H%C3%A9l%C3%A8ne_Brunner-Lachaux_Pondich%C3%A9ry_1985_",
+      "https://books.openedition.org/ifp/1788?lang=en"
+    ]
+  },
+  {
+    "work_id": "GR13mrgt4mpu",
+    "title": "Mṛgendrāgama [Mṛgendratantra]: 4. Yogapāda",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "tantra/āgama (scripture) — yoga section",
+    "date_estimate": "c. 7th-9th c. CE (pre-12th c.)",
+    "summary": "The Yogapāda (section on yoga) of the Mṛgendrāgama, expounding the Saiddhāntika system of yoga: the disciplines of breath, concentration and meditation by which the initiated soul progresses toward union with Śiva. It forms one quarter of the āgama's canonical fourfold structure.",
+    "history": "The Yogapāda, together with the Vidyāpāda and Nārāyaṇakaṇṭha's commentary, was published in the Kashmir Series of Texts and Studies (1930) and rendered into French at the IFP (Mṛgendrāgama, sections de la doctrine et du yoga). The Mṛgendra is a pre-twelfth-century āgama much cited in Śaiva Siddhānta scholasticism.",
+    "related_works": [
+      "Kāmikāgama (parent scriptural tradition)",
+      "Mṛgendrāgama: Vidyāpāda / Kriyāpāda / Caryāpāda",
+      "Bhaṭṭanārāyaṇakaṇṭha's vṛtti",
+      "Aghoraśiva's dīpikā"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://catalog.hathitrust.org/Record/000601308",
+      "https://books.openedition.org/ifp/1788?lang=en"
+    ]
+  },
+  {
+    "work_id": "GR13parakspu",
+    "title": "Paraśurāma-Kalpasūtra",
+    "author": "anonymous/traditional (ascribed to Paraśurāma)",
+    "tradition": "Hindu, Śākta (Śrīvidyā; Kaula)",
+    "genre": "kalpasūtra (ritual manual / sūtra)",
+    "date_estimate": "c. 16th c. CE or somewhat earlier (South India)",
+    "summary": "A concise aphoristic ritual handbook of the Śrīvidyā Kaula tradition, setting out in sūtra form the worship of the goddess Tripurasundarī (Lalitā) and related deities, the śrīcakra, initiation, mantra and daily and occasional rites. It is one of the most authoritative practical manuals of South Indian Śrīvidyā.",
+    "history": "Ascribed to the sage Paraśurāma, the text was probably compiled in the sixteenth century or a little earlier in South India; its terse aphorisms became accessible largely through Rāmeśvara's detailed commentary (the Saubhāgyodaya), composed in 1831 CE.",
+    "related_works": [
+      "Rāmeśvara's commentary (Saubhāgyodaya/Saubhāgyodaya-vṛtti)",
+      "Śrīvidyā / Tripurasundarī tantric corpus"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Parashurama_Kalpasutra",
+      "https://www.kamakotimandali.com/2021/03/31/parasurama-kalpasutra/",
+      "https://tripuratallika.org/deities-of-parasurama-kalpasutra/"
+    ]
+  },
+  {
+    "work_id": "GR13pasupbhu",
+    "title": "Pāśupatasūtra",
+    "author": "attributed to Lakulīśa",
+    "tradition": "Hindu, Śaiva (Pāśupata / Atimārga)",
+    "genre": "sūtra (foundational scripture; here with Kauṇḍinya's bhāṣya)",
+    "date_estimate": "c. 4th-5th c. CE (sūtra); commentary c. 4th-6th c. CE",
+    "summary": "The foundational aphoristic scripture of the Pāśupata movement, the earliest Śaiva ascetic tradition for which textual evidence survives. It lays out the path of the Pāśupata ascetic: vows and observances (vidhi), peculiar transgressive practices, stages of discipline and the goal of the 'end of suffering' through union with Rudra-Śiva (the pati). This entry corresponds to the version transmitted with Kauṇḍinya's Pañcārthabhāṣya ('bhu').",
+    "history": "Traditionally ascribed to Lakulīśa, the systematizer of the Pāśupatas, the sūtras and Kauṇḍinya's Pañcārthabhāṣya were rediscovered and published from a single manuscript in 1930 (Trivandrum). Kauṇḍinya is placed roughly in the 4th-6th century. The Pāśupatas are the principal Atimārga current and a key precursor to later Śaivism.",
+    "related_works": [
+      "Pañcārthabhāṣya (Kauṇḍinya's commentary)",
+      "Gaṇakārikā",
+      "Atimārga Śaiva literature"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pashupata-sutra",
+      "https://en.wikipedia.org/wiki/Lakulisha",
+      "https://link.springer.com/article/10.1007/s10781-013-9210-7"
+    ]
+  },
+  {
+    "work_id": "GR13pasupspu",
+    "title": "Pāśupatasūtra",
+    "author": "attributed to Lakulīśa",
+    "tradition": "Hindu, Śaiva (Pāśupata / Atimārga)",
+    "genre": "sūtra (foundational scripture)",
+    "date_estimate": "c. 4th-5th c. CE",
+    "summary": "A second transmitted version of the Pāśupatasūtra, the root aphoristic text of the Pāśupata ascetic tradition (the 'sūtra-only' or alternate-edition recension in the corpus, distinct from the version printed with Kauṇḍinya's bhāṣya). It prescribes the Pāśupata's vows, observances and graded path toward the cessation of suffering through devotion to Rudra-Śiva.",
+    "history": "As with the parallel entry, the sūtras are ascribed to Lakulīśa and were recovered together with Kauṇḍinya's Pañcārthabhāṣya in the 1930 Trivandrum edition. The two corpus entries reflect different presentations/editions of the same scripture; the recovery of these texts revolutionized the modern study of early Śaivism.",
+    "related_works": [
+      "Pañcārthabhāṣya (Kauṇḍinya's commentary)",
+      "Gaṇakārikā",
+      "Atimārga Śaiva literature"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pashupata-sutra",
+      "https://en.wikipedia.org/wiki/Lakulisha",
+      "https://link.springer.com/article/10.1007/s10783-005-4912-x"
+    ]
+  },
+  {
+    "work_id": "GR13pat",
+    "title": "Parākhyatantra",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "tantra/āgama (scripture)",
+    "date_estimate": "c. 8th-10th c. CE",
+    "summary": "A Śaiva Siddhānta scripture (also called Pauṣkara-Pārameśvara / Saurabheya in tradition) presenting the dualist Saiddhāntika doctrine in dialogue form: the nature of Śiva, the soul, the bonds and the means to liberation, with substantial philosophical argumentation. It is valued for its clear scholastic treatment of Śaiva metaphysics and epistemology.",
+    "history": "The surviving text was critically edited and translated by Dominic Goodall as 'The Parākhyatantra: A Scripture of the Śaiva Siddhānta' (IFP/EFEO, Collection Indologie 98, 2004). It is one of the better-preserved early Saiddhāntika scriptures and is frequently cited by medieval Śaiva exegetes.",
+    "related_works": [
+      "Śaiva Siddhānta āgama corpus",
+      "Kiraṇatantra",
+      "Mṛgendrāgama"
+    ],
+    "confidence": "high",
+    "sources": [
+      "https://www.ifpindia.org/bookstore/ci98/",
+      "https://www.exoticindiaart.com/book/details/parakhyatantra-scripture-of-saiva-siddhanta-nak822/",
+      "https://www.sahapedia.org/the-par%C4%81khyatantra-scripture-of-the-%C5%9Baiva-siddh%C4%81nta"
+    ]
+  }
+]

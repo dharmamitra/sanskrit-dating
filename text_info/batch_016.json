@@ -1,0 +1,318 @@
+[
+  {
+    "work_id": "GK20hdratn_u",
+    "title": "Ratnāvalīnāṭikā",
+    "author": "Harṣadeva (Harṣavardhana)",
+    "tradition": "Hindu (secular court literature)",
+    "genre": "drama (nāṭikā)",
+    "date_estimate": "early to mid-7th c. CE (during reign of Harṣa, r. c. 606-647 CE)",
+    "summary": "A four-act romantic court comedy (nāṭikā) recounting the love affair between King Udayana of Vatsa and Ratnāvalī (Sāgarikā), a Ceylonese princess who, shipwrecked, enters the court of Udayana's chief queen Vāsavadattā as a maidservant. The plot turns on mistaken identities, the queen's jealousy, palace intrigue, and the eventual revelation of Sāgarikā's royal birth and her union with the king.",
+    "history": "Conventionally attributed to the emperor Harṣa of Kanauj, though some scholars argue a court poet (sometimes named Dhāvaka or Bāṇa) composed the dramas issued under his name. The play is a model of the nāṭikā subgenre and is celebrated for its refined handling of the love-intrigue plot derived ultimately from the Bṛhatkathā tradition.",
+    "related_works": ["Priyadarśikā", "Nāgānanda", "Harṣacarita", "Bṛhatkathā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ratnavali",
+      "https://grokipedia.com/page/Ratnavali"
+    ]
+  },
+  {
+    "work_id": "GK20hpriydpu",
+    "title": "Priyadarśikā",
+    "author": "Harṣadeva (Harṣavardhana)",
+    "tradition": "Hindu (secular court literature)",
+    "genre": "drama (nāṭikā)",
+    "date_estimate": "early to mid-7th c. CE (reign of Harṣa, r. c. 606-647 CE)",
+    "summary": "A four-act romantic nāṭikā dramatizing the love of King Udayana of Vatsa for Priyadarśikā (Āraṇyakā), daughter of King Dṛḍhavarman, who in disguise serves in the harem of Queen Vāsavadattā. Mistaken identity, a play-within-a-play, and the queen's eventual generosity bring about the recognition of the heroine's royal status and her marriage to the king.",
+    "history": "One of three dramas (with Ratnāvalī and Nāgānanda) traditionally ascribed to Harṣa; the same authorship debate (Harṣa vs. a court poet such as Bāṇa/Dhāvaka) applies. Its plot motif is drawn from the Udayana legend cycle of Guṇāḍhya's Bṛhatkathā and closely parallels Ratnāvalī in structure.",
+    "related_works": ["Ratnāvalī", "Nāgānanda", "Harṣacarita", "Bṛhatkathā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.vedantu.com/question-answer/priyadarshika-ratnavali-and-nagananda-of-harsha-class-11-social-science-cbse-5fd455a717b5b76e2ed0c34b",
+      "https://theliteraryscholar.com/nagananda-by-harsha-analysis/"
+    ]
+  },
+  {
+    "work_id": "GK20mmatvipu",
+    "title": "Mattavilāsaprahasana",
+    "author": "Mahendravarman I (Pallava king)",
+    "tradition": "Hindu (secular satire; lampoons Kāpālika, Pāśupata, Buddhist and Jain ascetics)",
+    "genre": "drama (prahasana, one-act farce)",
+    "date_estimate": "early 7th c. CE (c. 600-630 CE)",
+    "summary": "A one-act Sanskrit farce (prahasana) set in Kāñcīpuram, the Pallava capital. A drunken Kāpālika Śaiva ascetic and his consort lose their begging skull-bowl and accuse a Buddhist monk of stealing it, generating a satirical dispute that mocks the hypocrisy and excesses of various heterodox and ascetic sects.",
+    "history": "Composed by the Pallava king Mahendravarman I (also a patron of rock-cut architecture); the play is referenced in inscriptions and securely dated to the early 7th century. It is one of the earliest and most celebrated examples of the prahasana genre and an important source for the social and religious milieu of 7th-century South India.",
+    "related_works": ["Bhagavadajjukīya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mattavilasa_Prahasana",
+      "https://en.wikipedia.org/wiki/Mahendravarman_I"
+    ]
+  },
+  {
+    "work_id": "GK20murau",
+    "title": "Mudrārākṣasa",
+    "author": "Viśākhadatta",
+    "tradition": "Hindu (secular political drama)",
+    "genre": "drama (nāṭaka, political/historical)",
+    "date_estimate": "disputed; commonly c. 5th-6th c. CE (proposals range late 4th to 8th c. CE); project hint c. 500-600 CE",
+    "summary": "A seven-act political drama dramatizing the statecraft of Cāṇakya (Kauṭilya) as he maneuvers to win over Rākṣasa, the loyal minister of the overthrown Nanda dynasty, to the service of the new Mauryan emperor Candragupta. Unusually for Sanskrit drama, it contains no romantic plot and centers entirely on espionage, forged seals (mudrā), and diplomatic intrigue.",
+    "history": "By the poet Viśākhadatta, about whose life little is known; his dating is debated over several centuries. The play is prized as a masterwork of plot construction and as a literary window onto ancient Indian political theory, drawing on the Arthaśāstra tradition.",
+    "related_works": ["Arthaśāstra", "Devīcandragupta"],
+    "confidence": "high",
+    "sources": [
+      "https://prepp.in/news/e-492-mudrarakashasa-vishakhadatta-ancient-india-history-notes",
+      "https://itihaas.ai/en/creativeWorks/mudrarakshasa"
+    ]
+  },
+  {
+    "work_id": "GK20rmc1-3pu",
+    "title": "Rāmacaritamahākāvya 1–3",
+    "author": "Abhinanda (son of Jayanta/Śatānanda)",
+    "tradition": "Hindu (Vaiṣṇava; courtly)",
+    "genre": "kāvya (mahākāvya, epic court poetry)",
+    "date_estimate": "9th c. CE (Pāla-period; project hint c. 799-999 CE)",
+    "summary": "Cantos 1-3 of a Sanskrit court epic (mahākāvya) in some forty cantos retelling the story of Rāma, largely following the narrative of Vālmīki's Rāmāyaṇa but recast in ornate classical kāvya style. The opening cantos cover the early Rāmāyaṇa material (Bāla/Ayodhyā portions).",
+    "history": "Composed by Abhinanda, a Sanskrit poet of Gauḍa (Bengal) and court poet associated with the Pāla king Hāravarṣa, in the 9th century. He is distinct from the later Sandhyākara Nandi who wrote a different Rāmacaritam. The Gaekwad's Oriental Series published K. S. Ramaswami Sastri's edition (1930).",
+    "related_works": ["Rāmāyaṇa (Vālmīki)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.banglapedia.org/index.php/Abhinanda",
+      "https://archive.org/details/ramacharita-of-abhinanda-ks-ramaswami-sastri-1930-gos"
+    ]
+  },
+  {
+    "work_id": "GK20ruysahlu",
+    "title": "Sahṛdayalīlā",
+    "author": "Ruyyaka (Rājānaka Ruyyaka)",
+    "tradition": "Hindu (Sanskrit poetics, alaṃkāraśāstra; Kashmir)",
+    "genre": "philosophical treatise (poetics / alaṃkāra)",
+    "date_estimate": "first half of the 12th c. CE",
+    "summary": "A short work on Sanskrit literary theory, dealing with the appreciation of poetry by the cultivated connoisseur (sahṛdaya) and matters of figures of speech and aesthetic response. It belongs to the rich Kashmirian tradition of alaṃkāraśāstra.",
+    "history": "Ruyyaka, son of Tilaka, was a leading Kashmirian theorist of the early 12th century, best known for the Alaṃkārasarvasva; the Sahṛdayalīlā is among his minor works. It was edited and published by R. Pischel together with Rudraṭa's Śṛṅgāratilaka. Ruyyaka's oeuvre represents a culmination of Kashmirian aesthetics following Abhinavagupta and Mammaṭa.",
+    "related_works": ["Alaṃkārasarvasva", "Śṛṅgāratilaka (Rudraṭa)"],
+    "confidence": "medium",
+    "sources": [
+      "https://archive.org/details/rudratascrngarat00rudruoft",
+      "https://www.wisdomlib.org/definition/ruyyaka"
+    ]
+  },
+  {
+    "work_id": "GK20sypadatu",
+    "title": "Pāḍatāḍitaka",
+    "author": "Udīcya Śyāmilaka (Śyāmilaka)",
+    "tradition": "Hindu (secular; satirical urban literature)",
+    "genre": "drama (bhāṇa, one-act monologue play)",
+    "date_estimate": "disputed; Gupta period, commonly c. 5th c. CE (proposals range c. 410 CE to as late as 8th-9th c.)",
+    "summary": "The longest of the four bhāṇas collected in the Caturbhāṇī, a one-act monologue play in which a single actor (a viṭa, urbane man-about-town) impersonates and converses with an array of imagined characters drawn from city life, including courtesans, gamblers and rogues. With some 148 verses interspersed with prose, the title (\"The Kick\") refers to a comic episode of a man kicked in a quarrel.",
+    "history": "Attributed to Śyāmilaka, probably a native of Kashmir of the later Gupta era; the precise date is contested (T. Burrow argued c. 410 CE, others later). It is a key source for the social history and urban culture of classical India and for the development of the bhāṇa genre.",
+    "related_works": ["Caturbhāṇī", "Dhūrtaviṭasaṃvāda", "Ubhayābhisārikā", "Padmaprābhṛtaka"],
+    "confidence": "high",
+    "sources": [
+      "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/abs/date-of-syamilakas-padataditaka/56C76BB2396FDF303BA9C6E75527AF02",
+      "https://www.wisdomlib.org/hinduism/essay/society-as-depicted-in-the-chaturbhani-study/d/doc1601768.html"
+    ]
+  },
+  {
+    "work_id": "GK21karaka",
+    "title": "Kathāratnākara",
+    "author": "Hemavijaya (Hemavijayagaṇi)",
+    "tradition": "Jain (Śvetāmbara)",
+    "genre": "narrative literature (story collection / kathā)",
+    "date_estimate": "c. 1600 CE (Vikrama 1657)",
+    "summary": "An \"Ocean of Story-Jewels,\" a Sanskrit prose collection of some 258 didactic tales, fables, legends, anecdotes and humorous stories. Hemavijaya drew the material largely from oral tradition and earlier sources, with some of his own composition, aiming both to entertain and to teach moral and religious lessons.",
+    "history": "Composed by the Jain monk Hemavijaya (1565-1631) at Ahmedabad around 1600 CE according to its own colophon. It was translated into German by Johannes Hertel as Das Märchenmeer (\"The Sea of Tales\") and is a notable late example of the Jain narrative tradition.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://link.springer.com/10.1007/978-3-476-05728-0_1904-1",
+      "https://www.nli.org.il/en/books/NNL_ALEPH990029960820205171/NLI"
+    ]
+  },
+  {
+    "work_id": "GK21soksvppu",
+    "title": "Kathāsaritsāgara",
+    "author": "Somadeva (Somadeva Bhaṭṭa)",
+    "tradition": "Hindu (secular narrative; Kashmir)",
+    "genre": "narrative literature (kathā, story collection in verse)",
+    "date_estimate": "c. 1063-1081 CE (11th c.; project hint c. 1100-1350 broadly later)",
+    "summary": "The \"Ocean of the Streams of Story,\" a vast Sanskrit verse compendium of tales arranged in 18 books (lambakas) and over 120 chapters (taraṅgas), framed around the adventures of Naravāhanadatta. It embeds hundreds of interlocking fairy tales, fables, romances and didactic stories, including well-known cycles such as the Vetālapañcaviṃśati.",
+    "history": "Compiled c. 1070 CE by the Kashmirian Śaiva Brahmin Somadeva for Sūryavatī, queen of King Ananta of Kashmir, as a Sanskrit recasting of the lost Bṛhatkathā of Guṇāḍhya (via its Paiśācī tradition). It is one of the most important repositories of Indian folklore and was famously translated by C. H. Tawney.",
+    "related_works": ["Bṛhatkathā (Guṇāḍhya)", "Bṛhatkathāmañjarī (Kṣemendra)", "Vetālapañcaviṃśati"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kathasaritsagara",
+      "https://www.cse.iitk.ac.in/users/amit/books/vallabhadeva-2007-subhashitavali-anthology-of.html"
+    ]
+  },
+  {
+    "work_id": "GK21ttrkhy1u",
+    "title": "Tantrākhyāyika 1",
+    "author": "anonymous/traditional (ascribed to Viṣṇuśarman)",
+    "tradition": "Hindu (secular; nīti / fable)",
+    "genre": "narrative literature (nīti-fable, frame story)",
+    "date_estimate": "earliest recension; text ultimately c. 300 BCE-570 CE, this Kashmirian recension preserving an early form (1st millennium CE)",
+    "summary": "Book 1 of the Tantrākhyāyika, the oldest surviving Kashmirian recension of the Pañcatantra. This book is \"Mitrabheda\" (The Separation of Friends), in which the jackals Damanaka and Karaṭaka engineer the estrangement of the lion-king Piṅgalaka from the bull Saṃjīvaka, illustrating principles of statecraft (nīti) through interwoven animal fables.",
+    "history": "The Tantrākhyāyika was identified and edited by Johannes Hertel (Berlin 1910; Harvard 1915) as the oldest extant recension of the Pañcatantra, the classic Indian \"mirror for princes.\" Authorship is traditionally assigned to Viṣṇuśarman; the underlying work spread across Asia via the Middle Persian and Arabic Kalīla wa-Dimna traditions.",
+    "related_works": ["Pañcatantra", "Kalīla wa-Dimna", "Hitopadeśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Panchatantra",
+      "https://archive.org/details/panchatantracoll00hert"
+    ]
+  },
+  {
+    "work_id": "GK21ttrkhy2u",
+    "title": "Tantrākhyāyika 2",
+    "author": "anonymous/traditional (ascribed to Viṣṇuśarman)",
+    "tradition": "Hindu (secular; nīti / fable)",
+    "genre": "narrative literature (nīti-fable, frame story)",
+    "date_estimate": "earliest recension; text ultimately c. 300 BCE-570 CE, this Kashmirian recension preserving an early form (1st millennium CE)",
+    "summary": "Book 2 of the Tantrākhyāyika (oldest Kashmirian recension of the Pañcatantra), corresponding to \"Mitrasaṃprāpti\" (The Winning of Friends), in which a crow, mouse, tortoise and deer form a mutually protective friendship that allows them to escape hunters and traps. It illustrates the value of alliance and cooperation among the weak.",
+    "history": "Part of the same early Kashmirian recension edited by Johannes Hertel as the oldest form of the Pañcatantra, traditionally ascribed to Viṣṇuśarman. The Pañcatantra became one of the most widely translated works in world literature through the Kalīla wa-Dimna line of transmission.",
+    "related_works": ["Pañcatantra", "Kalīla wa-Dimna", "Hitopadeśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Panchatantra",
+      "https://archive.org/details/panchatantracoll00hert"
+    ]
+  },
+  {
+    "work_id": "GK22bharst_u",
+    "title": "Śatakatraya: 1. Nītiśataka, 2. Śṛṅgāraśataka, 3. Vairāgyaśataka",
+    "author": "Bhartṛhari",
+    "tradition": "Hindu (secular gnomic poetry; with renunciatory/Vedānta-Yoga colouring)",
+    "genre": "kāvya (gnomic/epigrammatic verse anthology, śataka)",
+    "date_estimate": "c. 5th c. CE (commonly; project hint c. 500-650 CE)",
+    "summary": "A triad of \"centuries\" (śataka) of epigrammatic verses: the Nītiśataka on worldly wisdom, ethics and conduct; the Śṛṅgāraśataka on love, women and sensual pleasure; and the Vairāgyaśataka on dispassion and renunciation. Together they move from engagement with the world toward detachment, and are among the most quoted of all Sanskrit subhāṣita verses.",
+    "history": "Attributed to Bhartṛhari, sometimes (problematically) identified with the grammarian-philosopher of the Vākyapadīya. The Chinese pilgrim Yijing reports a Bhartṛhari who oscillated between monastery and worldly life, fitting the mood of the verses. The collection circulated in numerous recensions and was the first Sanskrit work rendered into a European language (Abraham Roger, 17th c.).",
+    "related_works": ["Vākyapadīya", "Subhāṣitaratnakoṣa", "Subhāṣitāvalī"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhartrihari",
+      "https://www.cse.iitk.ac.in/users/amit/books/haksar-2007-subhashitavali-anthology-of.html"
+    ]
+  },
+  {
+    "work_id": "GK22subhashitasataka",
+    "title": "Subhāṣitaśataka",
+    "author": "anonymous/traditional (title shared by several compilers)",
+    "tradition": "Hindu (secular gnomic poetry)",
+    "genre": "kāvya (subhāṣita anthology, \"century\" of well-turned verses)",
+    "date_estimate": "uncertain; generic title for medieval subhāṣita collections (1st-2nd millennium CE)",
+    "summary": "A \"century of well-spoken verses,\" i.e., a collection of roughly one hundred polished gnomic and didactic Sanskrit epigrams on ethics, conduct, wisdom and worldly life. The title is generic and has been borne by more than one compilation in the subhāṣita tradition.",
+    "history": "The exact work intended by this bare title cannot be pinned to a single author with certainty; several śataka-style subhāṣita anthologies circulate under such names (one notable example being attributed to the poet-anthologist tradition). It belongs to the broad medieval Sanskrit practice of compiling memorable, quotable verses.",
+    "related_works": ["Śatakatraya (Bhartṛhari)", "Subhāṣitaratnakoṣa", "Subhāṣitāvalī"],
+    "confidence": "low",
+    "sources": [
+      "https://www.cse.iitk.ac.in/users/amit/books/haksar-2007-subhashitavali-anthology-of.html"
+    ]
+  },
+  {
+    "work_id": "GK22valsubhu",
+    "title": "Subhāṣitāvalī",
+    "author": "Vallabhadeva",
+    "tradition": "Hindu (secular court poetry anthology; Kashmir)",
+    "genre": "kāvya (subhāṣita anthology)",
+    "date_estimate": "c. 15th c. CE (commonly c. 1417-1467; a minority argues for a 10th-c. Vallabhadeva), project hint c. 1400-1699",
+    "summary": "A large Sanskrit anthology of about 3,527 verse epigrams grouped under 101 thematic headings (cosmic, erotic, ethical, comic and other verse) and ascribed to some 362 named poets besides many anonymous pieces. It preserves verses spanning roughly fifteen centuries of Sanskrit poetry, with a marked Kashmirian flavor.",
+    "history": "Compiled by Vallabhadeva, generally identified as a Kashmirian (kāśmīraka); his date is debated between the 10th and 15th centuries, with most modern opinion favoring the 15th. It is a major source for otherwise-lost poets and was edited by Peterson and Durgāprasāda (1886).",
+    "related_works": ["Subhāṣitaratnakoṣa (Vidyākara)", "Śārṅgadharapaddhati", "Śatakatraya (Bhartṛhari)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/sanskrit/book/2/subhashitavali",
+      "https://www.cse.iitk.ac.in/users/amit/books/haksar-2007-subhashitavali-anthology-of.html"
+    ]
+  },
+  {
+    "work_id": "GK22vidsrgpu",
+    "title": "Subhāṣitaratnakoṣa",
+    "author": "Vidyākara",
+    "tradition": "Buddhist (compiler); secular Sanskrit court poetry (Bengal)",
+    "genre": "kāvya (subhāṣita anthology)",
+    "date_estimate": "c. late 11th-early 12th c. CE (first recension before 1100, second by c. 1130 CE); project hint c. 900-1199",
+    "summary": "The \"Treasury of Well-Turned Verse,\" an anthology of refined Sanskrit court poetry (over 1,700 verses in its expanded recension) arranged thematically, ranging from invocations of deities through nature, the seasons, love, character types and gnomic reflection. It is a prime witness to the high classical kāvya of the period c. 700-1050 CE.",
+    "history": "Compiled by Vidyākara, a Buddhist scholar associated with the Jagaddala monastery in Bengal, in two recensions in the late 11th to early 12th century. Famously edited and translated by D. H. H. Ingalls in the Harvard Oriental Series. This entry corresponds to one volume/part of the modern edition; it preserves many verses by otherwise unknown poets.",
+    "related_works": ["Subhāṣitāvalī (Vallabhadeva)", "Śārṅgadharapaddhati", "Saduktikarṇāmṛta"],
+    "confidence": "high",
+    "sources": [
+      "https://en.banglapedia.org/index.php/Subhasitaratnakosa",
+      "https://en.wikipedia.org/wiki/Vidyakara"
+    ]
+  },
+  {
+    "work_id": "GK22vidsripu",
+    "title": "Subhāṣitaratnakoṣa",
+    "author": "Vidyākara",
+    "tradition": "Buddhist (compiler); secular Sanskrit court poetry (Bengal)",
+    "genre": "kāvya (subhāṣita anthology)",
+    "date_estimate": "c. late 11th-early 12th c. CE (first recension before 1100, second by c. 1130 CE); project hint c. 900-1199",
+    "summary": "The \"Treasury of Well-Turned Verse\" by Vidyākara; this entry corresponds to a second volume/part of the same anthology (the work was published in multiple sections). It gathers thematically ordered classical Sanskrit verses on the gods, nature and seasons, love, types of persons, and worldly wisdom, drawn from major kāvyas, plays, minor poems and stray verses.",
+    "history": "By the same Bengali Buddhist compiler Vidyākara (Jagaddala monastery), late 11th-early 12th century, in two recensions. The standard scholarship is Ingalls's edition and translation (Harvard Oriental Series). It is invaluable for transmitting verses by poets whose own works are lost.",
+    "related_works": ["Subhāṣitāvalī (Vallabhadeva)", "Śārṅgadharapaddhati", "Saduktikarṇāmṛta"],
+    "confidence": "high",
+    "sources": [
+      "https://en.banglapedia.org/index.php/Subhasitaratnakosa",
+      "https://en.wikipedia.org/wiki/Vidyakara"
+    ]
+  },
+  {
+    "work_id": "GK23jonart",
+    "title": "Rājataraṅginī",
+    "author": "Jonarāja (and Pseudo-Jonarāja)",
+    "tradition": "Hindu (court chronicle / historiography; Kashmir)",
+    "genre": "kāvya (historical chronicle, itihāsa-kāvya)",
+    "date_estimate": "mid-15th c. CE (Jonarāja d. 1459); Pseudo-Jonarāja interpolations late 16th c. CE; project hint c. 1100-1200 refers to its narrative span, not composition",
+    "summary": "The \"second\" Rājataraṅginī, a Sanskrit verse chronicle of the kings of Kashmir continuing Kalhaṇa's original from c. 1148/1149 CE down to the reign of Sultan Zayn al-ʿĀbidīn (mid-15th c.). It documents in detail the transition to the Kashmir Sultanate and the Islamization of the valley, with Jonarāja writing in part as an eyewitness.",
+    "history": "Composed by the Kashmirian poet-historian Jonarāja (died 1459), court historian to Zayn al-ʿĀbidīn. One textual recension incorporates roughly 350 additional verses interpolated in the later 16th century by an anonymous continuator known as \"Pseudo-Jonarāja.\" The chronicle was itself continued by Jonarāja's pupil Śrīvara.",
+    "related_works": ["Rājataraṅginī (Kalhaṇa)", "Jaina-Rājataraṅginī (Śrīvara)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jonaraja",
+      "https://en.wikipedia.org/wiki/Rajatarangini"
+    ]
+  },
+  {
+    "work_id": "GK23kaulpradsam_u",
+    "title": "Pradeśasaṃgraha",
+    "author": "",
+    "tradition": "Hindu (likely Kashmirian Śaiva / Kaula context, given work-id 'kaul')",
+    "genre": "uncertain (likely a compendium / saṃgraha)",
+    "date_estimate": "unknown",
+    "summary": "Could not be confidently identified. The title 'Pradeśasaṃgraha' (literally \"a collection/compendium of passages or topics\") together with the work-id element 'kaul' suggests a compilation associated with the Kashmirian Kaula/Śaiva textual milieu, but no specific edition or attested work matching this exact title could be located in the consulted sources.",
+    "history": "No reliable information on authorship, date or transmission could be confirmed. The title is generic (saṃgraha = anthology/digest), and it may be a small or recently edited text not well represented in available indological references.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/pradesha"
+    ]
+  },
+  {
+    "work_id": "GP10bhp_01u",
+    "title": "Bhāgavata-Purāṇa 1",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu (Vaiṣṇava; Bhāgavata/Kṛṣṇa devotion)",
+    "genre": "purāṇa",
+    "date_estimate": "composite; core commonly c. 9th-10th c. CE (proposals range 6th-10th c.); project hint c. 900-1000",
+    "summary": "Book 1 (Prathama Skandha) of the Bhāgavata Purāṇa, the foremost Vaiṣṇava purāṇa. The first skandha sets the frame: the sages at Naimiṣāraṇya question Sūta; Vyāsa's dissatisfaction and Nārada's counsel; the testing and protection of Parīkṣit, and his being cursed to die in seven days, which sets up the recitation that follows.",
+    "history": "Traditionally ascribed to Vyāsa, the Bhāgavata is a composite work whose final form is generally dated to the early medieval period (often 9th-10th c. CE), possibly with South Indian (Tamil bhakti) influences. It became the central scripture of Kṛṣṇa devotion and the basis of numerous commentaries (e.g., Śrīdhara, Vallabha) and vernacular reworkings.",
+    "related_works": ["Bhāgavata Purāṇa (whole)", "Viṣṇu Purāṇa", "Mahābhārata", "Harivaṃśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhagavata_Purana"
+    ]
+  },
+  {
+    "work_id": "GP10bhp_02u",
+    "title": "Bhāgavata-Purāṇa 2",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu (Vaiṣṇava; Bhāgavata/Kṛṣṇa devotion)",
+    "genre": "purāṇa",
+    "date_estimate": "composite; core commonly c. 9th-10th c. CE (proposals range 6th-10th c.)",
+    "summary": "Book 2 (Dvitīya Skandha) of the Bhāgavata Purāṇa. Śuka instructs the dying king Parīkṣit on what one about to die should hear and meditate upon, expounding the cosmic form (virāṭ-rūpa) of the Lord, methods of meditation and yogic departure, the process of creation, and a summary of the purāṇa's themes (the ten characteristic topics).",
+    "history": "Part of the composite Bhāgavata Purāṇa traditionally ascribed to Vyāsa, with its received form usually placed in the early medieval period. The second skandha lays out the theological and cosmological framework that the later skandhas (especially the tenth, on Kṛṣṇa) elaborate; it is heavily commented upon in the Vaiṣṇava traditions.",
+    "related_works": ["Bhāgavata Purāṇa (whole)", "Viṣṇu Purāṇa", "Mahābhārata", "Harivaṃśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhagavata_Purana"
+    ]
+  }
+]

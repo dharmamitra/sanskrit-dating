@@ -1,0 +1,322 @@
+[
+  {
+    "work_id": "M00105",
+    "title": "Brahmavidyā Upaniṣad",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga Upaniṣad; Vedānta/Yoga synthesis)",
+    "genre": "Upaniṣad (minor/Yoga Upaniṣad)",
+    "date_estimate": "c. 100 BCE - 300 CE (core; per Gavin Flood), with later layers; disputed",
+    "summary": "A short minor Upaniṣad belonging to the Yoga Upaniṣad group, traditionally attached to the Kṛṣṇa Yajurveda (some recensions to the Atharvaveda). It expounds the science of Brahman (brahmavidyā) through meditation on the syllable Om (praṇava), analyzing its constituent mātrās, the haṃsa, and the subtle phonic and physiological dimensions of the sacred sound as a vehicle to liberation.",
+    "history": "One of the 108 Upaniṣads of the Muktikā canon. Like the other Yoga Upaniṣads it is anonymous and regarded by tradition as śruti; modern scholars treat it as a relatively late composite text expanded over time. Gavin Flood places the Yoga Upaniṣads broadly in the 100 BCE-300 CE range.",
+    "related_works": ["Muktikā Upaniṣad (canon of 108 Upaniṣads)", "Yoga Upaniṣads", "Nādabindu Upaniṣad", "Dhyānabindu Upaniṣad"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brahmavidya_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00106",
+    "title": "Dhyānabindu Upaniṣad",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga Upaniṣad)",
+    "genre": "Upaniṣad (minor/Yoga Upaniṣad)",
+    "date_estimate": "c. 100 BCE - 300 CE (core); longer South-Indian recension expanded through the 2nd millennium CE",
+    "summary": "A minor Yoga Upaniṣad attached to the Kṛṣṇa Yajurveda concerned with meditation (dhyāna) on the 'point/seed' (bindu). It teaches contemplation of Om, the haṃsa breath, the subtle body with its nāḍīs and cakras, prāṇāyāma and the inner phonic vibration as the means to dissolve karma and attain union with Brahman, anticipating later Haṭha/Tantric yoga physiology.",
+    "history": "Counted among the 108 Muktikā Upaniṣads and the twenty Yoga Upaniṣads. A shorter and a longer (South Indian) recension exist; the longer one shows expansion with later yogic material. Anonymous and traditionally regarded as śruti.",
+    "related_works": ["Muktikā Upaniṣad", "Yoga Upaniṣads", "Nādabindu Upaniṣad", "Brahmavidyā Upaniṣad"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dhyanabindu_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00107",
+    "title": "Haṃsa Upaniṣad",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga Upaniṣad)",
+    "genre": "Upaniṣad (minor/Yoga Upaniṣad)",
+    "date_estimate": "Probably 2nd millennium CE but before the early 17th c.; disputed",
+    "summary": "A short minor Yoga Upaniṣad attached to the Śukla Yajurveda, framed as a discourse between the sage Gautama and Sanatkumāra on Haṃsa-vidyā as a prelude to Brahmavidyā. It describes the ajapā 'haṃsa/so'ham' mantra, the relationship of Om to the haṃsa, the nāḍīs and cakras, and meditation on inner sounds (nāda) leading toward realization of the Paramahaṃsa.",
+    "history": "One of the 108 Muktikā Upaniṣads and the twenty Yoga Upaniṣads. Anonymous; its medley-like structure and Haṭha-yoga content suggest a comparatively late date, after the main classical Upaniṣads but before its citation in the early 17th century.",
+    "related_works": ["Muktikā Upaniṣad", "Yoga Upaniṣads", "Nādabindu Upaniṣad"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hamsa_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00108",
+    "title": "Kṣurikā Upaniṣad",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga Upaniṣad)",
+    "genre": "Upaniṣad (minor/Yoga Upaniṣad)",
+    "date_estimate": "c. 100 BCE - 300 CE (per Gavin Flood); disputed",
+    "summary": "A minor Yoga Upaniṣad attached to the Kṛṣṇa Yajurveda whose name means 'the razor/knife.' It presents yoga as a sharp instrument to cut through the bonds of the body and mind, describing postures (āsana), breath control (prāṇāyāma) and withdrawal of the senses (pratyāhāra), and the meditative 'severing' of the nāḍīs to free the soul from rebirth.",
+    "history": "One of the 108 Muktikā Upaniṣads and the twenty Yoga Upaniṣads. Anonymous and traditionally śruti; modern dating follows Flood's general placement of the Yoga Upaniṣads.",
+    "related_works": ["Muktikā Upaniṣad", "Yoga Upaniṣads"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kshurika_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00109",
+    "title": "Mahāvākya Upaniṣad",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Advaita Vedānta / Yoga Upaniṣad group)",
+    "genre": "Upaniṣad (minor)",
+    "date_estimate": "c. 100 BCE - 300 CE (per Gavin Flood); disputed, likely later",
+    "summary": "A short minor Upaniṣad, traditionally attached to the Atharvaveda, that discusses the nature of Ātman and Brahman, their identity, and the distinction between knowledge (vidyā) and ignorance (avidyā). It is named for the Vedic 'great sayings' (mahāvākyas) such as 'aham brahmāsmi,' which express the non-dual oneness of the self with the absolute.",
+    "history": "One of the 108 Muktikā Upaniṣads, often grouped with the Yoga/Sāmānya Upaniṣads. Anonymous; treated by tradition as śruti and used in Advaita contexts.",
+    "related_works": ["Muktikā Upaniṣad", "Yoga Upaniṣads"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mahavakya_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00110",
+    "title": "Maṇḍalabrāhmaṇa Upaniṣad",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga Upaniṣad)",
+    "genre": "Upaniṣad (minor/Yoga Upaniṣad)",
+    "date_estimate": "Disputed: early 1st millennium CE (Flood) vs. post-10th c. (Raman); likely late",
+    "summary": "A minor Yoga Upaniṣad attached to the Śukla Yajurveda, presented as a teaching given by the sun-god/Nārāyaṇa to the sage Yājñavalkya. It expounds an eight-limbed (aṣṭāṅga) yoga along with taraka-yoga and amanaska-yoga, dwelling on inner light, the perception of the formless and 'spaces' (ākāśas), and the dissolution of the mind as the path to liberation.",
+    "history": "One of the 108 Muktikā Upaniṣads and the twenty Yoga Upaniṣads. Anonymous; its developed Haṭha/laya-yoga content leads several scholars (e.g., Raman) to regard it as a late text composed after the 10th century, though Flood places the Yoga Upaniṣads earlier.",
+    "related_works": ["Muktikā Upaniṣad", "Yoga Upaniṣads", "Advayatāraka Upaniṣad"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mandala-brahmana_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00111",
+    "title": "Nādabindu Upaniṣad",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga Upaniṣad; yoga of sacred sound)",
+    "genre": "Upaniṣad (minor/Yoga Upaniṣad)",
+    "date_estimate": "Disputed: pre-Christian/early 1st millennium CE (Beck, Feuerstein) to 100 BCE-300 CE (Flood)",
+    "summary": "A minor Yoga Upaniṣad attached to the Ṛgveda (and Atharvaveda in some lists) centered on nāda (inner sound) and bindu (the seed-point). It analyzes the syllable Om as the 'haṃsa-vidyā,' describes meditation on the unstruck inner sounds heard in the body, and teaches laya-yoga whereby the mind dissolves into the subtle nāda leading to liberation.",
+    "history": "One of the 108 Muktikā Upaniṣads and twenty Yoga Upaniṣads. Often called the earliest systematic text on the yoga of sacred sound (Guy Beck). Anonymous and regarded as śruti.",
+    "related_works": ["Muktikā Upaniṣad", "Yoga Upaniṣads", "Haṃsa Upaniṣad", "Dhyānabindu Upaniṣad"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nadabindu_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00112",
+    "title": "Pāśupatabrahma Upaniṣad",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śaiva-leaning Yoga Upaniṣad; Atharvaveda)",
+    "genre": "Upaniṣad (minor/Yoga Upaniṣad)",
+    "date_estimate": "1st millennium CE (uncertain); likely mid-to-late, disputed",
+    "summary": "A minor Upaniṣad attached to the Atharvaveda, opening with questions put to the creator Brahmā by his son Vaiśravaṇa. In two chapters it treats the soul as Haṃsa, the syllable Om and the ajapā mantra, yoga and meditation, the para- and apara-Brahman, while criticizing reliance on external ritual in favor of inner contemplation, blending Vedāntic non-dualism with Śaiva (Pāśupata-flavored) imagery.",
+    "history": "One of the 108 Muktikā Upaniṣads, usually grouped among the Yoga/Sāmānya Upaniṣads. Anonymous; its Pāśupata/Śaiva associations and developed yoga content suggest a comparatively late date within the 1st millennium CE.",
+    "related_works": ["Muktikā Upaniṣad", "Yoga Upaniṣads", "Haṃsa Upaniṣad"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pashupatabrahma_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00113",
+    "title": "Śāṇḍilya Upaniṣad",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga Upaniṣad)",
+    "genre": "Upaniṣad (minor/Yoga Upaniṣad)",
+    "date_estimate": "c. 100 BCE - 300 CE (per Gavin Flood); later layers likely, disputed",
+    "summary": "A minor Yoga Upaniṣad attached to the Atharvaveda, framed as the teaching of Atharvan to the sage Śāṇḍilya, in three chapters. The first details an eight-limbed yoga (with yamas, niyamas, āsanas, nāḍī-purification, prāṇāyāma, etc.); the second expounds Brahma-vidyā; the third describes the forms of Brahman (sakala, niṣkala, sakala-niṣkala), making it an important early systematic yoga text.",
+    "history": "One of the 108 Muktikā Upaniṣads and twenty Yoga Upaniṣads. Anonymous and traditionally śruti; its detailed aṣṭāṅga-yoga has influenced later Haṭha-yoga literature.",
+    "related_works": ["Muktikā Upaniṣad", "Yoga Upaniṣads", "Yogasūtra of Patañjali"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shandilya_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00114",
+    "title": "Tejobindu Upaniṣad",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Yoga/Advaita Vedānta; one of the Bindu Upaniṣads)",
+    "genre": "Upaniṣad (minor/Yoga Upaniṣad)",
+    "date_estimate": "c. 100 BCE - 300 CE (core, per Flood); expanded later, disputed",
+    "summary": "A minor Upaniṣad attached to the Kṛṣṇa Yajurveda (Atharvaveda in some lists), one of the five Bindu Upaniṣads. It teaches meditation on the 'point of light' (tejobindu) and a rigorous Advaita Vedānta from a yogic standpoint, dismissing mere bookish learning in favor of direct realization, and elaborating the fifteen-limbed yoga and the nature of the jīvanmukta.",
+    "history": "One of the 108 Muktikā Upaniṣads and twenty Yoga Upaniṣads. Anonymous; the longer recension reflects later Advaita and yoga development layered onto an earlier core.",
+    "related_works": ["Muktikā Upaniṣad", "Yoga Upaniṣads", "Nādabindu Upaniṣad", "Dhyānabindu Upaniṣad"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tejobindu_Upanishad",
+      "https://en.wikipedia.org/wiki/Yoga_Upanishads"
+    ]
+  },
+  {
+    "work_id": "M00115",
+    "title": "Yoginīhṛdaya",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śākta Tantra, Śrīvidyā tradition)",
+    "genre": "tantra",
+    "date_estimate": "c. 10th-11th c. CE",
+    "summary": "A foundational Śākta Tantric treatise of the Śrīvidyā tradition, traditionally the second part of the Vāmakeśvaratantra (the first being the Nityāṣoḍaśikārṇava). In three chapters (the Cakra-, Mantra- and Pūjā-saṃketa) it expounds the Śrīcakra/Śrīyantra of the goddess Tripurasundarī, the structure and ritual of her mantra, and the esoteric worship and meditation centered on the goddess.",
+    "history": "A central scripture of the Śrīvidyā Tantra, the object of an important commentary (Dīpikā) by Amṛtānanda; the term 'Śrīvidyā' itself first appears in a 14th-century commentary on it. André Padoux and Roger-Orphé Jeanty produced the first full English translation (2013).",
+    "related_works": ["Vāmakeśvaratantra", "Nityāṣoḍaśikārṇava", "Tantrarājatantra"],
+    "confidence": "high",
+    "sources": [
+      "https://www.amazon.com/Heart-Yogini-Yoginihrdaya-Sanskrit-Treatise/dp/0199982325",
+      "https://enfolding.org/srividya-the-twists-and-turns-of-a-tantric-tradition-i/"
+    ]
+  },
+  {
+    "work_id": "M00116",
+    "title": "Bṛhannīlatantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śākta Tantra, Kaula)",
+    "genre": "tantra",
+    "date_estimate": "Late medieval, uncertain (perhaps c. 16th-18th c. CE); not firmly established",
+    "summary": "A Kaula Śākta Tantra dedicated chiefly to the worship of the goddesses Kālī and especially Tārā (Nīla-sarasvatī / Nīlā). It sets out mantras, yantras, ritual procedures, the pañcatattva (five-M) rites and esoteric sādhana directed to these fierce forms of the Mahāvidyā goddesses.",
+    "history": "A relatively rare text in the Śākta-Tantric corpus; a 1938 Srinagar edition was prepared by Ramchandra Kak and Harabhatta Shastri. Its author and precise date are unknown; like many such tantras it is anonymous and attributed to Śiva-Śakti dialogue.",
+    "related_works": ["Nīlatantra", "Tārātantra", "Śaktisaṃgamatantra (Tārākhaṇḍa)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/brihannilatantra",
+      "https://www.hindu-blog.com/2024/12/brihan-nila-tantra-overview-and.html"
+    ]
+  },
+  {
+    "work_id": "M00117",
+    "title": "Āgamakalpalatā",
+    "author": "Yadunātha Cakravartī",
+    "tradition": "Hindu (Tantra/Āgama; ritual digest)",
+    "genre": "nibandha (Tantric ritual digest/compendium)",
+    "date_estimate": "Medieval/late-medieval (uncertain; author Yadunātha Cakravartī, likely Bengal)",
+    "summary": "A Tantric ritual digest (nibandha), also called Āgamakalpalatikā, compiled by Yadunātha Cakravartī. It systematically gathers and illuminates Āgamic traditions, ritual procedures and devotional practices, drawing on and organizing material from the Āgama/Tantra scriptures into a practical handbook of worship.",
+    "history": "Attributed to the scholar Yadunātha Cakravartī; the work survives in manuscripts and editions (e.g., digitized via Internet Archive). Precise dating is not firmly established in the scholarly literature consulted.",
+    "related_works": ["Āgama/Tantra scriptures (source corpus)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/yadunatha",
+      "https://kaalchakra.in/agamakalpalatika-of-yadunatha-illuminating-agamic-traditions-through-rituals-and-practices/"
+    ]
+  },
+  {
+    "work_id": "M00118",
+    "title": "Kriyāsāra (volume 1)",
+    "author": "Nīlakaṇṭha Śivācārya",
+    "tradition": "Hindu (Śaiva; Vīraśaiva / Śivādvaita ritual)",
+    "genre": "ritual treatise / digest on Śaiva practice (kriyā)",
+    "date_estimate": "Medieval, uncertain (likely c. 14th-16th c. CE)",
+    "summary": "A large Śaiva ritual treatise ('Essence of Action/Ritual') attributed to Nīlakaṇṭha Śivācārya, setting out the religious duties, initiation, worship, mantras and conduct of Śaiva (Vīraśaiva-oriented) devotees. Volume 1 of the edited edition covers the foundational doctrinal and ritual material.",
+    "history": "Edited and published in the Mysore Oriental (Government Oriental) Library series by R. Ramashastri (Vol. 1, 1954). The author Nīlakaṇṭha is associated with the Śrīkaṇṭha/Śivādvaita Śaiva tradition; his precise date is debated and not clearly fixed in the sources consulted.",
+    "related_works": ["Nīlakaṇṭha-bhāṣya on the Brahmasūtras", "Śaivāgamas"],
+    "confidence": "medium",
+    "sources": [
+      "https://archive.org/details/kriyasara-nilakantha",
+      "https://www.britannica.com/topic/Shaiva-siddhanta"
+    ]
+  },
+  {
+    "work_id": "M00119",
+    "title": "Śaktisaṃgamatantra: Tārākhaṇḍa",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śākta Tantra)",
+    "genre": "tantra (section of a larger compendium)",
+    "date_estimate": "Late medieval, c. 16th-18th c. CE (uncertain)",
+    "summary": "The Tārākhaṇḍa ('Book of Tārā') is the second of the four khaṇḍas of the voluminous Śākta compendium Śaktisaṃgamatantra, the other three being devoted to Kālī, Sundarī and Chinnamastā. This section, comprising sixty-five chapters, expounds the mantras, yantras, ritual worship, pañcatattva and esoteric sādhana of the goddess Tārā.",
+    "history": "The Śaktisaṃgamatantra is an encompassing Śākta Tantra said to have once contained 60,000 verses (extant manuscripts about 11,000). It was edited by Benoytosh Bhattacharyya in four volumes in the Gaekwad's Oriental Series, with the Tārākhaṇḍa published in 1941. Anonymous, framed as Śiva-Śakti dialogue.",
+    "related_works": ["Śaktisaṃgamatantra (parent compendium: Kālīkhaṇḍa, Sundarīkhaṇḍa, Chinnamastākhaṇḍa)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/shaktisangamatantra",
+      "https://www.exoticindiaart.com/book/details/saktisangama-tantra-4-parts-in-2-volume-uar825/"
+    ]
+  },
+  {
+    "work_id": "M00120",
+    "title": "Sarvollāsatantra",
+    "author": "Sarvānandanātha (Sarvānanda)",
+    "tradition": "Hindu (Śākta Tantra, Kaula; Bengal)",
+    "genre": "tantra (compilation/saṃgraha digest)",
+    "date_estimate": "c. 15th c. CE (author traditionally placed c. 1426 CE)",
+    "summary": "A large Tantric compendium (saṃgraha) in sixty-four chapters compiled by the Bengali Kaula saint Sarvānandanātha, drawing together and quoting numerous earlier Tantras on the principal topics of Śākta-Tantric sādhana: mantras, ritual worship, the pañcatattva, the Mahāvidyā goddesses and esoteric practice.",
+    "history": "Sarvānandanātha was one of the foremost Tāntrik saints of medieval Bengal, traditionally dated about a century before the 16th-century Tantrikas Kṛṣṇānanda, Brahmānanda and Pūrṇānanda (hence c. 1426 CE per one calculation, though this remains to be verified). Edited and published by Ram Mohan Chakravarti (1953, with a foreword by Gopinath Kaviraj) and others.",
+    "related_works": ["Earlier Śākta Tantras (source corpus)", "Tantrasāra (Kṛṣṇānanda)"],
+    "confidence": "high",
+    "sources": [
+      "https://archive.org/details/sarvollasa-tantra-of-srimat-sarvananda-natha-s-n-khandelwal",
+      "https://sacred-texts.com/tantra/sas/sas13.htm"
+    ]
+  },
+  {
+    "work_id": "M00121",
+    "title": "Yogaviṣaya",
+    "author": "attributed to Matsyendranātha (Mīnanātha)",
+    "tradition": "Hindu (Nātha/Kaula yoga)",
+    "genre": "yoga treatise (short)",
+    "date_estimate": "Attribution to a 9th-10th c. figure; text likely later (c. 11th-13th c. CE), uncertain",
+    "summary": "A short yoga text traditionally attributed to Matsyendranātha (Mīna/Mīnanātha), founder-figure of the Nātha and Yoginī-Kaula traditions. It treats succinctly the guru and disciple, the yogic path, the cakras, and the ajapā 'haṃsa' mantra recited 21,600 times a day with the breath.",
+    "history": "Matsyendranātha is associated with the Yoginī-Kaula school and credited (often posthumously) with foundational Nātha/Haṭha-yoga works such as the Kaulajñānanirṇaya and Matsyendrasaṃhitā; he is usually placed in the 9th-10th centuries (Deccan/Bengal). The Yogaviṣaya is one of the short works ascribed to him, but such attributions are traditional and the actual text may be later.",
+    "related_works": ["Kaulajñānanirṇaya", "Matsyendrasaṃhitā", "Haṭhayogapradīpikā"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Matsyendra",
+      "https://wisdom.yogpathwellness.com/matsyendra-natha-and-his-yogic-works/"
+    ]
+  },
+  {
+    "work_id": "M00122",
+    "title": "Tantrarājatantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śākta Tantra, Śrīvidyā)",
+    "genre": "tantra",
+    "date_estimate": "Medieval (uncertain; commentary 'Manoramā' by Subhagānandanātha, Kashmir school)",
+    "summary": "The 'King of Tantras,' a major Śākta scripture (36/37 chapters) of the Śrīvidyā tradition devoted to the worship of Lalitā Mahā-Tripurasundarī. It expounds the principal precepts of Tantra, esoteric mantra and bīja doctrine, the Śrīcakra worship, nityā goddesses, and includes accounts of the Śākta pīṭhas.",
+    "history": "A central Śrīvidyā Tantra accompanied by the Sanskrit commentary Manoramā of Subhagānandanātha (Kashmir school). The first eight chapters were edited by Mahāmahopādhyāya Lakshmana Shastri and published in John Woodroffe's ('Arthur Avalon') Tantrik Texts series (vol. 8, 1913-1933). Anonymous, framed as divine revelation.",
+    "related_works": ["Yoginīhṛdaya", "Vāmakeśvaratantra", "Nityāṣoḍaśikārṇava"],
+    "confidence": "high",
+    "sources": [
+      "https://archive.org/details/in.ernet.dli.2015.22750",
+      "https://mahaavidya.org/tantraraja-tantra-exploring-the-king-of-tantra/"
+    ]
+  },
+  {
+    "work_id": "M00123",
+    "title": "Jayākhyasaṃhitā",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Vaiṣṇava, Pāñcarātra Āgama)",
+    "genre": "saṃhitā / āgama (Tantric scripture)",
+    "date_estimate": "c. 300-600 CE (early medieval); one of the oldest Pāñcarātra Saṃhitās",
+    "summary": "One of the three foundational ('ratna-traya') scriptures of the Vaiṣṇava Pāñcarātra tradition, alongside the Sātvata and Ahirbudhnya Saṃhitās. In about 4,592 anuṣṭubh verses across 33 paṭalas it treats cosmology and the emanation (vyūha) of God, the philosophy of creation and the liberation of the soul (jīva), mantra-construction, initiation, yoga and detailed ritual worship of Viṣṇu.",
+    "history": "Regarded as among the most ancient Pāñcarātra Āgamas. Anonymous and attributed to divine revelation; it has been an important source for the study of early Vaiṣṇava Tantric ritual and is the subject of modern critical study (e.g., Oxford Centre for Hindu Studies readings).",
+    "related_works": ["Sātvatasaṃhitā", "Ahirbudhnyasaṃhitā", "Pāñcarātra Āgamas"],
+    "confidence": "high",
+    "sources": [
+      "https://www.hindu-blog.com/2025/02/jayakhya-samhita-overview-and-its.html",
+      "https://www.wisdomlib.org/hinduism/book/jayakhya-samhita-sanskrit"
+    ]
+  },
+  {
+    "work_id": "M00124",
+    "title": "Kāmikāgama: Pūrvabhāga",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śaiva Siddhānta; South Indian Śaivism)",
+    "genre": "āgama (Śaiva scripture)",
+    "date_estimate": "Core perhaps as early as c. 5th c. CE; transmitted and compiled into the 19th c.",
+    "summary": "The Pūrvabhāga (former/earlier part) of the Kāmikāgama, the first of the twenty-eight Siddhānta Śaivāgamas, a metrical scripture of about 12,000 verses in two parts. The Pūrvabhāga's seventy-five paṭalas treat the Śaiva ritual system in detail — daily obligatory (nitya), occasional (naimittika) and optional (kāmya) rites — together with temple architecture, consecration, the duties of priests and devotees, and elements of doctrine.",
+    "history": "A primary scripture of South Indian Śaiva Siddhānta; traditionally regarded as revealed by Śiva. While portions may date to at least the 5th century, the currently published recensions were compiled and printed in the 19th century, and a critical edition project is ongoing.",
+    "related_works": ["Kāmikāgama (Uttarabhāga)", "Twenty-eight Śaiva Siddhānta Āgamas"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kamika_Agama",
+      "https://www.wisdomlib.org/definition/kamikagama"
+    ]
+  }
+]

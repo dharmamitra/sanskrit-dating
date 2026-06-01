@@ -1,0 +1,45 @@
+train anchor chunks=10326 (Yogacara cluster held out); predicting Yogacara chunks out-of-sample
+
+=== OUT-OF-SAMPLE chunk-date predictions for Yogacara cluster (model never saw their dates) ===
+
+[Stratum 1] oldest (Sravaka/Bodhisattva/verse core)
+   SA_T06_srabhu_u            n= 74 pred_median=  389 [320,475] (meta 200-270)  Yogācārabhūmi: Śrāvakabhūmi
+   SA_T06_srabhusu            n=118 pred_median=  478 [384,566] (meta 200-270)  Yogācārabhūmi: Śrāvakabhūmi
+   SA_T06_bsa034              n= 78 pred_median=  425 [353,515] (meta 230-300)  Bodhisattvabhūmi
+   SA_T06_asycsaru            n=  2 pred_median=  104 [-92,299] (undated)  Śarīrārthagāthā
+   -> stratum median = 407
+
+[Stratum 2] intermediate (rest of Basic Section)
+   SA_T06_sambhu              n= 15 pred_median=  431 [379,508] (undated)  Yogācārabhūmi: Samāhitā Bhūm
+   SA_T06_ybh-laukikamarga    n=  3 pred_median=  517 [457,527] (undated)  Yogācārabhūmi: Laukikamarga
+   SA_T06_-ybh-klesa          n=  2 pred_median=  338 [294,382] (undated)  
+   SA_T06_n1394u              n= 56 pred_median=  466 [379,533] (meta 350-380)  Yogācārabhūmi
+   -> stratum median = 449
+
+[Stratum 3] developed treatises (vijnanavada systematization)
+   SA_T06_n2994u              n= 10 pred_median=  744 [732,794] (meta 330-405)  Mahāyānasaṃgraha
+   SA_T06_asabhs_u            n= 36 pred_median=  375 [301,502] (meta 330-405)  Abhidharmasamuccaya
+   SA_T06_asmahsuu            n= 61 pred_median=  536 [434,679] (undated)  Mahāyānasūtrālaṃkāra
+   SA_T06_asmahsbu            n= 58 pred_median=  542 [473,682] (undated)  Mahāyānasūtrālaṅkāra
+   SA_T06_bsa030_u            n= 17 pred_median=  497 [418,572] (undated)  Mahāyānasūtrālaṃkāra
+   SA_T06_vmvkbh_u            n= 14 pred_median=  565 [528,681] (meta 350-430)  Madhyāntavibhāgabhāṣya [Madh
+   SA_T06_bsa010_u            n=  3 pred_median=  736 [625,923] (undated)  Madhyāntavibhāgakārikā
+   SA_T06_vasvvmsu            n=  3 pred_median=  611 [594,639] (meta 350-430)  Viṃśatikā vijñaptimātratāsid
+   SA_T06_bsa022_u            n=  1 pred_median=  990 [990,990] (undated)  Viṃśatikā vijñaptimātratāsid
+   SA_T06_bsa018              n=  1 pred_median=  783 [783,783] (meta 350-430)  Triṃśikāvijñaptikārikā [Triṃ
+   SA_T06_bsa019_u            n=  1 pred_median=  757 [757,757] (meta 350-430)  Trisvabhāvanirdeśa
+   SA_T06_bsa065              n=  5 pred_median=  426 [395,825] (meta 350-430)  Pañcaskandhaprakaraṇa
+   -> stratum median = 588
+
+[Stratum 4] latest (commentaries: Sthiramati etc.)
+   SA_T06_sthmavt             n= 43 pred_median=  865 [747,1069] (meta 470-550)  Madhyāntavibhāgaṭīkā
+   SA_T06_sthmavt1            n= 12 pred_median=  747 [670,778] (meta 470-550)  Madhyāntavibhāgaṭīkā Chapter
+   SA_T06_sthmavtyg           n= 53 pred_median=  859 [709,1095] (undated)  Madhyāntavibhāgaṭīkā (Yamagu
+   SA_T06_sthtvbh             n= 11 pred_median=  686 [636,794] (meta 470-550)  Triṃśikāvijñaptibhāṣya [Triṃ
+   SA_T06_pskvbhu             n= 26 pred_median=  724 [656,835] (meta 470-550)  Pañcaskandhakavibhāṣā
+   SA_T06_trimsikatika        n=  9 pred_median=  658 [614,685] (undated)  Triṃśikāṭīkā
+   SA_T06_abhsubhu            n= 46 pred_median=  590 [511,630] (undated)  Abhidharmasamuccayabhāṣya
+   -> stratum median = 724
+
+Spearman(Schmithausen stratum rank, predicted date) = 0.703  (n=27 works)
+(positive => linguistic dating independently reproduces Schmithausen's oldest->latest ordering)

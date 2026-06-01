@@ -1,0 +1,331 @@
+[
+  {
+    "work_id": "T02n1398u",
+    "title": "Guhyāvalī",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayāna; Indo-Nepalese tantric)",
+    "genre": "tantra / tantric ritual text",
+    "date_estimate": "uncertain; likely later 1st millennium to early 2nd millennium CE",
+    "summary": "A Buddhist tantric work whose title ('Garland of Secrets/Secret Garland') points to an esoteric ritual or doctrinal compilation in the Vajrayāna mode. It belongs to the body of Sanskrit tantric texts preserved chiefly in Nepalese manuscript collections, dealing with secret (guhya) practice, mantra and meditation.",
+    "history": "The text is obscure and not the subject of a major critical edition; it survives within the Sanskrit Buddhist tantric corpus transmitted by the Newar Buddhist community of the Kathmandu Valley, the principal preserver of Indian Vajrayāna manuscripts after the decline of Buddhism in India. Its precise authorship, date and affiliation remain unestablished.",
+    "related_works": ["Buddhist tantric literature", "Guhyasamāja Tantra"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Buddhist_tantric_literature",
+      "https://academic.oup.com/book/10185/chapter/157757443"
+    ]
+  },
+  {
+    "work_id": "T02n1399u",
+    "title": "Kāṇhapādasya dohākoṣa",
+    "author": "Kṛṣṇacaryāpāda (Kāṇha / Kanhapa / Krishnacharya)",
+    "tradition": "Buddhist (Vajrayāna; mahāsiddha / Sahajayāna tradition)",
+    "genre": "dohā (mystic song-couplets); tantric realization poetry",
+    "date_estimate": "c. late 8th-early 9th c. CE (author c. 775-850 CE)",
+    "summary": "The 'Treasury of Dohās' attributed to the mahāsiddha Kāṇha (Kṛṣṇacaryāpāda), a collection of rhymed couplets in Apabhraṃśa expressing the spontaneous (sahaja) experience of awakening and critiquing external ritual and scholasticism. Commentators read the verses as an esoteric manual on advanced yogic practices such as karmamudrā, caṇḍālī (gtum mo) and prabhāsvara (clear light).",
+    "history": "Kāṇha, one of the eighty-four mahāsiddhas and a disciple of Jālandhara, is also among the named poets of the Caryāpada corpus; his name is entangled with that of other 'Kṛṣṇa/Kanha' figures across different lineages. The dohās survive with Sanskrit/Apabhraṃśa commentaries (e.g. by Amṛtavajra) and were preserved in Nepalese manuscripts and in Tibetan translation.",
+    "related_works": ["Caryāgītikoṣa", "Sarahapādasya dohākoṣa", "Dohākoṣaṭīkā (commentaries)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.rigpawiki.org/index.php?title=Krishnacharya",
+      "https://en.wikipedia.org/wiki/Mahasiddha",
+      "https://www.academia.edu/104367424/An_interpretation_of_K%E1%B9%9B%E1%B9%A3%E1%B9%87acary%C4%81p%C4%81da_s_Doh%C4%81_as_an_utpannakrama_practice_manual"
+    ]
+  },
+  {
+    "work_id": "T02n1401u",
+    "title": "Mahāmāyāsādhanopāyikā",
+    "author": "anonymous/traditional (several sādhanas attributed to various siddhas)",
+    "tradition": "Buddhist (Vajrayāna; Yoginītantra / Anuttarayoga class)",
+    "genre": "sādhana (tantric evocation/meditation manual)",
+    "date_estimate": "c. 10th-12th c. CE",
+    "summary": "A ritual 'means of accomplishment' (sādhanopāyikā) for the deity Mahāmāyā, prescribing the self-visualization and worship of the four-faced, four-armed blue heruka Mahāmāyā embracing the consort Buddhaḍākinī, surrounded by yoginīs. It gives the iconographic detail, mantras and meditative sequence needed to realize the deity according to the Mahāmāyā Tantra.",
+    "history": "The work belongs to the practice literature that grew up around the Mahāmāyā Tantra, one of the earliest Yoginī tantras, and is preserved within the Indo-Nepalese Sanskrit sādhana collections (e.g. of the Sādhanamālā type) and the Tibetan Tengyur. Authorship of individual Mahāmāyā sādhanas varies and is often uncertain.",
+    "related_works": ["Mahāmāyātantra", "Sādhanamālā"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mah%C4%81m%C4%81y%C4%81_Tantra",
+      "https://84000.co/translation/toh425/UT22084-080-009-introduction",
+      "https://www.wisdomlib.org/definition/mahamaya"
+    ]
+  },
+  {
+    "work_id": "T02n1402u",
+    "title": "Mahāmāyātantra",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Buddhist (Vajrayāna; Yoginītantra / Anuttarayoga / Yoganiruttara class)",
+    "genre": "tantra (revealed esoteric scripture)",
+    "date_estimate": "c. late 9th-early 10th c. CE",
+    "summary": "A short Buddhist Anuttarayoga tantra of the Yoginī class, in three chapters, centered on the deity Mahāmāyā, 'queen of the ḍākinīs and yoginīs,' and especially associated with Dream Yoga. It treats siddhis, the classification of cause/result/means (hetu, phala, upāya) tantras, deity manifestation and maṇḍala, and transgressive techniques for manipulating the subtle body.",
+    "history": "Considered one of the earliest Yoginī tantras: it postdates the Guhyasamāja Tantra (by intertextual evidence) yet predates the more developed Hevajra Tantra. It was translated into Tibetan by the paṇḍita Jinavara with the translator Gö Lhetsé in the 11th century and remains a yidam practice in the Shangpa Kagyü tradition.",
+    "related_works": ["Mahāmāyāsādhanopāyikā", "Guhyasamāja Tantra", "Hevajra Tantra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mah%C4%81m%C4%81y%C4%81_Tantra",
+      "https://84000.co/translation/toh425/UT22084-080-009-introduction",
+      "https://tibetanbuddhistencyclopedia.com/en/index.php?title=Mah%C4%81m%C4%81y%C4%81-tantra"
+    ]
+  },
+  {
+    "work_id": "T02n1403u",
+    "title": "Marmakālikā",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayāna; Indo-Nepalese tantric)",
+    "genre": "tantra / tantric commentary or ritual text",
+    "date_estimate": "uncertain; later 1st millennium-early 2nd millennium CE",
+    "summary": "An obscure Buddhist tantric text whose title ('She who concerns the vital/secret points,' marman) suggests a work on the esoteric 'vital points' of practice — the secret essentials of yogic or ritual instruction. It survives within the Sanskrit Buddhist tantric manuscript tradition.",
+    "history": "The work is not the subject of a major published study and its author, date and exact contents are not securely established. It belongs to the large body of Sanskrit Vajrayāna texts preserved in Nepalese manuscript repositories.",
+    "related_works": ["Buddhist tantric literature"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Buddhist_tantric_literature",
+      "https://encyclopediaofbuddhism.org/wiki/Buddhist_tantric_literature"
+    ]
+  },
+  {
+    "work_id": "T02n1413u",
+    "title": "Sarahapādasya dohākoṣa",
+    "author": "Saraha (Sarahapāda, 'the Great Brahman')",
+    "tradition": "Buddhist (Vajrayāna; mahāsiddha / Mahāmudrā / Sahajayāna)",
+    "genre": "dohā (mystic song-couplets); tantric realization poetry",
+    "date_estimate": "c. late 8th-early 9th c. CE",
+    "summary": "The 'Treasury of Dohās' of Saraha, a celebrated collection of Apabhraṃśa couplets (in Tibet the 'Songs for the People') voicing the spontaneous, innate (sahaja) experience of mind's nature and the Mahāmudrā realization, while satirizing brahmanical ritual, ascetic extremes and dry scholasticism. It is foundational poetry for the Mahāmudrā tradition.",
+    "history": "Saraha is revered as the human source of the Mahāmudrā teachings, preserved above all by the Tibetan Kagyü school. An early manuscript of his Dohākośa was copied in Nepal Saṃvat 221 (1101 CE), among the earliest witnesses, attesting wide circulation of his verses by then.",
+    "related_works": ["Kāṇhapādasya dohākoṣa", "Caryāgītikoṣa", "Mahāmudrā Upadeśa"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Saraha",
+      "https://www.mdpi.com/2077-1444/12/11/927",
+      "https://wisdomexperience.org/product/sarahas-spontaneous-songs/"
+    ]
+  },
+  {
+    "work_id": "T02n1414u",
+    "title": "Śrīvajravārāhīsādhana",
+    "author": "anonymous/traditional (numerous Vajravārāhī sādhanas by various siddhas, e.g. Umāpatideva)",
+    "tradition": "Buddhist (Vajrayāna; Yoginītantra / Cakrasaṃvara cycle)",
+    "genre": "sādhana (tantric evocation/meditation manual)",
+    "date_estimate": "c. 10th-12th c. CE",
+    "summary": "A 'means of accomplishment' for the tantric goddess Vajravārāhī (a form of Vajrayoginī), guiding the practitioner to visualize the red, sow-headed deity at the center of her maṇḍala, recite her mantra and seed-syllable (vaṃ), and identify with her embodiment of wisdom-emptiness and great bliss. The four lotus-petal goddesses Ḍākinī, Lāmā, Khaṇḍarohā and Rūpiṇī attend her.",
+    "history": "Vajravārāhī sādhanas form a major strand of the Cakrasaṃvara/Vajrayoginī practice literature; a well-known example is the Vajravārāhī Sādhana of Umāpatideva (a thirty-seven-goddess maṇḍala), edited and studied by Elizabeth English. Many such sādhanas circulated in the Sanskrit sādhana collections and the Tibetan canon.",
+    "related_works": ["Cakrasaṃvara Tantra", "Vajrayoginī sādhanas", "Sādhanamālā"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vajrayogini",
+      "https://www.wisdomlib.org/buddhism/book/the-indian-buddhist-iconography/d/doc365472.html",
+      "https://www.amazon.com/Vajrayogini-Visualization-Rituals-Studies-Buddhism/dp/086171329X"
+    ]
+  },
+  {
+    "work_id": "T02n1416u",
+    "title": "Caryāgītikoṣa",
+    "author": "multiple mahāsiddhas (Kāṇha, Lui-pā, Śabara, Bhusuku and others)",
+    "tradition": "Buddhist (Vajrayāna; mahāsiddha / Sahajayāna)",
+    "genre": "caryāgīti (tantric performance-songs); realization poetry anthology",
+    "date_estimate": "c. 8th-12th c. CE (songs composite); manuscript discovered 1907",
+    "summary": "An anthology of about forty-seven to forty-nine 'songs of conduct/realization' (caryāgīti) in Apabhraṃśa/Old Bengali, composed by various mahāsiddhas, sung as expressions of the enlightened state. Using vivid metaphor and coded 'twilight language,' they treat existence, delusion, the subtle body and the path to liberation, accompanied by a Sanskrit commentary.",
+    "history": "The collection (also linked to the Caryācaryāviniścaya) was recovered in 1907 from the Nepal Royal Library by Haraprasad Shastri and is celebrated as the earliest specimen of Bengali, Assamese, Maithili and Odia literature. The standard scholarly study is Per Kværne's An Anthology of Buddhist Tantric Songs.",
+    "related_works": ["Charyapada / Caryācaryāviniścaya", "Sarahapādasya dohākoṣa", "Kāṇhapādasya dohākoṣa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charyapada",
+      "https://www.semanticscholar.org/paper/An-anthology-of-Buddhist-tantric-songs-:-a-study-of-Kv%C3%A6rne/01f700866f5ab88002952f4f62e4480432f70f21",
+      "https://www.academia.edu/51336598/Carya_gi_tikos_a_Per_Kv%C3%A6rne_2010_An_Anthology_of_Buddhist_Tantric_Songs_a_study_of_the_caryagiti"
+    ]
+  },
+  {
+    "work_id": "T02n1424u",
+    "title": "Śrīguhyasamājamaṇḍalavidhi",
+    "author": "anonymous/traditional (such maṇḍalavidhis ascribed to authors of the Ārya school, e.g. Dīpaṃkarabhadra)",
+    "tradition": "Buddhist (Vajrayāna; Guhyasamāja / Anuttarayoga tantra)",
+    "genre": "maṇḍalavidhi (ritual manual for maṇḍala construction and consecration)",
+    "date_estimate": "c. 9th-11th c. CE",
+    "summary": "A ritual manual setting out the procedures for constructing, consecrating and entering the maṇḍala of the Guhyasamāja deity (Akṣobhyavajra/Samantabhadra and his retinue), including site preparation, deity placement, initiation (abhiṣeka) and offerings. It serves the generation-stage practice of the Guhyasamāja system.",
+    "history": "Maṇḍalavidhi texts form an essential genre of the Guhyasamāja exegetical corpus, transmitted through the Ārya (Nāgārjuna) and Jñānapāda lineages; the Tengyur preserves a large cluster of Guhyasamāja-related maṇḍala-ritual works (Toh 1796-1825). A famous example is Dīpaṃkarabhadra's Guhyasamājamaṇḍalavidhi.",
+    "related_works": ["Guhyasamāja Tantra", "Piṇḍīkṛtasādhana", "Pañcakrama"],
+    "confidence": "medium",
+    "sources": [
+      "https://84000.co/canon-sections/guhyasamaja-and-related-tantras",
+      "https://en.wikipedia.org/wiki/Guhyasam%C4%81ja_Tantra",
+      "https://www.britannica.com/topic/Guhyasamaja-tantra"
+    ]
+  },
+  {
+    "work_id": "T02n1426u",
+    "title": "Tattvasiddhi",
+    "author": "attributed to Śāntarakṣita (attribution debated)",
+    "tradition": "Buddhist (Vajrayāna; Yogācāra-Madhyamaka background)",
+    "genre": "philosophical-tantric treatise (siddhi text)",
+    "date_estimate": "c. 8th c. CE (if by Śāntarakṣita, 725-788 CE); disputed",
+    "summary": "A tantric treatise establishing 'reality/the true nature' (tattva), engaging the relationship between tantric praxis (mantra, deity yoga, the use of transgressive means) and Buddhist epistemology and Madhyamaka view. It argues for the validity and supremacy of the tantric path while grounding it in established Buddhist philosophy.",
+    "history": "The work is traditionally ascribed to Śāntarakṣita, the great Yogācāra-Madhyamaka master and author of the Tattvasaṃgraha, though the attribution has been questioned (e.g. by Ernst Steinkellner). It is a notable example of tantric thought engaging Dharmakīrtian epistemology and yogic perception.",
+    "related_works": ["Tattvasaṃgraha", "Buddhist tantric literature"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Buddhist_tantric_literature",
+      "https://en.wikipedia.org/wiki/Tattvasamgraha",
+      "https://texts.mandala.library.virginia.edu/shanti_texts/node_embed/67772"
+    ]
+  },
+  {
+    "work_id": "T02n2873u",
+    "title": "Vāṅmaṇḍalanamaskāraślokāḥ",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayāna)",
+    "genre": "stotra / namaskāra (verses of homage)",
+    "date_estimate": "uncertain; 1st-2nd millennium CE",
+    "summary": "A short set of verses (ślokāḥ) of salutation/homage (namaskāra), apparently addressed to a 'circle of speech' (vāṅmaṇḍala) — likely the maṇḍala of speech-deities or the speech-aspect of the buddhas. The text is a devotional/liturgical piece for recitation.",
+    "history": "A minor liturgical work preserved within the Sanskrit Buddhist tantric corpus; its author, date and precise object of homage are not securely established. It belongs to the namaskāra/stotra literature copied in Nepalese manuscript collections.",
+    "related_works": ["Buddhist stotra literature"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sanskrit_Buddhist_literature"
+    ]
+  },
+  {
+    "work_id": "T02n2877u",
+    "title": "Bauddha pāribhāṣikāḥ śabdāḥ",
+    "author": "anonymous/traditional (lexical compilation)",
+    "tradition": "Buddhist",
+    "genre": "glossary / lexicon of technical terms (kośa-type)",
+    "date_estimate": "uncertain; a compiled list, possibly later",
+    "summary": "A glossary or list of Buddhist technical/terminological words (pāribhāṣika śabda) — that is, the specialized vocabulary of Buddhist doctrine and practice gathered for reference. It functions as a lexical aid to reading Buddhist Sanskrit texts.",
+    "history": "Such terminological compilations belong to the lexicographic and pedagogical apparatus of Sanskrit Buddhist literature; this particular item is minor and not associated with a famous named author. The title is generic and may denote a modern or traditional compilation of defined terms.",
+    "related_works": ["Sanskrit Buddhist literature", "Buddhist lexicons (e.g. Mahāvyutpatti)"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sanskrit_Buddhist_literature"
+    ]
+  },
+  {
+    "work_id": "T02n2884u",
+    "title": "Samantabhadra nāma sādhana ṭīkā",
+    "author": "anonymous/traditional (commentator unidentified)",
+    "tradition": "Buddhist (Vajrayāna; Guhyasamāja cycle)",
+    "genre": "ṭīkā (commentary) on a sādhana",
+    "date_estimate": "c. 10th-12th c. CE",
+    "summary": "A commentary (ṭīkā) on the 'Samantabhadra-nāma-sādhana,' an evocation manual for the deity Samantabhadra. In the Guhyasamāja system Samantabhadra is a principal buddha-form, and the commentary explicates the visualization, mantra and meditative procedure of the underlying sādhana.",
+    "history": "The work belongs to the dense exegetical literature surrounding Guhyasamāja-related sādhanas; the root Samantabhadra-sādhana (Tib. sgrub thabs kun tu bzang po) appears in Guhyasamāja text compilations. The commentator's identity and exact date are not securely established.",
+    "related_works": ["Samantabhadra-nāma-sādhana", "Guhyasamāja Tantra"],
+    "confidence": "low",
+    "sources": [
+      "https://www.scribd.com/document/386038729/Guhyasamaja-Texts-and-Commentaries-Final",
+      "https://en.wikipedia.org/wiki/Guhyasam%C4%81ja_Tantra"
+    ]
+  },
+  {
+    "work_id": "T02n2886u",
+    "title": "Samājasādhanavyavastholi",
+    "author": "Nāgabodhi (Nāgabuddhi)",
+    "tradition": "Buddhist (Vajrayāna; Guhyasamāja / Ārya school)",
+    "genre": "sādhana / ritual procedure manual",
+    "date_estimate": "ascribed to Nāgabodhi (traditionally c. 7th c. CE; the Ārya school flourished c. 8th-9th c. CE)",
+    "summary": "A 'graded arrangement of the Samāja (Guhyasamāja) sādhana' (Tib. 'dus pa'i sgrub thabs rnam par bzhag pa'i rim pa), laying out the stages of the Guhyasamāja deity-yoga practice in ordered sequence. It is a generation-stage practice manual within the Ārya (Nāgārjuna) lineage of Guhyasamāja exegesis.",
+    "history": "Attributed to Nāgabodhi/Nāgabuddhi, a key figure of the Ārya school traditionally counted in the Nāgārjuna lineage of the Guhyasamāja transmission. The work is part of the corpus of Guhyasamāja Highest Yoga Tantra sādhana literature analyzed by modern scholars.",
+    "related_works": ["Guhyasamāja Tantra", "Piṇḍīkṛtasādhana", "Pañcakrama"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.scribd.com/document/386038729/Guhyasamaja-Texts-and-Commentaries-Final",
+      "https://en.wikipedia.org/wiki/Guhyasam%C4%81ja_Tantra"
+    ]
+  },
+  {
+    "work_id": "T02n2906u",
+    "title": "Mantroddhāra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayāna; Indo-Nepalese tantric)",
+    "genre": "tantric ritual / mantra-extraction manual",
+    "date_estimate": "uncertain; later 1st-early 2nd millennium CE",
+    "summary": "A text on the 'extraction/derivation of mantras' (mantroddhāra) — the technical procedure by which the syllables of a deity's mantra are drawn out, usually from a coded matrix or alphabet diagram (mātṛkā). Such works enable the practitioner to construct the correct mantra for a given deity in tantric ritual.",
+    "history": "Mantroddhāra is a standard ritual procedure across Buddhist (and Śaiva) tantric literature; many tantras and sādhanas contain mantroddhāra sections. This particular short work is preserved within the Sanskrit Buddhist tantric corpus; its author and date are not securely fixed.",
+    "related_works": ["Buddhist tantric literature", "sādhana and tantra collections"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Buddhist_tantric_literature",
+      "https://www.wisdomlib.org/concept/tantric-text"
+    ]
+  },
+  {
+    "work_id": "T02n2908u",
+    "title": "Balimālikā",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayāna; Indo-Nepalese tantric)",
+    "genre": "tantric ritual manual (bali offering)",
+    "date_estimate": "uncertain; later 1st-early 2nd millennium CE",
+    "summary": "A 'garland (mālikā) of bali (food/torma) offerings' — a ritual manual giving the verses, mantras and procedures for presenting bali offerings to deities, protectors and spirits within tantric Buddhist liturgy. Bali rites are a standard component of sādhana and maṇḍala worship.",
+    "history": "Bali-offering manuals are a common practical genre in Vajrayāna ritual, especially in the living Newar Buddhist tradition of Nepal where torma/bali rites remain central. This particular text is minor and its author and date are not securely established.",
+    "related_works": ["Buddhist tantric ritual literature", "sādhana collections"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Buddhist_tantric_literature",
+      "https://academic.oup.com/book/10185/chapter/157757443"
+    ]
+  },
+  {
+    "work_id": "T02n2910u",
+    "title": "Ādikarmapradīpa [Ādikarmapradīpa Bodhicaryāvatāraṭīkā]",
+    "author": "Anupamavajra (attributed)",
+    "tradition": "Buddhist (Mahāyāna / early Vajrayāna)",
+    "genre": "ritual manual (vidhi) for the beginner practitioner; partly commentarial",
+    "date_estimate": "c. 11th-12th c. CE",
+    "summary": "The 'Lamp for the Beginning Practitioner' (ādikarmika), a manual prescribing the daily devotional and meditative routine for one newly entering the Mahāyāna/Vajrayāna path — refuge, worship, confession, the bodhisattva vow and preliminary practices. Its title also links it to the Bodhicaryāvatāra, on whose ethos of bodhisattva training it draws.",
+    "history": "The Ādikarmapradīpa was published by Louis de la Vallée Poussin (1898) alongside a Bodhicaryāvatāraṭīkā in his Bouddhisme, études et matériaux; it is commonly attributed to Anupamavajra. It illustrates how Śāntideva's Bodhicaryāvatāra was absorbed into practical ritual instruction for novices.",
+    "related_works": ["Bodhicaryāvatāra (Śāntideva)", "Bodhicaryāvatāraṭīkā"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bodhisattvacary%C4%81vat%C4%81ra",
+      "https://www.wisdomlib.org/buddhism/book/bodhisattvacharyavatara/d/doc6419.html"
+    ]
+  },
+  {
+    "work_id": "T02n2912u",
+    "title": "Prajñopāyaviniścayasiddhi",
+    "author": "Anaṅgavajra",
+    "tradition": "Buddhist (Vajrayāna; mahāsiddha / early tantric)",
+    "genre": "siddhi text (tantric doctrinal-practical treatise)",
+    "date_estimate": "c. late 7th-early 8th c. CE (author c. 705 CE)",
+    "summary": "The 'Establishment of the Certainty of Wisdom (prajñā) and Means (upāya),' a verse treatise on the union of wisdom and skilful means that defines tantric realization. It describes various siddhis (attainments/powers) and, in keeping with early antinomian tantra, prescribes transgressive, including sexual, practices as path.",
+    "history": "Attributed to Anaṅgavajra, counted among the eighty-four mahāsiddhas and dated by Tāranātha's chronology to around 705 CE. It is one of the canonical 'Seven Siddhi Texts' (saptasiddhi) of the Oḍiyāna Mahāmudrā lineage and preserves some of the earliest articulations of tantric Buddhist doctrine.",
+    "related_works": ["Jñānasiddhi (Indrabhūti)", "Sahajasiddhi", "the Seven Siddhi Texts (Saptasiddhi)"],
+    "confidence": "high",
+    "sources": [
+      "http://yoniversum.nl/daktexts/prajvinsid.html",
+      "https://escholarship.org/content/qt4rd574cz/qt4rd574cz_noSplash_4e5d66cf033e2da74ab28d442f839067.pdf",
+      "https://encyclopedia.pub/entry/29168"
+    ]
+  },
+  {
+    "work_id": "T02n2914u",
+    "title": "Śrīsahajasiddhi",
+    "author": "Ḍombī Heruka (Ḍombipāda)",
+    "tradition": "Buddhist (Vajrayāna; mahāsiddha / Sahajayāna; Hevajra cycle)",
+    "genre": "siddhi text (tantric doctrinal-practical treatise)",
+    "date_estimate": "c. mid-8th c. CE (author listed c. 777 CE)",
+    "summary": "The 'Glorious Accomplishment of the Innate (sahaja),' a tantric treatise expounding the realization of the innate, spontaneous nature of mind and reality, and setting out the completion-stage (utpannakrama) meditation associated with the Hevajra Tantra. It teaches the non-dual sahaja experience as the goal of tantric praxis.",
+    "history": "Attributed to Ḍombī Heruka, one of the eighty-four mahāsiddhas (to be distinguished from a later Indrabhūti's like-named work). It is among the 'Seven Siddhi Texts' of the Oḍiyāna Mahāmudrā lineage and an important early statement of the sahaja and Hevajra completion-stage teachings.",
+    "related_works": ["Hevajra Tantra", "Prajñopāyaviniścayasiddhi", "Jñānasiddhi", "the Seven Siddhi Texts"],
+    "confidence": "high",
+    "sources": [
+      "https://www.scribd.com/document/154076949/%C5%9Ar%C4%ABsahajasiddhi",
+      "https://escholarship.org/content/qt4rd574cz/qt4rd574cz_noSplash_4e5d66cf033e2da74ab28d442f839067.pdf",
+      "https://en.wikipedia.org/wiki/Buddhist_tantric_literature"
+    ]
+  },
+  {
+    "work_id": "T02n2918u",
+    "title": "Tattvaratnāvalī",
+    "author": "Advayavajra (Maitrīpa / Maitreyanātha, c. 1007-1085 CE)",
+    "tradition": "Buddhist (Vajrayāna; Yogācāra-Madhyamaka; doxography)",
+    "genre": "philosophical treatise / siddhānta (doxography of tenets)",
+    "date_estimate": "11th c. CE",
+    "summary": "The 'Jeweled Garland of Reality,' one of the earliest and most influential works of Buddhist siddhānta (tenet) literature, surveying and ranking the Indian Buddhist philosophical schools — Vaibhāṣika, Sautrāntika, Yogācāra and Madhyamaka — and situating tantric Mantranaya within them. It records Advayavajra's view of 11th-century Buddhist philosophy.",
+    "history": "Composed by Advayavajra (Maitrīpa), an eleventh-century scholar-siddha whose works are gathered in the Advayavajrasaṃgraha; the text has been critically re-edited by Torsten Gerloff. It is a key source for the formation of the doxographic genre that classified Buddhist tenets.",
+    "related_works": ["Advayavajrasaṃgraha", "Nairātmyāprakāśa", "Sekanirdeśa"],
+    "confidence": "high",
+    "sources": [
+      "https://link.springer.com/article/10.1007/s10781-018-9363-5",
+      "https://www.academia.edu/80523853/Advayavajra_s_Tattvaratn%C4%81val%C4%AB_A_Newly_Revised_Critical_Edition",
+      "https://en.wikipedia.org/wiki/Buddhist_tantric_literature"
+    ]
+  }
+]

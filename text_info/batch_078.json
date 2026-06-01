@@ -1,0 +1,323 @@
+[
+  {
+    "work_id": "M00233",
+    "title": "Īśānaśivagurudevapaddhati, Volume 4",
+    "author": "Īśānaśiva Gurudeva (Īśānaśivagurudevamiśra)",
+    "tradition": "Hindu, Śaiva (Śaiva Siddhānta with Kerala-Tantra syncretism; also called Tantrapaddhati)",
+    "genre": "paddhati (ritual manual/digest), tantra",
+    "date_estimate": "c. 11th-12th c. CE (some scholars to 13th c.)",
+    "summary": "A large and encyclopedic Śaiva ritual compendium (paddhati) from medieval Kerala, organized into four sections (Sāmānyapāda, Mantrapāda, Kriyāpāda, Yogapāda). Volume 4 corresponds chiefly to the later portions (Yogapāda and associated material), treating yoga, meditation, and ancillary ritual and esoteric practice. The work describes Śaiva initiation (dīkṣā) in detail while also covering the worship of numerous Śaiva and Vaiṣṇava deities, mantras, yantras, and temple/iconographic procedures.",
+    "history": "Attributed to Īśānaśiva Gurudeva and edited in four volumes by T. Ganapati Sastri in the Trivandrum Sanskrit Series. Though it styles itself a work of the Śaivasiddhānta, it reflects the syncretistic 'Kerala Tantra' tradition and is a major source for the history of South Indian, especially Keralan, ritual.",
+    "related_works": ["Somaśambhupaddhati", "Tantrasamuccaya", "Śaiva Siddhānta āgamas"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/isanasivagurudeva-paddhati-study",
+      "https://www.wisdomlib.org/definition/ishanashivagurudevapaddhati",
+      "https://archive.org/details/in.ernet.dli.2015.344986"
+    ]
+  },
+  {
+    "work_id": "M00234",
+    "title": "Dīkṣādarśa",
+    "author": "Vedajñāna (II) / Nigamajñānaguru of Cidambaram",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "paddhati (ritual manual on initiation)",
+    "date_estimate": "mid-16th c. CE (c. 1550)",
+    "summary": "A comprehensive Śaiva Siddhānta manual ('Mirror of Initiation') systematically setting out the rites of dīkṣā (initiation) together with related ritual procedures. It draws on and synthesizes the Saiddhāntika āgamas and earlier paddhati literature to present an authoritative ordering of initiatory practice.",
+    "history": "One of the influential ritual works of Vedajñāna II (also called Nigamajñāna II / Vedajñānaguru), a learned 16th-century Śaivasiddhānta teacher associated with Cidambaram in Tamil Nadu, who composed several paddhatis and doctrinal digests. His works became standard references and are frequently quoted in later 17th-century manuals.",
+    "related_works": ["Ātmārthapūjāpaddhati", "Śaivasiddhāntaparibhāṣāmañjarī", "Śaiva Siddhānta āgamas", "Somaśambhupaddhati"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/isanasivagurudeva-paddhati-study",
+      "https://www.ifpindia.org/projects/saiva-ritual-manual-mrigendrapaddhatitika/"
+    ]
+  },
+  {
+    "work_id": "M00235",
+    "title": "Kālahastīśavilāsa (Kālahastīśvaravilāsa)",
+    "author": "uncertain (attributed to a South Indian, Vijayanagara/Nāyaka-era court poet)",
+    "tradition": "Hindu, Śaiva",
+    "genre": "kāvya / campū (devotional court poem on a Śaiva shrine)",
+    "date_estimate": "uncertain; likely c. 15th-17th c. CE",
+    "summary": "An ornate Sanskrit poem celebrating Śiva as Kālahastīśvara, lord of the famous Śaiva pilgrimage temple at Kālahasti (Śrīkālahasti, Andhra Pradesh), a vāyu-liṅga site. It glorifies the deity, the sanctity of the place, and the 'play/sport' (vilāsa) of the lord, in the panegyric māhātmya-kāvya manner.",
+    "history": "The temple at Kālahasti inspired several literary works (notably Dhūrjaṭi's Telugu Kālahastīśvara Śatakamu and Māhātmyamu in the 16th c.). The Sanskrit Kālahastīśvaravilāsa is less securely attributed; its precise authorship and date could not be confidently established from available sources.",
+    "related_works": ["Kālahastīśvaramāhātmya", "Kālahastīśvara Śatakamu"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kalahasti",
+      "https://www.exoticindiaart.com/book/details/for-lord-of-animals-poems-from-telugu-kalahastisvara-satakamu-of-dhurjati-nat960/"
+    ]
+  },
+  {
+    "work_id": "M00236",
+    "title": "Karpūrādistotra (Karpūrādi-stotra)",
+    "author": "anonymous/traditional (ascribed to the Mahānirvāṇa/Śākta tantric tradition)",
+    "tradition": "Hindu, Śākta (tantric, Kaula Dakṣiṇakālī worship)",
+    "genre": "stotra (tantric hymn)",
+    "date_estimate": "uncertain; medieval, latter half of the 1st millennium CE or later",
+    "summary": "A short tantric hymn of about twenty-two verses praising the goddess Kālī (Dakṣiṇakālikā). It encodes the goddess's mantras (mantroddhāra), her visualization (dhyāna), yantra, mode of worship (sādhanā), and description of her form (svarūpa-varṇanā), and is noted for its bold, 'scandalous' tantric imagery.",
+    "history": "Famous through Arthur Avalon's (Sir John Woodroffe's) 1922 edition and translation, which printed Vimalānanda-svāmī's esoteric commentary (Svarūpavyākhyā / Vimalānandadāyinī). The verse-text circulates within Śākta tantric anthologies such as the Śāktapramoda and Tantrasāra.",
+    "related_works": ["Mahānirvāṇatantra", "Śāktapramoda", "Tantrasāra"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/karpuradi-stotra",
+      "https://archive.org/details/hymnstokalikarpuradistotracommentaryofvimalanandaswamijohnwoodroffe1953_202003_730_J",
+      "https://sacred-texts.com/tantra/htk/htk03.htm"
+    ]
+  },
+  {
+    "work_id": "M00237",
+    "title": "Āśaucadīpikā",
+    "author": "Vedajñāna (II) / Nigamajñānaguru of Cidambaram",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "ritual/dharma treatise (on ritual impurity)",
+    "date_estimate": "mid-16th c. CE (c. 1550)",
+    "summary": "A treatise ('Lamp on Impurity') dealing with āśauca, the ritual impurity (notably sūtaka, the pollution caused by birth and death) and the rules and expiations governing it within the Śaivasiddhānta ritual framework. It clarifies how such states of impurity affect the initiate's eligibility for worship and the procedures for their removal.",
+    "history": "A work of Vedajñāna II, the 16th-century Śaivasiddhānta teacher of Cidambaram who authored a cluster of ritual and doctrinal manuals. Such impurity-rules were of central concern in dualist Śaiva Siddhānta, where ritual offences include states of pollution caused by life-events.",
+    "related_works": ["Dīkṣādarśa", "Ātmārthapūjāpaddhati", "Prāyaścittasamuccaya"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shaiva_Siddhanta",
+      "https://www.exoticindiaart.com/book/details/saiva-rites-of-expiation-first-edition-and-translation-of-trilocanasiva-s-twelfth-century-prayascittasamuccaya-with-transcription-of-hardayasiva-s-prayascittasamuccaya-nak611/"
+    ]
+  },
+  {
+    "work_id": "M00238",
+    "title": "Śrītattvanidhi",
+    "author": "Kṛṣṇarāja Wodeyar III (Mummaḍi Kṛṣṇarāja Woḍeyar) of Mysore",
+    "tradition": "Hindu (compendium spanning Śaiva, Vaiṣṇava, Śākta and other traditions)",
+    "genre": "iconographic/encyclopedic treatise (with illustrations)",
+    "date_estimate": "19th c. CE (c. 1830s-1860s)",
+    "summary": "An illustrated compendium ('Illustrious Treasure of Realities') on the iconography and iconometry of divine figures of South India, compiled and patronized by the Maharaja of Mysore. Arranged in nine 'nidhis' (treasures), it catalogues deities with their visual descriptions, mantras, and dhyāna; one celebrated section depicts 122 yoga postures (āsanas), the most elaborate pre-twentieth-century treatment of āsana.",
+    "history": "Attributed to and produced under Kṛṣṇarāja Wodeyar III (1794-1868), a major patron of arts and learning who had the treatise written and illustrated by palace miniaturists. It is an important nineteenth-century source for South Indian iconography and for the history of yoga.",
+    "related_works": ["Sritattvanidhi (āsana section)", "Śilpaśāstra iconographic manuals"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sritattvanidhi",
+      "https://www.wisdomlib.org/definition/shritattvanidhi"
+    ]
+  },
+  {
+    "work_id": "M00239",
+    "title": "Kāmaratnatantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, tantric (Śākta/folk tantra, associated with Assam/Kāmarūpa)",
+    "genre": "tantra (manual of magical and ritual practices)",
+    "date_estimate": "uncertain; likely later medieval (2nd millennium CE)",
+    "summary": "A tantric manual dealing largely with practical/applied magic — mantras, the six 'acts' (ṣaṭkarma: śānti, vaśīkaraṇa, stambhana, etc.), charms, healing, and apotropaic and erotic-magical rites. It belongs to the broad current of mantraśāstra associated with the Kāmarūpa (Assam) tantric milieu.",
+    "history": "Circulates as a popular tantra in the Kāmarūpa tradition; its authorship is anonymous and its date insecure. It is representative of the 'folk tantra' literature of eastern India rather than a major scriptural āgama.",
+    "related_works": ["Kāmākhyātantra", "Yoginītantra", "mantraśāstra manuals"],
+    "confidence": "low",
+    "sources": [
+      "https://www.indica.today/long-reads/demystifying-tantra-part-iv/",
+      "https://www.academia.edu/74876608/Kakati_Representation_of_Folk_Tantra_An_enquiry_into_the_Rati_Khowa_Sect_in_Assam"
+    ]
+  },
+  {
+    "work_id": "M00240",
+    "title": "Varuṇapaddhativyākhyā",
+    "author": "commentary by Nigamajñānadeva (Nigamajñāna II); base text Varuṇapaddhati ascribed to a Varuṇaśiva/Varuṇa",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "bhāṣya/vyākhyā (commentary) on a Śaiva ritual paddhati",
+    "date_estimate": "commentary 16th c. CE; base text earlier (medieval)",
+    "summary": "A commentary (vyākhyā), titled Vilocana, on the Varuṇapaddhati, a Śaivasiddhānta ritual manual. The commentary explains in detail the concepts and types of initiation (dīkṣā) and the installation (pratiṣṭhā) of the śivaliṅga in temples, topics treated only briefly in the root Varuṇapaddhati.",
+    "history": "Preserved in the manuscript collections of the French Institute of Pondicherry (e.g. IFP MS 30480) and transcribed within the Muktabodha–IFP Śaiva Siddhānta e-text project; the commentary Vilocana is attributed to Nigamajñānadeva, a 16th-century Tamil Śaivasiddhānta scholar of the Vedajñāna/Nigamajñāna lineage.",
+    "related_works": ["Varuṇapaddhati", "Śaiva Siddhānta dīkṣā paddhatis"],
+    "confidence": "medium",
+    "sources": [
+      "https://muktabodha.org/new-e-texts-of-saiva-siddhanta-manuscripts-in-the-muktabodha-digital-library/",
+      "https://www.ifpindia.org/projects/saiva-ritual-manual-mrigendrapaddhatitika/"
+    ]
+  },
+  {
+    "work_id": "M00243",
+    "title": "Haṭhayogapradīpikā",
+    "author": "Svātmārāma",
+    "tradition": "Hindu, Nātha/haṭha yoga",
+    "genre": "yoga manual (śāstra)",
+    "date_estimate": "first half of the 15th c. CE (earliest manuscript 1496)",
+    "summary": "The classic Sanskrit manual ('Light on Haṭha Yoga') compiling the techniques of haṭhayoga: āsana (postures), prāṇāyāma, mudrās and bandhas, ṣaṭkarma (cleansing practices), the rousing of kuṇḍalinī, and nāda/laya leading to samādhi. It presents haṭha yoga as a means to and support for rāja yoga.",
+    "history": "Composed by Svātmārāma, who traces the teaching lineage to Matsyendranātha and the Nātha tradition and draws together earlier haṭha texts. It is one of the three classical haṭha-yoga manuals (with the Gheraṇḍasaṃhitā and Śivasaṃhitā) and the most influential, attracting commentaries such as Brahmānanda's Jyotsnā.",
+    "related_works": ["Gheraṇḍasaṃhitā", "Śivasaṃhitā", "Jyotsnā (commentary by Brahmānanda)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hatha_Yoga_Pradipika",
+      "https://www.wisdomlib.org/definition/hathayogapradipika"
+    ]
+  },
+  {
+    "work_id": "M00244",
+    "title": "Bhagavadgītā",
+    "author": "anonymous/traditional (ascribed to Vyāsa; embedded in the Mahābhārata)",
+    "tradition": "Hindu (synthesizing Vedānta, Sāṃkhya, Yoga and bhakti)",
+    "genre": "philosophical/didactic poem (part of an epic)",
+    "date_estimate": "c. 2nd c. BCE - 2nd c. CE (composite)",
+    "summary": "A dialogue of 700 verses in which Kṛṣṇa instructs the warrior Arjuna on the battlefield of Kurukṣetra, expounding the paths of disinterested action (karma-yoga), knowledge (jñāna-yoga), and devotion (bhakti-yoga), the nature of the self, dharma, and the divine. It harmonizes diverse strands of Indian thought into a foundational scripture.",
+    "history": "Forms part of the Bhīṣmaparvan of the Mahābhārata and is traditionally ascribed to Vyāsa. It became the most commented-upon Hindu text, with celebrated bhāṣyas by Śaṅkara, Rāmānuja, Madhva, Abhinavagupta and many others, and remains central to Hindu religious and philosophical life.",
+    "related_works": ["Mahābhārata", "Bhīṣmaparvan", "Gītābhāṣya (Śaṅkara)", "Gītābhāṣya (Rāmānuja)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+    ]
+  },
+  {
+    "work_id": "M00245",
+    "title": "Dīkṣāpaddhati",
+    "author": "anonymous/traditional (various Śaiva ritualists)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "paddhati (ritual manual on initiation)",
+    "date_estimate": "uncertain; medieval (title used for several distinct works)",
+    "summary": "A ritual manual setting out the procedure of Śaiva initiation (dīkṣā): the construction of the maṇḍala, invocation, the rites by which the guru purifies and liberates the disciple's soul, and the differing grades of initiation. 'Dīkṣāpaddhati' is a generic title borne by several distinct Śaivasiddhānta manuals.",
+    "history": "Numerous paddhatis bearing this name survive in South Indian (especially IFP/Pondicherry) manuscript collections, generally derived from the Saiddhāntika āgamas and earlier digests such as the Somaśambhupaddhati. The specific recension intended here cannot be pinned to a single named author.",
+    "related_works": ["Somaśambhupaddhati", "Dīkṣādarśa", "Śaiva Siddhānta āgamas"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/paddhati",
+      "https://muktabodha.org/new-e-texts-of-saiva-siddhanta-manuscripts-in-the-muktabodha-digital-library/"
+    ]
+  },
+  {
+    "work_id": "M00246",
+    "title": "Agnikāryapaddhati",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva (Śaiva Siddhānta ritual)",
+    "genre": "paddhati (ritual manual on the fire-rite)",
+    "date_estimate": "uncertain; medieval",
+    "summary": "A manual prescribing the performance of the agnikārya (fire ritual / homa) within Śaiva worship: the kindling and consecration of the sacred fire, the placement of the kuṇḍa, oblations, accompanying mantras, and the integration of the fire-rite into daily and occasional Śaiva ceremony.",
+    "history": "A generic ritual-manual title found among South Indian Śaiva (and brahmanical) manuscript traditions; preserved in paddhati collections rather than as a single attributable scripture. Its exact recension and author are not identifiable from available sources.",
+    "related_works": ["Śaiva Siddhānta dīkṣā/pūjā paddhatis", "Somaśambhupaddhati"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/paddhati",
+      "https://muktabodha.org/new-e-texts-of-saiva-siddhanta-manuscripts-in-the-muktabodha-digital-library/"
+    ]
+  },
+  {
+    "work_id": "M00247",
+    "title": "Uddhārakośa",
+    "author": "ascribed to Dakṣiṇāmūrti",
+    "tradition": "Hindu, tantric (Śaiva/Śākta)",
+    "genre": "kośa (lexicon of the tantric syllabic code)",
+    "date_estimate": "uncertain; medieval",
+    "summary": "A tantric dictionary (also Mantroddhārakośa) giving the key to the secret/coded names of the bīja syllables and monosyllabic mantras used in tantric mantroddhāra ('extraction of mantras'). It enables practitioners to decode the cryptic syllabic terminology pervading tantric scriptures.",
+    "history": "Attributed to Dakṣiṇāmūrti and edited (with introduction and notes) notably by Raghu Vira (1938, Lahore). It was hailed as a rare aid for penetrating the deliberately obscure 'coded' language of the tantras.",
+    "related_works": ["Mantroddhārakośa", "tantric mantraśāstra"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mantroddharakosha",
+      "https://archive.org/details/DakshinamurtisUddharaKosaADictionaryOfTheSecretTantricSyllabicCode1938Prof.Dr.RaghuVira"
+    ]
+  },
+  {
+    "work_id": "M00248",
+    "title": "Kālottara",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "āgama/tantra (revealed scripture)",
+    "date_estimate": "c. 6th-9th c. CE (core layers early; multiple recensions)",
+    "summary": "An important and influential Śaivasiddhānta scripture (more fully Kālottarāgama / Kālottaratantra) that circulated in many recensions of varying length, named by verse-count (e.g. Sārdhatriśatikā, Śatika, Trayodaśaśatika, and the very large ṣaṭsahasra). It treats Śaiva doctrine, mantras, yoga, initiation and ritual in compact, widely cited form.",
+    "history": "One of the four āgamas (with Mataṅgapārameśvara, Mṛgendra, and Sarvajñānottara) on which the Śaiva Siddhānta especially relies, frequently quoted by Saiddhāntika authors. Its shorter recensions are among the earliest datable Mantramārga sources; the larger recensions are later expansions.",
+    "related_works": ["Sārdhatriśatikālottara", "Mṛgendrāgama", "Sarvajñānottara", "Mataṅgapārameśvara"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Agama_(Hinduism)",
+      "https://www.indica.today/long-reads/demystifying-tantra-part-iii/"
+    ]
+  },
+  {
+    "work_id": "M00249",
+    "title": "Ṣaṭsahasrakālottarāgama (Ṣaṭsāhasra Kālottara)",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "āgama/tantra (revealed scripture)",
+    "date_estimate": "uncertain; the longest recension is comparatively late (likely later 1st millennium - early 2nd millennium CE)",
+    "summary": "The 'six-thousand-verse' recension of the Kālottara, the most extensive form of that scriptural cycle. Like the other Kālottara recensions it expounds Śaivasiddhānta cosmology, mantra, yoga, dīkṣā and ritual, but at much greater length, incorporating expanded ritual and doctrinal material.",
+    "history": "The Kālottara was transmitted in numerous recensions distinguished by verse-count; the ṣaṭsahasra ('6000') version is the largest and represents an expanded, later stratum of the textual tradition. It survives mainly in South Indian āgama manuscript collections.",
+    "related_works": ["Kālottara (shorter recensions)", "Sārdhatriśatikālottara", "Śaiva Siddhānta āgamas"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Agama_(Hinduism)",
+      "https://www.indica.today/long-reads/demystifying-tantra-part-iii/"
+    ]
+  },
+  {
+    "work_id": "M00250",
+    "title": "Yogajāgama",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "āgama (revealed scripture)",
+    "date_estimate": "uncertain; medieval (one of the 28 Saiddhāntika āgamas)",
+    "summary": "One of the twenty-eight mūlāgamas of the Śaiva Siddhānta, traditionally revealed by the Sadyojāta face of Sadāśiva. As an āgama it would cover the four 'feet' (caryā, kriyā, yoga, jñāna) of Śaiva practice. Notably, the surviving manuscripts titled Yogajāgama are in fact compilations of ritual statements drawn from several scriptures (Yogaja, Suprabheda, Ajita, Mataṅga, etc.) and paddhatis (Somaśambhupaddhati, Siddhāntasārāvalī).",
+    "history": "Listed among the 28 Siddhāntāgamas with its upāgamas (Tāra, Vīṇāśikhottara, Santa, Santati, Ātmayoga). Manuscripts (e.g. an Āgamavacanasaṅgraha at the IFP) show that, despite the scriptural title, the extant text functions as a ritual anthology rather than an intact early scripture.",
+    "related_works": ["Śaiva Siddhānta 28 āgamas", "Somaśambhupaddhati", "Siddhāntasārāvalī"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/yogajagama",
+      "https://digitalcollections.ifpindia.org/s/manuscripts/item/374552"
+    ]
+  },
+  {
+    "work_id": "M00251",
+    "title": "Niśvāsakārikā",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva (Mantramārga; Śaiva Siddhānta)",
+    "genre": "tantra/āgama (revealed scripture)",
+    "date_estimate": "later layer of the Niśvāsa corpus, c. 7th-9th c. CE (post-dating the early core, c. 450-550 CE)",
+    "summary": "A constituent text of the Niśvāsa corpus, the large concluding 'kārikā' portion that expands on doctrine, ritual, mantra and ancillary topics. The Niśvāsa as a whole is recognized as probably the oldest surviving scripture of the Śaiva Mantramārga, but the Niśvāsakārikā represents a later accretion to that corpus.",
+    "history": "The Niśvāsatattvasaṃhitā survives in a well-preserved ninth-century Nepalese palm-leaf manuscript and comprises the Niśvāsamukha, Mūlasūtra, Uttarasūtra, Nayasūtra, Guhyasūtra and the much longer Niśvāsakārikā. The corpus has been critically edited under Dominic Goodall with Alexis Sanderson and Harunaga Isaacson.",
+    "related_works": ["Niśvāsatattvasaṃhitā", "Niśvāsamukha", "Mūlasūtra", "Guhyasūtra"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.tantric-studies.uni-hamburg.de/research/projects/completed/nisvasatattvasamhita.html",
+      "https://publications.efeo.fr/en/livres/828_the-ni-v-satattvasa-hit--the-earliest-surviving-aiva-tantra"
+    ]
+  },
+  {
+    "work_id": "M00252",
+    "title": "Lalitāgama",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "āgama (revealed scripture)",
+    "date_estimate": "uncertain; medieval (one of the 28 Saiddhāntika āgamas)",
+    "summary": "One of the twenty-eight mūlāgamas of the Śaiva Siddhānta, traditionally revealed by the Īśāna face of Sadāśiva. As a Saiddhāntika scripture it concerns Śaiva doctrine, mantra, temple ritual and worship, with its teachings elaborated in its upāgamas (Lalita, Lalitottara, Kaumāra).",
+    "history": "Figures in the canonical list of 28 āgamas and survives chiefly in South Indian (Pondicherry/IFP) Śaiva manuscript collections rather than in widely available critical editions. Details of its specific contents and date are not well documented in accessible sources.",
+    "related_works": ["Śaiva Siddhānta 28 āgamas", "Lalitottara", "Kaumāra"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/lalitagama",
+      "https://www.unesco.org/en/memory-world/saiva-manuscript-pondicherry"
+    ]
+  },
+  {
+    "work_id": "M00253",
+    "title": "Vīrāgama",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "āgama (revealed scripture)",
+    "date_estimate": "uncertain; medieval (one of the 28 Saiddhāntika āgamas)",
+    "summary": "One of the twenty-eight mūlāgamas of the Śaiva Siddhānta, traditionally revealed by the Aghora face of Sadāśiva (alongside Vijaya, Niśvāsa, Svayambhuva and Anala). As a Saiddhāntika scripture it treats Śaiva doctrine, mantra, initiation, temple worship and iconography across the four pādas.",
+    "history": "Listed in the standard enumeration of the 28 āgamas and preserved within South Indian Śaiva manuscript collections; like several of the mūlāgamas it is not fully extant in critically edited form, and its precise date is undetermined.",
+    "related_works": ["Śaiva Siddhānta 28 āgamas", "Niśvāsa", "Vijayāgama"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/viragama",
+      "https://en.wikipedia.org/wiki/Agama_(Hinduism)"
+    ]
+  },
+  {
+    "work_id": "M00254",
+    "title": "Śaivasiddhāntaparibhāṣāmañjarī",
+    "author": "Vedajñāna (II) / Nigamajñānaguru of Cidambaram",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "philosophical/doctrinal digest (paribhāṣā – exposition of technical terminology)",
+    "date_estimate": "mid-16th c. CE (c. 1550)",
+    "summary": "A doctrinal manual ('Bouquet of the Technical Terminology of the Śaiva Siddhānta') that systematically defines and expounds the key concepts and technical terms of the Śaivasiddhānta system — pati (Lord), paśu (bound soul), pāśa (bonds), the malas, tattvas, dīkṣā, mukti and related doctrines. It serves as a concise reference digest of Saiddhāntika philosophy.",
+    "history": "Composed by Vedajñāna II, the influential 16th-century Śaivasiddhānta teacher of Cidambaram who produced a coordinated set of doctrinal and ritual works; his digests became standard scholastic references and are quoted in later 17th-century Śaiva manuals.",
+    "related_works": ["Dīkṣādarśa", "Ātmārthapūjāpaddhati", "Śaiva Siddhānta āgamas", "Śataratnasaṅgraha"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/isanasivagurudeva-paddhati-study",
+      "https://en.wikipedia.org/wiki/Shaiva_Siddhanta"
+    ]
+  }
+]

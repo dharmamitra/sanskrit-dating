@@ -1,0 +1,327 @@
+[
+  {
+    "work_id": "T01n870u",
+    "title": "Buddhastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana / Newar Buddhism of Nepal)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; transmitted in Nepalese manuscripts, likely mid- to late 1st / early 2nd millennium CE (composition date unknown)",
+    "summary": "A short Sanskrit hymn of praise (stotra) to the Buddha, of the generic 'Buddhastotra' type found throughout Buddhist devotional literature. Such hymns extol the Buddha's perfections, his enlightenment, compassion, and the merit of venerating him, and are recited liturgically. The exact text is one of many anonymous Buddhastotras preserved in the Nepalese stotra corpus rather than a single famous named work.",
+    "history": "It belongs to the large body of anonymous Buddhist praise-poetry transmitted in Newar Buddhist liturgical compilations such as the Bauddha Stotra Saṃgraha and digitized in the Digital Sanskrit Buddhist Canon (DSBC). The genre descends from classical models such as Mātṛceṭa's Śatapañcaśatika and the Catuḥśataka, but this particular title cannot be confidently tied to a single named author.",
+    "related_works": ["Bauddha Stotra Saṃgraha", "Śatapañcaśatikastotra (Mātṛceṭa)"],
+    "confidence": "low",
+    "sources": [
+      "https://www.dsbcproject.org/canon-text/content/187/880",
+      "http://www.bodhisvara.com/?cat=8",
+      "https://ancient-buddhist-texts.net/Reference/Literary-History-of-Sanskrit-Buddhism/09-Strotras-Dharanis-Tantras.htm"
+    ]
+  },
+  {
+    "work_id": "T01n871u",
+    "title": "Nāmāṣṭaśataka",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana / Newar Buddhism of Nepal)",
+    "genre": "stotra / nāmastotra (litany of 108 names)",
+    "date_estimate": "uncertain; 1st-2nd millennium CE, preserved in Nepalese manuscripts",
+    "summary": "A 'hymn of one hundred and eight names' (aṣṭaśataka = 108) addressed to a Buddhist deity, most plausibly the Buddha himself. Such nāmāṣṭaśataka texts recite 108 epithets of the venerated figure as an act of devotion and merit-making, combining the litany (nāmastotra) and praise (stotra) genres. It belongs to the well-attested Buddhist subgenre of '108 names' praises (e.g. of Avalokiteśvara, Mañjuśrī, Jambhala).",
+    "history": "The 108-names format is a standard Buddhist devotional template; numerous such texts survive in Sanskrit and in Tibetan translation. This particular item is part of the anonymous Nepalese stotra corpus and cannot be securely attributed to a named author or precisely dated.",
+    "related_works": ["Āryāvalokiteśvarasya nāmāṣṭaśataka", "Mañjuśrīnāmāṣṭaśataka", "Bauddha Stotra Saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://84000.co/translation/toh900",
+      "https://84000.co/translation/toh642",
+      "https://www.wisdomlib.org/definition/ashtottarashata"
+    ]
+  },
+  {
+    "work_id": "T01n872u",
+    "title": "Śākyasiṃhastotra: brahmaṇā kṛtam",
+    "author": "anonymous/traditional (framed as spoken by the god Brahmā)",
+    "tradition": "Buddhist (Mahayana / Newar Buddhism of Nepal)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; transmitted in Nepalese manuscripts (medieval to early modern)",
+    "summary": "A hymn of praise to Śākyasiṃha ('the Lion of the Śākyas', i.e. the Buddha Śākyamuni), framed within the collection as having been 'composed/uttered by Brahmā' (brahmaṇā kṛtam). It is one of a set of Śākyasiṃhastotras in the Nepalese tradition, each pseudepigraphically attributed to a different mythological figure (Brahmā, Viṣṇu, Indra/Surapati, Śaṅkara, the Navagrahas, Yaśodharā). The Brahmā version has the Hindu creator-god glorifying the Buddha, a common Buddhist motif of subordinating Brahmanical gods to the Buddha.",
+    "history": "These Śākyasiṃhastotras circulate together in Newar Buddhist liturgical manuscripts (e.g. Cambridge MS Add.1614, a Nepalese collection of stotras and songs) and are partly drawn from avadāna literature such as the Bhadrakalpāvadāna. The divine 'authors' are devotional framing devices rather than historical attributions.",
+    "related_works": ["Śākyasiṃhastotra (other recensions: viṣṇukṛtam, navagrahakṛtam, śaṅkarakṛtam, surapatikṛtam, yaśodharākṛtam, chando'mṛtoddhṛtam)", "Bhadrakalpāvadāna"],
+    "confidence": "medium",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-01614/1",
+      "https://sanskritdocuments.org/doc_z_misc_general/shAkyasiMhastotram2.itx"
+    ]
+  },
+  {
+    "work_id": "T01n873u",
+    "title": "Śākyasiṃhastotra: chando'mṛtoddhṛtam",
+    "author": "Amṛtānanda (attributed; extracted from his Chandomṛtalatā)",
+    "tradition": "Buddhist (Mahayana / Newar Buddhism of Nepal)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "early 19th c. CE (if from Amṛtānanda's Chandomṛtalatā)",
+    "summary": "A hymn to Śākyasiṃha (the Buddha Śākyamuni) described as 'extracted from the Chando-amṛta' (chando'mṛtoddhṛtam) — i.e. drawn from the Chandomṛtalatā, the treatise on Sanskrit prosody by the Nepalese pandit Amṛtānanda. The verses serve simultaneously as devotional praise and as illustrations of metrical forms.",
+    "history": "Amṛtānanda was the learned Newar Śākya pandit who worked with Brian Houghton Hodgson from the 1830s and composed several Sanskrit works, including the Chandomṛtalatā on metrics. This Śākyasiṃhastotra is one of the set of similarly titled hymns in the Nepalese stotra corpus; its 'chando'mṛtoddhṛtam' label points to extraction from Amṛtānanda's prosody work.",
+    "related_works": ["Chandomṛtalatā (Amṛtānanda)", "Śākyasiṃhastotra (other recensions)", "Kalyāṇapañcaviṃśatistotra (Amṛtānanda)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/amritananda",
+      "https://tricycle.org/article/discovering-jayamuni/",
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-01614/1"
+    ]
+  },
+  {
+    "work_id": "T01n875u",
+    "title": "Śākyasiṃhastotra: navagrahakṛtam",
+    "author": "anonymous/traditional (framed as spoken by the Nine Planets)",
+    "tradition": "Buddhist (Mahayana / Newar Buddhism of Nepal)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; transmitted in Nepalese manuscripts (medieval to early modern)",
+    "summary": "A praise-hymn to Śākyasiṃha (Buddha Śākyamuni) framed as 'composed by the Navagraha', the nine astral deities (the planets). Like the companion Śākyasiṃhastotras, it presents Brahmanical/astral divinities extolling the Buddha. The Cambridge Nepalese manuscript catalogues a '(Bhadrakalpāvadānoddhṛta)śākyasiṃhastotra by Navagraha', indicating this version is drawn from the Bhadrakalpāvadāna.",
+    "history": "Part of the set of Śākyasiṃhastotras transmitted together in Newar Buddhist stotra-and-song manuscripts. The attribution to the Navagraha is a devotional framing; the verses circulate as avadāna-derived liturgical praise.",
+    "related_works": ["Bhadrakalpāvadāna", "Śākyasiṃhastotra (other recensions)"],
+    "confidence": "medium",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-01614/1",
+      "https://sanskritdocuments.org/doc_z_misc_general/shAkyasiMhastotram2.itx"
+    ]
+  },
+  {
+    "work_id": "T01n876u",
+    "title": "Śākyasiṃhastotra: śaṅkarakṛtam",
+    "author": "anonymous/traditional (framed as spoken by Śiva/Śaṅkara)",
+    "tradition": "Buddhist (Mahayana / Newar Buddhism of Nepal)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; transmitted in Nepalese manuscripts (medieval to early modern)",
+    "summary": "A hymn to Śākyasiṃha (Buddha Śākyamuni) framed as 'composed by Śaṅkara', i.e. the god Śiva, who is depicted praising the Buddha. It belongs to the cluster of Śākyasiṃhastotras attributed to various deities, expressing the Newar Buddhist motif of the Hindu gods venerating the Buddha.",
+    "history": "Transmitted with its companion Śākyasiṃhastotras in Nepalese liturgical manuscripts and partly derived from avadāna material; the 'authorship' is a pious framing device.",
+    "related_works": ["Śākyasiṃhastotra (other recensions)", "Bhadrakalpāvadāna"],
+    "confidence": "medium",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-01614/1",
+      "https://sanskritdocuments.org/doc_z_misc_general/shAkyasiMhastotram2.itx"
+    ]
+  },
+  {
+    "work_id": "T01n877u",
+    "title": "Śākyasiṃhastotra: surapatikṛtam",
+    "author": "anonymous/traditional (framed as spoken by Indra, lord of the gods)",
+    "tradition": "Buddhist (Mahayana / Newar Buddhism of Nepal)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; transmitted in Nepalese manuscripts (medieval to early modern)",
+    "summary": "A hymn to Śākyasiṃha (Buddha Śākyamuni) framed as 'composed by the Surapati' — the lord of the gods, i.e. Indra/Śakra — who praises the Buddha. One of the set of Śākyasiṃhastotras placed in the mouths of different deities in the Newar Buddhist tradition.",
+    "history": "Transmitted alongside the other Śākyasiṃhastotras in Nepalese stotra manuscripts; the divine attribution is a devotional convention reflecting the Buddhist subordination of Brahmanical gods to the Buddha.",
+    "related_works": ["Śākyasiṃhastotra (other recensions)", "Bhadrakalpāvadāna"],
+    "confidence": "medium",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-01614/1",
+      "https://sanskritdocuments.org/doc_z_misc_general/shAkyasiMhastotram2.itx"
+    ]
+  },
+  {
+    "work_id": "T01n878u",
+    "title": "Śākyasiṃhastotra: viṣṇukṛtam",
+    "author": "anonymous/traditional (framed as spoken by Viṣṇu)",
+    "tradition": "Buddhist (Mahayana / Newar Buddhism of Nepal)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; transmitted in Nepalese manuscripts (medieval to early modern)",
+    "summary": "A hymn to Śākyasiṃha (Buddha Śākyamuni) framed as 'composed by Viṣṇu', who is depicted glorifying the Buddha. It is one of the cluster of Śākyasiṃhastotras attributed to various Hindu deities in the Newar Buddhist liturgical tradition.",
+    "history": "Part of the set transmitted together in Nepalese stotra-and-song manuscripts and partly drawn from avadāna literature; the attribution to Viṣṇu is a pious framing rather than a historical authorship claim.",
+    "related_works": ["Śākyasiṃhastotra (other recensions)", "Bhadrakalpāvadāna"],
+    "confidence": "medium",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-01614/1",
+      "https://sanskritdocuments.org/doc_z_misc_general/shAkyasiMhastotram2.itx"
+    ]
+  },
+  {
+    "work_id": "T01n879u",
+    "title": "Śākyasiṃhastotra: yaśodharākṛtam",
+    "author": "anonymous/traditional (framed as spoken by Yaśodharā)",
+    "tradition": "Buddhist (Mahayana / Newar Buddhism of Nepal)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; transmitted in Nepalese manuscripts (medieval to early modern)",
+    "summary": "A hymn to Śākyasiṃha (Buddha Śākyamuni) framed as 'composed by Yaśodharā', the Buddha's wife before his renunciation, who praises her former husband as the Awakened One. It is the one Śākyasiṃhastotra in the set attributed to a human (rather than divine) figure, lending it a personal, devotional character.",
+    "history": "Catalogued in the Cambridge Nepalese stotra manuscript (MS Add.1614) as 'Śākyasiṃhastotra by Yaśodharā', it circulates with the companion Śākyasiṃhastotras in Newar Buddhist liturgy. The attribution is a literary/devotional framing.",
+    "related_works": ["Śākyasiṃhastotra (other recensions)", "Bhadrakalpāvadāna"],
+    "confidence": "medium",
+    "sources": [
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-01614/1",
+      "https://sanskritdocuments.org/doc_z_misc_general/shAkyasiMhastotram2.itx"
+    ]
+  },
+  {
+    "work_id": "T01n880u",
+    "title": "Sattvārādhanagāthā",
+    "author": "attributed to Nāgārjuna (āryanāgārjunakṛtā), almost certainly pseudepigraphic",
+    "tradition": "Buddhist (Mahayana / Madhyamaka attribution; Newar transmission)",
+    "genre": "gāthā / stotra (devotional verses)",
+    "date_estimate": "uncertain; attribution to Nāgārjuna would imply c. 2nd c. CE, but the work is likely later and the attribution is traditional",
+    "summary": "A short devotional poem in eleven verses (gāthās) on the 'propitiation/serving of sentient beings' (sattva-ārādhana) — the bodhisattva's commitment to please and benefit all living beings as the highest worship of the Buddha. The colophon presents it as 'spoken by the Perfectly Awakened One' (samyaksambuddhabhāṣitā) and the heading ascribes it to Ārya Nāgārjuna.",
+    "history": "Preserved in the Nepalese tradition and digitized in the Digital Sanskrit Buddhist Canon (proofread by Miroj Shakya). The attribution to Nāgārjuna, founder of Madhyamaka, is traditional and most likely pseudepigraphic, a common practice for short devotional verse collections.",
+    "related_works": ["works attributed to Nāgārjuna (Catuḥstava, etc.)", "Bauddha Stotra Saṃgraha"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.dsbcproject.org/canon-text/content/187/880"
+    ]
+  },
+  {
+    "work_id": "T01n881u",
+    "title": "Suprabhātastotra",
+    "author": "Harṣadeva / Śrīharṣadeva (King Harṣa of Kanauj), attributed",
+    "tradition": "Buddhist (Mahayana)",
+    "genre": "stotra (morning hymn / litany of praise)",
+    "date_estimate": "c. 7th c. CE (if by Harṣa, r. c. 606-647 CE); attribution debated",
+    "summary": "Also known as the Suprabhātastava, a 'dawn' or 'good-morning' hymn comprising a selection of about forty-nine litanies (refrain-poetry) addressed to Śākyamuni and other Buddhas and Bodhisattvas. Each verse closes with an auspicious 'good morning' refrain, making it a liturgical morning-praise recited at the start of the day.",
+    "history": "Traditionally ascribed to King Śrīharṣadeva of Kanauj (the emperor Harṣa, c. 590-647 CE), to whom Buddhist hymns are credited. The text survives in multiple Sanskrit manuscripts (including newly examined Drepung manuscripts) and a Tibetan translation, and has been edited several times; the Harṣa attribution, though traditional, remains discussed by scholars.",
+    "related_works": ["Aṣṭamahāśrīcaityastotra (also attributed to Harṣa)", "Bauddha Stotra Saṃgraha"],
+    "confidence": "high",
+    "sources": [
+      "http://aav.iksiopan.pl/index.php/en/current-issue/905-new-manuscript-evidence-for-suprabhatastava-by-srihar-adeva-the-drepung-texts-critically-examined",
+      "https://en.wikipedia.org/wiki/Suprabhatam",
+      "https://www.wisdomlib.org/definition/shriharsha"
+    ]
+  },
+  {
+    "work_id": "T01n882u",
+    "title": "Saptabuddhastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana / Nepalese transmission)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; preserved in Nepalese manuscripts; translated by H. H. Wilson in the 19th c.",
+    "summary": "A 'Hymn to the Seven Buddhas' — a praise-poem venerating the seven Buddhas of the past (the saptatathāgata / saptabuddha: Vipaśyin, Śikhin, Viśvabhū, Krakucchanda, Kanakamuni, Kāśyapa, and Śākyamuni). Each of the seven is glorified in turn, a standard Buddhist devotional and protective theme.",
+    "history": "Listed among the Nepalese Buddhist stotras surviving in manuscript and noted as having been translated by H. H. Wilson. The seven-Buddhas formula is ancient and pan-Buddhist; this particular hymn is anonymous and of uncertain date.",
+    "related_works": ["Saptajinastava", "Bauddha Stotra Saṃgraha"],
+    "confidence": "medium",
+    "sources": [
+      "https://ancient-buddhist-texts.net/Reference/Literary-History-of-Sanskrit-Buddhism/09-Strotras-Dharanis-Tantras.htm"
+    ]
+  },
+  {
+    "work_id": "T01n883u",
+    "title": "Saptajinastava",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana / Nepalese transmission)",
+    "genre": "stava / stotra (hymn of praise)",
+    "date_estimate": "uncertain; preserved in Nepalese manuscripts",
+    "summary": "A 'Praise of the Seven Jinas (Conquerors)' — a hymn to the seven Buddhas of the past, 'Jina' being an epithet of the Buddha. Like the Saptabuddhastotra it eulogizes the lineage of seven Tathāgatas culminating in Śākyamuni, and is essentially a parallel/variant of that seven-Buddhas devotional theme.",
+    "history": "Belongs to the anonymous Nepalese Buddhist stotra corpus; closely related in subject to the Saptabuddhastotra. Author and precise date are unknown.",
+    "related_works": ["Saptabuddhastotra", "Bauddha Stotra Saṃgraha"],
+    "confidence": "medium",
+    "sources": [
+      "https://ancient-buddhist-texts.net/Reference/Literary-History-of-Sanskrit-Buddhism/09-Strotras-Dharanis-Tantras.htm",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  },
+  {
+    "work_id": "T01n885u",
+    "title": "Kamalākarasarvatathāgatastotra",
+    "author": "anonymous/traditional (possibly composed/transmitted by a 'Kamalākara')",
+    "tradition": "Buddhist (Mahayana / Newar Buddhism of Nepal)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; transmitted in Nepalese manuscripts",
+    "summary": "A 'Hymn to All the Tathāgatas' (sarvatathāgatastotra) associated with the name Kamalākara — praising all the Buddhas collectively, a common Mahayana/Vajrayana devotional act invoking the full assembly of Tathāgatas. The 'Kamalākara' element may name the composer or the framing context (or, conceivably, a deity/locale).",
+    "history": "Part of the Nepalese Buddhist stotra corpus digitized in collections such as the DSBC and the Bauddha Stotra Saṃgraha. The text is obscure and its authorship and date are not securely established.",
+    "related_works": ["Bauddha Stotra Saṃgraha", "Sarvatathāgata praise hymns"],
+    "confidence": "low",
+    "sources": [
+      "http://www.bodhisvara.com/?cat=8",
+      "https://www.dsbcproject.org/canon-text/content/187/880"
+    ]
+  },
+  {
+    "work_id": "T01n886u",
+    "title": "Ṣaḍabhijñastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana / Nepalese transmission)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; transmitted in Nepalese manuscripts",
+    "summary": "A hymn praising the Buddha as possessor of the 'six higher knowledges' (ṣaḍabhijñā) — the six supernormal powers/cognitions: magical power, the divine ear, knowledge of others' minds, recollection of past lives, the divine eye, and knowledge of the destruction of the defilements (āsravakṣaya). The hymn celebrates the Buddha's perfected wisdom and spiritual mastery through this classic sixfold scheme.",
+    "history": "Belongs to the anonymous Nepalese Buddhist stotra collection. The doctrine of the six abhijñās is ancient and pan-Buddhist, but this particular praise-hymn is obscure and of uncertain date and authorship.",
+    "related_works": ["Bauddha Stotra Saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "http://www.bodhisvara.com/?cat=8",
+      "https://www.dsbcproject.org/canon-text/content/187/880"
+    ]
+  },
+  {
+    "work_id": "T01n887u",
+    "title": "Kalyāṇapañcaviṃśatistotra",
+    "author": "Amṛtānanda",
+    "tradition": "Buddhist (Mahayana / Newar Buddhism of Nepal)",
+    "genre": "stotra (hymn of praise / benediction)",
+    "date_estimate": "early 19th c. CE (c. 1820s-1830s)",
+    "summary": "The 'Twenty-five Blessings Hymn' (Kalyāṇapañcaviṃśatika), a benedictory praise-poem of twenty-five verses composed in the elaborate Sragdharā metre, invoking auspiciousness and blessings in honour of the Buddha. It is a polished example of late Nepalese Buddhist kavya-style devotional verse.",
+    "history": "Composed by the Newar Śākya pandit Amṛtānanda, the learned associate of Brian Houghton Hodgson in early 19th-century Nepal, who wrote several Sanskrit works including the Chandomṛtalatā on prosody. It is among the latest datable items in the Nepalese stotra corpus.",
+    "related_works": ["Chandomṛtalatā (Amṛtānanda)", "Śākyasiṃhastotra: chando'mṛtoddhṛtam (Amṛtānanda)", "Bauddha Stotra Saṃgraha"],
+    "confidence": "high",
+    "sources": [
+      "https://ancient-buddhist-texts.net/Reference/Literary-History-of-Sanskrit-Buddhism/09-Strotras-Dharanis-Tantras.htm",
+      "https://www.wisdomlib.org/definition/amritananda",
+      "https://tricycle.org/article/discovering-jayamuni/"
+    ]
+  },
+  {
+    "work_id": "T01n888u",
+    "title": "Maṅgalaṣoḍaśastuti",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana / Newar Buddhism of Nepal)",
+    "genre": "stuti / stotra (auspicious hymn of praise)",
+    "date_estimate": "uncertain; transmitted in Nepalese manuscripts",
+    "summary": "A 'Sixteen-fold Auspicious Praise' (maṅgala-ṣoḍaśa-stuti) — a benedictory hymn in sixteen units invoking auspiciousness (maṅgala) and blessing, recited to open or sanctify ritual occasions. Such maṅgala-stutis are standard in Newar Buddhist liturgy for generating merit and good fortune.",
+    "history": "Part of the anonymous Nepalese Buddhist stotra corpus (Bauddha Stotra Saṃgraha / DSBC). Author and precise date are not established.",
+    "related_works": ["Bauddha Stotra Saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "http://www.bodhisvara.com/?cat=8",
+      "https://www.dsbcproject.org/canon-text/content/187/880"
+    ]
+  },
+  {
+    "work_id": "T01n889u",
+    "title": "Mañjuvajrastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayana / Newar Buddhism of Nepal)",
+    "genre": "stotra (tantric hymn of praise)",
+    "date_estimate": "uncertain; transmitted in Nepalese manuscripts",
+    "summary": "A hymn of praise to Mañjuvajra, the tantric (Vajrayana) form of the bodhisattva Mañjuśrī who serves as the central deity (in place of Vairocana) in certain Guhyasamāja maṇḍalas. The stotra eulogizes Mañjuvajra's wisdom-embodiment and his role as a presiding tantric Buddha, and would be used in esoteric ritual practice.",
+    "history": "Belongs to the Vajrayana stratum of the Nepalese Buddhist stotra corpus, reflecting the importance of Mañjuśrī/Mañjuvajra in the Guhyasamāja tradition and in the religious culture of the Kathmandu Valley (where Mañjuśrī is the legendary opener of the valley). The specific hymn is anonymous and of uncertain date.",
+    "related_works": ["Guhyasamāja Tantra", "Mañjuśrīnāmasaṃgīti", "Bauddha Stotra Saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Five_Tath%C4%81gatas",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  },
+  {
+    "work_id": "T01n890u",
+    "title": "Svayaṃbhūstava",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; Newar Buddhism of Nepal)",
+    "genre": "stava / stotra (hymn of praise)",
+    "date_estimate": "uncertain; transmitted in Nepalese manuscripts",
+    "summary": "A hymn of praise to Svayambhū — the self-arisen primordial Buddha (Ādibuddha) embodied in the Svayambhū Mahācaitya, the great self-existent stupa shrine on the hill above the Kathmandu Valley. The hymn glorifies this sacred shrine and the Ādibuddha it manifests, central to Newar Buddhist devotion and pilgrimage.",
+    "history": "Connected with the cult of the Svayambhū caitya, whose mythology is elaborated in the Svayambhū Purāṇa, the foundational sacred text of Nepalese Buddhism. This praise-hymn belongs to the local Newar liturgical stotra corpus and is anonymous and of uncertain date; it is essentially a shorter companion to the Svayambhūstotra.",
+    "related_works": ["Svayambhū Purāṇa", "Svayambhūstotra", "Bauddha Stotra Saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/svayambhupurana",
+      "https://bajracharya.org/swayambhu-purana/",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  },
+  {
+    "work_id": "T01n891u",
+    "title": "Svayambhūstotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; Newar Buddhism of Nepal)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; transmitted in Nepalese manuscripts",
+    "summary": "A hymn of praise to Svayambhū, the self-existent Ādibuddha worshipped in the form of the Svayambhū Mahācaitya in the Kathmandu Valley. The stotra extols the primordial Buddha-as-shrine and the merit of his veneration, a cornerstone of Newar Buddhist devotional practice.",
+    "history": "Part of the local Newar Buddhist stotra corpus tied to the Svayambhū pilgrimage cult, whose legends are recounted in the Svayambhū Purāṇa — one of the most sacred Buddhist texts of Nepal. The hymn is anonymous, transmitted in Nepalese manuscripts, and of uncertain date; it stands as the fuller counterpart to the Svayaṃbhūstava.",
+    "related_works": ["Svayambhū Purāṇa", "Svayaṃbhūstava", "Bauddha Stotra Saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/svayambhupurana",
+      "https://bajracharya.org/swayambhu-purana/",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  }
+]

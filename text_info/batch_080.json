@@ -1,0 +1,322 @@
+[
+  {
+    "work_id": "M00275",
+    "title": "Unmattabhairava",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva (Bhairava/Vidyāpīṭha tantra; associated with the Sammohana tradition)",
+    "genre": "tantra",
+    "date_estimate": "c. 8th-12th c. CE (uncertain; medieval tantric stratum)",
+    "summary": "A Bhairava-stream Śaiva tantra named after the deity Unmatta-bhairava ('the intoxicated/frenzied Bhairava'), a fierce form of Śiva. As a Bhairavatantra it would have transmitted mantras, ritual worship, yoga, and magical/coercive rites (ṣaṭkarman) centered on Bhairava and associated yoginīs.",
+    "history": "The text is known mainly from references and citations within the wider Bhairavatantra/Vidyāpīṭha literature; it is associated by some traditions with the Sammohana corpus. It is obscure, with little critical study, and exact dating and recension remain uncertain.",
+    "related_works": ["Bhairavatantras", "Sammohanatantra", "Bhūtaḍāmaratantra"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/unmattabhairava",
+      "https://www.wisdomlib.org/definition/unmattabhairavatantra",
+      "https://manasataramgini.wordpress.com/2006/11/11/the-unmatta-bhairava-tantram-of-the-sammohana-tradition/"
+    ]
+  },
+  {
+    "work_id": "M00276",
+    "title": "Umāsaṃhitā",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva (Purāṇic)",
+    "genre": "purana",
+    "date_estimate": "1st millennium CE (composite; section of the Śivapurāṇa)",
+    "summary": "The Umāsaṃhitā is one of the saṃhitās (books) of the Śivapurāṇa, the great Śaiva Purāṇa traditionally said to comprise seven saṃhitās and 24,000 verses. It expounds devotion (bhakti) to Śiva through meditation, prayer, and worship, and contains numerous narratives, including accounts of the goddess Umā/Pārvatī and Śaiva cosmology and eschatology.",
+    "history": "As a saṃhitā of the Śivapurāṇa, it is anonymous and traditionally ascribed to Vyāsa; the Śivapurāṇa is a composite work compiled and recast over centuries. The number and arrangement of saṃhitās differ across recensions, and the Umāsaṃhitā is one of the standardly listed seven.",
+    "related_works": ["Śivapurāṇa"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/umasamhita",
+      "https://www.wisdomlib.org/hinduism/book/shiva-purana-english/d/doc226545.html"
+    ]
+  },
+  {
+    "work_id": "M00277",
+    "title": "Bhāvacūḍāmaṇi",
+    "author": "Vidyākaṇṭha",
+    "tradition": "Hindu, Śaiva Siddhānta (Kashmirian)",
+    "genre": "bhasya (commentary)",
+    "date_estimate": "c. 10th-11th c. CE",
+    "summary": "A Saiddhāntika Śaiva commentary by the Kashmirian scholar Vidyākaṇṭha on the Mayasaṃgraha, a Pratiṣṭhātantra (installation/consecration scripture) of the Śaiva Siddhānta. It treats temple and image consecration ritual and related doctrine within the Mantramārga.",
+    "history": "Vidyākaṇṭha is said in the tradition to have received his teaching from Rāmakaṇṭha and to have been instructed to compose a clear, useful commentary. The Bhāvacūḍāmaṇi survives in a single manuscript and is of value for the early history of Śaiva Siddhānta consecration ritual; it has been studied by scholars of the French Institute of Pondicherry / Early Tantra circles.",
+    "related_works": ["Mayasaṃgraha"],
+    "confidence": "medium",
+    "sources": [
+      "https://egangotri.org/2015/02/23/egangotri-vii-almira-28-shelf-123-complete/",
+      "https://books.openedition.org/ifp/1725?lang=en"
+    ]
+  },
+  {
+    "work_id": "M00278",
+    "title": "Kriyākālaguṇottara",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva (Gāruḍa/Bhūta Tantra; Mantramārga)",
+    "genre": "tantra (tantric medicine)",
+    "date_estimate": "c. 10th-11th c. CE",
+    "summary": "An early Śaiva scriptural compilation of tantric medicine in about 35 chapters, drawing heavily on the older Gāruḍa and Bhūta Tantras. It treats the cure of snakebite and poisoning, exorcism of disease-causing spirits, and the use of mantras, maṇḍalas, and ritual healing rather than species-specific antidotes.",
+    "history": "The text preserves much archaic Gāruḍa-tantric material and probably predates the eleventh century. It was studied and partly edited and translated by Michael Slouber as a key source for the early history of Gāruḍa (snakebite) medicine in South Asia.",
+    "related_works": ["Gāruḍatantras", "Bhūtatantras"],
+    "confidence": "medium",
+    "sources": [
+      "https://global.oup.com/academic/product/early-tantric-medicine-9780190461812",
+      "https://escholarship.org/uc/item/8rz8t2w7"
+    ]
+  },
+  {
+    "work_id": "M00279",
+    "title": "Dīkṣottara",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva (Mantramārga; Niśvāsa corpus)",
+    "genre": "tantra",
+    "date_estimate": "c. 7th-8th c. CE",
+    "summary": "An early Śaiva scripture on initiation (dīkṣā) that forms one of the later strata associated with the Niśvāsa corpus, the oldest body of Mantramārga Śaiva tantra. It treats the rites and metaphysics of tantric initiation, including the sixfold division of meditative goals (lakṣya-bheda) on which a yogin fixes attention.",
+    "history": "The Dīkṣottara is transmitted in connection with the Niśvāsa and survives in early Nepalese and South Indian witnesses; it is among the materials studied by the Early Tantra project (Goodall, Sanderson, Isaacson and collaborators) for the formative stage of Śaiva initiation.",
+    "related_works": ["Niśvāsatattvasaṃhitā", "Niśvāsakārikā"],
+    "confidence": "medium",
+    "sources": [
+      "https://brill.com/display/book/edcoll/9789004432802/BP000015.xml?language=en",
+      "https://www.tantric-studies.uni-hamburg.de/en/research/publications/nisvasatattvasamhita.html"
+    ]
+  },
+  {
+    "work_id": "M00280",
+    "title": "Niśvāsakārikā",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva (Mantramārga; Niśvāsa corpus)",
+    "genre": "tantra",
+    "date_estimate": "c. 8th-9th c. CE (latest, expanded layer of the Niśvāsa)",
+    "summary": "The Niśvāsakārikā is the large, comparatively late book of the Niśvāsa corpus, the earliest surviving Śaiva tantra (Mantramārga). It covers cosmology, ritual worship, initiation, mantra, and yoga, expanding upon the older sūtra-layers of the Niśvāsatattvasaṃhitā.",
+    "history": "Unlike the early Nepalese-manuscript layers (Mūlasūtra, Uttarasūtra, Nayasūtra, Guhyasūtra, Niśvāsamukha), the Niśvāsakārikā is preserved separately in South Indian transcripts at the French Institute of Pondicherry; the Guhyasūtra itself refers to a 'Kārikā,' presumably this work. It is a key witness for the formative period of Śaivism, studied by the Early Tantra project.",
+    "related_works": ["Niśvāsatattvasaṃhitā", "Niśvāsaguhyasūtra", "Dīkṣottara"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.tantric-studies.uni-hamburg.de/en/research/publications/nisvasatattvasamhita.html",
+      "https://scholarlypublications.universiteitleiden.nl/access/item:2889940/view"
+    ]
+  },
+  {
+    "work_id": "M00281",
+    "title": "Yogapīṭhakramodaya",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva/Śākta (tantra)",
+    "genre": "tantra",
+    "date_estimate": "uncertain (medieval tantric)",
+    "summary": "An obscure tantric work whose title ('arising of the sequence of the yoga-seat/yogapīṭha') points to a Śaiva-Śākta text concerned with the ritual ground, the krama (sequence) of worship, and the installation/visualization of the deity's seat. Its precise content is not securely established from available scholarship.",
+    "history": "The text is little studied and survives chiefly as a title/manuscript in tantric collections; no critical edition or reliable dating is widely available, so its identity and tradition cannot be fixed with confidence.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://sanskritdocuments.org/sanskrit/tantra/",
+      "https://archive.org/details/in.ernet.dli.2015.345279"
+    ]
+  },
+  {
+    "work_id": "M00282",
+    "title": "Kāmakalāvilāsa",
+    "author": "Puṇyānanda (Puṇyānandanātha)",
+    "tradition": "Hindu, Śākta (Śrīvidyā; Kaula)",
+    "genre": "philosophical treatise / stotra (tantric doctrinal verse)",
+    "date_estimate": "c. 16th c. CE (disputed; some place it somewhat earlier)",
+    "summary": "A short, dense Śrīvidyā work in verse expounding the kāmakalā, the dynamic out-pouring of the energy of consciousness (cicchakti) in the worship of the goddess Tripurasundarī. It gives a concise account, from the Hādi standpoint, of the initial unfolding of Śakti and the structure and meaning of the Śrīcakra/Śrīyantra.",
+    "history": "The work is attributed to Puṇyānandanātha and is studied with the celebrated Cidvallī commentary of his lineage successor Naṭanānanda (pupil of Nāthānanda). It is a foundational doctrinal text of the Śrīvidyā tradition, translated by Arthur Avalon (John Woodroffe); precise dating is debated but it is commonly placed around the sixteenth century.",
+    "related_works": ["Cidvallī (commentary by Naṭanānanda)", "Yoginīhṛdaya", "Vāmakeśvaratantra/Nityāṣoḍaśikārṇava"],
+    "confidence": "high",
+    "sources": [
+      "https://archive.org/details/kmakalvilsa0000puyn",
+      "https://www.holybooks.com/wp-content/uploads/Tantric-Texts-Series-10-Kamakalavilasa-of-Punyanandanatha-English-Translation-Arthur-Avalon-1953.pdf",
+      "https://www.wisdomlib.org/definition/kamakalavilasa"
+    ]
+  },
+  {
+    "work_id": "M00283",
+    "title": "Hāhārāvatantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva/Śākta (tantra)",
+    "genre": "tantra",
+    "date_estimate": "uncertain (medieval tantric)",
+    "summary": "An obscure Śaiva-Śākta tantra known mainly by title (the name evokes 'hāhā'-sound, possibly a bhairava or yoginī-related deity). On the analogy of comparable tantras it would have transmitted mantras, deity worship, and ritual/magical practice, but its specific content is not securely documented.",
+    "history": "The work is very poorly attested in modern scholarship, surviving as a title/manuscript reference within tantric catalogues; no critical study, secure recension, or reliable date is available.",
+    "related_works": ["Bhairavatantras"],
+    "confidence": "low",
+    "sources": [
+      "https://sanskritdocuments.org/sanskrit/tantra/",
+      "https://indiafacts.org/demystifying-tantra-saiva-vai%E1%B9%A3%E1%B9%87ava-tantras/"
+    ]
+  },
+  {
+    "work_id": "M00284",
+    "title": "Kulānandādi",
+    "author": "attributed to Matsyendranātha (traditional)",
+    "tradition": "Hindu, Śaiva-Śākta (Kaula; Yoginī Kaula of Matsyendranātha)",
+    "genre": "tantra",
+    "date_estimate": "c. 11th-13th c. CE (uncertain)",
+    "summary": "The title ('Kulānanda etc.') refers to the Kulānandatantra and associated short Kaula works. The Kulānandatantra is a brief Kaula scripture (about 60 verses) ascribed in its colophon to Matsyendra-pāda (Matsyendranātha), treating the cakras, granthis, and the piercing/ascent of the cakras in the Yoginī Kaula idiom.",
+    "history": "The Kulānanda was published by P. C. Bagchi alongside the Kaulajñānanirṇaya of Matsyendranātha's school, from a Newari-script manuscript in the Darbar Library, Nepal. As with much of the Matsyendranātha corpus, authorship is traditional/ascriptive and dating is uncertain.",
+    "related_works": ["Kaulajñānanirṇaya", "Akulavīratantra"],
+    "confidence": "low",
+    "sources": [
+      "https://shivashakti.com/kulanand",
+      "https://www.academia.edu/42810380/THE_KAULAJ%C3%91%C4%80NANIR%E1%B9%86AYA"
+    ]
+  },
+  {
+    "work_id": "M00285",
+    "title": "Kulasāra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva-Śākta (Kaula / early Trika)",
+    "genre": "tantra",
+    "date_estimate": "c. 8th-10th c. CE (early Kaula stratum; uncertain)",
+    "summary": "An early Kaula Śaiva scripture transmitting Kaula doctrine and ritual—worship of Śiva-Śakti, kuṇḍalinī/cakra schemes, mantra, and transgressive (left-hand) practice. It belongs to the formative body of Kaula tantras cited by later exegetes of the Trika/Kaula tradition.",
+    "history": "The Kulasāra survives in early Nepalese manuscripts and is among the old Kaula sources studied in connection with the work of Alexis Sanderson on the early Śaiva-Śākta scriptural corpus; it is anonymous and difficult to date precisely.",
+    "related_works": ["Kaula tantras", "Kulārṇavatantra"],
+    "confidence": "low",
+    "sources": [
+      "https://indiafacts.org/demystifying-tantra-shakta-tantras-kaula-tantras-mantrashastra-nibandhas/",
+      "https://hareesh.org/blog/2022/9/5/the-kaula-stras"
+    ]
+  },
+  {
+    "work_id": "M00286",
+    "title": "Āścaryayogamālā",
+    "author": "attributed to Nāgārjuna (the alchemist)",
+    "tradition": "Hindu, tantric / secular-scientific (rasaśāstra, alchemy)",
+    "genre": "rasaśāstra / tantric-medical treatise",
+    "date_estimate": "later 1st-early 2nd millennium CE (uncertain)",
+    "summary": "An alchemical-medical work ('garland of wondrous applications/yogas') ascribed to the alchemist Nāgārjuna, offering rasa- and herbal recipes, mercurial and metallic preparations, and 'wondrous' efficacious formulae (yoga = prescription/combination). It belongs to the Sanskrit rasaśāstra and tantric-medical genre concerned with transmutation, rejuvenation, and cures.",
+    "history": "The name Nāgārjuna is a traditional, multiply-applied attribution attached to numerous alchemical and medical works (e.g. Rasaratnākara); such ascriptions are legendary and do not point to a single historical author, so the text's true date and authorship are uncertain.",
+    "related_works": ["Rasaratnākara (attrib. Nāgārjuna)", "Kakṣapuṭatantra"],
+    "confidence": "low",
+    "sources": [
+      "https://www.academia.edu/221269/An_Alchemical_Ghost_The_Rasaratn%C4%81kara_by_N%C4%81g%C4%81rjuna",
+      "https://tamilandvedas.com/2019/11/04/rare-chemistry-alchemy-medicine-books-of-ancient-india-post-no-7178/"
+    ]
+  },
+  {
+    "work_id": "M00287",
+    "title": "Kākacaṇḍeśvarīmata",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, tantric (rasaśāstra / Śākta-tantric medicine)",
+    "genre": "tantra (alchemical-medical, rasaśāstra)",
+    "date_estimate": "c. 10th-13th c. CE (relatively early in the rasa-tantra sequence)",
+    "summary": "A tantric alchemical-medical tract (also called Mahārasāyanavidhi) revealed in the voice of the goddess Kākacaṇḍeśvarī. It treats rasāyana (rejuvenation/elixir) methods, mercurial and herbal preparations, and tantric ritual-medical lore.",
+    "history": "It is regarded as a comparatively early rasaśāstra source: the Rasaratnākara and Kakṣapuṭatantra are said to postdate the Dattātreyatantra and the Kākacaṇḍeśvarīmata. It circulates anonymously within the Sanskrit alchemical/tantric-medical corpus.",
+    "related_works": ["Dattātreyatantra", "Kakṣapuṭatantra", "Rasaratnākara"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kakacandeshvarimata",
+      "https://www.wisdomlib.org/definition/kakshaputatantra"
+    ]
+  },
+  {
+    "work_id": "M00288",
+    "title": "Gorakṣayogaśāstram",
+    "author": "attributed to Gorakṣanātha (Gorakhnāth)",
+    "tradition": "Hindu, Śaiva (Nātha Sampradāya; Haṭha Yoga)",
+    "genre": "yoga treatise (śāstra)",
+    "date_estimate": "c. 12th-15th c. CE (attribution traditional; core Gorakṣa material c. 1200 CE)",
+    "summary": "A yoga treatise of the Nātha tradition ascribed to Gorakṣanātha, teaching the methods of haṭha/laya yoga—posture, breath control (prāṇāyāma), the bandhas and mudrās, cakra meditation, and the raising of kuṇḍalinī—as the path to liberation. It belongs to the cluster of Gorakṣanātha-attributed yoga works (Gorakṣaśataka, Gorakṣasaṃhitā, etc.).",
+    "history": "Authorship is traditional/ascriptive: a large body of Sanskrit yoga texts is attributed to Gorakṣanātha, founder-figure of the Nātha Sampradāya (c. 11th-12th c.), but many took their present form later and circulate in multiple recensions. The Gorakṣayogaśāstra is one such recension within this fluid corpus.",
+    "related_works": ["Gorakṣaśataka", "Gorakṣasaṃhitā", "Siddhasiddhāntapaddhati", "Haṭhayogapradīpikā"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gorakhnath",
+      "https://en.wikipedia.org/wiki/Goraksha_Shataka"
+    ]
+  },
+  {
+    "work_id": "M00290",
+    "title": "Tattvaratnāvalī",
+    "author": "Vimalaśiva",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "philosophical treatise / paddhati (Śaiva ritual-doctrinal manual)",
+    "date_estimate": "c. 11th-12th c. CE (uncertain)",
+    "summary": "A Saiddhāntika Śaiva work ('garland of jewels of the tattvas/principles') by Vimalaśiva, treating the categories (tattvas) and doctrine of the Śaiva Siddhānta and their ritual application. It belongs to the South-Asian Saiddhāntika exegetical and paddhati literature.",
+    "history": "The text survives in a fragmentary, disordered palm-leaf manuscript (NAK 1-1697 / NGMPP B 26/16) and is little studied; Vimalaśiva is a Saiddhāntika author known chiefly from such manuscript witnesses, so dating remains tentative.",
+    "related_works": ["Somaśambhupaddhati", "Tattvaprakāśa (Bhoja)"],
+    "confidence": "low",
+    "sources": [
+      "https://journals.akademicka.pl/cis/article/view/1534"
+    ]
+  },
+  {
+    "work_id": "M00291",
+    "title": "Gorakṣaguṭikā",
+    "author": "attributed to Gorakṣanātha (Gorakhnāth)",
+    "tradition": "Hindu, Śaiva (Nātha Sampradāya; Haṭha Yoga)",
+    "genre": "yoga treatise",
+    "date_estimate": "c. 12th-15th c. CE (attribution traditional; related to the Gorakṣaśataka tradition)",
+    "summary": "A short Nātha yoga text ascribed to Gorakṣanātha, closely related to (and sometimes overlapping with) the Gorakṣaśataka recensions. It expounds the practice of haṭha/laya yoga—prāṇāyāma, bandhas, mudrās, cakra meditation, and kuṇḍalinī—as the means to liberation.",
+    "history": "Like the other Gorakṣa-attributed works, its authorship is traditional and its text fluid across manuscripts and titles (Gorakṣaśataka, Gorakṣasaṃhitā, Gorakṣaguṭikā). It forms part of the foundational Nātha yoga corpus.",
+    "related_works": ["Gorakṣaśataka", "Gorakṣasaṃhitā", "Gorakṣayogaśāstra"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Goraksha_Shataka",
+      "https://en.wikipedia.org/wiki/Gorakhnath"
+    ]
+  },
+  {
+    "work_id": "M00292",
+    "title": "Mantrakoṣa",
+    "author": "Āśāditya Tripāṭhī (Tripāṭhin)",
+    "tradition": "Hindu, tantric (mantraśāstra)",
+    "genre": "mantra-compendium (kośa)",
+    "date_estimate": "late medieval / early modern (uncertain)",
+    "summary": "A 'treasury of mantras' (mantra-kośa): a compiled reference work that collects and explains tantric mantras and their applications, of the kind used by practitioners and ritual specialists. It belongs to the nibandha/kośa genre of mantraśāstra rather than to a single revealed tantra.",
+    "history": "The work is attributed to Āśāditya Tripāṭhin and is catalogued in manuscript collections (e.g. Ulwar 2263). It is a compilation rather than a primary scripture; the author's dates are not securely established.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mantrakosha"
+    ]
+  },
+  {
+    "work_id": "M00293",
+    "title": "Kālīkalpalatā",
+    "author": "Vimarśānandanātha",
+    "tradition": "Hindu, Śākta (Kālī / Kālīkula; Kaula)",
+    "genre": "tantric ritual manual (paddhati) / nibandha",
+    "date_estimate": "late medieval / early modern (uncertain)",
+    "summary": "A Śākta ritual-compendium ('wish-granting creeper of Kālī') by Vimarśānandanātha, dealing with the worship of the goddess Kālī—her mantras, visualization, rites, and associated Kaula practices. It draws on and cites earlier tantric authorities (e.g. the Yāmala literature).",
+    "history": "The work is cited in later scholarship as a source on Kālī worship and Śākta sacrificial practice; it belongs to the digest/paddhati literature of the Kālīkula. Its author Vimarśānandanātha and exact date are not firmly fixed.",
+    "related_works": ["Kālī Tantras", "Yāmala tantras"],
+    "confidence": "low",
+    "sources": [
+      "https://indiafacts.org/demystifying-tantra-shakta-tantras-kaula-tantras-mantrashastra-nibandhas/",
+      "https://sacred-texts.com/tantra/htk/htk04.htm"
+    ]
+  },
+  {
+    "work_id": "M00294",
+    "title": "Kulasāra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva-Śākta (Kaula / early Trika)",
+    "genre": "tantra",
+    "date_estimate": "c. 8th-10th c. CE (early Kaula stratum; uncertain)",
+    "summary": "An early Kaula Śaiva scripture (a second record of the same title as M00285) transmitting Kaula doctrine, the worship of Śiva-Śakti, kuṇḍalinī/cakra schemes, mantra, and transgressive Kaula ritual. It is part of the formative Kaula scriptural corpus drawn on by later Trika/Kaula exegetes.",
+    "history": "Preserved in early Nepalese manuscripts, the Kulasāra is among the old Kaula sources studied in connection with Alexis Sanderson's work on the early Śaiva-Śākta corpus; it is anonymous and hard to date precisely. This entry duplicates the title of work M00285.",
+    "related_works": ["Kaula tantras", "Kulārṇavatantra", "Kulasāra (M00285)"],
+    "confidence": "low",
+    "sources": [
+      "https://indiafacts.org/demystifying-tantra-shakta-tantras-kaula-tantras-mantrashastra-nibandhas/",
+      "https://hareesh.org/blog/2022/9/5/the-kaula-stras"
+    ]
+  },
+  {
+    "work_id": "M00295",
+    "title": "Vimalāvatītantra",
+    "author": "attributed to Vimalaśiva (per project hint; uncertain)",
+    "tradition": "Hindu, Śaiva (Siddhānta/Āgama)",
+    "genre": "tantra (āgama)",
+    "date_estimate": "uncertain (medieval Śaiva)",
+    "summary": "A Śaiva tantra/āgama; the title is connected with the 'Vimala' āgamic line (Vimalāgama is counted among the twenty-eight Siddhāntāgamas of the Śaiva canon proclaimed by the Tatpuruṣa face of Śiva). As a Siddhānta āgama it would treat doctrine, ritual worship, consecration, and yoga.",
+    "history": "The text is obscure and poorly documented; the project's attribution to Vimalaśiva is uncertain, and the title may relate to the Vimalāgama tradition rather than to a securely identified single work. No critical edition or firm dating is available.",
+    "related_works": ["Vimalāgama", "Śaiva Siddhāntāgamas"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/vimalagama",
+      "https://journals.akademicka.pl/cis/article/view/1534"
+    ]
+  }
+]

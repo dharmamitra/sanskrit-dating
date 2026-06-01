@@ -1,0 +1,327 @@
+[
+  {
+    "work_id": "GSP28mimslovu",
+    "title": "Mīmāṃsāślokavārttika",
+    "author": "Kumārila Bhaṭṭa",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā (Bhāṭṭa school)",
+    "genre": "vārttika (verse commentary / philosophical treatise)",
+    "date_estimate": "c. 600-700 CE (7th c. CE)",
+    "summary": "A metrical (śloka) sub-commentary on the opening section (Tarkapāda, MS 1.1) of Śabara's Bhāṣya on Jaimini's Mīmāṃsāsūtra. It is primarily a treatise on epistemology and the means of valid knowledge (pramāṇa), defending the intrinsic validity (svataḥ-prāmāṇya) of cognition and the eternality and authorlessness (apauruṣeya) of the Veda, while polemicizing extensively against Buddhist, especially Dignāga-Dharmakīrti, positions on perception, inference, word-meaning (apoha), and the negation of a permanent self.",
+    "history": "The Ślokavārttika is the first and most philosophically influential of Kumārila's three great works on Śabara's Bhāṣya (alongside the Tantravārttika and Ṭupṭīkā/Bṛhaṭṭīkā). It became the foundational text of the Bhāṭṭa branch of Mīmāṃsā and attracted major commentaries including Sucaritamiśra's Kāśikā, Pārthasārathi Miśra's Nyāyaratnākara, and Umbeka Bhaṭṭa's Tātparyaṭīkā.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Tantravārttika", "Ṭupṭīkā", "Nyāyaratnākara", "Mīmāṃsāślokavārttikakāśikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kum%C4%81rila_Bha%E1%B9%AD%E1%B9%ADa",
+      "https://www.wisdomlib.org/definition/shlokavarttika",
+      "https://archive.org/details/SlokavarttikaNyayaratnakara"
+    ]
+  },
+  {
+    "work_id": "GSP28mimsvtku",
+    "title": "Mīmāṃsāślokavārttikakāśikā",
+    "author": "Sucaritamiśra",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā (Bhāṭṭa school)",
+    "genre": "ṭīkā (commentary / sub-commentary)",
+    "date_estimate": "c. 9th-11th c. CE (disputed; not_before c. 800 CE)",
+    "summary": "The Kāśikā is Sucaritamiśra's running commentary on Kumārila Bhaṭṭa's Ślokavārttika. It explicates and defends Kumārila's verse-by-verse arguments in epistemology, the self-validity of knowledge, scriptural authority, and the refutation of Buddhist doctrines (notably the apoha theory of meaning), serving as one of the principal exegetical aids to the Bhāṭṭa-Mīmāṃsā system.",
+    "history": "Sucaritamiśra is a major Bhāṭṭa commentator whose Kāśikā is valued alongside Pārthasārathi Miśra's Nyāyaratnākara as a key witness to the interpretation of the Ślokavārttika; modern critical editions of its apoha sections have been published. His exact dates are uncertain, generally placed between the 9th and 11th centuries CE.",
+    "related_works": ["Mīmāṃsāślokavārttika", "Nyāyaratnākara", "Śābarabhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/shlokavarttika",
+      "https://books.google.com/books/about/M%C4%ABm%C4%81%E1%B9%83s%C4%81_slokav%C4%81rtika_with_the_comm.html?id=59sfAAAAIAAJ",
+      "https://www.academia.edu/71840880/Sucaritami%C5%9Bra_on_Apoha"
+    ]
+  },
+  {
+    "work_id": "GSP28mjnya01u",
+    "title": "Jaiminīyanyāyamālāvistara: Adhyāya 1",
+    "author": "Mādhava (Mādhavācārya / Vidyāraṇya)",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā",
+    "genre": "philosophical treatise / metrical compendium with auto-commentary",
+    "date_estimate": "14th c. CE (Mādhava Vidyāraṇya, d. 1386); project hint of 400-699 CE is incorrect",
+    "summary": "Adhyāya 1 of a systematic exposition (nyāyamālā) of the topics (adhikaraṇas) of Jaimini's twelve-chapter Mīmāṃsāsūtra. Each topic is stated in summary verses with Mādhava's own prose 'vistara' commentary laying out doubt, prima-facie view, and settled conclusion. The first adhyāya treats the foundations of dharma: the authority of the Veda, the eternality of the word-Veda relation, and the classification of Vedic injunctions, mantras, and arthavāda.",
+    "history": "Authored by Mādhava, the celebrated 14th-century scholar-statesman of the early Vijayanagara empire, generally identified with Vidyāraṇya, head of the Śṛṅgeri maṭha and brother/associate of the Vedic commentator Sāyaṇa. The Jaiminīyanyāyamālāvistara became a standard introductory digest of Pūrva-Mīmāṃsā ritual hermeneutics.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Jaiminīyanyāyamālāvistara: Adhyāya 2", "Jaiminīyanyāyamālāvistara: Adhyāya 3", "Jaiminīyanyāyamālāvistara: Adhyāya 4"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_mAdhava-jaiminIyanyAyamAlAvistara.htm",
+      "https://www.rep.routledge.com/articles/biographical/madhava-d-1386/v-1",
+      "https://en.wikipedia.org/wiki/Vidyaranya"
+    ]
+  },
+  {
+    "work_id": "GSP28mjnya02u",
+    "title": "Jaiminīyanyāyamālāvistara: Adhyāya 2",
+    "author": "Mādhava (Mādhavācārya / Vidyāraṇya)",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā",
+    "genre": "philosophical treatise / metrical compendium with auto-commentary",
+    "date_estimate": "14th c. CE (Mādhava Vidyāraṇya, d. 1386); project hint of 400-699 CE is incorrect",
+    "summary": "Adhyāya 2 of Mādhava's metrical digest with prose commentary on Jaimini's Mīmāṃsāsūtra. This chapter expounds the differentiation of rites (karma-bheda) and the distinctions among Vedic injunctions, classifying primary (apūrva), restrictive (niyama), and exclusionary (parisaṃkhyā) injunctions and analyzing how separate ritual acts are established.",
+    "history": "Part of the same 14th-century Vijayanagara-era exposition by Mādhava Vidyāraṇya covering all twelve adhyāyas of the Mīmāṃsāsūtra; widely transmitted as a teaching manual of Pūrva-Mīmāṃsā exegesis.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Jaiminīyanyāyamālāvistara: Adhyāya 1", "Jaiminīyanyāyamālāvistara: Adhyāya 3", "Jaiminīyanyāyamālāvistara: Adhyāya 4"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_mAdhava-jaiminIyanyAyamAlAvistara.htm",
+      "https://www.rep.routledge.com/articles/biographical/madhava-d-1386/v-1"
+    ]
+  },
+  {
+    "work_id": "GSP28mjnya03u",
+    "title": "Jaiminīyanyāyamālāvistara: Adhyāya 3",
+    "author": "Mādhava (Mādhavācārya / Vidyāraṇya)",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā",
+    "genre": "philosophical treatise / metrical compendium with auto-commentary",
+    "date_estimate": "14th c. CE (Mādhava Vidyāraṇya, d. 1386); project hint of 400-699 CE is incorrect",
+    "summary": "Adhyāya 3 of Mādhava's Nyāyamālāvistara on the Mīmāṃsāsūtra. It treats śeṣa (the subsidiary-principal relation among ritual elements), the means by which auxiliary acts serve the main sacrifice, the authority of direct Vedic statement versus indication and syntactic connection, and the determination of which agent is entitled to perform which acts.",
+    "history": "Belongs to Mādhava Vidyāraṇya's complete 14th-century exposition of Jaimini's twelve adhyāyas, a foundational digest for the study of Mīmāṃsā ritual hermeneutics in the post-classical period.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Jaiminīyanyāyamālāvistara: Adhyāya 1", "Jaiminīyanyāyamālāvistara: Adhyāya 2", "Jaiminīyanyāyamālāvistara: Adhyāya 4"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_mAdhava-jaiminIyanyAyamAlAvistara.htm",
+      "https://www.rep.routledge.com/articles/biographical/madhava-d-1386/v-1"
+    ]
+  },
+  {
+    "work_id": "GSP28mjnya04u",
+    "title": "Jaiminīyanyāyamālāvistara: Adhyāya 4",
+    "author": "Mādhava (Mādhavācārya / Vidyāraṇya)",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā",
+    "genre": "philosophical treatise / metrical compendium with auto-commentary",
+    "date_estimate": "14th c. CE (Mādhava Vidyāraṇya, d. 1386); project hint of 400-699 CE is incorrect",
+    "summary": "Adhyāya 4 of Mādhava's Nyāyamālāvistara. It addresses prayojana (the purpose or fruit of rites), the distinction between acts performed for a transcendent unseen result (apūrva) and those serving another act, the function of subsidiary rites, and rules concerning the order and motivation of ritual performance.",
+    "history": "Part of Mādhava Vidyāraṇya's 14th-century Vijayanagara-period digest of the Mīmāṃsāsūtra, transmitted and printed (e.g., in the Ānandāśrama and Bibliotheca Indica series) as a standard reference for Mīmāṃsā adhikaraṇas.",
+    "related_works": ["Mīmāṃsāsūtra", "Śābarabhāṣya", "Jaiminīyanyāyamālāvistara: Adhyāya 1", "Jaiminīyanyāyamālāvistara: Adhyāya 2", "Jaiminīyanyāyamālāvistara: Adhyāya 3"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_mAdhava-jaiminIyanyAyamAlAvistara.htm",
+      "https://www.rep.routledge.com/articles/biographical/madhava-d-1386/v-1"
+    ]
+  },
+  {
+    "work_id": "GSP28msbh1-7u",
+    "title": "Mīmāṃsāsūtra",
+    "author": "Jaimini",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā",
+    "genre": "sutra (aphoristic foundational text)",
+    "date_estimate": "c. 300-100 BCE (composite; sutra text plausibly c. 4th-2nd c. BCE); project hint of 100-199 CE is too late",
+    "summary": "The foundational sutra-text of the Pūrva-Mīmāṃsā darśana, attributed to Jaimini, comprising roughly 2,700-3,000 aphorisms in twelve adhyāyas. It develops a systematic hermeneutics (vākyaśāstra) for interpreting the Veda with respect to dharma understood as ritual obligation, establishing the authority and self-sufficiency of Vedic injunction, the eternal word-meaning relation, and rules for resolving apparent textual conflicts. This record covers adhyāyas 1-7, transmitted together with Śabara's Bhāṣya.",
+    "history": "The earliest of the six orthodox schools' root texts, it is the basis of all later Mīmāṃsā and deeply shaped Indian exegesis, jurisprudence (dharmaśāstra), and Vedānta. Its sole complete extant ancient commentary is the Śābarabhāṣya, itself sub-commented by Kumārila (Bhāṭṭa) and Prabhākara, founding the two main schools of the tradition.",
+    "related_works": ["Śābarabhāṣya", "Mīmāṃsāślokavārttika", "Tantravārttika", "Bṛhatī", "Jaiminīyanyāyamālāvistara", "Brahmasūtra (Uttara-Mīmāṃsā)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Purva_Mimamsa_Sutras",
+      "https://www.britannica.com/topic/Mimamsa-sutra",
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_jaimini-mImAMsAsUtra-1-7-comm.htm"
+    ]
+  },
+  {
+    "work_id": "GSP28prakp01u",
+    "title": "Prakaraṇapañcikā: Prakaraṇa 1",
+    "author": "Śālikanāthamiśra",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 8th-9th c. CE (before late 9th c.; pre-Vācaspati Miśra)",
+    "summary": "The Prakaraṇapañcikā is the principal systematic and independent treatise of the Prābhākara school of Mīmāṃsā, organized into a set of prakaraṇas (topical chapters). Prakaraṇa 1 opens the work, establishing its scope and foundational positions in defense of Prabhākara Miśra's interpretation of Mīmāṃsā epistemology and ritual exegesis.",
+    "history": "Śālikanātha is the leading expositor of Prabhākara's thought; his Prakaraṇapañcikā and his commentary Ṛjuvimalā on Prabhākara's Bṛhatī are the chief sources for the Prābhākara (Guru-mata) system. Vācaspati Miśra (late 9th c.) already refers to him, fixing a terminus ante quem.",
+    "related_works": ["Bṛhatī", "Ṛjuvimalā", "Śābarabhāṣya", "Mīmāṃsāsūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prabh%C4%81kara",
+      "https://www.wisdomlib.org/hinduism/essay/tattvabindu-of-vachaspati-mishra-study/d/doc1502601.html",
+      "https://link.springer.com/article/10.1007/s10781-019-09394-1"
+    ]
+  },
+  {
+    "work_id": "GSP28prakp02u",
+    "title": "Prakaraṇapañcikā: Prakaraṇa 2",
+    "author": "Śālikanāthamiśra",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
+    "summary": "Prakaraṇa 2 of Śālikanātha's Prakaraṇapañcikā, continuing the systematic exposition of Prābhākara Mīmāṃsā doctrine. The chapters of the work treat in turn the means of knowledge, perception, inference, verbal testimony, the theory of meaning, and ritual-exegetical categories from the Prābhākara standpoint.",
+    "history": "Part of the foundational independent compendium of the Prābhākara school by its chief systematizer, Śālikanāthamiśra; preserved and edited in the Chowkhamba and related Sanskrit series.",
+    "related_works": ["Prakaraṇapañcikā: Prakaraṇa 1", "Bṛhatī", "Ṛjuvimalā", "Śābarabhāṣya", "Mīmāṃsāsūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prabh%C4%81kara",
+      "https://www.wisdomlib.org/hinduism/essay/tattvabindu-of-vachaspati-mishra-study/d/doc1502601.html"
+    ]
+  },
+  {
+    "work_id": "GSP28prakp03u",
+    "title": "Prakaraṇapañcikā: Prakaraṇa 3",
+    "author": "Śālikanāthamiśra",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
+    "summary": "Prakaraṇa 3 of the Prakaraṇapañcikā, advancing Śālikanātha's defense of Prabhākara's Mīmāṃsā. The work as a whole expounds Prābhākara epistemology and semantics, including the distinctive doctrines of the intrinsic validity of cognition and of anvitābhidhāna (the theory that words denote only as syntactically connected within a sentence).",
+    "history": "One chapter of Śālikanāthamiśra's master treatise, the principal surviving systematic source for Prābhākara Mīmāṃsā alongside his commentary on Prabhākara's Bṛhatī.",
+    "related_works": ["Prakaraṇapañcikā: Prakaraṇa 1", "Prakaraṇapañcikā: Prakaraṇa 2", "Bṛhatī", "Ṛjuvimalā", "Śābarabhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prabh%C4%81kara",
+      "https://link.springer.com/article/10.1007/s10781-019-09394-1"
+    ]
+  },
+  {
+    "work_id": "GSP28prakp04u",
+    "title": "Prakaraṇapañcikā: Prakaraṇa 4",
+    "author": "Śālikanāthamiśra",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
+    "summary": "Prakaraṇa 4 of Śālikanātha's Prakaraṇapañcikā, a topical chapter in the Prābhākara exposition of the sources of valid knowledge (pramāṇas) and the interpretation of Vedic injunction (vidhi) as the core of dharma and the meaning of scripture.",
+    "history": "Part of the leading independent treatise of the Prābhākara branch of Mīmāṃsā, composed by Śālikanāthamiśra, the school's foremost expositor.",
+    "related_works": ["Prakaraṇapañcikā: Prakaraṇa 1", "Bṛhatī", "Ṛjuvimalā", "Śābarabhāṣya", "Mīmāṃsāsūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prabh%C4%81kara",
+      "https://www.wisdomlib.org/hinduism/essay/tattvabindu-of-vachaspati-mishra-study/d/doc1502601.html"
+    ]
+  },
+  {
+    "work_id": "GSP28prakp05u",
+    "title": "Prakaraṇapañcikā: Prakaraṇa 5",
+    "author": "Śālikanāthamiśra",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
+    "summary": "Prakaraṇa 5 of the Prakaraṇapañcikā, continuing Śālikanātha's systematic treatment of Prābhākara Mīmāṃsā epistemology and the analysis of cognition, error, and the validity of knowledge.",
+    "history": "A chapter of Śālikanāthamiśra's Prakaraṇapañcikā, the chief extant systematic work of the Prābhākara school.",
+    "related_works": ["Prakaraṇapañcikā: Prakaraṇa 1", "Bṛhatī", "Ṛjuvimalā", "Śābarabhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prabh%C4%81kara",
+      "https://www.wisdomlib.org/hinduism/essay/tattvabindu-of-vachaspati-mishra-study/d/doc1502601.html"
+    ]
+  },
+  {
+    "work_id": "GSP28prakp06u",
+    "title": "Prakaraṇapañcikā: Prakaraṇa 6",
+    "author": "Śālikanāthamiśra",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
+    "summary": "Prakaraṇa 6 of Śālikanātha's Prakaraṇapañcikā, a topical section in the Prābhākara exposition dealing with the means of knowledge and the school's distinctive theories of cognition, self-awareness, and the object of valid knowing.",
+    "history": "Part of the foundational Prābhākara treatise by Śālikanāthamiśra, preserved in standard Sanskrit editions of the work.",
+    "related_works": ["Prakaraṇapañcikā: Prakaraṇa 1", "Bṛhatī", "Ṛjuvimalā", "Śābarabhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prabh%C4%81kara",
+      "https://www.wisdomlib.org/hinduism/essay/tattvabindu-of-vachaspati-mishra-study/d/doc1502601.html"
+    ]
+  },
+  {
+    "work_id": "GSP28prakp07u",
+    "title": "Prakaraṇapañcikā: Prakaraṇa 7",
+    "author": "Śālikanāthamiśra",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
+    "summary": "Prakaraṇa 7 of the Prakaraṇapañcikā, advancing Śālikanātha's exposition of Prābhākara Mīmāṃsā, including its analysis of verbal cognition and the relation between word, meaning, and sentence-sense.",
+    "history": "A constituent chapter of Śālikanāthamiśra's Prakaraṇapañcikā, the principal systematic source for the Guru-mata (Prābhākara) school.",
+    "related_works": ["Prakaraṇapañcikā: Prakaraṇa 1", "Bṛhatī", "Ṛjuvimalā", "Śābarabhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prabh%C4%81kara",
+      "https://link.springer.com/article/10.1007/s10781-019-09394-1"
+    ]
+  },
+  {
+    "work_id": "GSP28prakp08u",
+    "title": "Prakaraṇapañcikā: Prakaraṇa 8",
+    "author": "Śālikanāthamiśra",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
+    "summary": "Prakaraṇa 8 of Śālikanātha's Prakaraṇapañcikā, treating a further topic in Prābhākara Mīmāṃsā semantics and ritual hermeneutics, notably the analysis of the meaning of sentences and injunctions.",
+    "history": "Part of the chief independent treatise of the Prābhākara school by Śālikanāthamiśra.",
+    "related_works": ["Prakaraṇapañcikā: Prakaraṇa 1", "Bṛhatī", "Ṛjuvimalā", "Śābarabhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prabh%C4%81kara",
+      "https://link.springer.com/article/10.1007/s10781-019-09394-1"
+    ]
+  },
+  {
+    "work_id": "GSP28prakp09u",
+    "title": "Prakaraṇapañcikā: Prakaraṇa 9",
+    "author": "Śālikanāthamiśra",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
+    "summary": "Prakaraṇa 9 of the Prakaraṇapañcikā, including the celebrated Vākyārthamātṛkā in which Śālikanātha develops the Prābhākara doctrine of anvitābhidhāna, the theory that words signify only as already syntactically related within a sentence and that sentence-meaning is grasped through injunctive force.",
+    "history": "One of the most studied portions of Śālikanāthamiśra's treatise, central to modern scholarship on Prābhākara theories of meaning.",
+    "related_works": ["Prakaraṇapañcikā: Prakaraṇa 1", "Bṛhatī", "Ṛjuvimalā", "Śābarabhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://link.springer.com/article/10.1007/s10781-019-09394-1",
+      "https://en.wikipedia.org/wiki/Prabh%C4%81kara"
+    ]
+  },
+  {
+    "work_id": "GSP28prakp10u",
+    "title": "Prakaraṇapañcikā: Prakaraṇa 10",
+    "author": "Śālikanāthamiśra",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
+    "summary": "Prakaraṇa 10 of Śālikanātha's Prakaraṇapañcikā, a topical chapter continuing the Prābhākara exposition of Vedic injunction (vidhi), the nature of dharma, and the exegetical structure of ritual prescription.",
+    "history": "A chapter of the principal systematic Prābhākara treatise composed by Śālikanāthamiśra.",
+    "related_works": ["Prakaraṇapañcikā: Prakaraṇa 1", "Bṛhatī", "Ṛjuvimalā", "Śābarabhāṣya", "Mīmāṃsāsūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prabh%C4%81kara",
+      "https://www.wisdomlib.org/hinduism/essay/tattvabindu-of-vachaspati-mishra-study/d/doc1502601.html"
+    ]
+  },
+  {
+    "work_id": "GSP28prakp11u",
+    "title": "Prakaraṇapañcikā: Prakaraṇa 11, Paricchedas 1 & 2",
+    "author": "Śālikanāthamiśra",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
+    "summary": "The first two sections (paricchedas) of Prakaraṇa 11 of the Prakaraṇapañcikā, continuing Śālikanātha's detailed treatment of Prābhākara Mīmāṃsā categories, including the analysis of injunction, the agent's entitlement (adhikāra), and the unseen ritual potency (apūrva).",
+    "history": "Part of Śālikanāthamiśra's Prakaraṇapañcikā, the chief surviving compendium of Prābhākara doctrine; the work's later prakaraṇas are subdivided into paricchedas.",
+    "related_works": ["Prakaraṇapañcikā: Prakaraṇa 1", "Bṛhatī", "Ṛjuvimalā", "Śābarabhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prabh%C4%81kara",
+      "https://www.wisdomlib.org/hinduism/essay/tattvabindu-of-vachaspati-mishra-study/d/doc1502601.html"
+    ]
+  },
+  {
+    "work_id": "GSP28prakp12u",
+    "title": "Prakaraṇapañcikā: Prakaraṇa 12",
+    "author": "Śālikanāthamiśra",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
+    "summary": "Prakaraṇa 12 of the Prakaraṇapañcikā, a topical chapter in Śālikanātha's exposition of Prābhākara Mīmāṃsā, dealing with further aspects of ritual exegesis and the interpretation of Vedic commands.",
+    "history": "A chapter of Śālikanāthamiśra's foundational Prābhākara treatise, transmitted in printed Sanskrit editions of the work.",
+    "related_works": ["Prakaraṇapañcikā: Prakaraṇa 1", "Bṛhatī", "Ṛjuvimalā", "Śābarabhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prabh%C4%81kara",
+      "https://www.wisdomlib.org/hinduism/essay/tattvabindu-of-vachaspati-mishra-study/d/doc1502601.html"
+    ]
+  },
+  {
+    "work_id": "GSP28prakp13u",
+    "title": "Prakaraṇapañcikā: Prakaraṇa 13, Paricchedas 1 & 2",
+    "author": "Śālikanāthamiśra",
+    "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
+    "summary": "The first two sections (paricchedas) of Prakaraṇa 13 of Śālikanātha's Prakaraṇapañcikā, among the concluding chapters of the work, continuing the Prābhākara treatment of ritual hermeneutics, the structure of subsidiary and principal acts, and the application of Mīmāṃsā interpretive principles.",
+    "history": "Part of the principal independent treatise of the Prābhākara school by Śālikanāthamiśra; the work comprises a series of prakaraṇas (traditionally counted around fourteen), with later chapters divided into paricchedas.",
+    "related_works": ["Prakaraṇapañcikā: Prakaraṇa 1", "Bṛhatī", "Ṛjuvimalā", "Śābarabhāṣya", "Mīmāṃsāsūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prabh%C4%81kara",
+      "https://www.wisdomlib.org/hinduism/essay/tattvabindu-of-vachaspati-mishra-study/d/doc1502601.html"
+    ]
+  }
+]

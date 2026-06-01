@@ -1,0 +1,321 @@
+[
+  {
+    "work_id": "M00361",
+    "title": "Nāṭyaśāstra, Vol. 2",
+    "author": "attributed to Bharata Muni (anonymous/composite)",
+    "tradition": "Hindu (secular/scientific śāstra; dramaturgy, aesthetics, music)",
+    "genre": "śāstra (technical treatise on drama, dance, music and poetics)",
+    "date_estimate": "core c. 200 BCE - 200 CE (composite, with later accretions); estimates range 500 BCE - 500 CE",
+    "summary": "The Nāṭyaśāstra is the foundational Sanskrit treatise on the performing arts, covering drama (nāṭya), acting (abhinaya), dance, music, prosody, stagecraft, and the theory of aesthetic experience (rasa and bhāva). 'Vol. 2' is a volume of a multi-volume printed edition (most likely the Gaekwad's Oriental Series edition with Abhinavagupta's Abhinavabhāratī commentary), covering a middle block of the text's roughly 36-37 chapters (in that edition Vol. II corresponds approximately to chapters 8-18, dealing with gesture, bodily acting, and dramatic representation).",
+    "history": "Traditionally ascribed to the mythical sage Bharata, the work is in fact anonymous and composite, expanded over centuries. It became the authoritative source for all later Indian poetics and performance theory; its most celebrated commentary is the Abhinavabhāratī of Abhinavagupta (c. 1000 CE), and the standard critical edition is the four-volume Gaekwad's Oriental Series edition (vols. 36, 68, 124, 145).",
+    "related_works": ["Nāṭyaśāstra", "Abhinavabhāratī (commentary by Abhinavagupta)", "Nāṭyaśāstra Vol. 3"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Natya_Shastra",
+      "https://www.britannica.com/topic/Natyashastra",
+      "https://search.library.wisc.edu/catalog/9910019508002121"
+    ]
+  },
+  {
+    "work_id": "M00362",
+    "title": "Nāṭyaśāstra, Vol. 3",
+    "author": "attributed to Bharata Muni (anonymous/composite)",
+    "tradition": "Hindu (secular/scientific śāstra; dramaturgy, aesthetics, music)",
+    "genre": "śāstra (technical treatise on drama, dance, music and poetics)",
+    "date_estimate": "core c. 200 BCE - 200 CE (composite, with later accretions); estimates range 500 BCE - 500 CE",
+    "summary": "The Nāṭyaśāstra is the foundational Sanskrit treatise on theatre, dance, music and poetics, expounding the theory of rasa and the practical conventions of Sanskrit drama. 'Vol. 3' is a further volume of a multi-volume printed edition (most plausibly the Gaekwad's Oriental Series edition with the Abhinavabhāratī commentary), covering later chapters that treat such topics as music (svara, tāla, instruments), language, metre, the parts and types of drama, and stage construction.",
+    "history": "An anonymous composite work conventionally attributed to Bharata, it is the single most influential text in the Indian aesthetic tradition. Its transmission is complex, with a 'longer' and 'shorter' recension; the critical Gaekwad's Oriental Series edition incorporates Abhinavagupta's tenth-century Abhinavabhāratī commentary across its four volumes.",
+    "related_works": ["Nāṭyaśāstra", "Abhinavabhāratī (commentary by Abhinavagupta)", "Nāṭyaśāstra Vol. 2"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Natya_Shastra",
+      "https://www.britannica.com/topic/Natyashastra",
+      "https://search.library.wisc.edu/catalog/9910019508002121"
+    ]
+  },
+  {
+    "work_id": "M00363",
+    "title": "Āryamañjuśrīmūlakalpa, Part 1",
+    "author": "anonymous (Mahāyāna/Mantrayāna compilation)",
+    "tradition": "Buddhist (Mahāyāna; early Mantrayāna / Kriyā-tantra)",
+    "genre": "tantra / kalpa (esoteric ritual manual, also classed as a Mahāyāna sūtra)",
+    "date_estimate": "core c. 6th c. CE with accretions; often dated as a whole to c. 8th c. CE (c. 775 CE per Matsunaga/Sanderson)",
+    "summary": "The Āryamañjuśrīmūlakalpa ('Root Ordinance/Manual of the Rites of the Noble Mañjuśrī') is a large esoteric Buddhist compendium centred on the bodhisattva Mañjuśrī, embodiment of wisdom. It prescribes maṇḍalas, mantras, mudrās, image-making, fire rites, and astrological and apotropaic rituals, and famously includes a long quasi-historical 'prophetic' chapter (rājavyākaraṇa) listing Indian kings. 'Part 1' is the first of the three volumes of T. Ganapati Sastri's Trivandrum Sanskrit Series edition.",
+    "history": "Often cited as the earliest surviving Indian Buddhist tantra, it is an anonymous, composite text whose core may be sixth-century with substantial later additions; the whole is frequently dated to the later eighth century. Its 'historical' chapter has been mined (controversially) by historians for the chronology of the Guptas and other dynasties. The standard edition is the three-part Trivandrum Sanskrit Series text edited by T. Ganapati Sastri (1920-1925).",
+    "related_works": ["Āryamañjuśrīmūlakalpa Part 2", "Āryamañjuśrīmūlakalpa Part 3"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ma%C3%B1ju%C5%9Br%C4%AB-m%C5%ABla-kalpa",
+      "https://84000.co/translation/toh543"
+    ]
+  },
+  {
+    "work_id": "M00364",
+    "title": "Āryamañjuśrīmūlakalpa, Part 2",
+    "author": "anonymous (Mahāyāna/Mantrayāna compilation)",
+    "tradition": "Buddhist (Mahāyāna; early Mantrayāna / Kriyā-tantra)",
+    "genre": "tantra / kalpa (esoteric ritual manual, also classed as a Mahāyāna sūtra)",
+    "date_estimate": "core c. 6th c. CE with accretions; often dated as a whole to c. 8th c. CE (c. 775 CE per Matsunaga/Sanderson)",
+    "summary": "Second volume of the Āryamañjuśrīmūlakalpa, the foundational Buddhist esoteric manual of the rites of Mañjuśrī. This part continues the text's ritual and doctrinal exposition: mantra-recitation procedures (mantroddhāra), maṇḍala worship, homa (fire offerings), divination, and the mixing of Mahāyāna ethics and philosophy with Mantrayāna practice. The division into 'Part 2' reflects the volumes of T. Ganapati Sastri's Trivandrum Sanskrit Series edition, not separate works.",
+    "history": "Part of a single anonymous composite tantra, generally regarded as among the earliest extant Indian Buddhist tantras. The text uniquely glosses its rituals with general Buddhist doctrine. Edited in three parts in the Trivandrum Sanskrit Series by T. Ganapati Sastri.",
+    "related_works": ["Āryamañjuśrīmūlakalpa Part 1", "Āryamañjuśrīmūlakalpa Part 3"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ma%C3%B1ju%C5%9Br%C4%AB-m%C5%ABla-kalpa",
+      "https://84000.co/translation/toh543"
+    ]
+  },
+  {
+    "work_id": "M00365",
+    "title": "Āryamañjuśrīmūlakalpa, Part 3",
+    "author": "anonymous (Mahāyāna/Mantrayāna compilation)",
+    "tradition": "Buddhist (Mahāyāna; early Mantrayāna / Kriyā-tantra)",
+    "genre": "tantra / kalpa (esoteric ritual manual, also classed as a Mahāyāna sūtra)",
+    "date_estimate": "core c. 6th c. CE with accretions; often dated as a whole to c. 8th c. CE (c. 775 CE per Matsunaga/Sanderson)",
+    "summary": "Third and final volume of the Āryamañjuśrīmūlakalpa, completing the great esoteric manual of Mañjuśrī's rites. This part contains the concluding chapters (paṭalas), including astrological, prognosticatory and the celebrated 'prophetic' (rājavyākaraṇa) material listing rulers, alongside further mantra and ritual prescriptions. The 'Part 3' designation again reflects T. Ganapati Sastri's three-volume Trivandrum Sanskrit Series edition.",
+    "history": "Concludes the anonymous composite text widely treated as the earliest extant Indian Buddhist tantra; its dynastic 'prophecies' have been heavily used and debated by historians of early-medieval India. Edited as the third part of the Trivandrum Sanskrit Series edition by T. Ganapati Sastri.",
+    "related_works": ["Āryamañjuśrīmūlakalpa Part 1", "Āryamañjuśrīmūlakalpa Part 2"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ma%C3%B1ju%C5%9Br%C4%AB-m%C5%ABla-kalpa",
+      "https://84000.co/translation/toh543"
+    ]
+  },
+  {
+    "work_id": "M00366",
+    "title": "Tantrābhidhāna",
+    "author": "anonymous/traditional (title also used for a modern reference lexicon)",
+    "tradition": "Hindu (Śākta/Tantric)",
+    "genre": "abhidhāna (lexicon / glossary of technical Tantric terms and seed-syllables)",
+    "date_estimate": "uncertain; traditional Tantric nighaṇṭu material is medieval (later 1st - early 2nd millennium CE)",
+    "summary": "Tantrābhidhāna ('Tantric Lexicon') denotes a glossary of the coded technical vocabulary of the Tantras, especially the bīja (seed-syllable) and mudrā nomenclatures used to conceal mantras from the uninitiated (e.g. a Bījanighaṇṭu and Mudrānighaṇṭu). Such works explain the secret 'code-names' for letters, deities, ritual substances and gestures. The title is also borne by a modern scholarly Tantric encyclopaedia/lexicon by N. N. Bhattacharyya (Manohar, 2002).",
+    "history": "Tantric lexica (nighaṇṭu/abhidhāna) circulated as appendices and aids within the wider Tantric corpus and were edited in the Tantric Texts series. Because 'Tantrābhidhāna' is a generic title attached both to traditional bīja/mudrā glossaries and to a 20th-century reference work, the precise text intended here cannot be fixed with certainty.",
+    "related_works": ["Bījanighaṇṭu", "Mudrānighaṇṭu"],
+    "confidence": "low",
+    "sources": [
+      "https://www.exoticindiaart.com/book/details/tantrabhidhana-tantric-lexicon-idc924/",
+      "https://www.sanskritebooks.org/2014/04/tantric-texts-series-edited-by-arthur-avalon-john-woodroffe/"
+    ]
+  },
+  {
+    "work_id": "M00400",
+    "title": "Kāmyakarmakamalā (by Prāṇamañjarī)",
+    "author": "Prāṇamañjarī (as given in the metadata; possibly a name/colophon attribution)",
+    "tradition": "Hindu (Tantric/Śākta or ritual)",
+    "genre": "paddhati/vidhi (manual of optional/desire-driven ritual acts, kāmya-karman)",
+    "date_estimate": "unknown (likely medieval or early-modern Tantric ritual manual)",
+    "summary": "The title Kāmyakarmakamalā ('Lotus of Desire-Prompted Rites') indicates a ritual manual dealing with kāmya-karman, i.e. optional rites performed to obtain specific worldly aims (prosperity, protection, subjugation, success). 'Prāṇamañjarī' is given as the author/source, though it may be a textual name or colophon designation rather than a securely attested historical author. No standard scholarly edition or study was located.",
+    "history": "Could not be confidently identified in indological literature; the work appears to be a relatively obscure ritual paddhati known mainly from manuscripts. The attribution to 'Prāṇamañjarī' and the precise tradition (Vaidika or Tāntrika) remain unverified.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mahadana"
+    ]
+  },
+  {
+    "work_id": "M00402",
+    "title": "Kulacūḍāmaṇi Nigama",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śākta Tantra; Kaula)",
+    "genre": "tantra (nigama, with the Goddess as teacher)",
+    "date_estimate": "uncertain; commonly placed in the medieval period (1st - early 2nd millennium CE)",
+    "summary": "The Kulacūḍāmaṇi Tantra is a short Kaula/Śākta scripture that, unusually, takes the form of a nigama: instead of the goddess questioning Śiva, here Śiva (Bhairava) questions and the Goddess (Bhairavī) expounds. In seven brief but vivid chapters she reveals the essence of her worship (kulācāra), the cult of the goddess Mahiṣamardinī/Kālī, and secret left-hand practices aimed at siddhi.",
+    "history": "A core Kaula text whose secret doctrine was said to be transmitted orally and veiled in technical 'code' language intelligible only through a guru. It was edited and published in the Tantric Texts series associated with Arthur Avalon (John Woodroffe), which brought it to wider scholarly attention.",
+    "related_works": ["Kulārṇava Tantra", "Tantric Texts series (ed. Arthur Avalon)"],
+    "confidence": "medium",
+    "sources": [
+      "https://shivashakti.com/kulachu",
+      "https://www.wisdomlib.org/definition/kulacudamani"
+    ]
+  },
+  {
+    "work_id": "M00407",
+    "title": "Mahālakṣmīpūjāvidhiḥ",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śākta; Tantric/Smārta ritual)",
+    "genre": "pūjāvidhi (manual of worship procedure)",
+    "date_estimate": "unknown (ritual paddhati, likely medieval to early-modern)",
+    "summary": "A 'procedure for the worship of Mahālakṣmī' (Mahālakṣmīpūjāvidhi) is a liturgical manual setting out the step-by-step ritual for worshipping the great goddess Mahālakṣmī: invocation (āvāhana), seat (āsana), offerings (upacāra), mantras, and concluding rites. Such vidhi texts are practical priestly handbooks rather than independent scriptures.",
+    "history": "A generic ritual-manual title shared by many manuscripts and printed pūjā-pamphlets; no single author or critical edition could be identified. In a Nepalese/Newar context such Lakṣmī worship manuals overlap with the Śākta cult and may be related to the regional Siddhilakṣmī/Mahālakṣmī traditions.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/siddhalakshmi"
+    ]
+  },
+  {
+    "work_id": "M00408",
+    "title": "Mahādānavidhiḥ",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Dharmaśāstra / Purāṇic ritual)",
+    "genre": "vidhi (manual of ritual procedure; dāna/dharmaśāstra)",
+    "date_estimate": "unknown; underlying mahādāna tradition is Purāṇic (mid-1st millennium CE onward)",
+    "summary": "Mahādānavidhi ('procedure of the great gifts') is a ritual manual prescribing the performance of the ṣoḍaśa-mahādāna, the sixteen 'great gifts' such as the tulāpuruṣa (gifting one's weight in gold) and hiraṇyagarbha (golden-womb rebirth donation). These elaborate, costly royal/elite donations are described in the Purāṇas (notably the Matsya and Agni Purāṇas) and conferred religious merit and legitimacy.",
+    "history": "The sixteen great gifts are attested in inscriptions from about the 8th century CE and in earlier Purāṇic and Atharvaveda-pariśiṣṭa material; numerous nibandha/vidhi compilations codify their performance. The specific Mahādānavidhi here is a generic procedural digest and could not be tied to a single named author or edition.",
+    "related_works": ["Matsya Purāṇa (mahādāna sections)", "Agni Purāṇa (mahādāna chapters)", "Dānasāgara / dāna-nibandhas"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sixteen_great_gifts",
+      "https://www.wisdomlib.org/hinduism/book/the-agni-purana/d/doc1083439.html"
+    ]
+  },
+  {
+    "work_id": "M00410",
+    "title": "Kālāgniyajñavidhi",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śaiva/Śākta Tantric ritual)",
+    "genre": "yajñavidhi (manual of a fire-sacrifice/ritual procedure)",
+    "date_estimate": "unknown (Tantric/ritual manual, likely medieval to early-modern)",
+    "summary": "Kālāgniyajñavidhi denotes a manual for a 'Kālāgni' sacrifice/ritual. Kālāgni ('fire of time/world-destruction', associated with Kālāgnirudra/Kālāgni-Bhairava) is a fierce Śaiva form; the vidhi would prescribe the homa, mantras and offerings for propitiating this deity, typically for protective or apotropaic ends. The text is a procedural liturgy rather than an independent scripture.",
+    "history": "Could not be matched to a specific edited work or named author; it appears to be a regional/manuscript ritual manual within the broader Śaiva-Śākta fire-rite (homa) literature.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mrityunjaya"
+    ]
+  },
+  {
+    "work_id": "M00411",
+    "title": "Kalaśārcanavidhi of Siddhalakṣmīdevī",
+    "author": "anonymous/traditional (Newar Sarvāmnāya milieu; some such manuals copied/composed under Malla royal patronage)",
+    "tradition": "Hindu (Śākta Tantra; Nepalese/Newar Sarvāmnāya, Kālīkrama)",
+    "genre": "arcanavidhi / paddhati (manual of vase-worship procedure)",
+    "date_estimate": "manuscript tradition flourishing in the Malla period, esp. 17th-18th c. CE",
+    "summary": "A 'procedure for the worship of the water-vase (kalaśa) of the goddess Siddhalakṣmī/Siddhilakṣmī'. Siddhilakṣmī is a fierce Kālī-form goddess (revealed in the Jayadrathayāmala) who in Nepal is publicly worshipped aniconically in a water-vase; this vidhi prescribes the consecration and worship of that kalaśa with mantras, yantra and offerings. It belongs to the esoteric Sanskritic ritual layer of her Newar cult.",
+    "history": "Part of the rich Nepalese Sarvāmnāya/Krama liturgical literature surrounding Siddhilakṣmī, the patron goddess of Malla kings and clan deity of many Newar families. Numerous such paddhatis survive in Nepalese archives; the 17th-18th-century Bhaktapur kings (e.g. Jitāmitramalla) actively composed and copied Siddhilakṣmī liturgies.",
+    "related_works": ["Jayadrathayāmala", "Siddhilakṣmīmantrayantroddhārastotra", "other Siddhilakṣmī/Siddhilakṣmīdevī ritual manuals"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.vimarshafoundation.org/post/siddhilak%E1%B9%A3m%C4%AB-and-nepalese-sarv%C4%81mn%C4%81ya-tantra",
+      "https://academic.oup.com/jhs/article/17/2/200/7637469",
+      "https://link.springer.com/article/10.1007/s11407-006-9002-8"
+    ]
+  },
+  {
+    "work_id": "M00412",
+    "title": "Madhyapīṭhapūjāvidhi",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śākta/Śaiva Tantric ritual; plausibly Nepalese/Newar)",
+    "genre": "pūjāvidhi / paddhati (worship-procedure manual)",
+    "date_estimate": "unknown (Tantric ritual manual; if Newar, Malla period 16th-18th c. CE)",
+    "summary": "Madhyapīṭhapūjāvidhi ('procedure for the worship of the central seat/pīṭha') is a ritual manual for the worship of the madhyapīṭha, the central 'seat' of a deity within a yantra or maṇḍala (the focal point where the principal goddess/deity is installed). It would prescribe the installation and worship of the central deity together with the surrounding āvaraṇa (retinue) deities.",
+    "history": "A specialized procedural manual that could not be tied to a single named author or edition; the 'pīṭha' framework and the company it keeps in this batch suggest a Śākta Tantric, likely Nepalese, ritual context.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.vimarshafoundation.org/post/siddhilak%E1%B9%A3m%C4%AB-and-nepalese-sarv%C4%81mn%C4%81ya-tantra"
+    ]
+  },
+  {
+    "work_id": "M00413",
+    "title": "Mṛtyuñjayakalpa",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śaiva Tantra; cult of Amṛteśa/Mṛtyuñjaya)",
+    "genre": "kalpa (ritual prescription manual)",
+    "date_estimate": "unknown; cult of Amṛteśa-Mṛtyuñjaya is attested from c. 9th c. CE (Netratantra) onward",
+    "summary": "Mṛtyuñjayakalpa is a ritual manual centred on Mṛtyuñjaya ('Conqueror of Death'), i.e. Amṛteśvara/Amṛteśa-Bhairava, the formless Śaiva deity who bestows health, longevity and freedom from untimely death. It would set out the mantra (the Mahāmṛtyuñjaya mantra), japa, homa and meditative procedures for averting illness and death, in the manner of the Netratantra's amṛtīkaraṇa rites.",
+    "history": "Belongs to the broad Śaiva literature on the conquest of death organized around Amṛteśa/Mṛtyuñjaya, whose locus classicus is the ninth-century Netratantra. The specific Mṛtyuñjayakalpa here is a kalpa-type extract or manual that could not be matched to a single critical edition or named author.",
+    "related_works": ["Netratantra (Amṛteśa)", "Mahāmṛtyuñjaya Mantra"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mrityunjaya",
+      "https://saktatraditions.org/netratantra/"
+    ]
+  },
+  {
+    "work_id": "M00414",
+    "title": "Pheṭakapratiṣṭhācaṇḍikāgnividhi",
+    "author": "anonymous/traditional (Nepalese/Newar ritual milieu)",
+    "tradition": "Hindu (Śākta Tantra; plausibly Nepalese/Newar)",
+    "genre": "pratiṣṭhā- / agnividhi (manual of installation and fire-rite procedure)",
+    "date_estimate": "unknown (Tantric installation/fire-ritual manual; if Newar, likely Malla period)",
+    "summary": "A composite ritual manual combining a pratiṣṭhā (consecration/installation) rite with a Caṇḍikā fire-ritual (caṇḍikāgnividhi), apparently concerning a 'pheṭaka' (a ritual object/vessel or possibly relating to the fierce 'pheṭkāriṇī' goddess). It would prescribe the installation/consecration of the deity or object and the accompanying homa to the fierce goddess Caṇḍikā, with mantras and offerings.",
+    "history": "A highly specialized procedural text that could not be located in scholarly editions; its terminology (pratiṣṭhā, Caṇḍikā, agni-vidhi) places it within Śākta Tantric installation-and-fire ritual, most plausibly in the Nepalese/Newar manuscript tradition that produced many such hybrid liturgies.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/shaiva-tantra-a-way-of-self-awareness/d/doc1460192.html"
+    ]
+  },
+  {
+    "work_id": "M00415",
+    "title": "Siddhilakṣmī Ārāmika",
+    "author": "anonymous/traditional (Newar Sarvāmnāya milieu)",
+    "tradition": "Hindu (Śākta Tantra; Nepalese/Newar Sarvāmnāya, Kālīkrama)",
+    "genre": "ritual/liturgical text (paddhati) of the Siddhilakṣmī cult",
+    "date_estimate": "Malla-period Newar tradition, esp. 17th-18th c. CE",
+    "summary": "A liturgical/ritual text belonging to the Nepalese cult of the goddess Siddhilakṣmī, the fierce Kālī-form (riding Bhairava, of Kāpālika character) worshipped as patron deity of the Malla kings and clan deity of Newar families. The qualifier 'ārāmika' (lit. relating to a garden/grove or attendant) is obscure; the work is one of the many Siddhilakṣmī ritual manuals preserved in Nepalese archives.",
+    "history": "Part of the esoteric Sanskritic ritual corpus of Siddhilakṣmī within the Nepalese Sarvāmnāya/Krama tradition, which preserves the most secret aspects of her cult (mantroddhāra and yantroddhāra). The exact content and the sense of 'ārāmika' could not be confirmed from accessible scholarship.",
+    "related_works": ["Jayadrathayāmala", "other Siddhilakṣmī ritual manuals"],
+    "confidence": "low",
+    "sources": [
+      "https://www.vimarshafoundation.org/post/siddhilak%E1%B9%A3m%C4%AB-and-nepalese-sarv%C4%81mn%C4%81ya-tantra",
+      "https://www.wisdomlib.org/definition/siddhilakshmi"
+    ]
+  },
+  {
+    "work_id": "M00416",
+    "title": "Siddhilakṣmīdevyārcana",
+    "author": "anonymous/traditional (Newar Sarvāmnāya milieu)",
+    "tradition": "Hindu (Śākta Tantra; Nepalese/Newar Sarvāmnāya, Kālīkrama)",
+    "genre": "arcana / pūjā-paddhati (manual of worship of a deity)",
+    "date_estimate": "Malla-period Newar tradition, esp. 17th-18th c. CE",
+    "summary": "Siddhilakṣmīdevyārcana ('worship of the goddess Siddhilakṣmī') is a ritual manual prescribing the arcana (worship) of the fierce Newar goddess Siddhilakṣmī/Siddhalakṣmī, a Kālī-form revealed in the Jayadrathayāmala. It would detail her visualization (riding Bhairava), mantras, yantra, offerings and the sequence of her worship within the esoteric Sarvāmnāya/Krama framework.",
+    "history": "One of numerous Siddhilakṣmī liturgical paddhatis preserved in Nepal, reflecting the goddess's central place in Malla royal religion and Newar kinship; the 17th-18th centuries saw intense royal patronage (temples in Bhaktapur and Kathmandu, royal compositions). No single named author or critical edition was identified for this particular arcana.",
+    "related_works": ["Jayadrathayāmala", "Siddhilakṣmīmantrayantroddhārastotra", "other Siddhilakṣmī ritual manuals"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.vimarshafoundation.org/post/siddhilak%E1%B9%A3m%C4%AB-and-nepalese-sarv%C4%81mn%C4%81ya-tantra",
+      "https://academic.oup.com/jhs/article/17/2/200/7637469"
+    ]
+  },
+  {
+    "work_id": "M00417",
+    "title": "Siddhilakṣmīkoṭyāhutidinakṛtya",
+    "author": "anonymous/traditional (Newar Sarvāmnāya milieu)",
+    "tradition": "Hindu (Śākta Tantra; Nepalese/Newar Sarvāmnāya, Kālīkrama)",
+    "genre": "vidhi / dinakṛtya (manual of daily/sequential ritual procedure)",
+    "date_estimate": "Malla-period Newar tradition, esp. 17th-18th c. CE",
+    "summary": "A manual setting out the day-by-day procedure (dinakṛtya) for a koṭyāhuti, a 'ten-million-oblation' fire sacrifice, dedicated to the goddess Siddhilakṣmī. It would prescribe the schedule, mantras and offerings for this large-scale homa performed over multiple days to propitiate the fierce goddess for great ends (protection, prosperity, royal welfare).",
+    "history": "Belongs to the Nepalese Siddhilakṣmī ritual corpus associated with Malla royal cult; large koṭi-homa rites were elite/royal undertakings. The specific text could not be matched to a named author or scholarly edition, but its terminology firmly locates it in the Newar Śākta tradition.",
+    "related_works": ["Jayadrathayāmala", "other Siddhilakṣmī ritual manuals"],
+    "confidence": "low",
+    "sources": [
+      "https://www.vimarshafoundation.org/post/siddhilak%E1%B9%A3m%C4%AB-and-nepalese-sarv%C4%81mn%C4%81ya-tantra",
+      "https://academic.oup.com/jhs/article/17/2/200/7637469"
+    ]
+  },
+  {
+    "work_id": "M00418",
+    "title": "Siddhilakṣmī-akṣaramālāmantra (siddhilakṣmīkyutākṣaramālāmantra)",
+    "author": "anonymous/traditional (Newar Sarvāmnāya milieu)",
+    "tradition": "Hindu (Śākta Tantra; Nepalese/Newar Sarvāmnāya, Kālīkrama)",
+    "genre": "mantra text (akṣaramālā / mālāmantra of a deity)",
+    "date_estimate": "Malla-period Newar tradition, esp. 17th-18th c. CE",
+    "summary": "An akṣaramālā ('garland of syllables') or mālāmantra of the goddess Siddhilakṣmī: a long 'rosary' mantra of the deity used in recitation and worship, here presented with its uddhāra (extraction/spelling-out of the syllables). The garbled element 'kyutā' in the transmitted title is likely a corruption (perhaps for an uddhāra/uddhṛta form). It belongs to the mantra-literature of the Newar Siddhilakṣmī cult.",
+    "history": "Mantra-garland and mantroddhāra texts were central to Siddhilakṣmī practice, by which practitioners demonstrated expertise; King Jitāmitramalla of Bhaktapur himself composed a Siddhilakṣmīmantrayantroddhārastotra. The exact text and its corrupt title could not be precisely fixed, but it clearly belongs to this Newar Śākta corpus.",
+    "related_works": ["Siddhilakṣmīmantrayantroddhārastotra", "other Siddhilakṣmī ritual and mantra texts"],
+    "confidence": "low",
+    "sources": [
+      "https://www.vimarshafoundation.org/post/siddhilak%E1%B9%A3m%C4%AB-and-nepalese-sarv%C4%81mn%C4%81ya-tantra",
+      "https://academic.oup.com/jhs/article/17/2/200/7637469"
+    ]
+  },
+  {
+    "work_id": "M00419",
+    "title": "Ucchiṣṭacāṇḍālinīkalpa",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Śākta Tantra; Mahāvidyā cult of Mātaṅgī)",
+    "genre": "kalpa (ritual prescription manual)",
+    "date_estimate": "unknown (Tantric ritual manual, medieval to early-modern)",
+    "summary": "Ucchiṣṭacāṇḍālinīkalpa is a ritual manual for the fierce goddess Ucchiṣṭa-Cāṇḍālinī, the outcaste 'leftover-food' form of Mātaṅgī, one of the ten Mahāvidyās and the Tantric counterpart of Sarasvatī (governing speech, music and learning). It prescribes her mantras, visualization and worship, the latter deliberately employing impure substances (ucchiṣṭa); such practice is undertaken to gain control over enemies, attraction (vaśīkaraṇa), mastery of the arts, and esoteric knowledge.",
+    "history": "Ucchiṣṭa-Cāṇḍālinī/Mātaṅgī worship, with its transgressive use of polluted offerings, is attested in Śākta Tantric sources (including forms linked to the Kubjikā tradition as Juṣṭacaṇḍālinī). The specific kalpa here is a procedural text within this Mahāvidyā/Mātaṅgī corpus; no single named author or critical edition was identified.",
+    "related_works": ["Mātaṅgī (Mahāvidyā) ritual literature", "Kubjikāmata Tantra (Juṣṭacaṇḍālinī)"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Matangi",
+      "https://www.wisdomlib.org/definition/ucchishta",
+      "https://www.wisdomlib.org/definition/jushtacandalini"
+    ]
+  }
+]

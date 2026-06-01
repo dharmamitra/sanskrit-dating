@@ -1,0 +1,319 @@
+[
+  {
+    "work_id": "T01busto1_u",
+    "title": "Anaparāddhastotra",
+    "author": "Mātṛceṭa",
+    "tradition": "Buddhist (Mahayana/devotional)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "c. 1st-2nd c. CE (Mātṛceṭa's traditional floruit; some scholars place him 2nd-4th c. CE)",
+    "summary": "A devotional hymn in praise of the Buddha attributed to the poet Mātṛceṭa, celebrating the Buddha's flawless (an-aparāddha, 'faultless/never-erring') qualities and perfections. It belongs to the same devotional milieu as Mātṛceṭa's celebrated hymns (the Śatapañcāśatka and the Varṇārhavarṇastotra/Catuḥśataka), expressing deep faith and admiration for the Buddha's attainments in a restrained, lucid kavya style.",
+    "history": "Mātṛceṭa was one of the earliest and most admired Buddhist Sanskrit hymnodists; his hymns were sung across Buddhist schools and were studied by novices as a standard part of monastic training (as Yijing reports). The attribution and exact corpus of his shorter stotras is debated, and this title is preserved chiefly through the Tibetan canon and Sanskrit stotra collections.",
+    "related_works": ["Śatapañcāśatka (Praśastotra)", "Varṇārhavarṇastotra", "Catuḥśataka-stotra"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.accesstoinsight.org/lib/authors/dhammika/wheel360.html",
+      "https://archive.org/details/matrcetashymntob0000matr"
+    ]
+  },
+  {
+    "work_id": "T01n2888u",
+    "title": "Dvādaśakāranayastotra",
+    "author": "attributed to Nāgārjuna (traditional)",
+    "tradition": "Buddhist (Madhyamaka/Mahayana devotional)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "traditionally attributed to Nāgārjuna (c. 2nd-3rd c. CE); the hymn as transmitted is likely later (mid-1st millennium CE)",
+    "summary": "A hymn praising the Twelve Deeds (dvādaśa-kāra/dvādaśa-karman) of a Buddha — the canonical sequence of the great acts of a buddha's life, from descent from Tuṣita heaven, entering the womb, birth, mastery of arts, life in the palace, renunciation, austerities, approaching the bodhi tree, defeating Māra, awakening, turning the wheel of Dharma, and passing into parinirvāṇa. Each verse extols one deed of the Buddha's enlightened career.",
+    "history": "Traditionally ascribed to Nāgārjuna, the 'In Praise of the Twelve Deeds' (Tib. mdzad pa bcu gnyis) is widely recited in Tibetan monasteries; the attribution is conventional rather than securely established. It survives in Sanskrit stotra collections and the Tibetan canon.",
+    "related_works": ["works attributed to Nāgārjuna (Catuḥstava cycle)", "Twelve Deeds of a Buddha (doctrinal schema)"],
+    "confidence": "medium",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Dv%C4%81da%C5%9Bak%C4%81ra-n%C4%81ma-stotra",
+      "https://www.lotsawahouse.org/indian-masters/nagarjuna/praise-twelve-deeds"
+    ]
+  },
+  {
+    "work_id": "T01n2925u",
+    "title": "Dharmadhātustava",
+    "author": "attributed to Nāgārjuna (disputed)",
+    "tradition": "Buddhist (Madhyamaka / buddha-nature; Mahayana)",
+    "genre": "stotra / philosophical hymn",
+    "date_estimate": "traditionally Nāgārjuna (c. 2nd-3rd c. CE); many scholars regard it as later, c. 4th-7th c. CE",
+    "summary": "A poem 'In Praise of the Dharmadhātu' (the expanse/element of reality), describing the dharmadhātu as the ever-present, luminous ground that makes liberation possible but is temporarily obscured by adventitious afflictions. Using a series of analogies, it explains how wisdom realizing emptiness removes obscurations to reveal the radiant nature — a text central to later buddha-nature (tathāgatagarbha) interpretation.",
+    "history": "Traditionally attributed to Nāgārjuna, though its devotional/buddha-nature content has led many scholars to question the ascription and place it later than his Madhyamaka treatises. It became especially important in Tibet, where the Third Karmapa Rangjung Dorje (1284-1339) wrote its most influential commentary; Karl Brunnhölzl produced a major modern study and translation.",
+    "related_works": ["Catuḥstava (hymns attributed to Nāgārjuna)", "Mūlamadhyamakakārikā", "Uttaratantra (Ratnagotravibhāga)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dharmadhatu",
+      "https://www.shambhala.com/in-praise-of-dharmadhatu-2597.html"
+    ]
+  },
+  {
+    "work_id": "T01n2971u",
+    "title": "Bhadracaryādeśanā",
+    "author": "anonymous/traditional (canonical Mahayana)",
+    "tradition": "Buddhist (Mahayana; Avataṃsaka/Huayan)",
+    "genre": "praṇidhāna / aspiration-stotra",
+    "date_estimate": "core text c. 3rd-4th c. CE; embedded in the Gaṇḍavyūha layer of the Avataṃsaka",
+    "summary": "An aspiration text on the 'conduct of the Good One' (Bhadracarī), essentially the Bhadracaryāpraṇidhāna — the famous concluding verses of the Gaṇḍavyūha (final section of the Avataṃsaka Sūtra) presenting the bodhisattva Samantabhadra's great vows. The 'deśanā' framing emphasizes the confession/declaration of resolve: paying homage to all buddhas, confessing faults, rejoicing in merit, requesting teaching, and dedicating merit to awakening for all beings.",
+    "history": "One of the most widely recited Mahayana texts in East Asian and Tibetan/Nepalese Buddhism, transmitted both within the Gaṇḍavyūha/Avataṃsaka and as an independent liturgy. Numerous Sanskrit recensions and commentaries exist; it summarizes the bodhicitta and interpenetration (Huayan) teachings.",
+    "related_works": ["Gaṇḍavyūha", "Avataṃsaka Sūtra", "Bhadracaryāpraṇidhāna (Samantabhadra's vows)"],
+    "confidence": "medium",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Bhadracary%C4%81pra%E1%B9%87idh%C4%81na",
+      "https://ancient-buddhist-texts.net/Texts-and-Translations/Short-Pieces-in-Sanskrit/Bhadra-cari.htm"
+    ]
+  },
+  {
+    "work_id": "T01n802u",
+    "title": "Ādibuddhadvādaśakastotra",
+    "author": "attributed to Mañjuśrī/Mañjughoṣa (traditional)",
+    "tradition": "Buddhist (Vajrayana; Nepalese/Newar)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "1st millennium CE / early 2nd millennium CE (Vajrayana stratum); uncertain",
+    "summary": "A hymn of twelve verses (dvādaśaka) in praise of the Ādi-Buddha, the primordial Buddha of Vajrayana cosmology regarded as the timeless source of all buddhas and reality. It extols the Ādi-Buddha's beginningless, all-pervading nature in devotional verse.",
+    "history": "Preserved among the Sanskrit Buddhist stotras of Nepal (in the Bauddha-stotra-saṃgraha tradition) and traditionally ascribed to Mañjuśrī; the attribution is conventional and the dating uncertain. Ādi-Buddha doctrine is especially developed in the Kālacakra and later Vajrayana traditions.",
+    "related_works": ["Nepalese Bauddha-stotra-saṃgraha collection", "Ādi-Buddha / Kālacakra literature"],
+    "confidence": "low",
+    "sources": [
+      "https://www.dharmawheel.net/viewtopic.php?t=23513",
+      "https://www.exoticindiaart.com/book/details/buddha-stotra-samgraha-collection-of-buddhist-hymns-nzf293/"
+    ]
+  },
+  {
+    "work_id": "T01n804u",
+    "title": "Vikramāraccivaibhava",
+    "author": "",
+    "tradition": "Buddhist (Sanskrit; Nepalese stotra corpus, presumed)",
+    "genre": "stotra (presumed)",
+    "date_estimate": "uncertain",
+    "summary": "An obscure Sanskrit Buddhist title that could not be securely identified; the form 'vaibhava' ('majesty, glory') suggests a hymn extolling the glory/majesty of a deity or figure (possibly a corrupted or rare title). The text appears within a digital corpus of Sanskrit Buddhist stotras but no reliable scholarly description was found.",
+    "history": "No scholarly identification, author, or dating could be confirmed from available sources. The title may be corrupt or a very rare entry in the Nepalese stotra collections.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.exoticindiaart.com/book/details/buddha-stotra-samgraha-collection-of-buddhist-hymns-nzf293/"
+    ]
+  },
+  {
+    "work_id": "T01n805u",
+    "title": "Ākāśagarbhanāmāṣṭottaraśatastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "nāmāṣṭottaraśata-stotra (hymn of 108 names)",
+    "date_estimate": "1st millennium CE (uncertain)",
+    "summary": "A devotional hymn enumerating the 108 names (aṣṭottaraśata-nāma) of the bodhisattva Ākāśagarbha ('Essence/Womb of Space'), one of the eight great bodhisattvas. Such 108-name stotras list epithets capturing the bodhisattva's qualities and are recited for merit and protection.",
+    "history": "Ākāśagarbha is associated with space, purification of transgressions, and wish-granting; his cult is prominent in East Asian esoteric Buddhism. This 108-names hymn belongs to the wide genre of aṣṭottaraśatanāma-stotras preserved in Sanskrit Buddhist and Tibetan collections; specific authorship and dating are not established.",
+    "related_works": ["Ākāśagarbha Sūtra", "aṣṭottaraśatanāma-stotra genre"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/%C4%80k%C4%81%C5%9Bagarbha",
+      "https://hindupedia.com/en/A%E1%B9%A3%E1%B9%ADottara%C5%9Batan%C4%81ma-stotra"
+    ]
+  },
+  {
+    "work_id": "T01n806u",
+    "title": "Tārānamaskāraikaviṃśatistotra [Āryatārānamaskāraikaviṃśatistotra]",
+    "author": "anonymous/traditional (presented as words of the Buddha; Vairocana/Kriyātantra)",
+    "tradition": "Buddhist (Vajrayana; Tārā cult)",
+    "genre": "stotra (hymn of homage)",
+    "date_estimate": "c. 6th-8th c. CE (origin of the Tārā tantra cycle)",
+    "summary": "The famous 'Homage to Tārā in Twenty-One Verses' (Praise to the Twenty-One Tārās), a liturgy of homage and reverence to the goddess Tārā. The first twenty-one verses are simultaneously salutations to twenty-one forms of Tārā and a poetic description of her physical features, postures, colors, and protective powers; the closing verses describe the benefits of recitation.",
+    "history": "Drawn from the root Tārā tantra (Sarvatathāgatamātṛtārāviśvakarmabhava-tantra), it is by far the most popular prayer to Tārā in Tibetan Buddhism, with commentaries in all four Tibetan schools tracing to Indian oral lineages. The Sanskrit original underlies the Tibetan and is recited daily across the Vajrayana world.",
+    "related_works": ["Sarvatathāgatamātṛtārā... tantra (root Tārā tantra)", "Tārāstotra literature"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Praise_to_Tara_in_Twenty_One_Verses",
+      "https://84000.co/translation/toh438"
+    ]
+  },
+  {
+    "work_id": "T01n809u",
+    "title": "Tārāstuti [Āryatārāstuti]",
+    "author": "anonymous/traditional (several Tārā hymns; cf. Sarvajñamitra's Sragdharāstotra)",
+    "tradition": "Buddhist (Vajrayana; Tārā cult)",
+    "genre": "stuti / stotra (hymn of praise)",
+    "date_estimate": "second half of 1st millennium CE",
+    "summary": "A hymn in praise of the goddess Tārā, the great female bodhisattva and savioress invoked for protection from the eight (or more) great fears and for swift compassionate aid. Tārā-stutis enumerate her epithets, her green and white forms, and her power to rescue devotees from danger.",
+    "history": "Tārā-praise hymns form a large devotional genre in Sanskrit and Tibetan Buddhism. Among the most celebrated is the Sragdharāstotra of the Kashmiri poet Sarvajñamitra (first half of the 8th c.), traditionally said to have miraculously rescued sacrificial victims when sung. This particular Āryatārāstuti is one of several such hymns preserved in the Sanskrit Buddhist stotra corpus; its specific authorship is not securely fixed.",
+    "related_works": ["Sragdharāstotra (Sarvajñamitra)", "Tārānamaskāraikaviṃśatistotra", "Tārā tantra cycle"],
+    "confidence": "medium",
+    "sources": [
+      "https://ancient-buddhist-texts.net/Reference/Literary-History-of-Sanskrit-Buddhism/09-Strotras-Dharanis-Tantras.htm",
+      "https://archive.org/details/sragdharastotram00sarvuoft"
+    ]
+  },
+  {
+    "work_id": "T01n810u",
+    "title": "Maṅgalāṣṭaka",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Nepalese/Newar; Mahayana-Vajrayana)",
+    "genre": "stotra (auspicious benediction in eight verses)",
+    "date_estimate": "uncertain; late 1st / 2nd millennium CE",
+    "summary": "An 'eight auspicious verses' benediction (maṅgala-aṣṭaka) invoking blessings and good fortune by paying homage to the Three Jewels and to auspicious buddhas, bodhisattvas, and protective figures. Such verses are recited at the start of rituals, ceremonies, and new undertakings to remove obstacles and secure favorable conditions.",
+    "history": "Maṅgalāṣṭaka benedictions are a standard liturgical form in both Hindu and Buddhist traditions; in Newar Buddhism the Vajrācārya priests recite them at the opening of rituals. The specific text under this title is part of the Nepalese Sanskrit Buddhist stotra corpus; authorship and date are not established.",
+    "related_works": ["Newar Buddhist ritual stotra corpus", "Tibetan 'Verses of the Eight Auspicious Ones' (parallel genre)"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mangalashtaka",
+      "https://bajracharya.org/category/mantra/"
+    ]
+  },
+  {
+    "work_id": "T01n811u",
+    "title": "Aṣṭamātṛkāstotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayana; Nepalese/Newar, with shared Tantric goddess milieu)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; second half of 1st millennium CE or later",
+    "summary": "A hymn in praise of the Eight Mothers (aṣṭa-mātṛkā), a set of goddesses adapted into Tantric Buddhist (and shared with Hindu) ritual as protective and matrix deities surrounding a maṇḍala. The verses salute each of the mother-goddesses and invoke their power.",
+    "history": "The aṣṭamātṛkā cult is prominent in Newar religion, where the eight (or more) Mother goddesses guard the city/maṇḍala; this stotra reflects the Buddhist-Tantric appropriation of the Mātṛkā goddesses. Specific authorship and dating are not established; it is preserved in Nepalese Sanskrit stotra collections.",
+    "related_works": ["Mātṛkā / Saptamātṛkā literature", "Newar Vajrayana ritual corpus"],
+    "confidence": "low",
+    "sources": [
+      "https://www.exoticindiaart.com/book/details/buddha-stotra-samgraha-collection-of-buddhist-hymns-nzf293/",
+      "https://bajracharya.org/category/mantra/"
+    ]
+  },
+  {
+    "work_id": "T01n812u",
+    "title": "Avadhānastotra [Vandanāstava]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; Nepalese stotra corpus)",
+    "genre": "stotra / stava (hymn of homage)",
+    "date_estimate": "uncertain; 1st-2nd millennium CE",
+    "summary": "A hymn of homage and reverence (vandanā) to the Buddha/buddhas and bodhisattvas; the alternate title Vandanāstava ('hymn of salutation') indicates its devotional, prostration-oriented character, while 'avadhāna' suggests attentive mindfulness directed toward the objects of worship. It belongs to the standard devotional repertoire of confession, homage, and praise.",
+    "history": "Part of the Sanskrit Buddhist stotra corpus preserved in Nepal; the double title reflects manuscript variation. No secure author or date is established.",
+    "related_works": ["Nepalese Bauddha-stotra-saṃgraha collection"],
+    "confidence": "low",
+    "sources": [
+      "https://www.exoticindiaart.com/book/details/buddha-stotra-samgraha-collection-of-buddhist-hymns-nzf293/"
+    ]
+  },
+  {
+    "work_id": "T01n813u",
+    "title": "Avalokiteśvarahayagrīvadhāraṇī",
+    "author": "anonymous/traditional (canonical dhāraṇī)",
+    "tradition": "Buddhist (Vajrayana/esoteric Mahayana)",
+    "genre": "dhāraṇī (incantation/spell-text)",
+    "date_estimate": "mid-1st millennium CE (esoteric dhāraṇī stratum)",
+    "summary": "A dhāraṇī (ritual incantation) associated with Hayagrīva ('Horse-necked'), the wrathful, horse-headed manifestation of the bodhisattva Avalokiteśvara. Recited for protection, removal of obstacles, subjugation of negative forces, and the power of awakened speech, the text consists of efficacious mantric syllables framed by invocation.",
+    "history": "Hayagrīva originated as a yakṣa attendant of Avalokiteśvara in India and developed into a major wrathful protector across Tibetan, Chinese, and Japanese esoteric Buddhism, regarded as the Heruka of speech. Dhāraṇīs of this type circulated in Sanskrit and were transmitted into the East Asian and Tibetan canons; specific authorship is not applicable.",
+    "related_works": ["Avalokiteśvara dhāraṇī literature", "Hayagrīva ritual/sādhana texts"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hayagriva_(Buddhism)",
+      "https://encyclopediaofbuddhism.org/wiki/Hayagriva"
+    ]
+  },
+  {
+    "work_id": "T01n814u",
+    "title": "Avalokiteśvarāṣṭakastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "stotra (hymn of praise in eight verses)",
+    "date_estimate": "uncertain; 1st-2nd millennium CE",
+    "summary": "An 'eight-verse hymn' (aṣṭaka) in praise of Avalokiteśvara, the bodhisattva of compassion (Karuṇāmaya), invoking his protective grace and enumerating his compassionate qualities. The aṣṭaka form (eight stanzas plus a phalaśruti) is a common devotional unit.",
+    "history": "One of numerous Avalokiteśvara hymns in the Sanskrit Buddhist stotra corpus of Nepal; authorship and precise date are unestablished. Avalokiteśvara (Lokeśvara/Karuṇāmaya) is the central object of Newar Buddhist devotion.",
+    "related_works": ["Avalokiteśvarastotra", "Lokeśvaraśataka", "Kāraṇḍavyūha Sūtra"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.exoticindiaart.com/book/details/buddha-stotra-samgraha-collection-of-buddhist-hymns-nzf293/",
+      "https://bajracharya.org/karunamaya-108-names-of-lokesvara-avalokitesvara/"
+    ]
+  },
+  {
+    "work_id": "T01n815u",
+    "title": "Avalokiteśvarastava",
+    "author": "Candrakāntā (bhikṣuṇī)",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "stava / stotra (hymn of praise)",
+    "date_estimate": "uncertain (medieval; date of the nun Candrakāntā not securely fixed)",
+    "summary": "A hymn in praise of Avalokiteśvara, the bodhisattva of compassion, attributed to the Buddhist nun (bhikṣuṇī) Candrakāntā. It extols the bodhisattva's compassion and saving power in devotional verse.",
+    "history": "Notable as a stotra ascribed to a female monastic author (Candrakāntābhikṣuṇī), it is preserved in the Sanskrit Buddhist stotra collections; little is established about the author's date or identity.",
+    "related_works": ["Avalokiteśvarastotra", "Avalokiteśvarāṣṭakastotra", "Lokeśvaraśataka"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.exoticindiaart.com/book/details/buddha-stotra-samgraha-collection-of-buddhist-hymns-nzf293/"
+    ]
+  },
+  {
+    "work_id": "T01n816u",
+    "title": "Avalokiteśvarastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; 1st-2nd millennium CE",
+    "summary": "A hymn of praise to Avalokiteśvara, the bodhisattva of infinite compassion, celebrating his vow to relieve the suffering of all beings and his many emanations. One of several Avalokiteśvara stotras in the Sanskrit Buddhist devotional corpus.",
+    "history": "Avalokiteśvara is the pre-eminent bodhisattva of compassion across Mahayana and Vajrayana Buddhism and the focus of Newar devotion as Karuṇāmaya/Lokeśvara. This anonymous stotra is one of many such hymns transmitted in Sanskrit collections; authorship and date are not established.",
+    "related_works": ["Avalokiteśvarāṣṭakastotra", "Lokeśvaraśataka", "Kāraṇḍavyūha Sūtra"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.encyclopediaofbuddhism.org/wiki/Avalokitesvara",
+      "https://www.exoticindiaart.com/book/details/buddha-stotra-samgraha-collection-of-buddhist-hymns-nzf293/"
+    ]
+  },
+  {
+    "work_id": "T01n817u",
+    "title": "Avalokiteśvarastotra",
+    "author": "Carapatipāda (Carpaṭi/Carpaṭipāda; Mahāsiddha)",
+    "tradition": "Buddhist (Vajrayana; Nepalese/Newar tradition)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "c. 8th-10th c. CE (floruit of the siddha Carpaṭi)",
+    "summary": "A popular hymn in praise of Ārya Avalokiteśvara attributed to the mahāsiddha Carapatipāda (Carpaṭi). In Nepalese tradition Carpaṭi is credited with bringing an emanation of Avalokiteśvara (the red Matsyendranāth/Karuṇāmaya) to the Kathmandu Valley to end a twelve-year drought, and this stotra is connected to that compassionate intervention.",
+    "history": "Carapatipāda/Carpaṭi figures among the Buddhist mahāsiddhas (and overlaps with Nāth-tradition lore), conventionally placed c. 8th-10th c. CE; the precise dating is uncertain. The hymn is well known in Newar Buddhist devotional practice.",
+    "related_works": ["Avalokiteśvarastotra (other recensions)", "Newar Karuṇāmaya/Matsyendranāth tradition"],
+    "confidence": "medium",
+    "sources": [
+      "http://www.buddhim.20m.com/8-7.htm",
+      "https://bajracharya.org/karunamaya-108-names-of-lokesvara-avalokitesvara/"
+    ]
+  },
+  {
+    "work_id": "T01n818u",
+    "title": "Avalokiteśvarāṣṭottaraśatanāmastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; Newar)",
+    "genre": "nāmāṣṭottaraśata-stotra (hymn of 108 names)",
+    "date_estimate": "uncertain; mid/late 1st millennium CE or later",
+    "summary": "A hymn enumerating the 108 names (aṣṭottaraśata-nāma) of Avalokiteśvara/Lokeśvara, the bodhisattva of compassion. Reciting the 108 epithets is held to confer great merit and protection — traditionally, hearers will not fall into lower realms for ages — and corresponds to the 108 forms of Lokeśvara venerated especially in Newar Buddhism.",
+    "history": "The 108 names/forms of Avalokiteśvara are a major feature of Nepalese Buddhist iconography and liturgy (the 108 Lokeśvara), possibly connected to a Kangyur tantra of the same name. This stotra circulates in Sanskrit and is recited in Tibetan and Newar practice; specific authorship is not established.",
+    "related_works": ["108 forms of Lokeśvara (Newar tradition)", "Ākāśagarbhanāmāṣṭottaraśatastotra (parallel genre)"],
+    "confidence": "medium",
+    "sources": [
+      "https://bajracharya.org/karunamaya-108-names-of-lokesvara-avalokitesvara/",
+      "https://www.himalayanart.org/search/set.cfm?setID=6804"
+    ]
+  },
+  {
+    "work_id": "T01n819u",
+    "title": "Lokanāthastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "uncertain; second half of 1st millennium CE or later",
+    "summary": "A hymn in praise of Lokanātha ('Lord/Protector of the World'), one of the principal names and forms of Avalokiteśvara. Lokanātha (white-bodied, holding a lotus, displaying the boon-granting mudrā) is described in the Sādhanamālā; the stotra extols his compassion and protective sovereignty over the world.",
+    "history": "Lokanātha is among the common Vajrayana names for Avalokiteśvara, with sādhanas preserved in the Sādhanamālā (which draws on materials from c. the 5th c. onward). This stotra belongs to the Avalokiteśvara devotional corpus in Sanskrit; specific authorship and date are not established.",
+    "related_works": ["Avalokiteśvarastotra", "Sādhanamālā (Lokanātha sādhanas)", "Lokeśvaraśataka"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/lokanatha",
+      "https://www.encyclopediaofbuddhism.org/wiki/Avalokitesvara"
+    ]
+  },
+  {
+    "work_id": "T01n820u",
+    "title": "Lokeśvaraśataka",
+    "author": "Vajradatta",
+    "tradition": "Buddhist (Mahayana; kavya-style devotion)",
+    "genre": "stotra / kavya (hymn of a hundred verses)",
+    "date_estimate": "9th c. CE (reign of Devapāla of the Pāla dynasty)",
+    "summary": "A 'hymn to the Lord of the World in a hundred verses' (śataka) praising Avalokiteśvara/Lokeśvara, the bodhisattva of compassion, composed in ornate kavya style. Its hundred stanzas celebrate the bodhisattva's compassionate majesty and saving power.",
+    "history": "The poet Vajradatta flourished at the court of the Pāla king Devapāla of Bengal in the 9th century, making this one of the more securely datable Buddhist Sanskrit stotras. It was esteemed as accomplished court poetry and survives in Sanskrit collections and Tibetan translation.",
+    "related_works": ["Avalokiteśvarastotra", "Sragdharāstotra (Sarvajñamitra)", "Pāla-era Buddhist kavya"],
+    "confidence": "high",
+    "sources": [
+      "https://ancient-buddhist-texts.net/Reference/Literary-History-of-Sanskrit-Buddhism/09-Strotras-Dharanis-Tantras.htm",
+      "https://www.sanskritimagazine.com/avalokitesvaras-appeal/"
+    ]
+  }
+]

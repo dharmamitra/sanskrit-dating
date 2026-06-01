@@ -1,0 +1,315 @@
+[
+  {
+    "work_id": "GSP28prakp14u",
+    "title": "Prakaraṇapañcikā: Prakaraṇa 14",
+    "author": "Śālikanātha Miśra",
+    "tradition": "Hindu (Pūrva Mīmāṃsā, Prābhākara school)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. late 8th–9th c. CE",
+    "summary": "The Prakaraṇapañcikā is the principal independent exposition of the Prābhākara school of Pūrva Mīmāṃsā, systematically presenting its doctrines on epistemology (the validity of cognition, perception, inference, verbal testimony), the theory of meaning, ritual injunction (vidhi), and self. This record is the fourteenth section (prakaraṇa) of that work, treating a specific topic within the larger treatise.",
+    "history": "Śālikanātha was the foremost systematizer of Prabhākara's thought and also wrote the Ṛjuvimalā commentary on Prabhākara's Bṛhatī. The Prakaraṇapañcikā is one of the very few surviving texts that allow reconstruction of the Prābhākara position against the rival Bhāṭṭa (Kumārila) school.",
+    "related_works": ["Bṛhatī (Prabhākara)", "Mīmāṃsāsūtra (Jaimini)", "Ṛjuvimalā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/%C5%9A%C4%81likan%C4%81tha",
+      "https://en.wikipedia.org/wiki/Prabh%C4%81kara"
+    ]
+  },
+  {
+    "work_id": "GSP28sabbha1u",
+    "title": "Mīmāṃsāsūtrabhāṣya",
+    "author": "Śabara (Śabarasvāmin)",
+    "tradition": "Hindu (Pūrva Mīmāṃsā)",
+    "genre": "bhāṣya (commentary)",
+    "date_estimate": "c. 1st–4th c. CE (commonly placed c. 2nd–4th c. CE)",
+    "summary": "The Śābarabhāṣya is the foundational and earliest extant complete commentary on Jaimini's Mīmāṃsāsūtra. It elaborates the principles of Vedic exegesis (ritual interpretation), the eternality and authorlessness of the Veda, the theory of dharma as defined by injunction, and the self-validity of cognition.",
+    "history": "Śabara's bhāṣya became the authoritative basis for all later Mīmāṃsā, generating the two great sub-schools through Kumārila Bhaṭṭa's Vārttikas and Prabhākara's Bṛhatī. Its precise date is uncertain but it precedes the 7th-century commentators.",
+    "related_works": ["Mīmāṃsāsūtra (Jaimini)", "Tantravārttika (Kumārila)", "Bṛhatī (Prabhākara)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/M%C4%ABm%C4%81%E1%B9%83s%C4%81",
+      "https://www.wisdomlib.org/hinduism/book/a-history-of-indian-philosophy-volume-1/d/doc209831.html"
+    ]
+  },
+  {
+    "work_id": "GSP28sastrdiu",
+    "title": "Śāstradīpikā",
+    "author": "Pārthasārathi Miśra",
+    "tradition": "Hindu (Pūrva Mīmāṃsā, Bhāṭṭa school)",
+    "genre": "philosophical treatise / commentary (nibandha)",
+    "date_estimate": "c. 11th c. CE (disputed; some place him 10th c.)",
+    "summary": "The Śāstradīpikā is a comprehensive independent treatise on the Mīmāṃsāsūtra following the Bhāṭṭa (Kumārila) line. It surveys the whole system of Mīmāṃsā, with an extensive epistemological introduction (Tarkapāda) defending the means of valid knowledge and refuting rival schools, before proceeding through the ritual-interpretive topics adhyāya by adhyāya.",
+    "history": "Pārthasārathi Miśra, a leading defender of Kumārila's Bhāṭṭa Mīmāṃsā, also wrote the Nyāyaratnamālā and Śāstradīpikā became a standard textbook of the school, attracting later commentaries (e.g., the Mayūkhamālikā).",
+    "related_works": ["Mīmāṃsāsūtra (Jaimini)", "Ślokavārttika (Kumārila)", "Śābarabhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shastradipika",
+      "https://www.wisdomlib.org/definition/parthasarathi-mishra"
+    ]
+  },
+  {
+    "work_id": "GSP28shabara",
+    "title": "Mīmāṃsāsūtra Shabara-Bhāṣya",
+    "author": "Jaimini (sūtra); Śabara (bhāṣya)",
+    "tradition": "Hindu (Pūrva Mīmāṃsā)",
+    "genre": "sūtra with bhāṣya (commentary)",
+    "date_estimate": "Sūtra c. 3rd–1st c. BCE; bhāṣya c. 1st–4th c. CE",
+    "summary": "This is the combined text of Jaimini's Mīmāṃsāsūtra together with Śabara's foundational commentary. The sūtras lay out the principles of Vedic ritual exegesis and the inquiry into dharma; the bhāṣya supplies the earliest full explanation, establishing Mīmāṃsā doctrines on Vedic authority, injunction, and word-meaning.",
+    "history": "The pairing of Jaimini's root text with Śabara's bhāṣya constitutes the textual core of the entire Pūrva Mīmāṃsā tradition and the springboard for Kumārila and Prabhākara.",
+    "related_works": ["Mīmāṃsāsūtra (Jaimini)", "Śābarabhāṣya", "Tantravārttika (Kumārila)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/M%C4%ABm%C4%81%E1%B9%83s%C4%81",
+      "https://www.wisdomlib.org/hinduism/book/a-history-of-indian-philosophy-volume-1/d/doc209831.html"
+    ]
+  },
+  {
+    "work_id": "GSP29antark",
+    "title": "Tarkasaṃgraha",
+    "author": "Annambhaṭṭa",
+    "tradition": "Hindu (Nyāya-Vaiśeṣika)",
+    "genre": "philosophical treatise (primer)",
+    "date_estimate": "c. 16th–17th c. CE",
+    "summary": "The Tarkasaṃgraha is a concise and immensely popular introductory manual of the combined Nyāya-Vaiśeṣika system. It defines and classifies the seven Vaiśeṣika categories (padārtha) — substance, quality, action, etc. — and expounds the Nyāya theory of the four means of valid knowledge (perception, inference, comparison, testimony).",
+    "history": "Written by Annambhaṭṭa of Andhra, it is traditionally studied with his own auto-commentary the Tarkasaṃgrahadīpikā and has served for centuries as the standard beginner's textbook in Indian logic.",
+    "related_works": ["Tarkasaṃgrahadīpikā", "Tarkabhāṣā", "Vaiśeṣikasūtra", "Nyāyasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tarkasamgraha"
+    ]
+  },
+  {
+    "work_id": "GSP29antsdi_u",
+    "title": "Tarkasaṃgraha",
+    "author": "Annambhaṭṭa",
+    "tradition": "Hindu (Nyāya-Vaiśeṣika)",
+    "genre": "philosophical treatise (primer), likely with Dīpikā commentary",
+    "date_estimate": "c. 16th–17th c. CE",
+    "summary": "Another witness of Annambhaṭṭa's Tarkasaṃgraha, the standard introductory manual of Nyāya-Vaiśeṣika. The work_id suffix 'sdi' suggests this version includes the author's own Dīpikā auto-commentary, which expands on the terse definitions of the categories and the means of valid knowledge.",
+    "history": "The Tarkasaṃgraha with the Tarkasaṃgrahadīpikā is the most widely used elementary textbook of the Navya-Nyaya-influenced classical logic tradition in India.",
+    "related_works": ["Tarkasaṃgraha", "Tarkasaṃgrahadīpikā", "Nyāyasūtra", "Vaiśeṣikasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tarkasamgraha"
+    ]
+  },
+  {
+    "work_id": "GSP29gangtciu",
+    "title": "Tattvacintāmaṇi",
+    "author": "Gaṅgeśa Upādhyāya",
+    "tradition": "Hindu (Navya-Nyāya)",
+    "genre": "philosophical treatise",
+    "date_estimate": "c. 12th–14th c. CE (commonly c. 1325; some place him 12th–13th c.)",
+    "summary": "The Tattvacintāmaṇi ('Wish-Fulfilling Jewel of Truth') is the foundational work of Navya-Nyāya ('New Logic'). Organized into four books on the four pramāṇas — perception, inference, comparison, and verbal testimony — it develops a rigorous technical language for analyzing cognition, relations, and conditions, transforming Indian logic and epistemology.",
+    "history": "Gaṅgeśa of Mithilā inaugurated the Navya-Nyāya movement; the Tattvacintāmaṇi spawned a vast commentarial literature (Raghunātha, Mathurānātha, Jagadīśa, Gadādhara) and dominated Sanskrit scholastic method for centuries.",
+    "related_works": ["Nyāyasūtra", "Ātmatattvaviveka (Udayana)", "Muktivāda (Gadādhara)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gangesha_Upadhyaya",
+      "https://www.britannica.com/topic/Nyaya"
+    ]
+  },
+  {
+    "work_id": "GSP29nyayakumudachandra",
+    "title": "Nyāyakumudacandra",
+    "author": "Prabhācandra",
+    "tradition": "Jain (Jain Nyāya / pramāṇaśāstra)",
+    "genre": "bhāṣya (commentary), philosophical treatise",
+    "date_estimate": "c. 980–1065 CE (late 10th–11th c. CE)",
+    "summary": "The Nyāyakumudacandra is Prabhācandra's extensive commentary on Akalaṅka's Laghīyastraya, a concise treatise on Jain epistemology and logic. It elaborates the Jain theory of pramāṇa (valid knowledge), the doctrine of many-sidedness (anekāntavāda) and conditional predication (syādvāda), and refutes rival Buddhist, Nyāya, and Mīmāṃsā positions.",
+    "history": "Prabhācandra was a Digambara Jain logician whose two great commentaries — the Nyāyakumudacandra on the Laghīyastraya and the Prameyakamalamārtaṇḍa on Māṇikyanandin's Parīkṣāmukha — are major monuments of medieval Jain dialectics.",
+    "related_works": ["Laghīyastraya (Akalaṅka)", "Prameyakamalamārtaṇḍa", "Parīkṣāmukha (Māṇikyanandin)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prabh%C4%81candra",
+      "https://en.wikipedia.org/wiki/Jain_literature"
+    ]
+  },
+  {
+    "work_id": "GSP29gaunys_u",
+    "title": "Nyāyasūtra",
+    "author": "Gautama (Akṣapāda Gautama)",
+    "tradition": "Hindu (Nyāya)",
+    "genre": "sūtra",
+    "date_estimate": "core c. 2nd c. BCE–2nd c. CE (composite, redacted to c. 2nd c. CE)",
+    "summary": "The Nyāyasūtra is the root text of the Nyāya school of logic and epistemology. In five books (adhyāyas) it enumerates sixteen categories of dialectics beginning with the means of valid knowledge (pramāṇa) and objects of knowledge (prameya), and lays out the theory of inference, debate, fallacies, and the path to liberation through correct knowledge.",
+    "history": "Attributed to Akṣapāda Gautama, the text is composite, reaching its received form around the 2nd century CE; it is the basis of Vātsyāyana's bhāṣya and the entire Nyāya commentarial tradition.",
+    "related_works": ["Nyāyabhāṣya (Vātsyāyana)", "Nyāyavārttika (Uddyotakara)", "Tattvacintāmaṇi"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ny%C4%81ya_S%C5%ABtras"
+    ]
+  },
+  {
+    "work_id": "GSP29muva",
+    "title": "Muktivāda",
+    "author": "Gadādhara Bhaṭṭācārya",
+    "tradition": "Hindu (Navya-Nyāya)",
+    "genre": "philosophical treatise (vāda)",
+    "date_estimate": "c. 17th c. CE",
+    "summary": "The Muktivāda ('Discourse on Liberation') is a Navya-Nyāya monograph examining the concept of mokṣa/mukti — the nature of liberation, whether it consists in the cessation of suffering or in positive bliss, and the conditions and causes of release. It applies the technical analytical apparatus of late Nyāya to the soteriological question.",
+    "history": "Gadādhara of Bengal (Navadvīpa) was one of the greatest late Navya-Nyāya logicians, author of numerous vāda monographs; the Muktivāda continues the school's long inquiry into liberation traceable back to the Nyāyasūtra.",
+    "related_works": ["Tattvacintāmaṇi (Gaṅgeśa)", "Nyāyasūtra", "Vyutpattivāda (Gadādhara)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/muktivada",
+      "https://link.springer.com/article/10.1007/s10781-020-09438-x"
+    ]
+  },
+  {
+    "work_id": "GSP29nvtp1_1u",
+    "title": "Nyāyavārttikatātparyapariśuddhi: Adhyāya 1.1",
+    "author": "Udayana (Udayanācārya)",
+    "tradition": "Hindu (Nyāya)",
+    "genre": "sub-commentary (ṭīkā)",
+    "date_estimate": "c. 10th–11th c. CE (commonly c. 984 CE)",
+    "summary": "The Nyāyavārttikatātparyapariśuddhi is Udayana's sub-commentary (ṭīkā) on Vācaspati Miśra's Nyāyavārttikatātparyaṭīkā, which itself glosses Uddyotakara's Nyāyavārttika on the Nyāyasūtra. This record covers the first chapter (1.1), treating the foundational topics of the means and objects of valid knowledge and defending Nyāya realism against Buddhist critiques.",
+    "history": "Udayana was a towering figure of late 'old' Nyāya, also famed for the Ātmatattvaviveka and Nyāyakusumāñjali; his Pariśuddhi completes the layered commentarial edifice on Gautama's sūtras.",
+    "related_works": ["Nyāyasūtra (Gautama)", "Nyāyabhāṣya (Vātsyāyana)", "Nyāyavārttika (Uddyotakara)", "Nyāyavārttikatātparyaṭīkā (Vācaspati Miśra)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Udayana",
+      "https://en.wikipedia.org/wiki/Ny%C4%81ya_S%C5%ABtras"
+    ]
+  },
+  {
+    "work_id": "GSP29nvtp1_2u",
+    "title": "Nyāyavārttikatātparyapariśuddhi: Adhyāya 1.2",
+    "author": "Udayana (Udayanācārya)",
+    "tradition": "Hindu (Nyāya)",
+    "genre": "sub-commentary (ṭīkā)",
+    "date_estimate": "c. 10th–11th c. CE (commonly c. 984 CE)",
+    "summary": "This is the second section (adhyāya 1.2) of Udayana's Nyāyavārttikatātparyapariśuddhi, his sub-commentary on Vācaspati Miśra's gloss on the Nyāyavārttika. Book 1.2 of the Nyāyasūtra deals with the categories of debate (vāda, jalpa, vitaṇḍā), fallacious reasons (hetvābhāsa), quibbling, and clinchers; Udayana clarifies and defends these dialectical topics.",
+    "history": "Part of Udayana's authoritative completion of the Nyāya commentarial chain on Gautama's sūtras, integrating the realist refutation of Buddhist epistemology.",
+    "related_works": ["Nyāyasūtra (Gautama)", "Nyāyabhāṣya (Vātsyāyana)", "Nyāyavārttika (Uddyotakara)", "Nyāyavārttikatātparyaṭīkā (Vācaspati Miśra)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Udayana",
+      "https://en.wikipedia.org/wiki/Ny%C4%81ya_S%C5%ABtras"
+    ]
+  },
+  {
+    "work_id": "GSP29nyabhu",
+    "title": "Nyāyabhūṣaṇa",
+    "author": "Bhāsarvajña",
+    "tradition": "Hindu (Nyāya)",
+    "genre": "auto-commentary (svopajña bhāṣya)",
+    "date_estimate": "c. 10th c. CE (c. 950 CE)",
+    "summary": "The Nyāyabhūṣaṇa is Bhāsarvajña's own extensive commentary on his concise treatise the Nyāyasāra. It expounds his distinctive Nyāya epistemology, recognizing perception, inference, and verbal testimony as the means of valid knowledge, and engages critically with Buddhist anti-realism and rival schools on perception, inference, and the existence of God and self.",
+    "history": "Bhāsarvajña (c. 950 CE) represents a partly independent, Śaiva-inflected current within Nyāya; the Nyāyabhūṣaṇa is a rich source for the school's debates with Buddhist logicians of the period.",
+    "related_works": ["Nyāyasāra (Bhāsarvajña)", "Nyāyasūtra", "Nyāyabhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/anumana-inference-in-nyaya/d/doc627338.html",
+      "https://www.exoticindiaart.com/book/details/nyayasasra-of-bhasarvajna-with-commentary-padabhanika-of-vasudeva-suri-nat511/"
+    ]
+  },
+  {
+    "work_id": "GSP29nyaka",
+    "title": "Nyāyakalikā",
+    "author": "Jayanta Bhaṭṭa",
+    "tradition": "Hindu (Nyāya)",
+    "genre": "philosophical treatise (primer)",
+    "date_estimate": "c. late 9th c. CE",
+    "summary": "The Nyāyakalikā ('Bud of Nyāya') is a short introductory overview of the basic tenets of the Nyāya system, concisely defining the sixteen categories (padārtha) of the Nyāyasūtra. It is designed as a primer emphasizing clarity and brevity over extensive argument.",
+    "history": "Jayanta Bhaṭṭa of Kashmir (c. 820–900 CE), advisor to King Śaṅkaravarman, is best known for his magisterial Nyāyamañjarī; the Nyāyakalikā is his brief beginner's textbook on the same system.",
+    "related_works": ["Nyāyamañjarī (Jayanta Bhaṭṭa)", "Nyāyasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jayanta_Bhatta",
+      "https://www.academia.edu/71648862/"
+    ]
+  },
+  {
+    "work_id": "GSP29nybha",
+    "title": "Nyāyasūtra + Bhāṣya",
+    "author": "Gautama (sūtra); Vātsyāyana (bhāṣya)",
+    "tradition": "Hindu (Nyāya)",
+    "genre": "sūtra with bhāṣya (commentary)",
+    "date_estimate": "Sūtra c. 2nd c. CE; Vātsyāyana's bhāṣya c. 4th–5th c. CE",
+    "summary": "This is the combined text of Gautama's Nyāyasūtra together with Vātsyāyana's Nyāyabhāṣya, the earliest and authoritative commentary. The bhāṣya explains the sixteen dialectical categories, develops the theory of perception and inference, and defends the realist epistemology and the self against opponents.",
+    "history": "Vātsyāyana (Pakṣilasvāmin) gave Nyāya its first systematic exposition; his bhāṣya is the base layer for Uddyotakara's vārttika and the whole later tradition.",
+    "related_works": ["Nyāyasūtra (Gautama)", "Nyāyavārttika (Uddyotakara)", "Nyāyavārttikatātparyaṭīkā (Vācaspati Miśra)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ny%C4%81ya_S%C5%ABtras"
+    ]
+  },
+  {
+    "work_id": "GSP29nystik_u",
+    "title": "Nyāyasūtra",
+    "author": "Gautama (Akṣapāda Gautama)",
+    "tradition": "Hindu (Nyāya)",
+    "genre": "sūtra (here likely with a ṭīkā commentary)",
+    "date_estimate": "core c. 2nd c. BCE–2nd c. CE (composite)",
+    "summary": "A witness of Gautama's Nyāyasūtra, the root text of the Nyāya school, whose work_id suffix 'tik' suggests an accompanying ṭīkā (commentary) layer. The sūtras set out the sixteen categories of logic and epistemology, the four pramāṇas, the theory of inference and debate, and liberation through true knowledge.",
+    "history": "The Nyāyasūtra, attributed to Akṣapāda Gautama and redacted around the 2nd century CE, is the foundation of the Nyāya tradition and its many commentaries.",
+    "related_works": ["Nyāyabhāṣya (Vātsyāyana)", "Nyāyavārttika (Uddyotakara)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ny%C4%81ya_S%C5%ABtras"
+    ]
+  },
+  {
+    "work_id": "GSP29nysu51pu",
+    "title": "Nyāyasūtra 5.1",
+    "author": "Gautama (Akṣapāda Gautama)",
+    "tradition": "Hindu (Nyāya)",
+    "genre": "sūtra",
+    "date_estimate": "core c. 2nd c. BCE–2nd c. CE (composite)",
+    "summary": "This record is the first section of the fifth book (adhyāya 5.1) of Gautama's Nyāyasūtra. Book 5 deals with futile rejoinders (jāti) — the twenty-four types of sophistical counter-arguments — and (in 5.2) the points of defeat (nigrahasthāna) in formal debate; 5.1 catalogues and analyzes the jātis.",
+    "history": "The fifth book completes the Nyāyasūtra's treatment of debate theory, a subject central to the school's identity as a science of reasoning and disputation.",
+    "related_works": ["Nyāyasūtra (Gautama)", "Nyāyabhāṣya (Vātsyāyana)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ny%C4%81ya_S%C5%ABtras"
+    ]
+  },
+  {
+    "work_id": "GSP29nysvbh_u",
+    "title": "Nyāyasūtra",
+    "author": "Gautama (sūtra); Vātsyāyana (bhāṣya)",
+    "tradition": "Hindu (Nyāya)",
+    "genre": "sūtra with bhāṣya (commentary)",
+    "date_estimate": "Sūtra c. 2nd c. CE; bhāṣya c. 4th–5th c. CE",
+    "summary": "A witness of the Nyāyasūtra; the work_id element 'svbh' (sūtra-vātsyāyana-bhāṣya) indicates the text is paired with Vātsyāyana's Nyāyabhāṣya. It presents Gautama's sixteen categories of logic and epistemology together with the earliest authoritative commentary.",
+    "history": "Vātsyāyana's bhāṣya is the foundation of the Nyāya exegetical tradition; this is one of several digitized witnesses of the sūtra-plus-bhāṣya text in the collection.",
+    "related_works": ["Nyāyasūtra (Gautama)", "Nyāyabhāṣya (Vātsyāyana)", "Nyāyavārttika (Uddyotakara)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ny%C4%81ya_S%C5%ABtras"
+    ]
+  },
+  {
+    "work_id": "GSP29nysvbh1u",
+    "title": "Nyāyasūtra + Bhāṣya",
+    "author": "Gautama (sūtra); Vātsyāyana (bhāṣya)",
+    "tradition": "Hindu (Nyāya)",
+    "genre": "sūtra with bhāṣya (commentary)",
+    "date_estimate": "Sūtra c. 2nd c. CE; Vātsyāyana's bhāṣya c. 4th–5th c. CE",
+    "summary": "Another witness of Gautama's Nyāyasūtra together with Vātsyāyana's Nyāyabhāṣya. The combined text expounds the sixteen dialectical categories, the four means of valid knowledge, the theory of inference, and the realist defense of the self and the external world.",
+    "history": "This is a parallel digitized version of the sūtra-plus-Vātsyāyana-bhāṣya text (cf. work_id GSP29nybha / GSP29nysvbh_u), the cornerstone of classical Nyāya.",
+    "related_works": ["Nyāyasūtra (Gautama)", "Nyāyabhāṣya (Vātsyāyana)", "Nyāyavārttika (Uddyotakara)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ny%C4%81ya_S%C5%ABtras"
+    ]
+  },
+  {
+    "work_id": "GSP29snyayvpu",
+    "title": "Nyāyāvatāra",
+    "author": "Siddhasena Divākara (Siddhasena Mahāmati)",
+    "tradition": "Jain (Jain Nyāya / pramāṇaśāstra)",
+    "genre": "philosophical treatise (verse compendium)",
+    "date_estimate": "c. 5th–6th c. CE (disputed; sometimes placed after Diṅnāga, post-c. 550 CE)",
+    "summary": "The Nyāyāvatāra is a short verse work generally regarded as the earliest extant Jain treatise on pure logic and epistemology. In about 32 verses it expounds the Jain theory of valid knowledge (pramāṇa) — direct and indirect cognition, inference, and verbal testimony — and connects it with the Jain doctrines of many-sidedness (syādvāda/anekānta).",
+    "history": "Traditionally ascribed to Siddhasena Divākara (also author of the Sanmatitarka), its dating and authorship are debated, since elements appear to respond to Diṅnāga's Buddhist logic; it founded the systematic Jain pramāṇa tradition later developed by Akalaṅka and others.",
+    "related_works": ["Sanmatitarka (Siddhasena)", "Laghīyastraya (Akalaṅka)", "Nyāyakumudacandra (Prabhācandra)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Siddhasenadiv%C4%81karasuri",
+      "https://philopapers.org/rec/DIVMSC-2",
+      "https://jainqq.org/booktext/Date_and_Authorship_of_Nyayavatara/269005"
+    ]
+  }
+]

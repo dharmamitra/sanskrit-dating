@@ -1,0 +1,33 @@
+train chunks=10635 (AKBh held out)
+
+===== ABHIDHARMAKOŚABHĀṢYA control (SA_T07_vakobhau, held out) =====
+chunks=159 median=446 MAD-sd=154 range=[-102,1123]
+WITHIN-WORK Spearman(position, predicted date) = +0.081
+  [compare: Bodhisattvabhūmi +0.34, Śrāvakabhūmi +0.18 -- single-author AKBh should be ~0 if controlled]
+
+  per-chapter medians (textual order):
+   ch 1 Dhātu                      n= 13 median=  589 [532,645]
+   ch 2 Indriya                    n= 28 median=  405 [328,494]
+   ch 3 Loka                       n= 28 median=  351 [318,425]
+   ch 4 Karma                      n= 28 median=  485 [443,555]
+   ch 5 Anuśaya                    n= 15 median=  406 [317,590]
+   ch 6-8 Mārga/Jñāna/Samāpatti    n= 40 median=  469 [390,599]
+   ch 9 Pudgalaviniścaya           n=  7 median=  452 [355,505]
+
+  Ch9 Pudgalaviniścaya (self-refutation) median=452 (n=7) vs rest 445: Mann-Whitney p=0.678
+
+  outlier chunks (|z|>=1.8):
+   chunk  14 ch 2 Indriya                  pred=  778 z=+2.2
+   chunk  25 ch 2 Indriya                  pred=  736 z=+1.9
+   chunk  53 ch 3 Loka                     pred= -102 z=-3.6
+   chunk  60 ch 3 Loka                     pred=  797 z=+2.3
+   chunk  62 ch 3 Loka                     pred=  775 z=+2.1
+   chunk  64 ch 3 Loka                     pred=   22 z=-2.8
+   chunk  76 ch 4 Karma                    pred=  745 z=+1.9
+   chunk 113 ch 6-8 Mārga/Jñāna/Samāpatti  pred=  883 z=+2.8
+   chunk 118 ch 6-8 Mārga/Jñāna/Samāpatti  pred= 1021 z=+3.7
+   chunk 125 ch 6-8 Mārga/Jñāna/Samāpatti  pred=  777 z=+2.1
+   chunk 130 ch 6-8 Mārga/Jñāna/Samāpatti  pred=  726 z=+1.8
+   chunk 146 ch 6-8 Mārga/Jñāna/Samāpatti  pred= 1029 z=+3.8
+   chunk 148 ch 6-8 Mārga/Jñāna/Samāpatti  pred= 1123 z=+4.4
+   chunk 149 ch 6-8 Mārga/Jñāna/Samāpatti  pred=  753 z=+2.0

@@ -1,0 +1,322 @@
+[
+  {
+    "work_id": "GSP30abhmal1u",
+    "title": "Mālinīślokavārttika: Kāṇḍa 1",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu; Kashmir Shaivism (Trika)",
+    "genre": "vārttika (versified exegetical commentary), philosophical treatise",
+    "date_estimate": "c. late 10th-early 11th c. CE (c. 990-1015)",
+    "summary": "The first kāṇḍa of Abhinavagupta's verse-commentary (ślokavārttika) on the Mālinīvijayottaratantra, the Trika scripture he regarded as supreme. Kāṇḍa 1 is a long exegetical reflection chiefly on the first verse (the maṅgala) of the Mālinīvijaya, unfolding from it the entire metaphysics and soteriology of nondual Trika Shaivism, including the nature of consciousness, the descent of grace (śaktipāta), and the relation of Shiva and Shakti.",
+    "history": "Composed by the polymath Abhinavagupta (fl. c. 975-1025 CE), the central exegete of nondual Kashmir Shaivism, alongside his Tantrāloka and Tantrasāra. The Mālinīślokavārttika draws not only on the Mālinīvijayottara but also on the Kālī-based Krama tradition, and is among the most important theoretical works of the Trika.",
+    "related_works": ["Mālinīvijayottaratantra", "Tantrāloka", "Tantrasāra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kashmir_Shaivism",
+      "https://www.sanskrit-trikashaivism.com/en/malinivijayottaratantra-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/828"
+    ]
+  },
+  {
+    "work_id": "GSP30abhmal2u",
+    "title": "Mālinīślokavārttika: Kāṇḍa 2",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu; Kashmir Shaivism (Trika)",
+    "genre": "vārttika (versified exegetical commentary), philosophical treatise",
+    "date_estimate": "c. late 10th-early 11th c. CE (c. 990-1015)",
+    "summary": "The second kāṇḍa of Abhinavagupta's verse-commentary on the Mālinīvijayottaratantra. It continues the exposition of Trika doctrine begun in Kāṇḍa 1, treating the means of liberation (the upāyas), the structure of the universe and the tattvas, mantra and the alphabet, and the practical-mystical aspects of nondual Shaiva monism as encoded in the Mālinī scripture.",
+    "history": "Part of the same work by Abhinavagupta as Kāṇḍa 1, one of his principal exegetical compositions in the Trika tradition. The Mālinīślokavārttika unpacks the esoteric theoretical and practical doctrines of the Mālinīvijayottara.",
+    "related_works": ["Mālinīvijayottaratantra", "Mālinīślokavārttika: Kāṇḍa 1", "Tantrāloka", "Tantrasāra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kashmir_Shaivism",
+      "https://www.sanskrit-trikashaivism.com/en/malinivijayottaratantra-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/828"
+    ]
+  },
+  {
+    "work_id": "GSP30abhtantu",
+    "title": "Tantrasāra",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu; Kashmir Shaivism (Trika)",
+    "genre": "philosophical/ritual treatise (digest of tantra)",
+    "date_estimate": "c. late 10th-early 11th c. CE (c. 990-1015)",
+    "summary": "Abhinavagupta's own prose abridgement (\"Essence of Tantra\") of his vast verse encyclopedia, the Tantrāloka. In a lucid, mostly prose style it condenses the doctrine, ritual, yoga, and soteriology of the Trika across roughly its chapters, presenting the system of the four means (anupāya, śāmbhava, śākta, āṇava upāyas) of attaining liberation through recognition of one's identity with Shiva.",
+    "history": "Written by Abhinavagupta to spare his disciples the difficulty of the much longer Tantrāloka, the Tantrasāra became a widely studied summary-encyclopedia of Trika tantra. It transmits the synthesis Abhinavagupta forged from the Mālinīvijayottara and the Kaula and Krama currents of Kashmiri Shaivism.",
+    "related_works": ["Tantrāloka", "Mālinīvijayottaratantra", "Tantroccaya"],
+    "confidence": "high",
+    "sources": [
+      "https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-tantrasara-introduction/919",
+      "https://en.wikipedia.org/wiki/Abhinavagupta"
+    ]
+  },
+  {
+    "work_id": "GSP30adyapppu",
+    "title": "Anuttaraprakāśapañcāśikā",
+    "author": "Ādyanātha",
+    "tradition": "Hindu; Kashmir Shaivism (Trika/Kaula)",
+    "genre": "philosophical/mystical poem (pañcāśikā, fifty verses), stotra-like treatise",
+    "date_estimate": "c. 9th-12th c. CE (uncertain)",
+    "summary": "A short devotional-philosophical poem of about fifty verses on the \"light of the Absolute\" (anuttara-prakāśa), expounding the nondual Shaiva realization that supreme consciousness (anuttara) is the sole reality shining as the whole universe. It belongs to the genre of compact pañcāśikā works that distil Trika/Kaula recognition doctrine into a meditative, hymn-like form.",
+    "history": "Attributed to one Ādyanātha, an otherwise little-documented author within the nondual Kashmiri Shaiva milieu; the title and idiom place it firmly in the anuttara-centered Trika tradition associated with Abhinavagupta, though its precise date and the author's identity remain obscure.",
+    "related_works": ["Anuttarāṣṭikā", "Paramārthasāra", "Bodhapañcadaśikā"],
+    "confidence": "low",
+    "sources": [
+      "https://www.anuttaratrikakula.org/abhinava/",
+      "https://en.wikipedia.org/wiki/Kashmir_Shaivism"
+    ]
+  },
+  {
+    "work_id": "GSP30anuttaru",
+    "title": "Anuttarāṣṭikā",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu; Kashmir Shaivism (Trika)",
+    "genre": "stotra/devotional-philosophical poem (eight verses)",
+    "date_estimate": "c. late 10th-early 11th c. CE",
+    "summary": "A brief hymn of eight verses (aṣṭikā) on the Absolute (anuttara) by Abhinavagupta. It is a concentrated expression of nondual realization: there is nothing to attain, abandon, or practice, since one is already the unbounded, ever-free consciousness that is Shiva; the verses dissolve the seeker's effort into spontaneous recognition.",
+    "history": "One of Abhinavagupta's celebrated short stotras, valued in Kashmir Shaivism for distilling the highest (anupāya) teaching of immediate self-recognition. It is regularly anthologized and recited in the living Trika tradition (e.g. by Swami Lakshmanjoo's lineage).",
+    "related_works": ["Paramārthasāra", "Bodhapañcadaśikā", "Anuttaraprakāśapañcāśikā"],
+    "confidence": "high",
+    "sources": [
+      "https://abhinavagupta.org/hymns/anuttarashtika/",
+      "https://en.wikipedia.org/wiki/Abhinavagupta"
+    ]
+  },
+  {
+    "work_id": "GSP30aparmyou",
+    "title": "Paramārthasāra",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu; Kashmir Shaivism (Trika/Pratyabhijñā)",
+    "genre": "philosophical treatise (ārya-verse compendium)",
+    "date_estimate": "c. late 10th-early 11th c. CE",
+    "summary": "The \"Essence of the Supreme Truth,\" a compendium of about 105 ārya verses presenting the nondual Trika metaphysics: the manifestation of the universe as the free self-expression of Shiva-consciousness, the bondage of the soul through contraction, and liberation through recognition (pratyabhijñā) of one's true identity. It is Abhinavagupta's recasting of an older Vaiṣṇava-Sāṃkhya text into Shaiva nondualism.",
+    "history": "Abhinavagupta adapted the title and frame of Ādiśeṣa's (Patañjali-attributed) Paramārthasāra/Ādhārakārikā, transforming it into a Trika manual; Yogarāja later wrote an influential commentary (vivṛti). It is one of the most accessible summaries of Kashmir Shaivism.",
+    "related_works": ["Paramārthasāra of Ādiśeṣa", "Īśvarapratyabhijñā", "Tantrasāra", "Yogarāja's Paramārthasāra-vivṛti"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhinavagupta",
+      "https://iep.utm.edu/kashmiri/"
+    ]
+  },
+  {
+    "work_id": "GSP30bhairstu",
+    "title": "Bhairavastava",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu; Kashmir Shaivism (Trika)",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "c. late 10th-early 11th c. CE",
+    "summary": "A short hymn of praise to Bhairava, the fierce nondual form of Shiva identified with the seeker's own innermost consciousness. The poet, oppressed by fear and the troubles of worldly existence, takes refuge in Bhairava and affirms that remembrance of Bhairava as one's own Self instantly dispels all terror and bondage.",
+    "history": "One of Abhinavagupta's devotional stotras, recited in the Trika tradition (it forms part of the hymns used in Kashmiri Shaiva worship). It expresses in emotional, personal idiom the same anuttara/recognition doctrine systematized in his prose works.",
+    "related_works": ["Anuttarāṣṭikā", "Bhairavānukaraṇastotra", "Kramastotra"],
+    "confidence": "high",
+    "sources": [
+      "https://www.lakshmanjooacademy.org/blog/abhinavagupta-s-bhairava-stotra",
+      "https://en.wikipedia.org/wiki/Abhinavagupta"
+    ]
+  },
+  {
+    "work_id": "GSP30bhutisbs_u",
+    "title": "Svabodhasiddhi",
+    "author": "Bhūti(rāja)",
+    "tradition": "Hindu; Kashmir Shaivism (Trika/Krama)",
+    "genre": "philosophical treatise (short doctrinal work)",
+    "date_estimate": "c. 10th c. CE",
+    "summary": "A short Shaiva work, the \"Establishing of Self-Awareness,\" arguing for the self-luminous, nondual nature of consciousness as the foundation of liberation. It belongs to the demonstrative (siddhi) genre of Kashmiri Shaiva philosophy that seeks to prove the recognition of the Self as Shiva.",
+    "history": "Identified by Alexis Sanderson as probably the work of the 10th-century Kashmiri Shaiva master Bhūtirāja, who was among Abhinavagupta's principal teachers (instructing him in the dualist/nondualist Siddhānta) and an important guru in the Krama lineage and father of two noted scholars. The text was the subject of an edition/study published in the ZDMG.",
+    "related_works": ["Spandakārikā", "Īśvarapratyabhijñā", "Tantrāloka"],
+    "confidence": "medium",
+    "sources": [
+      "https://zdmg.harrassowitz-library.com/article/ZDMG/2017/1/13",
+      "https://en.wikipedia.org/wiki/Abhinavagupta"
+    ]
+  },
+  {
+    "work_id": "GSP30bodhpanu",
+    "title": "Bodhapañcadaśikā",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu; Kashmir Shaivism (Trika)",
+    "genre": "philosophical poem (fifteen verses)",
+    "date_estimate": "c. late 10th-early 11th c. CE",
+    "summary": "The \"Fifteen Verses on Awakening,\" a concise didactic poem in which Abhinavagupta sets out the essentials of nondual Shaiva metaphysics for beginners: the single consciousness (caitanya) that is Shiva manifests as Shakti and the whole hierarchy of tattvas, and liberation is the recognition that the perceiver, perceiving, and perceived are all that one light of awareness.",
+    "history": "A short introductory tract by Abhinavagupta meant to convey the Trika system in compact, memorizable form; it is frequently grouped with his other short philosophical poems and stotras as an entry point to the recognition (pratyabhijñā) doctrine.",
+    "related_works": ["Paramārthasāra", "Anuttarāṣṭikā", "Tantrasāra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhinavagupta",
+      "https://iep.utm.edu/kashmiri/"
+    ]
+  },
+  {
+    "work_id": "GSP30kramstou",
+    "title": "Kramastotra",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu; Kashmir Shaivism (Krama/Trika)",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "c. late 10th-early 11th c. CE",
+    "summary": "A hymn celebrating the Krama (\"sequence\") goddesses and the cyclic phases of cognition through which the worship of the Kālī-energies of consciousness proceeds. It praises the successive deities/phases of the cognitive cycle (creation, maintenance, dissolution, and the nameless fourth) as forms of the supreme Goddess, leading the worshipper to nondual realization.",
+    "history": "Abhinavagupta's Kramastotra reflects the strong Krama (Kālīkula) component he absorbed into his Trika synthesis; the Krama Stotra is among the hymns transmitted and recited within Kashmir Shaivism. An earlier Kramastotra is associated with the Krama master Siddhanātha/Eraka, and Abhinavagupta's hymn stands in that lineage.",
+    "related_works": ["Mahānayaprakāśa", "Tantrāloka", "Bhairavastava"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kashmir_Shaivism",
+      "https://www.lakshmanjooacademy.org/blog/four-schools-of-kashmir-shaivism-by-swami-lakshmanjoo"
+    ]
+  },
+  {
+    "work_id": "GSP30ksembodhv_u",
+    "title": "Bodhavilāsa",
+    "author": "Kṣemarāja",
+    "tradition": "Hindu; Kashmir Shaivism (Pratyabhijñā/Trika)",
+    "genre": "philosophical/devotional poem",
+    "date_estimate": "c. early 11th c. CE",
+    "summary": "A short work, the \"Play of Awakened Awareness,\" attributed to Kṣemarāja, expounding the nondual self-recognition doctrine: the world is the joyous self-display (vilāsa) of one luminous consciousness (bodha). It distills, in compact form, the same heart-of-recognition teaching set out in his Pratyabhijñāhṛdaya.",
+    "history": "Ascribed to Kṣemarāja (late 10th-early 11th c.), the foremost disciple of Abhinavagupta and the great systematizer-commentator of Kashmir Shaivism (author of the Pratyabhijñāhṛdaya, Śivasūtravimarśinī, Spandanirṇaya, etc.). The Bodhavilāsa is a minor work and its details and attribution are less securely documented than his major treatises.",
+    "related_works": ["Pratyabhijñāhṛdaya", "Śivasūtravimarśinī", "Spandanirṇaya"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kshemaraja",
+      "https://en.wikipedia.org/wiki/Kashmir_Shaivism"
+    ]
+  },
+  {
+    "work_id": "GSP30parmartu",
+    "title": "Paramārthasāra",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu; Kashmir Shaivism (Trika/Pratyabhijñā)",
+    "genre": "philosophical treatise (ārya-verse compendium)",
+    "date_estimate": "c. 993-1015 CE",
+    "summary": "Abhinavagupta's \"Essence of the Supreme Truth,\" a compendium of about 105 ārya verses summarizing nondual Trika metaphysics and soteriology: the free manifestation of the cosmos within Shiva-consciousness, the soul's contraction into bondage, and liberation through recognition of identity with the Absolute. (This is a second catalogue entry for the same work as GSP30aparmyou, here given a narrower date range.)",
+    "history": "Adapted by Abhinavagupta from the older Paramārthasāra (Ādhārakārikā) of Ādiśeṣa, recast in Shaiva nondual terms; Yogarāja's commentary (vivṛti) made it a standard teaching text of Kashmir Shaivism.",
+    "related_works": ["Paramārthasāra of Ādiśeṣa", "Yogarāja's Paramārthasāra-vivṛti", "Tantrasāra", "Īśvarapratyabhijñā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhinavagupta",
+      "https://iep.utm.edu/kashmiri/"
+    ]
+  },
+  {
+    "work_id": "GSP30partr_pu",
+    "title": "Parātriṃśikā",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu; Kashmir Shaivism (Trika)",
+    "genre": "tantra (revealed scripture, short)",
+    "date_estimate": "before c. 9th c. CE (early tantric layer; date disputed)",
+    "summary": "A short revealed Trika scripture of about 36 verses (also called Parātrīśikā/Parāpraveśikā), traditionally regarded as the concluding/essential portion of the Rudrayāmala Tantra. In dialogue form (Bhairava and the Goddess) it concentrates on the supreme reality and the methods of its realization through mantra, especially a profound metaphysics of the Word (vāc) and the phonematic emanation of the alphabet from consciousness.",
+    "history": "An anonymous tantra held in the highest esteem in Kashmir Shaivism; it attracted commentaries by Somānanda and especially Abhinavagupta (both a short Laghuvṛtti and the extensive Vivaraṇa). Abhinavagupta preferred the title Parātrīśikā (\"Supreme Goddess of the Three\") over Parātriṃśikā since the verses exceed thirty.",
+    "related_works": ["Rudrayāmala Tantra", "Parātriṃśikāvivaraṇa", "Parātriṃśikālaghuvṛtti"],
+    "confidence": "high",
+    "sources": [
+      "https://www.sanskrit-trikashaivism.com/en/paratrishika-vivarana-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/540",
+      "https://books.google.com/books/about/Para_trisika_Vivarana_of_Abhinavagupta.html?id=Vzk1EAAAQBAJ"
+    ]
+  },
+  {
+    "work_id": "GSP30partrvpu",
+    "title": "Parātriṃśikāvivaraṇa",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu; Kashmir Shaivism (Trika)",
+    "genre": "bhasya/vivaraṇa (extended commentary)",
+    "date_estimate": "c. late 10th-early 11th c. CE",
+    "summary": "Abhinavagupta's extensive commentary (vivaraṇa) on the Parātriṃśikā/Parātrīśikā. Far exceeding the base text in scope, it elaborates a complete metaphysics of consciousness and of language: the stages of the Word (parā, paśyantī, madhyamā, vaikharī), the emanation of the phonemes from supreme awareness, the practice and theory of mantra, and the path of nondual realization in Trika.",
+    "history": "One of Abhinavagupta's deepest works (translated by Jaideva Singh as \"The Secret of Tantric Mysticism\"); he wrote both this long Vivaraṇa and a shorter Laghuvṛtti on the same scripture, building on Somānanda's earlier commentary. It is a cornerstone of the Trika philosophy of language.",
+    "related_works": ["Parātriṃśikā", "Rudrayāmala Tantra", "Parātriṃśikālaghuvṛtti", "Tantrāloka"],
+    "confidence": "high",
+    "sources": [
+      "https://www.sanskrit-trikashaivism.com/en/paratrishika-vivarana-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/540",
+      "https://www.motilalbanarsidass.com/en-us/products/para-trisika-vivarana-of-abhinavagupta-the-secret-of-tantric-mysticism"
+    ]
+  },
+  {
+    "work_id": "GSP30parypanu",
+    "title": "Paryantapañcāśikā",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu; Kashmir Shaivism (Trika)",
+    "genre": "philosophical poem (fifty verses)",
+    "date_estimate": "c. late 10th-early 11th c. CE",
+    "summary": "The \"Fifty Verses on the Ultimate Limit,\" a compact philosophical poem in which Abhinavagupta describes the highest reality and the ultimate term (paryanta) of the spiritual path: the recognition that all that appears is the self-vibration of a single supreme consciousness. It presents the cosmos, the categories, and the means of liberation as resting in and dissolving back into the Absolute.",
+    "history": "A late, mature work of Abhinavagupta, sometimes regarded as one of his concluding statements of Trika doctrine; it has been edited and studied (e.g. by V. Raghavan) but is among his less widely circulated compositions.",
+    "related_works": ["Paramārthasāra", "Bodhapañcadaśikā", "Tantrasāra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhinavagupta",
+      "https://www.anuttaratrikakula.org/abhinava/"
+    ]
+  },
+  {
+    "work_id": "GSP30pratyabu",
+    "title": "Pratyabhijñāhṛdaya",
+    "author": "Kṣemarāja",
+    "tradition": "Hindu; Kashmir Shaivism (Pratyabhijñā/Trika)",
+    "genre": "sutra with auto-commentary (doctrinal manual)",
+    "date_estimate": "c. early 11th c. CE",
+    "summary": "The \"Heart of the Doctrine of Recognition,\" a concise manual of twenty sūtras with the author's own prose commentary, summarizing the Pratyabhijñā philosophy for non-specialists. It teaches that the one absolute consciousness (Citi) freely manifests the universe, contracts itself into limited subjects, and is liberated through the recognition (pratyabhijñā) of its own true nature as Shiva.",
+    "history": "Kṣemarāja, the chief disciple of Abhinavagupta, wrote this popularizing digest to make the dense Īśvarapratyabhijñā system of Utpaladeva and Abhinavagupta accessible. It became, and remains, one of the most widely read introductions to Kashmir Shaivism.",
+    "related_works": ["Īśvarapratyabhijñākārikā", "Śivasūtra", "Spandakārikā", "Pratyabhijñāvimarśinī"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kashmir_Shaivism",
+      "https://www.wisdomlib.org/definition/kshemaraja"
+    ]
+  },
+  {
+    "work_id": "GSP30sa_avadhUtasiddha-bhagavadbhaktistotra",
+    "title": "Bhagavadbhaktistotra",
+    "author": "Avadhūtasiddha",
+    "tradition": "Hindu; Kashmir Shaivism (Shaiva devotional)",
+    "genre": "stotra (devotional hymn of bhakti)",
+    "date_estimate": "c. 9th-10th c. CE (uncertain)",
+    "summary": "A \"Hymn of Devotion to the Lord,\" a Shaiva stotra expressing loving surrender (bhakti) to God conceived as the nondual supreme Self/Shiva. Like other Kashmiri Shaiva hymns in the lineage of Utpaladeva's Śivastotrāvalī, it fuses intense personal devotion with the recognition that the worshipper's own consciousness is identical with the worshipped.",
+    "history": "Attributed to one Avadhūtasiddha, a poorly documented figure of the nondual Kashmiri Shaiva milieu; the work survives within the corpus of Kashmiri Shaiva devotional poetry but the author's identity and exact date are not securely established.",
+    "related_works": ["Śivastotrāvalī", "Anuttarāṣṭikā", "Bhairavastava"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kashmir_Shaivism",
+      "https://www.lakshmanjooacademy.org/blog/shivastotravali-sung-by-swami-lakshmanjoo-and-devotees"
+    ]
+  },
+  {
+    "work_id": "GSP30sa_kSemarAja-bhairavAnukaraNastotra",
+    "title": "Bhairavānukaraṇastotra",
+    "author": "Kṣemarāja",
+    "tradition": "Hindu; Kashmir Shaivism (Trika)",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "c. early 11th c. CE",
+    "summary": "A \"Hymn of Imitation of (i.e. assimilation to) Bhairava,\" in which the devotee identifies with Bhairava, the terrifying nondual form of Shiva who is the worshipper's own essential consciousness. The hymn cultivates the meditative state in which fear and duality dissolve as one becomes Bhairava oneself.",
+    "history": "Ascribed to Kṣemarāja, the principal disciple of Abhinavagupta; it belongs to the rich stotra literature of the Trika that turns the metaphysics of recognition into experiential, devotional practice. Its details are less fully studied than Kṣemarāja's major prose commentaries.",
+    "related_works": ["Bhairavastava", "Pratyabhijñāhṛdaya", "Spandanirṇaya"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kshemaraja",
+      "https://en.wikipedia.org/wiki/Kashmir_Shaivism"
+    ]
+  },
+  {
+    "work_id": "GSP30spandkau",
+    "title": "Spandakārikā",
+    "author": "Vasugupta (or his pupil Bhaṭṭa Kallaṭa)",
+    "tradition": "Hindu; Kashmir Shaivism (Spanda/Trika)",
+    "genre": "kārikā (verse aphorisms), foundational philosophical text",
+    "date_estimate": "c. early-mid 9th c. CE (c. 825-875)",
+    "summary": "The foundational text of the Spanda (\"vibration/pulsation\") school of Kashmir Shaivism, about fifty-one verses teaching that the entire cosmos is the pulsating self-expression of one dynamic consciousness, Shiva-Shakti. By attending to the spanda underlying every perception, emotion, and movement of mind, the practitioner recognizes and abides in the ever-active Self.",
+    "history": "Traditionally derived from the Śivasūtra revealed to Vasugupta (c. 800-850 CE); authorship of the Kārikā is debated between Vasugupta and his disciple Bhaṭṭa Kallaṭa, who at least transmitted and may have composed it. It generated a major commentarial tradition (Kallaṭa's Vṛtti, Kṣemarāja's Spandanirṇaya and Spandasandoha, Rājānaka Rāma's Spandavivṛti).",
+    "related_works": ["Śivasūtra", "Spandanirṇaya", "Spandasandoha", "Spandavṛtti"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kashmir_Shaivism",
+      "https://www.sanskrit-trikashaivism.com/en/spanda-karikas-normal-translation-trika-scriptures-non-dual-shaivism-of-kashmir/564"
+    ]
+  },
+  {
+    "work_id": "GSP30timudghu",
+    "title": "Timirodghāṭana",
+    "author": "anonymous/traditional (revealed scripture)",
+    "tradition": "Hindu; Kashmir Shaivism (Kaula/Trika Śaiva tantra)",
+    "genre": "tantra (revealed scripture)",
+    "date_estimate": "c. 7th-9th c. CE (early tantric, uncertain)",
+    "summary": "An early anonymous Kaula Shaiva tantra, the \"Dispelling of Darkness,\" notable for its account of śaktipāta (the descent of divine power/grace) and samāveśa (immersion or possession by the deity). It is one of the scriptural sources cited in the formation of nondual Trika/Kaula doctrine on initiation and absorption into Shiva-consciousness.",
+    "history": "A fragmentary and little-edited early tantra known mainly from citations and from modern scholarship (e.g. Alexis Sanderson) on the early Kaula and Vidyāpīṭha strata of Shaivism; it is valued for its early treatment of grace and immersion that fed into later Trika thought. Its full text, authorship, and precise date remain uncertain.",
+    "related_works": ["Mālinīvijayottaratantra", "Tantrāloka", "Kaula tantras of the Vidyāpīṭha"],
+    "confidence": "low",
+    "sources": [
+      "https://vishvasa.github.io/AgamaH_shaivaH/meta/articles/sanderson/tAntric-traditions/",
+      "https://en.wikipedia.org/wiki/Kashmir_Shaivism"
+    ]
+  }
+]

@@ -1,0 +1,1619 @@
+work	source	n_chunks	ling_est	nb	na	post_median	crI_lo95	crI_hi95	title
+SA_GV01_rv_04_u	anchor	12	-1239	-1500.0	-1000.0	-1127	-1403	-873	Ṛgveda 4
+SA_GV01_rv_hn09u	anchor	22	-1230	-1500.0	-1000.0	-1127	-1382	-867	Ṛgveda: Maṇḍala 9
+SA_GV01_rvh1-10u	anchor	211	-1209	-1500.0	-1000.0	-1127	-1390	-864	Ṛgveda
+SA_GV01_rv_hn01u	anchor	41	-1242	-1500.0	-1000.0	-1125	-1388	-862	Ṛgveda: Maṇḍala 1
+SA_GV01_rv_hn05u	anchor	15	-1242	-1500.0	-1000.0	-1125	-1393	-865	Ṛgveda: Maṇḍala 5
+SA_GV01_rv_hn07u	anchor	17	-1232	-1500.0	-1000.0	-1124	-1388	-872	Ṛgveda: Maṇḍala 7
+SA_GV01_rv_05_u	anchor	15	-1228	-1500.0	-1000.0	-1124	-1392	-858	Ṛgveda 5
+SA_GV01_rv_hn03u	anchor	12	-1242	-1500.0	-1000.0	-1123	-1384	-862	Ṛgveda: Maṇḍala 3
+SA_GV01_rv_hn10u	anchor	35	-1214	-1500.0	-1000.0	-1123	-1372	-870	Ṛgveda: Maṇḍala 10
+SA_GV01_rv_hn06u	anchor	16	-1235	-1500.0	-1000.0	-1122	-1388	-858	Ṛgveda: Maṇḍala 6
+SA_GV01_rv_hn08u	anchor	34	-1198	-1500.0	-1000.0	-1122	-1377	-858	Ṛgveda: Maṇḍala 8
+SA_GV01_rv_hn04u	anchor	12	-1251	-1500.0	-1000.0	-1121	-1392	-864	Ṛgveda: Maṇḍala 4
+SA_GV01_rv_06_u	anchor	16	-1196	-1500.0	-1000.0	-1119	-1379	-850	Ṛgveda 6
+SA_GV01_rv_hn02u	anchor	9	-1208	-1500.0	-1000.0	-1119	-1373	-848	Ṛgveda: Maṇḍala 2
+SA_GV01_rv_01_u	anchor	40	-1192	-1500.0	-1000.0	-1118	-1379	-850	Ṛgveda 1
+SA_GV01_rv_09_u	anchor	22	-1189	-1500.0	-1000.0	-1118	-1370	-855	Ṛgveda 9
+SA_GV01_rv_03_u	anchor	12	-1159	-1500.0	-1000.0	-1117	-1371	-859	Ṛgveda 3
+SA_GV01_rv_02_u	anchor	9	-1170	-1500.0	-1000.0	-1114	-1374	-859	Ṛgveda 2
+SA_GV01_rv_07_u	anchor	16	-1171	-1500.0	-1000.0	-1112	-1370	-859	Ṛgveda 7
+SA_GV01_rv_10_u	anchor	35	-1145	-1500.0	-1000.0	-1110	-1361	-849	Ṛgveda 10
+SA_GV00_samavedu	anchor	38	-1233	-1200.0	-1000.0	-1083	-1196	-972	Sāmaveda-Saṃhitā
+SA_GV00_avs___u	anchor	115	-1119	-1200.0	-800.0	-942	-1159	-724	Atharvaveda-Saṃhitā
+SA_GV00_avs	anchor	60	-1060	-1200.0	-800.0	-934	-1154	-721	Atharvaveda-Saṃhitā
+SA_GV_syajurvedu	anchor	22	-1066	-1200.0	-800.0	-933	-1152	-720	Śukla-Yajurveda
+SA_GV00_sa_paippalAdasaMhitA	anchor	298	-999	-1200.0	-800.0	-925	-1134	-714	Paippalāda-Saṃhitā
+SA_GV00_maitrs_pu	anchor	124	-790	-1200.0	-800.0	-898	-1117	-680	Maitrāyaṇī-Saṃhitā
+SA_GV02_pncvbr1u	anchor	47	-910	-900.0	-700.0	-786	-899	-671	Pañcaviṃśabrāhmaṇa
+SA_GV02_gopthbru	anchor	8	-680	-900.0	-700.0	-779	-895	-662	Gopatha-Brāhmaṇa
+SA_GV02_gopbra_u	anchor	57	-720	-900.0	-700.0	-779	-892	-661	Gopathabrāhmaṇa
+SA_GV02_kausibru	anchor	94	-561	-900.0	-700.0	-772	-887	-659	Kauṣītaki-Brāhmaṇa [Śāṅkhāyana-Brāhmaṇa]
+SA_GV03_sb_13_u	anchor	14	-846	-800.0	-600.0	-687	-806	-568	Śatapatha-Brāhmaṇa 13
+SA_GV03_sb_03_u	anchor	34	-788	-800.0	-600.0	-686	-797	-569	
+SA_GV03_sb_04_u	anchor	27	-767	-800.0	-600.0	-686	-801	-570	Śatapatha-Brāhmaṇa 4
+SA_GV03_sb_06_u	anchor	23	-764	-800.0	-600.0	-685	-799	-571	Śatapatha-Brāhmaṇa 6
+SA_GV03_sb_01_u	anchor	33	-777	-800.0	-600.0	-685	-802	-568	Śatapatha-Brāhmaṇa 1
+SA_GV03_sb_11_u	anchor	14	-731	-800.0	-600.0	-685	-797	-567	Śatapatha-Brāhmaṇa 11
+SA_GV03_sb_07_u	anchor	18	-742	-800.0	-600.0	-685	-801	-564	Śatapatha-Brāhmaṇa 7
+SA_GV03_sb_02_u	anchor	23	-753	-800.0	-600.0	-685	-798	-569	Śatapatha-Brāhmaṇa 2
+SA_GV03_sb	anchor	111	-766	-800.0	-600.0	-684	-801	-569	Śatapatha-Brāhmaṇa
+SA_GV03_sb_09_u	anchor	17	-775	-800.0	-600.0	-684	-803	-569	Śatapatha-Brāhmaṇa 9
+SA_GV03_sb_10_u	anchor	13	-713	-800.0	-600.0	-683	-802	-567	Śatapatha-Brāhmaṇa 10
+SA_GV03_sb_08_u	anchor	20	-724	-800.0	-600.0	-683	-797	-574	Śatapatha-Brāhmaṇa 8
+SA_GV03_sb_14_u	anchor	25	-701	-800.0	-600.0	-682	-794	-567	Śatapatha-Brāhmaṇa 14
+SA_GV01_rvkhilau	anchor	15	-835	-1000.0	-500.0	-674	-934	-408	The Khila Verses of the Ṛgveda
+SA_GV04_sankharu	anchor	17	-753	-700.0	-500.0	-590	-707	-471	Śāṅkhāyana-Āraṇyaka
+SA_GV05_chup	anchor	25	-705	-700.0	-500.0	-590	-704	-473	Chāndogya-Upaniṣad
+SA_GV05_chup___u	anchor	25	-705	-700.0	-500.0	-589	-704	-471	Chāndogya-Upaniṣad
+SA_GV05_brup___u	anchor	27	-718	-700.0	-500.0	-588	-705	-476	Bṛhadāraṇyaka-Upaniṣad
+SA_GV06_avpray_u	anchor	14	-820	-1400.0	-300.0	-583	-1010	-171	Atharvaprāyaścittāni
+SA_GV05_brupsb6u	anchor	12	-383	-700.0	-500.0	-578	-690	-461	Bṛhadāraṇyaka-Upaniṣad: Adhyāya 6
+SA_GV05_brupsb5u	anchor	9	-500	-700.0	-500.0	-577	-696	-463	Bṛhadāraṇyaka-Upaniṣad: Adhyāya 5
+SA_GV05_chupsau	anchor	79	-403	-700.0	-500.0	-577	-696	-463	Chāndogya-Upaniṣad (Śaṅkarabhāṣya)
+SA_GV05_brupsb1u	anchor	40	-318	-700.0	-500.0	-575	-694	-457	
+SA_GV05_chupsb_u	anchor	79	-360	-700.0	-500.0	-575	-683	-458	
+SA_GV05_brupsb2u	anchor	23	-280	-700.0	-500.0	-572	-690	-458	Bṛhadāraṇyaka-Upaniṣad: Adhyāya 2
+SA_GV05_brupsb4u	anchor	30	-155	-700.0	-500.0	-569	-681	-452	Bṛhadāraṇyaka-Upaniṣad: Adhyāya 4
+SA_GV05_brupsb3u	anchor	25	-70	-700.0	-500.0	-568	-686	-450	Bṛhadāraṇyaka-Upaniṣad: Adhyāya 3
+SA_GV05_aitup__u	anchor	2	-630	-600.0	-400.0	-487	-604	-372	Aitareya-Upaniṣad
+SA_GV05_aitupsbu	anchor	9	-297	-600.0	-400.0	-479	-597	-367	Aitareya-Upaniṣad
+SA_GV06_manavgsu	anchor	12	-661	-600.0	-300.0	-434	-599	-266	Mānava-Gṛhyasūtra [Maitrāyaṇīyamānava-Gṛhyasūtra]
+SA_GV06_asvgs_u	anchor	9	-617	-600.0	-300.0	-429	-600	-255	Āśvalāyana-Gṛhyasūtra
+SA_GV06_kaussu_u	anchor	49	-577	-600.0	-300.0	-429	-599	-265	Kauśika-Sūtra
+SA_GV06_vargs_u	anchor	8	-488	-600.0	-300.0	-425	-591	-255	Vārāha-Gṛhyasūtra
+SA_GV06_sankhssu	anchor	65	-229	-700.0	-300.0	-413	-628	-197	Śāṅkhāyana-Śrautasūtra
+SA_GV06_kauthgsu	anchor	3	679	-600.0	-300.0	-377	-543	-202	Kauthuma-Gṛhyasūtra
+SA_GV06_sankhgsu	anchor	13	334	-600.0	-300.0	-373	-536	-201	Śāṅkhāyana-Gṛhyasūtra
+SA_GV06_apsulb_u	anchor	5	524	-600.0	-300.0	-372	-538	-199	Āpastamba-Śulbasūtra
+SA_GV06_vaitss_u	anchor	23	-489	-600.0	-200.0	-364	-588	-151	Vaitāna-Śrautasūtra [Vaitānasūtra]
+SA_GV06_asvss_u	anchor	70	295	-700.0	-300.0	-342	-556	-129	Āśvalāyana-Śrautasūtra
+SA_GS24_paninipu	anchor	39	537	-400.0	-300.0	-339	-398	-280	Aṣṭādhyāyī
+SA_GS24_panini_u	anchor	40	615	-400.0	-300.0	-337	-394	-279	Aṣṭādhyāyī
+SA_GV06_apastgcu	anchor	92	701	-600.0	-300.0	-326	-493	-154	Āpastamba-Gṛhyasūtra
+SA_GV05_kaivup_u	anchor	1	532	-500.0	-200.0	-306	-478	-128	Kaivalya-Upaniṣad
+SA_GV06_jaimigsu	anchor	6	-827	-500.0	-100.0	-301	-520	-76	Jaimini-Gṛhyasūtra
+SA_GV05_sirup_u	anchor	2	-812	-500.0	-100.0	-280	-505	-56	Śira-Upaniṣad [Atharvaśira-Upaniṣad]
+SA_GV05_isup___u	anchor	1	-1059	-500.0	-100.0	-277	-505	-45	Īśa-Upaniṣad [Īśāvāsyopaniṣad]
+SA_GSD37_apastd_u	anchor	17	230	-600.0	-200.0	-277	-489	-52	Āpastamba-Dharmasūtra
+SA_GV05_kathop_u	anchor	3	-652	-500.0	-100.0	-273	-496	-48	Kaṭha-Upaniṣad
+SA_GV05_svetugpu	anchor	3	-316	-500.0	-100.0	-256	-478	-33	Śvetāśvatara-Upaniṣad
+SA_GSD37_gautdh_u	anchor	13	574	-600.0	-200.0	-248	-456	-26	Gautama-Dharmasūtra
+SA_GV05_svetu_pu	anchor	3	58	-500.0	-100.0	-232	-447	-14	Śvetāśvatara-Upaniṣad
+SA_GV05_isupsb_u	anchor	3	284	-500.0	-100.0	-216	-444	1	Īśa-Upaniṣad [Īśāvāsyopaniṣad]
+SA_GSP32_vaissu1u	anchor	4	533	-600.0	-100.0	-184	-450	81	Vaiśeṣikasūtra
+SA_GV06_rgvidh_u	anchor	14	-129	-500.0	0.0	-172	-429	91	Ṛgvidhāna
+SA_GSD37_gautdhcu	anchor	20	1241	-600.0	-200.0	-159	-374	62	Gautama-Dharmasūtra
+SA_GS38_kautil	anchor	87	568	-300.0	-100.0	-158	-279	-42	Arthaśāstra
+SA_GV05_prasupbu	anchor	10	-531	-200.0	100.0	-59	-229	111	Praśna-Upaniṣad
+SA_GV05_prasup_u	anchor	3	-728	-200.0	100.0	-55	-226	117	Praśna-Upaniṣad
+SA_GSD37_vasist_u	anchor	22	158	-300.0	100.0	-36	-252	179	Vāsiṣṭadharmasūtra
+SA_GV05_mand_upu	anchor	1	-215	-200.0	100.0	-32	-205	140	Māṇḍūkya-Upaniṣad
+SA_K10_bsu031	anchor	4	401	-200.0	100.0	-12	-183	157	Śālistambasūtra
+SA_K10_bsu023_u	anchor	4	406	-200.0	100.0	-11	-178	158	Madhyamakaśālistambasūtra
+SA_K10_ekottaru	anchor	11	386	-250.0	100.0	-11	-215	185	Ekottarāgama [Ekottarāgamasūtra]
+SA_T07_dhrmsk_u	anchor	16	327	-200.0	100.0	-4	-174	165	Dharmaskandha
+SA_GV05_mandup_u	anchor	1	-477	-200.0	200.0	22	-215	250	Māṇḍūkya-Upaniṣad
+SA_GE09_ram_03_u	anchor	44	517	-400.0	100.0	23	-229	284	Rāmāyaṇa: 3. Araṇyakāṇḍa
+SA_K05_bsu049_u	anchor	118	464	-100.0	100.0	26	-92	141	Aṣṭasāhasrikā Prajñāpāramitā [Aṣṭasāhasrikāprajñāpāramitāsūtra]
+SA_K14_dhppat_u	anchor	17	153	-250.0	200.0	37	-200	279	Patna Dharmapada
+SA_K01_bhivin_u	anchor	80	186	-200.0	200.0	55	-158	262	Bhikṣuṇīvinaya
+SA_K10_udanav_u	anchor	23	-174	-75.0	200.0	61	-89	220	Udānavarga
+SA_K01_n742u	anchor	82	260	-200.0	200.0	66	-149	277	Bhikṣuṇīvinaya
+SA_K01_abhisdhu	anchor	76	194	-100.0	200.0	78	-89	243	Abhisamācārikadharma
+SA_K14_mavadsuu	anchor	11	276	-100.0	200.0	79	-92	246	Mahāvadānasūtra
+SA_GE07_bhgce__u	anchor	15	487	-200.0	200.0	84	-131	304	Bhagavadgītā
+SA_GSP33_brahmsuu	anchor	6	642	-200.0	200.0	87	-130	311	Brahmasūtra
+SA_GSP33_brahms2u	anchor	6	628	-200.0	200.0	87	-128	310	Brahmasūtra
+SA_K01_bhikavau	anchor	7	454	-100.0	200.0	90	-79	262	Bhikṣuṇī-Karmavācanā
+SA_GE09_ram_04_u	anchor	42	455	-400.0	200.0	92	-200	389	Rāmāyaṇa: 4. Kiṣkindhākāṇḍa
+SA_GE09_ram_03pu	anchor	42	887	-400.0	100.0	92	-163	354	Rāmāyaṇa: 3. Araṇyakāṇḍa
+SA_K14_n445u	anchor	14	473	-100.0	200.0	96	-72	271	Mahāvadānasūtra
+SA_GE09_ram_02su	anchor	65	455	-400.0	200.0	96	-196	394	Rāmāyaṇa: 2. Ayodhyākāṇḍa
+SA_GV05_brbiuppu	anchor	1	117	-200.0	300.0	102	-182	383	Brahmabindu-Upaniṣad
+SA_K10_bsu036_u	anchor	74	498	-100.0	200.0	103	-66	274	Saddharmapuṇḍarīkasūtra
+SA_K10_adbhutdu	anchor	1	573	-50.0	220.0	105	-49	264	Adbhutadharmaparyāya [Adbhutadharmaparyāyasūtra]
+SA_GE07_bhg4c08u	anchor	11	720	-200.0	200.0	108	-112	327	Bhagavadgītā 8
+SA_GE09_ram_05_u	anchor	55	515	-400.0	200.0	110	-176	402	Rāmāyaṇa: 5. Sundarakaṇḍa
+SA_K01_prmosufu	anchor	2	260	-200.0	300.0	111	-160	379	Prātimokṣasūtra
+SA_K10_bsu032_u	anchor	2	586	1.0	200.0	115	4	233	Sukhāvatyamṛtavyūha [Sukhāvatī(amṛta)vyūhasūtra] aka the Smaller Sukhāvatīvyūha
+SA_K10_sukhvysu	anchor	2	762	1.0	200.0	117	-0	234	Sukhāvatyamṛtavyūha [Sukhāvatī(amṛta)vyūhasūtra] aka the Smaller Sukhāvatīvyūha
+SA_T13_n929u	anchor	24	218	80.0	150.0	117	67	165	Saundarananda Mahākāvya
+SA_T11_bsa020_u	anchor	1	803	80.0	150.0	117	70	165	Vajrasūcī
+SA_T02_bsa045_u	anchor	1	436	80.0	150.0	117	68	166	Gurupañcāśikā
+SA_GK19_asvsaunu	anchor	22	356	80.0	150.0	117	71	166	Saundarananda
+SA_GK19_asvsau2u	anchor	23	315	80.0	150.0	117	67	167	Saundarananda
+SA_K08_bsu020_u	anchor	12	493	1.0	199.0	118	2	220	Kāśyapaparivartasūtra [Kāśyapaparivarta]
+SA_GK19_asvbc_1u	anchor	26	462	80.0	150.0	119	70	166	Buddhacarita
+SA_GSP29_nysu51pu	anchor	4	586	-150.0	250.0	119	-102	341	Nyāyasūtra 5.1
+SA_GK19_asvbuc2u	anchor	21	555	80.0	150.0	119	70	166	Buddhacarita
+SA_GK20_dramfrag_pu	anchor	8	635	80.0	150.0	120	71	167	Dramatic Fragments (buddhist)
+SA_K08_kasyparu	anchor	15	511	1.0	199.0	120	3	230	Kāśyapaparivartasūtra [Kāśyapaparivarta]
+SA_GV05_garbhupu	anchor	1	595	-200.0	300.0	123	-154	406	Garbha-Upaniṣad
+SA_K07_bsu033_u	anchor	14	602	0.0	200.0	125	9	239	Sukhāvatīvyūha
+SA_GE07_bhg4c14u	anchor	10	905	-200.0	200.0	126	-94	343	Bhagavadgītā 14
+SA_K07_sukhvylu	anchor	24	698	0.0	200.0	127	11	241	Sukhāvatīvyūha
+SA_K01_prmosu_u	anchor	8	337	-200.0	300.0	127	-134	394	Prātimokṣasūtra
+SA_GS40_caraka_u	anchor	47	841	-100.0	200.0	127	-39	294	Carakasaṃhitā
+SA_GE07_bhg4c16u	anchor	9	1004	-200.0	200.0	131	-92	348	Bhagavadgītā 16
+SA_GE09_ram_02_u	anchor	106	594	-400.0	200.0	131	-157	427	Rāmāyaṇa: 2. Ayodhyākāṇḍa
+SA_GE07_bhg4c01u	anchor	8	1026	-200.0	200.0	131	-91	350	Bhagavadgītā 1
+SA_GE07_bhg4c10u	anchor	13	908	-200.0	200.0	131	-88	347	Bhagavadgītā 10
+SA_K10_sf140_sc	anchor	3	416	50.0	200.0	131	43	221	Vimalakīrtinirdeśasūtra [Vimalakīrtinirdeśa]
+SA_GE07_bhg4c12u	anchor	8	1060	-200.0	200.0	133	-90	347	Bhagavadgītā 12
+SA_GV05_ndbiuppu	anchor	1	280	-100.0	300.0	133	-91	358	Nādabindu-Upaniṣad
+SA_GE07_bhg4c17u	anchor	9	1004	-200.0	200.0	133	-81	356	Bhagavadgītā 17
+SA_GE07_bhg4c11u	anchor	16	873	-200.0	200.0	133	-86	351	Bhagavadgītā 11
+SA_K10_vimkn_u	anchor	32	531	1.0	250.0	134	7	199	Vimalakīrtinirdeśa [Vimalakīrtinirdeśasūtra]
+SA_GSP29_gaunys_u	anchor	11	555	-150.0	250.0	134	-79	358	Nyāyasūtra
+SA_K01_prmosubu	anchor	10	336	-200.0	300.0	135	-132	394	Prātimokṣasūtra
+SA_K10_bsu061_u	anchor	37	698	50.0	200.0	136	50	197	Vimalakīrtinirdeśasūtra [Vimalakīrtinirdeśa]
+SA_GE07_bhg4c05u	anchor	13	997	-200.0	200.0	138	-82	359	Bhagavadgītā 5
+SA_T05_bsa062_u	anchor	2	648	-200.0	300.0	138	-137	412	Śālistambakakārikā [Āryaśālistambakakārikā]
+SA_GE07_bhg4c07u	anchor	14	1008	-200.0	200.0	139	-79	364	Bhagavadgītā 7
+SA_GE07_bhg4c15u	anchor	10	1038	-200.0	200.0	141	-77	357	Bhagavadgītā 15
+SA_GSP29_nysvbh_u	anchor	65	539	-150.0	250.0	143	-82	355	Nyāyasūtra
+SA_K01_bsu046_u	anchor	9	425	-200.0	300.0	144	-118	409	Prātimokṣasūtra
+SA_GE07_bhg4c04u	anchor	17	978	-200.0	200.0	145	-72	369	Bhagavadgītā 4
+SA_K01_prmosulu	anchor	12	403	-200.0	300.0	147	-116	413	Prātimokṣasūtra
+SA_GE07_bhg4c03u	anchor	19	1006	-200.0	200.0	148	-62	367	Bhagavadgītā 3
+SA_GE07_bhg4c06u	anchor	24	1008	-200.0	200.0	148	-63	361	Bhagavadgītā 6
+SA_GE07_bhg4c18u	anchor	18	1048	-200.0	200.0	150	-66	365	Bhagavadgītā 18
+SA_GE07_bhg4c09u	anchor	16	1000	-200.0	200.0	151	-70	369	Bhagavadgītā 9
+SA_GSP33_brssbh1u	anchor	56	118	-200.0	400.0	153	-143	450	Brahmasūtra: Adhyāya 1
+SA_K10_divav29u	anchor	26	419	100.0	200.0	154	95	213	Aśokāvadāna
+SA_GSP28_jaimsutu	anchor	27	632	100.0	199.0	156	96	214	Mīmāṃsāsūtra
+SA_GSP33_brssbh4u	anchor	16	113	-200.0	400.0	156	-146	472	Brahmasūtra: Adhyāya 4
+SA_GE07_bhg4c02u	anchor	34	1000	-200.0	200.0	158	-60	371	Bhagavadgītā 2
+SA_GSP33_brssbh3u	anchor	38	155	-200.0	400.0	158	-130	457	Brahmasūtra: Adhyāya 3
+SA_K08_bsu029_u	anchor	13	558	1.0	269.0	170	13	321	Rāṣṭrapālaparipṛcchā [Rāṣṭrapālaparipṛcchāsūtra]
+SA_K03_psp_4u	anchor	56	510	-50.0	285.0	173	-23	359	Pañcaviṃśatisāhasrikā Prajñāpāramitā IV [Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra]
+SA_K03_psp_5u	anchor	51	553	-50.0	285.0	177	-11	366	Pañcaviṃśatisāhasrikā Prajñāpāramitā V [Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra]
+SA_K07_pplg202u	anchor	3	629	0.0	299.0	180	14	348	Larger Prajñāpāramitā [Pañcaviṃśatisāhasrikā Prajñāpāramitā, Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra]
+SA_K10_sf89_sc	inferred	1	-589			180	-645	1008	
+SA_K03_psp_6-8u	anchor	50	542	-50.0	285.0	180	-2	363	Pañcaviṃśatisāhasrikā Prajñāpāramitā VI-VIII [Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra]
+SA_GE09_ram_01_u	anchor	40	555	-200.0	300.0	182	-66	439	Rāmāyaṇa: 1. Bālakāṇḍa
+SA_GSD36_yajn2_pu	anchor	21	560	-100.0	300.0	183	-33	397	Yājñavalkyasmṛti
+SA_T04_bsa015_u	anchor	3	598	100.0	250.0	185	95	271	Suhṛllekha
+SA_K09_bsu014_u	anchor	34	536	100.0	250.0	186	99	274	Daśabhūmikasūtra
+SA_T01_n832u	anchor	2	356	50.0	299.0	189	48	340	Daśabhūmīśvaro nāma mahāyānasūtraratnarājastotra
+SA_K07_pplg1__u	anchor	12	573	0.0	299.0	190	25	360	Larger Prajñāpāramitā [Pañcaviṃśatisāhasrikā Prajñāpāramitā, Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra]
+SA_GE09_ram_07_u	anchor	55	516	0.0	299.0	193	23	363	Rāmāyaṇa: 7. Uttarakāṇḍa
+SA_T07_n772u	anchor	27	538	0.0	299.0	193	25	360	Abhidharmāmṛta
+SA_K10_bsu022_u	anchor	90	551	1.0	300.0	196	30	365	Lalitavistara [Lalitavistarasūtra]
+SA_GE07_mbh_17_u	anchor	3	485	-300.0	400.0	197	-167	545	Mahābhārata: Mahāprasthānikaparvan
+SA_GK22_vispancu	anchor	81	677	-100.0	300.0	199	-15	419	Pañcatantra
+SA_T04_nagmmk_u	anchor	9	19	150.0	250.0	200	141	258	Mūlamadhyamakakārikā
+SA_T10_nrat_2_u	anchor	1	313	150.0	250.0	201	142	260	Ratnāvalī [Ratnamālā] 2
+SA_T04_bsa027_u	anchor	10	112	150.0	250.0	201	143	262	Madhyamakaśāstra
+SA_T04_nagvvy_u	anchor	2	141	150.0	250.0	201	141	262	Vigrahavyāvartanīkārikā
+SA_T04_bsa021_u	anchor	2	294	150.0	250.0	202	142	262	Vigrahavyāvartanī
+SA_T10_nrat_1_u	anchor	2	591	150.0	250.0	203	144	262	Ratnāvalī [Ratnamālā] 1
+SA_T10_nrat_4_u	anchor	2	609	150.0	250.0	203	144	261	Ratnāvalī [Ratnamālā] 3
+SA_T04_nagvigvu	anchor	8	395	150.0	250.0	203	144	262	Vigrahavyāvartanī
+SA_K03_psp_2-3u	anchor	50	651	0.0	300.0	203	38	375	Pañcaviṃśatisāhasrikā Prajñāpāramitā II-III [Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra]
+SA_T04_n848u	anchor	1	772	150.0	250.0	203	146	265	Niraupamyastava
+SA_GK22_vispancu_e	anchor	26	713	-100.0	300.0	203	-24	415	Pañcatantra
+SA_T10_bsa025_u	anchor	5	514	150.0	250.0	203	145	262	Ratnāvalī [Ratnamālā]
+SA_GSP29_nystik_u	anchor	202	997	-150.0	250.0	206	-5	427	Nyāyasūtra
+SA_T05_nagsaliu	anchor	17	616	150.0	250.0	206	146	265	Śālistambakamahāyānasūtraṭīkā [Āryaśālistambakamahāyānasūtraṭīkā]
+SA_T01_naglok_u	anchor	1	700	100.0	300.0	208	94	329	Lokātītastava
+SA_K10_divav33u	anchor	42	322	100.0	299.0	210	93	328	Śārdūlakarṇāvadāna
+SA_GSP34_yogsubhu	anchor	9	355	100.0	299.0	211	97	330	Yogasūtra
+SA_GSP34_patyog_u	anchor	2	587	100.0	299.0	211	97	329	Yogasūtra
+SA_T01_rahppspu	anchor	1	701	100.0	300.0	213	90	328	Prajñāpāramitāstotra
+SA_GSP34_patyogbu	anchor	16	425	100.0	299.0	213	94	331	Yogasūtra with Bhāṣya
+SA_GSP34_yogasutu	anchor	3	681	100.0	299.0	214	101	327	Yogasūtra
+SA_K03_pvspl_u	anchor	4	571	100.0	300.0	215	95	327	Pañcaviṃśatisāhasrikā Prajñāpāramitā [Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra]
+SA_GE07_mbh_18_u	anchor	7	482	-400.0	400.0	215	-183	596	Mahābhārata: Svargārohaṇaparvan
+SA_GS24_pmbhasuu	anchor	281	523	100.0	299.0	217	105	336	Vyākaraṇamahābhāṣya [Mahābhāṣya]
+SA_GSD36_narads_u	anchor	19	363	-100.0	400.0	218	-39	473	Nāradasmṛti
+SA_K10_ratnakeu	anchor	27	550	100.0	299.0	219	104	328	Mahāsannipātaratnaketudhāraṇīsūtra  [Ratnaketuparivarta, Ratnaketudhāraṇīsūtra]
+SA_K10_bsu024_u	anchor	22	570	100.0	299.0	219	102	337	Mahāsannipātaratnaketudhāraṇīsūtra  [Ratnaketuparivarta, Ratnaketudhāraṇīsūtra]
+SA_T04_nagyuksu	anchor	1	753	150.0	280.0	220	146	296	Yuktiṣaṣṭikārikā
+SA_GE07_mbh_12_u	anchor	344	385	-200.0	400.0	220	-70	507	Mahābhārata: Śāntiparvan
+SA_T04_bsa016_u	anchor	2	696	150.0	280.0	220	141	296	Śūnyatāsaptati
+SA_GE07_mbh_11_u	anchor	18	474	-300.0	400.0	220	-110	553	Mahābhārata: Strīparvan
+SA_GK17_chandovu	anchor	3	886	100.0	299.0	221	105	332	Chandoviciti
+SA_K03_pspdut2u	anchor	129	606	100.0	300.0	221	105	338	Pañcaviṃśatisāhasrikā Prajñāpāramitā [Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra]
+SA_T04_bsa028_u	anchor	1	532	170.0	270.0	222	163	280	Catuḥśatikā
+SA_GE07_mbh_10_u	anchor	18	453	-300.0	400.0	222	-116	535	Mahābhārata: Sauptikaparvan
+SA_T16_n2916u	inferred	1	-496			224	-607	1046	Svastyayanagāthā
+SA_T02_bsa048_u	anchor	5	859	170.0	270.0	225	167	285	Caryāmelāvaṇapradīpa
+SA_T02_bsa006_u	anchor	3	967	170.0	270.0	225	165	283	Cittaviśuddhiprakaraṇa
+SA_K14_mhvastuu	anchor	267	427	-200.0	400.0	225	-66	526	Mahāvastu-avadāna
+SA_K10_bsu039_u	anchor	1	397	1.0	399.0	226	8	457	Triskandhasūtra
+SA_GE07_mbh_14_u	anchor	98	436	-300.0	400.0	228	-101	551	Mahābhārata: Aśvamedhikaparvan
+SA_GE07_mbh_16_u	anchor	8	532	-300.0	400.0	230	-117	588	Mahābhārata: Mausalaparvan
+SA_GE07_mbh_05_u	anchor	158	427	-300.0	400.0	230	-92	553	Mahābhārata: Udyogaparvan
+SA_GE07_mbh_15_u	anchor	24	468	-300.0	400.0	230	-97	546	Mahābhārata: Āśramavāsikaparvan
+SA_T17_kukalpmu	anchor	15	624	150.0	299.0	235	147	324	Kalpanāmaṇḍitikā
+SA_GE07_mbh_13_u	anchor	267	434	-400.0	400.0	235	-111	587	Mahābhārata: Anuśāsanaparvan
+SA_T06_srabhu_u	anchor	74	244	200.0	270.0	236	187	285	Yogācārabhūmi: Śrāvakabhūmi
+SA_T06_srabhusu	anchor	118	368	200.0	270.0	237	189	289	Yogācārabhūmi: Śrāvakabhūmi
+SA_GSD36_nars2_pu	anchor	19	469	-100.0	400.0	239	-26	501	Nāradasmṛti
+SA_K14_pamsuavu	anchor	1	744	100.0	350.0	240	98	383	Pāṃśupradāna-avadāna
+SA_GE07_mbh_01_u	anchor	263	499	-400.0	400.0	243	-91	605	Mahābhārata: Ādiparvan
+SA_K01_vinv06_u	anchor	70	375	1.0	400.0	246	27	461	Bhaiṣajyavastu
+SA_GE07_hv_conpu	anchor	175	501	-100.0	400.0	246	-10	507	Harivaṃśa
+SA_GE07_mbh_03_u	anchor	276	492	-400.0	400.0	248	-99	589	Mahābhārata: Āraṇyakaparvan
+SA_K10_n446u	anchor	2	742	1.0	400.0	249	24	472	Meghasūtra
+SA_K08_bsu040_u	anchor	1	604	50.0	400.0	252	48	442	Vinayaviniścaya upāliparipṛcchā [Vinayaviniścaya upāliparipṛcchā sūtra]
+SA_GSP33_brssbh2u	anchor	44	526	-200.0	400.0	253	-37	543	Brahmasūtra: Adhyāya 2
+SA_GE07_mbh_09_u	anchor	82	549	-300.0	400.0	254	-63	571	Mahābhārata: Śalyaparvan
+SA_T17_matpra_u	anchor	3	801	200.0	300.0	254	195	314	Prasādapratibhodhava [Śatapañcāśatka]
+SA_T04_bsa013_u	anchor	1	292	150.0	350.0	256	136	374	Pratītyasamutpādahṛdayavyākhyāna
+SA_GSP29_nysvbh1u	anchor	60	415	-150.0	450.0	256	-25	551	Nyāyasūtra + Bhāṣya
+SA_K01_vinv09_u	anchor	5	88	1.0	499.0	261	-4	530	Kośāmbakavastu
+SA_GE07_mbh_08_u	anchor	144	570	-300.0	400.0	261	-60	590	7
+SA_K01_vinv16_u	anchor	17	309	100.0	400.0	264	95	432	Adhikaraṇavastu
+SA_K10_bsu010_u	anchor	1	537	100.0	400.0	264	91	415	Bhavasaṅkrāntisūtra
+SA_GE07_mbh_02_u	anchor	105	522	-400.0	400.0	266	-81	614	Mahābhārata: Sabhāparvan
+SA_T06_bsa034	anchor	78	341	230.0	300.0	266	217	315	Bodhisattvabhūmi
+SA_K01_vinv14_u	anchor	3	322	100.0	400.0	267	92	438	Poṣadhasthāpanavastu
+SA_K14_mpsu_w_u	anchor	39	346	100.0	400.0	270	99	437	Mahāparinirvāṇasūtra
+SA_K05_dsp1-2_u	anchor	11	407	100.0	399.0	271	112	435	Daśasāhasrikā Prajñāpāramitā
+SA_K02_sspp2_3u	anchor	94	392	100.0	400.0	272	103	442	Śatasāhasrikā Prajñāpāramitā II-3 [Śatasāhasrikāprajñāpāramitāsūtra]
+SA_K01_vinv171u	anchor	80	355	100.0	400.0	272	101	437	Saṅghabhedavastu 1
+SA_GE07_mbh_04_u	anchor	103	558	-400.0	400.0	272	-70	632	Mahābhārata: Virāṭaparvan
+SA_K10_n443u	anchor	3	460	100.0	400.0	272	93	440	Mahāmeghasūtra
+SA_K06_vchedppu	anchor	4	588	100.0	400.0	273	100	454	Vajracchedikā Prajñāpāramitā [Vajracchedikāprajñāpāramitāsūtra]
+SA_K06_vchedpgu	anchor	2	596	100.0	400.0	274	107	444	Vajracchedikā Prajñāpāramitā [Vajracchedikāprajñāpāramitāsūtra]
+SA_K12_bsu012_u	anchor	4	528	100.0	400.0	274	104	446	Bhaiṣajyaguruvaidūryaprabharājasūtra
+SA_K02_sspp2_4u	anchor	108	419	100.0	400.0	274	106	443	Śatasāhasrikā Prajñāpāramitā II-4 [Śatasāhasrikāprajñāpāramitāsūtra]
+SA_GE07_mbh_06_u	anchor	135	587	-300.0	400.0	274	-52	589	Mahābhārata: Bhīṣmaparvan
+SA_K12_n283u	anchor	4	537	100.0	400.0	276	105	453	Bhaiṣajyaguruvaidūryaprabharājasūtra
+SA_K01_vinv172u	anchor	98	436	100.0	400.0	276	112	447	Saṅghabhedavastu 2
+SA_K10_avsata_u	anchor	124	435	100.0	400.0	277	108	439	Avadānaśataka
+SA_T06_ybh-laukikamarga	anchor	3	363	200.0	350.0	278	190	368	Yogācārabhūmi: Laukikamarga
+SA_GSP32_vaisessu	anchor	4	883	250.0	300.0	278	230	328	Vaiśeṣikasūtra
+SA_GE07_mbh_07_u	anchor	225	564	-400.0	400.0	279	-60	619	Mahābhārata: Droṇaparvan
+SA_K02_sspp2_2u	anchor	73	513	100.0	400.0	281	122	451	Śatasāhasrikā Prajñāpāramitā II-2 [Śatasāhasrikāprajñāpāramitāsūtra]
+SA_K06_bsu051_u	anchor	7	584	100.0	400.0	282	104	435	Vajracchedikā Prajñāpāramitā [Vajracchedikāprajñāpāramitāsūtra]
+SA_K03_psp_1u	anchor	103	526	100.0	400.0	283	118	449	Pañcaviṃśatisāhasrikā Prajñāpāramitā I [Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra]
+SA_K06_bsu030_u	anchor	40	563	100.0	400.0	284	114	451	Suvikrāntavikrāmiparipṛcchā  [Suvikrāntavikrāmiparipṛcchāprajñāpāramitāsūtra,  Sārdhadvisāhasrikā prajñāpāramitā]
+SA_T11_bsa070_u	anchor	9	613	100.0	400.0	284	118	454	Upāyahṛdaya
+SA_K10_bsu018_u	anchor	57	562	200.0	499.0	287	170	328	Sarvajñatākāradhāraṇī [Karuṇāpuṇḍarīka(sūtra)]
+SA_K02_sspp2_1u	anchor	64	566	100.0	400.0	287	116	459	Śatasāhasrikā Prajñāpāramitā II-1 [Śatasāhasrikāprajñāpāramitāsūtra]
+SA_K05_adsp70-u	anchor	33	578	100.0	400.0	287	118	445	Aṣṭādaśasāhasrikā Prajñāpāramitā [Aṣṭādaśasāhasrikāprajñāpāramitāsūtra]
+SA_K09_bsu016_u	anchor	151	608	100.0	400.0	291	120	462	Gaṇḍavyūhasūtra [Gaṇḍavyūha]
+SA_K05_adsp55-u	anchor	35	628	100.0	400.0	292	127	455	Aṣṭādaśasāhasrikā Prajñāpāramitā [Aṣṭādaśasāhasrikāprajñāpāramitāsūtra]
+SA_T01_n2971u	anchor	1	632	150.0	420.0	302	148	455	Bhadracaryādeśanā
+SA_GK20_bhassv_u	anchor	17	456	250.0	350.0	303	243	361	Svapnavāsavadatta
+SA_T07_hvsatssu	anchor	200	544	250.0	350.0	303	247	364	Satyasiddhiśāstra [Tattvasiddhiśāstra]
+SA_GK20_bhasdutu	anchor	6	717	250.0	350.0	303	244	362	Dūtavākya
+SA_K01_vinv01_u	anchor	13	468	1.0	499.0	308	40	570	Pravrajyāvastu
+SA_GSP33_brssgo4u	anchor	24	809	-200.0	400.0	308	24	611	Brahmasūtra: Adhyāya 4
+SA_GSP33_brsvbh4u	anchor	13	875	-200.0	400.0	309	3	612	Brahmasūtra: Adhyāya 4
+SA_GSP33_brsvbh3u	anchor	36	797	-200.0	400.0	312	14	598	Brahmasūtra: Adhyāya 3
+SA_T05_bsu027_u	inferred	1	271			314	-366	624	Pratītyasamutpādādivibhaṅganirdeśasūtra
+SA_K01_vinv10_u	anchor	4	260	100.0	499.0	314	94	539	Karmavastu
+SA_T04_nagmyv_u	anchor	1	495	150.0	450.0	314	142	484	Mahāyānaviṃśikā [Mahāyānaviṃśati]
+SA_K01_vinv12_u	anchor	6	239	100.0	499.0	314	96	526	Pudgalavastu
+SA_GS40_susruta	anchor	181	618	200.0	400.0	318	201	431	Suśrutasaṃhitā
+SA_GK18_bharnatu	anchor	92	608	200.0	400.0	318	200	434	Nāṭyaśāstra
+SA_K01_vinv11_u	anchor	10	335	100.0	499.0	320	102	534	Pāṇḍulohitakavastu
+SA_GSP33_brssgo3u	anchor	68	824	-200.0	400.0	321	24	623	Brahmasūtra: Adhyāya 3
+SA_K01_n2954u	anchor	6	398	100.0	499.0	322	94	544	Upasampadājñapti
+SA_K06_bsu028pu	anchor	7	642	-50.0	500.0	324	38	601	Ratnaguṇasaṃcayagāthā
+SA_K10_mkarmviu	anchor	11	355	100.0	499.0	324	110	540	Mahākarmavibhaṅga
+SA_K01_vinv15_u	anchor	20	402	100.0	499.0	325	114	548	Śayanāsanavastu
+SA_K01_vinv08_u	anchor	4	379	100.0	499.0	325	104	541	Kaṭhinavastu
+SA_K01_vinv03_u	anchor	6	429	100.0	499.0	325	107	553	Pravāraṇāvastu
+SA_K01_vinv07_u	anchor	42	360	100.0	499.0	326	114	537	Cīvaravastu
+SA_K01_upsmpjnu	anchor	5	418	100.0	499.0	327	107	548	Upasaṃpadājñapti
+SA_K01_n2853u	anchor	20	407	100.0	499.0	327	115	547	Śayanāsanavastu
+SA_T06_asmahsbu	anchor	58	461	270.0	380.0	328	261	394	Mahāyānasūtrālaṅkāra
+SA_K10_divyav_u	anchor	227	408	100.0	500.0	328	114	545	Divyāvadāna
+SA_GSD36_pars2_pu	anchor	12	418	100.0	500.0	332	113	548	Parāśaradharmasaṃhitā [Parāśarasmṛti]: Kāṇḍas 1 & 2
+SA_K10_n2942u	anchor	20	398	200.0	450.0	334	189	481	Saddharmasmṛtyupasthānasūtra
+SA_T04_bsu060_u	anchor	6	519	100.0	500.0	334	123	554	Karmavibhaṅgopadeśa
+SA_GSD37_baudhd_u	inferred	25	208			335	-194	863	Baudhāyana-śrautasūtra TODO: This is mislabeled! Wrong ID
+SA_K06_bsu053_u	anchor	1	443	150.0	500.0	337	141	541	Prajñāpāramitāhṛdayasūtra
+SA_K10_n267u	anchor	22	481	200.0	450.0	339	196	475	Āryasaṃghāṭasūtra
+SA_GSP33_brssgo1u	anchor	121	882	-200.0	400.0	339	48	640	Brahmasūtra: Adhyāya 1
+SA_GSP33_brsgor4u	anchor	10	1076	-200.0	400.0	344	30	633	Brahmasūtra: Adhyāya 4
+SA_K14_bsa052_u	anchor	58	512	100.0	499.0	344	126	553	Dharmasamuccaya [Saddharmasmṛtyupasthānakārikā]
+SA_K12_bsu035_u	anchor	26	542	200.0	450.0	345	201	488	Suvarṇaprabhāsasūtra [Suvarṇaprabhāsottama(sūtra), Suvarṇabhāsottama-sūtra, Suvarṇa(pra)bhāsottama-sūtrendrarāja]
+SA_GK21_ttrkhy2u	anchor	6	617	100.0	499.0	348	122	569	Tantrākhyāyika 2
+SA_GK21_ttrkhy1u	anchor	9	609	100.0	499.0	348	127	570	Tantrākhyāyika 1
+SA_T06_sambhu	anchor	15	318	300.0	400.0	350	291	407	Yogācārabhūmi: Samāhitā Bhūmi
+SA_T06_asycsaru	anchor	2	153	300.0	399.0	350	289	409	Śarīrārthagāthā
+SA_T06_bsa010_u	anchor	3	485	300.0	400.0	351	294	411	Madhyāntavibhāgakārikā
+SA_K10_bsu045_u	anchor	22	487	100.0	549.0	351	126	504	Saṃghāṭa Sūtra
+SA_T03_bsa026_u	anchor	7	506	300.0	399.0	351	293	409	Abhisamayālaṅkāra
+SA_T09_ajm_u	anchor	22	555	300.0	399.0	352	295	410	Jātakamālā
+SA_T03_abhisamu	anchor	6	487	300.0	399.0	352	295	410	Abhisamayālaṅkāranāmaprajñāpāramitopadeśaśāstra
+SA_T03_bsa033_u	anchor	16	521	300.0	399.0	352	294	411	Abhisamayālaṅkārāntaḥ pātināṃ
+SA_T09_bsa032	anchor	53	606	300.0	399.0	352	294	413	Jātakamālā
+SA_K10_samghscu	anchor	27	503	100.0	549.0	353	126	504	Saṃghāṭasūtra [Saṅghāṭasūtra]
+SA_GSD37_vaikhd_u	anchor	6	265	200.0	500.0	353	183	525	Vaikhānasa Dharmasūtra 1–3 [Vaikhānasa Smārtasūtra 8-10]
+SA_T09_gopjatmu	anchor	35	747	300.0	399.0	354	297	412	Jātakamālā [Ajātaśatrvavadāna]
+SA_GSP31_iskamatu	anchor	25	716	300.0	400.0	355	297	414	Sāṃkhyakārikā [Sāṃkhyasaptati]
+SA_K10_jnalokau	anchor	14	440	200.0	500.0	355	188	470	Jñānālokālaṃkāra sūtra [Sarvabuddhaviṣayāvatārajñānālokālaṃkāra nāma mahāyānasūtra, Sarvabuddhaviṣayāvatārajñānalokālaṃkārasūtra]
+SA_GSP33_brsvbh2u	anchor	42	981	-200.0	400.0	356	62	649	Brahmasūtra: Adhyāya 2
+SA_GSP28_shabara	anchor	95	331	200.0	500.0	357	190	521	Mīmāṃsāsūtra Shabara-Bhāṣya
+SA_T11_bsa069_u	inferred	12	699			360	-31	491	Tarkaśāstra
+SA_K10_bsu009_u	anchor	2	417	200.0	500.0	361	183	535	Maitreyavyākaraṇa [Maitreyavyākaraṇasūtra]
+SA_GSP28_sabbha1u	anchor	8	357	200.0	500.0	362	192	534	Mīmāṃsāsūtrabhāṣya
+SA_GS25_amark1pu	anchor	6	422	200.0	500.0	363	193	527	Nāmaliṅgānuśāsana [Amarakoṣa, Amarakośa], Kāṇḍa 1
+SA_GSP33_brssgo2u	anchor	86	967	-200.0	400.0	363	58	660	Brahmasūtra: Adhyāya 2
+SA_GSP33_brsvbh1u	anchor	82	983	-200.0	400.0	364	78	662	Brahmasūtra: Adhyāya 1
+SA_T07_vakobhk	anchor	13	668	380.0	390.0	365	320	406	Abhidharmakośakārikā
+SA_T06_n1394u	anchor	56	321	350.0	380.0	366	316	415	Yogācārabhūmi
+SA_T06_asmahsuu	anchor	61	469	300.0	430.0	368	289	444	Mahāyānasūtrālaṃkāra
+SA_T06_asabhs_u	anchor	36	342	330.0	405.0	368	320	418	Abhidharmasamuccaya
+SA_K10_maivy_pu	anchor	6	478	200.0	500.0	368	197	536	Maitreyavyākaraṇa [Maitreyavyākaraṇasūtra]
+SA_K07_atrisatu	anchor	2	558	330.0	405.0	369	320	417	Triśatikāyāḥ prajñāpāramitāyāḥ kārikāsaptatiḥ [Vajracchedikāprajñāpāramitāsūtraśāstrakārikā]
+SA_T06_n2994u	anchor	10	593	330.0	405.0	369	319	418	Mahāyānasaṃgraha
+SA_GSD36_brhasp_u	anchor	27	476	200.0	500.0	369	203	532	Bṛhaspatismṛti
+SA_T06_bsa030_u	anchor	17	546	300.0	430.0	370	294	445	Mahāyānasūtrālaṃkāra
+SA_GS25_amark2_u	anchor	15	530	200.0	500.0	373	205	537	Nāmaliṅgānuśāsana [Amarakoṣa, Amarakośa], Kāṇḍa 2
+SA_GS25_amark3_u	anchor	11	579	200.0	500.0	374	207	545	Nāmaliṅgānuśāsana [Amarakoṣa, Amarakośa], Kāṇḍa 3
+SA_K10_sjdh_u	anchor	4	738	200.0	499.0	375	203	545	Sarvajñatākāradhāraṇī [Karuṇāpuṇḍarīka(sūtra)]
+SA_GR14_vdhapadu	anchor	167	583	200.0	500.0	377	215	551	Viṣṇudharma
+SA_GSP33_brsgor2u	anchor	55	1056	-200.0	400.0	378	88	677	Brahmasūtra: Adhyāya 2
+SA_K01_vinv05_u	inferred	12	258			379	-181	929	Carmavastu
+SA_GSP33_brsgor3u	anchor	32	1066	-200.0	400.0	379	74	669	Brahmasūtra: Adhyāya 3
+SA_K10_bsu034_u	anchor	73	507	100.0	600.0	379	136	528	Samādhirājasūtra
+SA_GSP33_brsgor1u	anchor	66	1055	-200.0	400.0	382	92	678	Brahmasūtra: Adhyāya 1
+SA_T07_vakobhau	anchor	159	447	380.0	390.0	386	338	430	Abhidharmakośabhāṣya
+SA_T07_vakobha9	anchor	7	364	380.0	390.0	387	338	433	Abhidharmakośabhāṣya Chapter 9
+SA_K10_tbimbk_u	anchor	1	559	100.0	600.0	387	110	670	Tathāgatabimbakārāpaṇasūtra
+SA_GS39_kamasutu	anchor	27	359	350.0	425.0	388	338	438	Kāmasūtra
+SA_GS39_kamasufu	anchor	30	514	350.0	425.0	389	341	437	Kāmasūtra
+SA_GSD36_manu2p_u	inferred	54	298			390	-121	911	
+SA_T04_vasbocpu	anchor	10	548	350.0	430.0	391	343	440	Bodhicittotpādasūtraśāstra
+SA_T06_bsa065	anchor	5	262	350.0	430.0	391	341	439	Pañcaskandhaprakaraṇa
+SA_T06_vasvvmsu	anchor	3	636	350.0	430.0	391	343	440	Viṃśatikā vijñaptimātratāsiddhi [Viṃśikāvṛtti]
+SA_T06_bsa018	anchor	1	706	350.0	430.0	392	341	440	Triṃśikāvijñaptikārikā [Triṃśikākārikā]
+SA_T06_vmvkbh_u	anchor	14	536	350.0	430.0	392	344	439	Madhyāntavibhāgabhāṣya [Madhyāntavibhāgakārikābhāṣya]
+SA_T06_bsa019_u	anchor	1	674	350.0	430.0	392	342	440	Trisvabhāvanirdeśa
+SA_GR14_vaimp__u	anchor	79	147	300.0	500.0	394	282	512	Vaikhānasamantrapraśna
+SA_K06_n2882u	anchor	6	525	100.0	600.0	397	125	668	Pañcaśatikāprajñāpāramitā [Pañcaśatikāprajñāpāramitāsūtra]
+SA_GSD36_brhasppu	anchor	27	891	200.0	500.0	397	235	574	Bṛhaspatismṛti: Vyavahārakāṇḍa
+SA_GSP31_iskgaudu	anchor	11	377	300.0	499.0	402	288	518	Sāṃkhyakārikā [Sāṃkhyasaptati]
+SA_GS41_lagrvvju	anchor	1	430	300.0	499.0	403	284	523	Ṛgvedavedāṅgajyotiṣa
+SA_T01_nagast_u	anchor	1	840	150.0	600.0	405	153	661	Acintyastava
+SA_GSP31_isvskaru	anchor	2	569	300.0	499.0	405	288	521	Sāṃkhyakārikā [Sāṃkhyasaptati]
+SA_GK19_amaru_u	anchor	12	993	350.0	450.0	406	345	465	Amaruśataka
+SA_K10_bsu005_u	anchor	11	352	200.0	600.0	407	190	627	Arthaviniścayasūtra
+SA_T06_bsa022_u	anchor	1	923	300.0	499.0	407	291	522	Viṃśatikā vijñaptimātratāsiddhi [Viṃśikāvṛtti] kārikā
+SA_T08_suvrnavu	anchor	23	547	300.0	499.0	407	294	521	Suvarṇavarṇāvadāna
+SA_GSP31_iskar_u	anchor	2	588	300.0	499.0	407	290	524	Sāṃkhyakārikā [Sāṃkhyasaptati]
+SA_K06_bsu052_u	anchor	6	610	100.0	600.0	407	152	678	Saptaśatikā prajñāpāramitā [Saptaśatikaprajñāpāramitāsūtra]
+SA_T03_bsa050_u	anchor	8	583	300.0	499.0	408	295	523	Pāramitāsamāsa
+SA_GP12_visnup_u	anchor	119	504	300.0	500.0	408	290	529	Viṣṇu-Purāṇa
+SA_K10_n260u	anchor	11	360	200.0	600.0	411	190	619	Arthaviniścayasūtra
+SA_K14_sf259_sc	inferred	7	270			412	-188	1023	
+SA_K10_srajsgiu	anchor	21	585	100.0	600.0	413	159	674	Samādhirājasūtra
+SA_K10_dvtasutu	anchor	1	9	200.0	648.0	415	174	608	Devatāsūtra
+SA_GK19_ragh1-6u	anchor	10	463	380.0	455.0	417	368	468	Raghuvaṃśa
+SA_K10_bsu021_u	anchor	59	618	300.0	450.0	418	363	477	Saddharmalaṅkāvatārasūtra [Laṅkāvatārasūtra]
+SA_GK19_kmeghvpu	anchor	3	565	380.0	455.0	418	370	466	Meghadūta
+SA_GK20_ksakunpu	anchor	25	507	380.0	455.0	419	370	469	Abhijñānaśākuntala
+SA_GSP31_jaymangu	anchor	21	809	300.0	499.0	419	305	530	Sāṃkhyakārikā [Sāṃkhyasaptati]
+SA_GK19_ragh	anchor	10	466	380.0	455.0	419	368	467	Raghuvaṃśa
+SA_GK19_meghdk_u	anchor	5	695	380.0	455.0	419	372	469	Meghadūta
+SA_GK19_kmeghdpu	anchor	3	520	380.0	455.0	419	369	468	Meghadūta
+SA_GK19_kalrs_pu	anchor	4	817	380.0	455.0	419	372	468	Ṛtusaṃhāra
+SA_GK19_kakumspu	anchor	13	686	380.0	455.0	420	370	467	Kumārasambhava
+SA_GK19_kragh_pu	anchor	33	731	380.0	455.0	420	371	469	Raghuvaṃśa
+SA_GE07_hv_apppu	anchor	244	933	-100.0	500.0	422	134	705	Harivaṃśa (appendix)
+SA_GS26_sbhami_u	anchor	3	795	150.0	600.0	426	172	673	Āptamīmāṃsā
+SA_T06_bsa073_u	anchor	21	539	350.0	499.0	429	342	516	Ratnagotravibhāga [Ratnagotravibhāga Mahāyānottaratantraśāstra, Ratnagotravibhāga-Mahāyāna-Uttaratantra, Uttaratantra]
+SA_K10_nidansyu	inferred	15	338			434	-119	980	Nidānasaṃyukta
+SA_GP12_mtp176pu	anchor	178	601	200.0	600.0	440	229	659	Matsya-Purāṇa
+SA_K14_bsu015_u	anchor	1	578	300.0	570.0	443	284	600	Ekādaśamukha
+SA_T17_bsa007_u	inferred	11	330			443	-127	1000	Dharmasaṃgraha
+SA_GV05_agsas_1u	anchor	6	372	300.0	600.0	451	283	625	Āgamaśāstra 1: Āgamaprakaraṇa
+SA_GK19_ksyadndu	anchor	1	738	400.0	499.0	451	393	510	Śyāmalādaṇḍaka
+SA_T04_bsa058_u	anchor	4	547	400.0	499.0	452	394	513	Bhavasaṅkrāntiṭīkā
+SA_GP12_vipce_pu	anchor	126	657	400.0	500.0	452	394	513	Viṣṇu-Purāṇa
+SA_T09_hjatm	anchor	32	727	400.0	500.0	453	395	514	Jātakamālā
+SA_MB_pranagnihotraHK	inferred	2	248			453	-265	1179	Unknown: prāṇāgnihotra
+SA_K01_bsa068_u	inferred	4	312			455	-178	1099	K01bsa068_u
+SA_GSD36_yssoutpu	anchor	3	366	100.0	800.0	461	100	815	Yamasmṛti
+SA_GSP33_bbdip12u	anchor	29	1236	-200.0	450.0	462	146	792	Brahmasūtra: Adhyāya 1, Pāda 2
+SA_K10_n206u	anchor	3	632	300.0	600.0	463	289	631	Avikalpapraveśadhāraṇī [Avikalpapraveśadhāraṇīsūtra]
+SA_K10_sf107_sc	inferred	5	337			465	-146	1069	
+SA_K10_bsu019	anchor	27	591	300.0	599.0	467	299	632	Kāraṇḍavyūha Sūtra [Avalokiteśvaraguṇa-Kāraṇḍavyūha(sūtra)]
+SA_GSD36_katy2p_u	anchor	21	620	300.0	600.0	467	290	632	Kātyāyanasmṛti [Kātyāyanasmṛtisāroddhāra]
+SA_K10_sf258_sc	inferred	1	331			469	-293	924	
+SA_K10_dbsu1-4u	inferred	3	371			469	-192	926	Daśabalasūtra
+SA_T14_nagcitpu	anchor	7	667	300.0	599.0	470	304	638	Citralakṣaṇa
+SA_T02_n3006u	inferred	4	359			470	-171	1116	Boudhatantrokta Siddhauṣadhi Saṅgraha
+SA_T10_subhrk_u	anchor	6	752	300.0	600.0	473	305	642	Subhāṣitaratnakaraṇḍakathā
+SA_T13_n2940u	anchor	6	692	100.0	700.0	473	173	779	Triratnasaundaryagāthā
+SA_GR13_pasupspu	anchor	2	97	400.0	550.0	473	383	562	Pāśupatasūtra
+SA_K12_n221u	anchor	1	536	300.0	645.0	478	284	679	Ṣaṇmukhīdhāraṇī
+SA_K10_sf253_sc	inferred	6	359			480	-126	1077	
+SA_K10_uvs_sc	inferred	16	402			480	-76	1028	
+SA_K10_mahama_u	inferred	2	289			480	-224	1198	Mahāmantrānusāriṇī
+SA_GSP33_bbdip13u	anchor	44	1288	-200.0	450.0	480	171	794	Brahmasūtra: Adhyāya 1, Pāda 3
+SA_GP12_mkp1-93u	anchor	98	544	200.0	700.0	481	235	737	Mārkaṇḍeya-Purāṇa
+SA_K14_sumagavu	inferred	9	390			482	-76	1064	Sumāgadhāvadāna
+SA_GR13_pasupbhu	anchor	36	863	400.0	550.0	483	397	567	Pāśupatasūtra
+SA_GK20_sypadatu	anchor	11	538	455.0	510.0	483	436	530	Pāḍatāḍitaka
+SA_K12_ekmuhr_u	anchor	2	590	400.0	564.0	486	391	579	Ekādaśamukhahṛdaya
+SA_T01_n2925u	anchor	2	905	150.0	700.0	490	190	781	Dharmadhātustava
+SA_MB_candrajnanaHK	inferred	3	376			494	-174	1186	Unknown: candrajñānāgama
+SA_K14_amoghapu	anchor	3	561	400.0	587.0	496	388	607	Āmoghapāśanāmahṛdayasūtra [Āryāmoghapāśanāmahṛdayasūtra]
+SA_K14_bsu002_u	anchor	3	601	400.0	587.0	498	385	609	Āmoghapāśanāmahṛdaya sūtra [Ārya amoghapāśahṛdaya nāma mahāyānasūtra]
+SA_K10_bsu006_u	anchor	5	364	400.0	600.0	498	382	615	Ajitasenavyākaraṇa
+SA_MB_brahmasandhanaHK	inferred	10	435			499	-60	1071	Unknown: brahmasandhāna
+SA_K14_ajitsvyu	anchor	7	427	400.0	600.0	500	379	619	Ajitasenavyākaraṇa
+SA_K01_vinv02_u	inferred	12	433			505	-37	1084	Poṣadhavastu
+SA_K12_n259u	anchor	1	435	300.0	699.0	505	282	731	Aparimitāyunāmamahāyānasūtra
+SA_T04_n1002u	anchor	1	935	470.0	540.0	506	457	555	Hastavālaprakaraṇavṛtti
+SA_K12_bsu003_u	anchor	1	427	300.0	699.0	507	275	727	Aparimitāyuḥsūtra
+SA_K10_sf284_sc	inferred	1	217			507	-292	1301	
+SA_T07_vabhdilu	anchor	9	912	450.0	600.0	507	422	606	Abhidharmadipakārikā
+SA_T07_vabhdiku	anchor	12	815	450.0	600.0	508	421	603	Abhidharmadīpakārikā
+SA_T01_n896u	inferred	1	219			508	-323	1310	Dharmadhātuvāgīśvaramaṇḍalastotra
+SA_GP12_sivap	anchor	245	694	400.0	600.0	509	395	620	Śiva-Purāṇa
+SA_T06_sthtvbh	anchor	11	592	470.0	550.0	509	456	556	Triṃśikāvijñaptibhāṣya [Triṃśikābhāṣya]
+SA_T17_byogalbu	anchor	14	532	300.0	699.0	510	296	727	Buddhist Yoga Manual
+SA_K14_n3013u	inferred	63	451			510	-2	1038	
+SA_T11_bsa002_u	anchor	1	760	480.0	540.0	510	464	559	Ālambanaparīkṣāvṛtti
+SA_T06_pskvbhu	anchor	26	616	470.0	550.0	511	462	559	Pañcaskandhakavibhāṣā
+SA_T03_bsa011_u	anchor	1	515	480.0	540.0	511	462	561	Prajñāpāramitāpiṇḍārtha
+SA_GSP34_yogasubha	anchor	7	414	375.0	650.0	511	352	666	Yogasūtrabhāṣya
+SA_K12_Āgama-Jayasena_Ḍākārṇavatantra-15-Ratnapadmarāganidhi_Sugiki_2022	inferred	44	451			512	1	1038	
+SA_T02_msitvatu	anchor	2	559	300.0	700.0	514	292	744	Mahāśītavatī vidyārājñī
+SA_K10_n262u	inferred	1	577			516	-211	928	Āryānityatāsūtra
+SA_K12_Āgama_Mañjuśrīnāmasaṃgīti_Mukherji_1963	inferred	9	439			518	-63	1079	
+SA_T02_Anupamarakṣita_Ṣaḍaṇgayoga-with-Guṇabharaṇī_Sferra_2000	inferred	34	464			519	2	1059	
+SA_T06_abhsubhu	anchor	46	444	470.0	570.0	520	459	579	Abhidharmasamuccayabhāṣya
+SA_T01_n898u	inferred	1	302			524	-256	1323	Vajrapāṇināmāṣṭottaraśatastotra
+SA_K10_sf101_sc	inferred	1	287			527	-290	1332	
+SA_GSD36_ys-78_pu	anchor	2	870	100.0	800.0	528	169	893	Yamasmṛti
+SA_T07_nagdhdbu	inferred	1	344			528	-249	1354	Dharmadhātugarbhavivaraṇa
+SA_K12_dhvajkeu	anchor	1	465	400.0	654.0	529	378	674	Dhvajāgrakeyurā-dhāraṇī
+SA_GP12_skp031pu	inferred	35	485			530	23	1049	
+SA_K14_n285u	inferred	1	297			532	-255	1342	Catuṣpariṣatsūtra
+SA_K14_msudarsu	inferred	3	418			532	-139	1226	Mahāsudarśanāvadāna
+SA_K12_dhvajkdu	anchor	1	507	400.0	654.0	532	380	677	Dhvajāgrakeyurā-dhāraṇī
+SA_T01_n805u	inferred	1	315			532	-264	1337	Ākāśagarbhanāmāṣṭottaraśatastotra
+SA_T06_-ybh-klesa	inferred	2	383			532	-174	1272	
+SA_GP12_vd2127_u	anchor	1	-406	400.0	699.0	533	356	705	Viṣṇudharmottara-Purāṇa: Atharvavidhikathana [Atharvavidhāna]
+SA_T04_n1003u	anchor	21	706	500.0	570.0	536	488	587	Madhyamakahṛdaya
+SA_K10_sf280_sc	inferred	1	290			536	-284	1330	
+SA_T10_bsa067_u	inferred	1	628			538	-200	934	Bhavasaṃkrāntiparikathā
+SA_T16_n2959u	inferred	64	496			538	29	1047	Vajrayāna darśana mīmāṁsā
+SA_T04_bsa040_u	inferred	2	403			538	-164	1252	Cittotpādasaṃvaravidhikrama
+SA_T10_n3009u	inferred	1	326			538	-226	1353	Vimalaratnalekha
+SA_T02_n2952u	inferred	61	496			538	31	1039	Bauddhadharme tathā purāṇeṣu karuṇā
+SA_K01_n2900u	inferred	8	480			540	-40	1124	Maṃjuśrīpārājikā
+SA_T06_sthmavt1	anchor	12	626	510.0	570.0	540	491	587	Madhyāntavibhāgaṭīkā Chapter 1
+SA_K10_arthaviniscaya	anchor	28	688	200.0	770.0	540	253	832	Arthaviniścayasūtra + Nibandhana
+SA_T06_sthmavt	anchor	43	742	510.0	570.0	541	494	591	Madhyāntavibhāgaṭīkā
+SA_T06_sthmavtyg	anchor	53	704	510.0	570.0	542	493	591	Madhyāntavibhāgaṭīkā (Yamaguchi)
+SA_K14_sf273_sc	inferred	1	278			542	-300	1352	
+SA_K10_nagsu_pu	inferred	4	467			549	-92	1206	Nagaropamasūtra
+SA_T02_Candrakīrti_Vajrasattvasādhana_Luo-Tomabechi_2009	inferred	5	482			549	-62	1178	
+SA_T11_n634u	anchor	3	420	500.0	600.0	549	490	608	Nyāyapraveśakasūtra
+SA_K12_mpratpru	anchor	12	547	400.0	693.0	549	384	715	Mahāpratisarā-vidyārājñī [Mahāpratisarādhāraṇī(sūtra)]
+SA_T01_n893u	inferred	1	329			549	-262	1342	Caṇḍikādaṇḍakastotra
+SA_T01_n850u	inferred	1	357			550	-242	1346	Mahācakravartināmāṣṭottaraśatastotra
+SA_GSP28_mjnya04u	anchor	15	583	400.0	699.0	552	382	726	Jaiminīyanyāyamālāvistara: Adhyāya 4
+SA_K10_sf137_sc	inferred	1	347			552	-263	1358	
+SA_K12_maricdhu	anchor	1	517	400.0	699.0	553	380	718	Mārīcīnāmadhāraṇī
+SA_MB_nirvanayogottaraHK	inferred	2	411			554	-186	1252	Unknown: nirvāṇayogottara
+SA_K12_mahpratu	anchor	12	574	400.0	693.0	554	386	720	Mahāpratisarāmahāvidyārājñī
+SA_GP12_narsippu	anchor	71	547	400.0	700.0	556	385	724	Narasiṃha-Purāṇa
+SA_MB_sukavakyaHK	inferred	3	458			556	-127	1237	Unknown: śukavākya
+SA_T01_n821u	inferred	1	387			556	-269	1359	Lokeśvarastotra
+SA_T02_Vajrapāṇi_Laghutantraṭīkā_Cicuzza_2001	inferred	16	509			556	-7	1108	
+SA_MB_aryamanjusrimulakalpa3HK	inferred	47	507			559	19	1084	Unknown: āryamañjuśrīmūlakalpam Part 3
+SA_MB_amsumatkaasyapaamgamaHK	inferred	83	524			560	51	1072	Unknown: aṃśumatkāśyapāgama
+SA_GSP28_mjnya02u	anchor	16	604	400.0	699.0	560	387	727	Jaiminīyanyāyamālāvistara: Adhyāya 2
+SA_GK19_bhakirpu	anchor	21	639	400.0	699.0	560	393	732	Kirātārjunīya
+SA_GSP28_mjnya03u	anchor	36	652	400.0	699.0	562	394	729	Jaiminīyanyāyamālāvistara: Adhyāya 3
+SA_GP12_brndp1_u	anchor	77	347	300.0	1000.0	562	248	889	Brahmāṇḍa-Purāṇa 1
+SA_T01_n818u	inferred	1	336			563	-249	1378	Avalokiteśvarāṣṭottaraśatanāmastotra
+SA_T02_Raviśrījñāna_Guṇabharaṇī-Ṣaḍaṅgayoga_Sferra_2000	inferred	33	525			564	50	1100	
+SA_T10_cansisy2	anchor	3	837	400.0	699.0	564	392	735	Śiṣyalekha (alternate)
+SA_K12_madadh_u	anchor	2	664	300.0	800.0	564	291	842	Mahādaṇḍadhāraṇīśītavatī
+SA_T13_n2976u	inferred	1	391			566	-241	1376	Saṅgītamālikā
+SA_GSP32_paddhs_u	anchor	8	810	400.0	699.0	566	397	730	Padārthadharmasaṃgraha
+SA_GR14_ps27-43u	anchor	76	969	300.0	700.0	566	352	789	Pauṣkara-Saṃhitā
+SA_K12_mspram_u	inferred	15	527			568	7	1126	Mahāsāhasrapramardanī
+SA_T02_Vajragarbha_Ṣaṭsāhasrikā-Hevajratantra_Shendge_2004	inferred	34	519			569	46	1094	
+SA_GSP28_mjnya01u	anchor	20	794	400.0	699.0	570	404	735	Jaiminīyanyāyamālāvistara: Adhyāya 1
+SA_K10_sf241_sc	inferred	2	474			571	-143	1281	
+SA_GR14_bhrgus_u	inferred	115	532			571	55	1086	Bhṛgu-Saṃhitā
+SA_K10_sf277_sc	inferred	1	422			573	-222	1410	
+SA_T04_bsa042_u	inferred	1	381			573	-232	1359	Gurukriyākrama
+SA_K10_sf279_sc	inferred	1	417			573	-217	1375	
+SA_GP12_vd3343pu	anchor	10	890	400.0	699.0	574	406	751	Viṣṇudharmottara-Purāṇa
+SA_K12_Āgama_Mañjuśrīmūlakalpa_Shastri_1925	inferred	54	536			574	57	1102	
+SA_GS24_vakyp_pu	anchor	22	576	500.0	650.0	574	487	663	Vākyapadīya 1.1–3.7
+SA_GS24_vakyp1pu	anchor	41	587	500.0	650.0	578	487	661	Vākyapadīya
+SA_MB_aryamanjusrimulakalpa2HK	inferred	75	553			579	80	1110	Unknown: āryamañjuśrīmūlakalpam Part 2
+SA_K12_Āgama_Mañjuśrīnāmasaṃgīti_Vira-Chandra_1966	inferred	4	518			579	-56	1222	
+SA_GSP31_tsc_vivu	inferred	3	511			580	-102	1258	Sāṃkhyasūtravivaraṇa
+SA_MB_jnaanasankaliniitantramHK	inferred	3	509			583	-78	1275	Unknown: jñānasaṅkalinītantra
+SA_T01_n904u	inferred	1	422			583	-236	1423	Kalyāṇatriṃśatikāstotra
+SA_GK22_bharst_u	anchor	13	1042	500.0	650.0	585	498	676	Śatakatraya: 1. Nītiśataka, 2. Śṛṅgāraśataka, 3. Vairāgyaśataka
+SA_K12X_bsu017_u	inferred	1	438			589	-203	1381	Hayagrīvavidyā
+SA_K12_bsu056_u	anchor	1	552	500.0	699.0	591	478	667	Adhyardhaśatikā prajñāpāramitā [Adhyardhaśatikāprajñāpāramitāsūtra]
+SA_K10_dvavims_tu	inferred	35	549			591	67	1111	Dvāviṃśatyavadānakathā
+SA_GS41_aryabhcu	anchor	92	375	500.0	699.0	592	480	704	Āryabhaṭīya
+SA_MB_kaamikaagamauttarabhaagaHK	inferred	157	570			592	85	1098	Unknown: kamikāgama uttarabhāga
+SA_T02_Mañjuśrīyaśa_Laghukālacakratantra-Vimalaprabhā-Vol3_Dwivedi-Bahulkar_1994	inferred	35	556			594	67	1097	
+SA_K12_adhsatpu	anchor	3	638	500.0	699.0	594	482	666	Adhyardhaśatikā Prajñāpāramitā [Adhyardhaśatikāprajñāpāramitāsūtra]
+SA_T04_bsa038_u	inferred	2	528			594	-91	1308	Sūtrārthasamuccayopadeśa
+SA_MB_kalikapuranaHK	inferred	176	570			595	94	1114	Unknown: kālikāpurāṇam
+SA_T01_n879u	inferred	1	436			595	-247	1385	Śākyasiṃhastotra: yaśodharākṛtam
+SA_T01_n911u	anchor	1	460	400.0	799.0	597	368	820	Vasudhārānāmadhāraṇīstotra
+SA_T09_jatkstpu	anchor	1	515	500.0	699.0	599	482	713	Jātakastava
+SA_T10_n2902u	inferred	1	472			599	-218	1427	Daṇḍikathā
+SA_K12_bsu055_u	inferred	1	483			599	-176	1428	Kauśikaprajñāpāramitāsūtra
+SA_K01_n2896u	inferred	3	533			599	-60	1273	Śrīlokeśvarabhāṣitaparājikā
+SA_GSP33_gaukarpu	anchor	5	578	500.0	699.0	599	485	719	Āgamaśāstra [Gauḍapādakārikā, Gauḍapādīyakārikā]
+SA_K01_vinsutru	anchor	65	607	500.0	699.0	600	486	716	Vinayasūtra
+SA_GS41_aryabh_u	anchor	3	649	500.0	699.0	600	487	717	Āryabhaṭīya
+SA_GK19_dandkc_u	anchor	36	663	550.0	650.0	600	543	662	Daśakumāracarita
+SA_K12_mprsvdhu	anchor	3	669	550.0	650.0	601	542	662	Mahāpratisarāvidyādhāraṇī
+SA_GK19_bhattiku	anchor	43	662	550.0	650.0	601	542	660	Rāvaṇavadha [Bhaṭṭikāvya]
+SA_K12_n2920u	anchor	8	598	500.0	700.0	601	487	718	Amoghapāśakalparāja Part VI
+SA_MB_pingalamataHK	inferred	78	571			601	75	1127	Unknown: piṅgalāmata
+SA_K10_ayuhparu	inferred	4	543			602	-42	1222	Āyuḥparyantasūtra
+SA_GK16_dkavy	anchor	8	766	500.0	699.0	604	488	718	Kāvyādarśa
+SA_K07_ppfrag_u	inferred	19	574			604	52	1157	Fragments of Prajnāpāramitā texts
+SA_GK19_danddk1u	anchor	18	715	500.0	699.0	605	486	716	Daśakumāracarita: Ucchvāsas 3, 5 & 6
+SA_T01_n861u	anchor	1	582	400.0	800.0	605	377	835	Pañcarakṣādevīstotrāṇi
+SA_GV05_gmandk_u	anchor	5	763	500.0	699.0	605	490	723	Māṇḍūkya-Upaniṣadkārikā [Gauḍapādakārikā, Māṇḍūkyakārikā, Āgamaśāstra]
+SA_T11_dhknyayu	anchor	4	788	550.0	660.0	605	540	670	Nyāyabindu
+SA_T11_dhkprviu	anchor	1	819	550.0	660.0	605	541	671	Pramāṇaviniścaya
+SA_T11_dhksparu	anchor	2	850	550.0	660.0	606	541	673	Sambandhaparīkṣā
+SA_T11_samtasi	anchor	1	859	550.0	660.0	606	543	671	Saṃtānāntarasiddhi
+SA_K12_manivdhu	anchor	1	655	500.0	706.0	606	484	728	Mahāmaṇivipulavimānaviśvasupratiṣṭhitaguhyaparamarahasyakalparājadhāraṇī [Mahāmaṇivipulavimānaviśvasupratiṣṭhitaguhyaparamarahasyakalparājadhāraṇīsūtra]
+SA_MB_kincittantraHK	inferred	7	571			607	1	1214	Unknown: kiñcitatantra
+SA_T11_bsa063_u	anchor	2	783	550.0	660.0	607	542	671	Sambandhaparīkṣā
+SA_GSP29_snyayvpu	anchor	29	921	480.0	700.0	607	477	734	Nyāyāvatāra
+SA_T02_psarkdhu	inferred	1	495			607	-205	1421	Pratisarākalpadhāraṇī
+SA_GK19_suvasavu	anchor	13	828	500.0	699.0	607	495	726	Vāsavadattā
+SA_MB_kamikapurvabhagaHK	inferred	110	575			607	94	1123	Unknown: kamikāgama pūrvabhāga
+SA_T11_dhnyabpu	anchor	61	845	550.0	660.0	608	541	674	Nyāyabinduprakaraṇa
+SA_T11_dhkpvsvu	anchor	66	793	550.0	660.0	609	543	673	Pramāṇavārttikavṛtti [Pramāṇavārttikasvavṛtti]
+SA_K10_anitysuu	inferred	1	476			609	-233	1424	Anityatāsūtra [Āryānityatāsūtra]
+SA_GV05_agsas_3u	anchor	6	869	500.0	700.0	609	491	729	Āgamaśāstra 3: Advaitaprakaraṇa
+SA_T04_canprasu	anchor	103	571	570.0	650.0	609	562	659	Prasannapadā [Madhyamakaśāstravṛtti]
+SA_GV05_agsas_4u	anchor	9	897	500.0	699.0	610	494	727	Āgamaśāstra 4: Alātaśāntiprakaraṇa
+SA_T04_n847u	anchor	1	347	570.0	650.0	610	563	660	Madhyamakaśāstrastuti
+SA_T04_bsa053_u	anchor	9	503	570.0	650.0	610	563	660	Madhyamakāvatāra
+SA_T04_n2980u	anchor	8	739	570.0	650.0	610	562	659	Madhyamakāvatārakārikā
+SA_K12_n220u	inferred	1	478			611	-173	1396	Nārāyaṇaparipṛcchā āryamahāmāyāvijayavāhinī nāma dhāraṇī
+SA_GS26_jaytuppu	anchor	21	896	500.0	699.0	611	497	728	Tattvopaplavasiṃha
+SA_MB_hamsasaraHK	inferred	1	508			611	-209	1436	Unknown: haṃsasāra
+SA_K01_bsu058_u	anchor	31	917	500.0	699.0	612	495	728	Vinayasūtra [1: Pravrajyāvastu]
+SA_MB_suksmagamaHK	inferred	67	610			613	108	1144	Unknown: sūkṣmāgama
+SA_T02_Mañjuśrīyaśa_Laghukālacakratantra-Vimalaprabhā-Vol1_Upādhyāya_1986	inferred	57	590			614	100	1119	
+SA_GK20_mmatvipu	anchor	9	387	600.0	630.0	614	566	663	Mattavilāsaprahasana
+SA_K14_visvantu	inferred	4	566			615	-44	1236	Viśvantarāvadāna
+SA_T02_mpvv_u	inferred	1	475			616	-204	1410	Mahāpratisarāvidyāvidhi
+SA_T02_Vajragarbha_Ṣaṭsāhasrikā-Hevajratantra-Ch10_Sferra_2009	inferred	3	582			617	-39	1301	
+SA_K12_mekhdh_u	inferred	1	509			619	-193	1416	Mekhalā-dhāraṇī
+SA_GK23_kaulpradsam_u	inferred	11	596			619	55	1184	Pradeśasaṃgraha
+SA_T02_vadhdhdu	inferred	6	588			620	24	1200	Vasudhārādhāraṇī 1 [Vasudhārādhāraṇīsūtra]
+SA_K01_bsu011_u	inferred	1	535			620	-182	1451	Bodhisattvaprātimokṣasūtra
+SA_K14_n2947u	inferred	3	579			621	-46	1286	Vajrasattvaniṣpādanasūtra [Vajrasattvasādhana]
+SA_T02_Vanaratna_Rahasyadīpikā_Rinpoche-Dvivedi_1990	inferred	59	598			621	116	1160	
+SA_MB_siddhilaksmiyutaksaramalamamtraHK	inferred	5	585			622	9	1241	Unknown: siddhilakṣmīkyutākṣaramālāmantra
+SA_GS41_brhajj_u	anchor	2	526	550.0	699.0	622	536	712	Bṛhajjātaka
+SA_T06_trimsikatika	anchor	9	625	500.0	730.0	624	523	750	Triṃśikāṭīkā
+SA_GP12_skp	anchor	938	506	550.0	700.0	624	535	709	Skandapurāṇa
+SA_GS41_brhats_u	anchor	70	607	550.0	699.0	624	537	714	Bṛhatsaṃhitā
+SA_MB_merutantraHK	inferred	312	602			625	110	1152	Unknown: merutantra
+SA_GK20_hdratn_u	anchor	18	441	606.0	647.0	625	575	673	Ratnāvalīnāṭikā
+SA_GS41_yogay2_u	anchor	11	645	550.0	699.0	625	539	711	Yogayātrā
+SA_T11_bsa059_u	anchor	2	703	600.0	660.0	625	571	671	Santānāntarasiddhi
+SA_GK19_bahcar4u	anchor	7	567	606.0	647.0	625	577	675	Harṣacarita: Ucchvāsa 4
+SA_GK20_hpriydpu	anchor	18	431	606.0	647.0	626	577	672	Priyadarśikā
+SA_GP12_brndp2_u	anchor	117	544	300.0	1000.0	626	293	942	Brahmāṇḍa-Purāṇa 2
+SA_K12_n2949u	inferred	79	613			626	112	1128	Dhāraṇīsaṃgraha
+SA_GK19_bahcar8u	anchor	8	663	606.0	647.0	626	578	677	Harṣacarita: Ucchvāsa 8
+SA_GS41_yogay1_u	anchor	12	705	550.0	699.0	627	542	716	Yogayātrā
+SA_GS41_vivahapu	anchor	2	754	550.0	699.0	627	540	713	Vivāhapaṭala
+SA_GK19_bahcar2u	anchor	8	646	606.0	647.0	627	577	675	Harṣacarita: Ucchvāsa 2
+SA_GK19_bahcar6u	anchor	7	701	606.0	647.0	627	578	676	Harṣacarita: Ucchvāsa 6
+SA_T01_n881u	anchor	1	1114	606.0	647.0	627	579	676	Suprabhātastotra
+SA_GK19_bahcar	anchor	50	728	606.0	647.0	627	580	677	Harṣacarita
+SA_GK19_bahcar3u	anchor	8	759	606.0	647.0	627	581	677	Harṣacarita: Ucchvāsa 3
+SA_GK19_bahcar5_pu	anchor	6	626	606.0	647.0	627	577	674	Harṣacarita: Ucchvāsa 5
+SA_GS41_tikaniku	anchor	3	939	550.0	699.0	627	541	714	Tikanikayātrā
+SA_GK19_bahcar7u	anchor	7	665	606.0	647.0	627	578	676	Harṣacarita: Ucchvāsa 7
+SA_K12_bsu007_u	anchor	2	577	500.0	750.0	628	483	776	Śrīmahādevīvyākaraṇa [Śrīmahādevīvyākaraṇasūtra, Dvādaśadaṇḍakanāmāṣṭaśatavimalīkaraṇā]
+SA_GV06_dantyovu	inferred	1	549			628	-200	1433	Dantyoṣṭhyavidhi
+SA_GK20_harnagau	anchor	4	883	606.0	648.0	628	578	676	Nāgānandanāṭaka
+SA_GR13_sivup_pu	inferred	13	601			628	71	1181	Śiva-Upaniṣad
+SA_K10_n526u	inferred	7	601			629	16	1219	Sarvatathāgatādhiṣṭhānavyūhasūtra
+SA_T11_dhkprvku	anchor	23	696	600.0	660.0	630	581	680	Pramāṇavārttikakārikā
+SA_T11_bsa064_u	anchor	15	681	600.0	660.0	630	582	679	Vādanyāya
+SA_T11_bsa071_u	anchor	7	687	600.0	660.0	630	582	678	Hetubindu
+SA_GK19_bankad1u	anchor	17	697	600.0	660.0	631	582	680	Kādambarī
+SA_T11_dhkvadnu	anchor	17	812	600.0	660.0	631	582	680	Vādanyāya
+SA_T11_dhkhetuu	anchor	10	820	600.0	660.0	631	583	681	Hetubindu
+SA_T11_pramanvu	anchor	29	785	600.0	660.0	632	581	679	Pramāṇavārttika
+SA_GS41_brsphutu	anchor	5	529	598.0	668.0	632	585	683	Brāhmasphuṭasiddhānta
+SA_MB_suprabhedagamaHK	inferred	93	611			635	116	1142	Unknown: suprabhedāgama
+SA_T02_Puṇḍarīka_Vimalaprabhā-Laghukālachakratantra_Upadhyaya_1986	inferred	59	626			635	125	1169	
+SA_T01_n888u	inferred	1	533			635	-181	1446	Maṅgalaṣoḍaśastuti
+SA_K10_bsu037_u	inferred	7	603			635	64	1238	Sarvatathāgatādhiṣṭhānavyūhasūtra
+SA_T01_n810u	inferred	1	591			636	-173	1471	Maṅgalāṣṭaka
+SA_T06_n1333u	inferred	1	549			637	-179	1445	Cittatattvasaṅgraha
+SA_MB_siddhilaksmiidevyarcanaHK	inferred	5	590			637	12	1264	Unknown: siddhilakṣmīdevyārcana
+SA_T02_n2877u	inferred	8	619			638	66	1229	Bauddha pāribhāṣikāḥ śabdāḥ
+SA_K10_sf68_sc	inferred	1	540			638	-175	1399	
+SA_MB_advayataarakopanisatHK	inferred	1	538			638	-160	1443	Unknown: advayatārakopaniṣat
+SA_T01_n889u	inferred	1	529			638	-191	1443	Mañjuvajrastotra
+SA_MB_kalottaragamaHK	inferred	77	619			640	123	1139	Unknown: kālottara
+SA_K12_vjviddhu	inferred	1	552			641	-164	1408	Vajravidāraṇā-dhāraṇī
+SA_K14_ratnml_u	inferred	178	615			642	133	1132	Ratnamālāvadāna
+SA_K12_Āgama_Vajrabhairavatantra_Wenta_2020	inferred	4	608			642	4	1265	
+SA_MB_uddharakosaHK	inferred	16	630			644	111	1182	Unknown: uddhārakośa
+SA_K12_vajvidhu	anchor	1	349	500.0	799.0	644	468	824	Vajravidāraṇī-dhāraṇī
+SA_MB_satcakranirnayaHK	inferred	3	621			644	-31	1313	Unknown: ṣaṭcakranirṇaya
+SA_T01_n836u	inferred	2	578			645	-86	1347	Catuḥṣaṣṭisaṃvarastotra
+SA_K12_Āgama_Mañjuśrīnāmasaṃgīti_Minaev_1887	inferred	5	634			646	43	1264	
+SA_T02_Kuladatta_Kriyāsaṃgrahapañjikā-partial_Tanemura_2020	inferred	1	581			647	-169	1491	
+SA_T01_n908u	inferred	1	576			647	-175	1440	Vajrayoginīpraṇāmaikaviśikā
+SA_K10_bsu001_u	inferred	1	566			647	-170	1482	Āryānityatāsūtra [Anityatāsūtra]
+SA_MB_prayascittasamuccayaHK	inferred	31	638			648	114	1171	Unknown: prāyaścittasamuccaya
+SA_GS24_jvkasipu	anchor	596	533	600.0	700.0	649	589	708	Kāśikāvṛtti
+SA_K10_bsu008_u	inferred	2	608			649	-72	1378	Āryabuddhabalādhānaprātihāryavikurvāṇanirdeśanāma Mahāyānasūtra
+SA_K01_vinv13_u	inferred	3	626			650	-12	1309	Pārivāsikavastu
+SA_K12_sdurst_u	anchor	26	583	600.0	700.0	650	591	705	Sarvadurgatipariśodhana Tantra
+SA_T02_n2946u	inferred	34	645			650	119	1183	Paribhāṣāvṛtti
+SA_MB_guhyasamaajatantraHK	inferred	35	634			650	131	1177	Unknown: guhyasamājatantra
+SA_K10_n269u	inferred	1	591			651	-112	1418	Āryatriratnānusmṛtisūtra
+SA_T10_cansisyu	anchor	3	1024	600.0	699.0	651	594	709	Śiṣyalekha
+SA_T01_n809u	inferred	1	631			651	-139	1460	Tārāstuti [Āryatārāstuti]
+SA_T02_vamvuppu	inferred	8	624			651	57	1232	Mṛtyuvañcanopadeśa
+SA_GSP28_ktv_2-1u	anchor	7	773	600.0	699.0	651	590	708	Tantravārttika 2.1.1–4
+SA_T01_n837u	inferred	2	639			651	-62	1388	Pīṭhastava
+SA_GP12_vampsm_u	anchor	25	525	450.0	900.0	651	411	893	Vāmana-Purāṇa
+SA_K12_Āgama_Siddhayogeśvarīmatatantra_Torzok_1999	inferred	10	621			651	70	1219	
+SA_T02_n2908u	inferred	4	634			651	17	1292	Balimālikā
+SA_T01_n870u	inferred	1	614			652	-151	1454	Buddhastotra
+SA_GV05_agsas_2u	anchor	4	708	500.0	799.0	652	479	822	Āgamaśāstra 2: Vaitathyaprakaraṇa
+SA_MB_kaamaratnatantraHK	inferred	36	646			653	142	1186	Unknown: kāmaratnatantra
+SA_GP12_vamp__u	anchor	94	548	450.0	900.0	654	414	890	Vāmana-Purāṇa
+SA_T01_n905u	inferred	1	599			655	-154	1474	Vajradevīstotra
+SA_MB_yoginiitantramHK	inferred	82	639			655	156	1175	Unknown: yoginiitantra
+SA_K14_n191u	inferred	6	629			656	47	1253	Kaṭhināvadāna
+SA_K12_Āgama_Mañjuśrīnāmasaṃgīti_Davidson_1981	inferred	7	633			656	52	1240	
+SA_MB_mahaavaakyopanisatCSX	inferred	2	616			656	-57	1353	Unknown: mahāvākyopaniṣat
+SA_GP12_brndp3_u	anchor	86	665	300.0	1000.0	657	325	988	Brahmāṇḍa-Purāṇa 3
+SA_MB_T0274makutagamaHK	inferred	43	653			657	138	1179	Unknown: mukuṭāgama
+SA_T02_nitkarpu	inferred	3	628			658	-33	1334	Nityakarmapūjāvidhi
+SA_T02_vadhdhgu	inferred	1	627			658	-139	1432	Vasudhārādhāraṇī 2 [Sucandragṛhapatiparipṛcchā/Sucandrāvadāna]
+SA_T02_n1401u	inferred	1	598			659	-158	1464	Mahāmāyāsādhanopāyikā
+SA_T02_vadhdhju	inferred	2	622			659	-73	1377	Vasudhārādhāraṇī 3 [Vasudhārādhāraṇīsūtra]
+SA_T02_Vajragarbha_Ṣaṭsāhasrikā-Hevajratantra-Ch1_Sferra_2009	inferred	2	618			660	-81	1400	
+SA_K10_bsu026_u	inferred	1	639			661	-136	1450	Pratītyasamutpādamahāyānasūtra
+SA_GSP28_tantrava	anchor	105	822	620.0	700.0	661	611	709	Mīmāṃsāsūtra Tantravarttika
+SA_K12_tarb108u	inferred	1	647			662	-147	1450	Tārābhaṭṭārikānāmāṣṭottaraśatakastotra
+SA_GK16_bhakavpu	anchor	12	828	500.0	799.0	663	485	833	Kāvyālaṃkāra
+SA_MB_kaalaanalatantraHK	inferred	23	651			663	119	1178	Unknown: kālānalatantra
+SA_GP12_lip_1_pu	anchor	138	551	400.0	1000.0	663	382	951	Liṅga-Purāṇa 1
+SA_MB_KaularahasyaHK	inferred	54	653			664	171	1187	Unknown: kaularahasya
+SA_MB_makutaagamaHK	inferred	42	663			665	132	1198	Unknown: makuṭāgama
+SA_T01_n826u	inferred	1	638			666	-121	1496	Rūpastava
+SA_T01_n885u	inferred	1	654			666	-146	1495	Kamalākarasarvatathāgatastotra
+SA_GR14_satvtanu	anchor	13	758	400.0	899.0	667	408	930	Sātvatatantra
+SA_MB_m.rtyunjayakalpaHK	inferred	25	662			667	149	1209	Unknown: mṛtyuñjayakalpa
+SA_T01_n813u	inferred	1	634			667	-148	1466	Avalokiteśvarahayagrīvadhāraṇī
+SA_GR13_kirtm_pu	anchor	4	1030	500.0	799.0	667	497	836	Kiraṇatantra
+SA_K12_Āgama_Tantrasadbhāva_Bang_2018	inferred	20	647			668	116	1213	
+SA_T01_n895u	inferred	1	670			670	-162	1503	Mahogratārāstuti
+SA_T02_Mañjuśrīyaśa_Laghukālacakratantra-Vimalaprabhā-Vol2_Dwivedi-Bahulkar_1994	inferred	72	661			670	156	1168	
+SA_MB_dattatreyabodhaHK	inferred	3	669			672	-4	1332	Unknown: dattātreyabodha
+SA_T01_n853u	inferred	1	691			673	-129	1513	Mañjuśrīnāmāṣṭottaraśatakastotra [Āryamañjuśrīnāmāṣṭottaraśatakastotra]
+SA_T01_n835u	inferred	1	681			673	-122	1468	Cakrasaṃvarastuti
+SA_K12_n2922u	anchor	6	641	550.0	800.0	676	533	818	Amoghapāśakalparāja Part VII
+SA_MB_kubjikaatantramHK	inferred	17	673			677	139	1214	Unknown: kubjikātantra
+SA_MB_paraatantraHK	inferred	12	674			677	121	1249	Unknown: paraatantra
+SA_GK16_kavsuvr	anchor	46	1058	500.0	799.0	680	516	847	Kāvyālaṃkāra-sūtra-vṛtti
+SA_MB_yogapiithakramodayaHK	inferred	14	684			680	136	1237	Unknown: yogapīṭhakramodaya
+SA_T15_n1144u	inferred	3	674			682	12	1347	Nītiśāstra
+SA_T14_n1279u	inferred	4	671			682	45	1322	Ātreyatilaka
+SA_MB_vatulottaraHK	inferred	41	682			684	154	1188	Unknown: vatullotarāgama
+SA_K10_n552u	inferred	2	662			684	-45	1384	Āryābuddhabalādhānaprātihāryavikurvaṇanirdeśanāma mahāyānasūtra
+SA_GR13_kirtc_pu	anchor	27	1119	500.0	799.0	684	514	847	Kiraṇatantra
+SA_K10_ahovcs_u	inferred	8	683			685	95	1254	Ahorātravratacaityasevānuśaṃsāvadāna
+SA_K10_kathinau	inferred	6	682			685	81	1269	Kaṭhināvadāna
+SA_GP12_lip_2__u	anchor	48	648	400.0	1000.0	686	388	978	Liṅga-Purāṇa 2,1–55
+SA_K12_n2990u	anchor	2	511	500.0	900.0	686	456	910	Āryaśrīgrahamātṛkā nāma dhāraṇī
+SA_GS41_surysidu	anchor	11	965	300.0	900.0	686	385	976	Sūryasiddhānta
+SA_GK16_dkavy12u	anchor	10	911	650.0	720.0	686	637	735	Kāvyādarśa
+SA_T01_n822u	inferred	1	653			688	-115	1492	Narakoddhārastotra
+SA_T01_n862u	inferred	1	712			689	-137	1514	Pratisarāstotra
+SA_GSP33_mndvivpu	anchor	3	821	660.0	720.0	690	642	740	Vibhramaviveka
+SA_MB_pratisthalaksanasarasamuccayaHK	inferred	71	697			690	178	1192	Unknown: pratiṣṭhālakṣaṇasārasamuccaya
+SA_T11_bsa061_u	anchor	10	652	600.0	760.0	691	622	778	Santānāntarasiddhiṭīkā
+SA_GSP31_yuktdipu	anchor	74	470	600.0	800.0	691	577	807	Yuktidīpikā
+SA_GSP33_brasi	anchor	42	810	660.0	720.0	691	642	739	Brahmasiddhi
+SA_GSP33_mbrahsiu	anchor	61	810	660.0	720.0	691	643	740	Brahmasiddhi
+SA_K14_ahovk2_u	inferred	2	695			691	-29	1401	Ahorātravratakathā 2
+SA_T01_n882u	inferred	1	701			692	-98	1506	Saptabuddhastotra
+SA_T02_Anonymous_Kālacakrapūjāvidhi_RBTRD_2014	inferred	10	702			692	143	1234	
+SA_K12_grahmdhu	anchor	2	608	500.0	900.0	692	472	920	Grahamātṛkānāmadhāraṇī
+SA_T02_Abhayākaragupta_Kālacakrāvatāra_Mishra_2016	inferred	3	687			693	-3	1373	
+SA_MB_siddhilak.smii-aramikaHK	inferred	13	699			694	151	1244	Unknown: siddhilakṣmī ārāmika
+SA_K12_sarvttsu	anchor	71	605	650.0	750.0	694	639	730	Sarvatathāgatatattvasaṅgraha [Sarvatathāgatatattvasaṃgraha]
+SA_GSP31_sparibhu	inferred	6	702			694	97	1316	Sāṃkhyaparibhāṣā
+SA_K12_manjnspu	anchor	3	463	600.0	799.0	695	578	814	Mañjuśrīnāmasaṃgīti
+SA_GSP32_vaissutika	anchor	10	548	600.0	799.0	695	577	811	Vaiśeṣikasūtraṭīkā
+SA_K12_manjn1pu	anchor	5	605	600.0	799.0	696	580	812	Mañjuśrīnāmasaṃgīti
+SA_MB_ugracandapujapaddhatiHK	inferred	5	696			696	83	1309	Unknown: ugracaṇḍapūjāpaddhati
+SA_MB_kaamadhenutantraHK	inferred	14	695			696	132	1245	Unknown: kāmadhenutantra
+SA_MB_saktisa.mgamatantra_kalikhandaHK	inferred	37	685			697	170	1205	Unknown: śaktisaṃgamatantra kālīkhanda
+SA_K12_bsu004_u	anchor	5	564	600.0	800.0	697	577	815	Sitātapatrā
+SA_GR13_vinst_pu	anchor	8	629	600.0	799.0	698	579	814	Vīṇāśikhatantra
+SA_MB_haharavatantraHK	inferred	82	710			698	209	1204	Unknown: hāhārāvatantra
+SA_MB_mahaaguhyakaaliividhaanamHK	inferred	5	707			698	89	1321	Unknown: mahāguhyakālīvidhānam
+SA_GK20_bhveni_u	anchor	33	648	650.0	750.0	698	641	758	Veṇīsaṃhāra
+SA_GS41_bijaganu	anchor	4	703	600.0	799.0	699	584	818	Bījagaṇita
+SA_T13_bghsic_u	inferred	14	695			699	141	1231	Siddhārthacaritrakāvya
+SA_GK19_bahcar1u	inferred	8	699			699	112	1286	
+SA_T02_Abhayākaragupta_Kālacakrāvatāra_Unknown_Unknown	inferred	3	713			700	19	1367	
+SA_GK19_maghspvu	anchor	33	751	650.0	750.0	700	640	760	Śiśupālavadha
+SA_MB_tattvatrayanirnayaHK	anchor	3	1059	675.0	725.0	701	653	750	sadyojyoti: āṣṭaprakaraṇa tattvatrayanirṇaya
+SA_T01_n806u	anchor	1	1154	600.0	799.0	701	585	821	Tārānamaskāraikaviṃśatistotra [Āryatārānamaskāraikaviṃśatistotra]
+SA_MB_brhannilatantram-HK	inferred	56	706			702	196	1234	Unknown: bṛhannīlatantra
+SA_T01_n869u	inferred	1	739			702	-82	1495	Buddhagadyaya [Buddhagajjaya]
+SA_GSP28_mimslovu	anchor	70	949	650.0	750.0	702	643	761	Mīmāṃsāślokavārttika
+SA_MB_paramoksanirasakarikaHK	anchor	10	1038	675.0	725.0	702	654	751	sadyojyoti: āṣṭaprakaraṇa paramokṣanirāsakārikā
+SA_MB_naresvarapariiksaaHK	anchor	45	1013	675.0	725.0	702	655	749	sadyojyoti: nareśvaraparīkṣā
+SA_T02_n1424u	inferred	9	698			702	112	1276	Śrīguhyasamājamaṇḍalavidhi
+SA_MB_moksakarikaHK	anchor	11	1081	675.0	725.0	702	654	751	sadyojyoti: āṣṭaprakaraṇa mokṣakārikā
+SA_MB_karanagamaHK	inferred	18	711			703	163	1244	Unknown: karaṇāgama
+SA_GS41_lilavatu	anchor	20	756	600.0	799.0	703	586	814	Līlāvatī
+SA_MB_JnanarnavaTantraHK	inferred	34	705			703	168	1201	Unknown: jñānārṇavatantra
+SA_MB_uddamaresvaratantramHK	inferred	20	712			703	158	1248	Unknown: uḍḍāmeśvaratantra
+SA_MB_agnikaaryapaddhatiHK.	inferred	32	702			703	164	1232	Unknown: agnikāryapaddhati
+SA_MB_viiraagamaHK	inferred	82	715			704	206	1220	Unknown: vīrāgama
+SA_MB_tattvasamgrahaHK	anchor	8	1168	650.0	750.0	704	644	764	sadyojyoti: āṣṭaprakaraṇa tattvasaṃgraha
+SA_MB_jayakhyasamhitaHK	inferred	106	725			704	196	1222	Unknown: jayākhyasaṃhitā
+SA_MB_subodhamanjariHK	inferred	1	764			704	-114	1513	Unknown: subodhamañjarī
+SA_T01_n824u	inferred	1	740			705	-134	1505	Rakṣākāla(kara)stava
+SA_GSP31_tatsuvru	inferred	5	718			706	71	1318	Tattvasamāsasūtravṛtti [Kramadīpikā]
+SA_K14_n192u	inferred	22	717			706	166	1244	Mahāsattvamaṇicūḍamahārājabodhisattvāvadāna
+SA_GSP31_tattvmiu	inferred	3	718			706	48	1351	Tattvamīmāṃsā
+SA_MB_candrajnanagamaHK	inferred	24	700			706	161	1224	Unknown: candrajñānāgama
+SA_T01_n901u	inferred	1	736			707	-81	1496	Māravijayastotra
+SA_T07_vabhdicu	anchor	71	476	450.0	600.0	708	700	735	Vibhāṣāprabhāvṛtti
+SA_GSP33_bhbhg_cu	anchor	80	975	600.0	799.0	710	594	824	Bhagavadāśayānusaraṇabhāsya
+SA_MB_kalasaarcanavidhiHK	inferred	8	732			710	119	1295	Unknown: kalaśārcanavidhi of siddhalakṣmīdevī
+SA_T01_n875u	inferred	1	748			710	-96	1524	Śākyasiṃhastotra: navagrahakṛtam
+SA_T02_n2912u	anchor	3	665	675.0	750.0	712	664	760	Prajñopāyaviniścayasiddhi
+SA_GP12_kurmp2_u	anchor	57	869	550.0	850.0	712	542	882	Kūrma-Purāṇa 2
+SA_K02_bsu057_u	inferred	1	728			713	-117	1513	Advayaśatikā Prajñāpāramitāsūtra
+SA_MB_vijnanabhairavaHK	inferred	3	725			713	19	1373	Unknown: vijñānabhairava
+SA_K01_n2892u	inferred	6	737			714	106	1325	Vajrasatvapārājikā [Vajrasattvapārājikā]
+SA_K12_mamuka	anchor	182	480	500.0	1100.0	714	415	1004	Mañjuśrīmūlakalpa [Āryamañjuśrī Mūlakalpa]
+SA_T01_n852u	inferred	1	767			714	-100	1528	Vajramahākālastotra
+SA_MB_bhogakarikaHK	anchor	12	1066	675.0	750.0	715	667	763	sadyojyoti: āṣṭaprakaraṇa bhogakārikā
+SA_MB_vijayottaratantraHK	inferred	15	720			715	148	1254	Unknown: vijayottaratantra
+SA_MB_urddhvamnayapujavidhiHK	inferred	12	730			716	148	1279	Unknown: urddhvāmnāyapūjāvidhi
+SA_T04_acatstvu	inferred	2	734			716	10	1417	Catuḥstavasamāsārtha [Catuḥstavasamārtha]
+SA_MB_acintyavisvasadakhyaHK	inferred	135	718			716	189	1232	Unknown: acintyaviśvasādākhyam
+SA_GP12_kurmp1_u	anchor	66	913	550.0	850.0	716	552	887	Kūrma-Purāṇa 1
+SA_T13_n3004u	inferred	1	783			717	-113	1532	Paścāttāpa
+SA_T04_bsa008_u	inferred	1	772			717	-94	1533	Garbhasaṅgraha
+SA_T01_n910u	inferred	1	714			718	-94	1539	Vajrayoginyāḥ stutipraṇidhānam
+SA_K12_bsu041_u	anchor	207	495	500.0	1100.0	718	434	1013	Mañjuśrīmūlakalpa [Āryamañjuśrī Mūlakalpa]
+SA_K14_ahovk1_u	inferred	3	747			718	46	1392	Ahorātravratakathā 1
+SA_MB_aniruddhasamhitaaHK	inferred	38	722			719	194	1237	Unknown: aniruddhasaṃhitā
+SA_MB_phetkaariniitantramHK	inferred	31	732			719	198	1241	Unknown: phetkāriṇītantra
+SA_GS40_samapviu	inferred	21	737			719	200	1248	Āyurvedamahodadhau Annapānavidhi
+SA_MB_visvasaaratantramHK	inferred	81	731			719	204	1235	Unknown: visvasāratantra
+SA_GK19_jalmugpu	inferred	2	763			720	23	1435	Mugdhopadeśa
+SA_GSP33_brasusau	anchor	101	147	700.0	750.0	721	672	769	Brahmasūtra (Śaṅkarabhāṣya)
+SA_T02_Nāropā_Sekoddeśaṭīkā_Carelli_1941	inferred	22	749			722	185	1243	
+SA_T01_n829u	inferred	1	783			722	-75	1519	Saptavidhānuttarastotra
+SA_MB_yogajagamaHK	inferred	40	736			722	228	1229	Unknown: yogajāgama
+SA_K10_bsu025_u	inferred	1	796			723	-66	1517	Nairātmyaparipṛcchāmahāyānasūtra
+SA_T04_bsa014_u	anchor	1	364	685.0	763.0	723	676	771	Śikṣāsamuccayakārikā
+SA_T01_n877u	inferred	1	759			723	-91	1507	Śākyasiṃhastotra: surapatikṛtam
+SA_MB_TridasadaamaraapratyaHK	inferred	36	738			724	201	1251	Unknown: tridaśaḍāmarāpratyaṅgirāviśayakanānātantra
+SA_MB_kaalottaratantramHK	inferred	105	740			724	210	1231	Unknown: kāllotara
+SA_GK19_bhago	anchor	21	802	700.0	750.0	724	677	774	Bhaj-Govindam
+SA_T01_n812u	inferred	1	769			725	-103	1540	Avadhānastotra [Vandanāstava]
+SA_T01_tarasdhu	anchor	2	927	700.0	750.0	726	675	775	Tārāsragdharāstotra
+SA_T01_n804u	inferred	3	771			727	71	1404	Vikramāraccivaibhava
+SA_T02_khasrpsu	inferred	1	761			728	-105	1528	Khasarpaṇasādhana
+SA_T01_n878u	inferred	1	824			729	-57	1562	Śākyasiṃhastotra: viṣṇukṛtam
+SA_T15_bsa060_u	inferred	2	784			729	13	1450	Śatagāthā
+SA_T14_tarkrplu	inferred	4	769			731	91	1398	Pratyakṣalakṣaṇa
+SA_MB_RudraYamalaHK	inferred	157	750			734	230	1240	Unknown: rudrayamalatantra uttarakāṇḍa
+SA_T02_rabhramu	inferred	3	770			734	76	1408	Bhramaharanāma Hevajrasādhana
+SA_GR13_svact_pu	anchor	74	559	600.0	900.0	734	567	894	Svacchandatantra [Svacchandabhairavatantra]
+SA_T01_n890u	inferred	1	825			734	-63	1579	Svayaṃbhūstava
+SA_T11_n2992u	anchor	21	822	700.0	770.0	735	688	785	Viśālāmalavatī Pramāṇasamuccayaṭīkā
+SA_GR13_stkal_pu	anchor	7	535	600.0	899.0	735	565	903	Sārdhatriśatikālottarāgama
+SA_MB_durgarcanasrtiHK	inferred	89	752			735	238	1256	lakṣmīnārāyaṇa goswāmī: durgārcanaṣṛti
+SA_GSP30_vijnbhau	anchor	3	770	600.0	875.0	737	574	893	Vijñānabhairava
+SA_MB_purascaryaarnava-2-HK	inferred	91	750			737	211	1251	Unknown: puraścaryārṇava volume 2
+SA_T02_Advayavajra_saṃgraha_Bhattacharyya_1927	inferred	10	759			739	177	1293	
+SA_T02_n798u	inferred	3	781			739	82	1425	Ḍākinījālasaṃvararahasya
+SA_T02_Candrakīrti_Pradīpoddyotana-Guhyasamājatantra_Chakravarti_1984	inferred	62	748			740	228	1269	
+SA_MB_KulasaaraHK	inferred	7	769			741	160	1331	Unknown: kulasāra
+SA_T02_garbhasamgraha	inferred	1	805			741	-62	1514	Garbhasaṃgraha
+SA_MB_niruttaravadaHK	inferred	5	765			741	137	1369	Unknown: niruttaravāda
+SA_MB_taaraatantramHK	inferred	6	762			741	135	1324	Unknown: tāratantra
+SA_MB_parakramapujaHK	inferred	30	753			742	217	1266	Unknown: parākramapūjā
+SA_K01_n2904u	inferred	3	767			742	69	1409	Lokeśvarapārājikā
+SA_MB_kulasaraHK	inferred	18	745			742	191	1286	Unknown: kulasāra
+SA_MB_kulanandadiHK	inferred	7	774			742	162	1348	Unknown: kulānandādi
+SA_MB_maliniivijayottaraHK	inferred	28	758			742	203	1273	Unknown: mālinīvijayottaratantra
+SA_T17_n958u	inferred	43	757			742	215	1258	Bauddhatantrakośa I
+SA_T05_n1110u	inferred	9	768			743	148	1326	Bodhyāpattideśanāvṛtti
+SA_MB_TattvaratnaavaliiHK	inferred	8	767			743	172	1307	vimalaśiva: tattvaratnāvalī
+SA_T04_tat	anchor	22	888	725.0	788.0	744	700	787	Tattvasaṃgraha
+SA_T11_arhebt2u	anchor	60	788	700.0	790.0	745	693	796	Hetubinduṭīkā
+SA_T01_n871u	inferred	1	841			745	-76	1533	Nāmāṣṭaśatakaya
+SA_T11_arhebt_u	anchor	65	800	700.0	790.0	745	693	799	Hetubinduṭīkā
+SA_T04_sanssr	anchor	84	431	700.0	799.0	746	687	803	Śikṣāsamuccaya
+SA_GS40_vagaah_u	anchor	183	619	700.0	800.0	747	689	809	Aṣṭāṅgahṛdayasūtra
+SA_MB_mahaalak.smiidiipadaanavidhiHK	inferred	9	780			748	182	1321	Unknown: mahālakṣmīdīpadānavidhiḥ
+SA_T01_n2888u	inferred	1	864			748	-74	1534	Dvādaśakāranayastotra
+SA_K01_n2894u	inferred	1	828			748	-69	1559	Saddharmapārājikā
+SA_T04_santbcpu	anchor	19	768	700.0	799.0	749	689	807	Bodhicaryāvatāra [Bodhisattvacaryāvatāra]
+SA_GR12_hsasvrpu	anchor	15	833	700.0	799.0	749	691	809	Śāstravārtāsamuccaya
+SA_T04_bsa003_u	anchor	19	715	700.0	799.0	749	693	807	Bodhicaryāvatāra [Bodhisattvacaryāvatāra]
+SA_T02_n2932u	inferred	5	776			749	131	1372	Adhyātmasāraśataka [Adhyātmasāraśatakasaṭīka]
+SA_MB_madhyapii.thapujavidhiHK	inferred	7	781			750	143	1328	Unknown: madhyapīṭhapūjāvidhi
+SA_T11_bsa066_u	anchor	12	928	700.0	799.0	750	693	808	Nyāyapraveśapravṛtti
+SA_GR14_harinc_u	inferred	25	772			750	212	1280	Harināmacintāmaṇi
+SA_T03_n1146u	anchor	149	761	700.0	799.0	750	691	809	Abhisamayālaṃkārāloka [Abhisamayālaṅkārāloka]
+SA_T06_n1290u	anchor	4	702	720.0	780.0	750	701	796	Bāhyarthasiddhikārikānāma
+SA_MB_pauskarasamhitaHK	inferred	120	770			750	240	1270	Unknown: pauṣkara saṃhitā
+SA_T11_sbpramvu	anchor	19	857	700.0	799.0	750	692	806	Pramāṇavārttikaṭīkā
+SA_T08_jsphustu	anchor	21	849	700.0	799.0	750	692	809	Sphuṭārthā Śrīghanācārasaṃgrahaṭīkā
+SA_T01_n842u	inferred	2	796			751	44	1464	Buddhagaṇḍīstava
+SA_T14_bsu059_u	inferred	2	810			751	24	1462	Samyaksambuddhabhāṣita pratimālakṣaṇa
+SA_GK21_hitop_u	anchor	38	920	700.0	800.0	751	693	812	Hitopadeśa
+SA_MB_TridasadaamaratantresiddhikaaliistotramHK	inferred	12	773			751	197	1322	Unknown: tridaśaḍāmaratantre siddhikaalīstotra
+SA_GK21_brkas_pu	anchor	180	782	600.0	899.0	752	586	923	Bṛhatkathāślokasaṃgraha
+SA_MB_makutaagama_viirasaivaHK	inferred	11	791			753	202	1307	Unknown: makuṭāgama vīraśaiva rescension
+SA_GK19_mala	anchor	91	1087	700.0	800.0	753	696	812	Mālatīmādhava
+SA_T01_n868u	inferred	1	825			754	-39	1546	Buddhabhaṭṭārakastotra
+SA_T01_n817u	inferred	1	872			755	-43	1550	Avalokiteśvarastotra
+SA_T02_Saroruha_Hevajra_Gerloff_2017	inferred	3	797			756	88	1430	
+SA_MB_sakalaagamasaarasangrahaHK	inferred	62	785			756	242	1269	Unknown: sakalāgamasārasaṅgraha
+SA_T11_n1226u	anchor	42	822	725.0	788.0	756	707	805	Vādanyāyaṭīkā
+SA_T11_n2848u	inferred	4	802			756	131	1403	Bauddha manīṣā- Bauddheṣu Pramāṇamīmāṃsā
+SA_MB_jnanasaraHK	inferred	2	809			756	39	1455	Unknown: jñānasāra
+SA_T02_n2886u	inferred	11	791			757	192	1330	Samājasādhanavyavastholi
+SA_GR13_mrgt1mpu	anchor	9	887	600.0	900.0	757	589	925	Mṛgendrāgama [Mṛgendratantra]: 1. Vidyāpāda
+SA_GSD36_ys-99_pu	inferred	2	833			760	51	1452	Laghuyamasmṛti
+SA_T02_n1397u	inferred	3	806			760	109	1406	Guhyavajravilāsinīsādhana
+SA_MB_svacchandapaddhatiHK	inferred	45	781			761	233	1269	cidānandanātha: svacchandapaddhati
+SA_MB_purascaryaarnava-3-HK	inferred	117	782			761	264	1278	Unknown: puraścaryārṇava volume 3
+SA_GSP31_tttvsamu	anchor	1	513	300.0	1400.0	761	246	1265	Tattvasamāsa
+SA_MB_goraksagutikaHK	inferred	11	792			761	204	1336	gorakṣanātha: gorakṣaguṭikā
+SA_T02_n1426u	anchor	6	632	725.0	800.0	761	712	812	Tattvasiddhi
+SA_MB_mantradaanavidhiHK	inferred	1	877			763	-23	1584	Unknown: mahādānavidhiḥ
+SA_T01_n838u	inferred	1	839			764	-72	1570	Ṣaṭtriṃśatsaṃvarastuti
+SA_GSD36_ys182_pu	inferred	4	814			764	116	1391	Bṛhadyamasmṛti
+SA_MB_mohacudottaramHK	inferred	23	785			766	226	1290	Unknown: mohacūḍottara
+SA_T02_n1414u	inferred	7	805			766	178	1353	Śrīvajravārāhīsādhana
+SA_MB_cinmayadiksavidhanamHK	inferred	9	800			767	201	1346	Unknown: cinmayadīkṣāvidhāna
+SA_T04_bsa047	anchor	20	648	740.0	795.0	767	717	815	Bhāvanākrama
+SA_T02_Muniśrībhadra_Pañcakrama-Yogimanoharā_Jiang-Tomabechi_1996	inferred	14	801			767	208	1340	
+SA_MB_agamakalpalataHK	inferred	188	793			767	291	1281	yadunātha: āgamakalpalatā
+SA_MB_mahaalak.smiipuujaavidhiHK	inferred	2	858			768	28	1506	Unknown: mahālakṣmīpūjāvidhiḥ
+SA_T04_ksmadhlu	anchor	49	833	740.0	795.0	768	719	817	Madhyamakāloka
+SA_T03_kamvchtu	anchor	31	823	740.0	795.0	768	718	816	Prajñāpāramitāvajracchedikāṭīkā
+SA_GSP31_kestprau	inferred	2	844			768	60	1484	Sāṃkhyatattvapradīpikā [Sāṃkhyārthatattvapradīpikā]
+SA_T01_n845u	inferred	1	898			769	-47	1550	Hāratīstotra
+SA_MB_kamkaalamaaliniitantraHK	inferred	11	813			770	241	1335	Unknown: kaṅkālamālinītantra
+SA_MB_T-334-sarvajnanottaramHK	inferred	29	811			770	262	1296	Unknown: sarvajñānottara
+SA_MB_saktisamgama_sundarikhandaHK	inferred	39	806			772	255	1306	Unknown: śaktisaṃgamatantra sundarīkhanda
+SA_MB_mahaanirvaanatantramHK	inferred	119	798			772	260	1294	Unknown: mahānirvānatantra
+SA_GSP31_tsc_simu	inferred	8	815			772	188	1361	Sāṃkhyatattvavivecana
+SA_T01_n894u	inferred	1	893			772	-58	1543	Mahogratārāṣṭakastotra
+SA_GR14_visvaksu	anchor	84	635	600.0	1000.0	773	554	987	Viṣvaksenasaṃhitā
+SA_GK19_bahcarpu	inferred	1	905			773	-54	1582	Harṣacarita: Pariśiṣṭa
+SA_MB_ksurikopanisatHK	inferred	1	884			773	-55	1577	Unknown: kṣurikopaniṣat
+SA_T02_sunytjsu	inferred	2	849			774	60	1501	Tattvajñānasaṃsiddhi [Tatvajñānasaṃsiddhi]
+SA_GSD36_angirspu	inferred	28	804			774	252	1290	Āṅgirasasmṛti
+SA_GK16_udkassku	anchor	2	954	750.0	800.0	775	726	824	Kāvyālaṃkārasārasaṃgraha
+SA_T17_sabhivpu	inferred	5	822			775	152	1400	Sabhikasaugataśāsanapravrajyāvratacaraṇaparivarta
+SA_MB_nisvaasakaarikaatantram1HK	inferred	63	796			775	259	1298	Unknown: nisvāsakārikā
+SA_MB_asesakulavallariHK	inferred	3	841			775	123	1450	gaṇananāthabhaṭṭa: aśeṣakulavallarī
+SA_MB_urdhvamnayadamanarohanapaddhatiHK	inferred	6	821			776	167	1394	Unknown: urddhvāmnāya damanārohaṇapaddhati
+SA_MB_diiksaaprakaasaHK	inferred	34	806			776	264	1303	raghunandanaprasāda śukla: dīkṣāprakāśa
+SA_GK16_udkass_u	anchor	25	964	750.0	800.0	776	727	825	Kāvyālaṃkārasārasaṃgraha
+SA_MB_tripuraarahasyamHK	inferred	52	807			776	274	1287	Unknown: tripurārahasya māhatmyakaṇḍham
+SA_MB_siddhalaksmipujapaddhatiHK	inferred	7	828			777	196	1383	Unknown: siddhalakṣṃīpūjāpaddhati
+SA_MB_kaulaavaliinirnayaHK	inferred	83	799			777	258	1280	jñānānandaparamahaṃsa: kaulāvalīnirṇaya
+SA_MB_nirvanatantraHK	inferred	10	827			779	208	1365	Unknown: nirvaṇatantra
+SA_MB_saktisamgama_tantra_tarakhandaHK	inferred	46	823			780	255	1303	Unknown: śaktisaṃgamatantra tārākhanda
+SA_T04_tatpa	anchor	247	838	740.0	795.0	780	738	824	Tattvasaṃgrahapañcikā
+SA_MB_phe.takapratis.thacandikagnividhiHK	inferred	25	812			782	247	1302	Unknown: pheṭakapratiṣṭhācaṇḍikāgnividhi
+SA_T01_n814u	inferred	1	915			783	-52	1567	Avalokiteśvarāṣṭakastotra
+SA_MB_DeviirahasyaHK	inferred	129	814			783	285	1287	Unknown: devīrahasya
+SA_T03_bsa031_u	anchor	22	704	750.0	820.0	784	736	833	Abhisamayālaṅkāravṛttiḥ sphuṭārthā
+SA_T02_Prabhākaragupta-Śiromaṇi_Adhyātmasāraśatakaṭīkā_Dhīḥ_1998	inferred	21	821			784	252	1332	
+SA_MB_kriyakalagunottaramHK	inferred	39	824			787	275	1309	Unknown: kriyākālaguṇottara
+SA_GR13_devikapu	anchor	2	701	600.0	1000.0	787	567	1014	Devīkālottara-Āgama
+SA_GK22_msubhs	inferred	206	819			788	273	1298	Mahāsubhāṣitasaṅgraha
+SA_T02_Candrakīrti_Pradīpoddyotana-Guhyasamājatantra_Dhīḥ_2009	inferred	12	822			789	220	1336	
+SA_MB_maahesvaratantramHK	inferred	65	823			789	282	1311	Unknown: māheśvaratantra
+SA_MB_bhutasuddhitantra-HK	inferred	12	826			789	228	1344	Unknown: bhūtaśuddhitantra
+SA_K12_ganphrdu	anchor	1	603	600.0	1000.0	790	561	1019	Gaṇapatihṛdaya-Dhāraṇī
+SA_T01_n909u	inferred	1	962			790	-7	1630	Vajrayoginyāḥ piṇḍārthastutiḥ
+SA_MB_ucchistacandaaliniikalpaHK	inferred	2	898			790	100	1514	Unknown: ucchiṣṭacāṇḍālinīkalpa
+SA_K12_n2967u	anchor	29	604	700.0	899.0	791	677	907	Śrīguhyasamājatantra
+SA_T02_Jñānacandra_Mahāsukhaprakāśikā-Tattvajñānasaṃsiddhi_DharmodayaSabha_1956	inferred	5	841			791	167	1410	
+SA_GR13_sivmstpu	inferred	2	904			792	84	1513	Śivamahimnastava
+SA_GS40_yogasatu	anchor	3	820	600.0	999.0	793	583	1014	Yogaśataka
+SA_MB_kularnavaHK	inferred	43	838			793	284	1312	Unknown: kulārṇavatantra
+SA_GK16_vamkalsu	anchor	4	521	700.0	899.0	793	672	907	Kāvyālaṅkārasūtra
+SA_T01_n907u	inferred	1	965			794	-20	1645	Vajravilāsinīstotra
+SA_MB_anuttaraprakasapancasikaHK	inferred	1	962			794	-3	1589	ādyanātha: anuttaraprakāśapañcāśikā
+SA_MB_paramesvariitantraHK	inferred	70	822			794	280	1318	Unknown: parameśvarīmatatantra
+SA_MB_saubhagyataranginiHK	inferred	28	817			795	275	1323	mukunda: saubhāgyataraṅgiṇī
+SA_MB_NigamasaranirnayaHK	inferred	52	825			796	272	1315	<ramAramaNadeva: nigamasāranirṇaya
+SA_MB_mantrakosaHK	inferred	55	841			796	282	1309	āśāditya tripāṭhi: mantrakoṣa
+SA_GR13_malinivu	anchor	26	662	700.0	900.0	796	680	909	Mālinīvijayottaratantra
+SA_GR13_mrgt4mpu	anchor	2	778	700.0	900.0	798	680	916	Mṛgendrāgama [Mṛgendratantra]: 4. Yogapāda
+SA_T06_bsa023_u	inferred	1	930			798	-18	1601	
+SA_T02_n1413u	anchor	17	636	750.0	850.0	798	740	855	Sarahapādasya dohākoṣa
+SA_T11_bsa057_u	inferred	3	878			799	150	1469	Nyāyabindu Prakaraṇakārikā
+SA_MB_ahirbudhnyasamhitaVol1HK	inferred	59	833			799	300	1309	Unknown: ahirbudhnya saṃhita Volume 1
+SA_GSP30_timudghu	anchor	8	913	700.0	899.0	799	689	916	Timirodghāṭana
+SA_GK19_damkuttu	anchor	21	901	775.0	825.0	799	751	848	Kuṭṭanīmata
+SA_T02_n2988u	anchor	12	786	750.0	850.0	799	741	859	Jñānasiddhi
+SA_T02_n2914u	anchor	1	1124	750.0	850.0	800	742	857	Śrīsahajasiddhi
+SA_T11_kgpramv	anchor	187	865	750.0	850.0	801	744	860	Pramāṇavārttikavṛtti Commentary
+SA_MB_nisvasakarikatantramHK	inferred	62	840			801	283	1302	Unknown: niśvāsakārikā
+SA_MB_AnandatantramHK	inferred	39	852			802	294	1327	Unknown: ānandatantra
+SA_GP11_brahmppu	anchor	290	539	600.0	1300.0	802	477	1117	Brahma-Purāṇa
+SA_K12_Āgama_Mahāmāyātantra_Damron_2014	inferred	11	862			804	246	1368	
+SA_GK16_vamkalvu	anchor	23	944	700.0	899.0	804	688	920	Kāvyālaṅkārasūtra
+SA_T02_n2984u	inferred	23	849			805	282	1344	Caryāsaṃgraha
+SA_GSP30_partr_pu	anchor	1	582	700.0	950.0	806	670	942	Parātriṃśikā
+SA_MB_siddhilasmiikotyahutidinakrtyaHK	inferred	29	841			807	267	1349	Unknown: siddhilakṣmīkoṭyāhutidinakṛtya
+SA_T01_n880u	inferred	1	1024			808	-3	1638	Sattvārādhanagāthā
+SA_MB_kalaagniyajnavidhiHK	inferred	14	855			809	244	1368	Unknown: kālāgniyajñavidhi
+SA_K12_Āgama-Kamalanātha_Hevajratantra-Ratnāvalī_Conlon_2023	inferred	54	850			810	296	1319	
+SA_T17_n996u	anchor	23	464	800.0	825.0	810	761	858	Mahāvyutpatti
+SA_MB_saktisutramHK	inferred	13	859			810	242	1355	Unknown: śaktisūtra
+SA_MB_kakacandesvarimataHK	inferred	14	854			810	242	1385	Unknown: kākacaṇḍeśvarīmata
+SA_GS40_kalyanakaraka	anchor	84	1055	780.0	840.0	811	763	859	Kalyāṇakāraka
+SA_MB_varahitantramHK	inferred	108	865			813	300	1338	Unknown: vārāhītantra
+SA_T02_n1399u	anchor	3	854	775.0	850.0	814	766	862	Kāṇhapādasya dohākoṣa
+SA_MB_bhuvanesvarimahastotramHK	inferred	47	846			814	286	1327	pṛthavīdharācārya: bhuvaneśvarīmahāstotra
+SA_MB_sivasamhita-HK	inferred	13	865			814	275	1372	Unknown: śivasaṃhita
+SA_GSD36_visnu	anchor	29	419	700.0	1000.0	815	640	984	Viṣṇusmṛti
+SA_T02_mrtvutsu	inferred	1	1009			815	-1	1630	Mṛtyuvañcanopadeśatārāsādhana
+SA_MB_taaraarahasyavrttikaaHK	inferred	26	857			818	273	1365	Unknown: tārārahasyavṛttikā
+SA_T04_n2850u	inferred	1	1031			820	31	1623	Svabhāvavāda
+SA_MB_unmattabhairavaHK	inferred	4	887			820	169	1440	Unknown: unmattabhairava
+SA_T11_prpva	anchor	128	865	750.0	899.0	824	738	913	Pramāṇavārttikālaṃkara
+SA_GSD36_visnu_pu	anchor	35	593	700.0	1000.0	825	660	996	Viṣṇusmṛti
+SA_T02_Kamalanāntha_Hevajratantra-RatnāvalI_Conlon_2023	inferred	56	866			826	292	1343	
+SA_GP12_skprevku	anchor	136	682	600.0	1200.0	828	534	1126	Skanda-Purāṇa: Revākhaṇḍa
+SA_MB_diiksaapaddhatiHK	inferred	43	888			828	311	1355	Unknown: dīkṣāpaddhati
+SA_T01_n844u	inferred	1	1015			829	4	1634	Gaṇeśastotra
+SA_T02_n692u	anchor	40	1070	750.0	900.0	830	741	917	Cakrasaṃvaratantra Vol. 2
+SA_T02_Abhayākaragupta_Buddhakapālatantra-Abhayapaddhati_Chog_2009	inferred	22	879			830	302	1355	
+SA_MB_sadhanamala1IHK	anchor	63	788	600.0	1100.0	830	568	1087	benoytosh bhattacharya: sādhanamālā Vol. 1
+SA_MB_dhyanaratnavaliHK	inferred	38	881			832	299	1364	Unknown: dhyānaratnāvali
+SA_MB_yogacudamanyupanisatHK	inferred	6	906			833	240	1439	Unknown: yogacūḍāmaṇyupaniṣat
+SA_MB_mandalabraahmanopanisaHK	inferred	6	901			834	239	1436	Unknown: maṇḍalabrāhmaṇopaniṣat
+SA_GR14_prakassu	inferred	34	897			835	335	1359	Prakāśa-Saṃhitā [Pāñcarātra-Saṃhitā]
+SA_GR13_mrgt3mpu	anchor	3	613	700.0	999.0	835	667	1010	Mṛgendrāgama [Mṛgendratantra]: 3. Caryāpāda
+SA_GSP31_ttssarvu	inferred	2	978			835	116	1561	Sarvopakāriṇī
+SA_MB_sivadharmaHK	inferred	30	884			835	293	1355	Unknown: śivadharma
+SA_MB_BrahmayamalaHK	inferred	38	889			836	342	1348	Unknown: brahmayāmala
+SA_MB_saadhanamaalaa-IIHK	anchor	47	806	600.0	1100.0	837	573	1098	benoytosh bhattacharya: sādhanamālā Vol. 2
+SA_GP12_garup	anchor	130	523	700.0	1100.0	837	618	1060	Garuḍa-Purāṇa
+SA_GK19_raggancu	inferred	2	968			837	119	1529	Mahāgaṇapatistotra
+SA_MB_NityatantraHK	inferred	4	921			838	184	1476	Unknown: nityākaulatantra
+SA_GK16_rajkmimu	anchor	30	762	700.0	999.0	839	666	1011	Kāvyamīmāṃsā
+SA_GR13_sivsutru	anchor	9	1108	800.0	875.0	839	791	888	Śivasūtra
+SA_T01_n820u	anchor	4	1038	800.0	880.0	840	792	888	Lokeśvaraśataka
+SA_MB_candrajnaanaagamaHK	inferred	25	897			841	324	1380	Unknown: candrajñānāgama vīraśaiva rescension
+SA_MB_purascaryaarnava-I-HK	inferred	75	889			841	320	1344	Unknown: puraścaryārṇava volume 1
+SA_T01_n843u	inferred	2	989			842	115	1568	Gaṇḍīstava
+SA_MB_gitarthasamgrahaHK	inferred	36	908			842	327	1385	Unknown: bhagavadgītā
+SA_K12_namekvsu	anchor	1	942	600.0	1100.0	843	568	1120	Namaskāraikaviṃśatistotra [Namastāre-ekaviṃśatistotraguṇasahita/Tārā-ekaviṃśatistotra]
+SA_MB_vimalavatiitantraHK	inferred	49	893			843	327	1360	vimalaśiva: vimalāvatītantra
+SA_T02_n2982u	inferred	5	931			844	219	1475	Mañjuvajramukhyākhyāna
+SA_MB_brahmavidyaopanisatHK	inferred	6	934			845	261	1470	Unknown: brahmavidyopaniṣat
+SA_GR14_sdahen_u	inferred	33	897			846	325	1352	Daśavidhahetunirūpaṇa
+SA_T02_Munidatta_Caryāgītikoṣa_Bagchi_1956	inferred	22	917			846	327	1388	
+SA_T02_n2873u	inferred	1	1073			847	29	1667	Vāṅmaṇḍalanamaskāraślokāḥ
+SA_T02_dipguhsu	anchor	9	618	800.0	899.0	847	791	906	Guhyasamājamaṇḍalavidhi
+SA_MB_kalikalpalataHK	inferred	17	904			847	304	1395	vimarśānandanātha: kālīkalpalatā
+SA_T03_knavslou	anchor	1	785	700.0	1010.0	848	672	1028	Navaślokī
+SA_MB_tantrabhidanaHK	inferred	101	899			849	328	1362	Unknown: tantrābhidhāna
+SA_GSP30_vasspacu	anchor	12	973	800.0	900.0	850	791	909	Spandakārikā
+SA_GSP30_spandkau	anchor	1	1063	700.0	999.0	850	680	1022	Spandakārikā
+SA_T02_n2884u	anchor	6	1155	825.0	875.0	850	802	900	Samantabhadra nāma sādhana ṭīkā
+SA_GK19_srngt_pu	anchor	10	985	800.0	899.0	850	790	907	Srngaratilaka
+SA_MB_SpandakarikaRamakanthaHK	anchor	20	1093	800.0	900.0	852	792	910	kallaṭa bhaṭṭa: spandakārikā with vivṛtti by rāmakaṇṭha
+SA_MB_sivadharmottaraHK	inferred	30	911			852	325	1360	Unknown: śivadharmottara
+SA_MB_amrtabinduupanisatHK	inferred	1	1093			852	54	1690	Unknown: amṛtabindūpaniṣat
+SA_MB_kalottaratantraHK	inferred	57	910			852	328	1365	Unknown: kāllotara
+SA_MB_jnanadiksaHK	inferred	2	1000			853	133	1560	Unknown: jñānadīkṣā
+SA_GP12_garup2_u	anchor	60	590	700.0	1100.0	853	628	1067	Garuḍa-Purāṇa 2
+SA_MB_kaamaakhyaatantraHK	inferred	9	927			853	287	1436	Unknown: kāmākhyātantra
+SA_GSP30_adyapppu	inferred	1	1117			853	54	1651	Anuttaraprakāśapañcāśikhā
+SA_GP12_garup3_u	anchor	41	603	700.0	1100.0	853	641	1074	Garuḍa-Purāṇa 3
+SA_T16_n2875u	inferred	2	1009			853	138	1589	Śvānastavakāvya
+SA_GS24_samanv_u	inferred	5	942			856	232	1467	Samanvayadiś
+SA_MB_saandilyopanisatHK	inferred	9	920			857	248	1413	Unknown: śāṇḍilyopaniṣat
+SA_T02_Dharmākaraśānti_Kālacakrabhagavatsādhanavidhi_Dhīḥ_1997	inferred	8	919			857	250	1404	
+SA_MB_kuladiipikaaHK	inferred	17	923			858	318	1411	tryambakabhaṭṭaraka: kuladīpikā
+SA_MB_ahirbudhnyasamhitaa2HK	inferred	48	905			859	326	1387	Unknown: ahirbudhnya saṃhita Volume 2
+SA_T16_tarkrsau	inferred	31	922			861	332	1385	Tarkarahasya
+SA_MB_prodgitagamaHK	inferred	3	986			861	172	1539	Unknown: prodgītāgama
+SA_MB_saivakaalavivekaHK	inferred	40	922			861	355	1388	Unknown: śaivakalāviveka
+SA_T02_n2963u	inferred	1	1119			862	7	1657	Āryamāyājālamahātantroddhṛtamaṇḍalagāthāṭippaṇī
+SA_MB_kamalanamniHK	inferred	133	922			864	332	1372	prāṇamañjarī: kāmyakarmakamalā
+SA_GR14_dhyggs_u	inferred	12	936			864	287	1439	Gauragovindārcanasmaraṇapaddhati
+SA_T01_busto1_u	inferred	7	964			864	287	1449	Anaparāddhastotra
+SA_MB_SpKaavrittivivrtiHK	anchor	32	1144	825.0	900.0	865	816	914	kallaṭa bhaṭṭa: spandakārikā
+SA_T08_sghancsu	inferred	5	976			866	240	1489	Śrighanācārasaṃgraha
+SA_T02_n1398u	inferred	1	1113			867	46	1666	Guhyāvalī
+SA_MB_umasamhitaHK	inferred	29	930			868	323	1397	Unknown: umāsaṃhitā
+SA_T02_Rāmapāla_Sekanirdeśapañjikā_Isaacson-Sferra_2014	inferred	17	938			868	344	1408	
+SA_T01_n825u	inferred	1	1116			869	45	1684	Ratnamālāstotra
+SA_GSP28_prakp08u	anchor	7	693	800.0	950.0	869	783	958	Prakaraṇapañcikā: Prakaraṇa 8
+SA_MB_amrtanaadopanisatHK	inferred	2	1039			870	155	1586	Unknown: amṛtanādopaniṣat
+SA_GP12_sivap1_u	inferred	32	937			871	360	1389	
+SA_GSP28_prakp06u	anchor	9	810	800.0	950.0	872	781	961	Prakaraṇapañcikā: Prakaraṇa 6
+SA_GSP28_prakp05u	anchor	2	671	800.0	950.0	872	785	961	Prakaraṇapañcikā: Prakaraṇa 5
+SA_GSP28_prakp03u	anchor	2	822	800.0	950.0	873	784	960	Prakaraṇapañcikā: Prakaraṇa 3
+SA_GSP28_prakp10u	anchor	3	819	800.0	950.0	873	787	960	Prakaraṇapañcikā: Prakaraṇa 10
+SA_GSP28_prakp04u	anchor	5	854	800.0	950.0	873	786	963	Prakaraṇapañcikā: Prakaraṇa 4
+SA_MB_naadabinduupanisatHK	inferred	3	1009			873	211	1541	Unknown: nādabindūpaniṣat
+SA_GSP28_prakp09u	anchor	3	811	800.0	950.0	874	784	963	Prakaraṇapañcikā: Prakaraṇa 9
+SA_GSP28_prakp14u	anchor	2	756	800.0	950.0	874	787	960	Prakaraṇapañcikā: Prakaraṇa 14
+SA_GSP28_prakp12u	anchor	2	891	800.0	950.0	874	785	963	Prakaraṇapañcikā: Prakaraṇa 12
+SA_GSP33_samkaubh_u	anchor	14	-56	800.0	1099.0	874	702	1043	Kaṭhopaniṣadbhāṣya
+SA_GSP29_nyaka	anchor	60	899	850.0	900.0	874	825	923	Nyāyakalikā
+SA_GSP28_prakp02u	anchor	1	931	800.0	950.0	875	784	963	Prakaraṇapañcikā: Prakaraṇa 2
+SA_GSP28_prakp01u	anchor	4	930	800.0	950.0	875	786	963	Prakaraṇapañcikā: Prakaraṇa 1
+SA_GSP31_kavsttvu	inferred	5	979			875	260	1494	Sāṃkhyatattvapradīpa
+SA_MB_satsahasrakalottaragamaHK	inferred	48	940			877	365	1400	Unknown: ṣatṣahasrakālottarāgama
+SA_K12_bsu050_u	anchor	1	523	700.0	1099.0	879	651	1111	Svalpākṣarā prajñāpāramitā
+SA_GSP29_nyamanu	anchor	155	848	850.0	910.0	879	829	928	Nyāyamañjari
+SA_MB_natyrasatrav2HK	inferred	99	954			880	365	1406	Unknown: nāṭyaśāstram Vol. 2
+SA_T02_n2906u	inferred	2	1066			882	152	1588	Mantroddhāra
+SA_MB_laksmiitantramHK	inferred	101	944			883	343	1387	Unknown: lakṣmītantra
+SA_MB_yogatattvopanisatHK	inferred	6	980			883	270	1497	Unknown: yogatattvopaniṣat
+SA_T11_n1242u	anchor	9	813	700.0	1100.0	884	662	1103	Nyāyabinduṭīkāṭippaṇī
+SA_GP10_bhp_05u	anchor	15	606	800.0	1000.0	888	771	1001	Bhāgavata-Purāṇa 5
+SA_GR13_bhnstcpu	anchor	3	850	850.0	925.0	888	840	936	Stavacintāmaṇi
+SA_T02_nagpancu	anchor	7	621	800.0	999.0	888	773	1005	Pañcakrama
+SA_GP10_bhp_06u	anchor	18	668	800.0	1000.0	888	772	1001	Bhāgavata-Purāṇa 6
+SA_GP10_bhp_04u	anchor	30	684	800.0	1000.0	889	774	1004	Bhāgavata-Purāṇa 4
+SA_MB_sivadrstiHK	anchor	55	1139	850.0	925.0	890	841	938	somānanda: śivadṛṣṭi
+SA_GP10_bhp_10u	anchor	87	723	800.0	1000.0	890	773	1008	Bhāgavata-Purāṇa 10
+SA_GP10_bhp_08u	anchor	20	685	800.0	1000.0	890	775	1009	Bhāgavata-Purāṇa 8
+SA_GP10_bhp_09u	anchor	20	710	800.0	1000.0	891	772	1012	Bhāgavata-Purāṇa 9
+SA_GP10_bhp_03u	anchor	31	730	800.0	1000.0	891	775	1010	Bhāgavata-Purāṇa 3
+SA_T02_nagpindu	anchor	5	665	800.0	999.0	892	778	1008	Piṇḍīkrama
+SA_MB_trotalamahatantramHK	inferred	15	968			892	338	1431	Unknown: troṭalātantra
+SA_GP10_bhp_02u	anchor	9	742	800.0	1000.0	892	776	1009	Bhāgavata-Purāṇa 2
+SA_GP10_bhp_12u	anchor	12	709	800.0	1000.0	893	778	1007	Bhāgavata-Purāṇa 12
+SA_GP10_bhp_07u	anchor	17	762	800.0	1000.0	893	776	1007	Bhāgavata-Purāṇa 7
+SA_GP10_bhp_11u	anchor	29	799	800.0	1000.0	894	773	1009	Bhāgavata-Purāṇa 11
+SA_T02_Vibhūticandra-Raviśrījñāna_Amṛtakaṇikoddyotanibandha_Lal_1994	inferred	58	954			894	355	1416	
+SA_GSP28_prakp11u	anchor	19	928	800.0	999.0	895	782	1014	Prakaraṇapañcikā: Prakaraṇa 11, Paricchedas 1 & 2
+SA_GK19_akadambu	anchor	18	831	799.0	999.0	895	777	1009	Kādambarīkathāsāra
+SA_GP10_bhpc101u	anchor	11	900	800.0	1000.0	895	787	1018	Bhāgavata-Purāṇa 10, 29–33
+SA_GSP28_prakp13u	anchor	8	850	800.0	999.0	895	782	1012	Prakaraṇapañcikā: Prakaraṇa 13, Paricchedas 1 & 2
+SA_GK20_rmc1-3pu	anchor	7	956	799.0	999.0	896	785	1010	Rāmacaritamahākāvya 1–3
+SA_MB_hamsopanisadHK	inferred	3	1043			896	229	1547	Unknown: haṃsopaniṣat
+SA_GSD36_manubhau	anchor	356	599	820.0	1000.0	898	792	1002	Manubhāṣya
+SA_MB_ascaryayogamalaHK	inferred	8	991			898	295	1489	nāgārjuna: āścaryayogamālā
+SA_GK19_bhall_pu	anchor	3	935	800.0	999.0	899	777	1017	Bhallaṭaśataka
+SA_T02_n1402u	anchor	15	991	850.0	950.0	900	839	957	Mahāmāyātantra
+SA_MB_tejobinduupanisatHK	inferred	11	993			900	347	1462	Unknown: tejobindūpaniṣat
+SA_T02_Dauḍīpāda-Ghanadeva_Guhyāvalīvivṛti_Dhīḥ_2008	inferred	4	1039			900	268	1529	
+SA_MB_STAVACINTAAMANI_hk	anchor	22	1216	850.0	950.0	901	843	961	bhaṭṭanārayaṇa: stavacintāmaṇi
+SA_MB_sivadharma_nandiproktaHK	inferred	5	1038			904	270	1503	Unknown: śivadharma nandiprokta
+SA_MB_natyasatrav3HK	inferred	66	985			906	400	1423	Unknown: nāṭyaśāstram Vol. 3
+SA_GK19_jagpranu	inferred	3	1054			906	210	1570	Prāṇābharaṇa
+SA_MB_samnyaasaupanisadHK	inferred	57	983			908	407	1423	Unknown: saṃnyāsa upaniṣads
+SA_GSP29_nyabhu	anchor	32	970	860.0	960.0	909	852	969	Nyāyabhūṣaṇa
+SA_GSP33_vacbhamu	anchor	172	929	840.0	980.0	909	827	995	Bhāmatī
+SA_MB_kaulajnaananirnayaHK	anchor	15	708	800.0	1050.0	911	765	1051	matsyendrānātha: kaulajñānanirṇaya
+SA_MB_laksmiitantraHK	inferred	96	989			912	407	1412	Unknown: lakṣmītantra
+SA_MB_paraatrisikaataatparyadiipikaaHK	anchor	11	1108	875.0	950.0	913	864	961	somānanda II: parātriśikātātparyadīpikā and śāktavijñāna
+SA_GSP33_bhgsbh	anchor	73	612	800.0	1099.0	914	749	1079	Bhagavadgītābhāṣya
+SA_MB_paraanandasutraHK	anchor	34	556	850.0	1000.0	916	827	1003	parānanda muni: parānandasūtra
+SA_GP12_agp_bi_u	anchor	326	934	750.0	1100.0	916	728	1109	Agni-Purāṇa
+SA_MB_natyasatrav1HK	inferred	99	994			918	408	1417	Unknown: nāṭyaśāstram Vol. 1
+SA_MB_kulalasastraHK	inferred	14	1006			919	374	1472	Unknown: kulālaśāstra
+SA_MB_bhagavadgiitaa_ramakanthaHK	inferred	80	995			921	402	1433	Unknown: bhagavadgītā
+SA_MB_yogasarasamgrahaHK	inferred	34	999			923	385	1422	Unknown: yogasārasaṃgraha
+SA_MB_kaalikaarahasyamHK	inferred	2	1152			923	207	1645	Unknown: kālikārahasya
+SA_T02_Ratnākaraśānti_Muktāvalī-Hevajratantra_Tripathi-Negi_2001	inferred	57	994			923	401	1421	
+SA_MB_varahopanisatHK	inferred	11	1033			923	344	1506	Unknown: vārāhopaniṣat
+SA_GSP30_utipk_pu	anchor	9	831	900.0	950.0	924	875	974	Īśvarapratyabhijñāvṛtti
+SA_GR13_somsv_u	anchor	1	651	900.0	950.0	924	874	972	Śāktavijñāna
+SA_GR14_utajp_pu	anchor	2	997	900.0	950.0	924	876	975	Ajaḍapramātṛsiddhi
+SA_MB_IISVARASIDDHI_hk	anchor	6	956	900.0	950.0	925	873	973	utpaladeva: īśvarasiddhi
+SA_MB_yogasikhopanisatHK	inferred	16	1020			925	375	1477	Unknown: yogaśikhopaniṣat
+SA_GR13_utsivsau	anchor	9	1032	900.0	950.0	926	874	974	Śivastotrāvālī
+SA_MB_sivastotraavaliiHK	anchor	36	1230	900.0	950.0	926	877	975	utpaladeva: śivastotravalī
+SA_MB_saundaryalahariHK	anchor	70	1143	700.0	1100.0	926	710	1142	śaṃkarācārya attributed to: saundaryalaharī
+SA_MB_trisikhibrahmanopanisatHK	inferred	8	1029			926	345	1500	Unknown: triśikhibrāhmaṇopaniṣat
+SA_MB_jnanasiddhyagamaHK	inferred	17	1027			927	372	1488	Unknown: jñānasiddhyāgama
+SA_MB_diiksottaraHK	inferred	37	1007			927	406	1432	Unknown: dīkṣottara
+SA_GSP33_samkupad_u	anchor	21	767	800.0	1099.0	928	761	1096	Upadeśasāhasrī
+SA_GSP30_aparmyou	anchor	17	734	800.0	1099.0	928	756	1097	Paramārthasāra
+SA_GS26_sarvmtsu	inferred	10	1052			928	368	1504	Sarvamatasaṃgraha
+SA_MB_jnaanakaarikaaHK	anchor	2	539	800.0	1100.0	928	757	1101	matsyendrānātha: jñānakārikā
+SA_GSP30_bodhpanu	anchor	1	337	800.0	1099.0	930	752	1108	Bodhapañcadaśikā
+SA_T02_n1416u	anchor	3	891	700.0	1199.0	931	657	1203	Caryāgītikoṣa
+SA_GSP28_mimsvtku	anchor	145	827	800.0	1099.0	933	765	1101	Mīmāṃsāślokavārttikakāśikā
+SA_MB_kriyaasaaratattvaprakaasiniivyaakhyaaHK	inferred	114	1004			933	395	1421	Unknown: kriyāsāratattvaprakāśinīvyākhyā
+SA_MB_paraatriisikaalaghuvrttiHK	inferred	7	1038			933	349	1539	Unknown: parātrīśikālaghuvṛtti
+SA_GSP30_anuttaru	anchor	1	819	800.0	1099.0	937	759	1114	Anuttarāṣṭikā
+SA_GSP30_tantralu	anchor	117	881	800.0	1099.0	937	772	1104	Tantrāloka
+SA_GSP28_durdhpru	anchor	118	892	800.0	1099.0	938	776	1110	Dharmottarapradīpa
+SA_GSP30_bhairstu	anchor	1	865	800.0	1099.0	939	771	1114	Bhairavastava
+SA_GSP30_parypanu	anchor	1	1008	800.0	1099.0	939	767	1117	Paryantapañcāśikā
+SA_T02_n2961u	inferred	7	1053			941	342	1528	Tattvajñānasaṁsiddhi-mahāsukharakāśikā-ṭīkā
+SA_GS40_grasht_u	anchor	49	952	800.0	1099.0	941	778	1113	Rasahṛdayatantra
+SA_MB_mahanayaprakasa1HK	inferred	11	1045			941	375	1500	unknown (see catalog record notes): mahānayaprakāśa
+SA_GK19_aghatkvu	anchor	5	924	800.0	1099.0	941	771	1110	Ghaṭakarparakāvya
+SA_GSP30_abhmal1u	anchor	22	985	800.0	1099.0	942	773	1115	Mālinīślokavārttika: Kāṇḍa 1
+SA_GSP30_abhiprvu	anchor	50	947	800.0	1099.0	942	773	1111	Īśvarapratyabhijñāvimarśinī
+SA_MB_mrigendrapaddhatitiikaaHK	inferred	44	1029			942	428	1461	Unknown: mṛgendrapaddhatiṭīkā
+SA_T02_Rāghavabhaṭṭa_Śāradātilaka_Woodroffe_1933	inferred	124	1021			943	430	1460	
+SA_GSP31_bhgank_u	anchor	7	956	800.0	1099.0	943	770	1115	Gaṇakārikā 1
+SA_GS40_vanighpu	anchor	6	602	750.0	1450.0	944	596	1292	Aṣṭāṅganighaṇṭu
+SA_GSP30_abhtantu	anchor	14	950	800.0	1099.0	944	775	1110	Tantrasāra
+SA_GSP30_ksembodhv_u	anchor	1	1080	800.0	1099.0	944	772	1125	Bodhavilāsa
+SA_GSP30_kramstou	anchor	1	1024	800.0	1099.0	944	768	1116	Kramastotra
+SA_GR13_saulahpu	anchor	4	1093	800.0	1099.0	945	777	1117	Saundaryalaharī
+SA_MB_timirodghataHK	inferred	10	1054			945	385	1504	Unknown: timirodhghāṭatantra
+SA_GP10_bhp_01u	anchor	17	584	900.0	1000.0	945	888	1004	Bhāgavata-Purāṇa 1
+SA_GK16_kunvjivu	anchor	56	1010	800.0	1099.0	946	772	1111	Vakroktijīvita
+SA_GSP30_abhmal2u	anchor	7	979	800.0	1099.0	946	778	1114	Mālinīślokavārttika: Kāṇḍa 2
+SA_GSP31_stk	anchor	87	736	900.0	1000.0	947	889	1006	Sāṃkhyatattvakaumudī
+SA_GSP30_sa_kSemarAja-bhairavAnukaraNastotra	anchor	1	1040	800.0	1099.0	947	773	1114	Bhairavānukaraṇastotra
+SA_MB_yogakundalyupanisatHK	inferred	6	1066			947	337	1552	Unknown: yogakuṇḍalyupaniṣat
+SA_GR13_kubjt_pu	anchor	62	987	800.0	1099.0	947	779	1113	Kubjikāmatatantra
+SA_T02_Kṛṣṇācārya_Yogaratnamālā-Hevajratantra_Tripathi-Negi_2006	inferred	52	1029			949	423	1474	
+SA_GSP27_moksop_u	anchor	404	1000	900.0	1000.0	949	890	1007	Mokṣopāya
+SA_MB_ratnatrayapariksaHK	anchor	17	1114	900.0	999.0	949	891	1008	śrīkaṇṭha: āṣṭaprakaraṇa ratnatrayaparīkṣā
+SA_GSP30_bhutisbs_u	anchor	1	1110	900.0	999.0	949	890	1007	Svabodhasiddhi
+SA_GR12_sasapa	anchor	5	1032	900.0	999.0	950	891	1007	Satyaśāsanaparīkṣā
+SA_MB_SAMBANDHASIDDHIHhk	anchor	3	910	925.0	975.0	950	901	998	utpaladeva: sambandhasiddhi
+SA_GSP35_sa_mokSopAya	anchor	515	1026	900.0	1000.0	951	891	1009	Mokṣopāya
+SA_GSP33_yasasi_u	anchor	19	1233	900.0	1000.0	952	894	1012	Siddhitraya: Part 3: Saṃvitsiddhi
+SA_MB_kulacuu.daama.nitantraHK	inferred	10	1064			953	357	1513	Unknown: kulacūḍāmaṇi nigama
+SA_MB_hayasirsapancaraatramHK	inferred	20	1060			954	412	1509	Unknown: hayaśirṣsapañcarātra
+SA_GSP30_pratyabu	anchor	7	1196	800.0	1099.0	955	792	1128	Pratyabhijñāhṛdaya
+SA_GSP33_vivcud_u	anchor	17	1183	800.0	1099.0	957	790	1133	Vivekacūḍāmaṇi
+SA_GSP30_partrvpu	anchor	26	980	800.0	1099.0	958	817	1117	Parātriṃśikāvivaraṇa
+SA_GS40_rasadhpu	anchor	12	711	750.0	1450.0	959	613	1288	Rasādhyāya
+SA_GR13_todaltpu	anchor	8	686	750.0	1450.0	960	622	1290	Toḍalatantra
+SA_GS40_rasadh_u	anchor	21	740	750.0	1450.0	961	636	1302	Rasādhyāya
+SA_GP12_nardp2_u	anchor	51	597	875.0	1100.0	962	833	1095	Nārada-Purāṇa 2 [Nāradīya-Purāṇa 2]
+SA_MB_LaghuYV-combinedHK	inferred	191	1040			964	456	1482	Unknown: laghuyogavāsiṣṭha with commentary vāsiṣṭhacandrikā
+SA_MB_moksasopanaHK	inferred	10	1087			964	401	1552	kāṇḍadvayātītayogī: mokṣasopāna
+SA_MB_SAAMBAPA_NCAASIKAAhk	inferred	10	1078			965	397	1539	Unknown: sāmbapañcāśikā
+SA_GP12_nardp1_u	anchor	262	634	875.0	1100.0	965	834	1095	Nārada-Purāṇa 1 [Nāradīya-Purāṇa 1]
+SA_MB_dvisatikaalottaramHK	inferred	17	1079			965	459	1525	Unknown: dviśatikālottara
+SA_MB_tantrarajatantraHK	inferred	214	1042			966	458	1473	Unknown: tantrarājatantra
+SA_MB_mrgendraHK	inferred	94	1054			966	463	1490	Unknown: mṛgendrāgama
+SA_MB_parasambhumahimnastavaHK	inferred	6	1109			968	366	1566	alias krodhabhaṭṭāraka: paraśambhumahimnastava
+SA_MB_paasupatabrahmopanisatHK	inferred	5	1113			969	329	1581	Unknown: pāśupatabrahmopaniṣat
+SA_T11_bsa0555u	anchor	2	801	940.0	1000.0	969	920	1018	Sāmānyadūṣaṇadikprasāritā
+SA_T11_n1238u	anchor	2	750	940.0	1000.0	969	921	1018	Jātinirākṛti
+SA_T11_jithettu	anchor	4	908	940.0	1000.0	969	923	1017	Hetutattvopadeśa
+SA_MB_SvacchandatantraHK	inferred	240	1062			970	461	1460	Unknown: svacchandatantra
+SA_T11_jithetuu	anchor	3	1088	940.0	1000.0	970	919	1019	Hetutattvopadeśa
+SA_MB_vyomavyaapistavaHK	anchor	9	894	950.0	1000.0	974	926	1023	bhaṭṭarāmakaṇṭha: vyomavyāpistava
+SA_MB_nadakarikaHK	anchor	2	1051	950.0	1000.0	975	925	1023	rāmakaṇṭha: āṣṭaprakaraṇa nādakārikā
+SA_GR14_yamsr_pu	anchor	2	662	918.0	1038.0	975	905	1046	Stotraratna
+SA_MB_ParaatrimsikavivaranaHK	inferred	40	1075			975	466	1495	Unknown: parātriṃśikāvivaraṇa
+SA_GSP33_yamgaspu	anchor	1	832	916.0	1041.0	976	903	1050	Gītārthasaṅgraha
+SA_MB_VamakesvarimataHK	inferred	28	1075			978	433	1495	Unknown: vāmakeśvarīmata
+SA_GSP33_yamis_pu	anchor	3	996	917.0	1042.0	979	906	1053	Īśvarasiddhi
+SA_MB_netratantra_HK	inferred	77	1071			979	468	1473	Unknown: netratantra
+SA_GV06_keskaupu	anchor	149	408	900.0	1399.0	981	721	1243	Kauśikapaddhati
+SA_MB_laghustutiHK	inferred	12	1098			982	422	1549	laghubhaṭṭāraka: laghustuti with commentary by rāgavānanda
+SA_MB_varunapaddhativyaakhyaanamT0143HK	inferred	13	1097			982	436	1542	Unknown: vāruṇapaddhativyākhyānam
+SA_GSP33_yaatsi_u	anchor	59	1335	916.0	1040.0	982	910	1055	Siddhitraya: Part 1: Ātmasiddhi
+SA_T04_bsa054_u	anchor	126	741	950.0	1030.0	988	939	1036	Bodhicaryāvatārapañjikā
+SA_GK19_kskala_u	anchor	11	841	900.0	1099.0	990	877	1106	Kalāvilāsa
+SA_GK19_ksbhm10u	anchor	3	740	900.0	1099.0	990	878	1105	Bhāratamañjarī: 10. Gadāparvan
+SA_GK19_ksbhm13u	anchor	38	883	900.0	1099.0	991	876	1105	Bhāratamañjarī: 13. Śāntiparvan
+SA_GK19_ksbhm12u	anchor	2	782	900.0	1099.0	991	877	1109	Bhāratamañjarī: 12. Strīparvan
+SA_MB_akulaviiratantramHK	anchor	4	657	900.0	1099.0	991	872	1102	matsyendrānātha: akulavīratantra
+SA_GSP30_vamsbum_u	anchor	1	656	900.0	1099.0	991	874	1111	Svabodhodayamañjārī
+SA_GK19_ksbhm08u	anchor	5	944	900.0	1099.0	992	878	1108	Bhāratamañjarī: 8. Karṇaparvan
+SA_GK18_dhandasu	anchor	7	852	900.0	1099.0	992	876	1108	Daśarūpaka
+SA_MB_bhagavadgitavirashaivabhashyamHK	inferred	87	1093			992	506	1505	Unknown: bhagavadgītā
+SA_MB_KalasamkarsinitippaniHK	inferred	7	1128			993	381	1575	Unknown: kalasaṃkarṣinīmatatantraṭippaṇī
+SA_GK19_ksbhm07u	anchor	17	971	900.0	1099.0	993	877	1112	Bhāratamañjarī: 7. Droṇaparvan
+SA_GK19_ksbhm09u	anchor	2	842	900.0	1099.0	993	877	1111	Bhāratamañjarī: 9. Śalyaparvan
+SA_MB_aagamapraamaanyamHK	anchor	24	945	950.0	1040.0	993	940	1046	yāmunāchāryaswāmin: āgamaprāmāṇya
+SA_GK16_andhvy_u	anchor	26	935	900.0	1099.0	993	876	1107	Dhvanyāloka [Sahṛdayāloka]
+SA_GSP29_udnyku3u	anchor	12	997	900.0	1099.0	993	879	1111	Nyāyakusumāñjali: Stavaka 3
+SA_GK19_ksbhm19u	anchor	34	953	900.0	1099.0	993	881	1109	Bhāratamañjarī: 19. Harivaṃśa
+SA_GR14_kumukumu	anchor	1	787	900.0	1099.0	994	879	1104	Mukundamālā
+SA_GK19_kulmukuu	anchor	1	698	900.0	1099.0	994	874	1113	Mukundamālā
+SA_GR13_sratrppu	anchor	7	922	900.0	1099.0	994	882	1108	Ratnatrayaparīkṣā
+SA_GK19_ksbhm15u	anchor	2	983	900.0	1099.0	995	875	1115	Bhāratamañjarī: 15. Āśramavāsikaparvan
+SA_GK19_ksbhm06u	anchor	11	968	900.0	1099.0	995	876	1109	Bhāratamañjarī: 6. Bhīṣmaparvan
+SA_GK22_ksdarppu	anchor	12	956	900.0	1099.0	995	880	1111	Darpadalana
+SA_T09_bsu078_u	anchor	83	991	900.0	1099.0	995	880	1107	Bodhisattvāvadānakalpalatā
+SA_GK19_ksbhm11u	anchor	2	968	900.0	1099.0	995	880	1113	Bhāratamañjarī: 11. Sauptikaparvan
+SA_GK19_ksbhm17u	anchor	1	847	900.0	1099.0	995	876	1114	Bhāratamañjarī: 17. Mahāprasthānikaparvan
+SA_GK19_ksbhm16u	anchor	2	1119	900.0	1099.0	996	884	1113	Bhāratamañjarī: 16. Mausalaparvan
+SA_GK19_ksbhm18u	anchor	1	962	900.0	1099.0	996	880	1112	Bhāratamañjarī: 18. Svargaparvan
+SA_GP12_sivap7_u	anchor	85	889	800.0	1300.0	996	739	1245	Śiva-Purāṇa 7 [Vāyavīya-Saṃhitā]
+SA_K10_kbavk93u	anchor	3	1001	900.0	1099.0	996	880	1112	Sumāgadhāvadāna [Sumāgadhāvadānasūtra]
+SA_GK19_ksbhm14u	anchor	5	989	900.0	1099.0	996	884	1108	Bhāratamañjarī: 14. Āśvamedhikaparvan
+SA_MB_Paraatrisikaavivrtti_berlinHK	inferred	8	1118			996	398	1574	Unknown: parātriśikāvivṛti
+SA_GK16_andhvc4u	anchor	15	986	900.0	1099.0	997	879	1110	Dhvanyāloka [Sahṛdayāloka], Uddyota 4
+SA_GSP29_udnyku5u	anchor	14	1032	900.0	1099.0	997	882	1111	Nyāyakusumāñjali: Stavaka 5
+SA_GK17_kvrtrsuu	anchor	17	891	950.0	1050.0	997	939	1056	Vṛttaratnākara
+SA_GSP29_udnyku2u	anchor	11	968	900.0	1099.0	997	885	1109	Nyāyakusumāñjali: Stavaka 2
+SA_GSP29_udnyku1u	anchor	9	1020	900.0	1099.0	998	883	1111	Nyāyakusumāñjali: Stavaka 1
+SA_MB_maliniijayavartikaHK	anchor	33	952	975.0	1025.0	998	951	1049	abhinavagupta: mālinīvijayavārtika
+SA_GK16_andhvc1u	anchor	74	1050	900.0	1099.0	998	884	1113	Dhvanyāloka [Sahṛdayāloka], Uddyota 1
+SA_GSP29_vyomavati	anchor	24	897	950.0	1050.0	998	940	1057	Vyomavatī
+SA_GK17_kedvratu	anchor	3	777	950.0	1050.0	998	940	1057	Vṛttaratnākara
+SA_T11_bsa0556u	anchor	2	811	970.0	1030.0	998	949	1045	Antarvyāptisamarthana
+SA_T06_bsa017_u	anchor	1	895	950.0	1050.0	998	938	1060	Tattvaratnāvaloka [Tattvaratnāloka]
+SA_K10_kbavk10u	anchor	1	1089	900.0	1099.0	998	880	1120	Garbhāvakrāntyavadāna
+SA_GSP29_udnyku4u	anchor	4	1064	900.0	1099.0	998	880	1113	Nyāyakusumāñjali: Stavaka 4
+SA_MB_paramarthasaraHK	anchor	25	1022	975.0	1025.0	998	951	1047	abhinavagupta: paramārthasāra
+SA_GK19_padnscpu	anchor	34	884	990.0	1010.0	999	950	1049	Navasāhasāṅkacarita
+SA_GR13_bijnighu	anchor	2	696	750.0	1450.0	999	641	1355	Bījanighaṇṭu
+SA_T11_bsa0554u	anchor	3	855	950.0	1050.0	999	941	1057	Avayavinirākaraṇa
+SA_T11_jnaniva	anchor	126	1000	975.0	1025.0	999	951	1048	Nibandhāvalī
+SA_GK16_andhvc2u	anchor	59	1089	900.0	1099.0	999	886	1111	Dhvanyāloka [Sahṛdayāloka], Uddyota 2
+SA_MB_paratrimsikavivaranaHK	anchor	43	1115	975.0	1025.0	999	952	1047	abhinavagupta: parātriśikāvivṛtī
+SA_MB_Tantraloka-15-37-HK	anchor	152	1034	975.0	1025.0	999	950	1049	abhinavagupta: tantrāloka chapters 15 thru 38
+SA_MB_tantrasaaraHK	anchor	36	1039	975.0	1025.0	999	951	1048	abhinavagupta: tantrasāra
+SA_MB_Tantraloka-1-14-HK	anchor	299	1078	975.0	1025.0	1000	949	1049	abhinavagupta: tantrāloka chapters 1 thru 14
+SA_GSP33_yamss_pu	anchor	5	871	967.0	1038.0	1000	951	1053	Saṃvitsiddhi
+SA_GSP29_nvtp1_2u	anchor	9	1193	900.0	1099.0	1000	883	1115	Nyāyavārttikatātparyapariśuddhi: Adhyāya 1.2
+SA_GK16_andhvc3u	anchor	104	1087	900.0	1099.0	1000	884	1116	Dhvanyāloka [Sahṛdayāloka], Uddyota 3
+SA_MB_bodhapancadasikaaHK	anchor	6	1194	975.0	1025.0	1001	951	1050	abhinavagupta: bodhapañcadaśikā
+SA_MB_bhavachudamaniHK	anchor	6	1064	950.0	1050.0	1001	941	1057	vidyākaṇṭha: bhāvacūḍāmaṇi
+SA_GSP33_yamsvspu	anchor	5	800	967.0	1038.0	1001	952	1050	Saṃvitsiddhi
+SA_MB_sivajnaanasiddhiHK	inferred	28	1116			1002	494	1522	Unknown: śivajñānasiddhi
+SA_GSP29_nvtp1_1u	anchor	97	1178	900.0	1099.0	1002	887	1122	Nyāyavārttikatātparyapariśuddhi: Adhyāya 1.1
+SA_GSP30_parmartu	anchor	2	905	993.0	1015.0	1003	954	1051	Paramārthasāra
+SA_MB_IPV_HK	anchor	211	1231	990.0	1015.0	1003	954	1053	abhinavagupta: īśvarapratyabhijñāvimarśinī
+SA_GSP33_yaissi_u	anchor	10	1315	967.0	1038.0	1004	956	1054	Siddhitraya: Part 2: Īśvarasiddhi
+SA_T03_bsa051_u	anchor	96	655	970.0	1050.0	1007	957	1056	Sāratamā [āryāṣṭasāhasrikāyāḥ prajñāpāramitāyāḥ sāratamākhyā pañjikā]
+SA_T12_n801u	anchor	19	591	970.0	1050.0	1007	958	1056	Chandoratnākara
+SA_GSP28_dhebta_u	anchor	61	972	970.0	1050.0	1009	959	1057	Hetubinduṭīkāloka
+SA_MB_IPVV_2_hk	anchor	112	1066	1000.0	1020.0	1009	961	1058	abhinavagupta: īśvarapratyabhijñāvivṛtivimarśinī Volume 2
+SA_GK17_jvrtmspu	anchor	3	1036	980.0	1040.0	1009	961	1059	Vṛttamālāstuti
+SA_MB_IPVV_3_hk	anchor	103	1063	1000.0	1020.0	1009	961	1059	abhinavagupta: īśvarapratyabhijñāvivṛtivimarśinī Volume 3
+SA_T02_n2998u	anchor	27	638	975.0	1050.0	1010	961	1058	Laghutantraṭīkā
+SA_T12_n2957u	anchor	22	1018	980.0	1040.0	1010	959	1058	Vṛttamālāstuti
+SA_MB_IPVV_1_hk	anchor	71	1083	1000.0	1020.0	1010	963	1057	abhinavagupta: īśvarapratyabhijñāvivṛtivimarśinī Volume 1
+SA_T14_stuplaku	inferred	3	1248			1011	353	1675	Stūpalakṣaṇakārikāvivecana
+SA_MB_sattrimsattattvasamdohaHK	inferred	2	1309			1012	279	1750	Unknown: ṣaṭtriṃśāttattvasandoha
+SA_T02_mrtvstsu	anchor	1	638	990.0	1043.0	1015	967	1063	Mṛtyuvañcanasitatārāsādhana
+SA_T04_bsa039_u	anchor	1	503	982.0	1054.0	1016	967	1066	Daśākuśalakarmapathadeśanā
+SA_T04_bsa036_u	anchor	1	488	982.0	1054.0	1016	968	1066	Śaraṇagamanadeśanā
+SA_T04_bsa035_u	anchor	1	518	982.0	1054.0	1017	966	1067	Bodhisattvādikarmikamārgāvatāradeśanā
+SA_T02_bsa005_u	anchor	1	502	982.0	1054.0	1017	968	1066	Caryāsaṅgrahapradīpa
+SA_MB_spandanirnayaHK	anchor	15	1097	990.0	1050.0	1020	971	1068	kallaṭa attributed author spandakārikā: spandanirṇaya
+SA_MB_isvarapratyabhijnavimarsinivyakhyaHK	inferred	125	1137			1021	500	1538	Unknown: īśvarapratyabhijñāvimarśinīvyākhyā
+SA_GR14_astavgpu	anchor	6	1107	700.0	1399.0	1021	685	1367	Aṣṭāvakragītā
+SA_T02_n2918u	anchor	2	894	986.0	1063.0	1023	975	1072	Tattvaratnāvalī
+SA_T13_davyasou	anchor	2	829	1020.0	1030.0	1024	976	1072	Yaśodharācarita
+SA_T11_bsa0552u	anchor	5	1011	1000.0	1050.0	1024	974	1074	Kṣaṇabhaṅgasiddhi
+SA_MB_SPANDASAMDOHA_hk	anchor	6	1072	1000.0	1050.0	1024	975	1074	kallaṭa attributed author spandakārikā: spandasandoha
+SA_T02_narsekou	anchor	4	872	1000.0	1050.0	1024	975	1073	Sekoddeśa [Sekoddeśaṭikā]
+SA_T11_bsa0553u	anchor	4	1082	1000.0	1050.0	1024	975	1074	Kṣaṇabhaṅgasiddhi vyatirekātmikā
+SA_T11_bsa0551u	anchor	3	987	1000.0	1050.0	1024	975	1074	Apohasiddhi
+SA_MB_sivasuutravimarsiniiHK	anchor	27	1242	1000.0	1050.0	1025	975	1075	vasugupta author śivasūtra: śivasūvimarśinī text version
+SA_T04_bsa004_u	anchor	2	759	1000.0	1054.0	1025	977	1075	Bodhipathapradīpa
+SA_T04_bsa024_u	anchor	1	571	1000.0	1054.0	1025	976	1072	Satyadvayāvatāranāma
+SA_MB_PARAAPRAAVESIKAA_hk	anchor	3	1322	1000.0	1050.0	1025	976	1073	kṣemarāja: parāprāveśikā
+SA_MB_SIVASUUTRAVARTIKA_hk	anchor	20	1210	950.0	1100.0	1026	938	1111	vasugupta author śivasūtra: śivasūtravārttika
+SA_T02_n1403u	inferred	20	1159			1030	474	1580	Marmakālikā
+SA_MB_darsanopanisatHK	inferred	7	1194			1032	439	1621	Unknown: darśanopaniṣat
+SA_MB_tattvaprakasaHK	anchor	40	1081	1010.0	1055.0	1032	983	1081	bhojadeva: āṣṭaprakaraṇa tattvaprakāśa
+SA_MB_iisvarapratyabhijnakaumudiHK	inferred	38	1170			1034	514	1557	bhaṭṭāraka sundara: īśvarapratyabhijñākaumudī
+SA_GK22_vidsripu	anchor	44	992	900.0	1199.0	1035	870	1200	Subhāṣitaratnakoṣa
+SA_GK22_vidsrgpu	anchor	50	1027	900.0	1199.0	1038	875	1204	Subhāṣitaratnakoṣa
+SA_MB_laghustavaHK	inferred	28	1159			1041	513	1571	Unknown: laghustava
+SA_MB_saivaagamaadimaahaatmyamHK	inferred	16	1184			1045	498	1593	jñānaprakāśa: śaivāgamādimāhātmya
+SA_MB_siddhantarthasamuccayaHK	inferred	11	1198			1045	477	1610	Unknown: siddhāntārthasamuccaya
+SA_MB_yoginiihrdayamHK	inferred	44	1166			1046	519	1566	Unknown: yoginīhṛdaya
+SA_GP12_vprevk_u	anchor	163	748	1000.0	1100.0	1046	988	1105	Revākhaṇḍa of the Vāyupurāṇa
+SA_GK19_jaygit1u	anchor	9	854	1000.0	1099.0	1046	988	1105	Gītagovinda-kāvya
+SA_T11_bsa075_u	anchor	56	946	1000.0	1099.0	1047	988	1104	Nibandhāvalī
+SA_GK19_jaygit2u	anchor	8	1032	1000.0	1099.0	1048	990	1107	Gītagovinda
+SA_T11_ratksanu	anchor	4	1019	1000.0	1099.0	1049	989	1108	Kṣaṇabhaṅgasiddhi Vyatirekātmikā
+SA_MB_saubhagyabhaskariHK	inferred	113	1168			1050	544	1575	Unknown: lalitaasahasranaama
+SA_MB_parasuramakalpasutraHK	inferred	184	1162			1053	537	1545	Unknown: paraśurāmakalpasūtra
+SA_GSP27_yogva	anchor	268	841	900.0	1400.0	1061	809	1325	Yogavasiṣṭha
+SA_GK21_sokss	anchor	217	736	1063.0	1081.0	1069	1020	1117	Kathāsaritsāgara
+SA_MB_pratyabhijnahrdayaHK	inferred	9	1252			1071	505	1659	Unknown: pratyabhijñahṛdaya Text version
+SA_GK21_sokss_pu	anchor	435	1156	1063.0	1081.0	1072	1024	1120	Kathāsaritsāgara
+SA_GS39_purukadu	anchor	3	1227	750.0	1450.0	1073	714	1428	Kādambarīsvīkaraṇasūtramañjarī
+SA_GSP33_rams11pu	anchor	2	1051	1017.0	1137.0	1073	1002	1147	Śrībhāṣya: 1,1.3
+SA_GR13_cakbh_pu	anchor	1	809	1000.0	1158.0	1074	981	1166	Cakrapāṇinātha: Bhāvopahārastotra
+SA_GK16_mamkpb_u	anchor	34	959	1050.0	1100.0	1074	1024	1121	Kāvyaprakaśa
+SA_GK16_mamkprku	anchor	3	913	1050.0	1100.0	1074	1026	1122	Kāvyaprakaśa
+SA_GK16_mamkavpu	anchor	45	1036	1050.0	1100.0	1075	1026	1123	Kāvyaprakaśa
+SA_GR13_cakbhavu	anchor	5	1058	1000.0	1158.0	1075	983	1168	Cakrapāṇinātha: Bhāvopahārastotra
+SA_T14_n1282u	anchor	2	846	900.0	1322.0	1076	830	1315	Pratimālakṣaṇavivaraṇa
+SA_GSP27_motik_1u	inferred	27	1217			1076	534	1603	
+SA_MB_carcastavaHK	inferred	15	1221			1077	524	1626	Unknown: carcāstava
+SA_MB_kaulopanisadsHK	inferred	18	1218			1078	564	1633	Unknown: kaulopaniṣad
+SA_MB_kaalahastiisavilaasaHK	inferred	17	1238			1080	536	1610	Unknown: kālahastīśavilāsa
+SA_GSP32_vvmanmhu	inferred	18	1234			1080	535	1609	Mānamanohara
+SA_T02_n2965u	anchor	3	714	1025.0	1150.0	1082	1010	1156	Kālacakrāvatāra
+SA_T02_n800u	anchor	6	611	1000.0	1199.0	1082	966	1199	Sekoddeśapañjikā
+SA_GSP30_vatnsupu	anchor	3	1151	900.0	1300.0	1084	862	1314	Vātūlanāthasūtra
+SA_GSP28_sastrdiu	anchor	35	823	1000.0	1199.0	1085	968	1201	Śāstradīpikā
+SA_MB_janmamaranavicaaraHK	anchor	6	1052	1050.0	1125.0	1086	1039	1137	vāmadeva: janmamaṛanavicāra
+SA_T11_rvadrahu	anchor	21	888	1000.0	1200.0	1087	973	1205	Vādarahasya [Udayananirākaraṇa]
+SA_MB_saradatilakaHK	anchor	319	988	1000.0	1200.0	1089	975	1205	lakṣmaṇadeśikendra: śāradātilaka
+SA_GSP33_ramvaspu	anchor	17	693	1050.0	1137.0	1090	1039	1142	Vedārthasaṃgraha
+SA_MB_vatulanathasutraHK	anchor	3	1281	900.0	1300.0	1090	875	1319	vatūlanātha: vātūlanāthasūtra
+SA_GSP33_ramgbhpu	anchor	64	841	1050.0	1137.0	1091	1039	1143	Bhagavadgītābhāṣya
+SA_GSD36_mitaksara	anchor	206	822	1075.0	1126.0	1097	1049	1147	Mitākṣarā, a commentary on the Yājñavalkya-dharmaśāstra
+SA_GSD36_sa_vijJAnezvara-mitAkSarA	anchor	245	936	1075.0	1125.0	1098	1049	1145	Mitākṣarā
+SA_T02_n2934u	anchor	7	955	1075.0	1125.0	1099	1051	1148	Abhayapaddhati
+SA_MB_karpuuraadistotramHK	inferred	11	1271			1101	538	1662	Unknown: karpūrādistotra
+SA_GK16_msabdvvu	anchor	4	1037	1050.0	1160.0	1104	1039	1170	Śabdavyāpāravicāra
+SA_T02_abhnispu	anchor	1	595	1090.0	1125.0	1105	1059	1155	Niṣpannayogāvali
+SA_T02_n2974u	anchor	1	830	1100.0	1115.0	1107	1059	1157	Munimatālaṁkāra
+SA_T17_n2944u	anchor	36	718	1111.0	1112.0	1108	1059	1157	Viśvaprakāśa
+SA_MB_iisaanasivagurudevapaddhati4HK	anchor	90	636	1050.0	1200.0	1111	1024	1200	īśānaśivagurudeva: īśānaśivagurudevapaddhati Volume 4
+SA_MB_cidgaganacandrika-HK	anchor	7	865	1075.0	1150.0	1111	1060	1158	śrīvatsa: cidgaganacandrikā
+SA_MB_isaanagurudevapaddhati-II-HK	anchor	93	654	1050.0	1200.0	1111	1023	1201	īśānaśivagurudeva: īśānaśivagurudevapaddhati Volume 2
+SA_MB_iisaanagurudevapaddhati-III-HK	anchor	72	702	1050.0	1200.0	1112	1026	1197	īśānaśivagurudeva: īśānaśivagurudevapaddhati Volume 3
+SA_MB_matatrayaikyaprakasikaHK	inferred	47	1266			1112	594	1636	aiyyaṇācārya: matatrayaikyaprakāśikā
+SA_MB_Isaanapaddhati-I-HK	anchor	36	687	1050.0	1200.0	1113	1024	1199	īśānaśivagurudeva: īśānaśivagurudevapaddhati Volume 1
+SA_GK19_govass_u	anchor	16	813	1000.0	1299.0	1116	942	1284	Āryāsaptaśatī
+SA_MB_somasambhupaddhativyakhyaHK	inferred	38	1257			1116	582	1627	Unknown: somaśambhupaddhativyākhyā
+SA_K10_klpdrapu	anchor	10	651	1000.0	1600.0	1117	822	1420	Kalpadrumāvadānamālā
+SA_GR13_gorst1pu	anchor	2	578	1000.0	1299.0	1117	945	1299	Gorakṣaśataka
+SA_GSP30_mabhai	anchor	138	766	1000.0	1500.0	1119	869	1382	Manthanabhairava Tantra
+SA_MB_varunapaddhativyaakhyaaT1034HK	inferred	19	1277			1123	563	1663	Unknown: varuṇpaddhativyākhyā
+SA_MB_nityaasodasikaarnavaHK	inferred	115	1257			1124	633	1622	Unknown: nityāṣoḍaśikārṇavatantra with the commentary called setubandha
+SA_GR13_gorst2pu	anchor	2	851	1000.0	1299.0	1126	956	1297	Gorakṣaśataka
+SA_GK16_ruvyavivya_pu	anchor	21	1178	1100.0	1160.0	1129	1082	1178	Vyaktivivekavyākhyā
+SA_MB_yogavishayaHK	anchor	1	1015	1000.0	1299.0	1131	961	1305	matsyendrānātha: yogaviṣaya
+SA_T17_n2936u	anchor	6	651	1100.0	1175.0	1134	1084	1184	Śabdabhedaprakāśa
+SA_GK16_ruyalsvu	anchor	41	1102	1100.0	1175.0	1135	1087	1185	Alaṅkārasarvasva
+SA_GK16_ruyalscu	anchor	48	1082	1100.0	1175.0	1137	1090	1185	Alaṅkārasarvasva
+SA_GK16_ruyalssu	anchor	10	1001	1100.0	1175.0	1137	1088	1185	Alaṅkārasarvasva
+SA_GS40_rasarnpu	anchor	28	1130	1000.0	1300.0	1137	971	1305	Rasārṇava: Paṭalas 1-12
+SA_MB_vijnanabhairavaanandabhattaHK	inferred	12	1326			1138	580	1702	Unknown: vijñānabhairava with commentary Kaumadi
+SA_MB_matrkacakravivekaHK	inferred	32	1298			1140	623	1656	svatantrānandanatha: mātṛkācakraviveka
+SA_GK21_suksaptu	anchor	29	580	1100.0	1199.0	1143	1086	1202	Śukasaptati
+SA_MB_jnaanaratnaavaliiHK	anchor	119	833	1100.0	1199.0	1144	1085	1204	jñānaśiva: jñānaratnāvalī
+SA_GK23_jonart_pu	anchor	27	783	1100.0	1200.0	1145	1085	1205	Rājataraṅginī
+SA_MB_mahotsavavidhikramaHK	anchor	11	809	1100.0	1199.0	1145	1085	1203	aghoraśiva: mahotsavavidhikrama
+SA_T17_vtrksopu	anchor	9	798	1100.0	1199.0	1145	1087	1204	Tarkasopāna
+SA_T02_n2910u	anchor	8	851	1100.0	1199.0	1146	1086	1206	Ādikarmapradīpa [Ādikarmapradīpa Bodhicaryāvatāraṭīkā]
+SA_GK19_bicauppu	anchor	1	706	1099.0	1199.0	1147	1088	1204	Caurapañcāśikā
+SA_GK20_ruysahlu	anchor	1	897	1100.0	1199.0	1148	1088	1207	Sahṛdayalīlā
+SA_GR13_jssivppu	anchor	1	903	1100.0	1199.0	1148	1089	1206	Jñānaśambhu: Śivapūjāstava
+SA_GR13_kalhans_u	anchor	1	629	1135.0	1165.0	1148	1098	1198	Ardhanārīśvarastotra
+SA_MB_mrgendravrttidiipikaHK	anchor	2	958	1130.0	1170.0	1149	1098	1198	aghoraśivācārya: mṛgendravṛttidīpikā
+SA_T02_n2955u	anchor	2	683	1100.0	1217.0	1154	1085	1223	Kriyāsaṁgrahapañjikā
+SA_MB_kriyaakramadyotikaaHK	anchor	71	1148	1150.0	1160.0	1154	1107	1204	aghorāśiva: krīyakramādyotikā
+SA_MB_aasaucadiipikaaHK	inferred	16	1338			1162	621	1688	vedajñāna: āśaucyadiipikaa
+SA_MB_sarvajnaanottaravrittiHK	anchor	2	1169	1150.0	1180.0	1164	1116	1213	aghoraśivācārya: sarvajñānottaravṛttiḥ
+SA_MB_Yvaasistha1vairaagyaprakaranamHK	anchor	54	1112	1000.0	1399.0	1165	952	1383	valmiki: yogavāsiṣṭha part 1 with commentary tātparyaprakāśa
+SA_MB_YogavaasisthaSampurnamIIORGHK	anchor	618	1100	1000.0	1399.0	1165	958	1377	valmiki: yogavāsiṣṭha part 6 with commentary tātparyaprakāśa
+SA_MB_vyasishtaCutpattiprakarnamHK	anchor	238	1101	1000.0	1399.0	1166	948	1382	valmiki: yogavāsiṣṭha part 3 with commentary tātparyaprakāśa
+SA_MB_vyasishthaDsthitiprakaranamHK	anchor	110	1142	1000.0	1399.0	1168	943	1383	valmiki: yogavāsiṣṭha part 4 with commentary tātparyaprakāśa
+SA_GR13_goramaru	anchor	2	819	1100.0	1250.0	1169	1084	1256	Āmaraughaśāsana
+SA_MB_YvaasisthaBmumuksuvyavaharaprakaranamHK	anchor	36	1137	1000.0	1399.0	1173	962	1380	valmiki: yogavāsiṣṭha part 2 with commentary tātparyaprakāśa
+SA_GK19_dhoypavu	anchor	4	868	1150.0	1200.0	1173	1122	1223	Pavanadūta
+SA_MB_yogavyasishthaEupasamaprakaranamHK	anchor	183	1140	1000.0	1399.0	1175	965	1393	valmiki: yogavāsiṣṭha part 5 with commentary tātparyaprakāśa
+SA_GR13_purekaku	anchor	1	-142	1100.0	1299.0	1181	1065	1294	Ekākṣarakośa
+SA_GSP27_motik_4u	inferred	38	1361			1185	679	1715	
+SA_GSP30_vamjanmu	anchor	4	946	1050.0	1400.0	1189	985	1387	Janmamaraṇavicāra
+SA_GR13_karatopu	anchor	2	1046	1100.0	1299.0	1192	1072	1308	Karatoyāmāhātmya
+SA_GSP27_motik_2u	inferred	21	1370			1192	638	1717	
+SA_GP12_dbhp_dgu	anchor	11	653	1100.0	1400.0	1196	1023	1371	Devīgītā [Devībhāgavata-Purāṇa]
+SA_GSP29_gangtciu	anchor	27	1222	1150.0	1250.0	1199	1139	1257	Tattvacintāmaṇi
+SA_GS40_rascum_u	anchor	31	994	1100.0	1350.0	1201	1059	1341	Rasendracūḍāmaṇi
+SA_T07_n797u	anchor	16	875	1150.0	1270.0	1204	1134	1274	Subodhālaṅkāra
+SA_T11_bsa072_u	anchor	16	920	1200.0	1299.0	1207	487	1292	Tarkabhāṣā
+SA_GK21_soksvppu	anchor	44	1070	1100.0	1350.0	1208	1066	1350	Kathāsaritsāgara
+SA_MB_GoraksayogasastraHK	anchor	2	621	1100.0	1399.0	1214	1045	1389	gorakṣanātha attributed to: gorakṣayogaśāstram
+SA_MB_kriyakramadyotikavyakhyaHK	anchor	44	1099	1157.0	1300.0	1223	1141	1307	kacchapeśvaraśivācārya: kriyakramadyotikavyākhyā
+SA_GK16_jaycndpu	anchor	6	1019	1200.0	1290.0	1242	1187	1297	Candrāloka
+SA_MB_Kulapradiipa-HK	anchor	23	723	1200.0	1299.0	1242	1185	1301	śivānandācārya: kulapradīpa
+SA_GR13_mabhedtu	anchor	12	689	1200.0	1299.0	1243	1185	1300	Mātṛkābhedatantra
+SA_GSP27_motik_3u	inferred	37	1432			1244	729	1765	
+SA_GSP33_madhanuu	anchor	39	936	1199.0	1317.0	1251	1181	1321	Anuvyākhyāna
+SA_GR14_mdhvkmou	anchor	5	627	1240.0	1280.0	1256	1208	1304	Kṛṣṇāmṛtamahārṇava
+SA_GS40_vrasrs_u	anchor	24	714	1200.0	1350.0	1260	1171	1349	Rasaratnasamuccaya
+SA_GS40_vrasrscu	anchor	66	1074	1200.0	1350.0	1266	1180	1356	Rasaratnasamuccaya
+SA_GS40_nitrrk_u	anchor	83	742	1200.0	1400.0	1270	1157	1390	Rasaratnākara
+SA_GSP33_m_mbhtnu	anchor	110	630	1238.0	1317.0	1273	1223	1320	Mahābhāratatātparyanirṇaya
+SA_GR14_brhms5cu	anchor	16	1258	1100.0	1500.0	1274	1047	1488	Brahma-Saṃhitā: Adhyāya 5
+SA_GK16_visvsdpu	anchor	16	812	1200.0	1399.0	1276	1159	1387	Sāhityadarpaṇa
+SA_GK16_visah	anchor	86	1051	1200.0	1399.0	1282	1166	1400	Sāhityadarpaṇa (archive bad OCR)
+SA_GS40_dhrasciu	anchor	21	1030	1200.0	1400.0	1283	1163	1398	Rasendracintāmaṇi
+SA_GS40_rajnighu	anchor	68	829	1200.0	1700.0	1285	1016	1546	Rājanighaṇṭu [Nighaṇṭurāja, Abhidhānacūḍāmaṇi]
+SA_GK16_visa05cu	anchor	9	1107	1200.0	1399.0	1286	1170	1404	Sāhityadarpaṇa: Pariccheda 5
+SA_GK16_visa10cu	anchor	87	1245	1200.0	1399.0	1289	1170	1404	Sāhityadarpaṇa: Pariccheda 10
+SA_GK16_visa03cu	anchor	45	1234	1200.0	1399.0	1289	1168	1406	Sāhityadarpaṇa: Pariccheda 3
+SA_GK16_visa07cu	anchor	32	1219	1200.0	1399.0	1289	1173	1406	Sāhityadarpaṇa: Pariccheda 7
+SA_GK16_visa06cu	anchor	46	1176	1200.0	1399.0	1289	1170	1407	Sāhityadarpaṇa: Pariccheda 6
+SA_GK16_visa01cu	anchor	9	1271	1200.0	1399.0	1289	1177	1407	Sāhityadarpaṇa: Pariccheda 1
+SA_GK16_visa02cu	anchor	15	1244	1200.0	1399.0	1290	1172	1403	Sāhityadarpaṇa: Pariccheda 2
+SA_GK16_visa08cu	anchor	5	1325	1200.0	1399.0	1293	1174	1407	Sāhityadarpaṇa: Pariccheda 8
+SA_GR13_uddamt_u	anchor	13	518	1250.0	1750.0	1293	1018	1558	Uḍḍāmareśvaratantra
+SA_GK16_visa09cu	anchor	2	1337	1200.0	1399.0	1294	1177	1408	Sāhityadarpaṇa: Pariccheda 9
+SA_GS39_jyopancu	anchor	7	762	1260.0	1340.0	1296	1247	1345	Pañcasāyaka
+SA_T16_n1289u	inferred	32	1006			1296	786	1647	Tarkabhāṣāṭīkā
+SA_MB_maharthamanjariHK	anchor	54	1136	1275.0	1325.0	1297	1248	1348	maheśvarānanda: mahārthamañjarī
+SA_MB_sidhaantasikhaamaniHK	anchor	92	1489	1100.0	1500.0	1300	1083	1507	śivayogiśivācārya: siddhāntaśikhāmaṇi
+SA_GS40_anandk_u	anchor	133	963	1200.0	1499.0	1301	1135	1465	Ānandakanda
+SA_GS41_phaladipika	anchor	30	852	1200.0	1599.0	1301	1088	1504	Phaladīpikā
+SA_GK16_viprud_u	anchor	56	978	1295.0	1323.0	1305	1257	1355	Pratāparudrīya [Pratāparudrayaśobhūṣaṇa]
+SA_MB_mahanayaprakasa2HK	anchor	17	967	1200.0	1500.0	1307	1137	1475	śitikaṇṭha: mahānayaprakāśa
+SA_MB_pancaratraraksa1HK	anchor	39	1014	1268.0	1369.0	1313	1252	1374	vedāntadeśika: pāñcarātrarakṣā
+SA_GSP29_vnyps11u	anchor	4	858	1268.0	1369.0	1314	1256	1376	Nyāyapariśuddhi: Adhyāya 1.1
+SA_GSP29_vnyps51u	anchor	3	1110	1268.0	1369.0	1315	1256	1377	Nyāyapariśuddhi: Adhyāya 5.1
+SA_GSP29_vnyps42u	anchor	3	1074	1268.0	1369.0	1315	1257	1376	Nyāyapariśuddhi: Adhyāya 4.2
+SA_GSP29_vnyps41u	anchor	2	1118	1268.0	1369.0	1316	1256	1376	Nyāyapariśuddhi: Adhyāya 4.1
+SA_GSP29_vnyps31u	anchor	6	1206	1268.0	1369.0	1316	1256	1377	Nyāyapariśuddhi: Adhyāya 3.1
+SA_GSP29_vnyps52u	anchor	2	1140	1268.0	1369.0	1316	1257	1374	Nyāyapariśuddhi: Adhyāya 5.2
+SA_GSP29_vnyps12u	anchor	4	1127	1268.0	1369.0	1316	1257	1373	Nyāyapariśuddhi: Adhyāya 1.2
+SA_GSP29_vnyps00u	anchor	2	782	1269.0	1370.0	1316	1256	1375	Nyāyapariśuddhi: Bhūmikā
+SA_GK16_simhrs_u	anchor	71	1032	1300.0	1350.0	1321	1272	1369	Rasārṇavasudhākara
+SA_GK16_simhrsku	anchor	20	939	1300.0	1350.0	1322	1273	1370	Rasārṇavasudhākara
+SA_GK19_lnksivsu	anchor	1	902	1290.0	1370.0	1328	1278	1378	Śivastuti
+SA_MB_kamakalavilasaHK	anchor	17	894	1300.0	1375.0	1333	1284	1381	puṇyānanda: kāmakalāvilāsa
+SA_MB_kaamakalaavilaasaHK	anchor	7	1191	1300.0	1375.0	1335	1286	1383	puṇyānanda: kāmakalāvilāsa
+SA_GK16_visah1	anchor	72	1075	1300.0	1384.0	1338	1289	1389	Sāhityadarpaṇa
+SA_MB_LallesvarivakyaniHK	anchor	5	987	1301.0	1392.0	1342	1289	1398	lalleśvarī: lalleśvarīvākyāni
+SA_MB_SATARATNASAMGRAHAM_hk	anchor	28	1233	1300.0	1399.0	1346	1289	1406	umāpatiśivācārya: śataratnasaṃgraha
+SA_GSP33_nysu__2u	anchor	177	1247	1330.0	1388.0	1356	1308	1407	Nyāyasudhā: Adhyāya 2
+SA_GSP33_nysu__3u	anchor	124	1290	1330.0	1388.0	1357	1309	1406	Nyāyasudhā: Adhyāya 3
+SA_GSP33_nysu__1u	anchor	136	1245	1330.0	1388.0	1357	1307	1405	Nyāyasudhā: Adhyāya 1
+SA_GSP33_nysu__4u	anchor	35	1240	1330.0	1388.0	1357	1308	1405	Nyāyasudhā: Adhyāya 4, Pāda 1
+SA_GS39_minsmaru	anchor	5	522	1300.0	1450.0	1359	1271	1446	Smaradīpikā
+SA_K08_bsu062_u	anchor	84	672	1300.0	1500.0	1364	1245	1477	Guṇakāraṇḍavyūhasūtra
+SA_MB_kriyaasaara2HK	anchor	138	797	1300.0	1499.0	1367	1252	1477	nīlakaṇṭha: kriyāsāra volume 2
+SA_MB_kriyasaraHK	anchor	55	847	1300.0	1499.0	1368	1255	1480	nīlakaṇṭha: kriyāsāra volume 1
+SA_GSP33_jimuvi	anchor	125	887	1350.0	1400.0	1370	1325	1419	Jīvanmuktiviveka
+SA_GSP36_sadha	anchor	44	949	1370.0	1380.0	1371	1323	1422	Sarva-darśana-saṃgraha
+SA_MB_stutikusumaanjaliHK	anchor	65	832	1300.0	1500.0	1373	1254	1491	jagaddhara bhaṭṭa: stutikusumāñjali
+SA_GSP34_hathyopu	anchor	9	788	1300.0	1499.0	1373	1257	1489	Haṭhayogapradīpikā
+SA_T01_n867u	anchor	5	746	1300.0	1499.0	1377	1260	1489	Bhaktiśataka
+SA_GSP31_samkhsuu	anchor	11	943	1300.0	1499.0	1377	1255	1489	Sāṃkhyasūtra
+SA_MB_srividyarnavatantramHK	anchor	281	859	1300.0	1599.0	1378	1219	1543	śrīvidyāraṇyayati: śrīvidyārṇavatantra
+SA_GK16_vcamkc_u	anchor	32	1035	1350.0	1420.0	1381	1332	1430	Camatkāracandrikā
+SA_MB_SriikarabhaashyacombinedHK	anchor	217	880	1350.0	1450.0	1392	1334	1448	śrīpati: śrīkarabhāsya
+SA_MB_kramadipikaHK	anchor	17	775	1400.0	1499.0	1441	1383	1499	śrīrasikamohana caṭṭopādhyāya: kramadīpikā
+SA_GK19_uddkokpu	anchor	4	707	1400.0	1499.0	1443	1385	1502	Kokilasandeśa
+SA_GSP33_vesa	anchor	130	1054	1425.0	1475.0	1445	1395	1494	Vedāntasāra
+SA_MB_hathayogapradiipikaaHK	anchor	51	1169	1400.0	1499.0	1445	1388	1504	svātmārāma: haṭhayogapradīpikā
+SA_GR14_jnass01u	anchor	21	553	1400.0	1550.0	1452	1364	1540	Jñānāmṛtasāra-Saṃhitā [Nārada-Pañcarātra]
+SA_K14_svabhupu	anchor	36	829	1400.0	1599.0	1466	1351	1581	Svayambhu Purāṇa
+SA_GS40_salrasmu	anchor	19	1112	1425.0	1525.0	1469	1410	1528	Rasamañjarī
+SA_GR13_parakspu	anchor	9	870	1400.0	1600.0	1472	1358	1589	Paraśurāma-Kalpasūtra
+SA_MB_sarvollaasatantraHK	anchor	52	1006	1400.0	1599.0	1474	1356	1588	sarvānanda: sarvollasatantra
+SA_GK19_ramodtpu	anchor	5	892	1400.0	1599.0	1477	1360	1593	Rāmodanta
+SA_GK22_valsubhu	anchor	34	936	1400.0	1699.0	1480	1315	1650	Subhāṣitāvalī
+SA_GS40_rassanku	anchor	7	995	1474.0	1510.0	1488	1439	1537	Rasasaṃketakalikā [Rasasaṅketakalikā]
+SA_GR14_krdipc_u	anchor	61	831	1480.0	1540.0	1503	1456	1551	Kramadīpikā
+SA_GSP29_vytrkt1u	anchor	112	1363	1480.0	1539.0	1507	1458	1555	Tarkatāṇḍava: Pariccheda 1
+SA_GSP29_vytrkt2u	anchor	74	1361	1480.0	1539.0	1507	1457	1555	Tarkatāṇḍava: Pariccheda 2
+SA_GSP29_vytrkt3u	anchor	75	1333	1480.0	1539.0	1507	1457	1557	Tarkatāṇḍava: Pariccheda 3
+SA_MB_mantrakaumudiiHK	anchor	46	819	1500.0	1560.0	1523	1473	1571	devanātha thakkur: mantrakaumudii
+SA_GK16_ujjvni_u	anchor	52	1093	1500.0	1560.0	1525	1477	1574	Ujjvalanīlamaṇi
+SA_GK19_ruphamdu	anchor	6	1020	1500.0	1560.0	1526	1477	1575	Haṃsadūta
+SA_GK19_padyavlu	anchor	21	1164	1500.0	1560.0	1526	1477	1576	Padyāvalī
+SA_MB_saivasiddhantaparibhasamanjariHK	anchor	24	1002	1500.0	1565.0	1527	1480	1576	vedajñāna: śaivasiddhāntaparibhāṣāmañjarī
+SA_MB_cinmantramaliniHK	anchor	2	979	1500.0	1575.0	1534	1485	1582	prakāśānanda: cinmantramālinī
+SA_GR14_ruphbr_u	anchor	71	1114	1530.0	1555.0	1537	1489	1587	Haribhaktirasāmṛtasindhu
+SA_GR14_hbhvil_u	anchor	120	959	1530.0	1560.0	1539	1490	1589	Haribhaktivilāsa 1–11
+SA_MB_saaktaanandataramginiiHK	anchor	52	850	1500.0	1599.0	1539	1480	1598	brahmānandagiri: śāktānandataraṅgiṇī
+SA_MB_vaarunapaddhatiHK	anchor	83	900	1500.0	1600.0	1540	1483	1600	varuṇaśivācārya: vāruṇapaddhati
+SA_GR14_caitcanu	anchor	6	1140	1510.0	1580.0	1541	1492	1592	Caitanyacandrāmṛta
+SA_MB_diiksaadarsaHK	anchor	89	901	1500.0	1599.0	1541	1483	1598	vedajñāna: dīkṣādarśa
+SA_MB_saivaparibhasaHK	anchor	40	1208	1500.0	1599.0	1543	1485	1600	śivāgrayogin: śaivasiddhāntaparibhāṣā
+SA_GR14_muktacau	anchor	27	787	1520.0	1586.0	1546	1497	1595	Muktācarita
+SA_GK19_gp01-11u	anchor	49	762	1513.0	1598.0	1548	1498	1599	Gopālacampū: Pūrvacampū, 1-11
+SA_GK19_gp23-33u	anchor	43	774	1513.0	1598.0	1548	1497	1598	Gopālacampū: Pūrvacampū, 23-33
+SA_GK19_gp12-22u	anchor	46	792	1513.0	1598.0	1548	1497	1597	Gopālacampū: Pūrvacampū, 12-22
+SA_GSP33_madhsiddhb_u	anchor	10	1183	1490.0	1632.0	1550	1469	1631	Siddhāntabindu
+SA_GK16_rnatc__u	anchor	22	1047	1530.0	1580.0	1550	1501	1599	Nāṭakacandrikā
+SA_MB_sivaarcanacandrikaaHK	anchor	38	964	1520.0	1593.0	1550	1500	1599	appayadīkṣita: śivārcanacandrikā
+SA_GR14_laghbh_u	anchor	24	1129	1530.0	1580.0	1551	1502	1599	Laghubhāgavatāmṛta
+SA_GK19_appvairu	anchor	2	845	1520.0	1593.0	1553	1504	1600	Vairāgyaśataka
+SA_MB_tararahasyaHK	anchor	22	788	1575.0	1625.0	1557	1486	1614	brahmānanda: tārārahasya
+SA_GR14_ss5_bhku	anchor	94	1217	1550.0	1575.0	1558	1509	1607	Ṣaṭsandarbha: 5. Bhaktisandarbha
+SA_GK19_anvallcu	anchor	21	728	1500.0	1699.0	1558	1446	1671	Vallālacarita
+SA_GR14_ss6_priu	anchor	94	1249	1550.0	1575.0	1559	1510	1607	Ṣaṭsandarbha: 6. Prītisandarbha
+SA_GS40_bhavpr_u	anchor	9	657	1500.0	1699.0	1561	1447	1673	Bhāvaprakāśa
+SA_GS40_yrasprpu	anchor	27	904	1500.0	1699.0	1563	1446	1683	Rasaprakāśasudhākara
+SA_GSD36_mvir_sau	anchor	99	1030	1500.0	1699.0	1565	1452	1676	Vīramitrodaya: Samayaprakāśa
+SA_GR14_jivrkadu	anchor	9	1208	1540.0	1598.0	1565	1516	1613	Rādhākṛṣṇārcanadīpikā
+SA_GR14_ss2_bhgu	anchor	64	1236	1540.0	1600.0	1566	1517	1616	Ṣaṭsandarbha: 2. Bhāgavatasandarbha
+SA_GR14_ss1_tatu	anchor	25	1232	1540.0	1600.0	1567	1517	1614	Ṣaṭsandarbha: 1. Tattvasandarbha
+SA_GSP31_vijsamsu	anchor	10	916	1500.0	1699.0	1567	1457	1685	Sāṅkhyasāra
+SA_MB_brhattantrasaaraHK	anchor	232	813	1550.0	1600.0	1567	1519	1616	kṛṣṇānanda āgamavāgiśa: brhattantrasāra
+SA_MB_KulavrttiHK	anchor	155	974	1550.0	1600.0	1569	1520	1617	pūrṇānanda: kulavṛtti
+SA_GR14_ss3_paru	anchor	40	1257	1550.0	1598.0	1569	1521	1618	Ṣaṭsandarbha: 3. Paramātmasandarbha
+SA_MB_Sritattvacintamanii_16-End_HK	anchor	76	913	1570.0	1585.0	1570	1522	1618	pūrṇānanda: tattvacintāmaṇi chapters 16 thru end
+SA_GR14_ss4_krsu	anchor	74	1238	1550.0	1598.0	1571	1522	1619	Ṣaṭsandarbha: 4. Kṛṣṇasandarbha
+SA_MB_Sritattvacintamani_11-15_HK	anchor	60	1036	1577.0	1577.0	1572	1524	1621	pūrṇānanda: tattvacintāmaṇi chapters 11 thru 15
+SA_MB_Sritattvacintamani_1-5_HK	anchor	45	1126	1577.0	1577.0	1572	1523	1622	pūrṇānanda: tattvacintāmaṇi chapters 01 thru 05
+SA_GK19_gu05-06u	anchor	9	827	1560.0	1598.0	1573	1525	1622	Gopālacampū: Uttaracampū, 5-6
+SA_GK19_gu01-03u	anchor	9	772	1560.0	1598.0	1574	1524	1622	Gopālacampū: Uttaracampū, 1-3
+SA_GK19_gu29___u	anchor	5	828	1560.0	1598.0	1574	1525	1623	Gopālacampū: Uttaracampū, 29
+SA_MB_LingadhaaranachandrikaHK	anchor	44	1290	1500.0	1699.0	1576	1460	1691	nandikeśvara: liṅgadhāraṇacandrikā
+SA_GSP29_antarkpu	anchor	3	890	1500.0	1699.0	1576	1459	1690	Tarkasaṃgraha
+SA_GE07_naray__u	anchor	48	544	1586.0	1586.0	1577	1528	1626	Nārāyaṇīya
+SA_GK19_jivskd_u	anchor	17	828	1570.0	1598.0	1578	1529	1626	Saṅkalpakalpadruma
+SA_GSP29_antsdi_u	anchor	265	1308	1500.0	1699.0	1578	1461	1690	Tarkasaṃgraha
+SA_MB_pauskarvrttiHK	anchor	93	1018	1550.0	1620.0	1579	1531	1626	jñānaprakāśācārya: pauṣkaravṛtti
+SA_GK19_ghatgu_u	anchor	9	960	1550.0	1620.0	1579	1530	1628	Gūḍhārthadīpikā
+SA_MB_sivaagamaadimaahaatmyamHK	anchor	14	1232	1550.0	1620.0	1581	1533	1630	jñānaprakāśa - śālivāṭipuranivāsi: śivāgamādimāhātmya
+SA_GSP31_tsc_bhau	anchor	7	1171	1550.0	1625.0	1583	1537	1633	Tattvayāthārthyadīpana
+SA_MB_Tararahasyavrtti2HK	anchor	33	893	1500.0	1599.0	1584	1520	1645	brahmānanda: tārārahasyavṛtti 2
+SA_GK21_karaka	anchor	92	32	1595.0	1605.0	1588	1536	1636	Kathāratnākara
+SA_MB_ParaatrisikaavivrttiHK	anchor	4	931	1500.0	1800.0	1592	1425	1768	rājānakalakṣmirāma: parātriśikāvivṛti
+SA_GR14_dhyrkk_u	anchor	4	884	1550.0	1650.0	1593	1533	1651	Rādhākṛṣṇāṣṭakālīyalīlāsmaraṇakramapaddhati
+SA_GSP29_nyapra	anchor	14	965	1600.0	1650.0	1619	1571	1668	Nyāyaprakāśa
+SA_GS24_varlghku	anchor	72	490	1600.0	1660.0	1620	1572	1668	Laghusiddhāntakaumudī [Laghukaumudī]
+SA_T02_n3011u	anchor	68	571	1600.0	1660.0	1621	1573	1669	Laghukaumudīvyākaraṇa
+SA_GR14_sadhdipu	anchor	61	1001	1600.0	1660.0	1624	1573	1672	Sādhanādīpikā
+SA_GK19_jagsudhu	anchor	1	689	1590.0	1665.0	1624	1574	1672	Sudhālaharī
+SA_GK19_nkalivpu	anchor	2	680	1600.0	1660.0	1626	1575	1677	Kaliviḍambana
+SA_GSP28_jsbh3-1u	anchor	16	1212	1600.0	1665.0	1627	1578	1676	Bhāṭṭadīpikā: Adhyāya 3, Adhikaraṇa 1
+SA_GSP28_jsbh1-4u	anchor	35	1243	1600.0	1665.0	1627	1582	1675	Bhāṭṭadīpikā: Adhyāya 1, Adhikaraṇa 4
+SA_GSP28_jsbh2-3u	anchor	14	1207	1600.0	1665.0	1627	1579	1678	Bhāṭṭadīpikā: Adhyāya 2, Adhikaraṇa 3
+SA_GSP28_jsbh2-2u	anchor	22	1211	1600.0	1665.0	1627	1578	1677	Bhāṭṭadīpikā: Adhyāya 2, Adhikaraṇa 2
+SA_GSP28_jsbh3-2u	anchor	18	1193	1600.0	1665.0	1628	1579	1676	Bhāṭṭadīpikā: Adhyāya 3, Adhikaraṇa 2
+SA_GSP28_jsbh1-2u	anchor	22	1211	1600.0	1665.0	1628	1579	1677	Bhāṭṭadīpikā: Adhyāya 1, Adhikaraṇa 2
+SA_GSP28_jsbh1-1u	anchor	5	1112	1600.0	1665.0	1628	1580	1678	Bhāṭṭadīpikā: Adhyāya 1, Adhikaraṇa 1
+SA_GSP28_jsbh2-1u	anchor	16	1273	1600.0	1665.0	1628	1579	1678	Bhāṭṭadīpikā: Adhyāya 2, Adhikaraṇa 1
+SA_GSP28_jsbh1-3u	anchor	19	1264	1600.0	1665.0	1629	1581	1677	Bhāṭṭadīpikā: Adhyāya 1, Adhikaraṇa 3
+SA_GSP28_jsbh2-4u	anchor	3	1244	1600.0	1665.0	1629	1581	1676	Bhāṭṭadīpikā: Adhyāya 2, Adhikaraṇa 4
+SA_GK16_jgrasg1u	anchor	23	1100	1620.0	1665.0	1637	1589	1684	Rasagaṅgādhara
+SA_MB_taaraabhaktisudhaarnavaHK	anchor	131	768	1600.0	1699.0	1639	1581	1695	narasiṃhaṭhakkura: tārābhaktisudhārṇava
+SA_GSP34_ghers_pu	anchor	16	768	1600.0	1700.0	1640	1582	1697	Gheraṇḍa-Saṃhitā
+SA_MB_devinamalavilasaHK	anchor	62	1091	1620.0	1680.0	1644	1595	1693	kaula sahiba: devīnāmavilāsa
+SA_GSP29_muva	anchor	1	1001	1600.0	1700.0	1646	1588	1703	Muktivāda
+SA_GSP35_sa_bhAskarakaNTha-mokSopAyaTIkA	anchor	274	1030	1600.0	1799.0	1660	1547	1773	Mokṣopāyaṭīkā
+SA_MB_kulamuktikalloliniHK	anchor	217	784	1650.0	1703.0	1668	1620	1716	navamīsiṃha: kulamuktikallolinī
+SA_GK19_japa	anchor	84	822	1650.0	1720.0	1677	1629	1726	Jānaki Pariṇaya
+SA_MB_TantracintamaniHK	anchor	185	765	1680.0	1703.0	1683	1632	1731	navamīsiṃha: tantracintāmaṇi
+SA_GS24_paribhsu	anchor	22	1247	1700.0	1750.0	1719	1672	1767	Paribhāṣenduśekhara
+SA_MB_varivasyaarahasyaHK	anchor	24	1267	1720.0	1760.0	1735	1686	1783	bhaskarāya: varivasyārahasya
+SA_MB_MahaayaagakramaHK	anchor	18	1146	1700.0	1785.0	1736	1686	1788	bhaskararaya: mahāyāgakrama
+SA_MB_gurustutiratnavaliHK	anchor	2	886	1700.0	1799.0	1744	1685	1802	govindakaula: gurustutiratnāvalī
+SA_GSP33_nabodhsu	anchor	30	907	1725.0	1800.0	1755	1705	1804	Bodhasāra
+SA_MB_Pranatosini_4_KamyaKandaHK	anchor	61	749	1820.0	1821.0	1810	1760	1859	rāmatoṣaṇa compiler: prāṇatoṣiṇī kamyakāṇḍa
+SA_MB_pranotisini_6_HK	anchor	114	811	1820.0	1821.0	1810	1762	1860	rāmatoṣaṇa compiler: prāṇatoṣiṇī part 6
+SA_MB_Pranatosini_2_DharmaKandaHK	anchor	48	793	1820.0	1821.0	1811	1764	1859	rāmatoṣaṇa compiler: prāṇatoṣiṇī dharmakāṇḍa
+SA_MB_Pranatosini_5_BhaktiKandaHK	anchor	27	813	1820.0	1821.0	1811	1763	1859	rāmatoṣaṇa compiler: prāṇatoṣiṇī bhaktikāṇḍa
+SA_MB_Pranatosini_3_ArthaKandaHK	anchor	50	846	1820.0	1821.0	1811	1765	1860	rāmatoṣaṇa compiler: prāṇatoṣiṇī arthakāṇḍa
+SA_MB_Pranatosini_1_SargaKandaHK	anchor	50	1000	1820.0	1821.0	1811	1765	1861	rāmatoṣaṇa compiler: prāṇatoṣiṇī sargakāṇḍa
+SA_MB_sriitatvanidhiHK	anchor	112	761	1800.0	1868.0	1824	1774	1871	kṛṣṇarāja vodeyar: śrītattvanidhiḥ
+SA_MB_saaktapramodaHK	anchor	152	760	1800.0	1899.0	1835	1778	1892	devanandanasiṃha: śāktapramoda
+SA_GR14_kbss_1-u	anchor	30	1078	1820.0	1880.0	1843	1794	1891	Bhāvanāsārasaṃgraha

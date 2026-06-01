@@ -1,0 +1,17 @@
+# Raw corpus / match data (2.2 GB) — regenerable, not version-controlled
+matches/
+
+# Large generated intermediates (exceed or strain GitHub limits) — regenerable from extract scripts
+*.pkl
+chunks_dense.tsv
+
+# Editor backups / autosaves
+\#*\#
+*~
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

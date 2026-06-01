@@ -1,0 +1,43 @@
+type	arg1	arg2	arg3	note
+anchor	SA_T06_sthmavt	510	570	Sthiramati MAVT bound to his date
+anchor	SA_T06_sthmavt1	510	570	Sthiramati MAVT ch1
+anchor	SA_T06_sthmavtyg	510	570	Sthiramati MAVT (Yamaguchi ed)
+order	SA_T07_vakobhau	SA_K10_bsu021_u		Lankavatara same-or-after Vasubandhu (AKBh)
+order	SA_T06_sthtvbh	SA_T06_trimsikatika		Trimsikatika after Trimsikabhasya
+not_before	SA_T07_vabhdicu	700		Vibhasaprabhavrtti is late, assume after 700
+anchor	SA_GS24_panini_u	-400	-300	Panini Astadhyayi (Wikipedia: c.350 BCE consensus, range 6th-4th c)
+anchor	SA_GS24_paninipu	-400	-300	Panini Astadhyayi padapatha
+anchor	SA_GK19_ragh	380	455	Kalidasa floruit (Gupta court, Chandragupta II 380-415 -> Kumaragupta I)
+anchor	SA_GK19_ragh1-6u	380	455	Kalidasa Raghuvamsa 1-6
+anchor	SA_GK19_kragh_pu	380	455	Kalidasa Raghuvamsa (padapatha)
+anchor	SA_GK19_kakumspu	380	455	Kalidasa Kumarasambhava
+anchor	SA_GK19_meghdk_u	380	455	Kalidasa Meghaduta
+anchor	SA_GK19_kmeghdpu	380	455	Kalidasa Meghaduta
+anchor	SA_GK19_kmeghvpu	380	455	Kalidasa Meghaduta
+anchor	SA_GK19_kalrs_pu	380	455	Kalidasa Rtusamhara
+anchor	SA_GK20_ksakunpu	380	455	Kalidasa Abhijnanasakuntala
+anchor	SA_GSP29_nyamanu	850	910	Jayanta Bhatta Nyayamanjari, 9th c (contemporary of King Sankaravarman r.883-902); was 900-1000
+order	SA_T07_vakobhau	SA_T07_vabhdiku		Abhidharmadipa verses after Vasubandhu (AKBh)
+order	SA_T07_vakobhau	SA_T07_vabhdilu		Abhidharmadipa verses after Vasubandhu (AKBh)
+order	SA_T07_vabhdiku	SA_T07_vabhdicu		Abhidharmadipa verses before Vibhasaprabhavrtti (its commentary)
+order	SA_T07_vabhdilu	SA_T07_vabhdicu		Abhidharmadipa verses before Vibhasaprabhavrtti
+anchor	SA_T04_nagmmk_u	150	250	Nagarjuna Mulamadhyamakakarika (c.150-250)
+anchor	SA_T04_bsa027_u	150	250	Nagarjuna Madhyamakasastra (=MMK)
+anchor	SA_T04_nagvvy_u	150	250	Nagarjuna Vigrahavyavartanikarika
+anchor	SA_T04_bsa021_u	150	250	Nagarjuna Vigrahavyavartani
+anchor	SA_T04_nagvigvu	150	250	Nagarjuna Vigrahavyavartani
+anchor	SA_T04_bsa016_u	150	280	Nagarjuna Sunyatasaptati (Yukti corpus, accepted; Skt fragmentary)
+anchor	SA_T04_nagyuksu	150	280	Nagarjuna Yuktisastika (Yukti corpus, accepted; mainly in translation)
+anchor	SA_T04_canprasu	570	650	Candrakirti Prasannapada
+anchor	SA_T04_bsa053_u	570	650	Candrakirti Madhyamakavatara
+anchor	SA_T04_n2980u	570	650	Candrakirti Madhyamakavatarakarika
+anchor	SA_T04_n847u	570	650	Candrakirti Madhyamakasastrastuti
+anchor	SA_T04_n1003u	500	570	Bhaviveka Madhyamakahrdaya
+anchor	SA_T04_tat	725	788	Santaraksita Tattvasamgraha
+anchor	SA_T04_tatpa	740	795	Kamalasila Tattvasamgrahapanjika
+anchor	SA_T04_ksmadhlu	740	795	Kamalasila Madhyamakaloka
+anchor	SA_T04_bsa047	740	795	Kamalasila Bhavanakrama
+anchor	SA_T04_bsa014_u	685	763	Santideva Siksasamuccayakarika
+anchor	SA_T04_bsa004_u	1000	1054	Atisa Bodhipathapradipa (composed ~1042)
+order	SA_T04_tat	SA_T04_tatpa		Tattvasamgraha before Kamalasila's panjika on it
+anchor	SA_T01_nagast_u	150	600	Acintyastava DISPUTED Catuhstava hymn (researched-as-Nagarjuna but DCS slot4/medieval; attribution contested) - wide

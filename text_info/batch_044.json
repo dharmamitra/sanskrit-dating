@@ -1,0 +1,322 @@
+[
+  {
+    "work_id": "K08bsu020_u",
+    "title": "Kāśyapaparivartasūtra [Kāśyapaparivarta]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra",
+    "date_estimate": "c. 1st-2nd c. CE (one of the earliest Mahāyāna sūtras)",
+    "summary": "An early Mahāyāna sūtra cast as a dialogue between the Buddha and his disciple Mahākāśyapa, expounding the conduct, qualities, and pitfalls of the bodhisattva path. It treats the middle way between extremes, the dangers of false bodhisattvas and corrupt monks, and emptiness, framing the bodhisattva ideal in concrete ethical terms.",
+    "history": "Among the oldest datable Mahāyāna texts, it was one of the first translated into Chinese (by Lokakṣema, late 2nd c. CE). A Sanskrit manuscript was recovered from Khotan in the 1890s and edited by Baron A. von Staël-Holstein (1926); it was later absorbed into the Ratnakūṭa (Mahāratnakūṭa) collection. An early Indian commentary survives in Tibetan and Chinese.",
+    "related_works": ["Mahāratnakūṭa Sūtra", "Ratnakūṭa collection"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/K%C4%81%C5%9Byapaparivarta",
+      "https://en.wikipedia.org/wiki/Mah%C4%81ratnak%C5%AB%E1%B9%ADa_S%C5%ABtra"
+    ]
+  },
+  {
+    "work_id": "K08bsu040_u",
+    "title": "Vinayaviniścaya Upāliparipṛcchā [Vinayaviniścaya upāliparipṛcchā sūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra",
+    "date_estimate": "c. 2nd-4th c. CE",
+    "summary": "A Mahāyāna sūtra ('Determining the Vinaya: Upāli's Questions') in which the Buddha answers questions posed by his disciple Upāli concerning monastic discipline. It contrasts the prātimokṣa vows of the śrāvaka with the conduct of the bodhisattva, arguing that bodhisattva ethics are governed by intention and skillful means rather than by the letter of the rules, and it treats confession and the purification of transgressions.",
+    "history": "Transmitted as part of the Ratnakūṭa (Mahāratnakūṭa) collection of Mahāyāna sūtras. It is preserved in Sanskrit, Tibetan, and Chinese and was influential in Mahāyāna discussions of bodhisattva precepts and the relative weight of monastic offenses.",
+    "related_works": ["Mahāratnakūṭa Sūtra", "Ratnakūṭa collection"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Vinayavini%C5%9Bcayop%C4%81liparip%E1%B9%9Bcch%C4%81",
+      "https://84000.co/translation/toh68"
+    ]
+  },
+  {
+    "work_id": "K08bsu062_u",
+    "title": "Guṇakāraṇḍavyūhasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna), Nepalese tradition",
+    "genre": "sutra (verse recension)",
+    "date_estimate": "c. 15th c. CE (verse recasting of a c. 4th-5th c. prose original)",
+    "summary": "A versified Mahāyāna sūtra glorifying the bodhisattva Avalokiteśvara, recounting his compassionate deeds and salvific power and propagating the mantra Oṃ maṇi padme hūṃ. It is a metrical reworking of the prose Kāraṇḍavyūhasūtra and incorporates verses drawn from Śāntideva's Bodhicaryāvatāra.",
+    "history": "One of the last Sanskrit Buddhist sūtras composed, this longer, polished all-verse form dates to roughly the fifteenth century and is especially important in Nepalese Newar Buddhism. It is based on the older Kāraṇḍavyūhasūtra and remains in active ritual and devotional use.",
+    "related_works": ["Kāraṇḍavyūhasūtra", "Bodhicaryāvatāra (Śāntideva)"],
+    "confidence": "high",
+    "sources": [
+      "https://asianlegacylibrary.org/centers/nepal-center/the-compassionate-tales-of-avalokitesvara-in-the-gu%E1%B9%87akara%E1%B9%87%E1%B8%8Davyuha-a-classic-of-nepalese-buddhism/",
+      "https://en.wikipedia.org/wiki/K%C4%81ra%E1%B9%87%E1%B8%8Davy%C5%ABha_S%C5%ABtra"
+    ]
+  },
+  {
+    "work_id": "K08kasyparu",
+    "title": "Kāśyapaparivartasūtra [Kāśyapaparivarta]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra",
+    "date_estimate": "c. 1st-2nd c. CE (one of the earliest Mahāyāna sūtras)",
+    "summary": "An early Mahāyāna sūtra in dialogue between the Buddha and Mahākāśyapa expounding the qualities and conduct of the bodhisattva, the middle way, emptiness, and warnings against false bodhisattvas and corrupt monastics. (Duplicate entry of the Kāśyapaparivarta; another recension/copy in the collection.)",
+    "history": "One of the oldest datable Mahāyāna texts, first rendered into Chinese by Lokakṣema in the late 2nd c. CE, with a Sanskrit manuscript recovered from Khotan and edited by Staël-Holstein (1926). Later incorporated into the Ratnakūṭa collection.",
+    "related_works": ["Kāśyapaparivartasūtra (K08bsu020_u)", "Mahāratnakūṭa Sūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/K%C4%81%C5%9Byapaparivarta",
+      "https://en.wikipedia.org/wiki/Mah%C4%81ratnak%C5%AB%E1%B9%ADa_S%C5%ABtra"
+    ]
+  },
+  {
+    "work_id": "K09bsu014_u",
+    "title": "Daśabhūmikasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra",
+    "date_estimate": "c. 1st-2nd c. CE",
+    "summary": "An influential Mahāyāna sūtra ('The Ten Stages') describing the ten bhūmis or stages through which a bodhisattva progresses toward complete awakening, each correlated with a perfection (pāramitā). The bodhisattva Vajragarbha, before an assembly led by Maitreya, expounds the qualities, vows, and attainments of each stage.",
+    "history": "An early and important text, it circulates both independently and as a chapter of the Avataṃsaka Sūtra. Its oldest Chinese translation is by Dharmarakṣa (c. 297 CE). It became the doctrinal basis of the Daśabhūmika school in China and was the subject of Vasubandhu's commentary (Daśabhūmikavyākhyāna).",
+    "related_works": ["Avataṃsaka Sūtra", "Daśabhūmikavyākhyāna (Vasubandhu)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ten_Stages_Sutra",
+      "https://encyclopediaofbuddhism.org/wiki/Dasabhumika-sutra"
+    ]
+  },
+  {
+    "work_id": "K09bsu016_u",
+    "title": "Gaṇḍavyūhasūtra [Gaṇḍavyūha]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra",
+    "date_estimate": "c. 2nd-4th c. CE",
+    "summary": "A major Mahāyāna sūtra narrating the spiritual pilgrimage of the youth Sudhana, who at the urging of Mañjuśrī visits fifty-three spiritual teachers (kalyāṇamitra) in quest of supreme awakening, culminating in the teaching of Samantabhadra. It elaborates the interpenetration of all phenomena and the bodhisattva's vast vow.",
+    "history": "Composed in India c. 200-300 CE, it circulated independently and forms the climactic final book of the Avataṃsaka Sūtra. Richly illustrated in Asian art, it profoundly shaped the Chinese Huayan and Japanese Kegon schools; Sudhana's journey is a celebrated theme in Buddhist narrative and visual culture.",
+    "related_works": ["Avataṃsaka Sūtra", "Bhadracarīpraṇidhāna"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gandavyuha",
+      "https://www.rigpawiki.org/index.php?title=Gandavyuha_Sutra"
+    ]
+  },
+  {
+    "work_id": "K10adbhutdu",
+    "title": "Adbhutadharmaparyāya [Adbhutadharmaparyāyasūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra",
+    "date_estimate": "uncertain; before late 8th c. CE (manuscripts in the Gilgit collection)",
+    "summary": "A short Mahāyāna sūtra ('The Marvelous Dharma Discourse') on the immense merit generated by building stūpas and caityas for the veneration of a buddha. The Buddha declares that even a tiny stūpa erected for a perfect buddha yields merit far surpassing offerings made to all stream-enterers, once-returners, non-returners, arhats, pratyekabuddhas, and the saṅgha.",
+    "history": "Three Sanskrit manuscripts have been identified in the Gilgit collection. The Tibetan translation (Toh 319) was made by Bandé Yeshé Dé with the Indian preceptors Jinamitra and Surendrabodhi, who worked in the late 8th-early 9th c., placing the text's circulation before that period.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh319",
+      "https://www.mdpi.com/2077-1444/14/5/626"
+    ]
+  },
+  {
+    "work_id": "K10ahovcs_u",
+    "title": "Ahorātravratacaityasevānuśaṃsāvadāna",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna), Nepalese (Newar) tradition",
+    "genre": "avadāna (didactic legend)",
+    "date_estimate": "uncertain; 1st millennium CE or later (Nepalese avadāna milieu)",
+    "summary": "An avadāna recounting the benefits (anuśaṃsā) accruing from a day-and-night vow (ahorātravrata) devoted to the service and worship (sevā) of a caitya/stūpa. As is typical of the genre, it illustrates karmic reward by narrating the meritorious past and resulting good fortune of devotees who undertook such caitya worship.",
+    "history": "Belongs to the corpus of Sanskrit Buddhist avadāna literature preserved and ritually performed in the Newar Buddhist tradition of the Kathmandu Valley, where caitya worship and vow observances are central devotional practices. It is an obscure text known chiefly from Nepalese manuscript collections; its precise authorship and date are not established.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.researchgate.net/publication/280874752_Avadanas_and_Jatakas_in_the_Newar_Tradition_of_the_Kathmandu_Valley_Ritual_Performances_of_Mahayana_Buddhist_Narratives",
+      "https://www.wisdomlib.org/definition/caitya"
+    ]
+  },
+  {
+    "work_id": "K10anitysuu",
+    "title": "Anityatāsūtra [Āryānityatāsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist",
+    "genre": "sutra",
+    "date_estimate": "uncertain; early/mainstream Buddhist material, 1st millennium CE",
+    "summary": "A short discourse ('Sūtra on Impermanence') in which the Buddha reminds his followers that good health, youth, prosperity, and life itself are all impermanent, and that all beings—whatever their status, even arhats, pratyekabuddhas, and buddhas—must die. It closes with verses urging the audience to grasp that true happiness lies in bringing conditioned states to rest.",
+    "history": "Two short sūtras of this title circulate in the Tibetan Kangyur's General Sūtra section (Toh 309 and 310); the teaching on impermanence (anityatā) is a foundational Buddhist topic shared across traditions. The brevity and content mark it as a concise meditative reminder rather than a developed doctrinal treatise.",
+    "related_works": ["Āryānityatāsūtra (K10bsu001_u)", "Udānavarga"],
+    "confidence": "medium",
+    "sources": [
+      "https://84000.co/translation/toh309",
+      "https://84000.co/translation/toh310"
+    ]
+  },
+  {
+    "work_id": "K10avsata_u",
+    "title": "Avadānaśataka",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mūlasarvāstivāda)",
+    "genre": "avadāna (anthology of didactic legends)",
+    "date_estimate": "c. 2nd-4th c. CE (likely 2nd c. CE)",
+    "summary": "An anthology of one hundred Buddhist avadāna tales in Sanskrit, organized into ten decades (books), illustrating the workings of karma and the power of devotion, faith, and giving (dāna). The stories typically link a present event to a past deed and a future prophecy, showing how meritorious or harmful acts ripen.",
+    "history": "Associated with the Mūlasarvāstivāda school and probably composed in the northwest Indian subcontinent; its mention of the dīnāra coin and early Chinese translation (1st half of 3rd c.) support a 2nd c. CE dating. It survives in Sanskrit, was translated into Chinese and Tibetan, and fragments have been found in the Schøyen Collection (possibly Bāmiyān).",
+    "related_works": ["Divyāvadāna", "Karmaśataka"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Avadanasataka",
+      "https://ancient-buddhist-texts.net/Reference/Literary-History-of-Sanskrit-Buddhism/06-Avadana.htm"
+    ]
+  },
+  {
+    "work_id": "K10bsu001_u",
+    "title": "Āryānityatāsūtra [Anityatāsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist",
+    "genre": "sutra",
+    "date_estimate": "uncertain; early/mainstream Buddhist material, 1st millennium CE",
+    "summary": "The 'Noble Sūtra on Impermanence,' a brief discourse in which the Buddha teaches that health, youth, wealth, and life are impermanent and that all that lives must die, concluding with verses on anityatā and on the peace found in stilling conditioned states. (A recension of the Anityatāsūtra; cf. K10anitysuu.)",
+    "history": "Circulates in the Tibetan Kangyur (Toh 309/310) and represents the widely shared Buddhist contemplation of impermanence. It functions as a concise devotional and meditative reminder rather than a systematic treatise.",
+    "related_works": ["Anityatāsūtra (K10anitysuu)", "Udānavarga"],
+    "confidence": "medium",
+    "sources": [
+      "https://84000.co/translation/toh309",
+      "https://www.rigpawiki.org/index.php?title=Sutra_on_Impermanence"
+    ]
+  },
+  {
+    "work_id": "K10bsu006_u",
+    "title": "Ajitasenavyākaraṇa",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (transitional / 'proto-Mahāyāna')",
+    "genre": "sutra / vyākaraṇa (prophecy) with avadāna structure",
+    "date_estimate": "uncertain; manuscript c. 6th-7th c. CE, composition likely earlier",
+    "summary": "A 'proto-Mahāyāna' sūtra ('The Prophecy concerning King Ajitasena') blending Mahāyāna and Sthaviravāda (mainstream) ideas. It teaches that recitation of the Buddha's name saves from suffering and hell, and ends with the classic Mahāyāna promise that those who teach or even hear a verse of it gain good rebirth and bodhisattvahood, while detractors fall to hell. It has the present-past-future narrative structure typical of avadānas.",
+    "history": "Known from manuscripts found near Gilgit (1931) and in Central Asia, with the surviving codices dated to roughly the 6th-7th c. CE; it is studied as evidence for the transition from mainstream Buddhism to the Mahāyāna. Sanskrit manuscript material is held in collections including the IOM RAS.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ajitasena_Sutra",
+      "https://www.academia.edu/12864952/The_Ajitasenavy%C4%81kara%E1%B9%87a_from_Central_Asia_and_Gilgit"
+    ]
+  },
+  {
+    "work_id": "K10bsu008_u",
+    "title": "Āryabuddhabalādhānaprātihāryavikurvāṇanirdeśanāma Mahāyānasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra",
+    "date_estimate": "uncertain; mid-1st millennium CE",
+    "summary": "A Mahāyāna sūtra ('The Teaching on the Extraordinary Transformation that is the Miracle of Attaining the Buddha's Powers') in which the Buddha thrice displays supernatural powers: transporting his assembly to Varanasi, prompting Avalokiteśvara and Vajrapāṇi to gather all beings ripe for awakening and transforming the world into a pure realm like Sukhāvatī, and manifesting many buddhas around himself. Through dialogues, partly with Mañjuśrī, it explores miracles (prātihārya), supernatural power (ṛddhi), and extraordinary transformation (vikurvaṇa).",
+    "history": "Preserved in Tibetan translation (Toh 186) and Chinese; it belongs to the body of Mahāyāna sūtras exploring the inconceivable powers and skillful means of buddhas and bodhisattvas. Its compositional date is not precisely fixed.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh186",
+      "https://www.rigpawiki.org/index.php?title=The_Teaching_on_the_Extraordinary_Transformation_that_is_the_Miracle_of_Attaining_the_Buddha%E2%80%99s_Powers"
+    ]
+  },
+  {
+    "work_id": "K10bsu009_u",
+    "title": "Maitreyavyākaraṇa [Maitreyavyākaraṇasūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra / vyākaraṇa (prophecy)",
+    "date_estimate": "uncertain; c. 3rd-5th c. CE",
+    "summary": "A sūtra ('The Prophecy of Maitreya') describing the future advent of the bodhisattva Maitreya as the next buddha. It depicts the conditions of his appearance in Jambudvīpa when human lifespan and circumstances have transformed, his awakening, and the means by which devotees may be reborn in his presence.",
+    "history": "A widely transmitted text on the future buddha, preserved in Sanskrit, Tibetan, and several Chinese versions, central to the broad Buddhist cult of Maitreya across India, Central Asia, and East Asia. It exists in multiple recensions and was an important vehicle for messianic and devotional expectations.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://texts.mandala.library.virginia.edu/text/prophecy-maitreya",
+      "https://www.rigpawiki.org/index.php?title=Maitreya"
+    ]
+  },
+  {
+    "work_id": "K10bsu010_u",
+    "title": "Bhavasaṅkrāntisūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna; associated with Madhyamaka)",
+    "genre": "sutra",
+    "date_estimate": "uncertain; early Mahāyāna, c. 1st-3rd c. CE",
+    "summary": "A short Mahāyāna sūtra ('The Sūtra on the Transition of Existences') explaining how rebirth occurs without any dharma actually transmigrating, in accordance with not-self (anātman). Set at the Veṇuvana near Rājagṛha, King Bimbisāra asks how a long-ceased action can appear at the moment of death given that formations are empty; the Buddha answers with the analogy of a beautiful woman seen in a dream.",
+    "history": "Closely linked to the Madhyamaka: a commentarial śāstra of the same name is attributed to Nāgarjuna, and the pair (sūtra and śāstra) was edited together by N. Aiyaswami Sastri. It is preserved in Tibetan and Chinese and is valued for harmonizing emptiness with the continuity of karma and rebirth.",
+    "related_works": ["Bhavasaṅkrāntiśāstra (attrib. Nāgarjuna)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.encyclopediaofbuddhism.org/wiki/Bhavasa%E1%B9%85kr%C4%81ntis%C5%ABtra",
+      "https://archive.org/details/in.ernet.dli.2015.279699"
+    ]
+  },
+  {
+    "work_id": "K10bsu013_u",
+    "title": "Āryacaturdharmanirdeśasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra",
+    "date_estimate": "uncertain; mid-1st millennium CE",
+    "summary": "A very short Mahāyāna sūtra ('The Noble Sūtra Teaching the Four Factors') that enumerates four factors enabling a bodhisattva to overcome and purify negative actions: the power of repentance/remorse, the antidotal action (engaging in virtue), the power of restraint (resolving not to repeat the deed), and the power of support (reliance on the Three Jewels and bodhicitta).",
+    "history": "Preserved in the Tibetan Kangyur (Toh 251), it is the last of a set of three short sūtras with similar titles on sets of four dharmas; in several Kangyurs these are grouped together. It has been translated into English by the 84000 project. It is brief but doctrinally important for the Mahāyāna practice of confession and purification.",
+    "related_works": ["Catuṣkanirhārasūtra (Toh 249)", "Caturdharmakasūtra (Toh 250)"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh251",
+      "https://www.rigpawiki.org/index.php?title=The_Noble_Mahayana_Sutra_on_the_Four_Factors"
+    ]
+  },
+  {
+    "work_id": "K10bsu018_u",
+    "title": "Sarvajñatākāradhāraṇī [Karuṇāpuṇḍarīka(sūtra)]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "dhāraṇī (associated with the Karuṇāpuṇḍarīkasūtra)",
+    "date_estimate": "uncertain; mid-1st millennium CE",
+    "summary": "A dhāraṇī text invoking the 'mode/aspect of omniscience' (sarvajñatākāra), the comprehensive knowledge that is the goal of the bodhisattva and the unique attainment of a buddha. The bracketed reference indicates it is transmitted in association with the Karuṇāpuṇḍarīkasūtra ('White Lotus of Compassion'), which narrates the origins of buddhas and bodhisattvas and the supremacy of Śākyamuni.",
+    "history": "Dhāraṇīs (mnemonic incantations encoding doctrine and conferring protection/merit) were frequently embedded in or appended to Mahāyāna sūtras. The precise identity, scope, and independent transmission of this Sarvajñatākāradhāraṇī are not well established; the Karuṇāpuṇḍarīka with which it is grouped is an ancient Mahāyāna scripture possibly datable to as early as the 3rd c. CE.",
+    "related_works": ["Karuṇāpuṇḍarīkasūtra"],
+    "confidence": "low",
+    "sources": [
+      "https://84000.co/translation/toh112",
+      "https://www.wisdomlib.org/definition/sarvajnata"
+    ]
+  },
+  {
+    "work_id": "K10bsu019",
+    "title": "Kāraṇḍavyūha Sūtra [Avalokiteśvaraguṇa-Kāraṇḍavyūha(sūtra)]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra",
+    "date_estimate": "c. late 4th-5th c. CE",
+    "summary": "A Mahāyāna sūtra ('The Basket's Display' / 'Array of the Casket of Avalokiteśvara's Qualities') extolling the cosmic compassion and salvific deeds of the bodhisattva Avalokiteśvara, who rescues beings from every realm including the hells. It is famous as the earliest text to teach the six-syllable mantra Oṃ maṇi padme hūṃ, presenting it as a means to liberation and buddhahood.",
+    "history": "Composed in India around the late 4th-early 5th c. CE; scholarship (e.g. work on the Śivadharmaśāstra) has shown Buddhist-Śaiva interaction shaping its imagery. Hugely influential on the cult of Avalokiteśvara, especially in Tibet, it exists in prose and later verse (Guṇakāraṇḍavyūha) recensions and survives in Sanskrit, Tibetan, and Chinese.",
+    "related_works": ["Guṇakāraṇḍavyūhasūtra", "Śivadharmaśāstra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/K%C4%81ra%E1%B9%87%E1%B8%8Davy%C5%ABha_S%C5%ABtra",
+      "https://www.shingansportal.com/s%C5%ABtra-translations/the-array-of-the-basket-of-qualities-s%C5%ABtra"
+    ]
+  },
+  {
+    "work_id": "K10bsu021_u",
+    "title": "Saddharmalaṅkāvatārasūtra [Laṅkāvatārasūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna; Yogācāra / tathāgatagarbha)",
+    "genre": "sutra",
+    "date_estimate": "c. 3rd-5th c. CE (composite)",
+    "summary": "A major Mahāyāna sūtra ('The Descent of the True Dharma into Laṅkā'), framed as the Buddha's teaching to the rākṣasa king Rāvaṇa on Mount Malaya in Laṅkā. It expounds mind-only (cittamātra), the storehouse consciousness (ālayavijñāna), the three natures, buddha-nature (tathāgatagarbha), the luminous mind, emptiness, and vegetarianism, in a discursive, dialogic form.",
+    "history": "A composite text formed between roughly the 3rd and 5th centuries CE, blending Yogācāra and tathāgatagarbha currents; notably it is not cited by the Yogācāra founders Asaṅga or Vasubandhu. It became foundational for the Chan/Zen tradition (linked to Bodhidharma) and survives in Sanskrit and several Chinese and Tibetan versions.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/La%E1%B9%85k%C4%81vat%C4%81ra_S%C5%ABtra",
+      "https://www.wisdomlib.org/buddhism/essay/buddha-nature-lankavatara-sutra/d/doc1145025.html"
+    ]
+  },
+  {
+    "work_id": "K10bsu023_u",
+    "title": "Madhyamakaśālistambasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna; foundational for Madhyamaka)",
+    "genre": "sutra",
+    "date_estimate": "very early Mahāyāna; c. 1st c. BCE - 2nd c. CE",
+    "summary": "A Mahāyāna sūtra ('The Rice Seedling') giving one of the most detailed canonical expositions of dependent origination (pratītyasamutpāda). Prompted by a brief remark the Buddha made while gazing at a rice seedling, the bodhisattva Maitreya expounds the outer (seed-to-sprout) and inner (twelve-link) causal sequences and how 'whoever sees dependent origination sees the Dharma.'",
+    "history": "Among the oldest Mahāyāna texts; no complete Sanskrit original survives, but it is quoted extensively in later treatises. It deeply influenced the Madhyamaka, inspiring Candrakīrti (e.g. the Madhyamakāvatāra); Indian commentaries attributed to Nāgarjuna and to Kamalaśīla are preserved in Tibetan and Mongolian. The 'Madhyamaka-' prefix here marks its association with that school.",
+    "related_works": ["Madhyamakāvatāra (Candrakīrti)", "Śālistambaṭīkā (attrib. Kamalaśīla)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Salistamba_Sutra",
+      "https://84000.co/translation/toh210"
+    ]
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "work_id": "GSP31tttvsamu",
+    "title": "Tattvasamāsa",
+    "author": "anonymous/traditional (ascribed to Kapila)",
+    "tradition": "Hindu (Sāṃkhya)",
+    "genre": "sutra (aphoristic compendium)",
+    "date_estimate": "uncertain; the surviving text is generally dated late (c. 14th-16th c. CE), though traditionally ascribed to the founder Kapila",
+    "summary": "A very brief aphoristic outline (about 23-25 short sūtras/topic-headings) summarizing the categories and principles of classical Sāṃkhya philosophy — the evolutes of prakṛti, the puruṣa, the guṇas, bondage and liberation. It functions as a memorizable skeleton of Sāṃkhya doctrine rather than an argued treatise.",
+    "history": "Traditionally attributed to the legendary sage Kapila and revered within Sāṃkhya as an ancient summary, but Western scholarship generally regards the extant text as relatively late (often before c. 1600 CE). It became the basis for several later commentaries (e.g. by Kṣemendra, Bhāvāgaṇeśa, Narendra), which is largely why it survived.",
+    "related_works": ["Sāṃkhyakārikā", "Sāṃkhyapravacanasūtra", "Sāṣṭitantra"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_tattvasamAsa-4versions.htm",
+      "https://www.britannica.com/topic/Samkhya-sutra",
+      "https://en.wikipedia.org/wiki/Samkhya_Pravachana_Sutra"
+    ]
+  },
+  {
+    "work_id": "GSP31vijsamsu",
+    "title": "Sāṅkhyasāra",
+    "author": "Vijñānabhikṣu",
+    "tradition": "Hindu (Sāṃkhya, with theistic/Vedāntic synthesis)",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 16th c. CE (latter half of the 1500s)",
+    "summary": "A systematic compendium of Sāṃkhya doctrine by Vijñānabhikṣu, summarizing the metaphysics of prakṛti and puruṣa, the twenty-five tattvas, the guṇas, and the path to liberation. Consistent with his broader project, it reads Sāṃkhya in a theistic and Vedānta-friendly light rather than as strictly atheistic dualism.",
+    "history": "Vijñānabhikṣu (fl. mid-to-late 16th c.) was a major late synthesizer who sought to harmonize Sāṃkhya, Yoga and Vedānta; he also wrote the Sāṃkhyapravacanabhāṣya and the Yogavārttika. The Sāṅkhyasāra is one of his independent expositions of Sāṃkhya and is important for understanding the late, devotionally inflected revival of the school.",
+    "related_works": ["Sāṃkhyapravacanasūtra", "Sāṃkhyapravacanabhāṣya (Vijñānabhikṣu)", "Sāṃkhyakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vijnanabhiksu",
+      "https://en.wikipedia.org/wiki/Samkhya_Pravachana_Sutra"
+    ]
+  },
+  {
+    "work_id": "GSP31yuktdipu",
+    "title": "Yuktidīpikā",
+    "author": "anonymous (sometimes conjecturally ascribed to a 'Rājan/Rāja')",
+    "tradition": "Hindu (Sāṃkhya)",
+    "genre": "bhasya/commentary (vṛtti) on the Sāṃkhyakārikā",
+    "date_estimate": "c. 6th-8th c. CE (commonly c. 680-720 CE)",
+    "summary": "The most detailed and philosophically rich surviving commentary on Īśvarakṛṣṇa's Sāṃkhyakārikā. It expounds the kārikās at length, preserves polemics against Buddhist, Nyāya and other opponents, and uniquely transmits information about earlier Sāṃkhya teachers and lost doctrines (e.g. discussions tied to the Ṣaṣṭitantra).",
+    "history": "Its author is unknown; the work was rediscovered and edited in the 20th century, becoming a key source for reconstructing classical Sāṃkhya beyond the terse Kārikā. The standard critical edition is by Wezler and Motegi (1998). Because of its rich citations it is invaluable for dating and contextualizing rival schools.",
+    "related_works": ["Sāṃkhyakārikā", "Ṣaṣṭitantra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yuktid%C4%ABpik%C4%81",
+      "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/south-asia-albrecht-wezler-and-shujun-motegi-ed-yuktidipika-the-most-significant-commentary-on-the-samkhyakarika-vol-i-alt-und-neuindische-studien-hamburg-44-ii-xxxvii-347-pp-stuttgart-franz-steiner-verlag-1998-dm-96/C066AFC7315302A909B4D72DAC5916C3"
+    ]
+  },
+  {
+    "work_id": "GSP32paddhs_u",
+    "title": "Padārthadharmasaṃgraha",
+    "author": "Praśastapāda",
+    "tradition": "Hindu (Vaiśeṣika)",
+    "genre": "philosophical treatise (often termed bhasya, the Praśastapādabhāṣya)",
+    "date_estimate": "c. 5th-6th c. CE (often c. 6th c.)",
+    "summary": "A systematic exposition of Vaiśeṣika categories (padārthas) — substance, quality, motion, universal, particularity, inherence — organized topically rather than as a line-by-line gloss on the sūtras. It develops Vaiśeṣika natural philosophy, atomism, and the theory of qualities far beyond the original aphorisms and effectively reshaped the school.",
+    "history": "Though traditionally called a 'bhāṣya' on Kaṇāda's Vaiśeṣikasūtra, it is really an independent compendium that became the standard reference for later Vaiśeṣika. It attracted major commentaries, notably Vyomaśiva's Vyomavatī, Śrīdhara's Nyāyakandalī, and Udayana's Kiraṇāvalī.",
+    "related_works": ["Vaiśeṣikasūtra", "Nyāyakandalī (Śrīdhara)", "Kiraṇāvalī (Udayana)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prashastapada",
+      "https://en.wikipedia.org/wiki/Vaisheshika_Sutra"
+    ]
+  },
+  {
+    "work_id": "GSP32vaisessu",
+    "title": "Vaiśeṣikasūtra",
+    "author": "Kaṇāda (Kaśyapa/Ulūka)",
+    "tradition": "Hindu (Vaiśeṣika)",
+    "genre": "sutra (foundational aphorisms)",
+    "date_estimate": "c. 2nd c. BCE - 2nd c. CE (composite; foundational layer disputed)",
+    "summary": "The foundational aphoristic text of the Vaiśeṣika school, setting out a pluralistic realist ontology built on categories (padārtha) and an atomic theory of matter. It treats substances, qualities, motion, universals, particularity, and inherence, and grounds dharma and liberation in correct knowledge of reality.",
+    "history": "Attributed to the sage Kaṇāda, the sūtras are early but the text as transmitted is layered and its absolute dating is debated (the project hint of c. 250-300 CE reflects one recension; many scholars place the core earlier). It survives in multiple recensions and is best known through Candrānanda's vṛtti and Praśastapāda's compendium.",
+    "related_works": ["Padārthadharmasaṃgraha (Praśastapāda)", "Vaiśeṣikasūtravṛtti (Candrānanda)", "Nyāyasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vaisheshika_Sutra",
+      "https://en.wikipedia.org/wiki/Kanada_(philosopher)"
+    ]
+  },
+  {
+    "work_id": "GSP32vaissu1u",
+    "title": "Vaiśeṣikasūtra",
+    "author": "Kaṇāda (Kaśyapa/Ulūka)",
+    "tradition": "Hindu (Vaiśeṣika)",
+    "genre": "sutra (foundational aphorisms)",
+    "date_estimate": "c. 2nd c. BCE - 2nd c. CE (composite; disputed). This entry appears to be a second recension/version of the Vaiśeṣikasūtra in the corpus.",
+    "summary": "The foundational aphoristic text of Vaiśeṣika, presenting a realist categorial ontology (padārthas) and atomism, and deriving knowledge of dharma and liberation from correct understanding of reality. This record is a distinct version (recension) of the same root text as the preceding Vaiśeṣikasūtra entry.",
+    "history": "The Vaiśeṣikasūtra survives in more than one recension (e.g. the version embedded in Candrānanda's vṛtti versus the older 'vulgate' associated with Śaṅkaramiśra's Upaskāra), which is likely why the corpus carries multiple Vaiśeṣikasūtra files. Attribution to Kaṇāda is traditional; the text is layered.",
+    "related_works": ["Vaiśeṣikasūtravṛtti (Candrānanda)", "Padārthadharmasaṃgraha (Praśastapāda)", "Upaskāra (Śaṅkaramiśra)"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vaisheshika_Sutra",
+      "https://vishvasa.github.io/AgamaH/AryaH/hinduism/branches/nyAya-vaisheShike/vaisheShikam/moise/"
+    ]
+  },
+  {
+    "work_id": "GSP32vaissutika",
+    "title": "Vaiśeṣikasūtraṭīkā",
+    "author": "Candrānanda",
+    "tradition": "Hindu (Vaiśeṣika)",
+    "genre": "bhasya/commentary (vṛtti/ṭīkā)",
+    "date_estimate": "c. 7th-10th c. CE (commentary; date uncertain, before c. 10th c.)",
+    "summary": "Candrānanda's running commentary (vṛtti, here titled ṭīkā) on Kaṇāda's Vaiśeṣikasūtra. It glosses the aphorisms and preserves what is regarded as the oldest available recension of the sūtra text, making it crucial for reconstructing the earliest form of the Vaiśeṣikasūtra.",
+    "history": "The commentary was first critically edited (with the sūtras) by Muni Jambūvijaya at the University of Baroda (1961). Candrānanda's date is not firmly fixed but he is clearly a relatively early commentator; his version differs notably from the later Upaskāra vulgate.",
+    "related_works": ["Vaiśeṣikasūtra", "Padārthadharmasaṃgraha (Praśastapāda)"],
+    "confidence": "high",
+    "sources": [
+      "https://archive.org/details/vaisesikasutraofkanadacommentaryofcandranandasandesrab.j.universityofbaroda1361961_202003_453_g",
+      "https://vishvasa.github.io/AgamaH/AryaH/hinduism/branches/nyAya-vaisheShike/vaisheShikam/moise/"
+    ]
+  },
+  {
+    "work_id": "GSP32vvmanmhu",
+    "title": "Mānamanohara",
+    "author": "Vādivāgīśvara",
+    "tradition": "Hindu (Nyāya / Nyāya-Vaiśeṣika epistemology)",
+    "genre": "philosophical treatise on pramāṇas (theory of knowledge)",
+    "date_estimate": "uncertain; medieval (likely c. 11th-14th c. CE)",
+    "summary": "A treatise on the means of valid knowledge (pramāṇas) in the Nyāya / Nyāya-Vaiśeṣika tradition, attributed to Vādivāgīśvara. As its title ('Delight of the Mind regarding pramāṇa') suggests, it systematically expounds the instruments of cognition such as perception and inference.",
+    "history": "The text and its author Vādivāgīśvara are comparatively obscure and not widely documented in mainstream surveys; the work is preserved in manuscript/catalogue traditions of Nyāya epistemological literature. Its precise date and circumstances of composition are not securely established.",
+    "related_works": ["Nyāyasūtra", "Tarkasaṃgraha (Annaṃbhaṭṭa)"],
+    "confidence": "low",
+    "sources": [
+      "https://www.sanskritworld.in/public/index.php/index/detailview/book_id/manamanohara"
+    ]
+  },
+  {
+    "work_id": "GSP33vedanta-desika",
+    "title": "Dramidopaniṣad Tātparyaratnāvalī",
+    "author": "Vedānta Deśika (Veṅkaṭanātha)",
+    "tradition": "Hindu (Śrīvaiṣṇava, Viśiṣṭādvaita Vedānta)",
+    "genre": "stotra/expository verse work (commentarial summary in Sanskrit verse)",
+    "date_estimate": "late 13th-early 14th c. CE (Vedānta Deśika c. 1268-1369 CE)",
+    "summary": "A Sanskrit verse work by Vedānta Deśika that distills the essence of Nammāḻvār's Tamil Tiruvāymoḻi (revered as the 'Drāmiḍa Upaniṣad'/Drāviḍa Veda). It presents, decade by decade, the central import (tātparya) of the Tiruvāymoḻi, treating the Tamil hymn as scripturally equivalent to the Upaniṣads and articulating Śrīvaiṣṇava devotional theology.",
+    "history": "Vedānta Deśika was a towering Śrīvaiṣṇava ācārya who composed in both Sanskrit and Tamil and championed the equal authority of the Tamil Āḻvār hymns ('Ubhaya Vedānta'). The work is paired in tradition with his Drāmiḍopaniṣadsāra; a Sanskrit-English edition was published by the Vedanta Desika Research Society (Madras, 1974).",
+    "related_works": ["Tiruvāymoḻi (Nammāḻvār)", "Drāmiḍopaniṣadsāra (Vedānta Deśika)"],
+    "confidence": "high",
+    "sources": [
+      "https://archive.org/details/vedantadesikadramidopanishadtatparyaratnavaliandsarasanskritenglish1974ocr",
+      "https://openlibrary.org/books/OL18684305M/Vedanta_Desika's_Dramidopanishad_Tatparya_ratnavali_and_Sara."
+    ]
+  },
+  {
+    "work_id": "GSP33bbdip11u",
+    "title": "Brahmasūtra: Adhyāya 1, Pāda 1",
+    "author": "Bādarāyaṇa (Vyāsa, traditional)",
+    "tradition": "Hindu (Vedānta)",
+    "genre": "sutra (section of the foundational Vedānta aphorisms)",
+    "date_estimate": "c. 200 BCE - 200 CE (composite; section of a text usually placed in the early centuries CE)",
+    "summary": "The first quarter (pāda) of the first chapter of the Brahmasūtra. Known as the Samanvaya-adhyāya opening, it establishes Brahman as the source of all and argues that the various Upaniṣadic passages consistently (samanvaya) refer to Brahman, beginning with the famous 'athāto brahmajijñāsā' (now therefore the inquiry into Brahman).",
+    "history": "This is a subdivision of Bādarāyaṇa's Brahmasūtra (Vedāntasūtra), the third pillar of the prasthānatrayī. The corpus segments the work by adhyāya and pāda; pāda 1.1 is where each major commentator (Śaṅkara, Rāmānuja, etc.) lays out core hermeneutic principles.",
+    "related_works": ["Brahmasūtra", "Upaniṣads", "Bhagavadgītā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brahma_Sutras"
+    ]
+  },
+  {
+    "work_id": "GSP33bbdip12u",
+    "title": "Brahmasūtra: Adhyāya 1, Pāda 2",
+    "author": "Bādarāyaṇa (Vyāsa, traditional)",
+    "tradition": "Hindu (Vedānta)",
+    "genre": "sutra (section of the foundational Vedānta aphorisms)",
+    "date_estimate": "c. 200 BCE - 200 CE (composite; section of a text usually placed in the early centuries CE)",
+    "summary": "The second pāda of Brahmasūtra chapter 1, continuing the samanvaya project of showing that ambiguous Upaniṣadic descriptions (of the inner controller, the all-pervading, etc.) are to be understood as referring to Brahman. It interprets specific scriptural texts as having Brahman as their proper subject.",
+    "history": "A subdivision of Bādarāyaṇa's Brahmasūtra, segmented here by adhyāya/pāda. As with all the pādas, its meaning is heavily shaped by the divergent commentaries of the Vedānta schools.",
+    "related_works": ["Brahmasūtra", "Upaniṣads"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brahma_Sutras"
+    ]
+  },
+  {
+    "work_id": "GSP33bbdip13u",
+    "title": "Brahmasūtra: Adhyāya 1, Pāda 3",
+    "author": "Bādarāyaṇa (Vyāsa, traditional)",
+    "tradition": "Hindu (Vedānta)",
+    "genre": "sutra (section of the foundational Vedānta aphorisms)",
+    "date_estimate": "c. 200 BCE - 200 CE (composite; section of a text usually placed in the early centuries CE)",
+    "summary": "The third pāda of Brahmasūtra chapter 1, again pursuing samanvaya by identifying Brahman as the referent of further Upaniṣadic passages (e.g. the 'abode of heaven and earth', the akṣara, the small space within the heart). It also takes up questions about who is qualified to study Brahman-knowledge.",
+    "history": "A subdivision of Bādarāyaṇa's Brahmasūtra, transmitted and commented upon within the prasthānatrayī framework by Śaṅkara, Rāmānuja, Madhva and others.",
+    "related_works": ["Brahmasūtra", "Upaniṣads"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brahma_Sutras"
+    ]
+  },
+  {
+    "work_id": "GSP33bhbhg_cu",
+    "title": "Bhagavadāśayānusaraṇabhāṣya",
+    "author": "Bhāskara (Bhedābheda Vedānta)",
+    "tradition": "Hindu (Bhedābheda Vedānta)",
+    "genre": "bhasya/commentary on the Bhagavadgītā",
+    "date_estimate": "c. 8th-9th c. CE",
+    "summary": "Bhāskara's commentary on the Bhagavadgītā, whose title ('exposition following the intention of the Blessed Lord') signals an attempt to draw out Kṛṣṇa's own intended meaning. Reading the Gītā through his Bhedābheda lens, Bhāskara emphasizes that the self relates to Brahman as simultaneously different and non-different, and advocates jñāna-karma-samuccaya (the combination of knowledge and action).",
+    "history": "Bhāskara, a probable younger contemporary of Śaṅkara, was a leading exponent of Bhedābheda and a sharp critic of Advaita's doctrine of māyā. He also wrote a commentary on the Brahmasūtra; his Gītā commentary is an important early non-Advaita reading of the text.",
+    "related_works": ["Bhagavadgītā", "Brahmasūtrabhāṣya (Bhāskara)", "Bhagavadgītābhāṣya (Śaṃkara)"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bh%C4%81skara_(Bhedabheda_Vedanta)",
+      "https://en.wikipedia.org/wiki/Bhedabheda"
+    ]
+  },
+  {
+    "work_id": "GSP33bhgmbh",
+    "title": "Bhagavadgītābhāṣya",
+    "author": "(unspecified in record; ambiguous — a Bhagavadgītā commentary, possibly Madhva's Gītābhāṣya)",
+    "tradition": "Hindu (Vedānta)",
+    "genre": "bhasya/commentary on the Bhagavadgītā",
+    "date_estimate": "uncertain (depends on author); if Madhva, c. 13th c. CE",
+    "summary": "A Sanskrit commentary (bhāṣya) on the Bhagavadgītā. The record gives no author, so the specific commentator is uncertain; given the work_id pattern and the 'm' marker it may be Madhva's Gītābhāṣya, a Dvaita reading that interprets the Gītā as teaching devotion to Viṣṇu and the eternal distinction between the soul and God.",
+    "history": "Numerous Vedānta ācāryas wrote Gītā commentaries titled Bhagavadgītābhāṣya; without an explicit author attribution the exact one here cannot be fixed with certainty. If Madhvācārya's, it is a foundational Dvaita text accompanied by his Gītātātparya.",
+    "related_works": ["Bhagavadgītā", "Mahābhārata: Bhīṣmaparvan", "Brahmasūtra"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+    ]
+  },
+  {
+    "work_id": "GSP33bhgrbh",
+    "title": "Bhagavadgītābhāṣya",
+    "author": "Rāmānuja",
+    "tradition": "Hindu (Śrīvaiṣṇava, Viśiṣṭādvaita Vedānta)",
+    "genre": "bhasya/commentary on the Bhagavadgītā",
+    "date_estimate": "c. late 11th-early 12th c. CE (Rāmānuja, trad. 1017-1137 CE)",
+    "summary": "Rāmānuja's Gītābhāṣya, a Viśiṣṭādvaita interpretation of the Bhagavadgītā. It reads the Gītā as culminating in loving surrender (bhakti/prapatti) to the personal Lord Viṣṇu-Nārāyaṇa, treats individual souls and matter as the qualified 'body' of Brahman, and harmonizes karma, jñāna and bhakti yoga with bhakti as supreme.",
+    "history": "Rāmānuja, the principal systematizer of Viśiṣṭādvaita, wrote this alongside his Śrībhāṣya on the Brahmasūtra and the Vedārthasaṃgraha. The Gītābhāṣya became a defining devotional and philosophical statement for the Śrīvaiṣṇava tradition.",
+    "related_works": ["Bhagavadgītā", "Śrībhāṣya (Rāmānuja)", "Bhagavadgītābhāṣya (Śaṃkara)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ramanuja",
+      "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+    ]
+  },
+  {
+    "work_id": "GSP33bhgsbh",
+    "title": "Bhagavadgītābhāṣya",
+    "author": "Śaṃkara (Ādi Śaṅkarācārya)",
+    "tradition": "Hindu (Advaita Vedānta)",
+    "genre": "bhasya/commentary on the Bhagavadgītā",
+    "date_estimate": "c. early 8th c. CE (Śaṅkara, commonly c. 700-750 CE)",
+    "summary": "Śaṅkara's commentary on the Bhagavadgītā, the earliest extant complete Gītā bhāṣya. It reads the Gītā as teaching that liberation comes through knowledge of the non-dual self (jñāna) — with action and devotion as preparatory — and that the highest goal is realization of the identity of ātman and Brahman.",
+    "history": "Part of Śaṅkara's prasthānatrayī commentaries (Upaniṣads, Brahmasūtra, Gītā), it established the Gītā firmly within the Vedānta canon and set the terms for all later debate. The project's date hint (800-1099) is too late; Śaṅkara is normally placed c. 700-750 CE.",
+    "related_works": ["Bhagavadgītā", "Brahmasūtrabhāṣya (Śaṃkara)", "Bhagavadgītābhāṣya (Rāmānuja)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Adi_Shankara",
+      "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+    ]
+  },
+  {
+    "work_id": "GSP33brahms2u",
+    "title": "Brahmasūtra",
+    "author": "Bādarāyaṇa (Vyāsa, traditional)",
+    "tradition": "Hindu (Vedānta)",
+    "genre": "sutra (foundational aphorisms of Vedānta)",
+    "date_estimate": "c. 200 BCE - 200 CE (composite; often c. 1st-2nd c. CE in present form)",
+    "summary": "The Brahmasūtra (Vedāntasūtra) systematizes the teachings of the Upaniṣads into 555 terse aphorisms across four chapters, arguing that Brahman is the origin, sustenance and dissolution of the world and the goal of liberation. It coordinates conflicting Upaniṣadic statements, refutes rival systems (Sāṃkhya, Vaiśeṣika, Buddhism, Jainism), and treats meditation and the means to liberation. This record is one recension/copy of the root text.",
+    "history": "Attributed to Bādarāyaṇa, it is one of the prasthānatrayī and the single most commented-upon Vedānta text; its extreme brevity made commentary indispensable, spawning the divergent systems of Śaṅkara, Bhāskara, Rāmānuja, Madhva, Nimbārka, Vallabha and others.",
+    "related_works": ["Upaniṣads", "Bhagavadgītā", "Śārīrakabhāṣya (Śaṃkara)", "Śrībhāṣya (Rāmānuja)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brahma_Sutras"
+    ]
+  },
+  {
+    "work_id": "GSP33brahmsuu",
+    "title": "Brahmasūtra",
+    "author": "Bādarāyaṇa (Vyāsa, traditional)",
+    "tradition": "Hindu (Vedānta)",
+    "genre": "sutra (foundational aphorisms of Vedānta)",
+    "date_estimate": "c. 200 BCE - 200 CE (composite; often c. 1st-2nd c. CE in present form)",
+    "summary": "The foundational aphoristic text of Vedānta, organizing Upaniṣadic doctrine into four adhyāyas on the coordination of scripture (samanvaya), refutation of opposing views (avirodha), the means to realization (sādhana), and the fruit/liberation (phala). This entry is another recension/copy of the same root Brahmasūtra in the corpus.",
+    "history": "Bādarāyaṇa's sūtras are deliberately cryptic, presupposing oral exposition; the multiple copies in this corpus reflect different recensions or readings inherited from the various commentarial schools. It is the third pillar of the prasthānatrayī.",
+    "related_works": ["Upaniṣads", "Bhagavadgītā", "Brahmasūtra (other recensions)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brahma_Sutras"
+    ]
+  },
+  {
+    "work_id": "GSP33brasi",
+    "title": "Brahmasiddhi",
+    "author": "Maṇḍana Miśra",
+    "tradition": "Hindu (Advaita Vedānta)",
+    "genre": "philosophical treatise (independent prakaraṇa)",
+    "date_estimate": "c. 8th c. CE (Maṇḍana Miśra, roughly contemporary with Śaṅkara)",
+    "summary": "An independent Advaita treatise in four chapters (Brahmakāṇḍa, Tarkakāṇḍa, Niyogakāṇḍa, Siddhikāṇḍa) establishing the reality of non-dual Brahman. It develops a distinctive Advaita influenced by Maṇḍana's Mīmāṃsā background — including views on avidyā, the role of meditative knowledge, and the relation of injunction (niyoga) to liberating knowledge — that differ in emphasis from Śaṅkara's.",
+    "history": "Maṇḍana Miśra was a major early Advaitin, often associated in later legend with Sureśvara; his Brahmasiddhi represents an alternative strand of early Advaita and was commented upon by Vācaspati Miśra (Brahmatattvasamīkṣā) and others. It is important for tracing the internal diversity of early Advaita.",
+    "related_works": ["Brahmasūtra", "Upaniṣads", "Bhāmatī (Vācaspati Miśra)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ma%E1%B9%87%E1%B8%8Dana_Mi%C5%9Bra"
+    ]
+  },
+  {
+    "work_id": "GSP33brasunimu",
+    "title": "Brahmasūtra (Nimbārka) — Vedāntapārijātasaurabha",
+    "author": "Nimbārka (with Śrīnivāsa's Vedāntakaustubha)",
+    "tradition": "Hindu (Dvaitādvaita / Bhedābheda Vedānta, Nimbārka Sampradāya)",
+    "genre": "bhasya/commentary on the Brahmasūtra",
+    "date_estimate": "disputed; Nimbārka variously placed c. 7th c. CE or c. 12th-13th c. CE",
+    "summary": "Nimbārka's terse commentary on the Brahmasūtra, the Vedāntapārijātasaurabha, foundational for his Dvaitādvaita ('dualistic non-dualism' / svābhāvika-bhedābheda) school, which holds that soul and world are simultaneously and naturally both different from and non-different from Brahman (identified with Kṛṣṇa-Rādhā). His disciple Śrīnivāsa expanded it in the Vedāntakaustubha.",
+    "history": "Nimbārka's dating is much disputed — traditional and some scholarly accounts place him as early as the 7th c., while others put him in the 12th-13th c.; the question is unresolved. The Pārijātasaurabha and Kaustubha are the doctrinal core of the Nimbārka Sampradāya, edited and translated into English by Roma Bose.",
+    "related_works": ["Brahmasūtra", "Vedāntakaustubha (Śrīnivāsa)", "Daśaślokī (Nimbārka)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nimbarkacharya",
+      "https://archive.org/details/Vedanta-parijata-saurabhaOfNimbarkaAndVedanta-kaustubhaOfSrinivasa"
+    ]
+  }
+]

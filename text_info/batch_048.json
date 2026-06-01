@@ -1,0 +1,320 @@
+[
+  {
+    "work_id": "K12manjnspu",
+    "title": "Mañjuśrīnāmasaṃgīti",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayāna/Mahāyāna)",
+    "genre": "tantra / litany of names (nāmasaṃgīti)",
+    "date_estimate": "c. 8th c. CE",
+    "summary": "The 'Chanting of the Names of Mañjuśrī' is a celebrated tantric litany of roughly 160 verses (plus prose frame) in which the buddha-bodhisattva of wisdom, Mañjuśrī, is praised through long sequences of his names and epithets. The names equate Mañjuśrī with the ultimate reality (the gnosis-being Ādibuddha) and encode core doctrines of non-dual wisdom and the structure of the maṇḍala.",
+    "history": "An influential text foundational to later Indo-Tibetan tantra, traditionally drawn from the Māyājāla cycle and connected to the Guhyasamāja, Hevajra, Guhyagarbha and (especially) Kālacakra traditions; an early and authoritative commentary is attributed to Vilāsavajra (8th c.). It became one of the most recited and commented-upon texts of Tibetan Buddhism.",
+    "related_works": ["Māyājālatantra", "Kālacakratantra", "Guhyagarbhatantra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ma%C3%B1ju%C5%9Br%C4%ABn%C4%81masamg%C4%ABti",
+      "https://encyclopediaofbuddhism.org/wiki/Ma%C3%B1ju%C5%9Br%C4%ABn%C4%81masamg%C4%ABti"
+    ]
+  },
+  {
+    "work_id": "K12maricdhu",
+    "title": "Mārīcīnāmadhāraṇī",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna)",
+    "genre": "dhāraṇī (incantation text)",
+    "date_estimate": "c. 6th-8th c. CE",
+    "summary": "A dhāraṇī text dedicated to the goddess Mārīcī ('Ray of Light'), a deity of the dawn associated with light, invisibility and protection. The text supplies her protective incantation and the benefits of its recitation, used to shield the practitioner from enemies, dangers and obstacles.",
+    "history": "Mārīcī's cult is attested early: the earliest Chinese translations of her dhāraṇī date to the sixth century (Liang dynasty), and Śāntideva quotes her spell in the eighth-century Śikṣāsamuccaya; Amoghavajra (Bukong) produced further versions in the late 8th c. The dhāraṇī circulated widely and entered the Tibetan canon, where it is preserved among the works of many later authors.",
+    "related_works": ["Pañcarakṣā", "Śikṣāsamuccaya"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh988",
+      "https://en.m.wikipedia.org/wiki/Marici_(Buddhism)"
+    ]
+  },
+  {
+    "work_id": "K12mekhdh_u",
+    "title": "Mekhalā-dhāraṇī",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna)",
+    "genre": "dhāraṇī (incantation text)",
+    "date_estimate": "1st millennium CE (undetermined; likely mid-to-late)",
+    "summary": "A short Buddhist dhāraṇī text bearing the name Mekhalā ('girdle/belt'). Like other texts of its class, it presents a protective incantation together with a brief narrative frame and a statement of the merits and protective benefits gained by reciting it.",
+    "history": "A minor dhāraṇī preserved in the dhāraṇī/tantra sections of the Tibetan Kangyur and in Nepalese Sanskrit dhāraṇī compendia; its specific authorship, date and the precise identity of the 'Mekhalā' invoked are not securely established in scholarship.",
+    "related_works": ["Dhāraṇīsaṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/pancaraksha"
+    ]
+  },
+  {
+    "work_id": "K12mpratpru",
+    "title": "Mahāpratisarā-vidyārājñī [Mahāpratisarādhāraṇī(sūtra)]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna)",
+    "genre": "dhāraṇī-sūtra / vidyārājñī (queen of spells)",
+    "date_estimate": "c. 6th-7th c. CE (one of the Pañcarakṣā)",
+    "summary": "The 'Great Amulet, Queen of Spells' is the first and most prominent of the five protective dhāraṇīs of the Pañcarakṣā corpus. It comprises the dhāraṇī itself, enumerations of its benefits, and ritual instructions; the spell, often worn as an amulet, protects against sin, disease, evil influences, fire, weapons and calamity.",
+    "history": "Mahāpratisarā became deified as one of the five Pañcarakṣā goddesses. The earliest evidence for the 'Five Great Dhāraṇīs' grouping comes from Tibetan catalogues c. 800 CE, though the surviving Sanskrit Pañcarakṣā collection is known from manuscripts of the eleventh century onward; Chinese translations of Mahāpratisarā appear from the seventh-eighth centuries.",
+    "related_works": ["Pañcarakṣā", "Mahāmāyūrī", "Mahāsāhasrapramardanī", "Mahāmantrānusāriṇī", "Mahāśītavatī"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pa%C3%B1carak%E1%B9%A3%C4%81",
+      "https://www.wisdomlib.org/definition/mahapratisara"
+    ]
+  },
+  {
+    "work_id": "K12mprsvdhu",
+    "title": "Mahāpratisarāvidyādhāraṇī",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna)",
+    "genre": "dhāraṇī (incantation text)",
+    "date_estimate": "c. 6th-7th c. CE (Pañcarakṣā cycle)",
+    "summary": "A version/recension of the Mahāpratisarā ('Great Amulet') incantation, here transmitted under the title 'vidyā-dhāraṇī.' Like the related Mahāpratisarā texts it presents the protective spell of the goddess Mahāpratisarā together with its benefits, worn or recited as an apotropaic amulet against disease, evil and calamity.",
+    "history": "This is a parallel/variant transmission of the Mahāpratisarā material that belongs to the Pañcarakṣā ('Five Protections') group; the Tibetan Kangyur preserves multiple closely related recensions of Mahāpratisarā across its sūtra, tantra and dhāraṇī sections. The grouping is attested from c. 800 CE, with surviving Sanskrit witnesses from the eleventh century onward.",
+    "related_works": ["Mahāpratisarā-vidyārājñī", "Pañcarakṣā"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pa%C3%B1carak%E1%B9%A3%C4%81",
+      "https://www.wisdomlib.org/definition/mahapratisara"
+    ]
+  },
+  {
+    "work_id": "K12n220u",
+    "title": "Nārāyaṇaparipṛcchā āryamahāmāyāvijayavāhinī nāma dhāraṇī",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna)",
+    "genre": "dhāraṇī (incantation text), in paripṛcchā (question-and-answer) frame",
+    "date_estimate": "1st millennium CE (undetermined; likely mid-to-late)",
+    "summary": "A dhāraṇī titled 'The Noble Mahāmāyā-Vijayavāhinī (Victory-Bearing) Incantation,' framed as a 'request/question by Nārāyaṇa' (Nārāyaṇaparipṛcchā). The Buddha, in response to Nārāyaṇa's request, teaches a protective and victory-granting spell along with its powers and benefits.",
+    "history": "A short dhāraṇī preserved in the Tibetan Kangyur (paripṛcchā-framed dhāraṇī genre, in which a deity asks the Buddha for a protective formula). Its precise date and Indian provenance are not securely established; the 'Nārāyaṇa' frame reflects the absorption of Brahmanical deities as interlocutors in Buddhist spell-literature.",
+    "related_works": ["Dhāraṇīsaṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://84000.co/translation/toh526?part=introduction"
+    ]
+  },
+  {
+    "work_id": "K12n221u",
+    "title": "Ṣaṇmukhīdhāraṇī",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna)",
+    "genre": "dhāraṇī-sūtra (incantation text)",
+    "date_estimate": "1st millennium CE (undetermined; likely mid)",
+    "summary": "The 'Dhāraṇī of the Six Gates/Faces' (ṣaṇmukha, 'six-faced'). In it the Buddha teaches a dhāraṇī expressing six aspirations that counteract the causes of saṃsāric existence; practitioners are instructed to recite it three times by day and three times by night for purification and protection.",
+    "history": "A short canonical dhāraṇī (Tōh. 526) transmitted in several almost identical recensions distributed across the sūtra, tantra and dhāraṇī sections of the Tibetan Kangyurs of the Tshalpa group; in the Thempangma Kangyurs it appears only in the tantra section. Translated and studied by the 84000 project.",
+    "related_works": ["Dhāraṇīsaṃgraha"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh526?part=introduction",
+      "https://www.wisdomlib.org/definition/shanmukhi"
+    ]
+  },
+  {
+    "work_id": "K12n2920u",
+    "title": "Amoghapāśakalparāja Part VI",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna, Kriyā/early tantra)",
+    "genre": "tantra / ritual manual (kalpa)",
+    "date_estimate": "c. 7th-8th c. CE (composite; this portion within that range)",
+    "summary": "Part VI of the Amoghapāśakalparāja, the 'Sovereign Ritual Manual of the Unfailing Lasso,' a large tantric ritual compendium centered on Amoghapāśa, a lasso-bearing form of Avalokiteśvara. This section continues the work's extensive ritual program: mantras, maṇḍala construction, image-worship, fire-offerings (homa) and sādhana procedures for mundane and soteriological aims.",
+    "history": "The Amoghapāśakalparāja is regarded by modern scholars as a collection of originally independent Amoghapāśa ritual manuals later compiled into one large work; its components were translated into Chinese over a long span (e.g., 587, 659, 693, 707-709 CE), indicating a composite text of the 7th-8th centuries. The shorter Amoghapāśahṛdaya forms its opening core.",
+    "related_works": ["Amoghapāśakalparāja (whole)", "Amoghapāśahṛdaya-dhāraṇī", "Amoghapāśakalparāja Part VII"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.dsbcproject.org/canon-text/content/794/2922",
+      "https://en.wikipedia.org/wiki/Mantra_of_Light"
+    ]
+  },
+  {
+    "work_id": "K12n2922u",
+    "title": "Amoghapāśakalparāja Part VII",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna, Kriyā/early tantra)",
+    "genre": "tantra / ritual manual (kalpa)",
+    "date_estimate": "c. 7th-8th c. CE (composite; this portion within that range)",
+    "summary": "Part VII of the Amoghapāśakalparāja, continuing the great ritual cycle of Amoghapāśa Avalokiteśvara. Like the preceding sections it sets out detailed liturgical instructions—mantra recitation, maṇḍala and altar construction, offerings, mudrās and rites for protection, healing, prosperity and liberation.",
+    "history": "One division of the composite Amoghapāśakalparāja, assembled from independently circulating Amoghapāśa ritual manuals and transmitted via the Digital Sanskrit Buddhist Canon and the Tibetan/Chinese canons. The whole reflects the developed Avalokiteśvara spell-and-ritual literature of the 7th-8th centuries CE.",
+    "related_works": ["Amoghapāśakalparāja (whole)", "Amoghapāśahṛdaya-dhāraṇī", "Amoghapāśakalparāja Part VI"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.dsbcproject.org/canon-text/content/794/2922",
+      "https://www.scribd.com/document/455685391/AMOGHAP%C4%80%C5%9AAKALPAR%C4%80JA-PART-VII"
+    ]
+  },
+  {
+    "work_id": "K12n2949u",
+    "title": "Dhāraṇīsaṃgraha",
+    "author": "anonymous/traditional (compilation)",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna)",
+    "genre": "anthology/compendium of dhāraṇīs",
+    "date_estimate": "1st millennium CE onward (compilation; manuscripts later)",
+    "summary": "A 'Collection of Dhāraṇīs'—an anthology gathering numerous protective and ritual incantations associated with various buddhas, bodhisattvas and deities into a single compendium. Such collections served as practical liturgical handbooks supplying spells for protection, healing, longevity, merit and ritual use.",
+    "history": "Dhāraṇīsaṃgraha is a generic title for compiled spell-collections that circulated widely in Indian, Nepalese and Tibetan Buddhism (and in Chinese/Korean parallels such as the Odae chinŏn). The contents and ordering vary by manuscript and tradition; individual dhāraṇīs within it span the whole 1st millennium CE, while the assembled collections are generally attested in later manuscripts.",
+    "related_works": ["Pañcarakṣā", "Ṣaṇmukhīdhāraṇī", "Mārīcīnāmadhāraṇī"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.mdpi.com/2077-1444/14/1/8",
+      "https://cudl.lib.cam.ac.uk/view/MS-OR-01811/1"
+    ]
+  },
+  {
+    "work_id": "K12n2990u",
+    "title": "Āryaśrīgrahamātṛkā nāma dhāraṇī",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna, astral/planetary cult)",
+    "genre": "dhāraṇī (incantation text)",
+    "date_estimate": "latter half of 1st millennium CE",
+    "summary": "The 'Noble Glorious Grahamātṛkā Dhāraṇī'—an incantation invoking the 'Mother of the Planets/Astral Deities' (Grahamātṛkā). It provides a ritual framework with mantras, visualizations and offerings to the nine planets (navagraha) and astral powers, recited for longevity, safety and protection against malefic astral influences.",
+    "history": "The Grahamātṛkādhāraṇī was popular in North India, Central Asia, Nepal and Tibet in the latter half of the first millennium and represents the integration of Brahmanical planetary worship into Buddhism. The dhāraṇī was itself deified as the goddess Grahamātṛkā (by the early 14th c. at the latest), with related maṇḍalas appearing in China in the 12th-13th centuries; the practice survives among Newar Buddhists.",
+    "related_works": ["Navagraha cult texts", "Dhāraṇīsaṃgraha"],
+    "confidence": "high",
+    "sources": [
+      "http://www.shin-ibs.edu/documents/pwj3-20/2.6_Mak.pdf",
+      "https://www.academia.edu/39342662/The_Transmission_of_the_Graham%C4%81t%E1%B9%9Bk%C4%81dh%C4%81ra%E1%B9%87%C4%AB_and_Other_Buddhist_Planetary_Astral_Texts"
+    ]
+  },
+  {
+    "work_id": "K12namekvsu",
+    "title": "Namaskāraikaviṃśatistotra [Namastāre-ekaviṃśatistotraguṇasahita / Tārā-ekaviṃśatistotra]",
+    "author": "anonymous/traditional (revealed; ascribed to the Buddha/Tārā cycle)",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna)",
+    "genre": "stotra (hymn of praise) with embedded dhāraṇī",
+    "date_estimate": "c. 7th-8th c. CE",
+    "summary": "The famous 'Twenty-One Homages to Tārā' (Praise in Twenty-One Verses of Homage), a liturgy of twenty-one verses, each beginning with namo, praising twenty-one forms/aspects of the savioress goddess Tārā by describing her attributes and protective powers, framed by an invocation and a concluding statement of the benefits of recitation. The mantra oṃ tāre tuttāre ture svāhā and seed-syllables are embedded in it.",
+    "history": "One of the most widely recited Buddhist devotions, traditionally drawn from Tārā's tantric corpus and transmitted in Sanskrit and Tibetan (Tōh. 438). It is foundational to the cult of the Twenty-One Tārās across Indo-Tibetan and Newar Buddhism and has generated extensive commentarial and ritual literature.",
+    "related_works": ["Tārā-tantra cycle", "Tārābhaṭṭārikānāmāṣṭottaraśatakastotra"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh438",
+      "https://www.lotsawahouse.org/words-of-the-buddha/twenty-one-tara-praise"
+    ]
+  },
+  {
+    "work_id": "K12prajnhsu",
+    "title": "Prajñāpāramitā-hṛdaya-sūtra [Prajñāpāramitāhṛdayasūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna, Prajñāpāramitā/Madhyamaka)",
+    "genre": "sūtra (Perfection of Wisdom scripture)",
+    "date_estimate": "c. 7th c. CE (Sanskrit; disputed — Conze argued c. 350 CE, Nattier argues a Chinese origin)",
+    "summary": "The 'Heart of the Perfection of Wisdom Sūtra,' the famous short distillation of Prajñāpāramitā teaching. Avalokiteśvara expounds to Śāriputra the emptiness (śūnyatā) of the five aggregates—'form is emptiness, emptiness is form'—negating the categories of the Abhidharma and culminating in the celebrated mantra gate gate pāragate pārasaṃgate bodhi svāhā.",
+    "history": "The most popular and widely recited Mahāyāna scripture. Edward Conze dated the Sanskrit original to c. 350 CE, but Jan Nattier's influential 1992 study argues the short text was first composed in China (largely from Kumārajīva's translation of the Pañcaviṃśatisāhasrikā/Mahāprajñāpāramitā-upadeśa) and later back-translated into Sanskrit; the theory remains debated. The Hōryū-ji manuscript (609 CE) and Xuanzang's version anchor the 7th-century horizon.",
+    "related_works": ["Prajñāpāramitā sūtras (Aṣṭasāhasrikā, Pañcaviṃśatisāhasrikā)", "Mahāprajñāpāramitā-upadeśa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Heart_Sutra",
+      "http://jayarava.blogspot.com/2018/01/the-chinese-origins-of-heart-sutra.html"
+    ]
+  },
+  {
+    "work_id": "K12sarvttsu",
+    "title": "Sarvatathāgatatattvasaṅgraha [Sarvatathāgatatattvasaṃgraha]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayāna, Yogatantra)",
+    "genre": "tantra (root yogatantra)",
+    "date_estimate": "late 7th c. CE",
+    "summary": "The 'Compendium of the Reality (tattva) of All Tathāgatas,' the root scripture of the Yogatantra class. It narrates the awakening of Sarvārthasiddhi/Vajradhātu and sets out the Vajradhātu maṇḍala of the five Buddha families, with their deities, mudrās, mantras and consecration rites, systematizing mature tantric ritual and the path to buddhahood in this life.",
+    "history": "Composed in the late decades of the 7th century, the Sarvatathāgatatattvasaṃgraha (also called the Tattvasaṃgraha Tantra) marks the emergence of fully developed Indian Buddhist tantra and became central to the Yogatantra traditions of India, Tibet, China, Japan (Shingon) and Sumatra, spawning a large body of commentarial and ritual literature. It is distinct from Śāntarakṣita's philosophical Tattvasaṃgraha.",
+    "related_works": ["Vajraśekhara cycle", "Tattvasaṃgraha Tantra (= same)", "Sarvadurgatipariśodhana Tantra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tattvasa%E1%B9%83graha_Tantra",
+      "https://encyclopediaofbuddhism.org/wiki/Sarvatath%C4%81gatatattvasa%E1%B9%83graha"
+    ]
+  },
+  {
+    "work_id": "K12sdurst_u",
+    "title": "Sarvadurgatipariśodhana Tantra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayāna, Yogatantra)",
+    "genre": "tantra (yogatantra)",
+    "date_estimate": "c. late 7th-8th c. CE",
+    "summary": "The 'Tantra for the Purification of All Evil/Negative Destinies,' a Yogatantra presented as discourses between an assembly of gods and Śākyamuni. Centered on the deity Sarvavid Vairocana and his maṇḍala, it teaches initiation, sādhana and ritual—especially funerary and apotropaic rites—to purify karma and rescue beings from rebirth in the lower realms (durgati).",
+    "history": "A widely used yogatantra long associated with funerary practice across Tibetan, Newar and East Asian Buddhism; edited and translated by Tadeusz Skorupski (1983). It belongs to the same generative phase of Yogatantra as the Sarvatathāgatatattvasaṃgraha (late 7th-8th c.) and exists in multiple recensions reflecting transformations of its funerary ritual manuals.",
+    "related_works": ["Sarvatathāgatatattvasaṃgraha", "Vairocana/Yogatantra cycle"],
+    "confidence": "high",
+    "sources": [
+      "https://journals.openedition.org/ebhr/740",
+      "https://books.google.com/books/about/The_Sarvadurgatipari%C5%9Bodhana_Tantra.html?id=Z_kGAAAAYAAJ"
+    ]
+  },
+  {
+    "work_id": "K12tarb108u",
+    "title": "Tārābhaṭṭārikānāmāṣṭottaraśatakastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna)",
+    "genre": "stotra (hymn) / nāmāṣṭottaraśataka (108 names)",
+    "date_estimate": "latter half of 1st millennium CE",
+    "summary": "The 'Hymn of the One Hundred and Eight Names of the Noble Lady Tārā' (Āryatārābhaṭṭārikā), a litany praising the savioress goddess Tārā through 108 names/epithets, recited for protection, blessing and the removal of fears and obstacles. (Within the Buddhist Kangyur context; distinct from the separate Hindu/Śākta 108-names of the Mahāvidyā Tārā found in the Tantras.)",
+    "history": "A canonical Buddhist Tārā praise transmitted in Sanskrit and Tibetan within the Tārā devotional corpus that flourished from the latter half of the first millennium. It accompanies the broader cult of Tārā alongside the 'Twenty-One Homages,' and belongs to the popular nāmāṣṭottaraśataka ('108 names') genre of stotra literature.",
+    "related_works": ["Namaskāraikaviṃśatistotra (Twenty-One Homages to Tārā)", "Tārā-tantra cycle"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.himalayanart.org/search/set.cfm?setID=6804",
+      "https://84000.co/translation/toh438"
+    ]
+  },
+  {
+    "work_id": "K12vajvidhu",
+    "title": "Vajravidāraṇī-dhāraṇī",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna)",
+    "genre": "dhāraṇī (incantation text)",
+    "date_estimate": "1st millennium CE (undetermined; likely mid)",
+    "summary": "The dhāraṇī of Vajravidāraṇa ('the Vajra that demolishes/conquers'), a purificatory and protective incantation. It opens with homage to all buddhas and bodhisattvas and employs forceful imperative syllables (hara hara 'remove,' chinda chinda 'cut') to destroy grahas, subdue hostile spells and forces, purify obscurations of body, speech and mind, and protect beings.",
+    "history": "A widely used purification dhāraṇī (associated with the deity Vajravidāraṇa / Dorje Namjom) preserved in the Tibetan canon and Nepalese dhāraṇī collections (it appears among the spells anthologized in Pañcarakṣā/Saptavāra manuscripts). It became the basis of an independent sādhana practice for swift purification and clearing of obstacles.",
+    "related_works": ["Vajravidāraṇā-dhāraṇī (variant)", "Dhāraṇīsaṃgraha"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh750",
+      "https://cudl.lib.cam.ac.uk/view/MS-OR-01811/1"
+    ]
+  },
+  {
+    "work_id": "K12vjviddhu",
+    "title": "Vajravidāraṇā-dhāraṇī",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna)",
+    "genre": "dhāraṇī (incantation text)",
+    "date_estimate": "1st millennium CE (undetermined; likely mid)",
+    "summary": "A recension/spelling-variant of the Vajravidāraṇa purification dhāraṇī (the title varies between Vajravidāraṇī and Vajravidāraṇā). It conveys the same protective and purificatory incantation of the wrathful 'Vajra Conqueror,' using imperative mantra-commands to cut and remove obstacles, demonic forces and karmic obscurations.",
+    "history": "This is essentially a parallel transmission of the same text as Vajravidāraṇī-dhāraṇī; multiple closely related recensions of the Vajravidāraṇa spell circulate in the Tibetan canon and in Nepalese Sanskrit dhāraṇī compendia (Pañcarakṣā/Saptavāra manuscripts, etc.).",
+    "related_works": ["Vajravidāraṇī-dhāraṇī (variant)", "Dhāraṇīsaṃgraha"],
+    "confidence": "high",
+    "sources": [
+      "https://84000.co/translation/toh750",
+      "https://www.termatree.com/blogs/termatree/the-vajra-conqueror-vajravidarana-buddhist-purification-and-protection-practice"
+    ]
+  },
+  {
+    "work_id": "K12Xbsu017_u",
+    "title": "Hayagrīvavidyā",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna/Vajrayāna)",
+    "genre": "vidyā / dhāraṇī (spell text)",
+    "date_estimate": "1st millennium CE (undetermined; likely mid-to-late)",
+    "summary": "A vidyā ('spell') text of Hayagrīva, the horse-necked wrathful deity (a fierce emanation of Avalokiteśvara/Amitābha). The text supplies his protective and subjugating incantation, used to subdue demonic obstacles, hostile forces and karmic hindrances, and to safeguard the practitioner.",
+    "history": "Hayagrīva is a prominent wrathful Vidyārāja of the Lotus (Padma) family who appears across all tantric classes (Kriyā, Caryā, Yoga, Anuttarayoga) as both yidam and dharmapāla. His spell-texts circulated within the broader Avalokiteśvara cult and entered the Tibetan and East Asian canons; the precise date of this particular vidyā is not securely fixed.",
+    "related_works": ["Amoghapāśakalparāja", "Avalokiteśvara dhāraṇī cycle"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hayagriva_(Buddhism)",
+      "https://encyclopediaofbuddhism.org/wiki/Hayagriva"
+    ]
+  },
+  {
+    "work_id": "K14ahovk1_u",
+    "title": "Ahorātravratakathā 1",
+    "author": "anonymous/traditional",
+    "tradition": "Indic (Hindu or Jain; vrata/devotional literature) — uncertain",
+    "genre": "vratakathā (vow-observance narrative)",
+    "date_estimate": "undetermined (likely later medieval / 2nd millennium CE)",
+    "summary": "A 'vow-story' (vratakathā) concerning the ahorātra ('day-and-night') observance — i.e., a one-day-and-night vow/fast. Texts of this genre narrate the origin, procedure, and rewards of a particular religious vow, typically through an illustrative legend that motivates the observance and details its ritual and its merit.",
+    "history": "Vratakathā literature is a popular devotional genre (prominent in both Hindu and Jain traditions) prescribing vows with accompanying explanatory tales. The specific text, its sectarian affiliation, author and date are not securely identifiable from available evidence; the 'K14' grouping and '1' suggest it is one item in a set of such vrata-narratives. Identification is tentative.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vrata",
+      "https://www.britannica.com/topic/Jain-vrata"
+    ]
+  }
+]

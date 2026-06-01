@@ -1,0 +1,315 @@
+[
+  {
+    "work_id": "T06pskvbhu",
+    "title": "Pañcaskandhakavibhāṣā",
+    "author": "Sthiramati",
+    "tradition": "Buddhist (Mahayana, Yogacara/Vijnanavada; Abhidharma)",
+    "genre": "bhasya (commentary)",
+    "date_estimate": "c. 6th c. CE",
+    "summary": "An extensive Yogacara commentary on Vasubandhu's Pañcaskandhaka(prakaraṇa), a concise Abhidharma analysis of the five aggregates (skandhas) that constitute the person—form, feeling, perception, formations, and consciousness. Sthiramati expands on the technical terminology and classifications of mental factors (caitta), the storehouse consciousness, and the categories of phenomena from a Yogacara standpoint.",
+    "history": "Written by the great Yogacara scholiast Sthiramati (c. 510-570 CE), it is one of the few Yogacara Abhidharma works surviving in the original Sanskrit, recovered from manuscripts in the Tibet Autonomous Region and edited critically by Jowita Kramer. It is a key source for early Yogacara technical vocabulary, previously known mainly through its Tibetan translation.",
+    "related_works": ["Pañcaskandhaka (Pañcaskandhaprakaraṇa)", "Triṃśikāvijñaptibhāṣya", "Madhyāntavibhāgaṭīkā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.oeaw.ac.at/en/ikga/publikationen/reihen/sanskrit-texts-from-the-tibetan-autonomous-region-sttar/sthiramatis-pancaskandhakavibhasa",
+      "https://en.wikipedia.org/wiki/Sthiramati"
+    ]
+  },
+  {
+    "work_id": "T06sthtvbh",
+    "title": "Triṃśikāvijñaptibhāṣya [Triṃśikābhāṣya]",
+    "author": "Sthiramati",
+    "tradition": "Buddhist (Mahayana, Yogacara/Vijnanavada)",
+    "genre": "bhasya (commentary)",
+    "date_estimate": "c. 6th c. CE",
+    "summary": "Sthiramati's prose commentary on Vasubandhu's Triṃśikā ('Thirty Verses on Consciousness-Only'), the foundational Yogacara verse treatise on cognition-only (vijñaptimātratā). It elucidates the doctrine of the three transformations of consciousness (the store-consciousness ālayavijñāna, the afflicted mind manas, and the six sense-consciousnesses), the three natures (trisvabhāva), and the path to the cessation of conceptual construction.",
+    "history": "Composed by Sthiramati (c. 510-570 CE), it became the most influential Indian commentary on the Triṃśikā. The Sanskrit manuscript of the Triṃśikā together with Sthiramati's commentary was discovered by Sylvain Lévi in Nepal in the 1920s and published in 1925, making the Sanskrit text directly available to scholarship.",
+    "related_works": ["Triṃśikāvijñaptikārikā (Vasubandhu)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tri%E1%B9%83%C5%9Bik%C4%81-vij%C3%B1aptim%C4%81trat%C4%81",
+      "https://link.springer.com/article/10.1007/s10781-016-9300-4"
+    ]
+  },
+  {
+    "work_id": "T06bsa022",
+    "title": "Viṃśatikā vijñaptimātratāsiddhi [Viṃśikāvṛtti] kārikā",
+    "author": "Vasubandhu",
+    "tradition": "Buddhist (Mahayana, Yogacara/Vijnanavada)",
+    "genre": "karika (root verses)",
+    "date_estimate": "c. 4th-5th c. CE",
+    "summary": "The root verses (kārikā) of Vasubandhu's Viṃśatikā ('Twenty Verses Establishing Consciousness-Only'). This brief work argues for the idealist Yogacara thesis that cognition is 'mere representation' (vijñaptimātra), rebutting realist objections about the apparent externality, spatiotemporal determination, intersubjectivity, and causal efficacy of objects without positing mind-independent external entities.",
+    "history": "Attributed to Vasubandhu (c. 4th-5th c. CE), this entry isolates the verses themselves as distinct from the accompanying auto-commentary (vṛtti). The Viṃśatikā together with its vṛtti is one of the classic statements of Yogacara idealism and was transmitted in Sanskrit, Tibetan, and Chinese.",
+    "related_works": ["Viṃśatikā vijñaptimātratāsiddhi [Viṃśikāvṛtti]", "Triṃśikāvijñaptikārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vasubandhu",
+      "https://en.wikipedia.org/wiki/Tri%E1%B9%83%C5%9Bik%C4%81-vij%C3%B1aptim%C4%81trat%C4%81"
+    ]
+  },
+  {
+    "work_id": "T06vasvvmsu",
+    "title": "Viṃśatikā vijñaptimātratāsiddhi [Viṃśikāvṛtti]",
+    "author": "Vasubandhu",
+    "tradition": "Buddhist (Mahayana, Yogacara/Vijnanavada)",
+    "genre": "vṛtti (auto-commentary) with verses",
+    "date_estimate": "c. 4th-5th c. CE",
+    "summary": "Vasubandhu's 'Twenty Verses Establishing Consciousness-Only' together with his own prose commentary (vṛtti). The work defends the Yogacara position that the world is cognition-only by answering four standard objections to idealism and offering the famous dream and collective-karma analogies, concluding with reflections on knowledge of other minds.",
+    "history": "Composed by Vasubandhu (c. 4th-5th c. CE), one of the two great founders of the Yogacara school alongside his half-brother Asanga. The Viṃśatikā with its vṛtti is a cornerstone of Buddhist idealist philosophy and was widely commented upon in India, Tibet, and East Asia.",
+    "related_works": ["Triṃśikāvijñaptikārikā", "Vimsatika karika"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vasubandhu"
+    ]
+  },
+  {
+    "work_id": "T06vmvkbh_u",
+    "title": "Madhyāntavibhāgabhāṣya [Madhyāntavibhāgakārikābhāṣya]",
+    "author": "Vasubandhu",
+    "tradition": "Buddhist (Mahayana, Yogacara)",
+    "genre": "bhasya (commentary)",
+    "date_estimate": "c. 4th-5th c. CE",
+    "summary": "Vasubandhu's prose commentary on the Madhyāntavibhāga ('Distinguishing the Middle from the Extremes'), a verse treatise traditionally ascribed to Maitreya(natha)/Asanga. It expounds core Yogacara doctrines including the unreal imagination (abhūtaparikalpa), emptiness, the three natures, the obscurations, the constituents of awakening, and the supreme vehicle, framed as the Buddhist 'middle way' between reification and nihilism.",
+    "history": "Vasubandhu (c. 4th-5th c. CE) supplied the bhāṣya on the kārikās of the Maitreya/Asanga corpus; Sthiramati later wrote a sub-commentary (ṭīkā). The text survives in a single Sanskrit manuscript found in Tibet (edited by G. M. Nagao) as well as in Tibetan and Chinese, and is a central source for the Yogacara treatment of emptiness.",
+    "related_works": ["Madhyāntavibhāgakārikā (Maitreya/Asanga)", "Madhyāntavibhāgaṭīkā (Sthiramati)"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Madhy%C4%81ntavibh%C4%81ga",
+      "https://en.wikipedia.org/wiki/Madhyanta-vibhaga-karika"
+    ]
+  },
+  {
+    "work_id": "T07hvsatssu",
+    "title": "Satyasiddhiśāstra [Tattvasiddhiśāstra]",
+    "author": "Harivarman",
+    "tradition": "Buddhist (Abhidharma; bridging Sravakayana and Mahayana, associated with Bahusrutiya/Sautrantika tendencies)",
+    "genre": "philosophical treatise (sastra)",
+    "date_estimate": "c. early 4th c. CE (composed c. 250-350)",
+    "summary": "A systematic Abhidharma treatise in some 202 chapters organized around the Four Noble Truths, expounding doctrine with an emphasis on the emptiness (śūnyatā) of both persons and dharmas and the unreality of phenomena at the ultimate level. It critiques Sarvastivada/Vaibhasika positions and is regarded as a philosophical bridge between mainstream and Mahayana Buddhism.",
+    "history": "Authored by Harivarman (c. 250-350 CE), a central Indian Brahmin convert. The Indic original is lost; the text survives only in Kumārajīva's Chinese translation (made 411-412 CE), where it became the basis of the East Asian Chengshi (Satyasiddhi/Jojitsu) school.",
+    "related_works": ["Abhidharmakośabhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tattvasiddhi",
+      "https://www.britannica.com/topic/Satyasiddhi-sastra"
+    ]
+  },
+  {
+    "work_id": "T06sthmavtyg",
+    "title": "Madhyāntavibhāgaṭīkā (Yamaguchi)",
+    "author": "Sthiramati",
+    "tradition": "Buddhist (Mahayana, Yogacara)",
+    "genre": "tika (sub-commentary)",
+    "date_estimate": "c. 6th c. CE",
+    "summary": "Sthiramati's sub-commentary (ṭīkā) on the Madhyāntavibhāga and Vasubandhu's bhāṣya, here in the edition prepared by Susumu Yamaguchi (published 1934). It elaborates the Yogacara analysis of unreal imagination, emptiness, the three natures, and the path, glossing both verses and Vasubandhu's prose in detail.",
+    "history": "This record designates the Yamaguchi recension/edition of Sthiramati's (c. 510-570 CE) ṭīkā, the standard early critical edition of the Sanskrit text. Yamaguchi's edition has long served as the basis for scholarly study of the work alongside the kārikā and bhāṣya.",
+    "related_works": ["Madhyāntavibhāgakārikā (Maitreya/Asanga)", "Madhyāntavibhāgabhāṣya (Vasubandhu)", "Madhyāntavibhāgaṭīkā"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Madhy%C4%81ntavibh%C4%81ga",
+      "https://en.wikipedia.org/wiki/Sthiramati"
+    ]
+  },
+  {
+    "work_id": "T06sthmavt",
+    "title": "Madhyāntavibhāgaṭīkā",
+    "author": "Sthiramati",
+    "tradition": "Buddhist (Mahayana, Yogacara)",
+    "genre": "tika (sub-commentary)",
+    "date_estimate": "c. 6th c. CE",
+    "summary": "Sthiramati's sub-commentary on the Madhyāntavibhāga and its bhāṣya, providing a word-by-word exposition of the Yogacara 'middle way' between extremes. It treats the unreal imagination, the three natures, emptiness in its various aspects, the defilements and their removal, and the stages and factors of the path.",
+    "history": "Composed by Sthiramati (c. 510-570 CE), the most prolific commentator of the early Yogacara tradition. The ṭīkā survives in Sanskrit (edited by Yamaguchi and later scholars) as well as Tibetan, and is one of the principal witnesses to the Maitreya/Asanga-Vasubandhu textual layer.",
+    "related_works": ["Madhyāntavibhāgakārikā (Maitreya/Asanga)", "Madhyāntavibhāgabhāṣya (Vasubandhu)"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Madhy%C4%81ntavibh%C4%81ga",
+      "https://openresearch-repository.anu.edu.au/items/2b4d35ef-35c1-49c5-9b97-52723b2c1297"
+    ]
+  },
+  {
+    "work_id": "T06sthmavt1",
+    "title": "Madhyāntavibhāgaṭīkā Chapter 1",
+    "author": "Sthiramati",
+    "tradition": "Buddhist (Mahayana, Yogacara)",
+    "genre": "tika (sub-commentary)",
+    "date_estimate": "c. 6th c. CE",
+    "summary": "The first chapter (lakṣaṇa-pariccheda, 'Defining Characteristics') of Sthiramati's Madhyāntavibhāgaṭīkā. This chapter sets out the foundational Yogacara analysis of the unreal imagination (abhūtaparikalpa) and emptiness, establishing that imagination exists but the subject-object duality within it does not, while emptiness exists within the imagination.",
+    "history": "An excerpt of Sthiramati's (c. 510-570 CE) sub-commentary corresponding to the opening chapter of the Madhyāntavibhāga. The first chapter is the most philosophically central, articulating the relation between abhūtaparikalpa, duality, and emptiness that defines Yogacara's middle path.",
+    "related_works": ["Madhyāntavibhāgaṭīkā", "Madhyāntavibhāgabhāṣya (Vasubandhu)", "Madhyāntavibhāgakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/Madhy%C4%81ntavibh%C4%81ga"
+    ]
+  },
+  {
+    "work_id": "T07vakobhau1",
+    "title": "Abhidharmakośabhāṣya Chapter 1",
+    "author": "Vasubandhu",
+    "tradition": "Buddhist (Sarvastivada/Vaibhasika exposition critiqued from a Sautrantika perspective)",
+    "genre": "bhasya (auto-commentary)",
+    "date_estimate": "c. 4th-5th c. CE",
+    "summary": "The first chapter (Dhātunirdeśa, 'Exposition of the Elements') of Vasubandhu's prose commentary on his Abhidharmakośa. It introduces the basic Abhidharma categories—the conditioned and unconditioned dharmas, the five aggregates (skandha), twelve sense-bases (āyatana), and eighteen elements (dhātu)—and their classifications and interrelations.",
+    "history": "Part of Vasubandhu's (c. 4th-5th c. CE) magnum opus of systematic Abhidharma. The opening chapter lays the taxonomic foundation for the entire work; it survives in the original Sanskrit (recovered by Rāhula Sāṅkṛtyāyana in Tibet) as well as Tibetan and two Chinese translations.",
+    "related_works": ["Abhidharmakośakārikā", "Abhidharmakośabhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhidharmako%C5%9Ba-bh%C4%81sya",
+      "https://en.wikipedia.org/wiki/Vasubandhu"
+    ]
+  },
+  {
+    "work_id": "T07vakobhau",
+    "title": "Abhidharmakośabhāṣya",
+    "author": "Vasubandhu",
+    "tradition": "Buddhist (Sarvastivada/Vaibhasika material critiqued from a Sautrantika standpoint)",
+    "genre": "bhasya (auto-commentary)",
+    "date_estimate": "c. 4th-5th c. CE",
+    "summary": "Vasubandhu's prose auto-commentary on his own Abhidharmakośa verses, a comprehensive synthesis of Sarvastivada-Vaibhasika Abhidharma across eight chapters covering the elements, faculties, cosmology and karma, latent defilements, the path and persons, knowledge, meditative attainments, and (with the appended ninth section) the refutation of the self. Vasubandhu frequently critiques Vaibhasika orthodoxy from a Sautrantika viewpoint.",
+    "history": "Composed by Vasubandhu (c. 4th-5th c. CE), it is among the most influential Abhidharma works in Buddhist history, foundational for both Tibetan and East Asian scholastic traditions. The Sanskrit text, long thought lost, was rediscovered in Tibet in the 20th century; the Vaibhasika master Saṅghabhadra wrote a rebuttal accusing Vasubandhu of misrepresenting Vaibhasika positions.",
+    "related_works": ["Abhidharmakośakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhidharmako%C5%9Ba-bh%C4%81sya",
+      "https://encyclopediaofbuddhism.org/wiki/Abhidharmako%C5%9Ba"
+    ]
+  },
+  {
+    "work_id": "T07vakobhau9",
+    "title": "Abhidharmakośabhāṣya Chapter 9",
+    "author": "Vasubandhu",
+    "tradition": "Buddhist (Abhidharma; Sautrantika-leaning)",
+    "genre": "bhasya (auto-commentary)",
+    "date_estimate": "c. 4th-5th c. CE",
+    "summary": "The ninth section of the Abhidharmakośabhāṣya, the Pudgalanirdeśa ('Refutation of the Person/Self'), an appended prose treatise without root verses. It argues against the existence of a substantial self or person, polemicizing especially against the Buddhist Pudgalavadins (Vatsiputriyas) and against Brahmanical (Nyaya-Vaisesika) theories of the soul.",
+    "history": "This chapter is a self-contained polemical essay added by Vasubandhu (c. 4th-5th c. CE) to the Kośa, often studied independently as a classic statement of the Buddhist no-self doctrine. It survives in Sanskrit, Tibetan, and Chinese and has been separately edited and translated (e.g., by Stcherbatsky and others).",
+    "related_works": ["Abhidharmakośabhāṣya", "Abhidharmakośakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhidharmako%C5%9Ba-bh%C4%81sya"
+    ]
+  },
+  {
+    "work_id": "T07vakobhk",
+    "title": "Abhidharmakośakārikā",
+    "author": "Vasubandhu",
+    "tradition": "Buddhist (Sarvastivada/Vaibhasika Abhidharma)",
+    "genre": "karika (root verses)",
+    "date_estimate": "c. 4th-5th c. CE",
+    "summary": "The root verses (about 600 kārikās in eight chapters) of Vasubandhu's 'Treasury of Abhidharma,' summarizing Sarvastivada-Vaibhasika Abhidharma doctrine: the dharma taxonomy, faculties, cosmology and karma, defilements, the path, knowledge, and meditative absorptions. The verses present the orthodox Vaibhasika system that the accompanying bhāṣya then critiques.",
+    "history": "Composed by Vasubandhu (c. 4th-5th c. CE), the kārikā became a standard textbook of Abhidharma memorized across Buddhist Asia. It survives in Sanskrit, Tibetan, and Chinese and attracted numerous commentaries, including those of Yasomitra, Sthiramati, and Purnavardhana.",
+    "related_works": ["Abhidharmakośabhāṣya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhidharmako%C5%9Ba-bh%C4%81sya",
+      "https://handwiki.org/wiki/Religion:Abhidharmako%C5%9Bak%C4%81rik%C4%81"
+    ]
+  },
+  {
+    "work_id": "T09hjatm",
+    "title": "Jātakamālā",
+    "author": "Haribhaṭṭa",
+    "tradition": "Buddhist (Mahayana)",
+    "genre": "kavya (ornate poetry); jataka narrative anthology",
+    "date_estimate": "c. early 5th c. CE",
+    "summary": "A 'garland' of thirty-four jātaka tales recounting the previous lives of the Buddha as a bodhisattva—born as humans, animals, and even as Indra—each illustrating a perfection or virtue. Composed in elegant champu style (mixed verse and prose) in high kāvya Sanskrit, it follows the model of Aryasura's earlier Jātakamālā.",
+    "history": "Haribhaṭṭa is thought to have lived in or near Kashmir in the early fifth century CE. The complete work survives in Tibetan translation; only part of the original Sanskrit (some fourteen of the stories) is preserved. It is prized as a refined example of Buddhist narrative kāvya.",
+    "related_works": ["Jātakamālā (Aryasura)"],
+    "confidence": "high",
+    "sources": [
+      "https://encyclopediaofbuddhism.org/wiki/J%C4%81takam%C4%81l%C4%81",
+      "https://jatakastories.div.ed.ac.uk/textual-collections/haribhattas-jatakamala"
+    ]
+  },
+  {
+    "work_id": "T17bsa007_u",
+    "title": "Dharmasaṃgraha",
+    "author": "attributed to Nāgārjuna (traditional; authorship uncertain)",
+    "tradition": "Buddhist (Mahayana)",
+    "genre": "lexicon/glossary of doctrinal terms (numerical categories)",
+    "date_estimate": "uncertain; 1st millennium CE (text as preserved likely later than the historical Nagarjuna)",
+    "summary": "A compact Buddhist glossary enumerating sets of technical terms organized by number—lists of categories such as the perfections, powers, kinds of knowledge, marks of a Buddha, and so on. It functions as a reference handbook (a 'numerical dharma' compendium) rather than a discursive treatise.",
+    "history": "Traditionally ascribed to Nāgārjuna, though this attribution is doubtful and the work is essentially a compilation. The Sanskrit original is preserved (edited by Kenjiu Kasawara, Max Müller, and H. Wenzel, 1885); roughly half its terms overlap with the Dharmasarira-sutra fragments found in Central Asia.",
+    "related_works": ["Mahāvyutpatti", "Dharmasarīrasūtra"],
+    "confidence": "medium",
+    "sources": [
+      "https://ancient-buddhist-texts.net/Reference/Literary-History-of-Sanskrit-Buddhism/08-Nagarjuna.htm"
+    ]
+  },
+  {
+    "work_id": "XXbible",
+    "title": "Sanskrit Bible",
+    "author": "various Christian missionary translators (e.g., William Carey, John Wenger)",
+    "tradition": "Christian (translation literature)",
+    "genre": "scripture translation",
+    "date_estimate": "19th c. CE (New Testament 1808; later revisions to 1886)",
+    "summary": "A modern Sanskrit translation of the Christian Bible, produced by Protestant missionaries to render the scriptures into the classical learned language of India. It comprises the New Testament and Old Testament rendered into Sanskrit, adapting biblical prose and concepts into Sanskrit idiom.",
+    "history": "Translation work began under William Carey at the Serampore Mission Press, with the Sanskrit New Testament first published in Calcutta in 1808 and the Old Testament following in volumes from 1818. John Wenger (1811-1880) substantially revised the translation from 1851, his version being the most academically esteemed; this is a colonial-era artifact rather than an indigenous Sanskrit text.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bible_translations_into_Sanskrit",
+      "http://www.sanskritbible.in/"
+    ]
+  },
+  {
+    "work_id": "XXn2890u",
+    "title": "Caṇḍamahāroṣaṇatantra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayana; Anuttarayoga/Yogini-tantra class, Akshobhya/Acala cycle)",
+    "genre": "tantra",
+    "date_estimate": "c. 10th-11th c. CE",
+    "summary": "A Buddhist tantra centered on the wrathful deity Caṇḍamahāroṣaṇa (Acala, the 'Fierce Great Wrathful One') and his consort. It sets out the deity's iconography, mantras, ritual and meditative practices (sādhana), and—notably in its sixth chapter—the sexual yogic practices of the tantric yogi and his consort, characteristic of the Yogini-tantra genre.",
+    "history": "Dated to roughly the tenth-eleventh century CE in the late Mantrayana period, with some scholars proposing a late Nepalese production around 1100 CE. The Sanskrit survives in Nepalese manuscripts; it was translated into Tibetan and attracted commentaries such as Mahasukhavajra's Padmavati. It has been studied (and partly edited/translated) by C. S. George and more recently in the 84000 project.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://read.84000.co/translation/toh431.html",
+      "https://www.wisdomlib.org/definition/candamaharoshanatantra"
+    ]
+  },
+  {
+    "work_id": "GE07bhg",
+    "title": "Bhagavadgītā 1",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu (within the Mahabharata; later foundational for Vedanta)",
+    "genre": "scripture; philosophical-religious poem (part of an epic)",
+    "date_estimate": "c. 2nd c. BCE - 2nd c. CE",
+    "summary": "Chapter 1 of the Bhagavadgita, the 'Arjuna-viṣāda-yoga' ('The Yoga of Arjuna's Despair'). It sets the scene on the battlefield of Kurukshetra, describing the assembled armies and Arjuna's collapse into grief and moral paralysis as he refuses to fight against his kinsmen, teachers, and elders, prompting Krishna's teaching.",
+    "history": "The Bhagavadgita forms part of the Bhīṣmaparvan of the Mahabharata and is traditionally attributed to the sage Vyāsa. The opening chapter frames the entire dialogue by establishing Arjuna's crisis; the Gita as a whole became the most commented-upon Hindu scripture, with classic bhāṣyas by Shankara, Ramanuja, and Madhva.",
+    "related_works": ["Mahābhārata", "Bhīṣmaparvan"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+    ]
+  },
+  {
+    "work_id": "GE07bhg",
+    "title": "Bhagavadgītā 2",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu (within the Mahabharata; foundational for Vedanta)",
+    "genre": "scripture; philosophical-religious poem (part of an epic)",
+    "date_estimate": "c. 2nd c. BCE - 2nd c. CE",
+    "summary": "Chapter 2 of the Bhagavadgita, the 'Sāṅkhya-yoga,' often regarded as a summary of the whole work. Krishna begins his teaching by arguing for the immortality and indestructibility of the self (ātman), the duty to act according to one's dharma without attachment to results (karma-yoga), and the marks of the person of steady wisdom (sthitaprajña).",
+    "history": "The second chapter introduces the Gita's central philosophical and ethical themes and is among its most quoted. Forming part of the Mahabharata's Bhīṣmaparvan and ascribed to Vyāsa, it lays out the synthesis of Samkhya metaphysics with disciplined, detached action that later Vedanta commentators elaborated.",
+    "related_works": ["Mahābhārata", "Bhīṣmaparvan"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+    ]
+  },
+  {
+    "work_id": "GE07bhg",
+    "title": "Bhagavadgītā 3",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu (within the Mahabharata; foundational for Vedanta)",
+    "genre": "scripture; philosophical-religious poem (part of an epic)",
+    "date_estimate": "c. 2nd c. BCE - 2nd c. CE",
+    "summary": "Chapter 3 of the Bhagavadgita, the 'Karma-yoga' ('The Yoga of Action'). Krishna explains why renunciation of action is impossible and undesirable, urging instead disciplined, selfless action performed as sacrifice (yajña) and without attachment, and addressing the roles of desire and anger as obstacles on the path.",
+    "history": "The third chapter develops the doctrine of niṣkāma karma (desireless action) that is central to the Gita's ethics, responding to Arjuna's confusion about whether knowledge or action is superior. As part of the Bhīṣmaparvan of the Mahabharata, it was extensively interpreted by the major Vedanta schools.",
+    "related_works": ["Mahābhārata", "Bhīṣmaparvan"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+    ]
+  }
+]

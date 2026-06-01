@@ -1,0 +1,317 @@
+[
+  {
+    "work_id": "K10vimkn_u",
+    "title": "Vimalakīrtinirdeśa [Vimalakīrtinirdeśasūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra",
+    "date_estimate": "c. 1st-2nd c. CE",
+    "summary": "A Mahāyāna sūtra centered on Vimalakīrti, a wealthy lay bodhisattva of Vaiśālī who, while feigning illness, expounds the doctrine of emptiness (śūnyatā), non-duality, and skillful means to a succession of disciples and bodhisattvas. Its dramatic dialogues culminate in Vimalakīrti's famous 'thunderous silence' on the entry into non-duality, and the text repeatedly demonstrates that a layperson can surpass renunciants and arhats in wisdom.",
+    "history": "Composed in India in the early centuries CE, it survives in Chinese (notably Kumārajīva's 406 CE translation) and Tibetan, and a complete Sanskrit manuscript was discovered at the Potala Palace in 1999. It became immensely influential in East Asian Buddhism, especially Chan/Zen, for its praise of lay practice and non-dual insight.",
+    "related_works": ["Mahāyāna sūtra literature", "Prajñāpāramitā literature"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vimalak%C4%ABrti_S%C5%ABtra"
+    ]
+  },
+  {
+    "work_id": "K12bsu003_u",
+    "title": "Aparimitāyuḥsūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna / dhāraṇī)",
+    "genre": "sutra (dhāraṇī sūtra)",
+    "date_estimate": "c. 4th-6th c. CE (widely copied from 8th-9th c.)",
+    "summary": "A short Mahāyāna dhāraṇī sūtra extolling the buddha Aparimitāyus ('Boundless Life') and the dhāraṇī associated with him, recited to obtain long life, the purification of negative karma, and a good rebirth. The text promises that reciting, copying, hearing, or making offerings to it yields immense merit, and the dhāraṇī is repeated many times within the work.",
+    "history": "One of the most widely reproduced Buddhist texts; thousands of copies were made in the late Tibetan Empire, with vast caches surviving among the Dunhuang manuscripts. It is essentially identical to the Aparimitāyurnāmamahāyānasūtra / Aparimitāyurjñāna Sūtra and circulated under several titles.",
+    "related_works": ["Aparimitāyunāmamahāyānasūtra", "Sukhāvatīvyūha (Amitāyus literature)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aparimit%C4%81yurj%C3%B1%C4%81na_S%C5%ABtra",
+      "https://84000.co/translation/toh674"
+    ]
+  },
+  {
+    "work_id": "K12bsu007_u",
+    "title": "Śrīmahādevīvyākaraṇa [Śrīmahādevīvyākaraṇasūtra, Dvādaśadaṇḍakanāmāṣṭaśatavimalīkaraṇā]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna / dhāraṇī)",
+    "genre": "sutra (vyākaraṇa / dhāraṇī sūtra)",
+    "date_estimate": "mid-1st millennium CE (uncertain)",
+    "summary": "A short Mahāyāna scripture framed as a prophecy (vyākaraṇa) concerning the goddess Śrī Mahādevī (Śrīdevī / Lakṣmī assimilated into the Buddhist pantheon), associated with a dhāraṇī and ritual praise that bestow prosperity, purification, and merit. The subtitle 'purification by the one hundred and eight names in twelve sections' points to a litany of the goddess's names used for cleansing and protection.",
+    "history": "A minor devotional dhāraṇī text preserved in Sanskrit manuscript collections and in the Tibetan/Chinese canons; it reflects the absorption of the Hindu goddess Śrī/Lakṣmī into Mahāyāna and proto-tantric goddess veneration. Precise authorship and date are unknown and it is not the better-known Śrīmālādevīsiṃhanāda sūtra.",
+    "related_works": ["Mahāyāna dhāraṇī literature", "Śrīdevī/goddess cult texts"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/%C5%9Ar%C4%ABm%C4%81l%C4%81dev%C4%AB_Si%E1%B9%83han%C4%81da_S%C5%ABtra"
+    ]
+  },
+  {
+    "work_id": "K12mamuka",
+    "title": "Mañjuśrīmūlakalpa [Āryamañjuśrīmūlakalpa]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna / Mantrayāna)",
+    "genre": "tantra (kalpa / ritual manual)",
+    "date_estimate": "core c. 6th c. CE, redacted through 8th c. CE (composite)",
+    "summary": "A vast composite scripture, the largest single text devoted to the bodhisattva Mañjuśrī, classified both as a Mahāyāna vaipulya sūtra and as a Mantrayāna ritual manual (kalpa). It sets out mantras, maṇḍalas, and esoteric rites for mundane aims (protection, wealth, subjugation of obstacles) and for awakening, and famously includes a verse 'history' (rājavyākaraṇa) chapter used as a source for Indian dynastic chronology.",
+    "history": "Often cited as the earliest extant Indian Buddhist tantra, it grew by accretion over several generations, with a core perhaps in the 6th century and redaction continuing through the 8th century. It survives in Sanskrit, Tibetan, and Chinese and is an important witness to early esoteric Buddhism and to historical traditions about Indian kings.",
+    "related_works": ["Mañjuśrīnāmasaṃgīti", "early Buddhist tantra/kriyā literature"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ma%C3%B1ju%C5%9Br%C4%AB-m%C5%ABla-kalpa",
+      "https://84000.co/translation/toh543"
+    ]
+  },
+  {
+    "work_id": "K12manjn1pu",
+    "title": "Mañjuśrīnāmasaṃgīti",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna / Vajrayāna)",
+    "genre": "stotra / tantra (litany of names)",
+    "date_estimate": "c. 8th c. CE",
+    "summary": "A celebrated 'Chanting of the Names of Mañjuśrī,' a metrical litany that enumerates the names and epithets of Mañjuśrī understood as the embodiment of non-dual gnosis (jñāna) and identified with the primordial buddha. The recitation is treated as a complete tantric practice, mapping the names onto maṇḍala deities and meditative realization.",
+    "history": "Extremely influential in Vajrayāna, it became a foundational text of the Kālacakra and yoga-tantra traditions and generated a large body of Indian and Tibetan commentary. Often transmitted in connection with the Māyājāla cycle, it remains among the most widely recited liturgical texts in Tibetan Buddhism.",
+    "related_works": ["Māyājāla Tantra", "Mañjuśrīmūlakalpa", "Kālacakra Tantra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Manjushri-nama-samgiti"
+    ]
+  },
+  {
+    "work_id": "K12mspram_u",
+    "title": "Mahāsāhasrapramardanī",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna / dhāraṇī)",
+    "genre": "sutra (dhāraṇī / rakṣā)",
+    "date_estimate": "by c. 8th c. CE (surviving Sanskrit mss from 11th c.)",
+    "summary": "One of the five protective scriptures of the Pañcarakṣā ('Five Protections') corpus, a dhāraṇī text whose recitation is held to ward off calamities, demons, and disease over a vast (thousandfold) cosmic domain. Like its companion rakṣās it combines invocations, mantras, and lists of protective deities and yakṣas.",
+    "history": "The Pañcarakṣā collection is attested in Tibetan catalogues by around 800 CE, while the surviving Sanskrit manuscripts (often beautifully illustrated Nepalese/Bengalese palm-leaf codices) date from the 11th century onward. The set became central to Newar Buddhist ritual practice in the Kathmandu Valley.",
+    "related_works": ["Pañcarakṣā", "Mahāpratisarā", "Mahāmāyūrī", "Mahāśītavatī", "Mahāmantrānusāriṇī"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pan%CC%82carak%E1%B9%A3%C4%81",
+      "https://cudl.lib.cam.ac.uk/view/MS-OR-01812-00001/1"
+    ]
+  },
+  {
+    "work_id": "K12n259u",
+    "title": "Aparimitāyunāmamahāyānasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna / dhāraṇī)",
+    "genre": "sutra (dhāraṇī sūtra)",
+    "date_estimate": "c. 4th-6th c. CE (widely copied from 8th-9th c.)",
+    "summary": "A Mahāyāna dhāraṇī sūtra glorifying the buddha Aparimitāyus ('Boundless/Immeasurable Life') and his dhāraṇī, recited for longevity, the exhaustion of bad karma, and a fortunate rebirth. The work lists the great merits of reciting, writing, hearing, and making offerings to the text, in which the longevity dhāraṇī recurs many times.",
+    "history": "This is the full-title form of the same scripture as the Aparimitāyuḥsūtra / Aparimitāyurjñāna Sūtra; it was reproduced in enormous numbers in the late Tibetan Empire and is heavily represented in the Dunhuang manuscript finds, making it one of the most copied of all Buddhist texts.",
+    "related_works": ["Aparimitāyuḥsūtra", "Sukhāvatīvyūha (Amitāyus literature)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aparimit%C4%81yurj%C3%B1%C4%81na_S%C5%ABtra",
+      "https://84000.co/translation/toh674"
+    ]
+  },
+  {
+    "work_id": "K12n283u",
+    "title": "Bhaiṣajyaguruvaidūryaprabharājasūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna)",
+    "genre": "sutra",
+    "date_estimate": "c. 4th-7th c. CE",
+    "summary": "The 'Sūtra of the Medicine Buddha, the Lapis-Lazuli Radiance King' (Bhaiṣajyaguru), which recounts the twelve great vows the Medicine Buddha made as a bodhisattva to heal physical and spiritual ills, dispel suffering and untimely death, and lead beings to liberation. It describes his eastern pure land Vaiḍūryanirbhāsa and prescribes devotional and ritual practices, including a healing dhāraṇī.",
+    "history": "An Indian Mahāyāna scripture that became hugely popular across East and Inner Asia as the canonical basis of the Medicine Buddha cult; it was translated into Chinese several times (from the early 5th century onward) and into Tibetan. It anchors widespread healing rituals in Tibetan, Chinese, Japanese, and Newar Buddhism.",
+    "related_works": ["Mahāyāna pure-land/devotional sutra literature"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhaisajyaguru"
+    ]
+  },
+  {
+    "work_id": "K12n2967u",
+    "title": "Śrīguhyasamājatantra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayāna; Anuttarayoga / Mahāyoga)",
+    "genre": "tantra",
+    "date_estimate": "c. late 7th-8th c. CE",
+    "summary": "A foundational scripture of esoteric Buddhism, regarded as the chief of the Anuttarayoga (highest yoga) tantras and the locus classicus of the 'father tantra' Akṣobhya/Guhyasamāja maṇḍala. In seventeen chapters (with an eighteenth Uttaratantra) it sets out the five-buddha maṇḍala, deity yoga, the subtle-body practices of the completion stage, and antinomian ritual language meant to transform the passions into the path.",
+    "history": "Probably composed in India in the late 7th or 8th century, it became the centerpiece of the influential 'Ārya' exegetical school attributed to Nāgārjuna, Āryadeva, and Candrakīrti, and generated an extensive Indo-Tibetan commentarial tradition. It is among the oldest and most important of all Buddhist tantras.",
+    "related_works": ["Sarvatathāgatatattvasaṃgraha", "Pañcakrama (Ārya school)", "Mañjuśrīnāmasaṃgīti"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Guhyasam%C4%81ja_Tantra",
+      "https://www.britannica.com/topic/Guhyasamaja-tantra"
+    ]
+  },
+  {
+    "work_id": "K14mhvastuu",
+    "title": "Mahāvastu-avadāna",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāsāṃghika-Lokottaravāda)",
+    "genre": "avadāna / hagiographical biography (vinaya-related)",
+    "date_estimate": "c. 2nd c. BCE-4th c. CE (composite)",
+    "summary": "A large, composite 'Great Story' that narrates the life of the Buddha across many past lives and his final birth, framed within the Vinaya tradition of the Lokottaravāda branch of the Mahāsāṃghika school. It interweaves jātakas, avadānas, and doctrinal passages, and presents an early 'supramundane' (lokottara) view of the Buddha as a transcendent being, foreshadowing Mahāyāna buddhology.",
+    "history": "Written in Buddhist Hybrid Sanskrit and assembled over several centuries, it is one of the most important sources for early Buddhist legend and for the prehistory of Mahāyāna ideas (including bodhisattva stages). It survives only in Sanskrit/Hybrid Sanskrit, with no Chinese or Tibetan canonical translation.",
+    "related_works": ["Lalitavistara", "Buddhacarita", "jātaka and avadāna literature", "Lokottaravāda Vinaya"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mah%C4%81vastu"
+    ]
+  },
+  {
+    "work_id": "T02narsekou",
+    "title": "Sekoddeśa [Sekoddeśaṭīkā]",
+    "author": "Nāropa (Nāḍapāda)",
+    "tradition": "Buddhist (Vajrayāna; Kālacakra)",
+    "genre": "bhasya (commentary / ṭīkā)",
+    "date_estimate": "early 11th c. CE (commentary)",
+    "summary": "The Sekoddeśa ('Summary of [Tantric] Initiation') is a versified section associated with the Kālacakra mūlatantra dealing with the consecrations/empowerments (abhiṣeka), and the Sekoddeśaṭīkā (also titled Paramārthasaṃgraha) is Nāropa's authoritative commentary on it. The commentary expounds the meaning of the Kālacakra initiations, the subtle-body yogas, and the ultimate (paramārtha) view.",
+    "history": "Attributed to the great Indian siddha Nāropa (Nāḍapāda, d. c. 1040 CE), it is an early and influential exegesis within the rapidly developing Kālacakra tradition of the 11th century. It survives in Sanskrit and Tibetan and remains a key source for the Kālacakra system of consecration.",
+    "related_works": ["Kālacakra Tantra", "Vimalaprabhā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.academia.edu/44703690/Param%C4%81rthasa%E1%B9%83graha_Sekodde%C5%9Ba%E1%B9%AD%C4%ABk%C4%81_by_N%C4%81rop%C4%81",
+      "https://commons.tsadra.org/index.php/N%C4%81ropa"
+    ]
+  },
+  {
+    "work_id": "T04bsa047",
+    "title": "Bhāvanākrama",
+    "author": "Kamalaśīla",
+    "tradition": "Buddhist (Madhyamaka / Yogācāra-Madhyamaka)",
+    "genre": "philosophical treatise (manual of meditation)",
+    "date_estimate": "c. late 8th c. CE",
+    "summary": "A set of three 'Stages of Meditation' treatises laying out the gradual Mahāyāna path of cultivating compassion (karuṇā), bodhicitta, and the union of calm abiding (śamatha) and insight (vipaśyanā) leading to non-conceptual realization of emptiness. The work defends a graduated, analytical approach to awakening.",
+    "history": "Composed by Kamalaśīla (c. 740-795 CE), student of Śāntarakṣita, the texts are traditionally connected with the Samyé (bSam yas) debate in Tibet, where Kamalaśīla's gradualist position is said to have prevailed over the 'sudden' Chan teaching of Heshang Moheyan. They became foundational for the Tibetan lamrim ('stages of the path') literature.",
+    "related_works": ["Madhyamakālaṃkāra (Śāntarakṣita)", "Tattvasaṃgrahapañjikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kamala%C5%9B%C4%ABla",
+      "https://en.wikipedia.org/wiki/Bh%C4%81van%C4%81krama"
+    ]
+  },
+  {
+    "work_id": "T04sanssr",
+    "title": "Śikṣāsamuccaya",
+    "author": "Śāntideva",
+    "tradition": "Buddhist (Mahāyāna / Madhyamaka)",
+    "genre": "philosophical treatise (anthology / compendium of training)",
+    "date_estimate": "c. 8th c. CE",
+    "summary": "A 'Compendium of Training' that organizes the bodhisattva path around a set of root verses (the Śikṣāsamuccaya kārikās) and then illustrates each point with extensive quotations from Mahāyāna sūtras. It treats the cultivation, protection, and purification of body, possessions, and merit for the welfare of others, serving as a sourcebook of scriptural authorities.",
+    "history": "Composed by Śāntideva, the 8th-century Nālandā master also famous for the Bodhicaryāvatāra, it is especially valuable for preserving citations from many Mahāyāna sūtras now otherwise lost in Sanskrit. It survives in Sanskrit, Tibetan, and Chinese.",
+    "related_works": ["Bodhicaryāvatāra (Śāntideva)", "Sūtrasamuccaya (attributed to Nāgārjuna)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/%C5%9Aik%E1%B9%A3%C4%81samuccaya",
+      "https://en.wikipedia.org/wiki/Shantideva"
+    ]
+  },
+  {
+    "work_id": "T04tat",
+    "title": "Tattvasaṃgraha",
+    "author": "Śāntarakṣita",
+    "tradition": "Buddhist (Yogācāra-Madhyamaka / pramāṇa)",
+    "genre": "philosophical treatise",
+    "date_estimate": "c. 8th c. CE (author c. 725-788 CE)",
+    "summary": "A monumental verse 'Compendium of Reality' that systematically examines and critiques the major doctrines of Indian philosophy—Sāṃkhya prakṛti, Nyāya-Vaiśeṣika categories, the self (ātman), God (Īśvara), the permanence of sound and the Veda, theories of perception and inference, and more—from a Buddhist epistemological standpoint. It defends momentariness, no-self, and apoha while subjecting rival positions to rigorous logical refutation.",
+    "history": "Written by Śāntarakṣita (c. 725-788 CE), the influential Madhyamaka philosopher who helped establish Buddhism in Tibet, it is a primary doxographical source for 8th-century Indian thought, preserving the views of many otherwise lost thinkers. It is almost always studied together with Kamalaśīla's Pañjikā.",
+    "related_works": ["Tattvasaṃgrahapañjikā (Kamalaśīla)", "Madhyamakālaṃkāra (Śāntarakṣita)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tattvasamgraha",
+      "https://east.ikga.oeaw.ac.at/data/14/39/"
+    ]
+  },
+  {
+    "work_id": "T04tatpa",
+    "title": "Tattvasaṃgrahapañcikā [Tattvasaṃgrahapañjikā]",
+    "author": "Kamalaśīla",
+    "tradition": "Buddhist (Yogācāra-Madhyamaka / pramāṇa)",
+    "genre": "bhasya (commentary / pañjikā)",
+    "date_estimate": "c. late 8th c. CE (author c. 740-795 CE)",
+    "summary": "Kamalaśīla's word-by-word commentary (pañjikā) on Śāntarakṣita's Tattvasaṃgraha, expanding and clarifying its arguments and supplying the detailed contexts of the rival positions being refuted. The commentary is indispensable for understanding the often terse verses and for reconstructing the opposing views (pūrvapakṣa) of contemporary schools.",
+    "history": "Composed by Kamalaśīla (c. 740-795 CE), Śāntarakṣita's foremost disciple; the standard catalogued title is Tattvasaṃgraha-pañjikā (the 'pañcikā' form in the source metadata appears to be a variant/typo). It is preserved in Sanskrit and Tibetan and edited together with the root text in the Gaekwad's Oriental Series.",
+    "related_works": ["Tattvasaṃgraha (Śāntarakṣita)"],
+    "confidence": "high",
+    "sources": [
+      "https://east.ikga.oeaw.ac.at/data/17/43/",
+      "https://en.wikipedia.org/wiki/Tattvasamgraha"
+    ]
+  },
+  {
+    "work_id": "T06asabhs_u",
+    "title": "Abhidharmasamuccaya",
+    "author": "Asaṅga",
+    "tradition": "Buddhist (Yogācāra)",
+    "genre": "philosophical treatise (abhidharma compendium / śāstra)",
+    "date_estimate": "c. 4th c. CE",
+    "summary": "A 'Compendium of Abhidharma' that systematizes the categories of Buddhist phenomenology (dharmas, aggregates, elements, sense-fields, the noble truths, the path) from a Yogācāra perspective, integrating Mahāyāna doctrine into the abhidharma framework. It serves as a concise doctrinal summa distinct from the Sarvāstivāda/Sautrāntika abhidharma of Vasubandhu's Kośa.",
+    "history": "Attributed to Asaṅga (c. 4th century CE), the founder-systematizer of the Yogācāra school, it became one of the principal abhidharma textbooks of Mahāyāna Buddhism, with a commentary (Bhāṣya) traditionally linked to Sthiramati/Jinaputra. It survives partly in Sanskrit and fully in Tibetan and Chinese.",
+    "related_works": ["Yogācārabhūmi (Asaṅga)", "Abhidharmakośa (Vasubandhu)", "Mahāyānasaṃgraha"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhidharma-samuccaya",
+      "https://buddhanature.tsadra.org/index.php/People/Asa%E1%B9%85ga"
+    ]
+  },
+  {
+    "work_id": "T06asmahsuu",
+    "title": "Mahāyānasūtrālaṃkāra",
+    "author": "Maitreya(nātha)/Asaṅga (verses); bhāṣya attributed to Vasubandhu",
+    "tradition": "Buddhist (Yogācāra)",
+    "genre": "philosophical treatise (kārikā with bhāṣya)",
+    "date_estimate": "c. 4th c. CE",
+    "summary": "An 'Ornament of the Mahāyāna Sūtras,' a versified treatise that systematizes core Mahāyāna and Yogācāra doctrine—the bodhisattva path, the perfections, the stages (bhūmis), buddha-bodies, and the nature of mind—as one of the 'Five Treatises of Maitreya.' It argues for the authenticity and superiority of the Mahāyāna and articulates the mind-only (cittamātra) orientation.",
+    "history": "Traditionally revealed by the bodhisattva Maitreya to Asaṅga (hence ascribed to Maitreyanātha), with a prose commentary (bhāṣya) attributed to Vasubandhu and later sub-commentaries by Sthiramati and Asvabhāva. The project metadata names Vasubandhu, but the kārikā text is conventionally credited to Maitreya/Asaṅga while the bhāṣya is Vasubandhu's.",
+    "related_works": ["Madhyāntavibhāga", "Dharmadharmatāvibhāga", "Abhisamayālaṃkāra", "Ratnagotravibhāga (Five Treatises of Maitreya)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mahayana-sutra-alamkara-karika",
+      "https://encyclopediaofbuddhism.org/wiki/Mah%C4%81y%C4%81nas%C5%ABtr%C4%81la%E1%B9%83k%C4%81ra"
+    ]
+  },
+  {
+    "work_id": "T06bsa018",
+    "title": "Triṃśikāvijñaptikārikā [Triṃśikākārikā]",
+    "author": "Vasubandhu",
+    "tradition": "Buddhist (Yogācāra)",
+    "genre": "philosophical treatise (kārikā)",
+    "date_estimate": "c. 4th-5th c. CE",
+    "summary": "The 'Thirty Verses on Consciousness-Only,' a terse foundational statement of Yogācāra idealism that analyzes experience into the threefold transformation of consciousness—the store-consciousness (ālayavijñāna), the afflicted mind (manas), and the six perceptual consciousnesses—and the three natures (trisvabhāva). It culminates in the realization of mere representation (vijñaptimātra) and the path to non-conceptual wisdom.",
+    "history": "Composed by Vasubandhu (c. 4th-5th century CE), brother of Asaṅga, it is among the most influential Yogācāra texts and the basis of Sthiramati's commentary and of the Chinese Faxiang (Weishi) school via Xuanzang's Cheng weishi lun. It survives in Sanskrit, Tibetan, and Chinese.",
+    "related_works": ["Viṃśikā (Vasubandhu)", "Triṃśikābhāṣya (Sthiramati)", "Cheng weishi lun"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tri%E1%B9%83%C5%9Bik%C4%81-vij%C3%B1aptim%C4%81trat%C4%81",
+      "https://en.wikipedia.org/wiki/Vasubandhu"
+    ]
+  },
+  {
+    "work_id": "T06bsa034",
+    "title": "Bodhisattvabhūmi",
+    "author": "Asaṅga",
+    "tradition": "Buddhist (Yogācāra)",
+    "genre": "philosophical treatise (śāstra; section of the Yogācārabhūmi)",
+    "date_estimate": "c. 4th c. CE",
+    "summary": "The 'Bodhisattva Stage,' a comprehensive manual of the Mahāyāna bodhisattva path covering the bodhisattva's lineage (gotra), the arising of bodhicitta, the perfections (pāramitās), the means of attracting beings, the bhūmis, and the attainment of buddhahood. It also contains the influential 'Tattvārtha' chapter on the nature of reality and the inexpressible (nirabhilāpya) ground of phenomena.",
+    "history": "It forms a major part of Asaṅga's encyclopedic Yogācārabhūmi and is a key source for Yogācāra ethics and path theory; its account of gotra and of the 'ineffable' nature of things was widely cited. It survives in Sanskrit as well as Tibetan and Chinese.",
+    "related_works": ["Yogācārabhūmi (Asaṅga)", "Śrāvakabhūmi", "Mahāyānasūtrālaṃkāra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yogacarabhumi-sastra",
+      "https://buddhanature.tsadra.org/index.php/People/Asa%E1%B9%85ga"
+    ]
+  },
+  {
+    "work_id": "T06bsa065",
+    "title": "Pañcaskandhaprakaraṇa",
+    "author": "Vasubandhu",
+    "tradition": "Buddhist (Yogācāra)",
+    "genre": "philosophical treatise (prakaraṇa / abhidharma primer)",
+    "date_estimate": "c. 4th-5th c. CE",
+    "summary": "A concise 'Treatise on the Five Aggregates' that defines and analyzes the five skandhas (form, feeling, perception, formations, consciousness) together with the associated mental factors (caitasikas), the elements, and sense-fields, presented within a Yogācāra framework. It functions as an introductory abhidharma primer that integrates the ālayavijñāna and afflicted mind into the standard list of mental events.",
+    "history": "Written by Vasubandhu, it complements his larger Abhidharmakośa by reframing aggregate-analysis along Yogācāra lines, and it attracted commentaries (e.g., by Sthiramati and Guṇaprabha). It is preserved in Sanskrit, Tibetan, and Chinese and is widely used as a teaching text.",
+    "related_works": ["Abhidharmakośa (Vasubandhu)", "Abhidharmasamuccaya (Asaṅga)", "Triṃśikā (Vasubandhu)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vasubandhu",
+      "https://buddhanature.tsadra.org/index.php/Texts/Pa%C3%B1caskandhaprakara%E1%B9%87a"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+type	arg1	arg2	arg3	note
+anchor	SA_GSD37_apastd_u	-600	-200	chronBMM stratum DhS: Āpastambadharmasūtra
+anchor	SA_GV06_apastgcu	-600	-300	chronBMM stratum GS: Āpastambagṛhyasūtra
+anchor	SA_GV06_asvgs_u	-600	-300	chronBMM stratum GS: Āśvalāyanagṛhyasūtra
+anchor	SA_GV06_asvss_u	-700	-300	chronBMM stratum ŚS: Āśvalāyanaśrautasūtra
+anchor	SA_GSD37_gautdh_u	-600	-200	chronBMM stratum DhS: Gautamadharmasūtra
+anchor	SA_GV06_kaussu_u	-600	-300	chronBMM stratum GS: Kauśikasūtra
+anchor	SA_GV06_kauthgsu	-600	-300	chronBMM stratum GS: Kauthumagṛhyasūtra
+anchor	SA_GV06_manavgsu	-600	-300	chronBMM stratum GS: Mānavagṛhyasūtra
+anchor	SA_GV04_sankharu	-700	-500	chronBMM stratum Ā: Śāṅkhāyana-Āraṇyaka
+anchor	SA_GV06_sankhgsu	-600	-300	chronBMM stratum GS: Śāṅkhāyanagṛhyasūtra
+anchor	SA_GV06_sankhssu	-700	-300	chronBMM stratum ŚS: Śāṅkhāyanaśrautasūtra
+anchor	SA_GSD37_vaikhd_u	200	500	chronBMM-class + scholarly outlier date: Vaikhānasadharmasūtra
+anchor	SA_GV06_vargs_u	-600	-300	chronBMM stratum GS: Vārāhagṛhyasūtra

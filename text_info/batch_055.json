@@ -1,0 +1,326 @@
+[
+  {
+    "work_id": "T01n912u",
+    "title": "Vasudhārāstotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; especially Newar Buddhism of Nepal)",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "c. mid-1st millennium CE or later; precise date uncertain",
+    "summary": "A devotional hymn (stotra) praising Vasudhara ('Stream of Gems'), the Buddhist goddess of wealth, prosperity and abundance, consort of the wealth-deity Jambhala. The text extols her qualities and invokes her grace to bestow material fortune, grain and gems on the devotee. It belongs to the broader cult of Vasudhara, whose worship (centered on the Vasudhara Dharani and her mantra Oṃ Vasudhārāyai Svāhā) is especially strong among the Buddhist Newars of the Kathmandu Valley.",
+    "history": "Vasudhara's cult derives from the Vasudhara Dharani and the legend of the layman Sucandra, who sought wealth from the Buddha; the stotra is one of several short hymnic compositions in her honor transmitted especially in Nepalese Buddhist manuscript culture. Its specific authorship is unattested and it survives anonymously within collections of Buddhist stotras.",
+    "related_works": ["Vasudhārā Dhāraṇī", "Āryavasudhārā", "Sucandra-paripṛcchā (The Inquiry of the Layman Sucandra)"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vasudhara",
+      "https://encyclopediaofbuddhism.org/wiki/Vasudhara",
+      "https://rubinmuseum.org/projecthimalayanart/essays/goddess-of-prosperity-vasudhara/"
+    ]
+  },
+  {
+    "work_id": "T01nagast_u",
+    "title": "Acintyastava",
+    "author": "Nāgārjuna (attributed; authorship debated)",
+    "tradition": "Buddhist (Mahayana, Madhyamaka)",
+    "genre": "stotra (philosophical devotional hymn)",
+    "date_estimate": "c. 2nd-3rd c. CE if by Nāgārjuna; attribution disputed",
+    "summary": "The 'Hymn to the Inconceivable [Buddha]' is one of the four hymns making up the Catuḥstava traditionally ascribed to Nāgārjuna. It praises the Buddha and his awakening while articulating core Madhyamaka doctrines, notably emptiness of own-being (svabhāvaśūnyatā) and dependent origination (pratītyasamutpāda), presenting ultimate reality as inconceivable and beyond conceptual elaboration.",
+    "history": "The Catuḥstava (Lokātīta-, Niraupamya-, Acintya-, Paramārtha-stava) was widely popular in Indian Mahayana circles; Sanskrit versions survive, but it is uncertain which four hymns were the original set and whether Nāgārjuna actually authored all of them. The Acintyastava is generally accepted as among the more securely Nāgārjunian of the group on doctrinal grounds.",
+    "related_works": ["Catuḥstava", "Lokātītastava", "Niraupamyastava", "Paramārthastava", "Mūlamadhyamakakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095555677",
+      "https://plato.stanford.edu/entries/nagarjuna/"
+    ]
+  },
+  {
+    "work_id": "T01naglok_u",
+    "title": "Lokātītastava",
+    "author": "Nāgārjuna (attributed; authorship debated)",
+    "tradition": "Buddhist (Mahayana, Madhyamaka)",
+    "genre": "stotra (philosophical devotional hymn)",
+    "date_estimate": "c. 2nd-3rd c. CE if by Nāgārjuna; attribution disputed",
+    "summary": "The 'Hymn to the One Who Transcends the World' is the opening hymn of the Catuḥstava ascribed to Nāgārjuna. It praises the Buddha who has gone beyond worldly categories and uses this praise to expound Madhyamaka teachings—analyzing the aggregates, elements and causal relations to show that all phenomena lack intrinsic existence and arise dependently.",
+    "history": "Part of the four-hymn Catuḥstava set traditionally attributed to Nāgārjuna and esteemed in Indian Mahayana; the Lokātītastava is often regarded, along with the Acintyastava, as among the most genuinely Nāgārjunian of the collection. Sanskrit and Tibetan versions survive, with the exact original membership of the set remaining uncertain.",
+    "related_works": ["Catuḥstava", "Acintyastava", "Niraupamyastava", "Paramārthastava", "Mūlamadhyamakakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095555677",
+      "https://plato.stanford.edu/entries/nagarjuna/"
+    ]
+  },
+  {
+    "work_id": "T01rahppspu",
+    "title": "Prajñāpāramitāstotra",
+    "author": "Rāhulabhadra",
+    "tradition": "Buddhist (Mahayana, early Madhyamaka)",
+    "date_estimate": "c. 2nd-4th c. CE (dating uncertain)",
+    "genre": "stotra (devotional hymn)",
+    "summary": "A short hymn in praise of the Perfection of Wisdom (Prajñāpāramitā) personified and venerated as 'Mother of the Buddhas.' Using vivid poetic imagery, it describes Prajñāpāramitā as luminous, stainless, and the dispeller of darkness throughout the triple world, expressing devotion to transcendent insight as the source of awakening. The hymn is frequently transmitted as a preface to Prajñāpāramitā sutra manuscripts.",
+    "history": "Attributed to Rāhulabhadra (sometimes identified with the mahāsiddha Saraha), an early Madhyamaka figure whom Tibetan tradition makes Nāgārjuna's teacher and Chinese sources his disciple; his exact dates are uncertain. The hymn often appears prefixed to manuscripts of the Aṣṭasāhasrikā Prajñāpāramitā and has been edited and translated by Edward Conze.",
+    "related_works": ["Aṣṭasāhasrikā Prajñāpāramitā", "Prajñāpāramitā literature"],
+    "confidence": "high",
+    "sources": [
+      "https://www.rigpawiki.org/index.php?title=Rahulabhadra",
+      "https://www.wisdomlib.org/definition/rahulabhadra",
+      "https://cudl.lib.cam.ac.uk/view/MS-ADD-01464/1"
+    ]
+  },
+  {
+    "work_id": "T01tarasdhu",
+    "title": "Tārāsragdharāstotra",
+    "author": "Sarvajñamitra (of Kashmir)",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "stotra (devotional hymn, kavya-style)",
+    "date_estimate": "c. 8th c. CE",
+    "summary": "Also known simply as the Sragdharā-stotra, this is a celebrated hymn to the goddess Ārya-Tārā composed entirely in the sragdharā meter (the title puns on Tārā as 'garland-bearer' and on the meter). It praises Tārā's compassion and saving power and is recited devotionally to invoke her swift intervention against danger and suffering.",
+    "history": "Composed by Sarvajñamitra, a Buddhist bhikṣu of Kashmir who according to the Rājataraṅgiṇī flourished in the 8th century; legend holds he composed the hymn to escape being sacrificed by a king, whereupon Tārā miraculously delivered him and the other intended victims. It is preserved with a Sanskrit commentary (ṭīkā) by Jinarakṣita and in two Tibetan versions, and was edited by Satis Chandra Vidyabhusana.",
+    "related_works": ["Tārā stotra literature", "Jinarakṣita's commentary (ṭīkā) on the Sragdharāstotra"],
+    "confidence": "high",
+    "sources": [
+      "https://archive.org/details/sragdharastotram00sarvuoft",
+      "https://www.kamakotimandali.com/2021/03/31/arayatara-sragdhara-stotram-of-sarvajnamitra/",
+      "https://catalog.hathitrust.org/Record/012155034"
+    ]
+  },
+  {
+    "work_id": "T02abhnispu",
+    "title": "Niṣpannayogāvali",
+    "author": "Abhayākaragupta",
+    "tradition": "Buddhist (Vajrayana; tantric)",
+    "genre": "ritual/iconographic manual (maṇḍala compendium)",
+    "date_estimate": "c. 1101-1108 CE",
+    "summary": "The 'Garland of Perfected Yogas' is a tantric compendium that systematically describes 26 maṇḍalas, giving detailed instructions on the deities, their iconography and arrangement, and the rituals of their visualization. It draws together maṇḍala systems and rituals from across diverse tantric traditions, balancing the yoginī-tantras and the yoga-tantra works.",
+    "history": "Composed in India (c. 1101-08) by Abhayākaragupta, a leading scholar-monk and abbot of Vikramaśīla monastery. Together with his Vajrāvalī and Jyotirmañjarī it formed the esteemed 'triple garland cycle' of ritual works; first translated into Tibetan in 1204, these liturgies and maṇḍalas became enormously influential in Tibet.",
+    "related_works": ["Vajrāvalī", "Jyotirmañjarī", "Āmnāyamañjarī"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abhayakaragupta",
+      "https://buddhanature.tsadra.org/index.php/People/Abhay%C4%81kara"
+    ]
+  },
+  {
+    "work_id": "T02bsa005_u",
+    "title": "Caryāsaṅgrahapradīpa",
+    "author": "Atiśa Dīpaṃkaraśrījñāna",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "treatise (compendium of conduct/practice)",
+    "date_estimate": "first half of the 11th c. CE (Atiśa fl. 982-1054)",
+    "summary": "A short 'Lamp that is a Compendium of Conduct/Practice,' one of the numerous minor doctrinal and practice texts attributed to Atiśa. It compiles and summarizes points of religious conduct (caryā) for the practitioner, in the synoptic, path-oriented style characteristic of Atiśa's didactic works.",
+    "history": "Atiśa Dīpaṃkaraśrījñāna (982-1054), the renowned Bengali master and abbot associated with Vikramaśīla who reformed Buddhism in Tibet, composed many concise practice manuals (the 'lamp/pradīpa' genre, most famously the Bodhipathapradīpa). This minor work survives within his collected writings, primarily in Tibetan translation; details of its independent transmission are limited.",
+    "related_works": ["Bodhipathapradīpa", "Collected works of Atiśa"],
+    "confidence": "medium",
+    "sources": [
+      "https://treasuryoflives.org/biographies/view/Atisha-Dipamkara/5717",
+      "https://link.springer.com/10.1007/978-3-476-05728-0_4726-1"
+    ]
+  },
+  {
+    "work_id": "T02bsa006_u",
+    "title": "Cittaviśuddhiprakaraṇa",
+    "author": "Āryadeva (tantric Āryadeva; traditionally identified with the Madhyamaka Āryadeva)",
+    "tradition": "Buddhist (Vajrayana with strong Yogācāra/Madhyamaka coloring)",
+    "genre": "philosophical/tantric treatise (prakaraṇa)",
+    "date_estimate": "probably late 7th-8th c. CE (the project hint of c. 170-270 CE reflects the traditional but problematic identification with the 3rd-c. Āryadeva)",
+    "summary": "The 'Treatise on the Purification of the Mind' expounds the principles and philosophy of Buddhist Tantra, treating mind as the foundation of both cognition and spiritual progress. It links purification of mind to emptiness (śūnyatā) and selflessness (nairātmya), arguing that a correct grasp of emptiness requires deconstructing belief in an enduring self and recognizing the insubstantiality of phenomena; it shows a clear Yogācāra tendency.",
+    "history": "Attributed to Āryadeva and traditionally conflated with the 3rd-century disciple of Nāgārjuna, but on doctrinal and tantric grounds modern scholarship dates this 'tantric Āryadeva' work much later, probably to the end of the 7th century or the 8th century. It has been studied and translated (e.g. by Mathew Varghese as 'Principles of Buddhist Tantra').",
+    "related_works": ["Caryāmelāpakapradīpa", "Guhyasamāja-tantra literature", "works of the Madhyamaka Āryadeva (Catuḥśataka)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.exoticindiaart.com/book/details/principles-of-buddhist-tantra-discourse-on-cittavisuddhi-prakarana-of-aryadeva-idk434/",
+      "https://link.springer.com/article/10.1023/A:1004361801440"
+    ]
+  },
+  {
+    "work_id": "T02garbhasamgraha",
+    "title": "Garbhasaṃgraha",
+    "author": "Atiśa Dīpaṃkaraśrījñāna (attributed)",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "treatise (short doctrinal compendium)",
+    "date_estimate": "first half of the 11th c. CE (Atiśa fl. 982-1054)",
+    "summary": "A short 'Compendium on the Womb/Embryo' (garbha) attributed to Atiśa, one of his many brief compendia. By its title it appears to compile teachings concerning gestation/conception and the nature of (re)birth in the womb—a theme treated in Buddhist embryological literature that links the suffering of gestation to renunciation—though the work may instead concern garbha in the sense of the buddha-embryo/tathāgatagarbha; the precise content is not securely established here.",
+    "history": "Counted among the minor works of Atiśa Dīpaṃkaraśrījñāna and transmitted chiefly in his Tibetan collected writings. Buddhist embryological discourse drew on texts such as the Garbhāvakrāntisūtra, whose original Sanskrit survives only in fragments; this short saṃgraha stands in that broader tradition. Identification of its exact content is tentative.",
+    "related_works": ["Collected works of Atiśa", "Garbhāvakrāntisūtra (Sūtra on Entry into the Womb)"],
+    "confidence": "low",
+    "sources": [
+      "https://treasuryoflives.org/biographies/view/Atisha-Dipamkara/5717",
+      "https://84000.co/translation/toh58"
+    ]
+  },
+  {
+    "work_id": "T02bsa043_u",
+    "title": "Samādhisaṃbhāraparivarta",
+    "author": "Atiśa Dīpaṃkaraśrījñāna",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "treatise (chapter/section on meditative attainment)",
+    "date_estimate": "first half of the 11th c. CE (Atiśa fl. 982-1054)",
+    "summary": "The 'Chapter on the Accumulations/Prerequisites for Samādhi,' a short doctrinal work attributed to Atiśa that sets out the conditions, supports and prerequisites (saṃbhāra) needed to cultivate meditative concentration (samādhi). It belongs to Atiśa's didactic literature on the graded path of practice.",
+    "history": "One of the many minor compositions of Atiśa Dīpaṃkaraśrījñāna (982-1054) preserved primarily in his Tibetan collected works; it reflects his characteristic systematic, stages-of-the-path approach to meditative cultivation that fed into the Tibetan lam-rim tradition.",
+    "related_works": ["Bodhipathapradīpa", "Collected works of Atiśa"],
+    "confidence": "medium",
+    "sources": [
+      "https://treasuryoflives.org/biographies/view/Atisha-Dipamkara/5717",
+      "https://link.springer.com/10.1007/978-3-476-05728-0_4726-1"
+    ]
+  },
+  {
+    "work_id": "T02bsa045_u",
+    "title": "Gurupañcāśikā",
+    "author": "Aśvaghoṣa (traditional attribution; the tantric content postdates the famous 1st-2nd c. poet, so authorship is pseudepigraphic/uncertain)",
+    "tradition": "Buddhist (Vajrayana)",
+    "genre": "didactic verse treatise (stotra/upadeśa on conduct)",
+    "date_estimate": "traditionally credited to Aśvaghoṣa (c. 1st-2nd c. CE), but the tantric subject matter implies a much later author (mid-1st millennium CE or later)",
+    "summary": "The 'Fifty Verses on the Guru' is the classic Vajrayana manual on guru devotion, prescribing in detail how a disciple should regard, honor and serve the spiritual teacher. It draws on a wide range of tantras (Guhyasamāja, Kālacakra, Cakrasaṃvara and others) and is customarily taught before conferring tantric initiation, since reliance on the guru is held to be essential to tantric practice.",
+    "history": "Attributed by tradition to Aśvaghoṣa, but because it cites tantras that postdate the famous Buddhist poet, the attribution is regarded as pseudepigraphic and the real author unknown. It became foundational in Tibetan Buddhism, with an important commentary by Tsongkhapa (Fulfillment of All Hopes) giving the tantric source for each verse.",
+    "related_works": ["Guhyasamāja-tantra", "Kālacakra-tantra", "Cakrasaṃvara-tantra", "Tsongkhapa's commentary 'Fulfillment of All Hopes'"],
+    "confidence": "high",
+    "sources": [
+      "https://tibetanbuddhistencyclopedia.com/en/index.php/50_Verses_on_Guru_Devotion_By_Indian_Master_Ashvagosha",
+      "https://www.lamayeshe.com/article/fifty-verses-guru-devotion"
+    ]
+  },
+  {
+    "work_id": "T02bsa048_u",
+    "title": "Caryāmelāvaṇapradīpa",
+    "author": "Āryadeva (tantric Āryadeva of the Guhyasamāja Noble tradition)",
+    "tradition": "Buddhist (Vajrayana; Guhyasamāja Ārya/Noble school)",
+    "genre": "tantric treatise (stages of the path)",
+    "date_estimate": "c. 9th c. CE (the project hint of c. 170-270 CE reflects traditional conflation with the early Madhyamaka Āryadeva)",
+    "summary": "The Caryāmelāpakapradīpa, the 'Lamp for Integrating/Compiling the Practices,' is a systematic prose exposition of the advanced yogas of the Guhyasamāja-tantra as taught in the Ārya (Noble Nāgārjuna) tradition. Equal in authority to Nāgārjuna's Pañcakrama, it is one of the earliest Sanskrit examples of the 'stages of the mantra path' genre and lays out the gradual Vajrayana path.",
+    "history": "Attributed to the 'tantric Āryadeva' of the Guhyasamāja Noble tradition—traditionally identified with the 3rd-century disciple of Nāgārjuna, but actually a much later figure (the work presupposes the developed Guhyasamāja system). It exerted immense influence on Indian and Tibetan Buddhism and was edited and translated by Christian K. Wedemeyer (with the 11th-c. Tibetan translation by Rinchen Zangpo).",
+    "related_works": ["Pañcakrama (Nāgārjuna)", "Guhyasamāja-tantra", "Cittaviśuddhiprakaraṇa"],
+    "confidence": "high",
+    "sources": [
+      "https://wisdomexperience.org/product/lamp-for-integrating-the-practices/",
+      "https://84000.co/canon-sections/guhyasamaja-and-related-tantras"
+    ]
+  },
+  {
+    "work_id": "T02dipguhsu",
+    "title": "Guhyasamājamaṇḍalavidhi",
+    "author": "Dīpaṃkarabhadra",
+    "tradition": "Buddhist (Vajrayana; Guhyasamāja tradition)",
+    "genre": "tantric ritual manual (maṇḍala rite)",
+    "date_estimate": "c. 9th c. CE",
+    "summary": "An influential ritual manual setting out the rite of the Guhyasamāja maṇḍala—the procedures for constructing the maṇḍala, the arrangement of its 32 deities centered on Akṣobhya/Guhyasamāja, and the associated consecrations (abhiṣeka) and visualizations. It is a foundational liturgical text for Guhyasamāja practice.",
+    "history": "Composed by Dīpaṃkarabhadra, a 9th-century tantric preceptor at Vikramaśīla active under King Dharmapāla. The work was so authoritative that the 11th-century master Ratnākaraśānti wrote a commentary on it; its empowerment (abhiṣeka) section has been the subject of detailed modern scholarship.",
+    "related_works": ["Guhyasamāja-tantra", "Ratnākaraśānti's commentary on the Guhyasamājamaṇḍalavidhi"],
+    "confidence": "high",
+    "sources": [
+      "https://ediss.sub.uni-hamburg.de/handle/ediss/10919?mode=full",
+      "https://link.springer.com/article/10.1007/s10781-023-09548-2"
+    ]
+  },
+  {
+    "work_id": "T02khasrpsu",
+    "title": "Khasarpaṇasādhana",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayana)",
+    "genre": "sādhana (tantric visualization/evocation manual)",
+    "date_estimate": "1st millennium CE (as transmitted in the Sādhanamālā, redacted by c. 11th-12th c.)",
+    "summary": "A sādhana (meditation-and-evocation manual) for Khasarpaṇa, a popular white form of Avalokiteśvara. The practitioner visualizes himself as Khasarpaṇa—holding a lotus, displaying the varada gesture, seated on a moon-disc over a lotus, bearing Amitābha in his crown and radiating moon-like rays—characteristically attended by the four deities Tārā, Sudhanakumāra, Bhṛkuṭī and Hayagrīva.",
+    "history": "Khasarpaṇa is described in several sādhanas within the Sādhanamālā, a large compilation of tantric evocation texts by various (often anonymous) authors; the popularity of this form is reflected by the number of its sādhanas. The collection took shape in eastern India/Nepal in the Pāla period.",
+    "related_works": ["Sādhanamālā", "Avalokiteśvara sādhana literature"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/khasarpana",
+      "https://www.wisdomlib.org/buddhism/book/the-indian-buddhist-iconography/d/doc242541.html"
+    ]
+  },
+  {
+    "work_id": "T02mpvv_u",
+    "title": "Mahāpratisarāvidyāvidhi",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "dhāraṇī/ritual manual (vidhi)",
+    "date_estimate": "mid-to-late 1st millennium CE (the Mahāpratisarā dhāraṇī is attested by c. 800 CE)",
+    "summary": "A ritual procedure (vidhi) for the spell/knowledge-formula (vidyā) of Mahāpratisarā, the chief of the five Pañcarakṣā protector goddesses. The text gives the dhāraṇī and the rites for its use, invoking Mahāpratisarā's power to protect against sin, disease, evils and danger; her dhāraṇī was widely worn as an amulet.",
+    "history": "Mahāpratisarā heads the Pañcarakṣā ('Five Protections') set of protective dhāraṇī-goddesses, an early dhāraṇī-genre corpus attested in Tibetan catalogues by around 800 CE and enormously popular among Mahayana Buddhists, especially in Nepal, where Pañcarakṣā manuscripts were household texts. Many divergent recensions survive across Nepal, Tibet and India.",
+    "related_works": ["Pañcarakṣā", "Mahāpratisarā-mahāvidyārājñī", "Mahāsāhasrapramardinī", "Mahāmāyūrī", "Mahāśītavatī", "Mahāmantrānusāriṇī"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mah%C4%81pratisar%C4%81",
+      "https://en.wikipedia.org/wiki/Pan%CC%82carak%E1%B9%A3%C4%81?oldformat=true"
+    ]
+  },
+  {
+    "work_id": "T02mrtvstsu",
+    "title": "Mṛtyuvañcanasitatārāsādhana",
+    "author": "anonymous/traditional (within the circle of Vāgīśvarakīrti's Mṛtyuvañcana cycle)",
+    "tradition": "Buddhist (Vajrayana)",
+    "genre": "sādhana (tantric visualization/evocation manual)",
+    "date_estimate": "c. 11th c. CE or later (associated with Vāgīśvarakīrti's Vikramaśīla-period Mṛtyuvañcana cycle)",
+    "summary": "A sādhana for 'Death-Cheating White Tārā' (Mṛtyuvañcana-Sitatārā), the long-life form of White Tārā invoked to avert untimely death and extend the lifespan. The practitioner visualizes and evokes the white goddess—associated with the wheel-on-the-breast iconography of the Mṛtyuvañcana family—performing the meditation and recitation that secure protection from life-threatening dangers.",
+    "history": "It belongs to the 'cheating death' (mṛtyuvañcana / Kālavañcana / Mṛtyuṃjaya) White Tārā long-life practices, a tradition rooted in the works of Vāgīśvarakīrti, an 11th-century paṇḍita of Vikramaśīla whose Mṛtyuvañcana instructions were regarded as the root of the Tārā long-life commentaries. Such sādhanas circulated within Sādhanamālā-type collections.",
+    "related_works": ["Mṛtyuvañcanatārāsādhana (Vāgīśvarakīrti)", "Mṛtyuvañcanopadeśatārāsādhana", "Sādhanamālā", "White Tārā long-life cycle"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mrityuvancana",
+      "https://www.rigpawiki.org/index.php?title=White_Tara"
+    ]
+  },
+  {
+    "work_id": "T02mrtvts_u",
+    "title": "Mṛtyuvañcanatārāsādhana",
+    "author": "Vāgīśvarakīrti",
+    "tradition": "Buddhist (Vajrayana)",
+    "genre": "sādhana (tantric visualization/evocation manual)",
+    "date_estimate": "c. 11th c. CE",
+    "summary": "A sādhana for 'Death-Cheating Tārā' (Mṛtyuvañcana Tārā), a White Tārā long-life practice composed to overcome untimely death and prolong life. It provides the visualization of the goddess and the ritual/recitation for invoking her power to avert mortal danger; the deity bears the distinctive wheel emblem on her breast.",
+    "history": "Composed by Vāgīśvarakīrti, an 11th-century paṇḍita of Vikramaśīla monastery, whose Mṛtyuvañcana ('cheating death') instructions are described as the root of all later Tārā long-life commentaries. This sādhana is the core text of his death-defeating White Tārā cycle, transmitted in Sanskrit and Tibetan.",
+    "related_works": ["Mṛtyuvañcanopadeśatārāsādhana", "Mṛtyuvañcanasitatārāsādhana", "Sādhanamālā", "White Tārā long-life cycle"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mrityuvancana",
+      "https://dakinitranslations.com/noble-tara-3/"
+    ]
+  },
+  {
+    "work_id": "T02mrtvutsu",
+    "title": "Mṛtyuvañcanopadeśatārāsādhana",
+    "author": "Vāgīśvarakīrti",
+    "tradition": "Buddhist (Vajrayana)",
+    "genre": "sādhana / upadeśa (instructional evocation manual)",
+    "date_estimate": "c. 11th c. CE",
+    "summary": "An instructional ('upadeśa') sādhana for 'Death-Cheating Tārā,' giving practical oral-style instructions for the White Tārā long-life practice that averts untimely death. It complements the main Mṛtyuvañcanatārāsādhana with guidance on the visualization, mantra recitation and ritual application for prolonging life.",
+    "history": "Another component of Vāgīśvarakīrti's influential 11th-century Mṛtyuvañcana ('cheating death') White Tārā cycle composed at Vikramaśīla. His death-defeating Tārā instructions became foundational for the Tibetan White Tārā long-life tradition; the text survives in Sanskrit and Tibetan transmission.",
+    "related_works": ["Mṛtyuvañcanatārāsādhana", "Mṛtyuvañcanasitatārāsādhana", "Sādhanamālā", "White Tārā long-life cycle"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mrityuvancana",
+      "https://dakinitranslations.com/noble-tara-3/"
+    ]
+  },
+  {
+    "work_id": "T02msitvatu",
+    "title": "Mahāśītavatī vidyārājñī",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "dhāraṇī (apotropaic protective scripture)",
+    "date_estimate": "mid-1st millennium CE (part of the Pañcarakṣā, attested by c. 800 CE)",
+    "summary": "The 'Great Śītavatī, Queen of Spells' is an apotropaic dhāraṇī scripture and one of the five members of the Pañcarakṣā corpus of protector-goddess incantations. It offers protection against 'cruel' planets, dangerous animals and poisonous insects (and is associated with protection from smallpox), embodied in the goddess Mahāśītavatī, who is affiliated with the Buddha Amitābha.",
+    "history": "Originally circulating under titles such as Mahā-Daṇḍadhāraṇī or Mahā-Daṇḍadhāraṇī-Śītavatī, the text was later incorporated into the Sanskrit Pañcarakṣā collection. The 'five great dhāraṇīs' are attested in Tibetan catalogues from around 800 CE, and over 300 Pañcarakṣā manuscripts survive, mainly from Nepal and eastern India.",
+    "related_works": ["Pañcarakṣā", "Mahāpratisarā", "Mahāsāhasrapramardinī", "Mahāmāyūrī", "Mahāmantrānusāriṇī"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mahashitavati",
+      "https://en.wikipedia.org/wiki/Pa%C3%B1carak%E1%B9%A3%C4%81",
+      "https://www.academia.edu/35607846/"
+    ]
+  },
+  {
+    "work_id": "T02n1397u",
+    "title": "Guhyavajravilāsinīsādhana",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayana; yoginī-tantra / Vajrayoginī cult)",
+    "genre": "sādhana (tantric visualization/evocation manual)",
+    "date_estimate": "c. 10th-12th c. CE",
+    "summary": "A sādhana for the 'Secret Vajravilāsinī,' a tantric form of the goddess Vajravilāsinī ('Vajra Coquette/Sporting One'), a manifestation associated with the Vajrayoginī/Vajravārāhī family. It gives the visualization, mantras and evocation rituals for realizing union with this fierce-yet-blissful female deity of the highest (yoginī) tantras.",
+    "history": "Such sādhanas belong to the Vajrayoginī sādhana corpus that developed in eastern India and Nepal between roughly the 10th and 12th centuries, preserved in palm-leaf Sanskrit collections like the Sādhanamālā and the Guhyasamayasādhanamālā, which gather works on the many forms of the goddess by various, often unnamed, authors.",
+    "related_works": ["Sādhanamālā", "Guhyasamayasādhanamālā", "Vajrayoginī/Vajravārāhī sādhana literature"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vajrayogini",
+      "https://www.wisdomlib.org/definition/vajrayogini"
+    ]
+  }
+]

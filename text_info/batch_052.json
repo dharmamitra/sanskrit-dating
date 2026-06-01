@@ -1,0 +1,328 @@
+[
+  {
+    "work_id": "T01n841u",
+    "title": "Pañcākṣarastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; Newar Buddhism of Nepal)",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "undated; medieval (1st–2nd millennium CE), preserved in Nepalese manuscripts",
+    "summary": "A short Buddhist hymn celebrating the five-syllable mantra (pañcākṣara), praising the sacred syllables and the deity (typically Avalokiteśvara or Mañjuśrī, or the five Tathāgatas) they invoke. It belongs to the Nepalese devotional repertoire in which the recitation of mantric syllables is treated as a form of praise and meditative practice.",
+    "history": "It is one of the anonymous hymns gathered in the Bauddha-stotra-saṃgraha (ed. Janardan Shastri Pandey, 1994) drawn from Buddhist manuscripts preserved in Nepal, where such stotras are still chanted by Newar Buddhist practitioners. Its author and date are unrecorded.",
+    "related_works": ["Bauddha-stotra-saṃgraha", "Mañjuśrīstotra", "Pañcatathāgatastotra"],
+    "confidence": "low",
+    "sources": [
+      "http://www.bodhisvara.com/?cat=8",
+      "https://archive.org/details/pandey-bauddhastotrasamgraha-1994",
+      "https://www.wisdomlib.org/definition/pancakshara"
+    ]
+  },
+  {
+    "work_id": "T01n842u",
+    "title": "Buddhagaṇḍīstava",
+    "author": "attributed (traditionally) to Aśvaghoṣa or Āryadeva; uncertain",
+    "tradition": "Buddhist (Mahayana)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "disputed; possibly c. 2nd–5th c. CE if Aśvaghoṣa/Āryadeva, otherwise medieval",
+    "summary": "A hymn of praise to the Buddha framed around the gaṇḍī, the wooden gong/sounding-board struck to summon the monastic community. The poem uses the sound of the gaṇḍī as a metaphor for the proclamation of the Dharma and the awakening call of the Buddha.",
+    "history": "It is closely related to (or a recension of) the Gaṇḍīstotra/Gaṇḍīstava that A. von Staël-Holstein reconstructed from Sanskrit, Tibetan and Chinese sources; that work has been traditionally ascribed to Aśvaghoṣa and in other sources to Āryadeva, an attribution scholars regard as uncertain. It survives in the Nepalese Bauddha-stotra-saṃgraha and in the Tibetan Tanjur hymn collection.",
+    "related_works": ["Gaṇḍīstava", "Bauddha-stotra-saṃgraha"],
+    "confidence": "medium",
+    "sources": [
+      "https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-ENG/thoma.htm",
+      "https://sanskritdocuments.org/doc_z_misc_general/gaNDIstavaH.html",
+      "https://archive.org/details/pandey-bauddhastotrasamgraha-1994"
+    ]
+  },
+  {
+    "work_id": "T01n843u",
+    "title": "Gaṇḍīstava",
+    "author": "traditionally attributed to Aśvaghoṣa (also to Āryadeva); uncertain",
+    "tradition": "Buddhist (Mahayana)",
+    "genre": "stotra (hymn of praise)",
+    "date_estimate": "disputed; c. 2nd–5th c. CE on the traditional attribution, otherwise medieval",
+    "summary": "A Sanskrit hymn (about 34 verses) built on the imagery of the gaṇḍī, the wooden gong used in monasteries to assemble the saṅgha; the striking of the gong becomes a figure for awakening beings to the Dharma. It is a kāvya-style devotional poem praising the Buddha.",
+    "history": "The text was largely restored to Sanskrit by Baron A. von Staël-Holstein from Tibetan and Chinese versions (the Chinese catalogues render it as a Ghaṇṭi-stotra/Ghaṇṭi-sūtra). It is preserved in the Tibetan Tanjur collection of hymns and in Nepalese manuscript collections such as the Bauddha-stotra-saṃgraha; the ascription to Aśvaghoṣa (or Āryadeva) is traditional and contested.",
+    "related_works": ["Buddhagaṇḍīstava", "Bauddha-stotra-saṃgraha"],
+    "confidence": "medium",
+    "sources": [
+      "https://buddhism.lib.ntu.edu.tw/FULLTEXT/JR-ENG/thoma.htm",
+      "https://sanskritdocuments.org/doc_z_misc_general/gaNDIstavaH.html"
+    ]
+  },
+  {
+    "work_id": "T01n844u",
+    "title": "Gaṇeśastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Newar Buddhism of Nepal); deity shared with Hinduism",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "undated; medieval (1st–2nd millennium CE), preserved in Nepalese manuscripts",
+    "summary": "A short hymn in praise of Gaṇeśa, the elephant-headed remover of obstacles, here invoked within the Buddhist (Vajrayana) ritual milieu of Nepal where Gaṇeśa is venerated as a guardian. It seeks his favor for the removal of impediments at the start of religious undertakings.",
+    "history": "It is an anonymous hymn from the Nepalese Buddhist stotra repertoire collected in the Bauddha-stotra-saṃgraha (ed. J. S. Pandey, 1994). Gaṇeśa is one of several pan-Indian deities absorbed into Newar Buddhist worship; the hymn's author and date are unrecorded.",
+    "related_works": ["Bauddha-stotra-saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "http://www.bodhisvara.com/?cat=8",
+      "https://archive.org/details/pandey-bauddhastotrasamgraha-1994"
+    ]
+  },
+  {
+    "work_id": "T01n845u",
+    "title": "Hāratīstotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; Newar Buddhism of Nepal)",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "undated; medieval (1st–2nd millennium CE), preserved in Nepalese manuscripts",
+    "summary": "A short hymn (roughly nine verses) in praise of Hārītī (Hāratī), the goddess who, once a child-devouring yakṣiṇī, was converted by the Buddha and became a protectress of children and a bestower of fertility and well-being. The hymn invokes her protective and benevolent aspects.",
+    "history": "Hārītī is a popular protective deity in Nepalese Buddhism (identified with Ajimā/Hāratī at Swayambhu). This stotra is one of the anonymous Nepalese hymns gathered in the Bauddha-stotra-saṃgraha and is still recited devotionally; its author and date are unknown.",
+    "related_works": ["Bauddha-stotra-saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "http://www.bodhisvara.com/?cat=8",
+      "https://ancient-buddhist-texts.net/Reference/Literary-History-of-Sanskrit-Buddhism/09-Strotras-Dharanis-Tantras.htm"
+    ]
+  },
+  {
+    "work_id": "T01n850u",
+    "title": "Mahācakravartināmāṣṭottaraśatastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "stotra (nāmāṣṭottaraśata, hymn of 108 names)",
+    "date_estimate": "undated; medieval (1st–2nd millennium CE), preserved in Nepalese manuscripts",
+    "summary": "A litany-hymn enumerating the 108 names (aṣṭottaraśata-nāma) of a 'Mahācakravartin' (Great Wheel-Turning) deity or Buddha-form, each name serving as an object of praise and invocation. Hymns of this 108-name type are recited to accumulate merit and secure the deity's protection.",
+    "history": "It belongs to the Nepalese Buddhist devotional corpus collected in the Bauddha-stotra-saṃgraha (ed. J. S. Pandey, 1994). The 108-name format is a widespread Indian devotional genre; this particular hymn's authorship and date are unrecorded and its precise dedicatee is not securely identified.",
+    "related_works": ["Bauddha-stotra-saṃgraha", "Mañjuśrīnāmāṣṭottaraśatakastotra"],
+    "confidence": "low",
+    "sources": [
+      "https://archive.org/details/pandey-bauddhastotrasamgraha-1994",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  },
+  {
+    "work_id": "T01n851u",
+    "title": "Mahākālastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayana; Newar Buddhism of Nepal)",
+    "genre": "stotra (devotional hymn to a protector/dharmapāla)",
+    "date_estimate": "undated; medieval (1st–2nd millennium CE), preserved in Nepalese manuscripts",
+    "summary": "A hymn in praise of Mahākāla, the wrathful dharmapāla ('protector of the Dharma') of Vajrayana Buddhism, describing his fierce iconography and invoking his power to destroy obstacles and protect practitioners. Mahākāla is a major guardian deity in Nepalese and Tibetan Buddhism.",
+    "history": "It is one of the protector-hymns in the Nepalese Bauddha-stotra-saṃgraha (ed. J. S. Pandey, 1994). Mahākāla is a deity shared across Hindu and Buddhist traditions; in the Buddhist context he is a wrathful manifestation associated with the Buddha-families. The hymn's author and date are unrecorded.",
+    "related_works": ["Vajramahākālastotra", "Bauddha-stotra-saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mahakala",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  },
+  {
+    "work_id": "T01n852u",
+    "title": "Vajramahākālastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayana; Newar Buddhism of Nepal)",
+    "genre": "stotra (devotional hymn to a protector/dharmapāla)",
+    "date_estimate": "undated; medieval (1st–2nd millennium CE), preserved in Nepalese manuscripts",
+    "summary": "A hymn to Vajra-Mahākāla, the vajra (adamantine/tantric) form of the wrathful protector Mahākāla, praising his ferocious attributes and invoking his protective and obstacle-destroying power within Vajrayana practice. It is a companion piece to the Mahākālastotra emphasizing the deity's tantric, vajra aspect.",
+    "history": "It belongs to the Nepalese Buddhist protector-hymn repertoire collected in the Bauddha-stotra-saṃgraha (ed. J. S. Pandey, 1994). Mahākāla in his various forms is a central dharmapāla in Newar and Tibetan Vajrayana; this hymn's author and date are unrecorded.",
+    "related_works": ["Mahākālastotra", "Bauddha-stotra-saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mahakala",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  },
+  {
+    "work_id": "T01n853u",
+    "title": "Mañjuśrīnāmāṣṭottaraśatakastotra [Āryamañjuśrīnāmāṣṭottaraśatakastotra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "stotra (nāmāṣṭottaraśata, hymn of 108 names)",
+    "date_estimate": "undated; medieval (1st–2nd millennium CE), preserved in Nepalese manuscripts",
+    "summary": "A devotional litany enumerating the 108 names of Ārya-Mañjuśrī, the bodhisattva of wisdom, each epithet praising an aspect of his nature and serving as an object of recitation. It belongs to the 108-name (aṣṭottaraśata-nāma) hymn genre and is distinct from the longer tantric Mañjuśrīnāmasaṃgīti.",
+    "history": "It is one of the Mañjuśrī hymns preserved in the Nepalese Bauddha-stotra-saṃgraha (ed. J. S. Pandey, 1994). The 108-name litany is a common devotional form; this hymn is closely associated with the broader Mañjuśrī cult expressed in the famous Mañjuśrīnāmasaṃgīti. Its author and date are unrecorded.",
+    "related_works": ["Mañjuśrīstotra", "Mañjuśrīnāmasaṃgīti", "Bauddha-stotra-saṃgraha"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ma%C3%B1ju%C5%9Br%C4%ABn%C4%81masamg%C4%ABti",
+      "https://www.lotsawahouse.org/words-of-the-buddha/chanting-names-of-manjushri",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  },
+  {
+    "work_id": "T01n854u",
+    "title": "Mañjuśrīstotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "undated; medieval (1st–2nd millennium CE), preserved in Nepalese manuscripts",
+    "summary": "A hymn in praise of Mañjuśrī, the bodhisattva embodying transcendent wisdom (prajñā), invoking his sword that cuts ignorance and his book of perfect knowledge, and seeking his blessing of insight and eloquence. Mañjuśrī is especially venerated in Nepal, where he is linked to the legendary draining of the Kathmandu valley.",
+    "history": "It is one of several Mañjuśrī hymns in the Nepalese Bauddha-stotra-saṃgraha (ed. J. S. Pandey, 1994). Such stotras are still recited by Newar Buddhists; this particular hymn's author and date are unrecorded.",
+    "related_works": ["Mañjuśrīnāmāṣṭottaraśatakastotra", "Bauddha-stotra-saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "http://www.bodhisvara.com/?cat=8",
+      "https://archive.org/details/pandey-bauddhastotrasamgraha-1994"
+    ]
+  },
+  {
+    "work_id": "T01n855u",
+    "title": "Guhyeśvarīstotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayana; Newar Buddhism of Nepal); deity shared with Hindu Śākta tradition",
+    "genre": "stotra (devotional hymn to a goddess)",
+    "date_estimate": "undated; medieval (1st–2nd millennium CE), preserved in Nepalese manuscripts",
+    "summary": "A hymn to Guhyeśvarī, the 'Secret Goddess' worshipped at the celebrated Guhyeśvarī shrine in the Kathmandu valley, who is venerated by both Buddhists (as a form of the tantric goddess/ḍākinī Nairātmyā or Prajñā) and Hindus (as a Śākta pīṭha goddess). The hymn praises her hidden, esoteric nature and invokes her protection.",
+    "history": "It is among the goddess-hymns preserved in the Nepalese Bauddha-stotra-saṃgraha (ed. J. S. Pandey, 1994) and listed in modern Nepalese stotra collections. Guhyeśvarī is a key site of shared Hindu–Buddhist tantric devotion in Nepal; the hymn's author and date are unrecorded.",
+    "related_works": ["Bauddha-stotra-saṃgraha", "Nairātmāṣṭakastotra"],
+    "confidence": "low",
+    "sources": [
+      "http://www.bodhisvara.com/?cat=8",
+      "https://archive.org/details/pandey-bauddhastotrasamgraha-1994"
+    ]
+  },
+  {
+    "work_id": "T01n856u",
+    "title": "Nairātmāṣṭakastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Vajrayana; Hevajra/yoginī-tantra tradition)",
+    "genre": "stotra (aṣṭaka, eight-verse hymn)",
+    "date_estimate": "undated; medieval (late 1st–2nd millennium CE), preserved in Nepalese manuscripts",
+    "summary": "An eight-verse hymn (aṣṭaka) in praise of Nairātmyā, the principal consort/yoginī of Hevajra and the deification of the doctrine of non-self (nairātmya), the central insight that there is no abiding self in persons or phenomena. The hymn praises her tantric form while pointing to the wisdom of selflessness she embodies.",
+    "history": "It belongs to the Nepalese Bauddha-stotra-saṃgraha (ed. J. S. Pandey, 1994) and the Hevajra-related devotional tradition. Nairātmyā is closely associated with Guhyeśvarī in Nepalese Buddhism. The eight-verse aṣṭaka is a standard hymn form; this work's author and date are unrecorded.",
+    "related_works": ["Guhyeśvarīstotra", "Bauddha-stotra-saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/nairatmya",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  },
+  {
+    "work_id": "T01n857u",
+    "title": "Pañcatathāgatastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "undated; medieval (1st–2nd millennium CE), preserved in Nepalese manuscripts",
+    "summary": "A hymn in praise of the five Tathāgatas (Vairocana, Akṣobhya, Ratnasambhava, Amitābha, Amoghasiddhi), the five 'wisdom Buddhas' who preside over the maṇḍala of the Buddha-families. The hymn typically praises each Buddha's color, direction, mudra and wisdom, mapping the structure of the Vajrayana maṇḍala.",
+    "history": "It is one of the hymns in the Nepalese Bauddha-stotra-saṃgraha (ed. J. S. Pandey, 1994). The five-Tathāgata scheme derives from the Sarvatathāgatatattvasaṃgraha and related tantras; this devotional hymn's author and date are unrecorded.",
+    "related_works": ["Pañcatathāgatastutigāthā", "Bauddha-stotra-saṃgraha", "Sarvatathāgatatattvasaṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Five_Tath%C4%81gatas",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  },
+  {
+    "work_id": "T01n858u",
+    "title": "Pañcatathāgatastutigāthā",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana)",
+    "genre": "stutigāthā (verses of praise)",
+    "date_estimate": "undated; medieval (1st–2nd millennium CE), preserved in Nepalese manuscripts",
+    "summary": "A set of praise-verses (stuti-gāthā) addressed to the five Tathāgatas, the five wisdom Buddhas of the Vajrayana maṇḍala. Like the related Pañcatathāgatastotra, it lauds each of the five Buddhas and their associated wisdoms and Buddha-families.",
+    "history": "It is a companion hymn to the Pañcatathāgatastotra in the Nepalese Bauddha-stotra-saṃgraha (ed. J. S. Pandey, 1994). The 'gāthā' designation marks its verse-of-praise form. Its author and date are unrecorded.",
+    "related_works": ["Pañcatathāgatastotra", "Bauddha-stotra-saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Five_Tath%C4%81gatas",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  },
+  {
+    "work_id": "T01n859u",
+    "title": "Sragdharāpañcakastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; Newar Buddhism of Nepal)",
+    "genre": "stotra (kavya-style hymn in sragdharā metre)",
+    "date_estimate": "undated; medieval (1st–2nd millennium CE), preserved in Nepalese manuscripts",
+    "summary": "A hymn of five (pañcaka) stanzas composed in the elaborate sragdharā metre, praising a Buddhist deity—most likely the goddess Tārā or a related figure—in ornate kāvya style. The sragdharā metre is favored in Buddhist Tārā hymnody, the most famous example being Sarvajñamitra's Sragdharāstotra.",
+    "history": "It belongs to the Nepalese Bauddha-stotra-saṃgraha (ed. J. S. Pandey, 1994) and reflects the same metrical-devotional tradition as Sarvajñamitra's celebrated Sragdharāstotra to Tārā (c. 8th c. Kashmir), though it is a distinct, shorter five-verse composition. Its author and date are unrecorded.",
+    "related_works": ["Sragdharāstotra (Sarvajñamitra)", "Bauddha-stotra-saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://catalog.hathitrust.org/Record/012155034",
+      "https://archive.org/details/sragdharastotram00sarvuoft",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  },
+  {
+    "work_id": "T01n861u",
+    "title": "Pañcarakṣādevīstotrāṇi",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; especially Newar Buddhism of Nepal)",
+    "genre": "stotra (hymns to protective goddesses)",
+    "date_estimate": "undated; medieval (the Pañcarakṣā corpus is attested by c. 800 CE; these hymns preserved in Nepalese manuscripts)",
+    "summary": "A set of hymns to the five protective goddesses (Pañcarakṣā): Mahāpratisarā, Mahāsāhasrapramardanī, Mahāmāyūrī, Mahāśītavatī, and Mahāmantrānusāriṇī, each the personification of a protective dhāraṇī. The goddesses are invoked to avert disease, snakebite, danger and natural calamity and to secure worldly welfare.",
+    "history": "These hymns derive from the immensely popular Pañcarakṣā tradition, a dhāraṇī corpus attested in Tibetan records by about 800 CE, whose manuscripts are found in nearly every traditional Newar Buddhist household. The stotra-hymns to the five goddesses are collected in the Nepalese Bauddha-stotra-saṃgraha; their authorship is anonymous.",
+    "related_works": ["Pañcarakṣā", "Pratisarāstotra", "Bauddha-stotra-saṃgraha"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pa%C3%B1carak%E1%B9%A3%C4%81",
+      "https://www.wisdomlib.org/definition/pancaraksha",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  },
+  {
+    "work_id": "T01n862u",
+    "title": "Pratisarāstotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana/Vajrayana; Newar Buddhism of Nepal)",
+    "genre": "stotra (devotional hymn to a protective goddess)",
+    "date_estimate": "undated; medieval (the goddess is attested from the late 8th c. CE; hymn preserved in Nepalese manuscripts)",
+    "summary": "A hymn in praise of Mahāpratisarā ('the Great Amulet'), the chief of the five Pañcarakṣā goddesses, who personifies the protective Mahāpratisarā-dhāraṇī worn as an amulet against danger, disease and misfortune. The hymn praises her many-armed form and invokes her protection.",
+    "history": "Mahāpratisarā arose from the deification of the Mahāpratisarā-dhāraṇī, which circulated as a protective amulet across Asia between the 8th and 12th centuries. This devotional hymn belongs to the Nepalese Bauddha-stotra-saṃgraha and the wider Pañcarakṣā cult; its author and date are unrecorded.",
+    "related_works": ["Pañcarakṣādevīstotrāṇi", "Pañcarakṣā", "Bauddha-stotra-saṃgraha"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mah%C4%81pratisar%C4%81",
+      "https://www.wisdomlib.org/definition/mahapratisara",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  },
+  {
+    "work_id": "T01n867u",
+    "title": "Bhaktiśataka",
+    "author": "Rāmacandra Kavibhāratī",
+    "tradition": "Buddhist (Mahayana; devotional/bhakti)",
+    "genre": "stotra / devotional kavya (hundred verses, śataka)",
+    "date_estimate": "c. 12th–14th c. CE (medieval; commonly placed c. 12th–13th c.)",
+    "summary": "A devotional poem of one hundred verses extolling the supremacy of the Buddha as the only being free from ignorance (avidyā), illusion (māyā) and attachment, contrasting him favorably with Brahmā, Viṣṇu and Śiva. It is a rare and influential expression of Buddhist bhakti (devotion), asserting the Buddha's unique spiritual perfection.",
+    "history": "It was composed by the Bengali Buddhist poet Rāmacandra Kavibhāratī, who later carried Buddhist learning to Sri Lanka; the work became well known there and survives in Sanskrit with Sinhala and Tibetan transmission. It represents the Buddhist response to Hindu Puranic attempts to absorb the Buddha as an avatāra of Viṣṇu.",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/saura-purana-analytical-study/d/doc1601970.html",
+      "https://www.dsbcproject.org/canon-text/content/820/2949"
+    ]
+  },
+  {
+    "work_id": "T01n868u",
+    "title": "Buddhabhaṭṭārakastotra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana)",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "undated; medieval (1st–2nd millennium CE), preserved in Nepalese manuscripts",
+    "summary": "A hymn of praise to the Buddha addressed with the honorific 'Bhaṭṭāraka' ('Lord, Venerable One'), extolling his enlightened qualities, compassion and teaching. It belongs to the broad class of Buddha-stotras that celebrate the supreme excellences of the Awakened One.",
+    "history": "It is one of the anonymous Buddha-hymns gathered in the Nepalese Bauddha-stotra-saṃgraha (ed. J. S. Pandey, 1994) from manuscripts preserved in Nepal. Its author and date are unrecorded.",
+    "related_works": ["Bauddha-stotra-saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/bhattaraka",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  },
+  {
+    "work_id": "T01n869u",
+    "title": "Buddhagadyaya [Buddhagajjaya]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahayana)",
+    "genre": "stotra in gadya (prose hymn of praise)",
+    "date_estimate": "undated; medieval (1st–2nd millennium CE), preserved in Nepalese manuscripts",
+    "summary": "A hymn in praise of the Buddha composed in gadya (ornate prose) rather than verse, lauding the Buddha's qualities, deeds and transcendent nature in rhythmic prose. The 'gadya' form places it among the prose-poem panegyrics of the Buddhist devotional tradition.",
+    "history": "It is one of the prose hymns preserved in the Nepalese Bauddha-stotra-saṃgraha (ed. J. S. Pandey, 1994); the variant title 'Buddhagajjaya' reflects manuscript/Newari spelling variation. Its author and date are unrecorded.",
+    "related_works": ["Buddhabhaṭṭārakastotra", "Bauddha-stotra-saṃgraha"],
+    "confidence": "low",
+    "sources": [
+      "https://archive.org/details/pandey-bauddhastotrasamgraha-1994",
+      "http://www.bodhisvara.com/?cat=8"
+    ]
+  }
+]

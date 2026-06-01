@@ -1,0 +1,323 @@
+[
+  {
+    "work_id": "GSP30vamjanmu",
+    "title": "Janmamaraṇavicāra",
+    "author": "Bhaṭṭa Vāmadeva",
+    "tradition": "Hindu; non-dual Kashmir Shaivism (Trika/Pratyabhijñā lineage)",
+    "genre": "philosophical treatise (Śaiva contemplative prakaraṇa)",
+    "date_estimate": "c. 12th-13th c. CE",
+    "summary": "A short Śaiva treatise titled 'Reflection on Life and Death' that contemplatively analyzes the nature of birth, death and transmigration. It traces existence from the highest level of consciousness-awareness down through the manifest universe to the embodied, transmigrating individual who undergoes birth and death, offering a non-dual reframing of mortality.",
+    "history": "Little is known of its author Bhaṭṭa Vāmadeva, who is not known to have written anything else and who was very likely a disciple of the Śaiva exegete Yogarāja (himself in the lineage descending through Kṣemarāja from Abhinavagupta). The editio princeps was prepared from a single manuscript and published by Mukund Rām Shāstrī in the Kashmir Series of Texts and Studies in 1918; it is a unique work in Śaiva literature.",
+    "related_works": ["Pratyabhijñāhṛdaya", "Tantrāloka", "Spandakārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.academia.edu/115631792/The_Language_of_Life_and_Death_Diametrical_Contemplation_in_Bha%E1%B9%AD%E1%B9%ADa_V%C4%81madeva_s_Janmamara%E1%B9%87avic%C4%81ra",
+      "https://muktabodha.org/dr-john-nemec-interview/"
+    ]
+  },
+  {
+    "work_id": "GSP30vamsbum_u",
+    "title": "Svabodhodayamañjarī",
+    "author": "Vāmanadatta (Hrasvanātha)",
+    "tradition": "Hindu; non-dual Kashmir Shaivism (Pratyabhijñā/Spanda milieu)",
+    "genre": "philosophical/meditative treatise (stotra-like contemplative manual)",
+    "date_estimate": "mid-10th c. CE",
+    "summary": "A short Śaiva meditation manual of about 44 verses whose title means 'The Inflorescence of the Rising of One's Own Awareness'. It offers practical contemplative instruction on the spontaneous arising and recognition of innate consciousness within the non-dual Śaiva framework.",
+    "history": "Its author Vāmanadatta, son of Harṣadatta, served as minister of war and peace under King Yaśaskara in mid-tenth-century Kashmir; he also composed the Saṃvitprakāśa. The Svabodhodayamañjarī is quoted by the commentator Utpala in the Spandapradīpikā, anchoring its date and showing its currency within the Spanda/Pratyabhijñā stream of Kashmir Shaivism.",
+    "related_works": ["Saṃvitprakāśa", "Spandakārikā", "Spandapradīpikā"],
+    "confidence": "high",
+    "sources": [
+      "https://mahanaya.org/en/scriptures/svabodhodayamanjari/",
+      "https://www.wisdomlib.org/definition/vamanadatta",
+      "https://hareesh.org/blog/2018/3/9/the-blossoming-of-your-awareness"
+    ]
+  },
+  {
+    "work_id": "GSP30vasspacu",
+    "title": "Spandakārikā",
+    "author": "Vasugupta or his pupil Bhaṭṭa Kallaṭa (disputed)",
+    "tradition": "Hindu; non-dual Kashmir Shaivism (Spanda school)",
+    "genre": "philosophical verse treatise (kārikā)",
+    "date_estimate": "c. 850-900 CE",
+    "summary": "A foundational set of verses (kārikās) of the Spanda branch of Kashmir Shaivism. It expounds spanda, the subtle 'vibration' or creative pulsation of consciousness (Śiva/Śakti) that underlies all manifestation and perception, teaching recognition of this dynamic ground as the path to liberation.",
+    "history": "Authorship is debated: tradition credits Vasugupta (revealer of the Śiva Sūtras), while others ascribe the verses to his disciple Bhaṭṭa Kallaṭa; Śākta-leaning circles favored Kallaṭa. Together with the Śiva Sūtras it represents the earliest non-dual Śaiva systematization opposed to dualist Śaiva Siddhānta, and it generated several major commentaries (Kallaṭa's Vṛtti, Kṣemarāja's Spandanirṇaya/Spandasandoha, Utpala's Spandapradīpikā).",
+    "related_works": ["Śivasūtra", "Spandanirṇaya", "Spandapradīpikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vasugupta",
+      "https://en.wikipedia.org/wiki/Kashmir_Shaivism"
+    ]
+  },
+  {
+    "work_id": "GSP30vatnsupu",
+    "title": "Vātūlanāthasūtra",
+    "author": "attributed to Vātūlanātha",
+    "tradition": "Hindu; non-dual Kashmir Shaivism (Krama/Mahānaya school)",
+    "genre": "sūtra (aphoristic Śaiva esoteric text)",
+    "date_estimate": "c. 11th-13th c. CE",
+    "summary": "A very short collection of 13 aphoristic sūtras belonging to the esoteric Krama tradition of Kashmir Shaivism, presented as oral teachings of the Yoginīs. The text uses distinctive terminology and centers its highest praxis on the 'Mahāsāhasa' (the Great Audacity), a sudden, overwhelming irruption of expanding, all-consuming pure consciousness.",
+    "history": "Ascribed to Vātūlanātha and transmitted with a Sanskrit commentary by his disciple Anantaśaktipāda, which alone preserves it. The lineage is traced to the early Krama founder figure Niṣkriyānandanātha. The sūtras with their commentary were published in the Kashmir Series of Texts and Studies in 1923.",
+    "related_works": ["Mahānayaprakāśa", "Cidgaganacandrikā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.anuttaratrikakula.org/vatulanathasutra/",
+      "https://hareesh.org/blog/2022/8/5/a-path-of-pure-radiance-the-krama-lineage"
+    ]
+  },
+  {
+    "work_id": "GSP30vijnbhau",
+    "title": "Vijñānabhairava",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu; non-dual Kashmir Shaivism (Kaula/Trika Tantra)",
+    "genre": "tantra (revealed scripture)",
+    "date_estimate": "c. 7th-8th c. CE (date uncertain)",
+    "summary": "A Bhairava-tantra of the Trika/Kaula stream, framed as a dialogue in which Bhairava answers the goddess Bhairavī. In some 160 verses it presents 112 dhāraṇās (centering/meditation techniques) for directly recognizing the nature of consciousness, making it a celebrated practical compendium of Śaiva yogic methods.",
+    "history": "The text is anonymous and traditionally treated as a portion/quintessence of the larger Rudrayāmala Tantra. It became a key practice scripture of Kashmir Shaivism and was commented on by Kṣemarāja (Uddyota) and Śivopādhyāya; it remains widely studied today.",
+    "related_works": ["Rudrayāmala Tantra", "Tantrāloka", "Mālinīvijayottaratantra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vij%C3%B1%C4%81na_Bhairava_Tantra",
+      "https://www.anuttaratrikakula.org/vijnana-bhairava/"
+    ]
+  },
+  {
+    "work_id": "GSP31bhgank_u",
+    "title": "Gaṇakārikā 1",
+    "author": "kārikās attributed to Haradattācārya, with the Ratnaṭīkā of Bhāsarvajña",
+    "tradition": "Hindu; Pāśupata Śaivism (Lākulīśa-Pāśupata)",
+    "genre": "philosophical verse treatise with commentary (kārikā + ṭīkā)",
+    "date_estimate": "c. 10th c. CE",
+    "summary": "A short doctrinal text (about eight verses) of the Lākulīśa-Pāśupata Śaiva school, transmitted with Bhāsarvajña's commentary the Ratnaṭīkā. It summarizes the Pāśupata program—the categories of attainment, the stages of practice (yoga), and the means by which the bound soul reaches union with Śiva—organizing the system into mnemonic 'groups' (gaṇa).",
+    "history": "The verses are commonly attributed to Haradattācārya, and the commentator Bhāsarvajña (the Nyāya logician) lived in the second half of the tenth century. Both the kārikās and the Ratnaṭīkā were recovered and published only in the twentieth century (Gaekwad's Oriental Series), and they are among the principal surviving sources for Pāśupata doctrine alongside the Pāśupatasūtra and Kauṇḍinya's bhāṣya.",
+    "related_works": ["Pāśupatasūtra", "Pañcārthabhāṣya (Kauṇḍinya)"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/book/a-history-of-indian-philosophy-volume-5/d/doc210070.html",
+      "http://www-lib.tufs.ac.jp/opac/en/recordID/catalog.bib/1000386741"
+    ]
+  },
+  {
+    "work_id": "GSP31iskar_u",
+    "title": "Sāṃkhyakārikā [Sāṃkhyasaptati]",
+    "author": "Īśvarakṛṣṇa",
+    "tradition": "Hindu; Sāṃkhya (classical dualist school)",
+    "genre": "philosophical verse treatise (kārikā)",
+    "date_estimate": "c. 4th-5th c. CE (Gupta era; some place it c. 350-450, others c. 447-490)",
+    "summary": "The earliest fully extant systematic text of classical Sāṃkhya, in about 72-73 āryā verses (hence also 'Sāṃkhyasaptati', the seventy). It expounds the dualism of puruṣa (pure consciousness) and prakṛti (primordial matter), the three guṇas, the 25 tattvas, satkāryavāda (the pre-existent effect), the means of valid knowledge, and liberation through discriminative knowledge.",
+    "history": "Attributed to Īśvarakṛṣṇa, a successor in the lineage of the legendary founder Kapila. Its terminus ad quem is fixed by Paramārtha's Chinese translation (the Suvarṇasaptati, c. 557-569 CE). It became the root text of the school, drawing the classic commentaries Gauḍapādabhāṣya, Yuktidīpikā, Māṭharavṛtti and Vācaspatimiśra's Sāṃkhyatattvakaumudī. This entry is one of several recensions/editions of the same work in the collection.",
+    "related_works": ["Sāṃkhyatattvakaumudī", "Gauḍapādabhāṣya", "Yuktidīpikā", "Sāṃkhyasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Samkhyakarika",
+      "https://en.wikipedia.org/wiki/%C4%AA%C5%9Bvarak%E1%B9%9B%E1%B9%A3%E1%B9%87a"
+    ]
+  },
+  {
+    "work_id": "GSP31iskgaudu",
+    "title": "Sāṃkhyakārikā [Sāṃkhyasaptati]",
+    "author": "Īśvarakṛṣṇa (kārikās), with the bhāṣya of Gauḍapāda",
+    "tradition": "Hindu; Sāṃkhya (classical dualist school)",
+    "genre": "philosophical verse treatise with commentary (kārikā + bhāṣya)",
+    "date_estimate": "kārikās c. 4th-5th c. CE; Gauḍapāda's bhāṣya c. 6th-8th c. CE",
+    "summary": "The Sāṃkhyakārikā of Īśvarakṛṣṇa accompanied by the Gauḍapādabhāṣya, an early prose commentary that glosses the verses kārikā by kārikā. It elucidates the core Sāṃkhya doctrine of the duality of puruṣa and prakṛti, the evolution of the tattvas, and liberation through discriminative discernment.",
+    "history": "This is the recension of the kārikā transmitted with the bhāṣya ascribed to Gauḍapāda (whose identity and relation to the Vedānta Gauḍapāda is disputed). The bhāṣya is one of the standard classical commentaries on the kārikā and helped fix its received reading. The 'gaud' tag in the work_id indicates this Gauḍapāda recension.",
+    "related_works": ["Sāṃkhyakārikā", "Sāṃkhyatattvakaumudī", "Yuktidīpikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Samkhyakarika",
+      "https://www.wisdomlib.org/definition/samkhyakarika"
+    ]
+  },
+  {
+    "work_id": "GSP31isvskaru",
+    "title": "Sāṃkhyakārikā [Sāṃkhyasaptati]",
+    "author": "Īśvarakṛṣṇa",
+    "tradition": "Hindu; Sāṃkhya (classical dualist school)",
+    "genre": "philosophical verse treatise (kārikā)",
+    "date_estimate": "c. 4th-5th c. CE (Gupta era)",
+    "summary": "A further recension/edition of Īśvarakṛṣṇa's Sāṃkhyakārikā, the root text of classical Sāṃkhya in about 72-73 āryā verses ('the seventy'). It sets out the dualism of puruṣa and prakṛti, the doctrine of the three guṇas, the unfolding of the 25 categories, satkāryavāda, and liberation by discriminative knowledge.",
+    "history": "Identical in authorship and content to the other Sāṃkhyakārikā entries; this is a distinct witness/edition (work_id 'isv-skar') in the collection. The kārikā is the basis of the entire later Sāṃkhya commentarial tradition and is securely datable before Paramārtha's mid-6th-century Chinese translation.",
+    "related_works": ["Sāṃkhyatattvakaumudī", "Gauḍapādabhāṣya", "Sāṃkhyasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Samkhyakarika",
+      "https://www.wisdomlib.org/definition/samkhyakarika"
+    ]
+  },
+  {
+    "work_id": "GSP31kavsttvu",
+    "title": "Sāṃkhyatattvapradīpa",
+    "author": "Kavirājayati (Kavirājagiri)",
+    "tradition": "Hindu; Sāṃkhya",
+    "genre": "philosophical treatise / commentary (prakaraṇa)",
+    "date_estimate": "later medieval, c. 16th-18th c. CE (uncertain)",
+    "summary": "A Sāṃkhya expository work titled 'Lamp on the Sāṃkhya Principles', presenting and clarifying the categories (tattvas) and doctrines of the Sāṃkhya system. It belongs to the body of postclassical Sāṃkhya literature that systematized and re-explained the school's metaphysics.",
+    "history": "Attributed to Kavirājayati (also given as Kavirājagiri), an author about whom little is securely known; the work survives within the broader corpus of late Sāṃkhya treatises and was printed in collections such as the Sāṃkhyasaṅgraha. Its precise date is not well established.",
+    "related_works": ["Sāṃkhyakārikā", "Sāṃkhyasūtra", "Tattvasamāsa"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/samkhyakarika",
+      "http://www.sanskrita.org/wiki/index.php?title=sAMkhya"
+    ]
+  },
+  {
+    "work_id": "GSP31kestprau",
+    "title": "Sāṃkhyatattvapradīpikā [Sāṃkhyārthatattvapradīpikā]",
+    "author": "Keśava (Bhaṭṭa Keśava)",
+    "tradition": "Hindu; Sāṃkhya",
+    "genre": "philosophical treatise / expository commentary",
+    "date_estimate": "later medieval (date uncertain)",
+    "summary": "A brief exposition of the Sāṃkhya system by Bhaṭṭa Keśava, titled 'Illuminator of the Sāṃkhya Principles' (also given as Sāṃkhyārthatattvapradīpikā). It sets forth and clarifies the categories and arguments of Sāṃkhya for instructional purposes.",
+    "history": "Authored by Bhaṭṭa Keśava, a figure known mainly through this work and catalogues of Sāṃkhya literature; precise dating is unsettled. It forms part of the late, post-kārikā layer of Sāṃkhya expository texts.",
+    "related_works": ["Sāṃkhyakārikā", "Tattvasamāsa", "Sāṃkhyasūtra"],
+    "confidence": "low",
+    "sources": [
+      "http://www.sanskrita.org/wiki/index.php?title=sAMkhya",
+      "https://www.wisdomlib.org/definition/samkhyakarika"
+    ]
+  },
+  {
+    "work_id": "GSP31samkhsuu",
+    "title": "Sāṃkhyasūtra",
+    "author": "traditionally ascribed to Kapila (actually an anonymous late author)",
+    "tradition": "Hindu; Sāṃkhya",
+    "genre": "sūtra (aphoristic treatise)",
+    "date_estimate": "c. 14th-15th c. CE",
+    "summary": "Also called the Sāṃkhyapravacanasūtra, this work in six chapters presents Sāṃkhya doctrine in aphorisms: the first three books expound the core metaphysics (puruṣa, prakṛti, the tattvas, bondage and liberation), the fourth gives illustrative parables, and the fifth and sixth refute rival schools and recapitulate the system.",
+    "history": "Traditionally attributed to the founder-sage Kapila, but the extant text is the work of an unknown later author of about the 14th-15th century, since it answers doctrines and uses materials of much later date. It renewed medieval interest in Sāṃkhya and drew the major commentaries of Aniruddha (Sāṃkhyasūtravṛtti) and Vijñānabhikṣu (Sāṃkhyapravacanabhāṣya).",
+    "related_works": ["Sāṃkhyasūtravṛtti (Aniruddha)", "Sāṃkhyapravacanabhāṣya (Vijñānabhikṣu)", "Sāṃkhyakārikā", "Tattvasamāsa"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Samkhya_Pravachana_Sutra",
+      "https://www.wisdomlib.org/definition/samkhyasutra"
+    ]
+  },
+  {
+    "work_id": "GSP31sparibhu",
+    "title": "Sāṃkhyaparibhāṣā",
+    "author": "anonymous/uncertain",
+    "tradition": "Hindu; Sāṃkhya",
+    "genre": "philosophical treatise (paribhāṣā — terminological/definitional manual)",
+    "date_estimate": "later medieval (date uncertain)",
+    "summary": "A short Sāṃkhya 'definitional' work that elucidates the technical terminology and key concepts of the Sāṃkhya system. It functions as a concise reference clarifying Sāṃkhya categories and definitions.",
+    "history": "A minor late Sāṃkhya text transmitted within the Sāṃkhyasaṅgraha compilation (printed 1918); its authorship and exact date are not securely established. It belongs to the body of postclassical Sāṃkhya manuals.",
+    "related_works": ["Sāṃkhyakārikā", "Sāṃkhyasūtra", "Tattvasamāsa"],
+    "confidence": "low",
+    "sources": [
+      "https://sanskritdocuments.org/doc_z_misc_major_works/sAMkhyaparibhASA.itx",
+      "https://www.wisdomlib.org/definition/samkhyakarika"
+    ]
+  },
+  {
+    "work_id": "GSP31stk",
+    "title": "Sāṃkhyatattvakaumudī",
+    "author": "Vācaspatimiśra",
+    "tradition": "Hindu; Sāṃkhya (and Vācaspati's broad polymath exegesis)",
+    "genre": "bhāṣya / commentary on the Sāṃkhyakārikā",
+    "date_estimate": "c. 9th-10th c. CE (Vācaspatimiśra fl. 9th-10th c.)",
+    "summary": "The most celebrated commentary on Īśvarakṛṣṇa's Sāṃkhyakārikā, explaining each verse word by word with critical and comparative notes. It treats the Sāṃkhya means of valid knowledge (perception, inference, testimony), satkāryavāda, the doctrine of the three guṇas, the plurality of puruṣas, and related metaphysics.",
+    "history": "Composed by Vācaspatimiśra, the great polymath who wrote authoritative commentaries across Nyāya, Vedānta, Mīmāṃsā, Yoga and Sāṃkhya. The Sāṃkhyatattvakaumudī became the standard interpretive lens for the kārikā and itself attracted numerous sub-commentaries (e.g., Tattvārṇava, Tattvacandra, Sāṃkhyatattvavibhākara).",
+    "related_works": ["Sāṃkhyakārikā", "Sāṃkhyatattvavibhākara (Vaṃśīdhara)", "Yuktidīpikā"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/samkhyatattvakaumudi",
+      "https://www.wisdomlib.org/definition/vacaspati-mishra"
+    ]
+  },
+  {
+    "work_id": "GSP31tatsuvru",
+    "title": "Tattvasamāsasūtravṛtti [Kramadīpikā]",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu; Sāṃkhya",
+    "genre": "vṛtti / commentary on the Tattvasamāsa",
+    "date_estimate": "c. 14th c. CE (postclassical)",
+    "summary": "A prose commentary (vṛtti), known from its closing verse as the Kramadīpikā, on the Tattvasamāsa—a terse abstract of Sāṃkhya philosophy in some 23-25 sūtras attributed to Kapila. It expounds the brief sūtras into a connected exposition of the Sāṃkhya categories and stages of knowledge.",
+    "history": "An anonymous postclassical commentary, conventionally dated around the 14th century along with the Tattvasamāsa it explains. It is one of several surviving commentaries on the Tattvasamāsa and is preserved in Sāṃkhya collections and digitized in GRETIL.",
+    "related_works": ["Tattvasamāsa", "Sāṃkhyasūtra", "Sāṃkhyakārikā", "Sarvopakāriṇī"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_tattvasamAsasUtravRtti.htm",
+      "https://www.wisdomlib.org/definition/kramadipika"
+    ]
+  },
+  {
+    "work_id": "GSP31tattvmiu",
+    "title": "Tattvamīmāṃsā",
+    "author": "uncertain (a Sāṃkhya Tattvamīmāṃsā; not the modern work of Ganapati Muni)",
+    "tradition": "Hindu; Sāṃkhya",
+    "genre": "philosophical treatise / commentary on the Tattvasamāsa",
+    "date_estimate": "later medieval (date uncertain)",
+    "summary": "A Sāṃkhya work titled 'Investigation of the Principles', associated with the Tattvasamāsa cluster of Sāṃkhya literature and expounding the categories (tattvas) of the system. It is one of the lesser-known expositions transmitted within the late Sāṃkhya corpus.",
+    "history": "Listed as a Sāṃkhya text in Aufrecht's Catalogus Catalogorum; note that a wholly separate modern Tattvamīmāṃsā (245 ślokas) was composed by Vāsiṣṭha Kāvyakaṇṭha Ganapati Muni (1878-1936), which is not this older Sāṃkhya entry. Authorship and date of the Sāṃkhya Tattvamīmāṃsā are not securely established.",
+    "related_works": ["Tattvasamāsa", "Sāṃkhyakārikā", "Sāṃkhyasūtra"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/tattvamimamsa",
+      "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/samkhya/tttvsamu.htm"
+    ]
+  },
+  {
+    "work_id": "GSP31tsc_bhau",
+    "title": "Tattvayāthārthyadīpana",
+    "author": "Bhāvāgaṇeśa Dīkṣita (Gaṇeśa Dīkṣita)",
+    "tradition": "Hindu; Sāṃkhya",
+    "genre": "commentary on the Tattvasamāsa",
+    "date_estimate": "c. 16th c. CE",
+    "summary": "A commentary ('Illumination of the True Nature of the Principles') on the Tattvasamāsa, the brief Sāṃkhya abstract in 23-25 sūtras. It expounds the Sāṃkhya tattvas and doctrine, offering its own division of the sūtra text that differs from other commentaries.",
+    "history": "Written by Bhāvāgaṇeśa Dīkṣita, son of Bhāvā Viśvanātha Dīkṣita and associated with the school of Vijñānabhikṣu (c. 16th century). It is one of the principal extant commentaries on the Tattvasamāsa and is preserved in Sāṃkhya collections and GRETIL.",
+    "related_works": ["Tattvasamāsa", "Kramadīpikā", "Sāṃkhyasūtra"],
+    "confidence": "high",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_tattvasamAsa-4versions.htm",
+      "https://www.wisdomlib.org/definition/tattvasamasa"
+    ]
+  },
+  {
+    "work_id": "GSP31tsc_simu",
+    "title": "Sāṃkhyatattvavivecana",
+    "author": "Kṣemānanda (variously read as Ṣimānanda/Kṣemendra)",
+    "tradition": "Hindu; Sāṃkhya",
+    "genre": "commentary on the Tattvasamāsa",
+    "date_estimate": "later medieval (date uncertain)",
+    "summary": "A commentary ('Discernment of the Sāṃkhya Principles') on the Tattvasamāsa, the short Sāṃkhya abstract in 23-25 sūtras. It analyzes and expounds the Sāṃkhya categories enumerated in the sūtras.",
+    "history": "Attributed to Kṣemānanda; the author's name is read variously in catalogues (Ṣimānanda, Kṣemendra), reflecting manuscript uncertainty. It is one of the several postclassical commentaries on the Tattvasamāsa within the Sāṃkhya corpus; precise dating is unsettled.",
+    "related_works": ["Tattvasamāsa", "Kramadīpikā", "Tattvayāthārthyadīpana"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/tattvasamasa",
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_tattvasamAsasUtravRtti.htm"
+    ]
+  },
+  {
+    "work_id": "GSP31tsc_vivu",
+    "title": "Sāṃkhyasūtravivaraṇa",
+    "author": "anonymous (ascribed in some sources to a Kṛṣṇa)",
+    "tradition": "Hindu; Sāṃkhya",
+    "genre": "commentary on the Tattvasamāsa",
+    "date_estimate": "later medieval / postclassical (date uncertain)",
+    "summary": "Despite its title 'Exposition of the Sāṃkhya Sūtras', this is a commentary on the Tattvasamāsa, the brief Sāṃkhya abstract in 23-25 sūtras. It glosses and expands the terse sūtras into a connected account of Sāṃkhya doctrine.",
+    "history": "Transmitted anonymously (sometimes associated with an author named Kṛṣṇa) and counted among the postclassical commentaries on the Tattvasamāsa. It is preserved in Sāṃkhya collections and digitized in GRETIL; its date and authorship are not securely established.",
+    "related_works": ["Tattvasamāsa", "Kramadīpikā", "Sāṃkhyasūtra"],
+    "confidence": "medium",
+    "sources": [
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_sAMkhyasUtravivaraNa.htm",
+      "https://www.wisdomlib.org/definition/tattvasamasa"
+    ]
+  },
+  {
+    "work_id": "GSP31ttssarvu",
+    "title": "Sarvopakāriṇī",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu; Sāṃkhya",
+    "genre": "commentary on the Tattvasamāsa",
+    "date_estimate": "later medieval / postclassical (date uncertain)",
+    "summary": "A commentary titled 'The All-Helpful (gloss)' on the Tattvasamāsa, the short Sāṃkhya abstract in 23-25 sūtras. It serves as an explanatory aid expounding the Sāṃkhya categories and doctrines compressed in the sūtras.",
+    "history": "An anonymous postclassical commentary forming part of the cluster of Tattvasamāsa commentaries (alongside the Kramadīpikā, Tattvayāthārthyadīpana, Sāṃkhyatattvavivecana and Sāṃkhyasūtravivaraṇa). Preserved in Sāṃkhya collections; its date and author are not securely established.",
+    "related_works": ["Tattvasamāsa", "Kramadīpikā", "Tattvayāthārthyadīpana"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/tattvasamasa",
+      "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/samkhya/tttvsamu.htm"
+    ]
+  }
+]

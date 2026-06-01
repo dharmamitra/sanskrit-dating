@@ -1,0 +1,322 @@
+[
+  {
+    "work_id": "GR13purekaku",
+    "title": "Ekākṣarakośa",
+    "author": "Puruṣottamadeva",
+    "tradition": "Hindu",
+    "genre": "lexicon (kośa)",
+    "date_estimate": "c. 12th c. CE (author fl. 11th-13th c.)",
+    "summary": "A short Sanskrit lexicon (kośa) that catalogues monosyllabic (single-syllable) words and the various meanings attached to each. It belongs to the genre of specialized synonym/homonym dictionaries used by poets and scholars to find compact expressions and decode the dense, syllable-laden language of kāvya and tantra.",
+    "history": "It is one of several lexicons composed by the Buddhist-leaning Bengali lexicographer Puruṣottamadeva (who also wrote the Trikāṇḍaśeṣa, Hārāvalī and Varṇadeśanā), traditionally counted as his fifth kośa. Such monosyllabic glossaries were prized as aids to poetic composition and the interpretation of bīja (seed) syllables.",
+    "related_works": ["Trikāṇḍaśeṣa", "Hārāvalī", "Amarakośa"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/ekaksharakosha",
+      "https://www.scribd.com/document/119646440/Ekakshara-Kosha-of-Purushottamadeva"
+    ]
+  },
+  {
+    "work_id": "GR13saulahpu",
+    "title": "Saundaryalaharī",
+    "author": "attributed to Śaṃkara (disputed)",
+    "tradition": "Hindu, Śākta / Śrīvidyā Tantra",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "disputed; traditionally attributed to Śaṅkara (8th c.), but many scholars date the text c. 1350-1450 CE",
+    "summary": "A celebrated Tantric devotional hymn of c. 100 verses in the śikhariṇī metre praising the Goddess Tripurasundarī (Lalitā). The first portion (the Ānandalaharī, c. 41 verses) expounds the worship of the Śrīcakra and the union of Śiva-Śakti, while the remainder offers an extended head-to-foot (keśādipāda) aesthetic description of the Goddess's beauty.",
+    "history": "Almost all commentators ascribe it to Ādi Śaṅkara, but its Tantric Śrīvidyā content and pariṇāmavāda (transformation) metaphysics sit awkwardly with Śaṅkara's Advaita, so the attribution is widely doubted and a much later date is often proposed. It has attracted dozens of commentaries (notably Lakṣmīdhara's) and remains one of the most popular and most-recited Śākta hymns.",
+    "related_works": ["Lalitāsahasranāma", "Tripurasundarī Śrīvidyā corpus", "Ānandalaharī"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/soundarya-lahari-of-shri-shankara-study",
+      "https://www.kamakotimandali.com/2021/03/12/saundaryalahari-an-introduction/"
+    ]
+  },
+  {
+    "work_id": "GR13sidr_1-3",
+    "title": "Śivadṛṣṭi, chapters 1-3",
+    "author": "Somānanda",
+    "tradition": "Hindu, Kashmir Shaivism (Trika / Pratyabhijñā)",
+    "genre": "philosophical treatise",
+    "date_estimate": "c. 900-925 CE",
+    "summary": "Chapters 1-3 of the Śivadṛṣṭi ('Vision of Śiva'), the foundational philosophical work of the Pratyabhijñā ('Recognition') school of Kashmir Shaivism. The text argues a strict non-dualism in which all beings and things in the universe are fully identical with the active, willful god Śiva, the conscious world being real rather than illusory; the opening chapters set out this Śiva-as-everything pantheism and its theory of will (icchā) and divine power (śakti).",
+    "history": "Somānanda was the first systematic philosopher of the Trika/Pratyabhijñā lineage and teacher of Utpaladeva, who developed his ideas in the Īśvarapratyabhijñākārikā. The Śivadṛṣṭi is regarded as the first full scholastic philosophical treatise of the school; it survives with the commentary (vṛtti) of Utpaladeva.",
+    "related_works": ["Śivadṛṣṭi (complete)", "Īśvarapratyabhijñākārikā", "Śivadṛṣṭivṛtti (Utpaladeva)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Somananda",
+      "https://iep.utm.edu/kashmiri/"
+    ]
+  },
+  {
+    "work_id": "Gr13sidr_4",
+    "title": "Śivadṛṣṭi, chapter 4",
+    "author": "Somānanda",
+    "tradition": "Hindu, Kashmir Shaivism (Trika / Pratyabhijñā)",
+    "genre": "philosophical treatise",
+    "date_estimate": "c. 900-925 CE",
+    "summary": "Chapter 4 of Somānanda's Śivadṛṣṭi, continuing the school's exposition of monistic Śaiva metaphysics in which the manifest world unfolds from Śiva's autonomous power (śakti) through the 36 tattvas while remaining wholly identical with Śiva. As part of the larger treatise it advances the argument that the individual self can 'recognize' (pratyabhijñā) its own identity with the supreme conscious Śiva.",
+    "history": "Same work as the preceding entry; this record isolates the fourth chapter. Somānanda's text is the cornerstone of the Pratyabhijñā school and was transmitted with Utpaladeva's vṛtti, which is itself incomplete for the later chapters.",
+    "related_works": ["Śivadṛṣṭi (complete)", "Śivadṛṣṭi chapters 1-3", "Īśvarapratyabhijñākārikā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Somananda",
+      "https://iep.utm.edu/kashmiri/"
+    ]
+  },
+  {
+    "work_id": "GR13sivmstpu",
+    "title": "Śivamahimnastava",
+    "author": "attributed to Puṣpadanta (traditional)",
+    "tradition": "Hindu, Śaiva",
+    "genre": "stotra (devotional hymn)",
+    "date_estimate": "uncertain; 1st millennium CE (text undated)",
+    "summary": "A famous Sanskrit hymn of c. 43 verses ('Hymn on the Greatness of Śiva') extolling Śiva's cosmic deeds, attributes and ineffable glory, opening with an admission that even the gods cannot fully praise him. It is one of the most widely recited Śaiva stotras.",
+    "history": "Tradition attributes it to the gandharva Puṣpadanta, whose name appears in verse 38, said to have composed it in repentance after offending Śiva; no firm historical date or author is established. It has been transmitted with several commentaries and remains central to popular Śaiva devotion.",
+    "related_works": ["Śiva Tāṇḍava Stotra", "Śaiva stotra corpus"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shiva_Mahimna_Stotra",
+      "https://www.shaivam.org/scripture/English-Script/178/shiva-mahimna-stotra/"
+    ]
+  },
+  {
+    "work_id": "GR13sivsutru",
+    "title": "Śivasūtra",
+    "author": "Vasugupta (revealer)",
+    "tradition": "Hindu, Kashmir Shaivism (Trika)",
+    "genre": "sūtra (aphoristic scripture)",
+    "date_estimate": "c. early 9th c. CE (c. 800-850)",
+    "summary": "A short collection of aphorisms regarded as the foundational revealed scripture of non-dual Kashmir Shaivism, presenting the path to recognizing the identity of the individual self with Śiva-consciousness. The sūtras are organized around three 'means' (upāyas)—śāmbhava, śākta and āṇava—to liberation.",
+    "history": "Tradition holds that the aphorisms were revealed to Vasugupta, who is said to have found them inscribed on a rock or received them in a dream. They generated an influential exegetical tradition, including the Spandakārikā and the commentaries Vimarśinī of Kṣemarāja and the Vārttika of Bhāskara.",
+    "related_works": ["Spandakārikā", "Śivasūtravimarśinī (Kṣemarāja)", "Pratyabhijñā corpus"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shiva_Sutras_of_Vasugupta",
+      "https://en.wikipedia.org/wiki/Vasugupta"
+    ]
+  },
+  {
+    "work_id": "GR13sivup_pu",
+    "title": "Śiva-Upaniṣad",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva",
+    "genre": "Upaniṣad (minor / sectarian)",
+    "date_estimate": "uncertain; later 1st-early 2nd millennium CE",
+    "summary": "A minor Śaiva Upaniṣad that extols Śiva as identical with the supreme Brahman and the inner Self (Ātman), and treats Śaiva ritual, worship and meditative practice. It belongs to the class of sectarian Upaniṣads that integrate devotional Śaivism into the Upaniṣadic idiom of self-knowledge.",
+    "history": "It is one of the many minor Upaniṣads (the Muktikā corpus counts roughly fifteen as specifically Śaiva); the date and authorship of most such texts are unknown, and they are generally regarded as comparatively late compositions relative to the principal Upaniṣads.",
+    "related_works": ["Śaiva Upaniṣads", "Atharvaśiras Upaniṣad", "Kaivalya Upaniṣad"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shaiva_Upanishads",
+      "https://www.shaivam.org/scripture/English-Script/107/shiva-upanishad/"
+    ]
+  },
+  {
+    "work_id": "GR13somsv_u",
+    "title": "Śāktavijñāna",
+    "author": "Somānanda",
+    "tradition": "Hindu, Kashmir Shaivism (Trika / Pratyabhijñā)",
+    "genre": "philosophical / tantric treatise (short work)",
+    "date_estimate": "c. 900-925 CE",
+    "summary": "A short work attributed to Somānanda concerned with the 'knowledge of Śakti'—the divine power (śakti) through which the non-dual Śiva manifests and recognizes himself as the world. It treats the role of Śakti in the unfolding of the tattvas within the monistic Śaiva framework of the Pratyabhijñā school.",
+    "history": "Ascribed to Somānanda, the founding philosopher of the Pratyabhijñā lineage and author of the Śivadṛṣṭi; this is a minor work and its specific transmission is less documented than his principal treatise. Some details of authorship and content for this short text are not fully confirmed in standard reference sources.",
+    "related_works": ["Śivadṛṣṭi", "Īśvarapratyabhijñākārikā"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Somananda",
+      "https://iep.utm.edu/kashmiri/"
+    ]
+  },
+  {
+    "work_id": "GR13sratrppu",
+    "title": "Ratnatrayaparīkṣā",
+    "author": "Śrīkaṇṭha",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "philosophical treatise (prakaraṇa)",
+    "date_estimate": "c. 9th-10th c. CE",
+    "summary": "A doctrinal treatise of the dualist Śaiva Siddhānta examining the 'three jewels' (ratnatraya)—the three fundamental ontological categories of pati (the Lord, Śiva), paśu (the bound soul) and pāśa (the bonds, comprising āṇava, karma and māyā). It systematically expounds the relation of God, souls and the fetters in the soteriology of the school.",
+    "history": "Attributed to Śrīkaṇṭha, a Śaiva Siddhānta theologian in the line of pre-twelfth-century Kashmiri/northern Siddhānta authors (the milieu of Sadyojyoti and the later commentator Aghoraśiva). It is transmitted with a commentary by Aghoraśiva, who systematized the dualist Siddhānta in the south.",
+    "related_works": ["Śaiva Siddhānta āgamas", "Aghoraśiva's commentary", "Tattvatrayanirṇaya"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shaiva_Siddhanta",
+      "https://www.wisdomlib.org/concept/pati-pashu-and-pasha"
+    ]
+  },
+  {
+    "work_id": "GR13stkal_pu",
+    "title": "Sārdhatriśatikālottarāgama",
+    "author": "anonymous/traditional (Śaiva āgama)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "āgama / tantra (scripture)",
+    "date_estimate": "mid-1st millennium CE (before 10th c.)",
+    "summary": "An abridged recension of the Kālottara, a Śaiva Siddhānta scripture, in 350 (sārdha-triśati) verses across twenty-seven chapters. It treats ritual, initiation, yoga, the nature of the soul and Śaiva cosmology characteristic of the Siddhānta āgamic tradition.",
+    "history": "The Kālottara circulated in multiple recensions of differing length (the shortest being the Śatika Kālajñāna); this 350-verse version was edited with the authoritative commentary of Bhaṭṭa Rāmakaṇṭha (10th c.), which fixes its terminus ante quem. It is studied as a key witness to the early Saiddhāntika canon (work on these recensions notably by A. Sanderson and the IFP, Pondicherry).",
+    "related_works": ["Kālottara (other recensions)", "Śatika Kālajñāna", "Bhaṭṭa Rāmakaṇṭha's commentary"],
+    "confidence": "high",
+    "sources": [
+      "https://www.ifpindia.org/bookstore/pifi61/",
+      "https://www.academia.edu/3350036/A_first_edition_of_the_%C5%9Aatika_K%C4%81laj%C3%B1%C4%81na_the_shortest_of_the_non_eclectic_recensions_of_the_K%C4%81lottara"
+    ]
+  },
+  {
+    "work_id": "GR13svact_pu",
+    "title": "Svacchandatantra [Svacchandabhairavatantra]",
+    "author": "anonymous/traditional (Bhairava tantra)",
+    "tradition": "Hindu, Śaiva (Bhairava / Mantramārga; non-dual reading in Kashmir)",
+    "genre": "tantra (scripture)",
+    "date_estimate": "by c. 7th c. CE (composite, pre-10th c.)",
+    "summary": "A large Bhairava tantra centered on the worship of Svacchandabhairava ('Autonomous Bhairava'), a form of Śiva, together with his consort Aghoreśvarī. It covers mantra, initiation (dīkṣā), cosmology, yoga, ritual practice and soteriology, and was one of the most influential and widely worshipped tantric cults in medieval Kashmir.",
+    "history": "Datable to at least the 7th century, it became authoritative in Kashmir and received the important Uddyota commentary of Kṣemarāja (late 10th c.), pupil of Abhinavagupta, who reinterpreted its originally more dualist material in a non-dual Trika key, explicitly aiming to refute earlier Siddhāntin commentators.",
+    "related_works": ["Svacchandoddyota (Kṣemarāja's commentary)", "Netratantra", "Bhairava tantras"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/book/svacchandatantra-history-and-structure/d/doc1473610.html",
+      "https://doi.org/10.3390/rel5030738"
+    ]
+  },
+  {
+    "work_id": "GR13todaltpu",
+    "title": "Toḍalatantra",
+    "author": "anonymous/traditional (Śākta tantra)",
+    "tradition": "Hindu, Śākta",
+    "genre": "tantra (scripture)",
+    "date_estimate": "uncertain; comparatively late (later medieval, 2nd millennium CE)",
+    "summary": "A Śākta tantra dealing with the worship of the Goddess and the Daśa Mahāvidyā, the ten Tantric wisdom-goddesses. Its tenth chapter notably correlates each of the ten Mahāvidyās with one of Viṣṇu's ten avatāras (e.g. Kālī with Kṛṣṇa, Durgā with Kalki), reflecting an integration of Śākta and Vaiṣṇava schemes.",
+    "history": "A relatively late tantra of uncertain authorship and date; its systematic Mahāvidyā-Daśāvatāra correlation marks it as part of a developed Mahāvidyā tradition associated especially with eastern India. No critical scholarly dating is firmly established.",
+    "related_works": ["Daśa Mahāvidyā tantras", "Guhyātiguhya Tantra", "Śākta tantra corpus"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mahavidya",
+      "https://shivashakti.com/todabst"
+    ]
+  },
+  {
+    "work_id": "GR13uddamt_u",
+    "title": "Uḍḍāmareśvaratantra",
+    "author": "anonymous/traditional (Tantra)",
+    "tradition": "Hindu, Tantric (magical rites)",
+    "genre": "tantra (manual of ritual / magic)",
+    "date_estimate": "uncertain; 2nd millennium CE",
+    "summary": "A tantra devoted chiefly to magical rites (the ṣaṭkarma and related practices), describing supernatural beings such as the thirty-six Yakṣas and Yakṣiṇīs together with their mantras and ritual procedures for attaining worldly aims. It belongs to the practical/magical stratum of Tantric literature rather than to high speculative theology.",
+    "history": "Of uncertain authorship and date; it was published in the Kashmir Series of Texts and Studies (ed. Jagad Dhar Zadoo, 1947). Such uḍḍāmara-type texts circulated widely as practical handbooks of mantric magic across both Hindu and Buddhist tantric milieus.",
+    "related_works": ["Tantric ṣaṭkarma manuals", "Kashmir Series of Texts and Studies editions"],
+    "confidence": "medium",
+    "sources": [
+      "https://archive.org/details/in.ernet.dli.2015.367516",
+      "https://www.tibetanbuddhistencyclopedia.com/en/index.php?title=Uddamareshvara_Tantra"
+    ]
+  },
+  {
+    "work_id": "GR13utsivsau",
+    "title": "Śivastotrāvalī",
+    "author": "Utpaladeva",
+    "tradition": "Hindu, Kashmir Shaivism (Pratyabhijñā)",
+    "genre": "stotra (devotional hymns)",
+    "date_estimate": "c. 900-950 CE",
+    "summary": "A collection (āvalī, 'garland') of devotional hymns to Śiva by the great Pratyabhijñā philosopher Utpaladeva, expressing intense longing for, and the bliss of, identity with Śiva-consciousness. It is widely regarded as the supreme example of Kashmiri Śaiva devotional poetry, fusing the school's recognition philosophy with ecstatic bhakti.",
+    "history": "Composed by Utpaladeva (fl. c. 900-950), disciple of Somānanda and author of the Īśvarapratyabhijñākārikā; the hymns were compiled and transmitted with a commentary by Kṣemarāja. They remain central to the living Kashmir Śaiva devotional tradition (e.g. taught by Swami Lakshmanjoo).",
+    "related_works": ["Īśvarapratyabhijñākārikā", "Śivadṛṣṭi", "Kṣemarāja's commentary on the Śivastotrāvalī"],
+    "confidence": "high",
+    "sources": [
+      "https://www.lakshmanjooacademy.org/blog/sacred-hymns-of-devotion-by-utpaladeva-kashmir-shaivism",
+      "https://iep.utm.edu/kashmiri/"
+    ]
+  },
+  {
+    "work_id": "GR13vinst_pu",
+    "title": "Vīṇāśikhatantra",
+    "author": "anonymous/traditional (Śaiva tantra)",
+    "tradition": "Hindu, Śaiva (Vāmasrotas / 'Left Current')",
+    "genre": "tantra (scripture)",
+    "date_estimate": "early stratum of Tantric literature; mid-1st millennium CE",
+    "summary": "A succinct Śaiva tantra and the only surviving text representing the Vāmasrotas ('Left Current') of early Śaiva Tantrism. The deity worshipped is a little-known fourfold-emanating form of Śiva called Tumburu, surrounded by his four Śaktis—Jayā, Vijayā, Ajitā (Jayantī) and Aparājitā—with attendant mantra and ritual material.",
+    "history": "Edited, introduced and translated by Teun Goudriaan (1985). It is valued as a rare witness to the archaic Left-Current tradition that otherwise survives mainly through references in later works, and is dated to an early phase of the tantric corpus.",
+    "related_works": ["Tumburu / Vāma tantras", "early Śaiva Tantra corpus"],
+    "confidence": "high",
+    "sources": [
+      "https://www.abebooks.com/first-edition/VINASIKHATANTRA-Saiva-Tantra-Left-Current-Edited/30349228720/bd",
+      "https://www.wisdomlib.org/definition/vinashikhatantra"
+    ]
+  },
+  {
+    "work_id": "GR14astavgpu",
+    "title": "Aṣṭāvakragītā",
+    "author": "anonymous/traditional (attributed to Aṣṭāvakra)",
+    "tradition": "Hindu, Advaita Vedānta",
+    "genre": "philosophical dialogue / gītā",
+    "date_estimate": "disputed; commonly placed c. 8th-14th c. CE (some argue much earlier)",
+    "summary": "Also called the Aṣṭāvakra Saṃhitā, a verse dialogue between the sage Aṣṭāvakra and King Janaka expounding radical non-dualism (Advaita): the self is pure, free, witnessing consciousness, and liberation is recognition of one's ever-already-free nature rather than the fruit of any practice. It is admired for its uncompromising, terse statement of jñāna.",
+    "history": "Authorship and date are highly uncertain and much disputed: estimates range from c. 500-400 BCE (Mukerjee) to the 8th or 14th century CE (Brockington), the later dating favored because of its developed, systematic Advaita. It is attributed to the legendary sage Aṣṭāvakra known from the Mahābhārata and Purāṇas.",
+    "related_works": ["Bhagavadgītā", "Advaita Vedānta corpus"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ashtavakra_Gita",
+      "https://www.wisdomlib.org/definition/ashtavakra-gita"
+    ]
+  },
+  {
+    "work_id": "GR14bhrgus_u",
+    "title": "Bhṛgu-Saṃhitā",
+    "author": "attributed to the sage Bhṛgu (traditional)",
+    "tradition": "Hindu",
+    "genre": "saṃhitā (astrological treatise; jyotiṣa)",
+    "date_estimate": "uncertain; traditionally ancient, extant material later and composite",
+    "summary": "A jyotiṣa (astrological) treatise attributed to the Vedic sage Bhṛgu, framed as a vast compilation of horoscopes said to contain predictions about a person's present, past and future lives. It is associated with predictive astrology in which an inquirer's chart is matched to one of a large collection of pre-recorded horoscope-readings.",
+    "history": "Traditionally ascribed to Bhṛgu as the first compiler of predictive astrology; no complete manuscript survives, large parts are reportedly lost, and working astrologers use scattered manuscript leaves. (Note: a distinct Pāñcarātra Vaiṣṇava āgama also bears a similar 'Bhṛgu' title; this record most plausibly refers to the well-known astrological Bhṛgu-Saṃhitā.) Its dating is highly uncertain.",
+    "related_works": ["jyotiṣa / horā śāstra corpus"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhrigu_Samhita",
+      "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bhrigu-samhita"
+    ]
+  },
+  {
+    "work_id": "GR14brhms5cu",
+    "title": "Brahma-Saṃhitā: Adhyāya 5",
+    "author": "anonymous/traditional (ascribed to Brahmā)",
+    "tradition": "Hindu, Vaiṣṇava (Pāñcarātra; Gauḍīya)",
+    "genre": "Pāñcarātra saṃhitā / stotra",
+    "date_estimate": "c. 1300 CE (Matsubara) for the recovered chapter",
+    "summary": "The fifth chapter of the Brahma-Saṃhitā, a Pāñcarātra text framed as prayers spoken by Brahmā glorifying Kṛṣṇa as the Supreme Personality of Godhead. Its 62 verses describe Goloka Vṛndāvana and the spiritual world, expound the kāma-gāyatrī and kāma-bīja, Mahā-Viṣṇu, the soul and the Supersoul, and open with the celebrated 'govindam ādi-puruṣaṃ tam ahaṃ bhajāmi' verse.",
+    "history": "Chaitanya Mahāprabhu (1486-1534) is said to have rediscovered this chapter, long lost, at the Ādikeśava Perumāl temple at Kanyākumārī, making it a foundational scripture of Gauḍīya Vaiṣṇavism. M. Matsubara dates the text to c. 1300 CE. The 'Govinda' prayers were popularized worldwide in a 1970 recording produced by George Harrison.",
+    "related_works": ["Brahma-Saṃhitā (complete)", "Pāñcarātra saṃhitās", "Gauḍīya Vaiṣṇava canon"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brahma_Samhita",
+      "https://krishna.com/book/sri-brahma-samhita/"
+    ]
+  },
+  {
+    "work_id": "GR14caitcanu",
+    "title": "Caitanyacandrāmṛta",
+    "author": "Prabodhānanda Sarasvatī",
+    "tradition": "Hindu, Gauḍīya Vaiṣṇava",
+    "genre": "stotra / devotional poem",
+    "date_estimate": "c. early-to-mid 16th c. CE",
+    "summary": "A devotional Sanskrit poem ('The Moon-nectar of Caitanya') in praise of Caitanya Mahāprabhu, extolling the glories of devotion to him and the supremacy of love of Kṛṣṇa over liberation and other goals. It is a celebrated lyrical expression of Gauḍīya rapture centered on Caitanya as Kṛṣṇa himself.",
+    "history": "Composed by Prabodhānanda Sarasvatī, a sannyāsī who, according to tradition, formerly followed Śrī Vaiṣṇavism and was converted by Caitanya during the latter's South-Indian tour (1509-10); he became a major Vrindavan-associated Gauḍīya/Rādhāvallabha author. The work is transmitted with later commentaries and Hindi translations.",
+    "related_works": ["Rādhārasasudhānidhi", "Gauḍīya Vaiṣṇava stotra corpus", "Caitanya-caritāmṛta"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prabodhananda_Sarasvati",
+      "https://grantha.jiva.org/index.php?e_no=241&show=entry"
+    ]
+  },
+  {
+    "work_id": "GR14dhyggs_u",
+    "title": "Gauragovindārcanasmaraṇapaddhati",
+    "author": "Dhyānacandra Gosvāmī",
+    "tradition": "Hindu, Gauḍīya Vaiṣṇava",
+    "genre": "paddhati (ritual / meditation manual)",
+    "date_estimate": "c. 16th-17th c. CE",
+    "summary": "A Gauḍīya Vaiṣṇava manual systematizing the daily practice of arcana (worship) and smaraṇa (contemplative remembrance) of Caitanya Mahāprabhu and Rādhā-Kṛṣṇa. It lays out mantras, gāyatrīs, mental offerings and the meditative cultivation of the practitioner's spiritual identity, and is among the earliest texts to describe the esoteric process of siddha-praṇālī.",
+    "history": "Authored by Dhyānacandra Gosvāmī, a disciple in the line of Gopāla Bhaṭṭa Gosvāmī; it is counted among the foundational paddhati-traya manuals of Gauḍīya esoteric worship and remains in liturgical use. It has been translated into English (e.g. by Bhānu Swami).",
+    "related_works": ["Gopāla Bhaṭṭa's Sat-kriyā-sāra-dīpikā", "Paddhati-traya", "Hari-bhakti-vilāsa"],
+    "confidence": "high",
+    "sources": [
+      "https://flowingnectar.stream/2014/11/02/siddha-pranali-and-the-goswamis-of-vrindavana/",
+      "https://www.gaudiyabooks.com/product-page/sri-gaura-govindarcana-smarana-paddhati-by-sripada-dhyanacandra-gosvami"
+    ]
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "work_id": "M00173",
+    "title": "Abhinavagupta: Bodhapañcadaśikā",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu (Kashmir Shaivism / Trika, Pratyabhijñā)",
+    "genre": "philosophical treatise (short doctrinal poem)",
+    "date_estimate": "c. late 10th–early 11th c. CE",
+    "summary": "A very short work of fifteen verses (plus a closing stanza) by Abhinavagupta distilling the essence of Trika/Kashmir Shaiva non-dualism for devotees lacking the training to follow his large treatises. It compactly presents the nature of Śiva as supreme consciousness, the role of Śakti, and the relation of consciousness to manifestation.",
+    "history": "Attributed with confidence to Abhinavagupta (fl. c. 975–1025 CE), the great Trika polymath. It belongs to his accessible, devotionally oriented short works and is widely studied in modern Kashmir Shaiva circles (e.g., the oral commentaries of Swami Lakshman Joo).",
+    "related_works": ["Tantrāloka", "Paramārthasāra", "Īśvarapratyabhijñāvimarśinī"],
+    "confidence": "high",
+    "sources": [
+      "https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-bodhapancadashikaa/923",
+      "https://advaitashram.org/kashmir-shaivisms-fifteen-verses-of-wisdom/"
+    ]
+  },
+  {
+    "work_id": "M00181",
+    "title": "Śaivakalāviveka",
+    "author": "anonymous/traditional (uncertain)",
+    "tradition": "Hindu (Shaiva)",
+    "genre": "tantra / Shaiva doctrinal-ritual treatise",
+    "date_estimate": "uncertain (medieval, 1st–2nd millennium CE)",
+    "summary": "A Shaiva work, known from the Muktabodha manuscript corpus, whose title indicates a 'discrimination (viveka) of the kalās' — the divisions/phases of cosmic emanation (the tattvas grouped under the kalās: nivṛtti, pratiṣṭhā, vidyā, śānti, śāntyatīta) within Shaiva cosmology. It would expound the structure of the Shaiva cosmos and the placement of principles within the kalā scheme.",
+    "history": "An obscure text preserved chiefly in manuscript collections rather than in standard editions; its authorship, exact tradition (Siddhānta vs. non-Siddhānta), and date are not securely established. Identification here is provisional, based on the title's analysis of the Shaiva kalā cosmology.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/shaiva-siddhanta",
+      "https://www.mayiliragu.com/2025/02/5-kala-in-shaiva-tantra.html"
+    ]
+  },
+  {
+    "work_id": "M00190",
+    "title": "Phetkāriṇītantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Shakta / Kaula tantra)",
+    "genre": "tantra",
+    "date_estimate": "uncertain; medieval (probably 2nd millennium CE)",
+    "summary": "A Shakta tantric scripture dealing with mantras, deities, ritual procedures (pūjā, nyāsa) and magical/practical rites. It is frequently cited in later digest (nibandha) literature for its mantra prescriptions and is associated with fierce goddess worship.",
+    "history": "An anonymous tantra transmitted in manuscript form and printed from 19th-century editions; it was digitized by the Muktabodha Indological Research Institute under Mark S.G. Dyczkowski. Its precise date and provenance are uncertain.",
+    "related_works": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/hinduism/essay/varahi-tantra-english-study/d/doc1239484.html",
+      "https://shivashakti.com/texts"
+    ]
+  },
+  {
+    "work_id": "M00191",
+    "title": "Jñānasaṅkalinītantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Shaiva / Shakta tantra)",
+    "genre": "tantra",
+    "date_estimate": "uncertain; medieval",
+    "summary": "A short tantra of about 107 verses cast as a dialogue between Śiva and Śakti, emphasizing jñāna (pure knowledge) over ritual. It treats the syllable Oṃ (a-u-m as Śiva, Śakti and their union), the three guṇas, macrocosm–microcosm correspondence, the five elements, and the identity of the individual ātman with the universal paramātman, defining yoga as the cessation of all thought.",
+    "history": "An anonymous, concise tantric text popular in modern yoga circles and translated several times (e.g., by Paramahansa Prajnanananda). Its date and original milieu are not firmly established.",
+    "related_works": [],
+    "confidence": "medium",
+    "sources": [
+      "https://shivashakti.com/jnana",
+      "https://hinduonline.co/Scriptures/Tantra/JnanasankaliniTantra.html"
+    ]
+  },
+  {
+    "work_id": "M00193",
+    "title": "Kālānalatantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Shakta / Kālī-tradition tantra)",
+    "genre": "tantra",
+    "date_estimate": "uncertain; medieval (2nd millennium CE)",
+    "summary": "A tantra associated with the Kālī cluster of Shakta scriptures (named alongside the Nīlā, Vīra and Māyā tantras), containing mantras, kavacas and stotras such as a Pratyaṅgirā / Siddhilakṣmī protective hymn. 'Kālānala' ('the fire of time/death') signals its fierce, apotropaic and goddess-centered character.",
+    "history": "An obscure tantra preserved in manuscripts and digital catalogues; its authorship and date are unknown. The name also occurs as a technical term (e.g., a doorkeeper in the Kubjikā tradition), but here it denotes a discrete tantric text.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kalanala",
+      "https://eap.bl.uk/archive-file/EAP1023-21-17"
+    ]
+  },
+  {
+    "work_id": "M00194",
+    "title": "Cidānandanātha: Svacchandapaddhati",
+    "author": "Cidānandanātha",
+    "tradition": "Hindu (Kashmir Shaivism / Bhairava tantra)",
+    "genre": "paddhati (ritual manual / commentary)",
+    "date_estimate": "uncertain; later medieval",
+    "summary": "A paddhati (systematized ritual handbook) organizing the worship of Svacchanda Bhairava according to the Svacchanda Tantra, by an author bearing the initiatory name Cidānandanātha. It would lay out the mantras, nyāsa, maṇḍala and pūjā sequence for the Svacchandabhairava cult.",
+    "history": "The base scripture, the Svacchanda(bhairava)tantra, is a major Bhairava/Kashmir Shaiva tantra of over 3,000 verses (datable to at least the 7th century) commented on by Kṣemarāja. This paddhati is a later ritual digest; the identity and date of Cidānandanātha are not well documented.",
+    "related_works": ["Svacchandatantra"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/svacchandatantra",
+      "https://archive.org/details/TheSvacchandaTantramVol.4ParamhansaMishra"
+    ]
+  },
+  {
+    "work_id": "M00195",
+    "title": "Merutantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Shaiva / Shakta tantra)",
+    "genre": "tantra (encyclopedic)",
+    "date_estimate": "late, probably 16th–18th c. CE",
+    "summary": "A large, encyclopedic tantra covering mantra-śāstra, ritual, cosmology, deity worship and miscellaneous lore; many of its verses parallel chapters of the Vārāhī Tantra. It is wide-ranging and digest-like rather than a single focused doctrinal scripture.",
+    "history": "Generally regarded as a comparatively late composition (it references foreign peoples and is often dated to the early modern period). Anonymous and transmitted in multi-volume printed editions; its breadth made it a popular source for later ritualists.",
+    "related_works": ["Vārāhī Tantra"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/merutantra",
+      "https://www.wisdomlib.org/concept/merutantra"
+    ]
+  },
+  {
+    "work_id": "M00196",
+    "title": "Jñānaprakāśācārya: Pauṣkaravṛtti",
+    "author": "Jñānaprakāśa (Jñānaprakāśācārya of Śālivāṭi, Jaffna)",
+    "tradition": "Hindu (Shaiva Siddhānta)",
+    "genre": "bhasya/vṛtti (commentary)",
+    "date_estimate": "c. 16th c. CE (later medieval)",
+    "summary": "A vṛtti (commentary) on the Pauṣkarāgama (Pauṣkara-pāramēśvara), one of the doctrinally important Shaiva Siddhānta scriptures whose chapters expound core Siddhānta tenets such as the nature of pati, paśu and pāśa and the means of liberation. The commentary develops the Pauṣkara's doctrine in its later South Indian form.",
+    "history": "Jñānaprakāśa of Śālivāṭi (Jaffna, Sri Lanka) is one of two principal commentators on the Pauṣkarāgama (the other being Umāpati). The work belongs to the later, Tamil-region phase of Sanskrit Shaiva Siddhānta scholasticism; one of the Pauṣkara commentaries remained long unpublished.",
+    "related_works": ["Pauṣkarāgama", "Pārameśvarāgama"],
+    "confidence": "high",
+    "sources": [
+      "https://ochs.org.uk/lecture/paukargama-the-aivasiddhnta-doctrinal-base-in-its-later-developments-two-commentators-umpati-and-jnnapraka-of-livi-jaffna/",
+      "https://www.wisdomlib.org/definition/paushkaragama"
+    ]
+  },
+  {
+    "work_id": "M00197",
+    "title": "Īśvarapratyabhijñāvimarśinīvyākhyā",
+    "author": "uncertain (a commentator on the Īśvarapratyabhijñāvimarśinī; possibly the Bhāskarī of Bhāskarakaṇṭha)",
+    "tradition": "Hindu (Kashmir Shaivism / Pratyabhijñā)",
+    "genre": "vyākhyā (sub-commentary)",
+    "date_estimate": "uncertain (the famous Bhāskarī sub-commentary is c. 17th–18th c. CE)",
+    "summary": "A vyākhyā (explanatory sub-commentary) on Abhinavagupta's Īśvarapratyabhijñāvimarśinī, itself the 'short gloss' on Utpaladeva's Īśvarapratyabhijñākārikā, the foundational text of the Pratyabhijñā ('Recognition') school of Kashmir Shaivism. The sub-commentary unpacks Abhinavagupta's dense exposition of the doctrine that liberation is the recognition of one's identity with Śiva-consciousness.",
+    "history": "The best-known such sub-commentary is the Bhāskarī by Bhāskarakaṇṭha (edited by K. A. Subramania Iyer and K. C. Pandey, Allahabad, 1938–1954), written because the kārikās and Vimarśinī are extremely difficult without help. Without the colophon it is not certain which vyākhyā this manuscript represents, but the Bhāskarī is the most likely candidate.",
+    "related_works": ["Īśvarapratyabhijñāvimarśinī", "Īśvarapratyabhijñākārikā", "Bhāskarī"],
+    "confidence": "medium",
+    "sources": [
+      "https://archive.org/details/bhaskari2-bw",
+      "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/bhaskari-a-commentary-on-the-isvarapratyabhijnavimarsini-of-abhinavagupta-vol-ii-edited-by-subramania-iyer-k-a-and-pandey-k-c-pp-v-xxxv-372-princess-of-wales-saraswati-bhavana-texts-no-83-allahabad-1950/7E2261A3C62CFB47638AF37D760DEF30"
+    ]
+  },
+  {
+    "work_id": "M00198",
+    "title": "Aṃśumatkāśyapāgama",
+    "author": "anonymous/traditional (ascribed to revelation; assoc. with sage Kāśyapa)",
+    "tradition": "Hindu (Shaiva Siddhānta / āgama)",
+    "genre": "āgama (Shaiva scripture; temple architecture and iconography)",
+    "date_estimate": "uncertain; mid-to-late 1st millennium CE onward",
+    "summary": "The Kāśyapa portion/recension associated with the Aṃśumadāgama, one of the Siddhāntāgamas; it is essentially a śilpaśāstra dealing at length with temple architecture and the iconography of deities. It is divided into a part on temple construction (from soil-testing onward) and a part on the making of images.",
+    "history": "Aṃśumat (Aṃśumadāgama) is counted among the 28 Siddhāntāgamas; Aṃśumatkāśyapa/Aṃśumatkāśyapīya is named as one of its upāgamas in manuscript colophons. The associated Kāśyapa Śilpaśāstra is widely treated as the architectural-iconographic component of the Aṃśumat āgama and is influential in South Indian temple building (āgamic śilpa).",
+    "related_works": ["Aṃśumadāgama", "Kāśyapa Śilpaśāstra"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/amshumadagama",
+      "https://www.wisdomlib.org/hinduism/essay/kashyapa-shilpa-shastra-study/d/doc1150831.html"
+    ]
+  },
+  {
+    "work_id": "M00199",
+    "title": "Kiñcitatantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Shaiva / Shakta tantra)",
+    "genre": "tantra",
+    "date_estimate": "unknown",
+    "summary": "An obscure tantric text known essentially by title from manuscript/digital-library catalogues; no reliable description of its specific contents could be confirmed. The title would denote it a tantra ('Kiñcit-tantra'), presumably treating mantra and ritual within the Shaiva-Shakta sphere.",
+    "history": "Not identifiable with confidence; the work appears in the Muktabodha-type corpus of digitized tantric manuscripts but lacks an established scholarly edition, secure author, or date.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://muktabodha.org/digital-library/"
+    ]
+  },
+  {
+    "work_id": "M00200",
+    "title": "Dviśatikālottara",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Shaiva Siddhānta / āgama)",
+    "genre": "tantra/āgama (ritual scripture)",
+    "date_estimate": "mid-1st millennium CE (the Kālottara corpus is early)",
+    "summary": "The 200-verse (dviśatikā) recension of the Kālottara Tantra, a widely transmitted early Shaiva scripture that exists in several recensions of different lengths (50, 100, 200, 350, 700, 1300 verses). It concentrates on initiation, mantra, yoga and the practical ritual core of the Shaiva path, and underlies many later ritual manuals.",
+    "history": "The Kālottara (a section/recension complex of the Kālajñāna / Sārdhatriśatikālottara family) is among the more archaic Shaiva tantras; its recensions were edited and studied by scholars such as Dominic Goodall and others. The Dviśatikālottara specifically is the 200-verse version within this group.",
+    "related_works": ["Kālottaratantra", "Sārdhatriśatikālottara", "Śatikā-Kālajñāna"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.academia.edu/3350036/A_first_edition_of_the_%C5%9Aatika_K%C4%81laj%C3%B1%C4%81na_the_shortest_of_the_non_eclectic_recensions_of_the_K%C4%81lottara",
+      "https://en.wikipedia.org/wiki/Shaiva_Siddhanta"
+    ]
+  },
+  {
+    "work_id": "M00201",
+    "title": "Candrajñānāgama (Vīraśaiva recension)",
+    "author": "anonymous/traditional (ascribed to revelation by the Tatpuruṣa face of Śiva)",
+    "tradition": "Hindu (Shaiva Siddhānta / āgama; Vīraśaiva recension)",
+    "genre": "āgama (Shaiva scripture)",
+    "date_estimate": "uncertain; medieval (the Vīraśaiva recension comparatively late)",
+    "summary": "The Vīraśaiva recension of the Candrajñānāgama, one of the 28 Siddhāntāgamas. It is a pratiṣṭhā-tantra concerned with the installation and worship of Śaiva images and liṅgas, and its Kriyāpāda notably classifies Śaivas by conduct (ācāra), including the Vīraśaiva type.",
+    "history": "Candrajñāna is counted among the five āgamas revealed by the Tatpuruṣa face of Sadāśiva. The Vīraśaiva community preserved and adapted a recension of it as part of its agamic foundation, even though the philosophy of the Vīraśaivas is said to draw on the full set of 28 Śaivāgamas.",
+    "related_works": ["Candrajñānāgama", "the 28 Śaiva Siddhāntāgamas"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/candrajnanagama",
+      "https://www.wisdomlib.org/definition/virashaiva"
+    ]
+  },
+  {
+    "work_id": "M00202",
+    "title": "Makuṭāgama (Vīraśaiva recension)",
+    "author": "anonymous/traditional (ascribed to revelation by the Tatpuruṣa face of Śiva)",
+    "tradition": "Hindu (Shaiva Siddhānta / āgama; Vīraśaiva recension)",
+    "genre": "āgama (Shaiva scripture; temple ritual)",
+    "date_estimate": "uncertain; medieval",
+    "summary": "The Vīraśaiva recension of the Makuṭāgama (Makuṭa), one of the 28 Siddhāntāgamas. It provides guidelines for temple construction, image installation, ritual and worship practices, here transmitted within the Vīraśaiva community.",
+    "history": "Makuṭa is among the five āgamas revealed by the Tatpuruṣa face of Sadāśiva (proclaimed at sage Gautama). Like the Candrajñāna, it was preserved in a Vīraśaiva recension and counts among the scriptures underpinning Vīraśaiva ritual.",
+    "related_works": ["Makuṭāgama", "the 28 Śaiva Siddhāntāgamas"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/makutagama",
+      "https://vedas.how/blog/agamas/shaiva-agamas/rudra-samhitas/makuta-agama/"
+    ]
+  },
+  {
+    "work_id": "M00203",
+    "title": "Tridaśaḍāmaratantre Siddhikālīstotra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Shakta / Kālī-tantra, Ḍāmara tradition)",
+    "genre": "stotra (hymn embedded in a tantra)",
+    "date_estimate": "unknown; later medieval",
+    "summary": "A hymn (stotra) to the goddess Siddhakālī / Siddhikālī found within the Tridaśaḍāmara Tantra (a Ḍāmara-class tantra; 'tridaśa' = the thirty gods). The Ḍāmara stream is a fierce, magically oriented branch of tantra centered on yoginī and goddess siddhis, and this stotra would be a praise-and-invocation hymn used for such ends.",
+    "history": "An excerpt-text known from manuscript/digital catalogues rather than a critical edition; the Ḍāmara Tantra family is associated with apotropaic and siddhi-oriented Shakta practice. Date and authorship are not established.",
+    "related_works": ["Ḍāmaratantra / Tridaśaḍāmaratantra"],
+    "confidence": "low",
+    "sources": [
+      "https://animeshnagarblog.wordpress.com/2014/12/24/damar-tantrokta-siddha-kunjika-stotra/",
+      "http://indianmanuscripts.com/yantra-tantra-manuscripts"
+    ]
+  },
+  {
+    "work_id": "M00204",
+    "title": "Tridaśaḍāmarāpratyaṅgirāviṣayakanānātantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Shakta / Kālī- and Pratyaṅgirā-tantra, Ḍāmara tradition)",
+    "genre": "tantra (compilation of extracts on a single deity)",
+    "date_estimate": "unknown; later medieval",
+    "summary": "A composite text gathering 'various tantra' (nānātantra) materials on the subject (viṣaya) of the fierce protective goddess Pratyaṅgirā, drawn from the Tridaśaḍāmara/Ḍāmara tantric stream. It collects mantras, kavacas and ritual material for Pratyaṅgirā worship, a tradition used especially for protection and counter-sorcery.",
+    "history": "A manuscript-corpus compilation rather than a unitary classical scripture; its very title ('various tantras concerning Pratyaṅgirā from the Tridaśaḍāmara') marks it as an anthology. No secure author or date; identification is provisional.",
+    "related_works": ["Ḍāmaratantra / Tridaśaḍāmaratantra", "Pratyaṅgirā tantras"],
+    "confidence": "low",
+    "sources": [
+      "https://stotranidhi.com/en/sri-pratyangira-devi-mala-mantram-1-in-english/",
+      "http://indianmanuscripts.com/yantra-tantra-manuscripts"
+    ]
+  },
+  {
+    "work_id": "M00205",
+    "title": "Bhāskararāya: Mahāyāgakrama",
+    "author": "Bhāskararāya Makhin",
+    "tradition": "Hindu (Shakta / Śrīvidyā)",
+    "genre": "ritual manual (krama / paddhati)",
+    "date_estimate": "c. early–mid 18th c. CE",
+    "summary": "A ritual manual by the great Śrīvidyā authority Bhāskararāya setting out the sequence (krama) of the 'great sacrifice/worship' (mahāyāga) — the elaborate Śrīcakra worship of the goddess Lalitā Tripurasundarī, including the prescribed offerings, mantras and order of rites.",
+    "history": "Bhāskararāya Makhin (c. 1690–1785) was a prolific Śrīvidyā polymath who authored more than forty works (including the Varivasyārahasya, Setubandha, and the Lalitāsahasranāma-bhāṣya). The Mahāyāgakrama belongs to his practical, ritual-prescriptive output systematizing Śrīvidyā worship.",
+    "related_works": ["Varivasyārahasya", "Setubandha", "Lalitāsahasranāma-bhāṣya", "Nityāṣoḍaśikārṇava"],
+    "confidence": "medium",
+    "sources": [
+      "https://grokipedia.com/page/Bhaskararaya",
+      "https://mahaavidya.org/bhaskararaya-srividya-tradition/"
+    ]
+  },
+  {
+    "work_id": "M00206",
+    "title": "Lakṣmītantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu (Vaishnava / Pāñcarātra, with strong Śākta orientation)",
+    "genre": "āgama/tantra (saṃhitā)",
+    "date_estimate": "c. 9th–12th c. CE",
+    "summary": "A Pāñcarātra Vaiṣṇava saṃhitā of roughly 3,600 verses in about 57 chapters, dedicated to the goddess Lakṣmī as the supreme Śakti of Viṣṇu-Nārāyaṇa. It expounds Pāñcarātra cosmogony, the vyūha doctrine, mantra-śāstra, and the iconography of Lakṣmī-Nārāyaṇa, glorifying the feminine divine power as the dynamic cause of creation, preservation and liberation.",
+    "history": "A medieval Pāñcarātra text notable for integrating Śākta theology into Vaiṣṇavism; commonly dated between the 9th and 12th centuries CE. It was edited and translated into English by Sanjukta Gupta (1972), which made it well known in scholarship.",
+    "related_works": ["Pāñcarātra saṃhitās (e.g., Ahirbudhnya Saṃhitā, Jayākhya Saṃhitā)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lakshmi_Tantra",
+      "https://www.motilalbanarsidass.com/en-us/products/laksmi-tantra-a-pancaratra-text-sanjukta-gupta"
+    ]
+  },
+  {
+    "work_id": "M00207",
+    "title": "Śivayogiśivācārya: Siddhāntaśikhāmaṇi",
+    "author": "Śivayogi Śivācārya (Śivayogin)",
+    "tradition": "Hindu (Vīraśaiva / Liṅgāyata; Śakti-viśiṣṭādvaita)",
+    "genre": "philosophical-doctrinal treatise",
+    "date_estimate": "disputed: traditionally early (8th–10th c.?), but text most plausibly c. 13th–15th c. CE",
+    "summary": "The foundational Sanskrit doctrinal text of the Vīraśaiva (Liṅgāyata) tradition, expounding the system of the 101 sthalas (ekottaraśatasthala) — graded stations of doctrine and practice culminating in union with Śiva. It teaches Śakti-viśiṣṭādvaita, holding Śiva to be identical with the Upaniṣadic brahman and Śaiva teaching to be in harmony with the Veda.",
+    "history": "Attributed to Śivayogi Śivācārya; its date is much debated, with traditional claims of great antiquity but scholarly opinion generally placing the work in the later medieval period (often c. 13th–15th c.). It is the key systematic Sanskrit scripture for Vīraśaiva theology and has its own commentary tradition (e.g., Maritontadārya's Tattvapradīpikā).",
+    "related_works": ["Vīraśaiva āgamic literature", "Vacana literature of the Śaraṇas"],
+    "confidence": "medium",
+    "sources": [
+      "https://shiva.redzambala.com/religious-philosophy/veera-shaivism-history-and-literature.html",
+      "https://link.springer.com/article/10.1007/s11407-017-9215-z"
+    ]
+  },
+  {
+    "work_id": "M00208",
+    "title": "Karaṇāgama",
+    "author": "anonymous/traditional (ascribed to revelation)",
+    "tradition": "Hindu (Shaiva Siddhānta / āgama)",
+    "genre": "āgama (Shaiva scripture; temple ritual)",
+    "date_estimate": "uncertain; mid-to-late 1st millennium CE onward",
+    "summary": "One of the 28 Siddhāntāgamas of Shaiva Siddhānta. Like its companion āgamas it concerns the worship of Śiva — temple ritual, installation and worship of the liṅga and images, mantra, dīkṣā and related kriyā — within the Siddhānta framework of pati, paśu and pāśa.",
+    "history": "Karaṇa is enumerated among the 28 canonical Śaiva Siddhāntāgamas (revealed through the five faces of Sadāśiva). It survives chiefly in South Indian āgamic manuscript and ritual traditions; precise dating of the individual āgama is not established.",
+    "related_works": ["the 28 Śaiva Siddhāntāgamas (e.g., Kāmika, Kāraṇa, Ajita, Raurava)"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shaiva_Siddhanta",
+      "https://www.saivism.net/articles/agamas.asp"
+    ]
+  }
+]

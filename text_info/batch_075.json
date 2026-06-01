@@ -1,0 +1,329 @@
+[
+  {
+    "work_id": "M00125",
+    "title": "Kāmikāgama, Uttarabhāga",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "agama (revealed scripture / ritual manual)",
+    "date_estimate": "early-medieval core (claimed pre-7th c. CE); transmitted and editorially fixed much later (published recension 19th c.)",
+    "summary": "The Kāmikāgama is one of the principal scriptures (āgamas) of the South Indian Śaiva Siddhānta, a metrical work in two parts, the Pūrvabhāga and Uttarabhāga. The Uttarabhāga (roughly 98 chapters in anuṣṭubh meter) treats temple ritual, consecration, architecture, festivals, priestly duties, and the daily, occasional, and optional rites of Śaiva worship, with some doctrinal content. It is one of the most authoritative practical guides for Śaiva temple ritual in Tamil Nadu.",
+    "history": "The Kāmika is counted among the twenty-eight mūla (root) Śaiva āgamas and is widely cited as a primary source of ritual authority in the Siddhānta tradition; like other āgamas its surviving form is the product of long transmission, and its printed Pūrva/Uttara recension was compiled and edited in the 19th century. It remains in active use by hereditary śivācārya temple priests.",
+    "related_works": ["Śaiva Āgamas (28 mūlāgamas)", "Kriyākramadyotikā"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kamika_Agama",
+      "https://www.wisdomlib.org/definition/kamikagama",
+      "https://shaivastudies.in/critical-edition-of-kamikagama/"
+    ]
+  },
+  {
+    "work_id": "M00126",
+    "title": "Kriyākramadyotikā",
+    "author": "Aghoraśiva (Aghoraśivācārya)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "paddhati (ritual manual)",
+    "date_estimate": "completed c. 1157 CE",
+    "summary": "The Kriyākramadyotikā is a vast ritual digest (paddhati) by Aghoraśiva covering nearly all aspects of Śaiva Siddhānta ritual: daily worship (nitya) of Śiva, occasional (naimittika) and optional (kāmya) rites, initiation (dīkṣā), funerary rites, and temple festivals. It systematizes Āgamic ritual into a practical manual for officiating priests.",
+    "history": "Aghoraśiva, a teacher of the Amardaka order active around Chidambaram in the 12th century, composed this work c. 1156-1157 CE; it became the standard reference for ritual performance in South Indian Śaiva temples and is still followed by hereditary śivācārya priests in Tamil Nadu. Several sub-works (e.g. the Mahotsavavidhi) circulate as parts of it.",
+    "related_works": ["Śaiva Āgamas", "Mahotsavavidhikrama", "Kāmikāgama"],
+    "confidence": "high",
+    "sources": [
+      "https://www.hindu-blog.com/2021/11/aghora-shivacharya-great-teacher-of-shaiva-siddhanta.html",
+      "https://en.wikipedia.org/wiki/Shaiva_Siddhanta",
+      "https://global.oup.com/academic/product/a-priests-guide-for-the-great-festival-aghorasivas-mahotsavavidhi-9780195378528"
+    ]
+  },
+  {
+    "work_id": "M00127",
+    "title": "Nirvāṇatantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śākta (Kālī-centered Tantra)",
+    "genre": "tantra",
+    "date_estimate": "uncertain; probably late-medieval (2nd millennium CE)",
+    "summary": "The Nirvāṇatantra is a Śākta Tantric scripture belonging to the broad class of Kālī/Kaula tantras, presenting goddess worship, mantra, ritual, and liberation (nirvāṇa) doctrine in the usual dialogue form between Śiva and the Goddess. It is one of the many minor tantras catalogued in the Śākta corpus rather than a major systematic work.",
+    "history": "Like most such tantras it is anonymous and of uncertain date, surviving in manuscript and print without secure attribution; it is sometimes mentioned alongside the larger Kālī-class tantras (e.g. the Mahānirvāṇatantra, Niruttaratantra), but its identity is not firmly fixed in scholarship, so this identification is tentative.",
+    "related_works": ["Mahānirvāṇatantra", "Niruttaratantra"],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/mahanirvanatantra",
+      "https://hinduonline.co/Scriptures/Tantra/NiruttaraTantra.html"
+    ]
+  },
+  {
+    "work_id": "M00128",
+    "title": "Śaktisaṃgamatantra, Kālīkhaṇḍa",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śākta (Kaula Tantra)",
+    "genre": "tantra",
+    "date_estimate": "uncertain; commonly dated c. 16th-17th c. CE",
+    "summary": "The Śaktisaṃgamatantra is a voluminous Śākta compendium divided into four khaṇḍas devoted to the goddesses Kālī, Tārā, Sundarī, and Chinnamastā. The Kālīkhaṇḍa is the section devoted to Kālī, treating her worship, mantras, ritual, cosmology, and Kaula doctrine; the work as a whole claims a vast original extent (tens of thousands of ślokas) of which far less survives.",
+    "history": "An encyclopedic late compilation of Śākta material, the Śaktisaṃgamatantra was edited in the 20th century (Benoytosh Bhattacharyya, Gaekwad's Oriental Series); its sections are anonymous and its dating is debated but generally placed in the late-medieval period. The Kālīkhaṇḍa is conventionally counted as the first of the four khaṇḍas.",
+    "related_works": ["Śaktisaṃgamatantra (Sundarīkhaṇḍa, Tārākhaṇḍa, Chinnamastākhaṇḍa)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/shaktisamgamatantra",
+      "https://archive.org/details/in.ernet.dli.2015.281163",
+      "https://www.exoticindiaart.com/book/details/shakti-sangam-tantram-sundari-khand-nzy986/"
+    ]
+  },
+  {
+    "work_id": "M00129",
+    "title": "Śaktisaṃgamatantra, Sundarīkhaṇḍa",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śākta (Kaula Tantra, Śrīvidyā-related)",
+    "genre": "tantra",
+    "date_estimate": "uncertain; commonly dated c. 16th-17th c. CE",
+    "summary": "The Sundarīkhaṇḍa is the section of the Śaktisaṃgamatantra devoted to the goddess Sundarī (Tripurasundarī / Lalitā), covering her worship, mantras, ritual procedure, and associated Kaula and Śrīvidyā-flavored doctrine. It is one of four goddess-specific divisions (khaṇḍas) of the larger compendium.",
+    "history": "Part of the same encyclopedic late-medieval Śākta compilation as the Kālīkhaṇḍa, the Sundarīkhaṇḍa is anonymous and was edited and published (with a Hindi 'Sudhā' commentary) in modern times; it is conventionally the third khaṇḍa of the work. Dating is uncertain but generally late-medieval.",
+    "related_works": ["Śaktisaṃgamatantra (Kālīkhaṇḍa, Tārākhaṇḍa, Chinnamastākhaṇḍa)"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/shaktisamgamatantra",
+      "https://www.exoticindiaart.com/book/details/shakti-sangam-tantram-sundari-khand-nzy986/",
+      "https://www.bibliaimpex.com/index.php?p=sr&format=fullpage&Field=bookcode&String=9788170803935"
+    ]
+  },
+  {
+    "work_id": "M00130",
+    "title": "Bhūtaśuddhitantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śākta/Śaiva Tantra",
+    "genre": "tantra",
+    "date_estimate": "uncertain; late-medieval (2nd millennium CE)",
+    "summary": "A Tantric text centered on bhūtaśuddhi, the ritual 'purification of the (five) elements' of the practitioner's body that precedes Tantric worship. The procedure dissolves the gross elements (earth, water, fire, air, ether) one into the next through breath, mantra, and visualization, then reconstitutes a divinized body fit for ritual.",
+    "history": "Bhūtaśuddhi is a standard preliminary across Śākta and Śaiva Tantric practice and is described in many tantras and paddhatis; a freestanding 'Bhūtaśuddhitantra' is a minor, anonymous work of uncertain date and circulation, so its specific identity here is only tentatively fixed.",
+    "related_works": [],
+    "confidence": "low",
+    "sources": [
+      "https://www.wisdomlib.org/definition/bhutashuddhi",
+      "https://nathas.org/en/dictionary/bhuta-shuddhi/"
+    ]
+  },
+  {
+    "work_id": "M00131",
+    "title": "Mahotsavavidhikrama (Mahotsavavidhi)",
+    "author": "Aghoraśiva (Aghoraśivācārya)",
+    "tradition": "Hindu, Śaiva Siddhānta",
+    "genre": "paddhati (ritual manual, festival procedure)",
+    "date_estimate": "completed c. 1157 CE",
+    "summary": "A detailed step-by-step priest's manual for conducting the great temple festival (mahotsava), typically a nine-day cycle, in South Indian Śaiva temples. It prescribes the sequence of ritual, processions, adornment, music and dance, and the daily program by which collective devotion is focused on Śiva and the other temple deities.",
+    "history": "The Mahotsavavidhi forms a part of Aghoraśiva's larger ritual digest, the Kriyākramadyotikā, completed c. 1157 CE; it is among the Āgamic works most used by modern South Indian temple priests. It was translated and studied by Richard H. Davis (A Priest's Guide for the Great Festival, Oxford UP).",
+    "related_works": ["Kriyākramadyotikā", "Śaiva Āgamas"],
+    "confidence": "high",
+    "sources": [
+      "https://global.oup.com/academic/product/a-priests-guide-for-the-great-festival-aghorasivas-mahotsavavidhi-9780195378528",
+      "https://www.researchgate.net/publication/290652252_A_Priest's_Guide_for_the_Great_Festival_Aghorasiva's_Mahotsavavidhi"
+    ]
+  },
+  {
+    "work_id": "M00132",
+    "title": "Kāmākhyātantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śākta (Kaula Tantra, Kāmarūpa tradition)",
+    "genre": "tantra",
+    "date_estimate": "uncertain; medieval to late-medieval (2nd millennium CE)",
+    "summary": "A Śākta Tantric text associated with the goddess Kāmākhyā, the Tantric form of the Goddess enshrined at the Nīlācala hill in Kāmarūpa (Assam), one of the most important centers of Tantric and Śākta worship. It sets out rituals, mantras, and the philosophy of her worship within the Kaula tradition.",
+    "history": "Kāmarūpa/Assam has been a major Tantric center since at least the 7th century, and Kāmākhyā features prominently in works like the Kālikāpurāṇa and Yoginītantra. A discrete 'Kāmākhyātantra' is a minor, anonymous text of uncertain date tied to this regional cult; its precise identity and date are not securely established.",
+    "related_works": ["Kālikāpurāṇa", "Yoginītantra"],
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kamakhya",
+      "https://en.wikipedia.org/wiki/Kamakhya_Temple"
+    ]
+  },
+  {
+    "work_id": "M00133",
+    "title": "Kāmadhenutantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Śākta Tantra",
+    "genre": "tantra (mātṛkā / alphabet mysticism)",
+    "date_estimate": "uncertain; late-medieval (2nd millennium CE)",
+    "summary": "The Kāmadhenutantra is a Tantric work (c. 24 chapters) on the mystical significance of the letters of the Sanskrit alphabet (mātṛkā), treating the fifty/fifty-one varṇas as sound-forms of the Goddess. Framed as a dialogue in which Pārvatī asks Śiva about the letters and their relation to the tattvas, it correlates each letter with aspects of the Goddess, the body, and elements, and prescribes their worship.",
+    "history": "It is an anonymous Śākta text of uncertain date belonging to the Tantric literature on varṇa/mātṛkā mysticism; it circulates in manuscript and print and is summarized on indological reference sites, but lacks a secure critical edition or firm dating.",
+    "related_works": [],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/kamadhenutantra",
+      "https://shivashakti.com/kamadhenu",
+      "https://en.wikipedia.org/wiki/Matrikas"
+    ]
+  },
+  {
+    "work_id": "M00134",
+    "title": "Śāktānandataraṅgiṇī",
+    "author": "Brahmānandagiri (Brahmānanda Giri)",
+    "tradition": "Hindu, Śākta Tantra",
+    "genre": "nibandha (digest / compendium of Tantric ritual and doctrine)",
+    "date_estimate": "c. 16th c. CE",
+    "summary": "The Śāktānandataraṅgiṇī ('the river of the bliss of the Goddess/Śakti') is a Śākta digest in eighteen chapters (ullāsas, 'splendours') ranging widely across Tantric themes: the elements and vital breaths in the body, the nāḍīs, the placement of the planets in the body, the process of birth, initiation, worship, and doctrine. It is a compilation that draws on and quotes many earlier tantras.",
+    "history": "Attributed to the ascetic scholar Brahmānandagiri, active in roughly the 15th-17th centuries, it is valued partly because it preserves citations from tantras that are now lost; it was edited in the modern Yogatantra-granthamālā series (Sampurnanand Sanskrit University, Varanasi).",
+    "related_works": [],
+    "confidence": "high",
+    "sources": [
+      "https://shivashakti.com/shaktanan",
+      "https://www.wisdomlib.org/definition/shaktanandatarangini",
+      "https://wellcomecollection.org/works/ewtv98ne"
+    ]
+  },
+  {
+    "work_id": "M00151",
+    "title": "Ṣaṭtriṃśattattvasandoha",
+    "author": "Amṛtānanda(nātha) (attributed; sometimes given as Rājānaka Ananda)",
+    "tradition": "Hindu, Kashmir Shaivism (Trika / Pratyabhijñā)",
+    "genre": "philosophical treatise (verse compendium)",
+    "date_estimate": "c. 12th c. CE (commentary by Rājānakānanda c. 17th c.)",
+    "summary": "A short verse work (c. 21 stanzas) whose title means 'the totality of the thirty-six categories,' expounding the thirty-six tattvas of Kashmir Shaivism from Śiva (tattva 1) down to Dharaṇī/earth (tattva 36). It compactly maps the descent of universal manifestation from supreme consciousness to the material world.",
+    "history": "Traditionally ascribed to Amṛtānanda(nātha) and commented upon by Rājānakānanda, it is a concise pedagogical summary of Trika metaphysics widely used to learn the tattva-scheme; the attribution and exact date are not entirely secure.",
+    "related_works": ["Tantrāloka", "Paramārthasāra", "Pratyabhijñāhṛdaya"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.sanskrit-trikashaivism.com/en/shattrimshattattvasandoha-1-trika-scriptures-non-dual-shaivism-of-kashmir/544",
+      "https://en.wikipedia.org/wiki/Tattva_(Shaivism)"
+    ]
+  },
+  {
+    "work_id": "M00153",
+    "title": "Tantrasāra",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu, Kashmir Shaivism (Trika)",
+    "genre": "philosophical / Tantric treatise (prose digest)",
+    "date_estimate": "c. late 10th-early 11th c. CE (author fl. c. 975-1025 CE)",
+    "summary": "The Tantrasāra ('Essence of Tantra') is Abhinavagupta's own condensed, mostly-prose digest of his massive verse encyclopedia, the Tantrāloka. It systematically presents the doctrine, yoga, ritual, and soteriology of the non-dual Trika in a more accessible compass, structured around the means of liberation (upāyas).",
+    "history": "Written by Abhinavagupta, the greatest synthesizer of the Trika and Pratyabhijñā schools of Kashmir Shaivism (pupil-lineage continued by Kṣemarāja), it serves as the abridgment of the Tantrāloka and is a standard entry point into his system; it survives in the Kashmir Series of Texts and Studies and numerous editions and translations.",
+    "related_works": ["Tantrāloka", "Mālinīvijayottaratantra", "Tantroccaya"],
+    "confidence": "high",
+    "sources": [
+      "https://www.sanskrit-trikashaivism.com/en/scriptures-trika-scriptures-tantrasara-introduction/919",
+      "https://en.wikipedia.org/wiki/Tantr%C4%81loka"
+    ]
+  },
+  {
+    "work_id": "M00154",
+    "title": "Parātrīśikāvivṛti (Parātrīśikā-laghuvṛtti)",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu, Kashmir Shaivism (Trika)",
+    "genre": "bhasya/vṛtti (commentary)",
+    "date_estimate": "c. late 10th-early 11th c. CE",
+    "summary": "Abhinavagupta's short commentary (laghuvṛtti / vivṛti, also titled Anuttaratattvavimarśinī) on the Parātrīśikā, a brief 36-verse Trika scripture said to derive from the Rudrayāmala. It expounds the supreme reality (anuttara/parā) and the methods of realization, with a penetrating metaphysics of mantra, the Word (vāk), and consciousness.",
+    "history": "Abhinavagupta wrote two commentaries on the Parātrīśikā, this short one and the much longer Parātrīśikāvivaraṇa; both are central to the Trika's understanding of the Goddess who transcends and embodies the triad. The title here (vivṛti) corresponds to the shorter laghuvṛtti rather than the long Vivaraṇa, though usage of the names overlaps.",
+    "related_works": ["Parātrīśikā", "Parātrīśikāvivaraṇa", "Rudrayāmala", "Tantrāloka"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.sanskrit-trikashaivism.com/en/paratrishika-laghuvritti-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/539",
+      "https://www.sanskrit-trikashaivism.com/en/paratrishika-vivarana-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/540"
+    ]
+  },
+  {
+    "work_id": "M00155",
+    "title": "Janmamaraṇavicāra",
+    "author": "Bhaṭṭa Vāmadeva",
+    "tradition": "Hindu, Kashmir Shaivism (Trika / Pratyabhijñā)",
+    "genre": "philosophical treatise",
+    "date_estimate": "c. 12th-13th c. CE",
+    "summary": "The Janmamaraṇavicāra ('Investigation into Birth and Death') is a concise treatise examining the nature of life and death in non-dual Śaiva terms, tracing existence from the highest level of consciousness-awareness down to the physical world and the transmigrating individual who undergoes birth and death. It juxtaposes quotations from both Śaiva and medical (āyurvedic) sources to argue the unity of body and Śiva as expressions of one consciousness.",
+    "history": "Little is known of its author, Bhaṭṭa Vāmadeva, who was very likely a disciple of Yogarāja and thus within the post-Abhinavagupta Kashmiri Śaiva lineage (via Kṣemarāja); it is an enigmatic minor work published in the Kashmir Series of Texts and Studies and recently studied by John Nemec.",
+    "related_works": ["Paramārthasāra", "Pratyabhijñāhṛdaya"],
+    "confidence": "high",
+    "sources": [
+      "https://www.academia.edu/115631792/The_Language_of_Life_and_Death_Diametrical_Contemplation_in_Bha%E1%B9%AD%E1%B9%ADa_V%C4%81madeva_s_Janmamara%E1%B9%87avic%C4%81ra",
+      "https://muktabodha.org/dr-john-nemec-interview/"
+    ]
+  },
+  {
+    "work_id": "M00158",
+    "title": "Mālinīvijayavārttika",
+    "author": "Abhinavagupta",
+    "tradition": "Hindu, Kashmir Shaivism (Trika)",
+    "genre": "vārttika (verse commentary / exposition)",
+    "date_estimate": "c. late 10th-early 11th c. CE",
+    "summary": "A verse exposition (vārttika) by Abhinavagupta on the opening of the Mālinīvijayottaratantra, in which he takes the first verse(s) of that root tantra and unfolds their meaning at length, clarifying key Trika terms and laying out the doctrinal framework. It functions as a deep meditation on the scriptural basis of his system.",
+    "history": "The Mālinīvijayottaratantra is the tantra Abhinavagupta treats as the chief scriptural authority for his Tantrāloka, and the Mālinīvijayavārttika is his focused commentarial elaboration of its beginning; it is preserved in the Kashmir Series of Texts and Studies.",
+    "related_works": ["Mālinīvijayottaratantra", "Tantrāloka", "Tantrasāra"],
+    "confidence": "high",
+    "sources": [
+      "https://www.sanskrit-trikashaivism.com/en/malinivijayottaratantra-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/828",
+      "https://en.wikipedia.org/wiki/Tantr%C4%81loka"
+    ]
+  },
+  {
+    "work_id": "M00160",
+    "title": "Mālinīvijayottaratantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Kashmir Shaivism (Trika; Bhairava Tantra)",
+    "genre": "tantra (agama)",
+    "date_estimate": "c. 9th c. CE (before Abhinavagupta)",
+    "summary": "The Mālinīvijayottaratantra is, per Abhinavagupta, the foremost of the sixty-four non-dual Bhairava tantras on which the Trika is based. It expounds the metaphysics, ritual, initiation, and yoga of the Trika centered on the triad of goddesses Parā, Parāparā, and Aparā, and attempts to integrate competing yoga systems into a framework of levels of awareness and Kaula immersions.",
+    "history": "An anonymous revealed scripture composed in Kashmir, generally dated to around the 9th century (certainly before Abhinavagupta), it became the central scriptural authority for Abhinavagupta's Tantrāloka, which frequently quotes it; it is foundational to the entire Trika tradition.",
+    "related_works": ["Tantrāloka", "Mālinīvijayavārttika", "Tantrasāra"],
+    "confidence": "high",
+    "sources": [
+      "https://www.sanskrit-trikashaivism.com/en/malinivijayottaratantra-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/828",
+      "https://www.wisdomlib.org/definition/malinivijayottaratantra",
+      "https://www.gktoday.in/malinivijayottara-tantra/"
+    ]
+  },
+  {
+    "work_id": "M00163",
+    "title": "Spandanirṇaya",
+    "author": "Kṣemarāja",
+    "tradition": "Hindu, Kashmir Shaivism (Spanda / Trika)",
+    "genre": "bhasya (commentary)",
+    "date_estimate": "c. early 11th c. CE (author fl. early 11th c.)",
+    "summary": "The Spandanirṇaya is Kṣemarāja's authoritative prose commentary on the Spandakārikā, the foundational verses of the Spanda ('vibration/pulsation') school of Kashmir Shaivism. It expounds the doctrine that the dynamic creative throb of consciousness (spanda) underlies all experience, and is regarded as the most complete and authoritative of the commentaries on the kārikās.",
+    "history": "The root Spandakārikās are traditionally attributed to Vasugupta (with his disciple Kallaṭa, who wrote the Vṛtti and who is sometimes named as author); the title metadata's attribution to Kallaṭa reflects this debated authorship. Kṣemarāja, a direct disciple of Abhinavagupta, composed the Spandanirṇaya at the request of his disciple Śūra. The text is preserved in the Kashmir Series of Texts and Studies.",
+    "related_works": ["Spandakārikā", "Spandavṛtti (Kallaṭa)", "Śivasūtra", "Śivasūtravimarśinī"],
+    "confidence": "high",
+    "sources": [
+      "https://www.sanskrit-trikashaivism.com/en/spanda-nirnaya-introduction-trika-scriptures-non-dual-shaivism-of-kashmir/566",
+      "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_vasugupta-spandakArikA-comm.htm"
+    ]
+  },
+  {
+    "work_id": "M00166",
+    "title": "Devīnāmavilāsa",
+    "author": "Sāhib Kaul",
+    "tradition": "Hindu, Kashmir Shaivism / Śākta (Kaula)",
+    "genre": "kavya (devotional poetry) / stotra commentary",
+    "date_estimate": "mid-17th c. CE (author fl. c. 1642-1670s)",
+    "summary": "The Devīnāmavilāsa is a tour de force of devotional Sanskrit poetry by Sāhib Kaul, an elaborate and stylistically complex kāvya-style elaboration of the Bhavānīsahasranāmastotra (the thousand names of the goddess Bhavānī). It treats the divine names of the Goddess in highly refined classical poetic style.",
+    "history": "Sāhib Kaul (active mid-17th century) and his lineage were important in Kashmir's religious history for introducing eastern-Indian Śākta elements into Kashmiri religious culture; he also composed works such as the Śyāmāpaddhati. The Devīnāmavilāsa exemplifies the late efflorescence of Śākta devotional poetry in Kashmir.",
+    "related_works": ["Bhavānīsahasranāmastotra"],
+    "confidence": "high",
+    "sources": [
+      "https://www.wisdomlib.org/definition/sahib-kaul",
+      "http://sarasvatam.blogspot.com/2006/04/sahib-kaul-syamapaddhati.html"
+    ]
+  },
+  {
+    "work_id": "M00167",
+    "title": "Bhagavadgītā",
+    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "tradition": "Hindu (Vaiṣṇava-inflected; foundational across Vedānta schools)",
+    "genre": "philosophical/didactic poem (part of an epic)",
+    "date_estimate": "c. 2nd c. BCE - 2nd c. CE (composite; redaction often placed 3rd-2nd c. BCE)",
+    "summary": "The Bhagavadgītā ('Song of the Lord') is a 700-verse dialogue in which the god Kṛṣṇa, as Arjuna's charioteer, counsels the despondent Pāṇḍava prince on the eve of the Kurukṣetra war. It synthesizes paths of action (karma), devotion (bhakti), and knowledge (jñāna) and presents a theology of God as the supreme reality, becoming the most influential single text of Hindu thought.",
+    "history": "It forms chapters 23-40 of the Bhīṣmaparvan of the Mahābhārata and is traditionally ascribed to Vyāsa, though scholars regard it as a composite work of multiple hands inserted into the epic. It has attracted major commentaries from Śaṅkara, Rāmānuja, Madhva, Abhinavagupta, and others, and is central to every school of Vedānta.",
+    "related_works": ["Mahābhārata (Bhīṣmaparvan)", "Gītābhāṣya (Śaṅkara)", "Gītārthasaṃgraha (Abhinavagupta)"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+      "https://www.britannica.com/topic/Bhagavad-Gita"
+    ]
+  },
+  {
+    "work_id": "M00169",
+    "title": "Uḍḍāmareśvaratantra",
+    "author": "anonymous/traditional",
+    "tradition": "Hindu, Tantra (magical/applied)",
+    "genre": "tantra (magical rites / ṣaṭkarma)",
+    "date_estimate": "uncertain; late-medieval (2nd millennium CE)",
+    "summary": "The Uḍḍāmareśvaratantra (c. 15 chapters) is a Tantric text on magical rites (the six acts, ṣaṭkarma-type practices) aimed at worldly ends: subjugation, attraction, controlling enemies, and remedies for diseases. It compiles practical mantra-magic and ritual recipes rather than original metaphysics.",
+    "history": "An anonymous applied-Tantric work of uncertain date, it is associated with the broader Uḍḍāmara/Uḍḍīśa class of magical tantras and is cited in later Tantric-medical compilations; it has been edited (e.g. by Jagaddhar Zadoo) and survives in manuscript and print, with much medically and magically relevant material.",
+    "related_works": ["Uḍḍīśatantra", "Uḍḍāmaratantra"],
+    "confidence": "medium",
+    "sources": [
+      "https://www.wisdomlib.org/definition/uddamareshvaratantra",
+      "https://archive.org/details/TheUddamareshvaraTantramPanditJagadDharZadoo"
+    ]
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "work_id": "K01vinv09_u",
+    "title": "Kośāmbakavastu",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (monastic law), section of the Vinayavastu",
+    "date_estimate": "c. 2nd-5th c. CE (redaction); Sanskrit Gilgit manuscript 5th-6th c. CE",
+    "summary": "The Kośāmbaka(vastu) is the ninth of the seventeen vastus (topical chapters) of the Vinayavastu of the Mūlasarvāstivāda Vinaya. Set against the famous quarrel of the monks of Kauśāmbī (Kosambi), it deals with schism and dissension within the saṅgha and the disciplinary procedures and reconciliation pertaining to monks who have split into factions. Like other vastus it embeds narrative frame-stories around the relevant ecclesiastical rules.",
+    "history": "The Mūlasarvāstivāda Vinaya is preserved in full in Tibetan and Chinese translation and partially in Sanskrit through the Gilgit manuscripts discovered in 1931. Gregory Schopen and others place the school's literary activity roughly in the early centuries CE; the vinaya is a major source for the social and institutional history of north Indian Buddhist monasticism.",
+    "related_works": ["Vinayavastu", "Mūlasarvāstivāda Vinaya", "Karmavastu", "Saṅghabhedavastu"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mulasarvastivada",
+      "https://84000.co/canon-sections/discipline",
+      "https://www.academia.edu/31621461/THE_M%C5%AALASARV%C4%80STIV%C4%80DA_VINAYA_AN_ATTEMPT_AT_AN_INDEX_LOCORUM"
+    ]
+  },
+  {
+    "work_id": "K01vinv10_u",
+    "title": "Karmavastu",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (monastic law), section of the Vinayavastu",
+    "date_estimate": "c. 2nd-5th c. CE (redaction); Sanskrit Gilgit manuscript 5th-6th c. CE",
+    "summary": "The Karmavastu is the tenth of the seventeen vastus of the Mūlasarvāstivāda Vinayavastu. It deals exclusively with ecclesiastical legal acts (saṅghakarman): the formal procedures, quorums, motions (jñapti) and proclamations (karmavācanā) by which the monastic community conducts its formal business. It is largely technical, full of the formulaic repetitions and definitions of vinaya terminology characteristic of the genre.",
+    "history": "Part of the Vinayavastu of the Mūlasarvāstivāda Vinaya, surviving in Tibetan and Chinese and partly in the Gilgit Sanskrit manuscripts. The school's vinaya is the most important corpus for reconstructing the practice and legal procedure of north Indian Buddhist monasteries.",
+    "related_works": ["Vinayavastu", "Mūlasarvāstivāda Vinaya", "Kośāmbakavastu", "Pāṇḍulohitakavastu"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mulasarvastivada",
+      "https://84000.co/canon-sections/discipline",
+      "https://www.academia.edu/31621461/THE_M%C5%AALASARV%C4%80STIV%C4%80DA_VINAYA_AN_ATTEMPT_AT_AN_INDEX_LOCORUM"
+    ]
+  },
+  {
+    "work_id": "K01vinv11_u",
+    "title": "Pāṇḍulohitakavastu",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (monastic law), section of the Vinayavastu",
+    "date_estimate": "c. 2nd-5th c. CE (redaction); Sanskrit Gilgit manuscript 5th-6th c. CE",
+    "summary": "The Pāṇḍulohitakavastu is the eleventh of the seventeen vastus of the Mūlasarvāstivāda Vinayavastu. Named after the monks Pāṇḍuka and Lohitaka (troublesome monks of the canonical tradition), it treats the disciplinary acts (karmans) imposed on quarrelsome or misbehaving monks, including acts of censure, guidance, banishment, reconciliation and suspension.",
+    "history": "A section of the Vinayavastu of the Mūlasarvāstivāda Vinaya, transmitted in Tibetan and Chinese and partly in Gilgit Sanskrit. It complements the Karmavastu by giving the disciplinary applications of saṅgha legal procedure.",
+    "related_works": ["Vinayavastu", "Mūlasarvāstivāda Vinaya", "Karmavastu", "Pudgalavastu"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mulasarvastivada",
+      "https://84000.co/canon-sections/discipline"
+    ]
+  },
+  {
+    "work_id": "K01vinv12_u",
+    "title": "Pudgalavastu",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (monastic law), section of the Vinayavastu",
+    "date_estimate": "c. 2nd-5th c. CE (redaction); Sanskrit Gilgit manuscript 5th-6th c. CE",
+    "summary": "The Pudgalavastu is the twelfth of the seventeen vastus of the Mūlasarvāstivāda Vinayavastu. It concerns the treatment of particular categories of individuals (pudgala) within the disciplinary system, especially the handling of an offending monk depending on his attitude and the probationary or rehabilitative measures applied to him.",
+    "history": "A section of the Vinayavastu of the Mūlasarvāstivāda Vinaya, preserved in Tibetan and Chinese and partly in the Gilgit Sanskrit manuscripts. It forms part of the cluster of vastus (Karma, Pāṇḍulohitaka, Pudgala, Pārivāsika) dealing with monastic discipline and penance.",
+    "related_works": ["Vinayavastu", "Mūlasarvāstivāda Vinaya", "Pāṇḍulohitakavastu", "Pārivāsikavastu"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mulasarvastivada",
+      "https://84000.co/canon-sections/discipline"
+    ]
+  },
+  {
+    "work_id": "K01vinv13_u",
+    "title": "Pārivāsikavastu",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (monastic law), section of the Vinayavastu",
+    "date_estimate": "c. 2nd-5th c. CE (redaction); Sanskrit Gilgit manuscript 5th-6th c. CE",
+    "summary": "The Pārivāsikavastu is the thirteenth of the seventeen vastus of the Mūlasarvāstivāda Vinayavastu. It deals with the parivāsa, the period of probation imposed on a monk who has committed a saṅghāvaśeṣa offence, together with the related penance (mānatva) and rehabilitation (abhyarhaṇa/āvarhaṇa) by which he is restored to full standing in the community.",
+    "history": "A section of the Vinayavastu of the Mūlasarvāstivāda Vinaya, surviving in Tibetan and Chinese and partly in Gilgit Sanskrit. It details one of the central penitential mechanisms of monastic law.",
+    "related_works": ["Vinayavastu", "Mūlasarvāstivāda Vinaya", "Pudgalavastu", "Poṣadhasthāpanavastu"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mulasarvastivada",
+      "https://84000.co/canon-sections/discipline"
+    ]
+  },
+  {
+    "work_id": "K01vinv14_u",
+    "title": "Poṣadhasthāpanavastu",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (monastic law), section of the Vinayavastu",
+    "date_estimate": "c. 2nd-5th c. CE (redaction); Sanskrit Gilgit manuscript 5th-6th c. CE",
+    "summary": "The Poṣadhasthāpanavastu is the fourteenth of the seventeen vastus of the Mūlasarvāstivāda Vinayavastu. It concerns the suspension or stopping (sthāpana) of the fortnightly poṣadha (uposatha) confession ceremony when a monk known to be impure or guilty of an offence is present, and the procedures for excluding such a monk so that the recitation of the Prātimokṣa may proceed.",
+    "history": "A section of the Vinayavastu of the Mūlasarvāstivāda Vinaya, preserved in Tibetan and Chinese and partly in Gilgit Sanskrit. It complements the Poṣadhavastu (the second vastu) which establishes the poṣadha observance itself.",
+    "related_works": ["Vinayavastu", "Mūlasarvāstivāda Vinaya", "Poṣadhavastu", "Pārivāsikavastu"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mulasarvastivada",
+      "https://84000.co/canon-sections/discipline"
+    ]
+  },
+  {
+    "work_id": "K01vinv15_u",
+    "title": "Śayanāsanavastu",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (monastic law), section of the Vinayavastu",
+    "date_estimate": "c. 2nd-5th c. CE (redaction); Sanskrit Gilgit manuscript 5th-6th c. CE",
+    "summary": "The Śayanāsanavastu is the fifteenth of the seventeen vastus of the Mūlasarvāstivāda Vinayavastu. It concerns 'beds and seats' (śayanāsana), i.e. the monastery's furniture, lodgings and the allocation and administration of dwelling places, including the duties of the monk-officer in charge of dwellings and the management of monastic property and construction.",
+    "history": "Edited from the Gilgit manuscript together with the Adhikaraṇavastu by Raniero Gnoli (Serie Orientale Roma L, 1978). The vastu is an important source for the economic and material life of north Indian monasteries.",
+    "related_works": ["Vinayavastu", "Mūlasarvāstivāda Vinaya", "Adhikaraṇavastu"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mulasarvastivada",
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0BFB331E1B52A548DB5F2582BB2E1AB0/S0041977X00144969a.pdf"
+    ]
+  },
+  {
+    "work_id": "K01vinv16_u",
+    "title": "Adhikaraṇavastu",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (monastic law), section of the Vinayavastu",
+    "date_estimate": "c. 2nd-5th c. CE (redaction); Sanskrit Gilgit manuscript 5th-6th c. CE",
+    "summary": "The Adhikaraṇavastu is the sixteenth of the seventeen vastus of the Mūlasarvāstivāda Vinayavastu. It treats adhikaraṇa, formal disputes and litigation within the saṅgha, classifying the types of monastic disputes and setting out the seven methods (adhikaraṇa-śamatha) for settling them.",
+    "history": "Edited from the Gilgit Sanskrit manuscript together with the Śayanāsanavastu by Raniero Gnoli (Serie Orientale Roma L, 1978); also preserved in Tibetan and Chinese. It is a key text for understanding Buddhist legal conflict resolution.",
+    "related_works": ["Vinayavastu", "Mūlasarvāstivāda Vinaya", "Śayanāsanavastu", "Saṅghabhedavastu"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mulasarvastivada",
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0BFB331E1B52A548DB5F2582BB2E1AB0/S0041977X00144969a.pdf"
+    ]
+  },
+  {
+    "work_id": "K01vinv171u",
+    "title": "Saṅghabhedavastu 1",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (monastic law) / Buddha-biography, section of the Vinayavastu",
+    "date_estimate": "c. 2nd-5th c. CE (redaction); Sanskrit Gilgit manuscript 5th-6th c. CE",
+    "summary": "The Saṅghabhedavastu is the seventeenth and final vastu of the Mūlasarvāstivāda Vinayavastu; this is the first of its two parts (as divided in the editions/the Gilgit manuscript). Although its nominal topic is 'schism of the community' (saṅghabheda), the vastu is famous for embedding a vast biography of the Buddha and the early saṅgha: this first portion contains the genealogy of the Śākyas and the life of the Buddha up to his teaching career, providing the narrative setting that culminates in Devadatta's schism.",
+    "history": "Edited from the Gilgit manuscript in two volumes by Raniero Gnoli and T. Venkatacharya (Serie Orientale Roma XLIX, 1977-1978). The Saṅghabhedavastu is one of the most important sources for the Mūlasarvāstivāda recension of the Buddha's life story.",
+    "related_works": ["Vinayavastu", "Mūlasarvāstivāda Vinaya", "Saṅghabhedavastu 2", "Adhikaraṇavastu"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mulasarvastivada",
+      "https://www.semanticscholar.org/paper/The-Gilgit-manuscript-of-the-Sa%E1%B9%85ghabhedavastu-:-the-Gnoli-Venkatacharya/c5418bebc6558fe621f46e7c84da94f6a60dc4e0",
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0BFB331E1B52A548DB5F2582BB2E1AB0/S0041977X00144969a.pdf"
+    ]
+  },
+  {
+    "work_id": "K01vinv172u",
+    "title": "Saṅghabhedavastu 2",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mūlasarvāstivāda school)",
+    "genre": "vinaya (monastic law) / Buddha-biography, section of the Vinayavastu",
+    "date_estimate": "c. 2nd-5th c. CE (redaction); Sanskrit Gilgit manuscript 5th-6th c. CE",
+    "summary": "This is the second part of the Saṅghabhedavastu, the seventeenth and last vastu of the Mūlasarvāstivāda Vinayavastu. It continues the narrative of the Buddha's career and the early community, leading up to and treating in detail the schism (saṅghabheda) provoked by Devadatta, his rivalry with the Buddha, his attempts to take over the saṅgha, and the rules concerning the grave offence of splitting the community.",
+    "history": "Second volume of Gnoli and Venkatacharya's edition of the Gilgit manuscript (Serie Orientale Roma XLIX, 1977-1978). Together with part 1 it forms the longest single vastu and a major Mūlasarvāstivāda life-of-the-Buddha narrative.",
+    "related_works": ["Vinayavastu", "Mūlasarvāstivāda Vinaya", "Saṅghabhedavastu 1"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mulasarvastivada",
+      "https://www.semanticscholar.org/paper/The-Gilgit-manuscript-of-the-Sa%E1%B9%85ghabhedavastu-:-the-Gnoli-Venkatacharya/c5418bebc6558fe621f46e7c84da94f6a60dc4e0"
+    ]
+  },
+  {
+    "work_id": "K02bsu057_u",
+    "title": "Advayaśatikā Prajñāpāramitāsūtra",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna, Prajñāpāramitā literature)",
+    "genre": "sūtra (Mahāyāna scripture)",
+    "date_estimate": "c. 4th-7th c. CE (one of the shorter, later Prajñāpāramitā texts); disputed",
+    "summary": "The Advayaśatikā Prajñāpāramitā ('Perfection of Wisdom in 150 [verses], the Non-Dual') is one of the shorter Prajñāpāramitā sūtras. It presents, in compact form, the Buddha teaching Subhūti the perfection of wisdom understood through non-duality (advaya): emptiness, the non-arising of dharmas, and the realization that wisdom is inseparable from all phenomena. Like other short Prajñāpāramitā texts it distils the central teaching of the larger sutras into a brief, recitable scripture.",
+    "history": "One of the condensed Prajñāpāramitā scriptures that proliferated after the foundational Aṣṭasāhasrikā; it was translated into Chinese by Dānapāla around 980-1000 CE, which gives a terminus ante quem for the Sanskrit text. It belongs to the broad family of short Perfection of Wisdom sūtras that includes the Heart and Diamond Sutras.",
+    "related_works": ["Aṣṭasāhasrikā Prajñāpāramitā", "Prajñāpāramitāhṛdaya (Heart Sutra)", "Vajracchedikā Prajñāpāramitā"],
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prajnaparamita",
+      "https://3pitaka.wixsite.com/tripitaka/taishoprajnaparamita"
+    ]
+  },
+  {
+    "work_id": "K02sspp2_1u",
+    "title": "Śatasāhasrikā Prajñāpāramitā II-1 [Śatasāhasrikāprajñāpāramitāsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna, Prajñāpāramitā literature)",
+    "genre": "sūtra (Mahāyāna scripture)",
+    "date_estimate": "c. 1st-4th c. CE (large-sutra expansion of the Aṣṭasāhasrikā); disputed",
+    "summary": "The Śatasāhasrikā Prajñāpāramitā ('Perfection of Wisdom in 100,000 Lines') is the largest of the Mahāyāna Perfection of Wisdom sutras. This record (II-1) is the first part of the second major division (parivarta) of the text. The work expounds at vast length the bodhisattva's practice of the six perfections, the emptiness (śūnyatā) and non-substantiality of all dharmas, and the path to omniscient buddhahood, through long dialogues between the Buddha, Subhūti, Śāradvatīputra and Maitreya.",
+    "history": "A later, greatly expanded elaboration of the foundational Aṣṭasāhasrikā (8,000-line) Prajñāpāramitā, developed roughly between the 1st and 4th centuries CE, probably in Gandhāra and northwestern India. It survives in Nepalese Sanskrit manuscripts and in Tibetan (translated by Yeshe De, c. 8th-9th c.) and Chinese; the threefold division into 100,000/25,000/18,000-line versions is attested from the time of Bodhiruci (6th c.).",
+    "related_works": ["Aṣṭasāhasrikā Prajñāpāramitā", "Pañcaviṃśatisāhasrikā Prajñāpāramitā", "Aṣṭadaśasāhasrikā Prajñāpāramitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Large_Praj%C3%B1%C4%81p%C4%81ramit%C4%81_S%C5%ABtras",
+      "https://encyclopediaofbuddhism.org/wiki/%C5%9Aatas%C4%81hasrik%C4%81_praj%C3%B1%C4%81p%C4%81ramit%C4%81",
+      "https://84000.co/translation/toh8"
+    ]
+  },
+  {
+    "work_id": "K02sspp2_2u",
+    "title": "Śatasāhasrikā Prajñāpāramitā II-2 [Śatasāhasrikāprajñāpāramitāsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna, Prajñāpāramitā literature)",
+    "genre": "sūtra (Mahāyāna scripture)",
+    "date_estimate": "c. 1st-4th c. CE; disputed",
+    "summary": "Second part of the second major division (II-2) of the Śatasāhasrikā Prajñāpāramitā, the 100,000-line Perfection of Wisdom sutra. It continues the exhaustive exposition of emptiness and the bodhisattva path, treating the non-attachment, non-apprehension (anupalabdhi) and sameness of all dharmas, and the qualities and trainings of the bodhisattva-mahāsattva, in the highly repetitive cumulative style characteristic of the largest Prajñāpāramitā.",
+    "history": "Part of the same 100,000-line text; a sectional division used in the edition/manuscript. See Śatasāhasrikā II-1 for the work's overall composition history.",
+    "related_works": ["Śatasāhasrikā Prajñāpāramitā", "Aṣṭasāhasrikā Prajñāpāramitā", "Pañcaviṃśatisāhasrikā Prajñāpāramitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Large_Praj%C3%B1%C4%81p%C4%81ramit%C4%81_S%C5%ABtras",
+      "https://encyclopediaofbuddhism.org/wiki/%C5%9Aatas%C4%81hasrik%C4%81_praj%C3%B1%C4%81p%C4%81ramit%C4%81"
+    ]
+  },
+  {
+    "work_id": "K02sspp2_3u",
+    "title": "Śatasāhasrikā Prajñāpāramitā II-3 [Śatasāhasrikāprajñāpāramitāsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna, Prajñāpāramitā literature)",
+    "genre": "sūtra (Mahāyāna scripture)",
+    "date_estimate": "c. 1st-4th c. CE; disputed",
+    "summary": "Third part of the second major division (II-3) of the Śatasāhasrikā Prajñāpāramitā, the 100,000-line Perfection of Wisdom sutra. It continues the vast catechetical treatment of the perfection of wisdom, elaborating the emptiness of the aggregates, elements and all categories of dharmas, and the bodhisattva's training in non-apprehension and skillful means.",
+    "history": "A sectional division of the 100,000-line text; see Śatasāhasrikā II-1 for overall history and dating.",
+    "related_works": ["Śatasāhasrikā Prajñāpāramitā", "Aṣṭasāhasrikā Prajñāpāramitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Large_Praj%C3%B1%C4%81p%C4%81ramit%C4%81_S%C5%ABtras",
+      "https://encyclopediaofbuddhism.org/wiki/%C5%9Aatas%C4%81hasrik%C4%81_praj%C3%B1%C4%81p%C4%81ramit%C4%81"
+    ]
+  },
+  {
+    "work_id": "K02sspp2_4u",
+    "title": "Śatasāhasrikā Prajñāpāramitā II-4 [Śatasāhasrikāprajñāpāramitāsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna, Prajñāpāramitā literature)",
+    "genre": "sūtra (Mahāyāna scripture)",
+    "date_estimate": "c. 1st-4th c. CE; disputed",
+    "summary": "Fourth part of the second major division (II-4) of the Śatasāhasrikā Prajñāpāramitā, the 100,000-line Perfection of Wisdom sutra. It concludes the long second division, continuing the exposition of the bodhisattva's perfection of wisdom, the emptiness and equality of all dharmas, and the attainment of unsurpassed perfect awakening (anuttarā samyaksaṃbodhi).",
+    "history": "A sectional division of the 100,000-line text; see Śatasāhasrikā II-1 for overall history and dating.",
+    "related_works": ["Śatasāhasrikā Prajñāpāramitā", "Aṣṭasāhasrikā Prajñāpāramitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Large_Praj%C3%B1%C4%81p%C4%81ramit%C4%81_S%C5%ABtras",
+      "https://encyclopediaofbuddhism.org/wiki/%C5%9Aatas%C4%81hasrik%C4%81_praj%C3%B1%C4%81p%C4%81ramit%C4%81"
+    ]
+  },
+  {
+    "work_id": "K03psp_1u",
+    "title": "Pañcaviṃśatisāhasrikā Prajñāpāramitā I [Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna, Prajñāpāramitā literature)",
+    "genre": "sūtra (Mahāyāna scripture)",
+    "date_estimate": "c. 1st-4th c. CE (large-sutra expansion of the Aṣṭasāhasrikā); disputed",
+    "summary": "The Pañcaviṃśatisāhasrikā Prajñāpāramitā ('Perfection of Wisdom in 25,000 Lines') is the 'middle-length' Large Perfection of Wisdom sutra, second longest of the three. This record (Part I) is its first division. It expounds the bodhisattva's six perfections, the emptiness and non-apprehension of all dharmas, and the path to omniscience, through extended dialogues with Subhūti and Śāriputra.",
+    "history": "A later expansion of the Aṣṭasāhasrikā, sharing a common source with the 18,000-line Aṣṭadaśasāhasrikā (per Shogo Watanabe). It became the basis of Asaṅga/Maitreya's Abhisamayālaṃkāra exegesis and was 're-written' into chapters matching that treatise. It survives in Sanskrit (Nepal, Kashmir) and in Tibetan and Chinese translation.",
+    "related_works": ["Aṣṭasāhasrikā Prajñāpāramitā", "Aṣṭadaśasāhasrikā Prajñāpāramitā", "Śatasāhasrikā Prajñāpāramitā", "Abhisamayālaṃkāra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Large_Praj%C3%B1%C4%81p%C4%81ramit%C4%81_S%C5%ABtras",
+      "https://encyclopediaofbuddhism.org/wiki/Pa%C3%B1cavi%E1%B9%83%C5%9Batis%C4%81hasrik%C4%81_Praj%C3%B1%C4%81p%C4%81ramit%C4%81_S%C5%ABtra",
+      "https://84000.co/translation/toh9"
+    ]
+  },
+  {
+    "work_id": "K03psp_2-3u",
+    "title": "Pañcaviṃśatisāhasrikā Prajñāpāramitā II-III [Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna, Prajñāpāramitā literature)",
+    "genre": "sūtra (Mahāyāna scripture)",
+    "date_estimate": "c. 1st-4th c. CE; disputed",
+    "summary": "Second and third divisions (II-III) of the Pañcaviṃśatisāhasrikā Prajñāpāramitā, the 25,000-line Perfection of Wisdom sutra. These divisions continue the exposition of the perfection of wisdom: the non-substantiality and sameness of all dharmas, the bodhisattva's non-apprehending practice, skillful means, and the stages of the path culminating in buddhahood.",
+    "history": "Sectional divisions of the 25,000-line text, corresponding to the structure used in the edition/manuscript; see Pañcaviṃśatisāhasrikā I for overall history and dating.",
+    "related_works": ["Pañcaviṃśatisāhasrikā Prajñāpāramitā", "Aṣṭasāhasrikā Prajñāpāramitā", "Abhisamayālaṃkāra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Large_Praj%C3%B1%C4%81p%C4%81ramit%C4%81_S%C5%ABtras",
+      "https://84000.co/translation/toh9"
+    ]
+  },
+  {
+    "work_id": "K03psp_4u",
+    "title": "Pañcaviṃśatisāhasrikā Prajñāpāramitā IV [Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna, Prajñāpāramitā literature)",
+    "genre": "sūtra (Mahāyāna scripture)",
+    "date_estimate": "c. 1st-4th c. CE; disputed",
+    "summary": "Fourth division (Part IV) of the Pañcaviṃśatisāhasrikā Prajñāpāramitā, the 25,000-line Perfection of Wisdom sutra. It continues the systematic exposition of the bodhisattva's training in the perfection of wisdom, the emptiness of all phenomena, and the realization of non-apprehension and equality.",
+    "history": "Sectional division of the 25,000-line text; see Pañcaviṃśatisāhasrikā I for overall history and dating.",
+    "related_works": ["Pañcaviṃśatisāhasrikā Prajñāpāramitā", "Aṣṭasāhasrikā Prajñāpāramitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Large_Praj%C3%B1%C4%81p%C4%81ramit%C4%81_S%C5%ABtras",
+      "https://84000.co/translation/toh9"
+    ]
+  },
+  {
+    "work_id": "K03psp_5u",
+    "title": "Pañcaviṃśatisāhasrikā Prajñāpāramitā V [Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna, Prajñāpāramitā literature)",
+    "genre": "sūtra (Mahāyāna scripture)",
+    "date_estimate": "c. 1st-4th c. CE; disputed",
+    "summary": "Fifth division (Part V) of the Pañcaviṃśatisāhasrikā Prajñāpāramitā, the 25,000-line Perfection of Wisdom sutra. It continues the exposition of the perfection of wisdom, treating the qualities of the advanced bodhisattva, the non-apprehension of all dharmas, and the progress toward omniscient buddhahood.",
+    "history": "Sectional division of the 25,000-line text; see Pañcaviṃśatisāhasrikā I for overall history and dating.",
+    "related_works": ["Pañcaviṃśatisāhasrikā Prajñāpāramitā", "Aṣṭasāhasrikā Prajñāpāramitā"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Large_Praj%C3%B1%C4%81p%C4%81ramit%C4%81_S%C5%ABtras",
+      "https://84000.co/translation/toh9"
+    ]
+  },
+  {
+    "work_id": "K03psp_6-8u",
+    "title": "Pañcaviṃśatisāhasrikā Prajñāpāramitā VI-VIII [Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra]",
+    "author": "anonymous/traditional",
+    "tradition": "Buddhist (Mahāyāna, Prajñāpāramitā literature)",
+    "genre": "sūtra (Mahāyāna scripture)",
+    "date_estimate": "c. 1st-4th c. CE; disputed",
+    "summary": "Sixth through eighth divisions (VI-VIII) of the Pañcaviṃśatisāhasrikā Prajñāpāramitā, the 25,000-line Perfection of Wisdom sutra. These concluding divisions complete the exposition of the bodhisattva path and the perfection of wisdom, including its non-apprehending realization, the dedication and rejoicing of merit, skillful means, and the final attainment of unsurpassed awakening.",
+    "history": "Concluding sectional divisions of the 25,000-line text; see Pañcaviṃśatisāhasrikā I for overall history and dating.",
+    "related_works": ["Pañcaviṃśatisāhasrikā Prajñāpāramitā", "Aṣṭasāhasrikā Prajñāpāramitā", "Abhisamayālaṃkāra"],
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Large_Praj%C3%B1%C4%81p%C4%81ramit%C4%81_S%C5%ABtras",
+      "https://84000.co/translation/toh9"
+    ]
+  }
+]
