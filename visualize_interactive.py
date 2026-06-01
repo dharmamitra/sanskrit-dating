@@ -1,4 +1,4 @@
-import numpy as np, collections as C, json, os
+import numpy as np, collections as C, json, os, html as _html
 import plotly.graph_objects as go
 rng=np.random.default_rng(0)
 meta=json.load(open('meta.json')); mk=sorted(meta,key=len,reverse=True)
@@ -10,27 +10,31 @@ rows=[r.split('\t') for r in open('dated_gibbs_full.tsv').read().splitlines()[1:
 def coll(w):
     p=w.split('_'); return p[1] if len(p)>1 else ''
 
-# ---- harvest author / note text per work-id for search ----
-notes=C.defaultdict(list)
-for f in ['manual_constraints.tsv','researched_anchors.tsv','chronbmm_priors.tsv','dcs_anchors.tsv']:
-    if not os.path.exists(f): continue
-    for l in open(f).read().splitlines()[1:]:
-        p=l.split('\t')
-        if len(p)<2: continue
-        typ=p[0]; note=p[-1]
-        # only notes that describe the work ITSELF; SKIP 'order' (they name the OTHER work, e.g. "X after Vasubandhu")
-        if typ in ('anchor','not_before','not_after') and len(p)>=2:
-            notes[p[1]].append(note)
-# vedic anchor labels by prefix
-ved=[]
-if os.path.exists('vedic_anchors.tsv'):
-    for l in open('vedic_anchors.tsv').read().splitlines()[1:]:
-        p=l.split('\t'); ved.append((p[0],p[3] if len(p)>3 else ''))
+# ---- authoritative per-work metadata + descriptions (text-information.json) ----
+# Keyed by the same SA_<coll>_<slug> work-id as the dated TSV. Entries carry
+# title / author / genre / tradition / date_estimate / summary / history.
+TI=json.load(open('text-information.json'))
+def _root(w):
+    p=w.split('_'); return '_'.join(p[:2])
+_ti_by_root=C.defaultdict(list)
+for k in TI: _ti_by_root[_root(k)].append(k)
+def tinfo(w):
+    """Exact match, else longest work-id within the same collection that is a prefix
+    of (or prefixed by) this work-id — recovers split/sub-part works. {} if none."""
+    if w in TI: return TI[w]
+    cands=[k for k in _ti_by_root.get(_root(w),[]) if w.startswith(k) or k.startswith(w)]
+    if cands: return TI[max(cands,key=len)]
+    return {}
+
 def searchstr(w,title):
-    parts=[title, w, meta.get(m2w(w),{}).get('author','')]
-    parts+=notes.get(w,[])
-    for pre,lab in ved:
-        if w.startswith(pre): parts.append(lab)
+    # Search index = STRUCTURED fields only (title, work-id, author, genre).
+    # Deliberately excludes free-text descriptions / anchor notes — those mention
+    # OTHER authors (e.g. "cited by Vasubandhu") and caused cross-pollution where an
+    # author query surfaced every work that merely referenced that author.
+    e=tinfo(w)
+    parts=[e.get('title') or title, w,
+           e.get('author') or meta.get(m2w(w),{}).get('author',''),
+           e.get('genre','')]
     return ' '.join(x for x in parts if x).lower()
 
 CAT={}
@@ -68,14 +72,24 @@ for r in rows:
     if cat is None: continue
     try: md,lo,hi=float(r[6]),float(r[7]),float(r[8])
     except: continue
-    nch=float(r[2]); title=r[9].strip() or r[0]
+    e=tinfo(r[0])
+    nch=float(r[2]); title=(e.get('title') or '').strip() or r[9].strip() or r[0]
     disp=title if not title.lower().startswith('unknown') else title.split(':',1)[-1].strip()+f" ({r[0]})"
     base=float(np.interp(hi-lo,[100,900],[0.85,0.10]))
+    def esc(s): return _html.escape((s or '').strip())
     g=G[cat]
     g['x'].append(md); g['y'].append(li[cat]+rng.uniform(-0.34,0.34))
     g['s'].append(float(np.clip(5+2.4*np.sqrt(nch),5,38))); g['op'].append(base)
     g['cd'].append([disp,yr(md),f"{yr(lo)} – {yr(hi)}",cat,('anchored' if r[1]=='anchor' else 'inferred'),
-                    int(nch*100), searchstr(r[0],title), base, r[0]])
+                    int(nch*100), searchstr(r[0],title), base, r[0],
+                    esc(e.get('author') or meta.get(m2w(r[0]),{}).get('author','')),  # 9
+                    esc(e.get('genre','')),        # 10
+                    esc(e.get('tradition','')),    # 11
+                    esc(e.get('date_estimate','')),# 12
+                    esc(e.get('summary','')),      # 13
+                    esc(e.get('history','')),      # 14
+                    ("  ·  "+esc(e.get('author') or meta.get(m2w(r[0]),{}).get('author','')))
+                        if (e.get('author') or meta.get(m2w(r[0]),{}).get('author','')) else ""])  # 15 hover author
 fig=go.Figure()
 eras=[(-1700,-500,'Vedic','#FFF3E0'),(-500,200,'Epic & Sūtra','#F3E5F5'),(200,650,'Classical','#E8F5E9'),
       (650,1200,'Early Medieval','#E3F2FD'),(1200,1900,'Late Medieval','#FFF8E1')]
@@ -87,9 +101,10 @@ for cat in LANES:
     fig.add_trace(go.Scattergl(x=g['x'],y=g['y'],mode='markers',name=f"{cat} ({len(g['x'])})",
         marker=dict(size=g['s'],color=COL[cat],opacity=g['op'],line=dict(width=0.3,color='white')),
         customdata=g['cd'],
-        hovertemplate="<b>%{customdata[0]}</b><br>%{customdata[1]}  ·  95%% CI: %{customdata[2]}"
+        hovertemplate="<b>%{customdata[0]}</b>%{customdata[15]}"
+                      "<br>%{customdata[1]}  ·  95%% CI: %{customdata[2]}"
                       "<br>%{customdata[3]} — %{customdata[4]}  ·  ~%{customdata[5]:,} lines"
-                      "<br><i>click dot → open on DharmaNexus ↗</i><extra></extra>"))
+                      "<br><i>hover for summary · click → DharmaNexus ↗</i><extra></extra>"))
 fig.update_layout(template='plotly_white',height=1000,hovermode='closest',
     xaxis=dict(title='Year',range=[-1700,1900],tickmode='array',
                tickvals=[-1500,-1000,-500,0,500,1000,1500],
@@ -109,15 +124,24 @@ HTML=f"""<!DOCTYPE html><html><head><meta charset="utf-8"><title>Sanskrit Chrono
  #search{{font-size:15px;padding:8px 12px;width:340px;border:2px solid #2471A3;border-radius:7px;margin-top:8px}}
  #count{{margin-left:12px;color:#2471A3;font-weight:600}} #clr{{margin-left:6px;cursor:pointer;color:#888;font-size:13px}}
  .ex{{color:#aaa;font-size:12px;margin-left:6px}} .ex b{{color:#2471A3;cursor:pointer;font-weight:600}}
+ #detail{{position:fixed;right:16px;bottom:16px;width:370px;max-height:60vh;overflow-y:auto;
+   background:#fff;border:1px solid #ddd;border-radius:10px;box-shadow:0 4px 18px rgba(0,0,0,.13);
+   padding:14px 16px;font-size:13px;line-height:1.5;z-index:20;display:none}}
+ #detail .dt{{font-weight:700;font-size:15px;margin-bottom:2px}}
+ #detail .dm{{color:#2471A3;font-weight:600;margin-bottom:1px}}
+ #detail .dg{{color:#777;font-size:12px;margin-bottom:8px}}
+ #detail p{{margin:0 0 8px}} #detail .hist{{color:#555;font-size:12.5px;border-top:1px solid #eee;padding-top:8px}}
+ #detail .dl{{color:#aaa;font-size:11.5px}} #detail .dx{{float:right;cursor:pointer;color:#bbb;font-size:14px;margin:-4px -4px 0 0}}
 </style></head><body>
 <div id="bar">
  <h1>A Computed Chronology of Sanskrit Literature</h1>
- <div class="sub">{N} texts · hover for details · <b>click a dot to open it on DharmaNexus</b> · drag to zoom · click legend to toggle genres · dot size = text length</div>
- <input id="search" placeholder="Search author or title…" autocomplete="off">
+ <div class="sub">{N} texts · hover a dot for its summary · <b>click a dot to open it on DharmaNexus</b> · drag to zoom · click legend to toggle genres · dot size = text length</div>
+ <input id="search" placeholder="Search author, title or genre…" autocomplete="off">
  <span id="count"></span><span id="clr">✕ clear</span>
  <span class="ex">try: <b onclick="setq('vasubandhu')">Vasubandhu</b> · <b onclick="setq('kālidāsa')">Kālidāsa</b> · <b onclick="setq('nāgārjuna')">Nāgārjuna</b> · <b onclick="setq('abhinavagupta')">Abhinavagupta</b> · <b onclick="setq('purāṇa')">Purāṇa</b></span>
 </div>
 {chart}
+<div id="detail"></div>
 <script>
 const gd=document.getElementById('chart'), inp=document.getElementById('search'), cnt=document.getElementById('count');
 function apply(){{
@@ -138,6 +162,18 @@ function apply(){{
    if(m>0){{const pad=Math.max(60,(xmax-xmin)*0.12); Plotly.relayout(gd,{{'xaxis.range':[xmin-pad,xmax+pad]}});}}}}
 }}
 function setq(q){{inp.value=q; apply(); inp.focus();}}
+const det=document.getElementById('detail');
+gd.on('plotly_hover',function(e){{
+  const d=e.points[0].customdata;
+  let h='<span class="dx" onclick="det.style.display=\'none\'">✕</span>';
+  h+='<div class="dt">'+d[0]+'</div>';
+  h+='<div class="dm">'+(d[9]?d[9]+'  ·  ':'')+(d[12]||d[1])+'</div>';
+  h+='<div class="dg">'+(d[10]||d[3])+(d[11]?'  ·  '+d[11]:'')+'</div>';
+  if(d[13]) h+='<p>'+d[13]+'</p>';
+  if(d[14]) h+='<p class="hist">'+d[14]+'</p>';
+  h+='<div class="dl">click the dot → open on DharmaNexus ↗</div>';
+  det.innerHTML=h; det.style.display='block'; det.scrollTop=0;
+}});
 gd.on('plotly_click',function(e){{var w=e.points[0].customdata[8];
   if(w) window.open('https://dharmamitra.org/nexus/db/sa/'+w+'/text','_blank');}});
 inp.addEventListener('input',apply);
