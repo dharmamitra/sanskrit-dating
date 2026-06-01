@@ -1,4 +1,4 @@
-import numpy as np, collections as C, json, os, html as _html
+import numpy as np, collections as C, json, os, re, html as _html
 import plotly.graph_objects as go
 rng=np.random.default_rng(0)
 meta=json.load(open('meta.json')); mk=sorted(meta,key=len,reverse=True)
@@ -26,6 +26,18 @@ def tinfo(w):
     if cands: return TI[max(cands,key=len)]
     return {}
 
+def author_for_search(a):
+    # The author field is free text whose SPURIOUS names almost always sit inside
+    # parenthetical qualifiers — aliases, role tags, and cross-references such as
+    #   "anonymous/traditional (sometimes attributed to Vasubandhu or his school)"  (Tarkaśāstra)
+    #   "Maitreyanātha (attributed; commentator on Nāgārjuna)"                       (Bhavasaṅkrāntiṭīkā)
+    #   "Śaṅkarasvāmin (... sometimes ascribed to Dignāga)"                          (Nyāyapraveśaka)
+    #   "attributed to Āryaśūra (also given as ... Aśvaghoṣa)"                        (Subhāṣitaratnakaraṇḍaka)
+    # so an author query was surfacing works that merely reference that name. Drop the
+    # parentheticals and index only the lead attribution; co-authors separated by ';'
+    # (e.g. "Maitreya (kārikās); Vasubandhu (bhāṣya)") survive — each is a real author.
+    return re.sub(r'\([^)]*\)', ' ', a or '')
+
 def searchstr(w,title):
     # Search index = STRUCTURED fields only (title, work-id, author, genre).
     # Deliberately excludes free-text descriptions / anchor notes — those mention
@@ -33,7 +45,7 @@ def searchstr(w,title):
     # author query surfaced every work that merely referenced that author.
     e=tinfo(w)
     parts=[e.get('title') or title, w,
-           e.get('author') or meta.get(m2w(w),{}).get('author',''),
+           author_for_search(e.get('author') or meta.get(m2w(w),{}).get('author','')),
            e.get('genre','')]
     return ' '.join(x for x in parts if x).lower()
 
