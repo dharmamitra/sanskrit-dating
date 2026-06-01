@@ -170,21 +170,26 @@ HTML=f"""<!DOCTYPE html><html><head><meta charset="utf-8"><title>Sanskrit Chrono
 <div id="detail"></div>
 <script>
 const gd=document.getElementById('chart'), inp=document.getElementById('search'), cnt=document.getElementById('count');
+// cache original coordinates once; filtering nulls out non-matches so they are
+// neither drawn NOR hoverable (opacity/hoverinfo can't suppress Plotly's tooltip
+// while a hovertemplate is set, but a null-coordinate point doesn't exist to hover).
+const X0=gd.data.map(t=>t.x.slice()), Y0=gd.data.map(t=>t.y.slice());
 function apply(){{
  const term=inp.value.trim().toLowerCase();
- const ops=[], hi=[]; let m=0,xmin=1e9,xmax=-1e9;
+ const ops=[], XS=[], YS=[]; let m=0,xmin=1e9,xmax=-1e9;
  for(let i=0;i<gd.data.length;i++){{
-   const cd=gd.data[i].customdata, xs=gd.data[i].x;
-   ops.push(cd.map((row,j)=>{{
-     if(term==="") return row[7];
-     const hit=row[6].indexOf(term)>=0;
-     if(hit){{m++; if(xs[j]<xmin)xmin=xs[j]; if(xs[j]>xmax)xmax=xs[j];}}
-     return hit?0.95:0;   // non-matches fully hidden during a search, not just dimmed
-   }}));
-   // gate the native tooltip too: hidden non-matches must not respond to hover
-   hi.push(cd.map(row=> (term!=="" && row[6].indexOf(term)<0) ? 'skip' : 'all'));
+   const cd=gd.data[i].customdata, x0=X0[i], y0=Y0[i];
+   const op=[], xx=[], yy=[];
+   for(let j=0;j<cd.length;j++){{
+     if(term===""){{ op.push(cd[j][7]); xx.push(x0[j]); yy.push(y0[j]); continue; }}
+     if(cd[j][6].indexOf(term)>=0){{
+       m++; if(x0[j]<xmin)xmin=x0[j]; if(x0[j]>xmax)xmax=x0[j];
+       op.push(0.95); xx.push(x0[j]); yy.push(y0[j]);
+     }} else {{ op.push(0); xx.push(null); yy.push(null); }}  // non-match: remove from plot
+   }}
+   ops.push(op); XS.push(xx); YS.push(yy);
  }}
- Plotly.restyle(gd,{{'marker.opacity':ops,'hoverinfo':hi}});
+ Plotly.restyle(gd,{{'x':XS,'y':YS,'marker.opacity':ops}});
  if(term===""){{cnt.textContent=""; Plotly.relayout(gd,{{'xaxis.range':[-1700,1900]}});}}
  else{{cnt.textContent=m+" match"+(m==1?"":"es");
    if(m>0){{const pad=Math.max(60,(xmax-xmin)*0.12); Plotly.relayout(gd,{{'xaxis.range':[xmin-pad,xmax+pad]}});}}}}
