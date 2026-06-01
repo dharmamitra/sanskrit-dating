@@ -191,8 +191,10 @@ document.getElementById('clr').addEventListener('click',()=>{{inp.value="";apply
  <ol>
   <li><b>Scholarly priors.</b> For works with an established date in the secondary literature, that
       consensus enters as an informative prior — either a point anchor or a soft window — together with
-      hard <i>before / after</i> ordering constraints drawn from known author relationships, commentaries,
-      and translation dates.</li>
+      hard <i>before / after</i> ordering constraints drawn from known author relationships and commentaries.
+      Dated <b>Chinese translations</b> are used as hard priors too: a securely dated translation fixes a
+      <i>terminus ante quem</i> (the Sanskrit original must predate it), anchoring many Buddhist texts that
+      have no other external date.</li>
   <li><b>Linguistic dating.</b> Every text is dated from its own language independently of any anchor,
       using a category-free stylometric clock built on morphology and function-word <i>n</i>-grams
       (rather than vocabulary, which in normatively-frozen Sanskrit is too weak a signal). This yields a
