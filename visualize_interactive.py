@@ -172,7 +172,7 @@ HTML=f"""<!DOCTYPE html><html><head><meta charset="utf-8"><title>Sanskrit Chrono
 const gd=document.getElementById('chart'), inp=document.getElementById('search'), cnt=document.getElementById('count');
 function apply(){{
  const term=inp.value.trim().toLowerCase();
- const ops=[]; let m=0,xmin=1e9,xmax=-1e9;
+ const ops=[], hi=[]; let m=0,xmin=1e9,xmax=-1e9;
  for(let i=0;i<gd.data.length;i++){{
    const cd=gd.data[i].customdata, xs=gd.data[i].x;
    ops.push(cd.map((row,j)=>{{
@@ -181,8 +181,10 @@ function apply(){{
      if(hit){{m++; if(xs[j]<xmin)xmin=xs[j]; if(xs[j]>xmax)xmax=xs[j];}}
      return hit?0.95:0;   // non-matches fully hidden during a search, not just dimmed
    }}));
+   // gate the native tooltip too: hidden non-matches must not respond to hover
+   hi.push(cd.map(row=> (term!=="" && row[6].indexOf(term)<0) ? 'skip' : 'all'));
  }}
- Plotly.restyle(gd,{{'marker.opacity':ops}});
+ Plotly.restyle(gd,{{'marker.opacity':ops,'hoverinfo':hi}});
  if(term===""){{cnt.textContent=""; Plotly.relayout(gd,{{'xaxis.range':[-1700,1900]}});}}
  else{{cnt.textContent=m+" match"+(m==1?"":"es");
    if(m>0){{const pad=Math.max(60,(xmax-xmin)*0.12); Plotly.relayout(gd,{{'xaxis.range':[xmin-pad,xmax+pad]}});}}}}
