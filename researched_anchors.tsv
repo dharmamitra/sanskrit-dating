@@ -71,24 +71,24 @@ anchor	SA_GE07_mbh_03_u	-400	400	[high] Mahābhārata: Āraṇyakaparvan (Winter
 anchor	SA_GSP27_yogva	900	1400	[medium] Yogavasiṣṭha (Slaje; Hanneder (Mokṣopāya project))
 anchor	SA_K14_mhvastuu	-200	400	[high] Mahāvastu-avadāna (Wikipedia; standard Buddhist studies c)
 anchor	SA_GE07_mbh_13_u	-400	400	[high] Mahābhārata: Anuśāsanaparvan (Winternitz; Brockington (Wikipedia))
-anchor	SA_GE07_bhgce__u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c08u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c11u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c14u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c10u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c16u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c04u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c17u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c01u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c07u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c09u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c05u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c12u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c03u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c06u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c15u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c02u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
-anchor	SA_GE07_bhg4c18u	-200	200	[high] Bhagavadgītā 2 (Fowler; Upadhyaya; Britannica (Wikiped)
+anchor	SA_GE07_bhgce__u	1	400	[high] Hellwig 2019 neural dating: whole Gita = Mbh 6.23-40, layered (Hellwig 2019)
+anchor	SA_GE07_bhg4c08u	100	300	[high] Hellwig 2019 neural dating: 6.30 framing, LATE: 2nd/3rd c CE
+anchor	SA_GE07_bhg4c11u	1	200	[high] Hellwig 2019 neural dating: 6.33 central bhakti core, EARLIER (~1st-2nd c CE)
+anchor	SA_GE07_bhg4c14u	200	400	[high] Hellwig 2019 neural dating: 6.36 framing, LATE: 3rd/4th c CE
+anchor	SA_GE07_bhg4c10u	1	200	[high] Hellwig 2019 neural dating: 6.32 central bhakti core, EARLIER (~1st-2nd c CE)
+anchor	SA_GE07_bhg4c16u	200	400	[high] Hellwig 2019 neural dating: 6.38 framing, LATE: 3rd/4th c CE
+anchor	SA_GE07_bhg4c04u	100	300	[high] Hellwig 2019 neural dating: 6.26 framing, LATE: 2nd/3rd c CE
+anchor	SA_GE07_bhg4c17u	200	400	[high] Hellwig 2019 neural dating: 6.39 framing, LATE: 3rd/4th c CE
+anchor	SA_GE07_bhg4c01u	1	200	[high] Hellwig 2019 neural dating: 6.23 labelled EARLY by ranker; early intro adhyaya
+anchor	SA_GE07_bhg4c07u	100	300	[high] Hellwig 2019 neural dating: 6.29 framing, LATE: 2nd/3rd c CE
+anchor	SA_GE07_bhg4c09u	100	300	[high] Hellwig 2019 neural dating: 6.31 framing, LATE: 2nd/3rd c CE
+anchor	SA_GE07_bhg4c05u	100	300	[high] Hellwig 2019 neural dating: 6.27 framing, LATE: 2nd/3rd c CE
+anchor	SA_GE07_bhg4c12u	1	200	[high] Hellwig 2019 neural dating: 6.34 central bhakti core, EARLIER (~1st-2nd c CE)
+anchor	SA_GE07_bhg4c03u	1	200	[high] Hellwig 2019 neural dating: 6.25 early section (between early 6.23 and late 6.26+)
+anchor	SA_GE07_bhg4c06u	100	300	[high] Hellwig 2019 neural dating: 6.28 framing, LATE: 2nd/3rd c CE
+anchor	SA_GE07_bhg4c15u	200	400	[high] Hellwig 2019 neural dating: 6.37 framing, LATE: 3rd/4th c CE
+anchor	SA_GE07_bhg4c02u	1	200	[high] Hellwig 2019 neural dating: 6.24 early section (between early 6.23 and late 6.26+)
+anchor	SA_GE07_bhg4c18u	200	400	[high] Hellwig 2019 neural dating: 6.40 framing, LATE: 3rd/4th c CE
 anchor	SA_GE07_mbh_01_u	-400	400	[high] Mahābhārata: Ādiparvan (Winternitz; Brockington (Wikipedia))
 anchor	SA_GSP29_vytrkt3u	1480	1539	[high] Tarkatāṇḍava: Pariccheda 1 (Wikipedia; Williams (IJHS))
 anchor	SA_GSP29_vytrkt2u	1480	1539	[high] Tarkatāṇḍava: Pariccheda 1 (Wikipedia; Williams (IJHS))
