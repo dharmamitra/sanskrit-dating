@@ -165,7 +165,7 @@ HTML=f"""<!DOCTYPE html><html><head><meta charset="utf-8"><title>Sanskrit Chrono
  footer a{{color:#2471A3}}
 </style></head><body>
 <div id="bar">
- <h1>A Computed Chronology of Sanskrit Literature</h1>
+ <h1>A Computed Chronology of Sanskrit Literature as represented in the Dharmamitra text collection</h1>
  <div class="sub">{N} texts · hover a dot for its summary · <b>click a dot to open it on DharmaNexus</b> · drag to zoom · click legend to toggle genres · dot size = text length</div>
  <input id="search" placeholder="Search author, title or genre (diacritics optional)…" autocomplete="off">
  <span id="count"></span><span id="clr">✕ clear</span>
