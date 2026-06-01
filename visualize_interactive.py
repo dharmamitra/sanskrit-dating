@@ -171,7 +171,7 @@ function setq(q){{inp.value=q; apply(); inp.focus();}}
 const det=document.getElementById('detail');
 gd.on('plotly_hover',function(e){{
   const d=e.points[0].customdata;
-  let h='<span class="dx" onclick="det.style.display=\'none\'">✕</span>';
+  let h='<span class="dx" id="detx">✕</span>';
   h+='<div class="dt">'+d[0]+'</div>';
   h+='<div class="dm">'+(d[9]?d[9]+'  ·  ':'')+(d[12]||d[1])+'</div>';
   h+='<div class="dg">'+(d[10]||d[3])+(d[11]?'  ·  '+d[11]:'')+'</div>';
@@ -179,6 +179,7 @@ gd.on('plotly_hover',function(e){{
   if(d[14]) h+='<p class="hist">'+d[14]+'</p>';
   h+='<div class="dl">click the dot → open on DharmaNexus ↗</div>';
   det.innerHTML=h; det.style.display='block'; det.scrollTop=0;
+  document.getElementById('detx').onclick=function(){{det.style.display='none';}};
 }});
 gd.on('plotly_click',function(e){{var w=e.points[0].customdata[8];
   if(w) window.open('https://dharmamitra.org/nexus/db/sa/'+w+'/text','_blank');}});
@@ -187,7 +188,7 @@ document.getElementById('clr').addEventListener('click',()=>{{inp.value="";apply
 </script>
 <footer>
  <h2>How these dates were computed</h2>
- Each text's position combines three independent sources of evidence, fused in a single Bayesian model:
+ Each text's position combines two independent sources of evidence, fused in a single Bayesian model:
  <ol>
   <li><b>Scholarly priors.</b> For works with an established date in the secondary literature, that
       consensus enters as an informative prior — either a point anchor or a soft window — together with
@@ -199,12 +200,10 @@ document.getElementById('clr').addEventListener('click',()=>{{inp.value="";apply
       using a category-free stylometric clock built on morphology and function-word <i>n</i>-grams
       (rather than vocabulary, which in normatively-frozen Sanskrit is too weak a signal). This yields a
       composition-style estimate that is largely genre-independent.</li>
-  <li><b>Intertextual structure.</b> Directed citation and parallel-passage links between works constrain
-      their relative order: who borrows from whom propagates dates across the corpus graph.</li>
  </ol>
  A <b>Gibbs sampler</b> fuses these signals — sampling each text's date conditioned on its linguistic
- estimate, its priors, and its neighbours' current dates subject to the ordering constraints — and runs
- to convergence. Each dot is the posterior median; the 95% credible interval (shown on hover) widens
+ estimate and its priors, subject to the <i>before / after</i> ordering constraints — and runs to
+ convergence. Each dot is the posterior median; the 95% credible interval (shown on hover) widens
  where evidence is sparse and tightens around well-anchored texts.
  <div class="cav">
   Posterior estimates, not established facts — especially for inferred (non-anchored) works and texts of
