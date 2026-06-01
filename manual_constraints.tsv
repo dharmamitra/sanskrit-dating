@@ -41,3 +41,6 @@ anchor	SA_T04_bsa014_u	685	763	Santideva Siksasamuccayakarika
 anchor	SA_T04_bsa004_u	1000	1054	Atisa Bodhipathapradipa (composed ~1042)
 order	SA_T04_tat	SA_T04_tatpa		Tattvasamgraha before Kamalasila's panjika on it
 anchor	SA_T01_nagast_u	150	600	Acintyastava DISPUTED Catuhstava hymn (researched-as-Nagarjuna but DCS slot4/medieval; attribution contested) - wide
+order	SA_T06_bsa022_u	SA_T06_vasvvmsu		Viṃśatikā kārikā precede their own Viṃśikāvṛtti (Vasubandhu auto-commentary)
+order	SA_T11_dhkprvku	SA_T11_dhkpvsvu		Pramāṇavārttikakārikā precede Dharmakīrti's svavṛtti (auto-commentary)
+order	SA_T11_pramanvu	SA_T11_dhkpvsvu		Pramāṇavārttika verses precede Dharmakīrti's svavṛtti (auto-commentary)
