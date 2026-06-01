@@ -1,4 +1,4 @@
-import numpy as np, collections as C, json, os, re, html as _html
+import numpy as np, collections as C, json, os, re, unicodedata, html as _html
 import plotly.graph_objects as go
 rng=np.random.default_rng(0)
 meta=json.load(open('meta.json')); mk=sorted(meta,key=len,reverse=True)
@@ -38,6 +38,11 @@ def author_for_search(a):
     # (e.g. "Maitreya (kārikās); Vasubandhu (bhāṣya)") survive — each is a real author.
     return re.sub(r'\([^)]*\)', ' ', a or '')
 
+def deaccent(s):
+    # Strip IAST diacritics via NFKD decomposition (ā→a, ū→u, ṛ→r, ś/ṣ→s, ṅ/ñ/ṇ→n,
+    # ṭ/ḍ→t/d, ḥ→h, ṃ→m, …) so a plain-ASCII query like "bhumi" matches "bhūmi".
+    return ''.join(c for c in unicodedata.normalize('NFKD', s) if not unicodedata.combining(c))
+
 def searchstr(w,title):
     # Search index = STRUCTURED fields only (title, work-id, author, genre).
     # Deliberately excludes free-text descriptions / anchor notes — those mention
@@ -47,7 +52,10 @@ def searchstr(w,title):
     parts=[e.get('title') or title, w,
            author_for_search(e.get('author') or meta.get(m2w(w),{}).get('author','')),
            e.get('genre','')]
-    return ' '.join(x for x in parts if x).lower()
+    base=' '.join(x for x in parts if x).lower()
+    # Append a diacritic-free duplicate so diacritic-insensitive queries also hit.
+    folded=deaccent(base)
+    return base if folded==base else base+' '+folded
 
 CAT={}
 for c in ['GV','GV00','GV01','GV02','GV03','GV04']: CAT[c]='Veda (Saṃhitā/Brāhmaṇa)'
@@ -154,7 +162,7 @@ HTML=f"""<!DOCTYPE html><html><head><meta charset="utf-8"><title>Sanskrit Chrono
 <div id="bar">
  <h1>A Computed Chronology of Sanskrit Literature</h1>
  <div class="sub">{N} texts · hover a dot for its summary · <b>click a dot to open it on DharmaNexus</b> · drag to zoom · click legend to toggle genres · dot size = text length</div>
- <input id="search" placeholder="Search author, title or genre…" autocomplete="off">
+ <input id="search" placeholder="Search author, title or genre (diacritics optional)…" autocomplete="off">
  <span id="count"></span><span id="clr">✕ clear</span>
  <span class="ex">try: <b onclick="setq('vasubandhu')">Vasubandhu</b> · <b onclick="setq('kālidāsa')">Kālidāsa</b> · <b onclick="setq('nāgārjuna')">Nāgārjuna</b> · <b onclick="setq('abhinavagupta')">Abhinavagupta</b> · <b onclick="setq('purāṇa')">Purāṇa</b></span>
 </div>
