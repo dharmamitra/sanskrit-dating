@@ -86,6 +86,11 @@ COL={'Veda (Saṃhitā/Brāhmaṇa)':'#D35400','Upaniṣad':'#E67E22','Vedic Sū
 li={t:i for i,t in enumerate(LANES)}
 def yr(v):
     v=int(round(v)); return f"{-v} BCE" if v<0 else f"{v} CE"
+def likely_range(lo,hi):
+    # An informed, deliberately imprecise band: round the 95% credible interval
+    # OUTWARD to the nearest 25 years so the tooltip never implies false precision.
+    lo=int(np.floor(lo/25.0)*25); hi=int(np.ceil(hi/25.0)*25)
+    return f"c. {yr(lo)} – {yr(hi)}"
 G=C.defaultdict(lambda: dict(x=[],y=[],s=[],op=[],cd=[]))
 for r in rows:
     cat=CAT.get(coll(r[0]))
@@ -100,7 +105,7 @@ for r in rows:
     g=G[cat]
     g['x'].append(md); g['y'].append(li[cat]+rng.uniform(-0.34,0.34))
     g['s'].append(float(np.clip(5+2.4*np.sqrt(nch),5,38))); g['op'].append(base)
-    g['cd'].append([disp,yr(md),f"{yr(lo)} – {yr(hi)}",cat,('anchored' if r[1]=='anchor' else 'inferred'),
+    g['cd'].append([disp,likely_range(lo,hi),f"{yr(lo)} – {yr(hi)}",cat,('anchored' if r[1]=='anchor' else 'inferred'),
                     int(nch*100), searchstr(r[0],title), base, r[0],
                     esc(e.get('author') or meta.get(m2w(r[0]),{}).get('author','')),  # 9
                     esc(e.get('genre','')),        # 10
@@ -122,9 +127,9 @@ for cat in LANES:
         marker=dict(size=g['s'],color=COL[cat],opacity=g['op'],line=dict(width=0.3,color='white')),
         customdata=g['cd'],
         hovertemplate="<b>%{customdata[0]}</b>%{customdata[15]}"
-                      "<br>%{customdata[1]}  ·  95%% CI: %{customdata[2]}"
+                      "<br>likely range: <b>%{customdata[1]}</b>  <i>(approximate)</i>"
                       "<br>%{customdata[3]} — %{customdata[4]}  ·  ~%{customdata[5]:,} lines"
-                      "<br><i>hover for summary · click → DharmaNexus ↗</i><extra></extra>"))
+                      "<br><i>uncertain estimate, not a precise date · click → DharmaNexus ↗</i><extra></extra>"))
 fig.update_layout(template='plotly_white',height=1000,hovermode='closest',
     xaxis=dict(title='Year',range=[-1700,1900],tickmode='array',
                tickvals=[-1500,-1000,-500,0,500,1000,1500],
@@ -202,7 +207,7 @@ gd.on('plotly_hover',function(e){{
   if(term && d[6].indexOf(term)<0) return;
   let h='<span class="dx" id="detx">✕</span>';
   h+='<div class="dt">'+d[0]+'</div>';
-  h+='<div class="dm">'+(d[9]?d[9]+'  ·  ':'')+(d[12]||d[1])+'</div>';
+  h+='<div class="dm">'+(d[9]?d[9]+'  ·  ':'')+'likely range: '+d[1]+'</div>';
   h+='<div class="dg">'+(d[10]||d[3])+(d[11]?'  ·  '+d[11]:'')+'</div>';
   if(d[13]) h+='<p>'+d[13]+'</p>';
   if(d[14]) h+='<p class="hist">'+d[14]+'</p>';
