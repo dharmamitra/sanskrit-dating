@@ -159,7 +159,7 @@ function apply(){{
      if(term==="") return row[7];
      const hit=row[6].indexOf(term)>=0;
      if(hit){{m++; if(xs[j]<xmin)xmin=xs[j]; if(xs[j]>xmax)xmax=xs[j];}}
-     return hit?0.95:0.025;
+     return hit?0.95:0;   // non-matches fully hidden during a search, not just dimmed
    }}));
  }}
  Plotly.restyle(gd,{{'marker.opacity':ops}});
@@ -171,6 +171,8 @@ function setq(q){{inp.value=q; apply(); inp.focus();}}
 const det=document.getElementById('detail');
 gd.on('plotly_hover',function(e){{
   const d=e.points[0].customdata;
+  const term=inp.value.trim().toLowerCase();          // while searching, ignore hidden non-matches
+  if(term && d[6].indexOf(term)<0) return;
   let h='<span class="dx" id="detx">✕</span>';
   h+='<div class="dt">'+d[0]+'</div>';
   h+='<div class="dm">'+(d[9]?d[9]+'  ·  ':'')+(d[12]||d[1])+'</div>';
