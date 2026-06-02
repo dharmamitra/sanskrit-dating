@@ -44,3 +44,19 @@ anchor	SA_T01_nagast_u	150	600	Acintyastava DISPUTED Catuhstava hymn (researched
 order	SA_T06_bsa022_u	SA_T06_vasvvmsu		Viṃśatikā kārikā precede their own Viṃśikāvṛtti (Vasubandhu auto-commentary)
 order	SA_T11_dhkprvku	SA_T11_dhkpvsvu		Pramāṇavārttikakārikā precede Dharmakīrti's svavṛtti (auto-commentary)
 order	SA_T11_pramanvu	SA_T11_dhkpvsvu		Pramāṇavārttika verses precede Dharmakīrti's svavṛtti (auto-commentary)
+anchor	SA_GSD37_apastd_u	-350	-150	Olivelle (Between the Empires 2006): earliest Dharmasūtra ~3rd c BCE; dharmasūtras not earlier than late-4th c BCE
+anchor	SA_GSD37_gautdh_u	-300	-100	Olivelle 2006: Gautama DhS, late centuries BCE, closely tied/transitional to Manu
+anchor	SA_GSD37_gautdhcu	-300	-100	Olivelle 2006: Gautama DhS, late centuries BCE, closely tied/transitional to Manu
+anchor	SA_GSD37_baudhd_u	-250	-100	Olivelle 2006: Baudhāyana DhS (GSD37 dharmasūtra; TI title 'śrautasūtra' is mislabeled), late centuries BCE
+anchor	SA_GSD37_vasist_u	-150	100	Olivelle (Dharmasūtras): latest of the four Dharmasūtras, turn of the era
+anchor	SA_GSD36_manu2p_u	100	300	Olivelle: Mānava-Dharmaśāstra (Manu) watershed — post-Dharmasūtra, pre-Yājñavalkya; ~2nd-3rd c CE (Olivelle 2005)
+anchor	SA_GSD36_yajn2_pu	300	500	Olivelle 2006: Yājñavalkya composed ~4th-5th c CE (post-Manu)
+anchor	SA_GSD36_narads_u	400	600	Olivelle 2006: Nārada vyavahāra-monograph, mid-first-millennium CE (post-Yājñavalkya)
+anchor	SA_GSD36_nars2_pu	400	600	Olivelle 2006: Nārada vyavahāra-monograph, mid-first-millennium CE (post-Yājñavalkya)
+anchor	SA_GSD36_brhasp_u	400	600	Olivelle 2006: Bṛhaspati vyavahāra-monograph, mid-first-millennium CE
+anchor	SA_GSD36_brhasppu	400	600	Olivelle 2006: Bṛhaspati Vyavahārakāṇḍa, mid-first-millennium CE
+anchor	SA_GSD36_katy2p_u	400	600	Olivelle 2006: Kātyāyana vyavahāra-monograph, mid-first-millennium CE
+order	SA_GSD37_apastd_u	SA_GSD37_vasist_u		Olivelle: Āpastamba (earliest DhS) before Vasiṣṭha (latest DhS)
+order	SA_GSD37_vasist_u	SA_GSD36_manu2p_u		Olivelle: Dharmasūtras before Manu (watershed)
+order	SA_GSD36_manu2p_u	SA_GSD36_yajn2_pu		Olivelle: Manu before Yājñavalkya
+order	SA_GSD36_yajn2_pu	SA_GSD36_narads_u		Olivelle: Yājñavalkya before the vyavahāra-monographs (Nārada)

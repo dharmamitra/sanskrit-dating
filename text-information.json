@@ -1360,11 +1360,11 @@
   },
   "SA_GSD37_baudhd_u": {
     "work_id": "GSD37baudhd_u",
-    "title": "Baudhāyana-Śrautasūtra",
+    "title": "Baudhāyana-Dharmasūtra",
     "author": "anonymous/traditional (Baudhāyana school of the Taittirīya Yajurveda)",
     "tradition": "Hindu (Vedic ritual)",
     "genre": "śrautasūtra (manual of solemn Vedic ritual)",
-    "date_estimate": "c. 800-600 BCE (late Brāhmaṇa / early Sūtra period)",
+    "date_estimate": "late centuries BCE (Olivelle: among the four classical Dharmasūtras)",
     "summary": "A late-Vedic manual prescribing the solemn (śrauta) sacrifices of the Taittirīya school of the Kṛṣṇa Yajurveda, including the agnyādhāna, agnihotra, new- and full-moon offerings, the soma rituals, and the great fire-altar (agnicayana) constructions. It is one of the earliest Śrautasūtras and shows the first movement toward the terse sūtra style. NOTE: the project metadata flags this work_id as mislabeled, but the supplied title is the Baudhāyana Śrautasūtra, which is described here.",
     "history": "Belongs to the Baudhāyana Kalpasūtra and is dated to roughly 800-600 BCE, composed in eastern Uttar Pradesh during the late Brāhmaṇa period; it is famous in Indo-Aryan studies for a passage discussed in migration debates. It was critically edited by C. G. Kashikar. It is distinct from the (much later) Baudhāyana-Dharmasūtra of the same school.",
     "related_works": [
@@ -35603,5 +35603,20 @@
       "https://en.wikipedia.org/wiki/Chandogya_Upanishad"
     ],
     "file_name": "SA_GV05_chup___u"
+  },
+  "SA_GSD36_manu2p_u": {
+    "work_id": "GSD36manu2p_u",
+    "title": "Mānava-Dharmaśāstra [Manusmṛti]",
+    "author": "anonymous (ascribed to Manu)",
+    "tradition": "Hindu (Brahmanical; Dharmaśāstra)",
+    "genre": "dharmaśāstra (normative verse treatise on law/dharma)",
+    "date_estimate": "~2nd–3rd c. CE (Olivelle, Manu’s Code of Law 2005)",
+    "summary": "The Laws of Manu — the first Dharmaśāstra composed entirely in verse and the watershed text of the genre. In Olivelle’s chronology it follows the four Dharmasūtras and precedes the Yājñavalkya Dharmaśāstra.",
+    "history": "",
+    "related_works": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Manusmriti"
+    ],
+    "confidence": "high"
   }
 }
