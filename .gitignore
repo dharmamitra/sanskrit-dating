@@ -19,3 +19,6 @@ venv/
 # editions research intermediates (regenerable; final = sanskrit-editions.json)
 editions_parts/
 editions_workitems.json
+
+tantric_parts/
+tantric_workitems.json
