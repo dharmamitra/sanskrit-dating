@@ -15,3 +15,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# editions research intermediates (regenerable; final = sanskrit-editions.json)
+editions_parts/
+editions_workitems.json

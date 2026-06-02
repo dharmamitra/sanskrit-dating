@@ -48,6 +48,9 @@ renderings are also included (`sanskrit_chronology.png`, `sanskrit_chronology_al
 - `dated_gibbs_full.tsv` — final dated works from the full Gibbs run (input to the map)
 - `dated_chunks_works.tsv` — per-work date estimates from chunk-level dating
 - `researched_anchors.tsv`, `manual_constraints.tsv` — the anchoring evidence base
+- `sanskrit-editions.json` — for each text, its printed/critical edition (traced from the
+  GRETIL/DSBC source header) and a link to the scan on **archive.org** where one was found
+  (1494/1618 editions identified; 833 with a confident archive.org match)
 
 ## Data not included
 
