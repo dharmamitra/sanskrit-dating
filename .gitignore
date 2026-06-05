@@ -30,3 +30,6 @@ epic_parts/
 epic_workitems.json
 
 epic_web_parts/
+
+author_parts/
+author_workitems.json

@@ -339,7 +339,7 @@
   "SA_GK16_mamkprku": {
     "work_id": "GK16mamkprku",
     "title": "Kāvyaprakāśa",
-    "author": "Mammaṭa",
+    "author": "Mammaṭa (kārikā); last kārikās of 10th ullāsa by Allaṭa/Alaka",
     "tradition": "Hindu (secular literary theory; dhvani/rasa school)",
     "genre": "alaṃkāraśāstra (treatise on poetics, with auto-commentary)",
     "date_estimate": "c. 11th-12th c. CE",
@@ -475,7 +475,7 @@
   "SA_GK19_dandkc_u": {
     "work_id": "GK19dandkc_u",
     "title": "Daśakumāracarita",
-    "author": "Daṇḍin",
+    "author": "Daṇḍin (core 8 ucchvāsas); anonymous (Pūrvapīṭhikā & Uttarapīṭhika supplements)",
     "tradition": "Hindu (secular)",
     "genre": "katha (prose romance / picaresque narrative)",
     "date_estimate": "c. late 7th-early 8th c. CE",
@@ -575,7 +575,7 @@
   "SA_GK19_meghdk_u": {
     "work_id": "GK19meghdk_u",
     "title": "Meghadūta",
-    "author": "Kālidāsa",
+    "author": "Kālidāsa (kāvya); Mallinātha (Sañjīvanī commentary)",
     "tradition": "Hindu",
     "genre": "khanda-kavya / dutakavya (messenger poem)",
     "date_estimate": "c. 4th-5th c. CE (Gupta period)",
@@ -618,7 +618,7 @@
   "SA_GK19_ragh": {
     "work_id": "GK19ragh",
     "title": "Raghuvaṃśa",
-    "author": "Kālidāsa",
+    "author": "Kālidāsa (kāvya); Vallabhadeva (Raghupañcikā commentary)",
     "tradition": "Hindu",
     "genre": "mahakavya (court epic / dynastic poem)",
     "date_estimate": "c. 4th-5th c. CE (Gupta period)",
@@ -842,7 +842,7 @@
   "SA_GK22_msubhs": {
     "work_id": "GK22msubhs",
     "title": "Mahāsubhāṣitasaṅgraha",
-    "author": "anonymous/traditional (modern critical compilation ed. by L. Sternbach and others)",
+    "author": "Ludwik Sternbach et al. (modern compiler/editor); verses anonymous from many authors",
     "tradition": "secular/anthology (pan-traditional)",
     "genre": "subhāṣita-saṅgraha (anthology of gnomic/wisdom verses)",
     "date_estimate": "verses span roughly 1st millennium BCE - 2nd millennium CE; modern critical edition 20th c.",
@@ -1156,7 +1156,7 @@
   "SA_GS38_kautil": {
     "work_id": "GS38kautil",
     "title": "Arthaśāstra",
-    "author": "Kauṭilya (Cāṇakya / Viṣṇugupta); composite, multiple hands",
+    "author": "Kauṭilya (Viṣṇugupta / Cāṇakya) — traditional; text composite/multi-authored",
     "tradition": "secular/scientific (Hindu intellectual tradition; arthaśāstra discipline)",
     "genre": "śāstra — treatise on statecraft, political economy and governance",
     "date_estimate": "composite, c. 2nd c. BCE - 3rd c. CE for the redaction; earlier arthaśāstra layers from c. 2nd c. BCE; traditional dating places Kauṭilya in the late 4th c. BCE (Mauryan)",
@@ -1216,7 +1216,7 @@
   "SA_GS40_susruta": {
     "work_id": "GS40susruta",
     "title": "Suśrutasaṃhitā",
-    "author": "Suśruta (with later redactors)",
+    "author": "Suśruta (legendary core); Nāgārjuna (redactor/pratisaṃskartā); + Uttaratantra by a later hand; Ḍalhaṇa (Nibandhasaṅgraha commentary)",
     "tradition": "Hindu (secular/scientific; Āyurveda)",
     "genre": "saṃhitā (medical compendium, esp. surgery)",
     "date_estimate": "core perhaps mid-1st millennium BCE; text as preserved c. 3rd-4th c. CE; disputed",
@@ -1280,7 +1280,7 @@
   "SA_GSD36_manubhau": {
     "work_id": "GSD36manubhau",
     "title": "Manubhāṣya",
-    "author": "Medhātithi",
+    "author": "Medhātithi (bhāṣya); root Manusmṛti anonymous/traditionally Manu (Svayambhū)",
     "tradition": "Hindu (Dharmaśāstra; Mīmāṃsā-influenced exegesis)",
     "genre": "bhāṣya (commentary)",
     "date_estimate": "c. 9th-10th c. CE (range 9th-11th c.)",
@@ -1591,7 +1591,7 @@
   "SA_GSP31_iskamatu": {
     "work_id": "GSP31iskamatu",
     "title": "Sāṃkhyakārikā [Sāṃkhyasaptati]",
-    "author": "Īśvarakṛṣṇa",
+    "author": "Īśvarakṛṣṇa (kārikā); Māṭhara (Māṭharavṛtti)",
     "tradition": "Hindu (Sāṃkhya school)",
     "genre": "philosophical treatise (kārikā / versified doctrine)",
     "date_estimate": "c. 350-450 CE (Gupta era); some scholars argue as early as c. 200 CE",
@@ -1614,7 +1614,7 @@
   "SA_GSP31_jaymangu": {
     "work_id": "GSP31jaymangu",
     "title": "Sāṃkhyakārikā [Sāṃkhyasaptati]",
-    "author": "Īśvarakṛṣṇa",
+    "author": "Īśvarakṛṣṇa (kārikā); Śaṅkara-ārya (Jayamaṅgalā ṭīkā, attribution disputed)",
     "tradition": "Hindu (Sāṃkhya school)",
     "genre": "philosophical treatise (kārikā / versified doctrine)",
     "date_estimate": "c. 350-450 CE (Gupta era); possibly as early as c. 200 CE",
@@ -1636,7 +1636,7 @@
   "SA_GSP33_brasusau": {
     "work_id": "GSP33brasusau",
     "title": "Brahmasūtra (Śaṅkarabhāṣya)",
-    "author": "Śaṅkara (Ādi Śaṅkarācārya); root sūtras attributed to Bādarāyaṇa",
+    "author": "Śaṅkara (bhāṣya); Bādarāyaṇa (sūtra)",
     "tradition": "Hindu (Advaita Vedānta)",
     "genre": "bhāṣya (commentary) on a sūtra text",
     "date_estimate": "Śaṅkara's commentary c. early 8th c. CE (traditionally c. 788-820 CE); root Brahmasūtra c. 2nd c. BCE - 2nd c. CE",
@@ -1916,7 +1916,7 @@
   "SA_GV05_chupsau": {
     "work_id": "GV05chupsau",
     "title": "Chāndogya-Upaniṣad (Śaṅkarabhāṣya)",
-    "author": "Śaṅkara (Ādi Śaṅkarācārya)",
+    "author": "Śaṅkara (bhāṣya); anonymous Vedic seers (mūla)",
     "tradition": "Hindu (Advaita Vedānta)",
     "genre": "bhāṣya (commentary) on an Upaniṣad",
     "date_estimate": "Śaṅkara's commentary c. early 8th c. CE; the root Upaniṣad c. 8th-6th c. BCE",
@@ -1958,7 +1958,7 @@
   "SA_GV06_apastgcu": {
     "work_id": "GV06apastgcu",
     "title": "Āpastamba-Gṛhyasūtra",
-    "author": "attributed to Āpastamba",
+    "author": "Āpastamba (traditional, mūla); Haradatta (Anākulāvṛtti); Sudarśanācārya (Gṛhyatātparyadarśana)",
     "tradition": "Hindu (Vedic; Taittirīya school of the Black Yajurveda)",
     "genre": "sūtra (gṛhyasūtra; domestic ritual manual)",
     "date_estimate": "c. mid-1st millennium BCE (the Āpastamba corpus dated c. 600-300 BCE)",
@@ -2713,7 +2713,7 @@
   "SA_T04_tatpa": {
     "work_id": "T04tatpa",
     "title": "Tattvasaṃgrahapañcikā [Tattvasaṃgrahapañjikā]",
-    "author": "Kamalaśīla",
+    "author": "Kamalaśīla (pañjikā); Śāntarakṣita (mūla kārikā Tattvasaṃgraha)",
     "tradition": "Buddhist (Yogācāra-Madhyamaka / pramāṇa)",
     "genre": "bhasya (commentary / pañjikā)",
     "date_estimate": "c. late 8th c. CE (author c. 740-795 CE)",
@@ -2753,7 +2753,7 @@
   "SA_T06_asmahsuu": {
     "work_id": "T06asmahsuu",
     "title": "Mahāyānasūtrālaṃkāra",
-    "author": "Maitreya(nātha)/Asaṅga (verses); bhāṣya attributed to Vasubandhu",
+    "author": "Maitreya(nātha)/Asaṅga (kārikā); Vasubandhu (bhāṣya)",
     "tradition": "Buddhist (Yogācāra)",
     "genre": "philosophical treatise (kārikā with bhāṣya)",
     "date_estimate": "c. 4th c. CE",
@@ -2838,7 +2838,7 @@
   "SA_T06_pskvbhu": {
     "work_id": "T06pskvbhu",
     "title": "Pañcaskandhakavibhāṣā",
-    "author": "Sthiramati",
+    "author": "Sthiramati (vibhāṣā/commentary); on Vasubandhu's root Pañcaskandhaka",
     "tradition": "Buddhist (Mahayana, Yogacara/Vijnanavada; Abhidharma)",
     "genre": "bhasya (commentary)",
     "date_estimate": "c. 6th c. CE",
@@ -2859,7 +2859,7 @@
   "SA_T06_sthtvbh": {
     "work_id": "T06sthtvbh",
     "title": "Triṃśikāvijñaptibhāṣya [Triṃśikābhāṣya]",
-    "author": "Sthiramati",
+    "author": "Sthiramati (bhāṣya); Vasubandhu (Triṃśikā kārikā)",
     "tradition": "Buddhist (Mahayana, Yogacara/Vijnanavada)",
     "genre": "bhasya (commentary)",
     "date_estimate": "c. 6th c. CE",
@@ -2917,7 +2917,7 @@
   "SA_T06_vmvkbh_u": {
     "work_id": "T06vmvkbh_u",
     "title": "Madhyāntavibhāgabhāṣya [Madhyāntavibhāgakārikābhāṣya]",
-    "author": "Vasubandhu",
+    "author": "Vasubandhu (bhāṣya); Maitreya(nātha) (kārikā)",
     "tradition": "Buddhist (Mahayana, Yogacara)",
     "genre": "bhasya (commentary)",
     "date_estimate": "c. 4th-5th c. CE",
@@ -2937,7 +2937,7 @@
   "SA_T07_hvsatssu": {
     "work_id": "T07hvsatssu",
     "title": "Satyasiddhiśāstra [Tattvasiddhiśāstra]",
-    "author": "Harivarman",
+    "author": "Harivarman (original author); N. Aiyaswami Sastri (Sanskrit reconstruction from Chinese)",
     "tradition": "Buddhist (Abhidharma; bridging Sravakayana and Mahayana, associated with Bahusrutiya/Sautrantika tendencies)",
     "genre": "philosophical treatise (sastra)",
     "date_estimate": "c. early 4th c. CE (composed c. 250-350)",
@@ -2997,7 +2997,7 @@
   "SA_T06_sthmavt1": {
     "work_id": "T06sthmavt1",
     "title": "Madhyāntavibhāgaṭīkā Chapter 1",
-    "author": "Sthiramati",
+    "author": "Sthiramati (ṭīkā); on Vasubandhu (bhāṣya) on Maitreya (kārikā)",
     "tradition": "Buddhist (Mahayana, Yogacara)",
     "genre": "tika (sub-commentary)",
     "date_estimate": "c. 6th c. CE",
@@ -3166,7 +3166,7 @@
   "SA_GE07_bhg4c01u": {
     "work_id": "GE07bhg",
     "title": "Bhagavadgītā 1",
-    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "author": "Vyāsa (traditional, mūla); commentaries by Śrīdhara, Madhusūdana, Viśvanātha, Baladeva",
     "tradition": "Hindu (within the Mahabharata; later foundational for Vedanta)",
     "genre": "scripture; philosophical-religious poem (part of an epic)",
     "date_estimate": "c. 2nd c. BCE - 2nd c. CE",
@@ -3185,7 +3185,7 @@
   "SA_GE07_bhg4c02u": {
     "work_id": "GE07bhg",
     "title": "Bhagavadgītā 2",
-    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "author": "Vyāsa (Gītā, traditional); with commentaries by Śrīdhara Svāmin, Madhusūdana Sarasvatī, Viśvanātha Cakravartin, Baladeva Vidyābhūṣaṇa",
     "tradition": "Hindu (within the Mahabharata; foundational for Vedanta)",
     "genre": "scripture; philosophical-religious poem (part of an epic)",
     "date_estimate": "c. 2nd c. BCE - 2nd c. CE",
@@ -3204,7 +3204,7 @@
   "SA_GE07_bhg4c03u": {
     "work_id": "GE07bhg",
     "title": "Bhagavadgītā 3",
-    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "author": "Vyāsa (Gītā, traditional); with commentaries by Śrīdhara Svāmin, Madhusūdana Sarasvatī, Viśvanātha Cakravartin, Baladeva Vidyābhūṣaṇa",
     "tradition": "Hindu (within the Mahabharata; foundational for Vedanta)",
     "genre": "scripture; philosophical-religious poem (part of an epic)",
     "date_estimate": "c. 2nd c. BCE - 2nd c. CE",
@@ -3350,7 +3350,7 @@
   "SA_GE07_bhg4c10u": {
     "work_id": "GE07bhg",
     "title": "Bhagavadgītā 10",
-    "author": "attributed to Vyāsa (traditional); anonymous/composite",
+    "author": "Vyāsa (traditional, mūla); with commentaries by Śrīdhara, Madhusūdana Sarasvatī, Viśvanātha Cakravartin, Baladeva Vidyābhūṣaṇa",
     "tradition": "Hindu (Vedanta; Bhakti)",
     "genre": "philosophical-religious poem (dialogue); didactic episode embedded in epic",
     "date_estimate": "c. 2nd c. BCE - 2nd c. CE (disputed); chapter of a composite work",
@@ -3371,7 +3371,7 @@
   "SA_GE07_bhg4c11u": {
     "work_id": "GE07bhg",
     "title": "Bhagavadgītā 11",
-    "author": "attributed to Vyāsa (traditional); anonymous/composite",
+    "author": "Vyāsa (traditional, mūla); with commentaries by Śrīdhara, Madhusūdana Sarasvatī, Viśvanātha Cakravartin, Baladeva Vidyābhūṣaṇa",
     "tradition": "Hindu (Vedanta; Bhakti)",
     "genre": "philosophical-religious poem (dialogue); didactic episode embedded in epic",
     "date_estimate": "c. 2nd c. BCE - 2nd c. CE (disputed); chapter of a composite work",
@@ -3392,7 +3392,7 @@
   "SA_GE07_bhg4c12u": {
     "work_id": "GE07bhg",
     "title": "Bhagavadgītā 12",
-    "author": "attributed to Vyāsa (traditional); anonymous/composite",
+    "author": "Vyāsa (traditional, mūla); commentaries by Śrīdhara, Madhusūdana, Viśvanātha, Baladeva",
     "tradition": "Hindu (Vedanta; Bhakti)",
     "genre": "philosophical-religious poem (dialogue); didactic episode embedded in epic",
     "date_estimate": "c. 2nd c. BCE - 2nd c. CE (disputed); chapter of a composite work",
@@ -3435,7 +3435,7 @@
   "SA_GE07_bhg4c14u": {
     "work_id": "GE07bhg",
     "title": "Bhagavadgītā 14",
-    "author": "attributed to Vyāsa (traditional); anonymous/composite",
+    "author": "Bhagavadgītā (mūla, trad. Vyāsa); commentaries by Śrīdhara Svāmin, Madhusūdana Sarasvatī, Viśvanātha Cakravartin, Baladeva Vidyābhūṣaṇa",
     "tradition": "Hindu (Vedanta; Sāṃkhya)",
     "genre": "philosophical-religious poem (dialogue); didactic episode embedded in epic",
     "date_estimate": "c. 2nd c. BCE - 2nd c. CE (disputed); chapter of a composite work",
@@ -3457,7 +3457,7 @@
   "SA_GE07_bhg4c15u": {
     "work_id": "GE07bhg",
     "title": "Bhagavadgītā 15",
-    "author": "attributed to Vyāsa (traditional); anonymous/composite",
+    "author": "Bhagavadgītā (mūla, trad. Vyāsa); commentaries by Śrīdhara Svāmin, Madhusūdana Sarasvatī, Viśvanātha Cakravartin, Baladeva Vidyābhūṣaṇa",
     "tradition": "Hindu (Vedanta; Bhakti)",
     "genre": "philosophical-religious poem (dialogue); didactic episode embedded in epic",
     "date_estimate": "c. 2nd c. BCE - 2nd c. CE (disputed); chapter of a composite work",
@@ -3479,7 +3479,7 @@
   "SA_GE07_bhg4c16u": {
     "work_id": "GE07bhg",
     "title": "Bhagavadgītā 16",
-    "author": "attributed to Vyāsa (traditional); anonymous/composite",
+    "author": "Bhagavadgītā (mūla, trad. Vyāsa); commentaries by Śrīdhara Svāmin, Madhusūdana Sarasvatī, Viśvanātha Cakravartin, Baladeva Vidyābhūṣaṇa",
     "tradition": "Hindu (Vedanta; ethics)",
     "genre": "philosophical-religious poem (dialogue); didactic episode embedded in epic",
     "date_estimate": "c. 2nd c. BCE - 2nd c. CE (disputed); chapter of a composite work",
@@ -3500,7 +3500,7 @@
   "SA_GE07_bhg4c17u": {
     "work_id": "GE07bhg",
     "title": "Bhagavadgītā 17",
-    "author": "attributed to Vyāsa (traditional); anonymous/composite",
+    "author": "Bhagavadgītā (mūla, trad. Vyāsa); commentaries by Śrīdhara Svāmin, Madhusūdana Sarasvatī, Viśvanātha Cakravartin, Baladeva Vidyābhūṣaṇa",
     "tradition": "Hindu (Vedanta; ethics/ritual)",
     "genre": "philosophical-religious poem (dialogue); didactic episode embedded in epic",
     "date_estimate": "c. 2nd c. BCE - 2nd c. CE (disputed); chapter of a composite work",
@@ -3521,7 +3521,7 @@
   "SA_GE07_bhg4c18u": {
     "work_id": "GE07bhg",
     "title": "Bhagavadgītā 18",
-    "author": "attributed to Vyāsa (traditional); anonymous/composite",
+    "author": "Vyāsa (traditional, mūla); Śrīdhara Svāmin, Viśvanātha Cakravartin, Baladeva Vidyābhūṣaṇa (commentaries)",
     "tradition": "Hindu (Vedanta; synthesis of Karma, Jñāna and Bhakti)",
     "genre": "philosophical-religious poem (dialogue); didactic episode embedded in epic",
     "date_estimate": "c. 2nd c. BCE - 2nd c. CE (disputed); chapter of a composite work",
@@ -3646,7 +3646,7 @@
   "SA_GE07_mbh_11_u": {
     "work_id": "GE07mbh_11_u",
     "title": "Mahābhārata: Strīparvan",
-    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "author": "Vyāsa (traditional ascription; anonymous/composite text)",
     "tradition": "Hindu",
     "genre": "epic (parvan / book of the Mahābhārata)",
     "date_estimate": "composed c. 4th c. BCE - 4th c. CE (whole epic); this book belongs to the older narrative core",
@@ -3725,7 +3725,7 @@
   "SA_GE07_mbh_15_u": {
     "work_id": "GE07mbh_15_u",
     "title": "Mahābhārata: Āśramavāsikaparvan",
-    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "author": "Vyāsa (traditional/legendary); anonymous-composite in fact",
     "tradition": "Hindu",
     "genre": "epic (parvan / book of the Mahābhārata)",
     "date_estimate": "composed c. 4th c. BCE - 4th c. CE",
@@ -3743,7 +3743,7 @@
   "SA_GE07_mbh_16_u": {
     "work_id": "GE07mbh_16_u",
     "title": "Mahābhārata: Mausalaparvan",
-    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "author": "Vyāsa (traditional/legendary); anonymous-composite in fact",
     "tradition": "Hindu",
     "genre": "epic (parvan / book of the Mahābhārata)",
     "date_estimate": "composed c. 4th c. BCE - 4th c. CE",
@@ -3957,7 +3957,7 @@
   "SA_GK16_andhvc1u": {
     "work_id": "GK16andhvc1u",
     "title": "Dhvanyāloka [Sahṛdayāloka], Uddyota 1",
-    "author": "Ānandavardhana",
+    "author": "Ānandavardhana (vṛtti); Dhvanikāra (kārikā; disputed/possibly older author)",
     "tradition": "Hindu; Sanskrit poetics (alaṃkāraśāstra), Kashmiri",
     "genre": "philosophical/literary treatise on poetics (kārikā + vṛtti)",
     "date_estimate": "c. mid-to-late 9th c. CE (Ānandavardhana fl. c. 820-890 CE, Kashmir)",
@@ -3978,7 +3978,7 @@
   "SA_GK16_andhvc2u": {
     "work_id": "GK16andhvc2u",
     "title": "Dhvanyāloka [Sahṛdayāloka], Uddyota 2",
-    "author": "Ānandavardhana",
+    "author": "Ānandavardhana (vṛtti); kārikās ascribed to the 'Dhvanikāra' (possibly Ānandavardhana himself or an earlier author)",
     "tradition": "Hindu; Sanskrit poetics (alaṃkāraśāstra), Kashmiri",
     "genre": "philosophical/literary treatise on poetics (kārikā + vṛtti)",
     "date_estimate": "c. mid-to-late 9th c. CE",
@@ -3999,7 +3999,7 @@
   "SA_GK16_andhvc3u": {
     "work_id": "GK16andhvc3u",
     "title": "Dhvanyāloka [Sahṛdayāloka], Uddyota 3",
-    "author": "Ānandavardhana",
+    "author": "Ānandavardhana (vṛtti); kārikās possibly by an earlier 'dhvanikāra' (disputed)",
     "tradition": "Hindu; Sanskrit poetics (alaṃkāraśāstra), Kashmiri",
     "genre": "philosophical/literary treatise on poetics (kārikā + vṛtti)",
     "date_estimate": "c. mid-to-late 9th c. CE",
@@ -4020,7 +4020,7 @@
   "SA_GK16_andhvc4u": {
     "work_id": "GK16andhvc4u",
     "title": "Dhvanyāloka [Sahṛdayāloka], Uddyota 4",
-    "author": "Ānandavardhana",
+    "author": "Ānandavardhana (vṛtti); Dhvanikāra/Sahṛdaya (kārikā, disputed)",
     "tradition": "Hindu; Sanskrit poetics (alaṃkāraśāstra), Kashmiri",
     "genre": "philosophical/literary treatise on poetics (kārikā + vṛtti)",
     "date_estimate": "c. mid-to-late 9th c. CE",
@@ -4041,7 +4041,7 @@
   "SA_GK16_andhvy_u": {
     "work_id": "GK16andhvy_u",
     "title": "Dhvanyāloka [Sahṛdayāloka]",
-    "author": "Ānandavardhana",
+    "author": "Ānandavardhana (vṛtti); kārikās disputed (possibly an earlier Dhvanikāra)",
     "tradition": "Hindu; Sanskrit poetics (alaṃkāraśāstra), Kashmiri",
     "genre": "philosophical treatise on poetics (kārikā with vṛtti)",
     "date_estimate": "c. 850-875 CE (9th c.)",
@@ -4161,7 +4161,7 @@
   "SA_GK16_mamkavpu": {
     "work_id": "GK16mamkavpu",
     "title": "Kāvyaprakāśa",
-    "author": "Maṃmaṭa (Mammaṭa)",
+    "author": "Mammaṭa (kārikā + most of the vṛtti); Allaṭa/Alaka (completion of the last portion)",
     "tradition": "Hindu; Sanskrit poetics (alaṃkāraśāstra), Kashmiri",
     "genre": "philosophical treatise on poetics (kārikā with vṛtti)",
     "date_estimate": "c. late 11th-early 12th c. CE",
@@ -4181,7 +4181,7 @@
   "SA_GK16_mamkpb_u": {
     "work_id": "GK16mamkpb_u",
     "title": "Kāvyaprakāśa",
-    "author": "Maṃmaṭa (Mammaṭa)",
+    "author": "Mammaṭa (most of the work); Allaṭa/Alaka (completion of the final portion); Jhalakikar (Bālabodhinī comm.)",
     "tradition": "Hindu; Sanskrit poetics (alaṃkāraśāstra), Kashmiri",
     "genre": "philosophical treatise on poetics (kārikā with vṛtti)",
     "date_estimate": "c. late 11th-early 12th c. CE",
@@ -4262,7 +4262,7 @@
   "SA_GK16_ruvyavivya_pu": {
     "work_id": "GK16ruvyavivya_pu",
     "title": "Vyaktivivekavyākhyā",
-    "author": "Rājānaka Ruyyaka",
+    "author": "Rājānaka Ruyyaka (vyākhyā); base Vyaktiviveka by Rājānaka Mahimabhaṭṭa",
     "tradition": "Hindu; Sanskrit poetics (alaṃkāraśāstra), Kashmiri",
     "genre": "bhasya/commentary (vyākhyā on a poetics treatise)",
     "date_estimate": "c. 1125-1150 CE (12th c.)",
@@ -4282,7 +4282,7 @@
   "SA_GK16_ruyalscu": {
     "work_id": "GK16ruyalscu",
     "title": "Alaṅkārasarvasva",
-    "author": "Rājānaka Ruyyaka",
+    "author": "Rājānaka Ruyyaka (sūtra); Vidyācakravartin (Sañjīvanī commentary)",
     "tradition": "Hindu; Sanskrit poetics (alaṃkāraśāstra), Kashmiri",
     "genre": "philosophical treatise on poetics (sūtra/kārikā with author's vṛtti)",
     "date_estimate": "c. mid-12th c. CE (c. 1135-1150)",
@@ -4303,7 +4303,7 @@
   "SA_GK16_ruyalssu": {
     "work_id": "GK16ruyalssu",
     "title": "Alaṅkārasarvasva",
-    "author": "Rājānaka Ruyyaka",
+    "author": "Rājānaka Ruyyaka (kārikā/sūtra); Maṅkha/Maṅkhuka (vṛtti, disputed)",
     "tradition": "Hindu; Sanskrit poetics (alaṃkāraśāstra), Kashmiri",
     "genre": "philosophical treatise on poetics (sūtra/kārikā with vṛtti)",
     "date_estimate": "c. mid-12th c. CE (c. 1135-1150)",
@@ -4322,7 +4322,7 @@
   "SA_GK16_ruyalsvu": {
     "work_id": "GK16ruyalsvu",
     "title": "Alaṅkārasarvasva",
-    "author": "Rājānaka Ruyyaka",
+    "author": "Rājānaka Ruyyaka (sūtra/kārikā; vṛtti disputed, possibly Maṅkha); Jayaratha (Vimarśinī commentary)",
     "tradition": "Hindu; Sanskrit poetics (alaṃkāraśāstra), Kashmiri",
     "genre": "philosophical treatise on poetics (sūtra/kārikā with vṛtti)",
     "date_estimate": "c. mid-12th c. CE (c. 1135-1150)",
@@ -4384,7 +4384,7 @@
   "SA_GK16_udkass_u": {
     "work_id": "GK16udkass_u",
     "title": "Kāvyālaṃkārasārasaṃgraha",
-    "author": "Udbhaṭa (Bhaṭṭa Udbhaṭa)",
+    "author": "Udbhaṭa (kārikā/root text); Pratīhārendurāja a.k.a. Indurāja (Laghuvṛtti commentary)",
     "tradition": "Hindu; Sanskrit poetics (alaṃkāraśāstra), Kashmiri",
     "genre": "philosophical treatise on poetics (kārikā compendium)",
     "date_estimate": "c. late 8th c. CE",
@@ -4506,7 +4506,7 @@
   "SA_GK16_viprud_u": {
     "work_id": "GK16viprud_u",
     "title": "Pratāparudrīya [Pratāparudrayaśobhūṣaṇa]",
-    "author": "Vidyānātha",
+    "author": "Vidyānātha (base text); Kumārasvāmin (Ratnāpaṇa commentary)",
     "tradition": "Hindu",
     "genre": "philosophical treatise (alaṅkāraśāstra / Sanskrit poetics)",
     "date_estimate": "early 14th c. CE (c. 1300-1320)",
@@ -4844,7 +4844,7 @@
   "SA_GK17_kedvratu": {
     "work_id": "GK17kedvratu",
     "title": "Vṛttaratnākara",
-    "author": "Kedārabhaṭṭa",
+    "author": "Kedārabhaṭṭa (mūla); Sulhaṇa (ṭīkā)",
     "tradition": "Hindu (secular/scientific prosody)",
     "genre": "treatise on metrics (chandaśśāstra)",
     "date_estimate": "c. 10th-11th c. CE",
@@ -4865,7 +4865,7 @@
   "SA_GK17_kvrtrsuu": {
     "work_id": "GK17kvrtrsuu",
     "title": "Vṛttaratnākara",
-    "author": "Kedārabhaṭṭa",
+    "author": "Kedārabhaṭṭa (mūla); Sulhaṇa (commentary Sukavihṛdayānandinī)",
     "tradition": "Hindu; secular/scientific (prosody)",
     "genre": "chandas (treatise on metrics/prosody)",
     "date_estimate": "c. 10th-11th c. CE",
@@ -4985,7 +4985,7 @@
   "SA_GK19_amaru_u": {
     "work_id": "GK19amaru_u",
     "title": "Amaruśataka",
-    "author": "Amaru (Amaruka)",
+    "author": "Amaru/Amaruka (verses, traditional); Arjunavarmadeva (commentary Rasikasaṃjīvinī)",
     "tradition": "Hindu (secular court poetry)",
     "genre": "kāvya (muktaka / single-verse erotic lyric anthology)",
     "date_estimate": "c. 7th-8th c. CE (disputed; sometimes placed earlier)",
@@ -5221,7 +5221,7 @@
   "SA_GK19_bahcarpu": {
     "work_id": "GK19bahcarpu",
     "title": "Harṣacarita: Pariśiṣṭa",
-    "author": "Bāṇa (Bāṇabhaṭṭa); supplementary/appended matter",
+    "author": "various poets/anthologists (Bāṇa-praśastayaḥ, appended verses); NOT Bāṇa",
     "tradition": "Hindu (secular court literature)",
     "genre": "appendix / supplement to a prose biography",
     "date_estimate": "associated with the Harṣacarita, c. 640 CE; appended material possibly later",
@@ -5241,7 +5241,7 @@
   "SA_GK19_bankad1u": {
     "work_id": "GK19bankad1u",
     "title": "Kādambarī",
-    "author": "Bāṇa (Bāṇabhaṭṭa); completed by his son Bhūṣaṇabhaṭṭa (Pulinda)",
+    "author": "Bāṇabhaṭṭa (Pūrvabhāga); Bhūṣaṇabhaṭṭa = Pulinda (Uttarabhāga)",
     "tradition": "Hindu (secular court literature)",
     "genre": "kathā / gadyakāvya (prose romance)",
     "date_estimate": "early-mid 7th c. CE",
@@ -5261,7 +5261,7 @@
   "SA_GK19_bhago": {
     "work_id": "GK19bhago",
     "title": "Bhaja-Govindam",
-    "author": "Śaṅkara (Ādi Śaṅkarācārya), traditionally attributed",
+    "author": "Śaṅkara (Dvādaśamañjarikā + 5 closing verses, traditional); 14 disciples (Caturdaśamañjarikā, one verse each)",
     "tradition": "Hindu, Advaita Vedanta",
     "genre": "stotra (devotional hymn)",
     "date_estimate": "traditionally c. 8th c. CE (attribution disputed; some verses likely later accretions)",
@@ -5422,7 +5422,7 @@
   "SA_GK19_ghatgu_u": {
     "work_id": "GK19ghatgu_u",
     "title": "Gūḍhārthadīpikā",
-    "author": "Kuśalamiśra (attribution per project hint; uncertain)",
+    "author": "Kuśalamiśra (Gūḍhārthadīpikā commentary); Kālidāsa traditionally (Ghaṭakharparakāvya, base)",
     "tradition": "Hindu (uncertain school)",
     "genre": "bhasya (commentary)",
     "date_estimate": "uncertain",
@@ -5438,7 +5438,7 @@
   "SA_GK19_govass_u": {
     "work_id": "GK19govass_u",
     "title": "Āryāsaptaśatī",
-    "author": "Govardhana (Govardhanācārya)",
+    "author": "Govardhana (Govardhanācārya); commentary Vyaṅgyārthadīpanā by Ananta Paṇḍita",
     "tradition": "Hindu (secular court poetry)",
     "genre": "kavya (erotic muktaka anthology)",
     "date_estimate": "c. late 12th-early 13th c. CE (court of Lakṣmaṇasena of Bengal)",
@@ -5773,7 +5773,7 @@
   "SA_GK19_kmeghvpu": {
     "work_id": "GK19kmeghvpu",
     "title": "Meghadūta",
-    "author": "Kālidāsa",
+    "author": "Kālidāsa (kāvya); Vallabhadeva (commentary)",
     "tradition": "Hindu",
     "genre": "kavya (lyric messenger poem, dūtakāvya)",
     "date_estimate": "c. 4th-5th c. CE (Gupta period)",
@@ -6232,7 +6232,7 @@
   "SA_GK19_padyavlu": {
     "work_id": "GK19padyavlu",
     "title": "Padyāvalī",
-    "author": "Rūpa Gosvāmī",
+    "author": "Rūpa Gosvāmī (compiler); verses by many poets (Jayadeva, Bilvamaṅgala, et al.)",
     "tradition": "Hindu (Gauḍīya Vaishnava / Bhakti)",
     "genre": "anthology of devotional verse (subhāṣita/padya saṃgraha)",
     "date_estimate": "c. 16th century CE",
@@ -6425,7 +6425,7 @@
   "SA_GK20_dramfrag_pu": {
     "work_id": "GK20dramfrag_pu",
     "title": "Dramatic Fragments (buddhist)",
-    "author": "Aśvaghoṣa (and unidentified author[s])",
+    "author": "Aśvaghoṣa (Śāriputraprakaraṇa); anonymous (two other dramas)",
     "tradition": "Buddhist",
     "genre": "drama (fragmentary plays)",
     "date_estimate": "c. 1st–2nd century CE",
@@ -6691,7 +6691,7 @@
   "SA_GK22_bharst_u": {
     "work_id": "GK22bharst_u",
     "title": "Śatakatraya: 1. Nītiśataka, 2. Śṛṅgāraśataka, 3. Vairāgyaśataka",
-    "author": "Bhartṛhari",
+    "author": "Bhartṛhari (traditional; partly anthological accretion)",
     "tradition": "Hindu (secular gnomic poetry; with renunciatory/Vedānta-Yoga colouring)",
     "genre": "kāvya (gnomic/epigrammatic verse anthology, śataka)",
     "date_estimate": "c. 5th c. CE (commonly; project hint c. 500-650 CE)",
@@ -6815,7 +6815,7 @@
   "SA_GK23_kaulpradsam_u": {
     "work_id": "GK23kaulpradsam_u",
     "title": "Pradeśasaṃgraha",
-    "author": "",
+    "author": "Govind Kaul",
     "tradition": "Hindu (likely Kashmirian Śaiva / Kaula context, given work-id 'kaul')",
     "genre": "uncertain (likely a compendium / saṃgraha)",
     "date_estimate": "unknown",
@@ -7604,7 +7604,7 @@
   "SA_GR13_bhnstcpu": {
     "work_id": "GR13bhnstcpu",
     "title": "Stavacintāmaṇi",
-    "author": "Bhaṭṭa Nārāyaṇa",
+    "author": "Bhaṭṭa Nārāyaṇa (stotra/kārikā); Kṣemarāja (vivṛti/commentary)",
     "tradition": "Hindu (Kashmir Shaivism, Trika/non-dual Śaiva)",
     "genre": "stotra (devotional hymn)",
     "date_estimate": "c. 9th c. CE (between Vasugupta and Somānanda)",
@@ -7645,7 +7645,7 @@
   "SA_GR13_cakbh_pu": {
     "work_id": "GR13cakbh_pu",
     "title": "Cakrapāṇinātha: Bhāvopahārastotra",
-    "author": "Cakrapāṇinātha",
+    "author": "Cakrapāṇinātha (stotra); Ramyadeva Bhaṭṭa (vivaraṇa)",
     "tradition": "Hindu (Kashmir Shaivism, Trika)",
     "genre": "stotra (devotional hymn)",
     "date_estimate": "c. 11th c. CE",
@@ -7664,7 +7664,7 @@
   "SA_GR13_cakbhavu": {
     "work_id": "GR13cakbhavu",
     "title": "Cakrapāṇinātha: Bhāvopahārastotra",
-    "author": "Cakrapāṇinātha",
+    "author": "Cakrapāṇinātha (stotra); Ramyadeva Bhaṭṭa (vivaraṇa)",
     "tradition": "Hindu, non-dual Kashmir Shaivism (Trika)",
     "genre": "stotra (devotional hymn)",
     "date_estimate": "c. 10th-11th c. CE",
@@ -8193,7 +8193,7 @@
   "SA_GR13_sivsutru": {
     "work_id": "GR13sivsutru",
     "title": "Śivasūtra",
-    "author": "Vasugupta (revealer)",
+    "author": "Varadarāja alias Kṛṣṇadāsa (vārtika); Vasugupta (sūtra, revealed)",
     "tradition": "Hindu, Kashmir Shaivism (Trika)",
     "genre": "sūtra (aphoristic scripture)",
     "date_estimate": "c. early 9th c. CE (c. 800-850)",
@@ -8439,7 +8439,7 @@
   "SA_GR14_brhms5cu": {
     "work_id": "GR14brhms5cu",
     "title": "Brahma-Saṃhitā: Adhyāya 5",
-    "author": "anonymous/traditional (ascribed to Brahmā)",
+    "author": "Mūla anonymous (trad. ascribed Brahmā); Digdarśanī-ṭīkā by Jīva Gosvāmin",
     "tradition": "Hindu, Vaiṣṇava (Pāñcarātra; Gauḍīya)",
     "genre": "Pāñcarātra saṃhitā / stotra",
     "date_estimate": "c. 1300 CE (Matsubara) for the recovered chapter",
@@ -8543,7 +8543,7 @@
   "SA_GR14_hbhvil_u": {
     "work_id": "GR14hbhvil_u",
     "title": "Haribhaktivilāsa 1–11",
-    "author": "Gopāla Bhaṭṭa Gosvāmī (largely composed/redacted by Sanātana Gosvāmī)",
+    "author": "Gopāla Bhaṭṭa Gosvāmin (named compiler); Sanātana Gosvāmin (traditional/actual composer-redactor)",
     "tradition": "Hindu, Gauḍīya (Caitanya) Vaiṣṇavism",
     "genre": "dharmaśāstra / ritual compendium (nibandha)",
     "date_estimate": "c. 1534–1540 CE (this section: vilāsas 1–11 of 20)",
@@ -8626,7 +8626,7 @@
   "SA_GR14_krdipc_u": {
     "work_id": "GR14krdipc_u",
     "title": "Kramadīpikā",
-    "author": "Keśava Kāśmīrī (Keśava Bhaṭṭa)",
+    "author": "Keśava Kāśmīrī (mūla); Govindabhaṭṭācārya (commentary)",
     "tradition": "Hindu, Nimbārka Sampradāya (Vaiṣṇava)",
     "genre": "ritual/mantra manual (paddhati)",
     "date_estimate": "c. 14th–15th c. CE",
@@ -8850,7 +8850,7 @@
   "SA_GR14_ss1_tatu": {
     "work_id": "GR14ss1_tatu",
     "title": "Ṣaṭsandarbha: 1. Tattvasandarbha",
-    "author": "Jīva Gosvāmī",
+    "author": "Jīva Gosvāmī (redactor/author); based on Gopāla Bhaṭṭa's original notes",
     "tradition": "Hindu, Gauḍīya (Caitanya) Vaiṣṇavism (Acintya-bhedābheda Vedānta)",
     "genre": "philosophical treatise (sandarbha)",
     "date_estimate": "c. late 16th c. CE",
@@ -8914,7 +8914,7 @@
   "SA_GR14_ss4_krsu": {
     "work_id": "GR14ss4_krsu",
     "title": "Ṣaṭsandarbha: 4. Kṛṣṇasandarbha",
-    "author": "Jīva Gosvāmī",
+    "author": "Jīva Gosvāmī (redactor/author); based on Gopāla Bhaṭṭa's original notes",
     "tradition": "Hindu (Gauḍīya Vaiṣṇavism / Acintyabhedābheda Vedānta)",
     "genre": "philosophical-theological treatise (with commentary on the Bhāgavata Purāṇa)",
     "date_estimate": "mid-16th c. CE (c. 1555-1561)",
@@ -9118,7 +9118,7 @@
   "SA_GS24_jvkasipu": {
     "work_id": "GS24jvkasipu",
     "title": "Kāśikāvṛtti",
-    "author": "Jayāditya and Vāmana",
+    "author": "Jayāditya (adhyāyas 1-5); Vāmana (adhyāyas 6-8)",
     "tradition": "secular/scientific (vyākaraṇa; Hindu cultural milieu)",
     "genre": "grammar (commentary / vṛtti on Pāṇini)",
     "date_estimate": "c. 7th c. CE",
@@ -9235,7 +9235,7 @@
   "SA_GS24_samanv_u": {
     "work_id": "GS24samanv_u",
     "title": "Samanvayadiś",
-    "author": "Kuḍaka",
+    "author": "Kuḍaka (Samanvayadiś); Devaśarman (Samanvayapradīpa + autocommentary, bundled in same edition)",
     "tradition": "secular/scientific (vyākaraṇa / linguistics; uncertain)",
     "genre": "grammar / linguistic treatise (uncertain)",
     "date_estimate": "unknown",
@@ -9578,7 +9578,7 @@
   "SA_GS40_grasht_u": {
     "work_id": "GS40grasht_u",
     "title": "Rasahṛdayatantra",
-    "author": "Govindabhagavatpāda (Govinda)",
+    "author": "Govindabhagavatpāda (Govinda Bhikṣu) (mūla); Caturbhujamiśra (Mugdhāvabodhinī commentary)",
     "tradition": "Hindu (Rasaśāstra / Tantric alchemy)",
     "genre": "Rasaśāstra (alchemy) treatise / tantra",
     "date_estimate": "c. 10th c. CE (some place it 9th-10th c. CE)",
@@ -9871,7 +9871,7 @@
   "SA_GS40_vrasrscu": {
     "work_id": "GS40vrasrscu",
     "title": "Rasaratnasamuccaya (with commentary)",
-    "author": "Vāgbhaṭa (mūla); commentary by a later commentator (e.g. Āśubodha/Vinodalāla or others)",
+    "author": "Vāgbhaṭa (mūla); Rasaratnasamuccayabodhinī by Āśubodhavidyābhūṣaṇa & Nityabodhavidyāratna (Senagupta)",
     "tradition": "Hindu; rasaśāstra (Indian alchemy)",
     "genre": "rasaśāstra treatise with commentary (bhāṣya/ṭīkā)",
     "date_estimate": "root text c. 13th-14th c. CE; commentary later",
@@ -9892,7 +9892,7 @@
   "SA_GS40_yogasatu": {
     "work_id": "GS40yogasatu",
     "title": "Yogaśataka",
-    "author": "anonymous; traditionally attributed to Nāgārjuna (Nāgārjunīya school)",
+    "author": "attributed to Nāgārjuna (also to Vararuci); actually anonymous compiler of the Nāgārjunīya tradition",
     "tradition": "Buddhist-influenced milieu; Ayurveda",
     "genre": "Ayurvedic formulary (collection of therapeutic recipes/yogas)",
     "date_estimate": "c. 6th c. CE (uncertain)",
@@ -9954,7 +9954,7 @@
   "SA_GS41_aryabh_u": {
     "work_id": "GS41aryabh_u",
     "title": "Āryabhaṭīya",
-    "author": "Āryabhaṭa (Āryabhaṭa I)",
+    "author": "Āryabhaṭa I (mūla); Bhāskara I & Someśvara (commentary)",
     "tradition": "secular/scientific (Hindu astronomical-mathematical tradition)",
     "genre": "jyotiṣa / mathematics and astronomy treatise (siddhānta)",
     "date_estimate": "499 CE",
@@ -9974,7 +9974,7 @@
   "SA_GS41_aryabhcu": {
     "work_id": "GS41aryabhcu",
     "title": "Āryabhaṭīya (with commentary)",
-    "author": "Āryabhaṭa (mūla); commentary by a later astronomer (e.g. Bhāskara I, 629 CE, or Nīlakaṇṭha Somayāji)",
+    "author": "Āryabhaṭa (mūla); Bhāskara I (bhāṣya, 629 CE); Someśvara (ṭīkā)",
     "tradition": "secular/scientific (Hindu astronomical-mathematical tradition)",
     "genre": "siddhānta with commentary (bhāṣya/ṭīkā)",
     "date_estimate": "root text 499 CE; commentary 7th c. CE or later",
@@ -10264,7 +10264,7 @@
   "SA_GSD36_angirspu": {
     "work_id": "GSD36angirspu",
     "title": "Āṅgirasasmṛti",
-    "author": "anonymous/traditional (ascribed to the sage Aṅgiras)",
+    "author": "pseudepigraphic — ascribed to the sage Aṅgiras (actually an anonymous dharmaśāstra compilation)",
     "tradition": "Hindu (dharmaśāstra)",
     "genre": "smṛti / dharmaśāstra (minor lawbook)",
     "date_estimate": "uncertain; 1st millennium CE, likely later layers mid-to-late (disputed)",
@@ -10307,7 +10307,7 @@
   "SA_GSD36_brhasppu": {
     "work_id": "GSD36brhasppu",
     "title": "Bṛhaspatismṛti: Vyavahārakāṇḍa",
-    "author": "anonymous/traditional (ascribed to Bṛhaspati); reconstructed",
+    "author": "Bṛhaspati (legendary/eponymous); historical author anonymous; text reconstructed by K. V. Rangaswami Aiyangar",
     "tradition": "Hindu (dharmaśāstra)",
     "genre": "smṛti / dharmaśāstra (legal-procedure section, reconstructed)",
     "date_estimate": "c. 3rd-6th c. CE (original); reconstruction 20th c.",
@@ -10433,7 +10433,7 @@
   "SA_GSD36_pars2_pu": {
     "work_id": "GSD36pars2_pu",
     "title": "Parāśaradharmasaṃhitā [Parāśarasmṛti]: Kāṇḍas 1 & 2",
-    "author": "anonymous/traditional (ascribed to the sage Parāśara)",
+    "author": "Parāśara (traditional, mūla smṛti); Mādhava/Mādhavācārya = Vidyāraṇya (ṭīkā)",
     "tradition": "Hindu (dharmaśāstra)",
     "genre": "smṛti / dharmaśāstra (lawbook for the Kali age), opening sections",
     "date_estimate": "uncertain; latter half 1st millennium CE (disputed)",
@@ -10453,7 +10453,7 @@
   "SA_GSD36_sa_vijJAnezvara-mitAkSarA": {
     "work_id": "GSD36sa_vijJAnezvara-mitAkSarA",
     "title": "Mitākṣarā",
-    "author": "Vijñāneśvara",
+    "author": "Vijñāneśvara (Mitākṣarā commentary); Yājñavalkya (root smṛti)",
     "tradition": "Hindu (dharmaśāstra)",
     "genre": "bhāṣya / vivṛti (legal commentary)",
     "date_estimate": "late 11th-early 12th c. CE (c. 1075-1125; disputed)",
@@ -10474,7 +10474,7 @@
   "SA_GSD36_mitaksara": {
     "work_id": "GSD36mitaksara",
     "title": "Mitākṣarā, a commentary on the Yājñavalkya-dharmaśāstra",
-    "author": "Vijñāneśvara",
+    "author": "Vijñāneśvara (Mitākṣarā commentary); Yājñavalkya (root smṛti)",
     "tradition": "Hindu (dharmaśāstra)",
     "genre": "bhāṣya / vivṛti (legal commentary)",
     "date_estimate": "late 11th-early 12th c. CE (c. 1075-1125; disputed)",
@@ -10516,7 +10516,7 @@
   "SA_GSD36_ys-78_pu": {
     "work_id": "GSD36ys-78_pu",
     "title": "Yamasmṛti",
-    "author": "anonymous/traditional (ascribed to Yama)",
+    "author": "ascribed to Yama (traditional/pseudepigraphic); historical author anonymous",
     "tradition": "Hindu (dharmaśāstra)",
     "genre": "smṛti / dharmaśāstra (minor lawbook)",
     "date_estimate": "uncertain; 1st millennium CE (disputed)",
@@ -10668,7 +10668,7 @@
   "SA_GSP28_dhebta_u": {
     "work_id": "GSP28dhebta_u",
     "title": "Hetubinduṭīkāloka",
-    "author": "Durveka Miśra",
+    "author": "Durveka Miśra (Āloka); Bhaṭṭa Arcaṭa (Hetubinduṭīkā); Dharmakīrti (Hetubindu mūla)",
     "tradition": "Buddhist (Dignāga-Dharmakīrti logico-epistemological school, pramāṇavāda)",
     "genre": "bhāṣya/ṭīkā (sub-commentary on Buddhist logic)",
     "date_estimate": "c. 10th-11th c. CE (Durveka Miśra fl. c. 970-1030 CE)",
@@ -10690,7 +10690,7 @@
   "SA_GSP28_durdhpru": {
     "work_id": "GSP28durdhpru",
     "title": "Dharmottarapradīpa",
-    "author": "Durveka Miśra",
+    "author": "Durveka Miśra (Dharmottarapradīpa); subcommentary on Dharmottara's Nyāyabinduṭīkā on Dharmakīrti's Nyāyabindu",
     "tradition": "Buddhist (Dignāga-Dharmakīrti logico-epistemological school, pramāṇavāda)",
     "genre": "bhāṣya/ṭīkā (sub-commentary on Buddhist logic)",
     "date_estimate": "c. 10th-11th c. CE (Durveka Miśra fl. c. 970-1030 CE)",
@@ -10736,7 +10736,7 @@
   "SA_GSP28_jsbh1-1u": {
     "work_id": "GSP28jsbh1-1u",
     "title": "Bhāṭṭadīpikā: Adhyāya 1, Adhikaraṇa 1",
-    "author": "Khaṇḍadeva",
+    "author": "Khaṇḍadeva (Bhāṭṭadīpikā); Śambhubhaṭṭa (Prabhāvalī)",
     "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
     "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
     "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
@@ -10758,7 +10758,7 @@
   "SA_GSP28_jsbh1-2u": {
     "work_id": "GSP28jsbh1-2u",
     "title": "Bhāṭṭadīpikā: Adhyāya 2, Adhikaraṇa 2",
-    "author": "Khaṇḍadeva",
+    "author": "Khaṇḍadeva (Bhāṭṭadīpikā); Śambhubhaṭṭa (Prabhāvalī)",
     "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
     "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
     "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
@@ -10780,7 +10780,7 @@
   "SA_GSP28_jsbh1-3u": {
     "work_id": "GSP28jsbh1-3u",
     "title": "Bhāṭṭadīpikā: Adhyāya 1, Adhikaraṇa 3",
-    "author": "Khaṇḍadeva",
+    "author": "Khaṇḍadeva (Bhāṭṭadīpikā, on Jaimini's Mīmāṃsāsūtra; with Śambhubhaṭṭa's Prabhāvalī)",
     "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
     "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
     "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
@@ -10802,7 +10802,7 @@
   "SA_GSP28_jsbh1-4u": {
     "work_id": "GSP28jsbh1-4u",
     "title": "Bhāṭṭadīpikā: Adhyāya 1, Adhikaraṇa 4",
-    "author": "Khaṇḍadeva",
+    "author": "Khaṇḍadeva (Bhāṭṭadīpikā, on Jaimini's Mīmāṃsāsūtra; with Śambhubhaṭṭa's Prabhāvalī)",
     "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
     "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
     "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
@@ -10824,7 +10824,7 @@
   "SA_GSP28_jsbh2-1u": {
     "work_id": "GSP28jsbh2-1u",
     "title": "Bhāṭṭadīpikā: Adhyāya 2, Adhikaraṇa 1",
-    "author": "Khaṇḍadeva",
+    "author": "Khaṇḍadeva (Bhāṭṭadīpikā); Śambhubhaṭṭa (Prabhāvalī)",
     "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
     "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
     "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
@@ -10846,7 +10846,7 @@
   "SA_GSP28_jsbh2-2u": {
     "work_id": "GSP28jsbh2-2u",
     "title": "Bhāṭṭadīpikā: Adhyāya 2, Adhikaraṇa 2",
-    "author": "Khaṇḍadeva",
+    "author": "Khaṇḍadeva (Bhāṭṭadīpikā); Śambhubhaṭṭa (Prabhāvalī)",
     "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
     "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
     "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
@@ -10868,7 +10868,7 @@
   "SA_GSP28_jsbh2-3u": {
     "work_id": "GSP28jsbh2-3u",
     "title": "Bhāṭṭadīpikā: Adhyāya 2, Adhikaraṇa 3",
-    "author": "Khaṇḍadeva",
+    "author": "Khaṇḍadeva (Bhāṭṭadīpikā); Śambhubhaṭṭa (Prabhāvalī)",
     "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
     "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
     "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
@@ -10890,7 +10890,7 @@
   "SA_GSP28_jsbh2-4u": {
     "work_id": "GSP28jsbh2-4u",
     "title": "Bhāṭṭadīpikā: Adhyāya 2, Adhikaraṇa 4",
-    "author": "Khaṇḍadeva",
+    "author": "Khaṇḍadeva (Bhāṭṭadīpikā); Śambhubhaṭṭa (Prabhāvalī commentary)",
     "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
     "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
     "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
@@ -10912,7 +10912,7 @@
   "SA_GSP28_jsbh3-1u": {
     "work_id": "GSP28jsbh3-1u",
     "title": "Bhāṭṭadīpikā: Adhyāya 3, Adhikaraṇa 1",
-    "author": "Khaṇḍadeva",
+    "author": "Khaṇḍadeva (Bhāṭṭadīpikā); Śambhubhaṭṭa (Prabhāvalī)",
     "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
     "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
     "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
@@ -10934,7 +10934,7 @@
   "SA_GSP28_jsbh3-2u": {
     "work_id": "GSP28jsbh3-2u",
     "title": "Bhāṭṭadīpikā: Adhyāya 3, Adhikaraṇa 2",
-    "author": "Khaṇḍadeva",
+    "author": "Khaṇḍadeva (Bhāṭṭadīpikā, on Jaimini's Mīmāṃsāsūtra; with Śambhubhaṭṭa's Prabhāvalī)",
     "tradition": "Hindu (Pūrva-Mīmāṃsā, Bhāṭṭa school; Navya-Mīmāṃsā)",
     "genre": "bhāṣya/commentary (adhikaraṇa-by-adhikaraṇa exposition of the Mīmāṃsāsūtra)",
     "date_estimate": "17th c. CE (Khaṇḍadeva, c. 1600-1665)",
@@ -11001,7 +11001,7 @@
   "SA_GSP28_mimslovu": {
     "work_id": "GSP28mimslovu",
     "title": "Mīmāṃsāślokavārttika",
-    "author": "Kumārila Bhaṭṭa",
+    "author": "Kumārila Bhaṭṭa (vārttika); Sucaritamiśra (Kāśikā ṭīkā)",
     "tradition": "Hindu, Pūrva-Mīmāṃsā (Bhāṭṭa school)",
     "genre": "vārttika (verse commentary / philosophical treatise)",
     "date_estimate": "c. 600-700 CE (7th c. CE)",
@@ -11026,7 +11026,7 @@
   "SA_GSP28_mimsvtku": {
     "work_id": "GSP28mimsvtku",
     "title": "Mīmāṃsāślokavārttikakāśikā",
-    "author": "Sucaritamiśra",
+    "author": "Kumārila Bhaṭṭa (Ślokavārttika); Sucaritamiśra (Kāśikā commentary)",
     "tradition": "Hindu, Pūrva-Mīmāṃsā (Bhāṭṭa school)",
     "genre": "ṭīkā (commentary / sub-commentary)",
     "date_estimate": "c. 9th-11th c. CE (disputed; not_before c. 800 CE)",
@@ -11166,7 +11166,7 @@
   "SA_GSP28_prakp01u": {
     "work_id": "GSP28prakp01u",
     "title": "Prakaraṇapañcikā: Prakaraṇa 1",
-    "author": "Śālikanāthamiśra",
+    "author": "Śālikanāthamiśra (Prakaraṇapañcikā); Jayapurī Nārāyaṇa Bhaṭṭa (Nyāyasiddhi commentary)",
     "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
     "genre": "philosophical treatise (prakaraṇa)",
     "date_estimate": "c. 8th-9th c. CE (before late 9th c.; pre-Vācaspati Miśra)",
@@ -11189,7 +11189,7 @@
   "SA_GSP28_prakp02u": {
     "work_id": "GSP28prakp02u",
     "title": "Prakaraṇapañcikā: Prakaraṇa 2",
-    "author": "Śālikanāthamiśra",
+    "author": "Śālikanāthamiśra (Prakaraṇapañcikā); Jayapurī Nārāyaṇa Bhaṭṭa (Nyāyasiddhi commentary)",
     "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
     "genre": "philosophical treatise (prakaraṇa)",
     "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
@@ -11212,7 +11212,7 @@
   "SA_GSP28_prakp03u": {
     "work_id": "GSP28prakp03u",
     "title": "Prakaraṇapañcikā: Prakaraṇa 3",
-    "author": "Śālikanāthamiśra",
+    "author": "Śālikanāthamiśra (mūla/prakaraṇa); Jayapuri Nārāyaṇabhaṭṭa (Nyāyasiddhi commentary)",
     "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
     "genre": "philosophical treatise (prakaraṇa)",
     "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
@@ -11235,7 +11235,7 @@
   "SA_GSP28_prakp04u": {
     "work_id": "GSP28prakp04u",
     "title": "Prakaraṇapañcikā: Prakaraṇa 4",
-    "author": "Śālikanāthamiśra",
+    "author": "Śālikanāthamiśra (Prakaraṇapañcikā); Jayapurī Nārāyaṇa Bhaṭṭa (Nyāyasiddhi commentary)",
     "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
     "genre": "philosophical treatise (prakaraṇa)",
     "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
@@ -11280,7 +11280,7 @@
   "SA_GSP28_prakp06u": {
     "work_id": "GSP28prakp06u",
     "title": "Prakaraṇapañcikā: Prakaraṇa 6",
-    "author": "Śālikanāthamiśra",
+    "author": "Śālikanāthamiśra (mūla/prakaraṇa); Jayapuri Nārāyaṇabhaṭṭa (Nyāyasiddhi commentary)",
     "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
     "genre": "philosophical treatise (prakaraṇa)",
     "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
@@ -11324,7 +11324,7 @@
   "SA_GSP28_prakp08u": {
     "work_id": "GSP28prakp08u",
     "title": "Prakaraṇapañcikā: Prakaraṇa 8",
-    "author": "Śālikanāthamiśra",
+    "author": "Śālikanāthamiśra (mūla/prakaraṇa); Jayapuri Nārāyaṇabhaṭṭa (Nyāyasiddhi commentary)",
     "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
     "genre": "philosophical treatise (prakaraṇa)",
     "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
@@ -11346,7 +11346,7 @@
   "SA_GSP28_prakp09u": {
     "work_id": "GSP28prakp09u",
     "title": "Prakaraṇapañcikā: Prakaraṇa 9",
-    "author": "Śālikanāthamiśra",
+    "author": "Śālikanāthamiśra (Prakaraṇapañcikā); Jayapurī Nārāyaṇa Bhaṭṭa (Nyāyasiddhi commentary)",
     "tradition": "Hindu, Pūrva-Mīmāṃsā (Prābhākara school)",
     "genre": "philosophical treatise (prakaraṇa)",
     "date_estimate": "c. 8th-9th c. CE (before late 9th c.)",
@@ -11479,7 +11479,7 @@
   "SA_GSP28_sabbha1u": {
     "work_id": "GSP28sabbha1u",
     "title": "Mīmāṃsāsūtrabhāṣya",
-    "author": "Śabara (Śabarasvāmin)",
+    "author": "Śabara (Śabarasvāmin) (bhāṣya); Jaimini (sūtra); incorporating an older Vṛttikāra",
     "tradition": "Hindu (Pūrva Mīmāṃsā)",
     "genre": "bhāṣya (commentary)",
     "date_estimate": "c. 1st–4th c. CE (commonly placed c. 2nd–4th c. CE)",
@@ -11521,7 +11521,7 @@
   "SA_GSP28_shabara": {
     "work_id": "GSP28shabara",
     "title": "Mīmāṃsāsūtra Shabara-Bhāṣya",
-    "author": "Jaimini (sūtra); Śabara (bhāṣya)",
+    "author": "Jaimini (sūtra); Śabara (bhāṣya), incorporating an earlier Vṛttikāra layer (MS 1.1.1-5)",
     "tradition": "Hindu (Pūrva Mīmāṃsā)",
     "genre": "sūtra with bhāṣya (commentary)",
     "date_estimate": "Sūtra c. 3rd–1st c. BCE; bhāṣya c. 1st–4th c. CE",
@@ -11563,7 +11563,7 @@
   "SA_GSP29_antsdi_u": {
     "work_id": "GSP29antsdi_u",
     "title": "Tarkasaṃgraha",
-    "author": "Annambhaṭṭa",
+    "author": "Annambhaṭṭa (mūla + Dīpikā); Nīlakaṇṭha (Dīpikāprakāśikā); N.S. Rāmānuja Tātācārya (Bālapriyā); Kṛṣṇa Tātācārya (Prasāraṇā)",
     "tradition": "Hindu (Nyāya-Vaiśeṣika)",
     "genre": "philosophical treatise (primer), likely with Dīpikā commentary",
     "date_estimate": "c. 16th–17th c. CE",
@@ -11772,7 +11772,7 @@
   "SA_GSP29_nystik_u": {
     "work_id": "GSP29nystik_u",
     "title": "Nyāyasūtra",
-    "author": "Gautama (Akṣapāda Gautama)",
+    "author": "Gautama (sūtra); Vācaspatimiśra (Nyāyavārttikatātparyaṭīkā)",
     "tradition": "Hindu (Nyāya)",
     "genre": "sūtra (here likely with a ṭīkā commentary)",
     "date_estimate": "core c. 2nd c. BCE–2nd c. CE (composite)",
@@ -11791,7 +11791,7 @@
   "SA_GSP29_nysu51pu": {
     "work_id": "GSP29nysu51pu",
     "title": "Nyāyasūtra 5.1",
-    "author": "Gautama (Akṣapāda Gautama)",
+    "author": "Akṣapāda Gautama (sūtra); Vātsyāyana / Pakṣilasvāmin (bhāṣya)",
     "tradition": "Hindu (Nyāya)",
     "genre": "sūtra",
     "date_estimate": "core c. 2nd c. BCE–2nd c. CE (composite)",
@@ -11830,7 +11830,7 @@
   "SA_GSP29_nysvbh1u": {
     "work_id": "GSP29nysvbh1u",
     "title": "Nyāyasūtra + Bhāṣya",
-    "author": "Gautama (sūtra); Vātsyāyana (bhāṣya)",
+    "author": "Gautama/Akṣapāda (sūtra); Vātsyāyana (bhāṣya)",
     "tradition": "Hindu (Nyāya)",
     "genre": "sūtra with bhāṣya (commentary)",
     "date_estimate": "Sūtra c. 2nd c. CE; Vātsyāyana's bhāṣya c. 4th–5th c. CE",
@@ -12201,7 +12201,7 @@
   "SA_GSP29_vytrkt1u": {
     "work_id": "GSP29vytrkt1u",
     "title": "Tarkatāṇḍava: Pariccheda 1",
-    "author": "Vyāsatīrtha (Vyāsarāja)",
+    "author": "Vyāsatīrtha (mūla); Rāghavendratīrtha (Nyāyadīpa commentary)",
     "tradition": "Hindu (Dvaita / Mādhva Vedānta, polemicizing against Nyāya-Vaiśeṣika)",
     "genre": "philosophical treatise (polemic, using Navya-Nyāya method)",
     "date_estimate": "early 16th century CE (Vyāsatīrtha c. 1460-c. 1539)",
@@ -12223,7 +12223,7 @@
   "SA_GSP29_vytrkt2u": {
     "work_id": "GSP29vytrkt2u",
     "title": "Tarkatāṇḍava: Pariccheda 2",
-    "author": "Vyāsatīrtha (Vyāsarāja)",
+    "author": "Vyāsatīrtha (mūla); Rāghavendratīrtha (Nyāyadīpa ṭīkā)",
     "tradition": "Hindu (Dvaita / Mādhva Vedānta, polemicizing against Nyāya-Vaiśeṣika)",
     "genre": "philosophical treatise (polemic, using Navya-Nyāya method)",
     "date_estimate": "early 16th century CE (Vyāsatīrtha c. 1460-c. 1539)",
@@ -12244,7 +12244,7 @@
   "SA_GSP29_vytrkt3u": {
     "work_id": "GSP29vytrkt3u",
     "title": "Tarkatāṇḍava: Pariccheda 3",
-    "author": "Vyāsatīrtha (Vyāsarāja)",
+    "author": "Vyāsatīrtha (mūla); Rāghavendratīrtha (Nyāyadīpa commentary)",
     "tradition": "Hindu (Dvaita / Mādhva Vedānta, polemicizing against Nyāya-Vaiśeṣika)",
     "genre": "philosophical treatise (polemic, using Navya-Nyāya method)",
     "date_estimate": "early 16th century CE (Vyāsatīrtha c. 1460-c. 1539)",
@@ -12265,7 +12265,7 @@
   "SA_GSP30_abhiprvu": {
     "work_id": "GSP30abhiprvu",
     "title": "Īśvarapratyabhijñāvimarśinī",
-    "author": "Abhinavagupta",
+    "author": "Abhinavagupta (vimarśinī); Utpaladeva (kārikā)",
     "tradition": "Hindu (Kashmir Śaivism, Pratyabhijñā school)",
     "genre": "bhāṣya (commentary), philosophical treatise",
     "date_estimate": "c. 1000-1015 CE (Abhinavagupta c. 950-c. 1020 CE)",
@@ -12393,7 +12393,7 @@
   "SA_GSP30_aparmyou": {
     "work_id": "GSP30aparmyou",
     "title": "Paramārthasāra",
-    "author": "Abhinavagupta",
+    "author": "Abhinavagupta (kārikā); Yogarāja (vivṛti)",
     "tradition": "Hindu; Kashmir Shaivism (Trika/Pratyabhijñā)",
     "genre": "philosophical treatise (ārya-verse compendium)",
     "date_estimate": "c. late 10th-early 11th c. CE",
@@ -12756,7 +12756,7 @@
   "SA_GSP30_vasspacu": {
     "work_id": "GSP30vasspacu",
     "title": "Spandakārikā",
-    "author": "Vasugupta or his pupil Bhaṭṭa Kallaṭa (disputed)",
+    "author": "Vasugupta or Bhaṭṭa Kallaṭa (disputed); Kṣemarāja (Spandanirṇaya commentary)",
     "tradition": "Hindu; non-dual Kashmir Shaivism (Spanda school)",
     "genre": "philosophical verse treatise (kārikā)",
     "date_estimate": "c. 850-900 CE",
@@ -12777,7 +12777,7 @@
   "SA_GSP30_vatnsupu": {
     "work_id": "GSP30vatnsupu",
     "title": "Vātūlanāthasūtra",
-    "author": "attributed to Vātūlanātha",
+    "author": "Vātūlanātha (sūtra, traditional); Anantaśaktipāda (vṛtti)",
     "tradition": "Hindu; non-dual Kashmir Shaivism (Krama/Mahānaya school)",
     "genre": "sūtra (aphoristic Śaiva esoteric text)",
     "date_estimate": "c. 11th-13th c. CE",
@@ -12818,7 +12818,7 @@
   "SA_GSP31_bhgank_u": {
     "work_id": "GSP31bhgank_u",
     "title": "Gaṇakārikā 1",
-    "author": "kārikās attributed to Haradattācārya, with the Ratnaṭīkā of Bhāsarvajña",
+    "author": "Bhāsarvajña (Ratnaṭīkā); kārikās attributed to Haradattācārya (disputed)",
     "tradition": "Hindu; Pāśupata Śaivism (Lākulīśa-Pāśupata)",
     "genre": "philosophical verse treatise with commentary (kārikā + ṭīkā)",
     "date_estimate": "c. 10th c. CE",
@@ -12838,7 +12838,7 @@
   "SA_GSP31_iskar_u": {
     "work_id": "GSP31iskar_u",
     "title": "Sāṃkhyakārikā [Sāṃkhyasaptati]",
-    "author": "Īśvarakṛṣṇa",
+    "author": "Īśvarakṛṣṇa (kārikā); Māṭhara (Māṭharavṛtti, late/disputed)",
     "tradition": "Hindu; Sāṃkhya (classical dualist school)",
     "genre": "philosophical verse treatise (kārikā)",
     "date_estimate": "c. 4th-5th c. CE (Gupta era; some place it c. 350-450, others c. 447-490)",
@@ -12860,7 +12860,7 @@
   "SA_GSP31_iskgaudu": {
     "work_id": "GSP31iskgaudu",
     "title": "Sāṃkhyakārikā [Sāṃkhyasaptati]",
-    "author": "Īśvarakṛṣṇa (kārikās), with the bhāṣya of Gauḍapāda",
+    "author": "Īśvarakṛṣṇa (kārikā); Gauḍapāda (bhāṣya, attribution disputed)",
     "tradition": "Hindu; Sāṃkhya (classical dualist school)",
     "genre": "philosophical verse treatise with commentary (kārikā + bhāṣya)",
     "date_estimate": "kārikās c. 4th-5th c. CE; Gauḍapāda's bhāṣya c. 6th-8th c. CE",
@@ -13051,7 +13051,7 @@
   "SA_GSP31_tsc_bhau": {
     "work_id": "GSP31tsc_bhau",
     "title": "Tattvayāthārthyadīpana",
-    "author": "Bhāvāgaṇeśa Dīkṣita (Gaṇeśa Dīkṣita)",
+    "author": "Bhāvāgaṇeśa Dīkṣita (commentary); Tattvasamāsa pseudo-ascribed to Kapila (base)",
     "tradition": "Hindu; Sāṃkhya",
     "genre": "commentary on the Tattvasamāsa",
     "date_estimate": "c. 16th c. CE",
@@ -13261,7 +13261,7 @@
   "SA_GSP32_vaissutika": {
     "work_id": "GSP32vaissutika",
     "title": "Vaiśeṣikasūtraṭīkā",
-    "author": "Candrānanda",
+    "author": "Candrānanda (vṛtti/ṭīkā); Kaṇāda (sūtra)",
     "tradition": "Hindu (Vaiśeṣika)",
     "genre": "bhasya/commentary (vṛtti/ṭīkā)",
     "date_estimate": "c. 7th-10th c. CE (commentary; date uncertain, before c. 10th c.)",
@@ -13340,7 +13340,7 @@
   "SA_GSP33_bbdip12u": {
     "work_id": "GSP33bbdip12u",
     "title": "Brahmasūtra: Adhyāya 1, Pāda 2",
-    "author": "Bādarāyaṇa (Vyāsa, traditional)",
+    "author": "Bādarāyaṇa (sūtra); Madhva (bhāṣya); Jagannāthayati (ṭippaṇī)",
     "tradition": "Hindu (Vedānta)",
     "genre": "sutra (section of the foundational Vedānta aphorisms)",
     "date_estimate": "c. 200 BCE - 200 CE (composite; section of a text usually placed in the early centuries CE)",
@@ -13359,7 +13359,7 @@
   "SA_GSP33_bbdip13u": {
     "work_id": "GSP33bbdip13u",
     "title": "Brahmasūtra: Adhyāya 1, Pāda 3",
-    "author": "Bādarāyaṇa (Vyāsa, traditional)",
+    "author": "Bādarāyaṇa (sūtra); Madhva/Ānandatīrtha (bhāṣya); Jagannātha-yati (ṭippaṇī/dīpikā)",
     "tradition": "Hindu (Vedānta)",
     "genre": "sutra (section of the foundational Vedānta aphorisms)",
     "date_estimate": "c. 200 BCE - 200 CE (composite; section of a text usually placed in the early centuries CE)",
@@ -13440,7 +13440,7 @@
   "SA_GSP33_bhgsbh": {
     "work_id": "GSP33bhgsbh",
     "title": "Bhagavadgītābhāṣya",
-    "author": "Śaṃkara (Ādi Śaṅkarācārya)",
+    "author": "Śaṅkara (bhāṣya); Vyāsa/traditional (Gītā mūla)",
     "tradition": "Hindu (Advaita Vedānta)",
     "genre": "bhasya/commentary on the Bhagavadgītā",
     "date_estimate": "c. early 8th c. CE (Śaṅkara, commonly c. 700-750 CE)",
@@ -13461,7 +13461,7 @@
   "SA_GSP33_brahms2u": {
     "work_id": "GSP33brahms2u",
     "title": "Brahmasūtra",
-    "author": "Bādarāyaṇa (Vyāsa, traditional)",
+    "author": "Bādarāyaṇa (sūtras); extracted from Śaṅkara's bhāṣya",
     "tradition": "Hindu (Vedānta)",
     "genre": "sutra (foundational aphorisms of Vedānta)",
     "date_estimate": "c. 200 BCE - 200 CE (composite; often c. 1st-2nd c. CE in present form)",
@@ -13567,7 +13567,7 @@
   "SA_GSP33_brsgor1u": {
     "work_id": "GSP33brsgor1u",
     "title": "Brahmasūtra: Adhyāya 1 (with Govindānanda's Ratnaprabhā)",
-    "author": "Bādarāyaṇa (mūla); Govindānanda (Ratnaprabhā sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "author": "Bādarāyaṇa (sūtra); Śaṅkara (bhāṣya); Govindānanda (Ratnaprabhā ṭīkā)",
     "tradition": "Hindu, Vedānta (Advaita)",
     "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
@@ -13590,7 +13590,7 @@
   "SA_GSP33_brsgor2u": {
     "work_id": "GSP33brsgor2u",
     "title": "Brahmasūtra: Adhyāya 2 (with Govindānanda's Ratnaprabhā)",
-    "author": "Bādarāyaṇa (mūla); Govindānanda (Ratnaprabhā sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "author": "Bādarāyaṇa (sūtra); Śaṅkara (bhāṣya); Govindānanda (Ratnaprabhā ṭīkā)",
     "tradition": "Hindu, Vedānta (Advaita)",
     "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
@@ -13611,7 +13611,7 @@
   "SA_GSP33_brsgor3u": {
     "work_id": "GSP33brsgor3u",
     "title": "Brahmasūtra: Adhyāya 3 (with Govindānanda's Ratnaprabhā)",
-    "author": "Bādarāyaṇa (mūla); Govindānanda (Ratnaprabhā sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "author": "Bādarāyaṇa (sūtra); Śaṅkara (bhāṣya); Govindānanda (Ratnaprabhā ṭīkā)",
     "tradition": "Hindu, Vedānta (Advaita)",
     "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
@@ -13632,7 +13632,7 @@
   "SA_GSP33_brsgor4u": {
     "work_id": "GSP33brsgor4u",
     "title": "Brahmasūtra: Adhyāya 4 (with Govindānanda's Ratnaprabhā)",
-    "author": "Bādarāyaṇa (mūla); Govindānanda (Ratnaprabhā sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "author": "Śaṅkara (Śārīrakamīmāṃsābhāṣya); Bādarāyaṇa (sūtra); Govindānanda (Ratnaprabhā vyākhyā)",
     "tradition": "Hindu, Vedānta (Advaita)",
     "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
@@ -13653,7 +13653,7 @@
   "SA_GSP33_brssbh1u": {
     "work_id": "GSP33brssbh1u",
     "title": "Brahmasūtra: Adhyāya 1 (with Śaṅkara's Śārīrakamīmāṃsābhāṣya)",
-    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya)",
+    "author": "Bādarāyaṇa (sūtra); Śaṅkara (bhāṣya)",
     "tradition": "Hindu, Vedānta (Advaita)",
     "genre": "sūtra with bhāṣya (commentary)",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE",
@@ -13675,7 +13675,7 @@
   "SA_GSP33_brssbh2u": {
     "work_id": "GSP33brssbh2u",
     "title": "Brahmasūtra: Adhyāya 2 (with Śaṅkara's Śārīrakamīmāṃsābhāṣya)",
-    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya)",
+    "author": "Śaṅkara (bhāṣya); Bādarāyaṇa (mūla sūtra)",
     "tradition": "Hindu, Vedānta (Advaita)",
     "genre": "sūtra with bhāṣya (commentary)",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE",
@@ -13696,7 +13696,7 @@
   "SA_GSP33_brssbh3u": {
     "work_id": "GSP33brssbh3u",
     "title": "Brahmasūtra: Adhyāya 3 (with Śaṅkara's Śārīrakamīmāṃsābhāṣya)",
-    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya)",
+    "author": "Bādarāyaṇa (sūtra); Śaṅkara (bhāṣya)",
     "tradition": "Hindu, Vedānta (Advaita)",
     "genre": "sūtra with bhāṣya (commentary)",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE",
@@ -13717,7 +13717,7 @@
   "SA_GSP33_brssbh4u": {
     "work_id": "GSP33brssbh4u",
     "title": "Brahmasūtra: Adhyāya 4 (with Śaṅkara's Śārīrakamīmāṃsābhāṣya)",
-    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya)",
+    "author": "Bādarāyaṇa (mūla sūtra); Śaṅkara (Śārīrakamīmāṃsābhāṣya)",
     "tradition": "Hindu, Vedānta (Advaita)",
     "genre": "sūtra with bhāṣya (commentary)",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE",
@@ -13738,7 +13738,7 @@
   "SA_GSP33_brssgo1u": {
     "work_id": "GSP33brssgo1u",
     "title": "Brahmasūtra: Adhyāya 1 (Śaṅkara's bhāṣya with Govindānanda's Ratnaprabhā)",
-    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya); Govindānanda (Ratnaprabhā)",
+    "author": "Śaṅkara (Śārīrakamīmāṃsābhāṣya); Bādarāyaṇa (sūtra); Govindānanda (Ratnaprabhā vyākhyā)",
     "tradition": "Hindu, Vedānta (Advaita)",
     "genre": "sūtra with bhāṣya and sub-commentary",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
@@ -13760,7 +13760,7 @@
   "SA_GSP33_brssgo2u": {
     "work_id": "GSP33brssgo2u",
     "title": "Brahmasūtra: Adhyāya 2 (Śaṅkara's bhāṣya with Govindānanda's Ratnaprabhā)",
-    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya); Govindānanda (Ratnaprabhā)",
+    "author": "Bādarāyaṇa (mūla-sūtra); Śaṅkara (bhāṣya); Govindānanda (Ratnaprabhā ṭīkā)",
     "tradition": "Hindu, Vedānta (Advaita)",
     "genre": "sūtra with bhāṣya and sub-commentary",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
@@ -13781,7 +13781,7 @@
   "SA_GSP33_brssgo3u": {
     "work_id": "GSP33brssgo3u",
     "title": "Brahmasūtra: Adhyāya 3 (Śaṅkara's bhāṣya with Govindānanda's Ratnaprabhā)",
-    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya); Govindānanda (Ratnaprabhā)",
+    "author": "Bādarāyaṇa (sūtra); Śaṅkara (Śārīrakamīmāṃsābhāṣya); Govindānanda (Ratnaprabhā subcommentary)",
     "tradition": "Hindu, Vedānta (Advaita)",
     "genre": "sūtra with bhāṣya and sub-commentary",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
@@ -13802,7 +13802,7 @@
   "SA_GSP33_brssgo4u": {
     "work_id": "GSP33brssgo4u",
     "title": "Brahmasūtra: Adhyāya 4 (Śaṅkara's bhāṣya with Govindānanda's Ratnaprabhā)",
-    "author": "Bādarāyaṇa (mūla); Śaṅkara (bhāṣya); Govindānanda (Ratnaprabhā)",
+    "author": "Śaṅkara (bhāṣya); Govindānanda (Ratnaprabhā); Bādarāyaṇa (sūtra)",
     "tradition": "Hindu, Vedānta (Advaita)",
     "genre": "sūtra with bhāṣya and sub-commentary",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Govindānanda's Ratnaprabhā c. 16th c. CE",
@@ -13823,7 +13823,7 @@
   "SA_GSP33_brsvbh1u": {
     "work_id": "GSP33brsvbh1u",
     "title": "Brahmasūtra: Adhyāya 1 (with Vācaspati Miśra's Bhāmatī)",
-    "author": "Bādarāyaṇa (mūla); Vācaspati Miśra (Bhāmatī sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "author": "Vācaspati Miśra (Bhāmatī); Śaṅkara (bhāṣya); Bādarāyaṇa (mūla sūtra)",
     "tradition": "Hindu, Vedānta (Advaita, Bhāmatī school)",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Vācaspati's Bhāmatī c. 950-980 CE",
     "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
@@ -13846,7 +13846,7 @@
   "SA_GSP33_brsvbh2u": {
     "work_id": "GSP33brsvbh2u",
     "title": "Brahmasūtra: Adhyāya 2 (with Vācaspati Miśra's Bhāmatī)",
-    "author": "Bādarāyaṇa (mūla); Vācaspati Miśra (Bhāmatī sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "author": "Vācaspati Miśra (Bhāmatī ṭīkā); Śaṅkara (bhāṣya); Bādarāyaṇa (mūla sūtra)",
     "tradition": "Hindu, Vedānta (Advaita, Bhāmatī school)",
     "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Vācaspati's Bhāmatī c. 950-980 CE",
@@ -13867,7 +13867,7 @@
   "SA_GSP33_brsvbh3u": {
     "work_id": "GSP33brsvbh3u",
     "title": "Brahmasūtra: Adhyāya 3 (with Vācaspati Miśra's Bhāmatī)",
-    "author": "Bādarāyaṇa (mūla); Vācaspati Miśra (Bhāmatī sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "author": "Vācaspati Miśra (Bhāmatī); Śaṅkara (bhāṣya); Bādarāyaṇa (sūtra)",
     "tradition": "Hindu, Vedānta (Advaita, Bhāmatī school)",
     "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Vācaspati's Bhāmatī c. 950-980 CE",
@@ -13888,7 +13888,7 @@
   "SA_GSP33_brsvbh4u": {
     "work_id": "GSP33brsvbh4u",
     "title": "Brahmasūtra: Adhyāya 4 (with Vācaspati Miśra's Bhāmatī)",
-    "author": "Bādarāyaṇa (mūla); Vācaspati Miśra (Bhāmatī sub-commentary); Śaṅkara (underlying bhāṣya)",
+    "author": "Vācaspati Miśra (Bhāmatī ṭīkā); Śaṅkara (bhāṣya); Bādarāyaṇa (mūla sūtra)",
     "tradition": "Hindu, Vedānta (Advaita, Bhāmatī school)",
     "genre": "sūtra with bhāṣya and sub-commentary (vyākhyā)",
     "date_estimate": "Brahmasūtra c. 2nd c. BCE-2nd c. CE; Śaṅkara's bhāṣya c. 700 CE; Vācaspati's Bhāmatī c. 950-980 CE",
@@ -14041,7 +14041,7 @@
   "SA_GSP33_nabodhsu": {
     "work_id": "GSP33nabodhsu",
     "title": "Bodhasāra",
-    "author": "Narahari",
+    "author": "Narahari (mūla); Divākara (commentary Dīpti, not in e-text)",
     "tradition": "Hindu (Advaita Vedānta)",
     "genre": "philosophical treatise / kavya (didactic verse)",
     "date_estimate": "c. 1789 CE (late 18th c.)",
@@ -14461,7 +14461,7 @@
   "SA_GSP33_yasasi_u": {
     "work_id": "GSP33yasasi_u",
     "title": "Siddhitraya: Part 3: Saṃvitsiddhi",
-    "author": "Yāmuna (Yāmunācārya / Ālavandār)",
+    "author": "Yāmuna (Saṃvitsiddhi); Siddhāñjana commentary (separate, later/editorial)",
     "tradition": "Hindu, Śrī Vaiṣṇava / Viśiṣṭādvaita Vedānta",
     "genre": "philosophical treatise (prakaraṇa)",
     "date_estimate": "c. 10th c. CE (Yāmuna fl. c. 918–1038 CE)",
@@ -14521,7 +14521,7 @@
   "SA_GSP34_patyog_u": {
     "work_id": "GSP34patyog_u",
     "title": "Yogasūtra",
-    "author": "Patañjali",
+    "author": "Patañjali (sūtra + bhāṣya as the Pātañjalayogaśāstra); 'Vyāsa' bhāṣya-ascription likely later/spurious",
     "tradition": "Hindu, Yoga darśana (Pātañjala Yoga)",
     "genre": "sūtra (aphoristic philosophical treatise)",
     "date_estimate": "c. 350–450 CE (commonly c. 400 CE)",
@@ -14542,7 +14542,7 @@
   "SA_GSP34_patyogbu": {
     "work_id": "GSP34patyogbu",
     "title": "Yogasūtra with Bhāṣya",
-    "author": "Patañjali (sūtras); Bhāṣya attributed to Vyāsa (or Patañjali himself)",
+    "author": "Patañjali (sūtra + bhāṣya as Pātañjalayogaśāstra); bhāṣya traditionally ascribed to Vyāsa",
     "tradition": "Hindu, Yoga darśana (Pātañjala Yoga)",
     "genre": "sūtra with bhāṣya (commentary)",
     "date_estimate": "c. 350–450 CE (the Pātañjalayogaśāstra, sūtras + Bhāṣya, c. 400 CE)",
@@ -14623,7 +14623,7 @@
   "SA_GSP34_yogsubhu": {
     "work_id": "GSP34yogsubhu",
     "title": "Yogasūtra",
-    "author": "Patañjali",
+    "author": "Patañjali (sūtra); Vyāsa, i.e. attributed (bhāṣya)",
     "tradition": "Hindu, Yoga darśana (Pātañjala Yoga)",
     "genre": "sūtra (aphoristic philosophical treatise)",
     "date_estimate": "c. 350–450 CE (commonly c. 400 CE)",
@@ -14988,7 +14988,7 @@
   "SA_GV01_rv_hn03u": {
     "work_id": "GV01rv_hn03u",
     "title": "Ṛgveda: Maṇḍala 3",
-    "author": "anonymous/traditional (hymns attributed to Viśvāmitra and his family)",
+    "author": "Viśvāmitra and the Vaiśvāmitra family of ṛṣis (traditional ascription)",
     "tradition": "Hindu (Vedic)",
     "genre": "Vedic saṃhitā (hymn collection)",
     "date_estimate": "c. 1500-1200 BCE (family book)",
@@ -15068,7 +15068,7 @@
   "SA_GV01_rv_hn07u": {
     "work_id": "GV01rv_hn07u",
     "title": "Ṛgveda: Maṇḍala 7",
-    "author": "anonymous/traditional (hymns attributed to Vasiṣṭha and his family)",
+    "author": "Vasiṣṭha and the Vāsiṣṭha family of ṛṣis (traditional ascription)",
     "tradition": "Hindu (Vedic)",
     "genre": "Vedic saṃhitā (hymn collection)",
     "date_estimate": "c. 1400-1200 BCE (family book)",
@@ -15725,7 +15725,7 @@
   "SA_GV05_agsas_1u": {
     "work_id": "GV05agsas_1u",
     "title": "Āgamaśāstra 1: Āgamaprakaraṇa",
-    "author": "Gauḍapāda",
+    "author": "Gauḍapāda (kārikā, book 1); Māṇḍūkya Upaniṣad mantras (anonymous śruti, interleaved); Śaṅkara (commentary)",
     "tradition": "Hindu (Advaita Vedānta)",
     "genre": "philosophical treatise (kārikā / prakaraṇa)",
     "date_estimate": "c. 6th-7th c. CE",
@@ -15745,7 +15745,7 @@
   "SA_GV05_agsas_2u": {
     "work_id": "GV05agsas_2u",
     "title": "Āgamaśāstra 2: Vaitathyaprakaraṇa",
-    "author": "Gauḍapāda",
+    "author": "Gauḍapāda (kārikā); Śaṅkara (bhāṣya, ascribed)",
     "tradition": "Hindu (Advaita Vedānta)",
     "genre": "philosophical treatise (kārikā / prakaraṇa)",
     "date_estimate": "c. 6th-7th c. CE",
@@ -15765,7 +15765,7 @@
   "SA_GV05_agsas_3u": {
     "work_id": "GV05agsas_3u",
     "title": "Āgamaśāstra 3: Advaitaprakaraṇa",
-    "author": "Gauḍapāda",
+    "author": "Gauḍapāda (kārikā); Śaṅkara, ascribed (bhāṣya)",
     "tradition": "Hindu (Advaita Vedānta)",
     "genre": "philosophical treatise (kārikā / prakaraṇa)",
     "date_estimate": "c. 6th-7th c. CE",
@@ -15785,7 +15785,7 @@
   "SA_GV05_agsas_4u": {
     "work_id": "GV05agsas_4u",
     "title": "Āgamaśāstra 4: Alātaśāntiprakaraṇa",
-    "author": "Gauḍapāda",
+    "author": "Gauḍapāda (kārikā); Śaṅkara (bhāṣya, ascription disputed)",
     "tradition": "Hindu (Advaita Vedānta), with strong Mahāyāna Buddhist coloring",
     "genre": "philosophical treatise (kārikā / prakaraṇa)",
     "date_estimate": "c. 6th-7th c. CE",
@@ -16051,7 +16051,7 @@
   "SA_GV05_gmandk_u": {
     "work_id": "GV05gmandk_u",
     "title": "Māṇḍūkya-Upaniṣadkārikā [Gauḍapādakārikā, Māṇḍūkyakārikā, Āgamaśāstra]",
-    "author": "Gauḍapāda",
+    "author": "Gauḍapāda (traditional, prakaraṇas 1-3); Alātaśānti (prakaraṇa 4) possibly a later/different hand",
     "tradition": "Hindu (Advaita Vedānta)",
     "genre": "philosophical treatise (kārikā / verse commentary)",
     "date_estimate": "c. 6th-7th c. CE (disputed; must predate Bhāvaviveka, before c. 630 CE)",
@@ -16879,7 +16879,7 @@
   "SA_K01_n2892u": {
     "work_id": "K01n2892u",
     "title": "Vajrasatvapārājikā [Vajrasattvapārājikā]",
-    "author": "anonymous/traditional",
+    "author": "Anupamavajra (as author of the Ādikarmapradīpa, of which this is a section)",
     "tradition": "Buddhist (Vajrayāna / Newar Mahāyāna-Tantric)",
     "genre": "tantra / vow text (samaya-pārājika, on grave transgressions of tantric vows)",
     "date_estimate": "later 1st millennium CE; redaction and surviving Nepalese manuscripts c. 11th-17th c. CE (uncertain)",
@@ -20197,7 +20197,7 @@
   "SA_K14_bsa052_u": {
     "work_id": "K14bsa052_u",
     "title": "Dharmasamuccaya [Saddharmasmṛtyupasthānakārikā]",
-    "author": "Avalokitasiṃha (compiler of the verse extracts)",
+    "author": "Avalokitasiṃha (compiler of the verses); anonymous (underlying Saddharmasmṛtyupasthānasūtra)",
     "tradition": "Buddhist (mainstream/early Mahayana 'developed Hinayana')",
     "genre": "verse anthology / doctrinal compendium (kārikā) extracted from a sutra",
     "date_estimate": "verse compendium 1st millennium CE; source sutra c. 2nd-4th c. CE",
@@ -20485,7 +20485,7 @@
   "SA_K14_sumagavu": {
     "work_id": "K14sumagavu",
     "title": "Sumāgadhāvadāna",
-    "author": "anonymous/traditional",
+    "author": "Kṣemendra (this recension/chapter)",
     "tradition": "Buddhist (mainstream; Sanskrit avadāna tradition)",
     "genre": "avadāna (edifying legend)",
     "date_estimate": "Sanskrit avadāna milieu, c. 2nd-5th c. CE",
@@ -20649,7 +20649,7 @@
   "SA_T01_n804u": {
     "work_id": "T01n804u",
     "title": "Vikramāraccivaibhava",
-    "author": "",
+    "author": "Śānti Bhikṣu Śāstrī (Paṇḍita Śāntibhikṣu Śāstrī, Sāhityācārya)",
     "tradition": "Buddhist (Sanskrit; Nepalese stotra corpus, presumed)",
     "genre": "stotra (presumed)",
     "date_estimate": "uncertain",
@@ -20705,7 +20705,7 @@
   "SA_T01_n809u": {
     "work_id": "T01n809u",
     "title": "Tārāstuti [Āryatārāstuti]",
-    "author": "anonymous/traditional (several Tārā hymns; cf. Sarvajñamitra's Sragdharāstotra)",
+    "author": "Ācārya Candradāsa",
     "tradition": "Buddhist (Vajrayana; Tārā cult)",
     "genre": "stuti / stotra (hymn of praise)",
     "date_estimate": "second half of 1st millennium CE",
@@ -20969,7 +20969,7 @@
   "SA_T01_n822u": {
     "work_id": "T01n822u",
     "title": "Narakoddhārastotra",
-    "author": "anonymous/traditional",
+    "author": "Nāgārjuna (traditional ascription; most likely pseudepigraphic)",
     "tradition": "Buddhist (Mahayana; Newar Buddhist liturgical)",
     "genre": "stotra (hymn of praise)",
     "date_estimate": "uncertain; medieval to early-modern transmission within Nepalese Buddhist hymn corpus",
@@ -21740,7 +21740,7 @@
   "SA_T01_n870u": {
     "work_id": "T01n870u",
     "title": "Buddhastotra",
-    "author": "anonymous/traditional",
+    "author": "Ārya Nāgārjuna (per DSBC node); framed as Buddhavacana in colophon",
     "tradition": "Buddhist (Mahayana / Newar Buddhism of Nepal)",
     "genre": "stotra (hymn of praise)",
     "date_estimate": "uncertain; transmitted in Nepalese manuscripts, likely mid- to late 1st / early 2nd millennium CE (composition date unknown)",
@@ -21905,7 +21905,7 @@
   "SA_T01_n879u": {
     "work_id": "T01n879u",
     "title": "Śākyasiṃhastotra: yaśodharākṛtam",
-    "author": "anonymous/traditional (framed as spoken by Yaśodharā)",
+    "author": "attributed to Yaśodharā (pseudepigraphic; actual author unknown)",
     "tradition": "Buddhist (Mahayana / Newar Buddhism of Nepal)",
     "genre": "stotra (hymn of praise)",
     "date_estimate": "uncertain; transmitted in Nepalese manuscripts (medieval to early modern)",
@@ -22084,7 +22084,7 @@
   "SA_T01_n889u": {
     "work_id": "T01n889u",
     "title": "Mañjuvajrastotra",
-    "author": "anonymous/traditional",
+    "author": "Mañjugarbha",
     "tradition": "Buddhist (Vajrayana / Newar Buddhism of Nepal)",
     "genre": "stotra (tantric hymn of praise)",
     "date_estimate": "uncertain; transmitted in Nepalese manuscripts",
@@ -22441,7 +22441,7 @@
   "SA_T01_n907u": {
     "work_id": "T01n907u",
     "title": "Vajravilāsinīstotra",
-    "author": "anonymous/traditional",
+    "author": "Vibhūticandra",
     "tradition": "Buddhist (Vajrayana; Newar Buddhism of Nepal)",
     "genre": "stotra (hymn of praise)",
     "date_estimate": "1st-2nd millennium CE (undatable precisely)",
@@ -22859,7 +22859,7 @@
   "SA_T02_mrtvstsu": {
     "work_id": "T02mrtvstsu",
     "title": "Mṛtyuvañcanasitatārāsādhana",
-    "author": "anonymous/traditional (within the circle of Vāgīśvarakīrti's Mṛtyuvañcana cycle)",
+    "author": "Vāgīśvarakīrti (source teaching); sādhana itself anonymous/redactional within his Mṛtyuvañcana cycle",
     "tradition": "Buddhist (Vajrayana)",
     "genre": "sādhana (tantric visualization/evocation manual)",
     "date_estimate": "c. 11th c. CE or later (associated with Vāgīśvarakīrti's Vikramaśīla-period Mṛtyuvañcana cycle)",
@@ -22949,7 +22949,7 @@
   "SA_T02_n1397u": {
     "work_id": "T02n1397u",
     "title": "Guhyavajravilāsinīsādhana",
-    "author": "anonymous/traditional",
+    "author": "Śābara (Śabaripāda)",
     "tradition": "Buddhist (Vajrayana; yoginī-tantra / Vajrayoginī cult)",
     "genre": "sādhana (tantric visualization/evocation manual)",
     "date_estimate": "c. 10th-12th c. CE",
@@ -22990,7 +22990,7 @@
   "SA_T02_n1399u": {
     "work_id": "T02n1399u",
     "title": "Kāṇhapādasya dohākoṣa",
-    "author": "Kṛṣṇacaryāpāda (Kāṇha / Kanhapa / Krishnacharya)",
+    "author": "Kāṇha / Kṛṣṇacaryāpāda (dohā root verses); anonymous (surviving Sanskrit commentary)",
     "tradition": "Buddhist (Vajrayāna; mahāsiddha / Sahajayāna tradition)",
     "genre": "dohā (mystic song-couplets); tantric realization poetry",
     "date_estimate": "c. late 8th-early 9th c. CE (author c. 775-850 CE)",
@@ -23012,7 +23012,7 @@
   "SA_T02_n1401u": {
     "work_id": "T02n1401u",
     "title": "Mahāmāyāsādhanopāyikā",
-    "author": "anonymous/traditional (several sādhanas attributed to various siddhas)",
+    "author": "various siddhas (Kukkuripa; Ratnākaraśānti; et al.) — compiled in Sādhanamālā",
     "tradition": "Buddhist (Vajrayāna; Yoginītantra / Anuttarayoga class)",
     "genre": "sādhana (tantric evocation/meditation manual)",
     "date_estimate": "c. 10th-12th c. CE",
@@ -23055,7 +23055,7 @@
   "SA_T02_n1403u": {
     "work_id": "T02n1403u",
     "title": "Marmakālikā",
-    "author": "anonymous/traditional",
+    "author": "Vīryaśrīmitra (Marmakalikāpañjikā); root Tattvajñānasaṃsiddhi by Śūnyasamādhipāda",
     "tradition": "Buddhist (Vajrayāna; Indo-Nepalese tantric)",
     "genre": "tantra / tantric commentary or ritual text",
     "date_estimate": "uncertain; later 1st millennium-early 2nd millennium CE",
@@ -23096,7 +23096,7 @@
   "SA_T02_n1414u": {
     "work_id": "T02n1414u",
     "title": "Śrīvajravārāhīsādhana",
-    "author": "anonymous/traditional (numerous Vajravārāhī sādhanas by various siddhas, e.g. Umāpatideva)",
+    "author": "Umāpatideva",
     "tradition": "Buddhist (Vajrayāna; Yoginītantra / Cakrasaṃvara cycle)",
     "genre": "sādhana (tantric evocation/meditation manual)",
     "date_estimate": "c. 10th-12th c. CE",
@@ -23140,7 +23140,7 @@
   "SA_T02_n1424u": {
     "work_id": "T02n1424u",
     "title": "Śrīguhyasamājamaṇḍalavidhi",
-    "author": "anonymous/traditional (such maṇḍalavidhis ascribed to authors of the Ārya school, e.g. Dīpaṃkarabhadra)",
+    "author": "Dīpaṃkarabhadra",
     "tradition": "Buddhist (Vajrayāna; Guhyasamāja / Anuttarayoga tantra)",
     "genre": "maṇḍalavidhi (ritual manual for maṇḍala construction and consecration)",
     "date_estimate": "c. 9th-11th c. CE",
@@ -23445,7 +23445,7 @@
   "SA_T02_n2952u": {
     "work_id": "T02n2952u",
     "title": "Bauddhadharme tathā purāṇeṣu karuṇā",
-    "author": "",
+    "author": "Phra Suntharnadhammathada",
     "tradition": "Buddhist / comparative (Buddhist and Hindu Puranic)",
     "genre": "modern scholarly study / comparative treatise",
     "date_estimate": "modern (likely 20th–21st c.); the title is post-classical scholarly Sanskrit/Hindi",
@@ -23481,7 +23481,7 @@
   "SA_T02_n2961u": {
     "work_id": "T02n2961u",
     "title": "Tattvajñānasaṁsiddhi-mahāsukharakāśikā-ṭīkā",
-    "author": "",
+    "author": "Bhikṣu Śrī Dhyānacandra (ṭīkā Mahāsukhaprakāśikā); Śūnyasamādhivajra (root Tattvajñānasaṃsiddhi)",
     "tradition": "Buddhist (Vajrayāna/Tantric)",
     "genre": "ṭīkā — commentary on a tantric siddhi-text",
     "date_estimate": "uncertain; likely c. 10th–12th c. CE (mature Indian tantric period)",
@@ -23500,7 +23500,7 @@
   "SA_T02_n2963u": {
     "work_id": "T02n2963u",
     "title": "Āryamāyājālamahātantroddhṛtamaṇḍalagāthāṭippaṇī",
-    "author": "",
+    "author": "Nāgārjuna (tantric; ṭippaṇī), pseudepigraphic; gāthās extracted from the Māyājālamahātantra (scriptural)",
     "tradition": "Buddhist (Vajrayāna/Tantric)",
     "genre": "ṭippaṇī — short gloss/annotation on maṇḍala verses",
     "date_estimate": "uncertain; the root Māyājālatantra is a late tantra (c. 8th c. or later), so the gloss is later",
@@ -23520,7 +23520,7 @@
   "SA_T02_n2965u": {
     "work_id": "T02n2965u",
     "title": "Kālacakrāvatāra",
-    "author": "",
+    "author": "Abhayākaragupta",
     "tradition": "Buddhist (Vajrayāna; Kālacakra tradition)",
     "genre": "introductory treatise (avatāra) to a tantric system",
     "date_estimate": "c. 11th–12th c. CE (Kālacakra emerged in India early 11th c.)",
@@ -23717,7 +23717,7 @@
   "SA_T02_n798u": {
     "work_id": "T02n798u",
     "title": "Ḍākinījālasaṃvararahasya",
-    "author": "",
+    "author": "Anaṅga Yogin (Anaṅgayogi)",
     "tradition": "Buddhist (Vajrayāna; Yoginī/Ḍākinī tantra)",
     "genre": "tantra / esoteric ritual text",
     "date_estimate": "uncertain; mature Indian tantric period (c. 9th–12th c. CE)",
@@ -23779,7 +23779,7 @@
   "SA_T02_nagpancu": {
     "work_id": "T02nagpancu",
     "title": "Pañcakrama",
-    "author": "attributed to Nāgārjuna (the tantric/Ārya Nāgārjuna)",
+    "author": "Ārya Nāgārjuna (tantric) — chs. 1,3,4,5; Śākyamitra — ch. 2 (Sarvaśuddhiviśuddhikrama / Anuttarasaṃdhi)",
     "tradition": "Buddhist (Vajrayana; Ārya school of the Guhyasamāja, Mantranaya/Anuttarayoga tantra)",
     "genre": "tantric treatise (completion-stage practice manual / sādhana)",
     "date_estimate": "c. 9th-10th c. CE (traditionally ascribed to the 2nd-c. Nāgārjuna, but the tantric author is a much later figure)",
@@ -23880,7 +23880,7 @@
   "SA_T02_sunytjsu": {
     "work_id": "T02sunytjsu",
     "title": "Tattvajñānasaṃsiddhi",
-    "author": "attributed to Ḍombīheruka (attribution debated)",
+    "author": "Ḍombīheruka (mūla, disputed); Dhyānacandra alias Madhyamakarūci (Mahāsukhaprakāśikā ṭīkā, per DSBC source)",
     "tradition": "Buddhist (Vajrayana; Anuttarayoga tantra, emptiness/śūnyatā oriented)",
     "genre": "tantric philosophical treatise",
     "date_estimate": "uncertain; c. 9th-11th c. CE",
@@ -24020,7 +24020,7 @@
   "SA_T03_bsa026_u": {
     "work_id": "T03bsa026_u",
     "title": "Abhisamayālaṅkāra",
-    "author": "attributed to Maitreyanātha (Tibetan tradition: Maitreya, redacted by Asaṅga)",
+    "author": "Maitreya(nātha) (kārikā); Haribhadra (Sphuṭārthā vṛtti)",
     "tradition": "Buddhist (Mahayana; Yogācāra/Maitreya school; Prajñāpāramitā exegesis)",
     "genre": "śāstra (root verse treatise on Prajñāpāramitā)",
     "date_estimate": "c. 4th c. CE",
@@ -24041,7 +24041,7 @@
   "SA_T03_bsa031_u": {
     "work_id": "T03bsa031_u",
     "title": "Abhisamayālaṅkāravṛttiḥ sphuṭārthā",
-    "author": "Haribhadra",
+    "author": "Haribhadra (vṛtti); root kārikā by Maitreya(nātha)",
     "tradition": "Buddhist (Mahayana; Yogācāra-Madhyamaka; Prajñāpāramitā exegesis)",
     "genre": "bhāṣya/vṛtti (commentary on the Abhisamayālaṅkāra)",
     "date_estimate": "late 8th c. CE",
@@ -24122,7 +24122,7 @@
   "SA_T03_kamvchtu": {
     "work_id": "T03kamvchtu",
     "title": "Prajñāpāramitāvajracchedikāṭīkā",
-    "author": "Kamalaśīla",
+    "author": "Kamalaśīla (ṭīkā); Buddhavacana/anonymous (Vajracchedikā sūtra)",
     "tradition": "Buddhist (Mahayana; Yogācāra-Madhyamaka)",
     "genre": "ṭīkā (commentary on the Vajracchedikā / Diamond Sūtra)",
     "date_estimate": "late 8th c. CE (Kamalaśīla, c. 740-795 CE)",
@@ -24161,7 +24161,7 @@
   "SA_T03_n1146u": {
     "work_id": "T03n1146u",
     "title": "Abhisamayālaṃkārāloka [Abhisamayālaṅkārāloka]",
-    "author": "Haribhadra",
+    "author": "Haribhadra (vyākhyā); on Maitreya's Abhisamayālaṃkāra kārikā + the Aṣṭasāhasrikā sūtra",
     "tradition": "Buddhist (Mahayana; Yogācāra-Madhyamaka; Prajñāpāramitā exegesis)",
     "genre": "commentary (vyākhyā) correlating the Abhisamayālaṅkāra with the Aṣṭasāhasrikā",
     "date_estimate": "late 8th c. CE (c. 770-800 CE)",
@@ -24685,7 +24685,7 @@
   "SA_T04_bsa054_u": {
     "work_id": "T04bsa054_u",
     "title": "Bodhicaryāvatārapañjikā",
-    "author": "Prajñākaramati",
+    "author": "Prajñākaramati (pañjikā); Śāntideva (root Bodhicaryāvatāra)",
     "tradition": "Buddhist (Mahāyāna; Madhyamaka, in Candrakīrti's Prāsaṅgika lineage)",
     "genre": "bhāṣya/pañjikā (running commentary)",
     "date_estimate": "c. late 10th-early 11th c. CE (Prajñākaramati, c. 950-1030)",
@@ -24705,7 +24705,7 @@
   "SA_T04_bsa058_u": {
     "work_id": "T04bsa058_u",
     "title": "Bhavasaṅkrāntiṭīkā",
-    "author": "Maitreyanātha (attributed; commentator on Nāgārjuna's Bhavasaṅkrānti)",
+    "author": "Maitreyanātha (ṭīkā); Nāgārjuna (root Bhavasaṅkrānti kārikā/śāstra)",
     "tradition": "Buddhist (Mahāyāna; Madhyamaka)",
     "genre": "ṭīkā (commentary)",
     "date_estimate": "1st millennium CE; precise dating uncertain (commentary on a work ascribed to Nāgārjuna)",
@@ -24767,7 +24767,7 @@
   "SA_T04_canprasu": {
     "work_id": "T04canprasu",
     "title": "Prasannapadā [Madhyamakaśāstravṛtti]",
-    "author": "Candrakīrti",
+    "author": "Candrakīrti (Prasannapadā/vṛtti); Nāgārjuna (Madhyamakaśāstra/Mūlamadhyamakakārikā root verses)",
     "tradition": "Buddhist (Mahāyāna; Madhyamaka, Prāsaṅgika)",
     "genre": "vṛtti/bhāṣya (running commentary)",
     "date_estimate": "c. 7th c. CE (Candrakīrti, c. 600-650)",
@@ -24872,7 +24872,7 @@
   "SA_T04_n2850u": {
     "work_id": "T04n2850u",
     "title": "Svabhāvavāda",
-    "author": "anonymous/traditional (collection; authorship unclear)",
+    "author": "Various / anonymous (modern collection compiled by Ramakrishna Bhattacharya)",
     "tradition": "Buddhist (Madhyamaka context) / Indian philosophy on svabhāva",
     "genre": "verse collection / doctrinal treatise on 'inherent nature'",
     "date_estimate": "1st millennium CE (uncertain)",
@@ -25107,7 +25107,7 @@
   "SA_T04_santbcpu": {
     "work_id": "T04santbcpu",
     "title": "Bodhicaryāvatāra [Bodhisattvacaryāvatāra]",
-    "author": "Śāntideva",
+    "author": "Śāntideva (kārikā/root); Prajñākaramati (pañjikā)",
     "tradition": "Buddhist (Mahayana, Madhyamaka)",
     "genre": "kavya / didactic religious poem (verse manual of the bodhisattva path)",
     "date_estimate": "c. early 8th c. CE (c. 700-750 CE)",
@@ -25230,7 +25230,7 @@
   "SA_T06_abhsubhu": {
     "work_id": "T06abhsubhu",
     "title": "Abhidharmasamuccayabhāṣya",
-    "author": "attributed to Sthiramati (some sources Jinaputra/Buddhasiṃha)",
+    "author": "Bhāṣya: disputed — Buddhasiṃha + Sthiramati (Chinese tradition) or Jinaputra (Tibetan tradition); on the root Abhidharmasamuccaya by Asaṅga",
     "tradition": "Buddhist (Mahayana, Yogācāra / Abhidharma)",
     "genre": "bhasya (prose commentary)",
     "date_estimate": "c. 6th c. CE (Sthiramati, fl. 6th c.)",
@@ -25250,7 +25250,7 @@
   "SA_T06_asmahsbu": {
     "work_id": "T06asmahsbu",
     "title": "Mahāyānasūtrālaṅkāra",
-    "author": "Maitreya(nātha) (kārikās); Vasubandhu (bhāṣya); transmitted via Asaṅga",
+    "author": "Maitreya(nātha)/Asaṅga (kārikā); Vasubandhu (bhāṣya)",
     "tradition": "Buddhist (Mahayana, Yogācāra)",
     "genre": "philosophical treatise (verse kārikās with prose bhāṣya)",
     "date_estimate": "c. 4th c. CE (verses 4th c.; Vasubandhu bhāṣya c. 4th-5th c.)",
@@ -25373,7 +25373,7 @@
   "SA_T06_bsa030_u": {
     "work_id": "T06bsa030_u",
     "title": "Mahāyānasūtrālaṃkāra",
-    "author": "Maitreya(nātha) (kārikās); Vasubandhu (bhāṣya); via Asaṅga",
+    "author": "Maitreya(nātha) (kārikā); Vasubandhu (bhāṣya/svavṛtti); transmission via Asaṅga",
     "tradition": "Buddhist (Mahayana, Yogācāra)",
     "genre": "philosophical treatise (verse kārikās with prose bhāṣya)",
     "date_estimate": "c. 4th c. CE (verses; Vasubandhu bhāṣya c. 4th-5th c.)",
@@ -25395,7 +25395,7 @@
   "SA_T06_bsa073_u": {
     "work_id": "T06bsa073_u",
     "title": "Ratnagotravibhāga [Ratnagotravibhāga Mahāyānottaratantraśāstra, Ratnagotravibhāga-Mahāyāna-Uttaratantra, Uttaratantra]",
-    "author": "Maitreya (verses, per Tibetan tradition) / Sāramati (per Chinese tradition); commentary ascribed to Asaṅga — disputed",
+    "author": "Maitreya (kārikā, Tibetan tradition); Asaṅga (vyākhyā, Tibetan tradition) / Sāramati (whole work, Chinese tradition)",
     "tradition": "Buddhist (Mahayana, tathāgatagarbha)",
     "genre": "philosophical treatise (verse kārikās with prose vyākhyā)",
     "date_estimate": "c. 5th c. CE (likely; disputed authorship)",
@@ -25440,7 +25440,7 @@
   "SA_T06_n1333u": {
     "work_id": "T06n1333u",
     "title": "Cittatattvasaṅgraha",
-    "author": "",
+    "author": "Priyananda (Priyānanda)",
     "tradition": "Buddhist (Mahāyāna; likely tantric/Vajrayāna)",
     "genre": "compendium / saṅgraha (possibly tantric)",
     "date_estimate": "uncertain (1st millennium CE)",
@@ -25457,7 +25457,7 @@
   "SA_T06_n1394u": {
     "work_id": "T06n1394u",
     "title": "Yogācārabhūmi",
-    "author": "Asaṅga (traditional; East Asian tradition ascribes to Maitreya; modern scholarship sees it as a layered compilation)",
+    "author": "Asaṅga (traditional Indo-Tibetan); Maitreya (East Asian tradition); modern: layered compilation",
     "tradition": "Buddhist, Mahāyāna (Yogācāra)",
     "genre": "philosophical treatise / encyclopedic śāstra",
     "date_estimate": "c. 300-350 CE (composite, layered)",
@@ -25499,7 +25499,7 @@
   "SA_T06_ybh-laukikamarga": {
     "work_id": "T06-ybh-laukikamarga",
     "title": "Yogācārabhūmi: Laukikamārga",
-    "author": "Asaṅga (traditional; see Yogācārabhūmi)",
+    "author": "Asaṅga (traditional redactor); composite work of multiple authors",
     "tradition": "Buddhist, Mahāyāna (Yogācāra)",
     "genre": "philosophical treatise (section of an encyclopedic śāstra)",
     "date_estimate": "c. 300-350 CE",
@@ -25519,7 +25519,7 @@
   "SA_T06_sambhu": {
     "work_id": "T06sambhu",
     "title": "Yogācārabhūmi: Samāhitā Bhūmi",
-    "author": "Asaṅga (traditional; see Yogācārabhūmi)",
+    "author": "Asaṅga (traditional, Tibetan); Maitreya (traditional, Chinese) — composite compilation",
     "tradition": "Buddhist, Mahāyāna (Yogācāra)",
     "genre": "philosophical treatise (section of an encyclopedic śāstra)",
     "date_estimate": "c. 300-350 CE",
@@ -25579,7 +25579,7 @@
   "SA_T07_dhrmsk_u": {
     "work_id": "T07dhrmsk_u",
     "title": "Dharmaskandha",
-    "author": "anonymous/traditional (ascribed to Śāriputra in Sanskrit/Tibetan sources, to Maudgalyāyana in Chinese sources)",
+    "author": "traditional: Śāriputra (Sanskrit/Tibetan tradition) / Maudgalyāyana (Chinese tradition); actually anonymous Sarvāstivāda Abhidharma",
     "tradition": "Buddhist (Sarvāstivāda Abhidharma)",
     "genre": "Abhidharma treatise (canonical)",
     "date_estimate": "c. 2nd-1st century BCE (one of the earliest of the seven Sarvāstivāda Abhidharma treatises)",
@@ -25863,7 +25863,7 @@
   "SA_T09_bsu078_u": {
     "work_id": "T09bsu078_u",
     "title": "Bodhisattvāvadānakalpalatā",
-    "author": "Kṣemendra (with the final avadāna added by his son Somendra)",
+    "author": "Kṣemendra (pallavas 1-107); Somendra (introduction + pallava 108)",
     "tradition": "Buddhist (Mahāyāna), composed by a Kashmiri Hindu polymath",
     "genre": "avadana (legendary narrative poem / kavya)",
     "date_estimate": "completed 1052 CE (11th c.)",
@@ -26131,7 +26131,7 @@
   "SA_T11_arhebt_u": {
     "work_id": "T11arhebt_u",
     "title": "Hetubinduṭīkā",
-    "author": "Arcaṭa (Bhaṭṭa Arcaṭa)",
+    "author": "Arcaṭa (Bhaṭṭa Arcaṭa), ṭīkā on Dharmakīrti's Hetubindu; with Āloka subcommentary by Durveka Miśra",
     "tradition": "Buddhist (logico-epistemological school, pramāṇavāda)",
     "genre": "ṭīkā (commentary on a philosophical treatise)",
     "date_estimate": "c. 8th c. CE (Arcaṭa fl. c. 700-790)",
@@ -26152,7 +26152,7 @@
   "SA_T11_arhebt2u": {
     "work_id": "T11arhebt2u",
     "title": "Hetubinduṭīkā",
-    "author": "Arcaṭa (Bhaṭṭa Arcaṭa)",
+    "author": "Arcaṭa (Bhaṭṭa Arcaṭa), ṭīkā on Dharmakīrti's Hetubindu; with Āloka subcommentary by Durveka Miśra",
     "tradition": "Buddhist (logico-epistemological school, pramāṇavāda)",
     "genre": "ṭīkā (commentary on a philosophical treatise)",
     "date_estimate": "c. 8th c. CE (Arcaṭa fl. c. 700-790)",
@@ -26386,7 +26386,7 @@
   "SA_T11_bsa059_u": {
     "work_id": "T11bsa059_u",
     "title": "Santānāntarasiddhi",
-    "author": "Dharmakīrti",
+    "author": "Dharmakīrti (kārikā/prakaraṇa); Vinītadeva (ṭīkā)",
     "tradition": "Buddhist (Yogācāra / Buddhist epistemology, Dignāga–Dharmakīrti school)",
     "genre": "philosophical treatise (siddhi / proof text)",
     "date_estimate": "c. 6th-7th c. CE (Dharmakīrti fl. c. 600-660)",
@@ -26407,7 +26407,7 @@
   "SA_T11_bsa061_u": {
     "work_id": "T11bsa061_u",
     "title": "Santānāntarasiddhiṭīkā",
-    "author": "Vinītadeva",
+    "author": "Vinītadeva (ṭīkā); Dharmakīrti (kārikā/mūla)",
     "tradition": "Buddhist (Yogācāra / Buddhist epistemology, Dignāga–Dharmakīrti school)",
     "genre": "bhāṣya/ṭīkā (commentary)",
     "date_estimate": "c. 8th c. CE (Vinītadeva fl. c. 700-750)",
@@ -26427,7 +26427,7 @@
   "SA_T11_bsa063_u": {
     "work_id": "T11bsa063_u",
     "title": "Sambandhaparīkṣā",
-    "author": "Dharmakīrti",
+    "author": "Dharmakīrti (kārikā); Prabhācandra (vyākhyā/commentary, per cited ed.)",
     "tradition": "Buddhist (Buddhist epistemology / pramāṇa, Dignāga–Dharmakīrti school)",
     "genre": "philosophical treatise (kārikā with auto-commentary)",
     "date_estimate": "c. 6th-7th c. CE (Dharmakīrti fl. c. 600-660)",
@@ -26468,7 +26468,7 @@
   "SA_T11_bsa066_u": {
     "work_id": "T11bsa066_u",
     "title": "Nyāyapraveśapravṛtti",
-    "author": "Haribhadrasūri",
+    "author": "Haribhadrasūri (pravṛtti/vṛtti); Śaṅkarasvāmin (root Nyāyapraveśa)",
     "tradition": "Jain (Śvetāmbara) commentary on a Buddhist logical text",
     "genre": "bhāṣya/vṛtti (commentary)",
     "date_estimate": "8th c. CE (Haribhadrasūri, c. 700-799 per the hint; traditionally 8th c.)",
@@ -26489,7 +26489,7 @@
   "SA_T11_bsa069_u": {
     "work_id": "T11bsa069_u",
     "title": "Tarkaśāstra",
-    "author": "anonymous/traditional (sometimes attributed to Vasubandhu or his school)",
+    "author": "uncertain (Chinese tradition ascribes to Vasubandhu; scholars doubt it; Sanskrit reconstructed by Tucci)",
     "tradition": "Buddhist (pre-Dignāga logic and debate)",
     "genre": "philosophical treatise (logic / dialectics)",
     "date_estimate": "c. 4th-5th c. CE (pre-Dignāga)",
@@ -26511,7 +26511,7 @@
   "SA_T11_bsa070_u": {
     "work_id": "T11bsa070_u",
     "title": "Upāyahṛdaya",
-    "author": "anonymous/traditional (sometimes attributed to Nāgārjuna, disputed)",
+    "author": "uncertain (Nāgārjuna ascription argued by Kajiyama; doubted by others)",
     "tradition": "Buddhist (pre-Dignāga logic and debate)",
     "genre": "philosophical treatise (logic / dialectics)",
     "date_estimate": "c. 3rd-4th c. CE (pre-Dignāga)",
@@ -26618,7 +26618,7 @@
   "SA_T11_dhknyayu": {
     "work_id": "T11dhknyayu",
     "title": "Nyāyabindu",
-    "author": "Dharmakīrti",
+    "author": "Dharmakīrti (mūla); Dharmottara (ṭīkā); Durvekamiśra (Dharmottarapradīpa, sub-comm.)",
     "tradition": "Buddhist (Buddhist epistemology / pramāṇa, Dignāga–Dharmakīrti school)",
     "genre": "philosophical treatise (aphoristic manual of logic and epistemology)",
     "date_estimate": "c. 6th-7th c. CE (Dharmakīrti fl. c. 600-660)",
@@ -26829,7 +26829,7 @@
   "SA_T11_kgpramv": {
     "work_id": "T11kgpramv",
     "title": "Pramāṇavārttikavṛtti Commentary [Pramāṇavārttikavṛttiṭīkā]",
-    "author": "Karṇakagomin",
+    "author": "Karṇakagomin (ṭīkā); commenting on Dharmakīrti's Pramāṇavārttika (kārikā) + svopajñavṛtti",
     "tradition": "Buddhist (Dignāga–Dharmakīrti epistemological school)",
     "genre": "ṭīkā (sub-commentary)",
     "date_estimate": "c. 8th-9th c. CE (after Śākyabuddhi)",
@@ -26868,7 +26868,7 @@
   "SA_T11_n1238u": {
     "work_id": "T11n1238u",
     "title": "Jātinirākṛti",
-    "author": "anonymous/traditional (attributed in some editions to Dharmakīrti or his school)",
+    "author": "Jitāri",
     "tradition": "Buddhist (Dignāga–Dharmakīrti epistemological school)",
     "genre": "philosophical tract (short prakaraṇa)",
     "date_estimate": "c. 7th-9th c. CE (uncertain; post-Dharmakīrti)",
@@ -27013,7 +27013,7 @@
   "SA_T11_prpva": {
     "work_id": "T11prpva",
     "title": "Pramāṇavārttikālaṃkāra",
-    "author": "Prajñākaragupta",
+    "author": "Prajñākaragupta (ālaṅkāra/bhāṣya); on Dharmakīrti's Pramāṇavārttika (kārikā)",
     "tradition": "Buddhist (Dignāga–Dharmakīrti epistemological school)",
     "genre": "bhāṣya / alaṃkāra (extensive commentary)",
     "date_estimate": "c. 8th-9th c. CE (Prajñākaragupta)",
@@ -27075,7 +27075,7 @@
   "SA_T11_samtasi": {
     "work_id": "T11samtasi",
     "title": "Saṃtānāntarasiddhi",
-    "author": "Dharmakīrti",
+    "author": "Dharmakīrti (kārikā/prakaraṇa); Vinītadeva (ṭīkā)",
     "tradition": "Buddhist (Yogācāra-Sautrāntika pramāṇa school)",
     "genre": "philosophical treatise (prakaraṇa on epistemology/logic)",
     "date_estimate": "c. 600-660 CE",
@@ -27162,7 +27162,7 @@
   "SA_T13_bghsic_u": {
     "work_id": "T13bghsic_u",
     "title": "Siddhārthacaritrakāvya",
-    "author": "Buddhaghoṣa (Buddhaghoṣa Thera, modern Sri Lankan author)",
+    "author": "Buddhaghoṣa (medieval South Indian poet; namesake, NOT the Pali commentator nor a modern author)",
     "tradition": "Buddhist (Theravāda; Sinhalese Sanskrit composition)",
     "genre": "mahākāvya (court epic poem) on the life of the Buddha",
     "date_estimate": "modern (likely 20th c. CE)",
@@ -27386,7 +27386,7 @@
   "SA_T14_stuplaku": {
     "work_id": "T14stuplaku",
     "title": "Stūpalakṣaṇakārikāvivecana",
-    "author": "",
+    "author": "Bhadravyūha (Ācārya, Lokottaravādin)",
     "tradition": "Buddhist (architecture/iconometry)",
     "genre": "vivecana (explanatory commentary) on verse-rules for stūpa proportions",
     "date_estimate": "uncertain; medieval (1st-2nd millennium CE)",
@@ -27407,7 +27407,7 @@
   "SA_T14_tarkrplu": {
     "work_id": "T14tarkrplu",
     "title": "Pratyakṣalakṣaṇa",
-    "author": "",
+    "author": "Vidyākaraśānti (author of the Tarkarahasya)",
     "tradition": "Buddhist (pramāṇa / logic-epistemology school)",
     "genre": "philosophical treatise / definitional text on perception",
     "date_estimate": "uncertain; 1st millennium CE (Dignāga-Dharmakīrti tradition)",
@@ -27428,7 +27428,7 @@
   "SA_T15_bsa060_u": {
     "work_id": "T15bsa060_u",
     "title": "Śatagāthā",
-    "author": "Vararuci (traditional attribution)",
+    "author": "Vararuci (verses, traditional); Vinayacandra (Skt-Tib translation); Dharmaprajña (annotation)",
     "tradition": "Buddhist (didactic/ethical; nīti tradition)",
     "genre": "nīti / subhāṣita (collection of moral verses)",
     "date_estimate": "uncertain; 1st millennium CE",
@@ -27645,7 +27645,7 @@
   "SA_T17_n2936u": {
     "work_id": "T17n2936u",
     "title": "Śabdabhedaprakāśa",
-    "author": "Maheśvara",
+    "author": "Maheśvara (mūla); Jñānavimalagaṇi (ṭīkā)",
     "tradition": "Hindu / secular (Sanskrit lexicography)",
     "genre": "kośa (lexicon); treatise on word-differences",
     "date_estimate": "c. 12th c. CE",
@@ -28051,7 +28051,7 @@
   "SA_MB_dattatreyabodhaHK": {
     "work_id": "E0003",
     "title": "Dattātreyabodha",
-    "author": "anonymous/traditional (attributed to Dattātreya)",
+    "author": "Dattātreya (legendary; pseudepigraphic ascription)",
     "tradition": "Hindu (Advaita / Avadhūta yoga tradition of Dattātreya)",
     "genre": "philosophical/spiritual instruction (bodha)",
     "date_estimate": "uncertain (medieval to early-modern)",
@@ -28121,7 +28121,7 @@
   "SA_MB_dhyanaratnavaliHK": {
     "work_id": "E0008",
     "title": "Dhyānaratnāvali",
-    "author": "anonymous/traditional",
+    "author": "Trilocanaśivācārya (Trilocanaśiva)",
     "tradition": "Hindu (tantric / devotional; likely Śaiva-Śākta)",
     "genre": "compilation of meditation/visualization verses (dhyāna)",
     "date_estimate": "uncertain (medieval to early-modern)",
@@ -28299,7 +28299,7 @@
   "SA_MB_bhogakarikaHK": {
     "work_id": "M00005",
     "title": "Sadyojyoti: Aṣṭaprakaraṇa — Bhogakārikā",
-    "author": "Sadyojyoti(s)",
+    "author": "Sadyojyoti (kārikā); Aghoraśiva (commentary)",
     "tradition": "Hindu; Śaiva Siddhānta (dualist Śaivism)",
     "genre": "philosophical treatise (kārikā verses), one of the Aṣṭaprakaraṇa",
     "date_estimate": "c. 675-725 CE (Sadyojyoti, the first systematizing theologian of Śaiva Siddhānta)",
@@ -28322,7 +28322,7 @@
   "SA_MB_moksakarikaHK": {
     "work_id": "M00006",
     "title": "Sadyojyoti: Aṣṭaprakaraṇa — Mokṣakārikā",
-    "author": "Sadyojyoti(s)",
+    "author": "Sadyojyoti (kārikā); Bhaṭṭa Rāmakaṇṭha (vṛtti)",
     "tradition": "Hindu; Śaiva Siddhānta (dualist Śaivism)",
     "genre": "philosophical treatise (kārikā verses), one of the Aṣṭaprakaraṇa",
     "date_estimate": "c. 675-725 CE (Sadyojyoti)",
@@ -28343,7 +28343,7 @@
   "SA_MB_nadakarikaHK": {
     "work_id": "M00007",
     "title": "Rāmakaṇṭha: Aṣṭaprakaraṇa — Nādakārikā",
-    "author": "Bhaṭṭa Rāmakaṇṭha (Rāmakaṇṭha II)",
+    "author": "Rāmakaṇṭha (kārikā); Aghoraśiva (commentary)",
     "tradition": "Hindu; Śaiva Siddhānta (dualist Śaivism), Kashmirian lineage",
     "genre": "philosophical treatise (kārikā verses), one of the Aṣṭaprakaraṇa",
     "date_estimate": "c. 950-1000 CE (Rāmakaṇṭha II, Kashmirian Śaiva Siddhānta lineage)",
@@ -28364,7 +28364,7 @@
   "SA_MB_paramoksanirasakarikaHK": {
     "work_id": "M00008",
     "title": "Sadyojyoti: Aṣṭaprakaraṇa — Paramokṣanirāsakārikā",
-    "author": "Sadyojyoti(s)",
+    "author": "Sadyojyoti (kārikā); Bhaṭṭa Rāmakaṇṭha (vṛtti/vyākhyā)",
     "tradition": "Hindu; Śaiva Siddhānta (dualist Śaivism)",
     "genre": "polemical/philosophical treatise (kārikā verses), one of the Aṣṭaprakaraṇa",
     "date_estimate": "c. 675-725 CE (Sadyojyoti)",
@@ -28425,7 +28425,7 @@
   "SA_MB_tattvasamgrahaHK": {
     "work_id": "M00011",
     "title": "Sadyojyoti: Aṣṭaprakaraṇa — Tattvasaṃgraha",
-    "author": "Sadyojyoti(s)",
+    "author": "Sadyojyoti (kārikā/root text); Aghoraśiva (commentary)",
     "tradition": "Hindu; Śaiva Siddhānta (dualist Śaivism)",
     "genre": "philosophical treatise (kārikā verses), one of the Aṣṭaprakaraṇa",
     "date_estimate": "c. 675-725 CE (Sadyojyoti)",
@@ -28446,7 +28446,7 @@
   "SA_MB_tattvatrayanirnayaHK": {
     "work_id": "M00012",
     "title": "Sadyojyoti: Aṣṭaprakaraṇa — Tattvatrayanirṇaya",
-    "author": "Sadyojyoti(s)",
+    "author": "Sadyojyoti (kārikā/root text); Aghoraśiva (Aghoraśivācārya) (vṛtti/commentary)",
     "tradition": "Hindu; Śaiva Siddhānta (dualist Śaivism)",
     "genre": "philosophical treatise (kārikā verses), one of the Aṣṭaprakaraṇa",
     "date_estimate": "c. 675-725 CE (Sadyojyoti)",
@@ -28588,7 +28588,7 @@
   "SA_MB_IPV_HK": {
     "work_id": "M00019",
     "title": "Abhinavagupta: Īśvarapratyabhijñāvimarśinī",
-    "author": "Abhinavagupta",
+    "author": "Abhinavagupta (vimarśinī); Utpaladeva (kārikā)",
     "tradition": "Hindu; non-dual Kashmir Shaivism (Pratyabhijñā / Trika)",
     "genre": "bhāṣya/vṛtti (philosophical commentary)",
     "date_estimate": "c. 1000-1015 CE (Abhinavagupta fl. c. 975-1025 CE)",
@@ -28632,7 +28632,7 @@
   "SA_MB_IPVV_2_hk": {
     "work_id": "M00021",
     "title": "Abhinavagupta: Īśvarapratyabhijñāvivṛtivimarśinī, Volume 2",
-    "author": "Abhinavagupta",
+    "author": "Abhinavagupta (vivṛtivimarśinī); Utpaladeva (kārikā + vivṛti commented on)",
     "tradition": "Hindu; non-dual Kashmir Shaivism (Pratyabhijñā / Trika)",
     "genre": "bhāṣya/vṛtti (extended philosophical commentary)",
     "date_estimate": "c. 1015-1020 CE (Abhinavagupta fl. c. 975-1025 CE)",
@@ -28653,7 +28653,7 @@
   "SA_MB_IPVV_3_hk": {
     "work_id": "M00022",
     "title": "Abhinavagupta: Īśvarapratyabhijñāvivṛtivimarśinī, Volume 3",
-    "author": "Abhinavagupta",
+    "author": "Abhinavagupta (vivṛtivimarśinī); on Utpaladeva's kārikā + vivṛti",
     "tradition": "Hindu; non-dual Kashmir Shaivism (Pratyabhijñā / Trika)",
     "genre": "bhāṣya/vṛtti (extended philosophical commentary)",
     "date_estimate": "c. 1015-1020 CE (Abhinavagupta fl. c. 975-1025 CE)",
@@ -28717,7 +28717,7 @@
   "SA_MB_kaamakalaavilaasaHK": {
     "work_id": "M00025",
     "title": "Puṇyānanda: Kāmakalāvilāsa",
-    "author": "Puṇyānanda (Puṇyānandanātha)",
+    "author": "Puṇyānanda (Puṇyānandanātha) (kārikā); Naṭanānandanātha (Cidvallī commentary)",
     "tradition": "Hindu (Śākta, Śrīvidyā)",
     "genre": "tantra (philosophical/devotional verse treatise)",
     "date_estimate": "c. 13th-15th c. CE (uncertain; pre-16th c.)",
@@ -29015,7 +29015,7 @@
   "SA_MB_naresvarapariiksaaHK": {
     "work_id": "M00039",
     "title": "Sadyojyoti: Nareśvaraparīkṣā",
-    "author": "Sadyojyoti(s)",
+    "author": "Sadyojyoti (kārikā/treatise); Bhaṭṭa Rāmakaṇṭha (prakāśa/commentary)",
     "tradition": "Hindu (Śaiva Siddhānta, dualist)",
     "genre": "philosophical treatise (kārikā with commentary)",
     "date_estimate": "c. late 7th-early 8th c. CE (Sadyojyoti fl. c. 675-725 CE)",
@@ -29058,7 +29058,7 @@
   "SA_MB_paramarthasaraHK": {
     "work_id": "M00041",
     "title": "Abhinavagupta: Paramārthasāra",
-    "author": "Abhinavagupta",
+    "author": "Abhinavagupta (reworked kārikās, after Ādiśeṣa's older Paramārthasāra); Yogarāja (vivṛti)",
     "tradition": "Hindu (Kashmir Shaivism, Trika/Pratyabhijñā)",
     "genre": "philosophical treatise (kārikā)",
     "date_estimate": "c. 1000 CE (Abhinavagupta fl. c. 975-1025 CE)",
@@ -29080,7 +29080,7 @@
   "SA_MB_paraatriisikaalaghuvrttiHK": {
     "work_id": "M00042",
     "title": "Parātrīśikālaghuvṛtti",
-    "author": "Abhinavagupta (the catalogue 'unknown' author hint is incorrect)",
+    "author": "Abhinavagupta (laghuvṛtti); anonymous scripture (root verses)",
     "tradition": "Hindu (Kashmir Shaivism, Trika)",
     "genre": "bhāṣya/vṛtti (short commentary)",
     "date_estimate": "c. 1000 CE (Abhinavagupta fl. c. 975-1025 CE)",
@@ -29122,7 +29122,7 @@
   "SA_MB_ParaatrisikaavivrttiHK": {
     "work_id": "M00044",
     "title": "Rājānaka Lakṣmīrāma: Parātriśikāvivṛti",
-    "author": "Rājānaka Lakṣmīrāma (Lakṣmīrāma)",
+    "author": "Rājānaka Lakṣmīrāma (vivṛti); Abhinavagupta (laghuvṛtti); anonymous root Parātriśikā (Rudrayāmala)",
     "tradition": "Hindu, Kashmir Shaivism (Trika/Pratyabhijñā)",
     "genre": "bhasya (commentary), vivṛti",
     "date_estimate": "uncertain; likely 17th-19th c. CE (a late Kashmirian Śaiva scholar)",
@@ -29287,7 +29287,7 @@
   "SA_MB_nityaasodasikaarnavaHK": {
     "work_id": "M00052",
     "title": "Nityāṣoḍaśikārṇavatantra with the commentary called Setubandha",
-    "author": "Commentary (Setubandha) by Bhāskararāya Makhin; mūla tantra anonymous/traditional",
+    "author": "Bhāskararāya Makhin (Setubandha commentary); mūla Nityāṣoḍaśikārṇava anonymous (part of Vāmakeśvaratantra)",
     "tradition": "Hindu, Śākta (Śrīvidyā)",
     "genre": "tantra with bhasya (commentary)",
     "date_estimate": "mūla tantra: 1st millennium / early-mid 2nd millennium CE (a portion of the Vāmakeśvaratantra); Setubandha commentary: 18th c. CE (Bhāskararāya, c. 1690-1785)",
@@ -29494,7 +29494,7 @@
   "SA_MB_sakalaagamasaarasangrahaHK": {
     "work_id": "M00063",
     "title": "Sakalāgamasārasaṅgraha",
-    "author": "anonymous/traditional (compiler unidentified in available sources)",
+    "author": "uncertain; traditionally ascribed to Nigamajñānadeśika (Śaiva Siddhānta, 16th c.) — unconfirmed for this title",
     "tradition": "Hindu, Śaiva / Tantric (Āgamic)",
     "genre": "compendium / digest of Āgamas (saṅgraha)",
     "date_estimate": "uncertain; likely medieval-to-early modern (2nd millennium CE)",
@@ -29534,7 +29534,7 @@
   "SA_MB_pratisthalaksanasarasamuccayaHK": {
     "work_id": "M00065",
     "title": "Pratiṣṭhālakṣaṇasārasamuccaya",
-    "author": "anonymous/traditional",
+    "author": "Vairocana (compiler)",
     "tradition": "Hindu",
     "genre": "ritual/iconography manual (pratiṣṭhā/śilpa)",
     "date_estimate": "c. early 2nd millennium CE (uncertain); transmitted especially in Nepal",
@@ -29569,7 +29569,7 @@
   "SA_MB_SpKaavrittivivrtiHK": {
     "work_id": "M00067",
     "title": "Spandakārikā",
-    "author": "Bhaṭṭa Kallaṭa (or his teacher Vasugupta)",
+    "author": "Vasugupta or Bhaṭṭa Kallaṭa (kārikā, disputed); Rāmakaṇṭha / Rājānaka Rāma (vivṛti)",
     "tradition": "Hindu, Kashmir Shaivism (Spanda school)",
     "genre": "philosophical treatise (kārikā verses)",
     "date_estimate": "9th c. CE (c. 850 CE)",
@@ -29749,7 +29749,7 @@
   "SA_MB_SAAMBAPA_NCAASIKAAhk": {
     "work_id": "M00076",
     "title": "Sāmbapañcāśikā",
-    "author": "attributed to Sāmba (son of Kṛṣṇa)",
+    "author": "Sāmba (legendary, hymn); Kṣemarāja (commentary)",
     "tradition": "Hindu (Saura / sun worship)",
     "genre": "stotra (hymn)",
     "date_estimate": "1st millennium CE (uncertain)",
@@ -29850,7 +29850,7 @@
   "SA_MB_sivadrstiHK": {
     "work_id": "M00081",
     "title": "Śivadṛṣṭi",
-    "author": "Somānanda",
+    "author": "Somānanda (kārikā/mūla); Utpaladeva (vṛtti)",
     "tradition": "Hindu, Kashmir Shaivism (Pratyabhijñā)",
     "genre": "philosophical treatise (kārikā verses)",
     "date_estimate": "c. late 9th-early 10th c. CE (c. 875-925)",
@@ -30077,7 +30077,7 @@
   "SA_MB_Tantraloka-1-14-HK": {
     "work_id": "M00092",
     "title": "Tantrāloka, chapters 1-14 (āhnikas)",
-    "author": "Abhinavagupta",
+    "author": "Abhinavagupta (mūla); Rājānaka Jayaratha (viveka commentary)",
     "tradition": "Hindu, Kashmir Shaivism (Anuttara Trika; Kaula)",
     "genre": "philosophical treatise / tantric encyclopedia (in verse)",
     "date_estimate": "c. 990-1015 CE (Abhinavagupta fl. c. 975-1025)",
@@ -30233,7 +30233,7 @@
   "SA_MB_vatulanathasutraHK": {
     "work_id": "M00099",
     "title": "Vātūlanāthasūtra",
-    "author": "attributed to Vātūlanātha (Siddha)",
+    "author": "Vātūlanātha (sūtra, traditional); Anantaśaktipāda (vṛtti)",
     "tradition": "Hindu, Kashmir Shaivism (Krama / Kaula)",
     "genre": "sutra (aphorisms) with commentary",
     "date_estimate": "uncertain; probably after the 12th c. CE",
@@ -30874,7 +30874,7 @@
   "SA_MB_mahotsavavidhikramaHK": {
     "work_id": "M00131",
     "title": "Mahotsavavidhikrama (Mahotsavavidhi)",
-    "author": "Aghoraśiva (Aghoraśivācārya)",
+    "author": "Aghoraśiva (genuine prose core); + later compilers/interpolators (āgama-saṅgraha, Kacchapeśvara verses)",
     "tradition": "Hindu, Śaiva Siddhānta",
     "genre": "paddhati (ritual manual, festival procedure)",
     "date_estimate": "completed c. 1157 CE",
@@ -30950,7 +30950,7 @@
   "SA_MB_sattrimsattattvasamdohaHK": {
     "work_id": "M00151",
     "title": "Ṣaṭtriṃśattattvasandoha",
-    "author": "Amṛtānanda(nātha) (attributed; sometimes given as Rājānaka Ananda)",
+    "author": "Amṛtānanda(nātha) (mūla kārikā); Rājānaka Ānanda (vivaraṇa)",
     "tradition": "Hindu, Kashmir Shaivism (Trika / Pratyabhijñā)",
     "genre": "philosophical treatise (verse compendium)",
     "date_estimate": "c. 12th c. CE (commentary by Rājānakānanda c. 17th c.)",
@@ -30992,7 +30992,7 @@
   "SA_MB_paratrimsikavivaranaHK": {
     "work_id": "M00154",
     "title": "Parātrīśikāvivṛti (Parātrīśikā-laghuvṛtti)",
-    "author": "Abhinavagupta",
+    "author": "Abhinavagupta (laghuvṛtti/vivṛti); Parātrīśikā root verses anonymous (Trika tantra)",
     "tradition": "Hindu, Kashmir Shaivism (Trika)",
     "genre": "bhasya/vṛtti (commentary)",
     "date_estimate": "c. late 10th-early 11th c. CE",
@@ -31077,7 +31077,7 @@
   "SA_MB_spandanirnayaHK": {
     "work_id": "M00163",
     "title": "Spandanirṇaya",
-    "author": "Kṣemarāja",
+    "author": "Kṣemarāja (Spandanirṇaya commentary); Vasugupta or Kallaṭa (Spandakārikā root verses, disputed)",
     "tradition": "Hindu, Kashmir Shaivism (Spanda / Trika)",
     "genre": "bhasya (commentary)",
     "date_estimate": "c. early 11th c. CE (author fl. early 11th c.)",
@@ -31118,7 +31118,7 @@
   "SA_MB_bhagavadgiitaa_ramakanthaHK": {
     "work_id": "M00167",
     "title": "Bhagavadgītā",
-    "author": "anonymous/traditional (ascribed to Vyāsa)",
+    "author": "Bhagavadgītā: anonymous (trad. Vyāsa); Sarvatobhadra commentary: Rājānaka Rāmakaṇṭha",
     "tradition": "Hindu (Vaiṣṇava-inflected; foundational across Vedānta schools)",
     "genre": "philosophical/didactic poem (part of an epic)",
     "date_estimate": "c. 2nd c. BCE - 2nd c. CE (composite; redaction often placed 3rd-2nd c. BCE)",
@@ -31180,7 +31180,7 @@
   "SA_MB_saivakaalavivekaHK": {
     "work_id": "M00181",
     "title": "Śaivakalāviveka",
-    "author": "anonymous/traditional (uncertain)",
+    "author": "Nigamajñānamuni (Nigamajñāna I); Gaṇapatibhaṭṭa (commentary)",
     "tradition": "Hindu (Shaiva)",
     "genre": "tantra / Shaiva doctrinal-ritual treatise",
     "date_estimate": "uncertain (medieval, 1st–2nd millennium CE)",
@@ -31610,7 +31610,7 @@
   "SA_MB_mrigendrapaddhatitiikaaHK": {
     "work_id": "M00212",
     "title": "Mṛgendrapaddhatiṭīkā",
-    "author": "Naṭeśaguru (alias Vaktraśambhu); on the Mṛgendrapaddhati attributed to Aghoraśivācārya",
+    "author": "Naṭeśaguru alias Vaktraśambhu (ṭīkā); on Aghoraśiva's Mṛgendrapaddhati",
     "tradition": "Hindu, Śaiva Siddhānta",
     "genre": "bhāṣya/ṭīkā (commentary) on a ritual manual (paddhati)",
     "date_estimate": "ṭīkā likely 13th c. or later; base Mṛgendrapaddhati mid-12th c. CE (Tamil country)",
@@ -31676,7 +31676,7 @@
   "SA_MB_Paraatrisikaavivrtti_berlinHK": {
     "work_id": "M00215",
     "title": "Parātriśikāvivṛti (Parātrīśikāvivaraṇa)",
-    "author": "Abhinavagupta",
+    "author": "Abhinavagupta (vivaraṇa); root Parātriśikā = anonymous Tantric āgama",
     "tradition": "Hindu, Kashmir Shaivism (Trika)",
     "genre": "bhāṣya/commentary (vivaraṇa/vivṛti) on a Tantric scripture",
     "date_estimate": "c. late 10th - early 11th c. CE",
@@ -31783,7 +31783,7 @@
   "SA_MB_somasambhupaddhativyakhyaHK": {
     "work_id": "M00220",
     "title": "Somaśambhupaddhativyākhyā",
-    "author": "uncertain (commentary on the Somaśambhupaddhati of Somaśambhu)",
+    "author": "Trilocanaśiva (vyākhyā); Somaśambhu (mūla paddhati)",
     "tradition": "Hindu, Śaiva Siddhānta",
     "genre": "vyākhyā (commentary) on a ritual manual (paddhati)",
     "date_estimate": "commentary post-1100 CE; base text Somaśambhupaddhati 1048/49 CE",
@@ -31825,7 +31825,7 @@
   "SA_MB_vaarunapaddhatiHK": {
     "work_id": "M00223",
     "title": "Vāruṇapaddhati",
-    "author": "Varuṇaśivācārya",
+    "author": "Varuṇaśivācārya (paddhati); Nigamajñānadeva (ṭīkā)",
     "tradition": "Hindu, Śaiva Siddhānta",
     "genre": "paddhati (ritual manual)",
     "date_estimate": "medieval; based on classical Siddhāntāgamas (compiled before the 16th c.)",
@@ -32117,7 +32117,7 @@
   "SA_MB_varunapaddhativyaakhyaaT1034HK": {
     "work_id": "M00240",
     "title": "Varuṇapaddhativyākhyā",
-    "author": "commentary by Nigamajñānadeva (Nigamajñāna II); base text Varuṇapaddhati ascribed to a Varuṇaśiva/Varuṇa",
+    "author": "Nigamajñāna II / Vedajñāna II (vyākhyā); base Varuṇapaddhati ascribed to Varuṇaśiva/Varuṇa",
     "tradition": "Hindu, Śaiva Siddhānta",
     "genre": "bhāṣya/vyākhyā (commentary) on a Śaiva ritual paddhati",
     "date_estimate": "commentary 16th c. CE; base text earlier (medieval)",
@@ -32496,7 +32496,7 @@
   "SA_MB_stutikusumaanjaliHK": {
     "work_id": "M00260",
     "title": "Jagaddhara Bhaṭṭa: Stutikusumāñjali",
-    "author": "Jagaddhara Bhaṭṭa",
+    "author": "Jagaddhara Bhaṭṭa (stotra/kāvya); Rājānaka Ratnakaṇṭha (commentary)",
     "tradition": "Hindu, Śaiva (Kashmir)",
     "genre": "stotra (devotional hymn poetry / kavya)",
     "date_estimate": "14th c. CE",
@@ -32589,7 +32589,7 @@
   "SA_MB_jnanasaraHK": {
     "work_id": "M00265",
     "title": "Jñānasāra",
-    "author": "uncertain (multiple works share this title; e.g. Yaśovijaya for the Jain Jñānasāra)",
+    "author": "Title conflates several distinct works: Yaśovijaya (Jain Jñānasāra); a post-Bhāvaviveka Madhyamaka author (Buddhist Jñānasārasamuccaya); and an anonymous/Śaiva Jñānasāra (Muktabodha)",
     "tradition": "uncertain — title used in Jain, Vedānta, and Śaiva/tantric traditions",
     "genre": "philosophical/devotional treatise",
     "date_estimate": "unknown (varies by work; Yaśovijaya's Jain Jñānasāra is 17th c. CE)",
@@ -32667,7 +32667,7 @@
   "SA_MB_subodhamanjariHK": {
     "work_id": "M00269",
     "title": "Subodhamañjarī",
-    "author": "",
+    "author": "Vāmanadatta",
     "tradition": "uncertain",
     "genre": "commentary / explanatory manual (the title suggests a ṭīkā or primer)",
     "date_estimate": "unknown",
@@ -32915,7 +32915,7 @@
   "SA_MB_kamakalavilasaHK": {
     "work_id": "M00282",
     "title": "Kāmakalāvilāsa",
-    "author": "Puṇyānanda (Puṇyānandanātha)",
+    "author": "Puṇyānanda (Puṇyānandanātha) (kārikā); Naṭanānandanātha (Cidvallī commentary)",
     "tradition": "Hindu, Śākta (Śrīvidyā; Kaula)",
     "genre": "philosophical treatise / stotra (tantric doctrinal verse)",
     "date_estimate": "c. 16th c. CE (disputed; some place it somewhat earlier)",
@@ -33720,7 +33720,7 @@
   "SA_MB_kriyakramadyotikavyakhyaHK": {
     "work_id": "M00324",
     "title": "Kriyākramadyotikāvyākhyā",
-    "author": "Kacchapeśvaraśivācārya",
+    "author": "Kacchapeśvaraśiva (vyākhyā); on the Kriyākramadyotikā of Aghoraśiva (mūla)",
     "tradition": "Hindu, Shaiva Siddhanta (dualist; Tamil/South Indian)",
     "genre": "bhasya (commentary) on a ritual manual (paddhati)",
     "date_estimate": "after 1156 CE; commentary likely later medieval (c. 13th-16th c. CE)",
@@ -33780,7 +33780,7 @@
   "SA_MB_siddhantarthasamuccayaHK": {
     "work_id": "M00328",
     "title": "Siddhāntārthasamuccaya",
-    "author": "anonymous/traditional",
+    "author": "Trilocanaśiva (Trilocana)",
     "tradition": "Hindu, Shaiva Siddhanta (probable)",
     "genre": "doctrinal compendium/treatise",
     "date_estimate": "unknown; likely medieval",
@@ -33840,7 +33840,7 @@
   "SA_MB_KulavrttiHK": {
     "work_id": "M00331",
     "title": "Kulavṛtti",
-    "author": "Pūrṇānanda (Pūrṇānanda(giri))",
+    "author": "Pūrṇānanda(giri) (vṛtti); anonymous (root Kulacūḍāmaṇitantra)",
     "tradition": "Hindu, Shakta (Kaula Tantra; Bengal)",
     "genre": "vṛtti (commentary/exposition)",
     "date_estimate": "late 16th-early 17th c. CE",
@@ -33944,7 +33944,7 @@
   "SA_MB_YvaasisthaBmumuksuvyavaharaprakaranamHK": {
     "work_id": "M00336",
     "title": "Yogavāsiṣṭha, Part 2, with the commentary Tātparyaprakāśa",
-    "author": "attributed to Vālmīki (anonymous/composite); commentary by Ānandabodhendra Sarasvatī",
+    "author": "Ānandabodhendra Sarasvatī (Tātparyaprakāśa); root text pseudo-Vālmīki (anonymous/composite)",
     "tradition": "Hindu (Advaita-leaning Vedānta; idealist/illusionist)",
     "genre": "philosophical epic-poem with commentary (bhasya)",
     "date_estimate": "base text c. 9th-13th c. CE (composite); Tātparyaprakāśa commentary later (c. 17th c. CE or after)",
@@ -33986,7 +33986,7 @@
   "SA_MB_vyasishthaDsthitiprakaranamHK": {
     "work_id": "M00338",
     "title": "Yogavāsiṣṭha, Part 4, with the commentary Tātparyaprakāśa",
-    "author": "attributed to Vālmīki (anonymous/composite); commentary by Ānandabodhendra Sarasvatī",
+    "author": "Ānandabodhendra Sarasvatī (Tātparyaprakāśa); root text pseudo-Vālmīki (anonymous/composite)",
     "tradition": "Hindu (Advaita-leaning Vedānta; idealist/illusionist)",
     "genre": "philosophical epic-poem with commentary (bhasya)",
     "date_estimate": "base text c. 9th-13th c. CE (composite); Tātparyaprakāśa commentary later (c. 17th c. CE or after)",
@@ -34007,7 +34007,7 @@
   "SA_MB_yogavyasishthaEupasamaprakaranamHK": {
     "work_id": "M00339",
     "title": "Yogavāsiṣṭha, Part 5, with commentary Tātparyaprakāśa",
-    "author": "attributed to Vālmīki (text); commentary Tātparyaprakāśa by Ānandabodhendra Sarasvatī",
+    "author": "Vālmīki (traditional, pseudepigraphic — actually anonymous, orig. Mokṣopāya); commentary Tātparyaprakāśa by Ānandabodhendra Sarasvatī",
     "tradition": "Hindu (Advaita Vedānta, with strong influence of idealist/Yogācāra-style monism)",
     "genre": "philosophical poem / didactic epic with commentary (bhāṣya/ṭīkā)",
     "date_estimate": "core text c. 9th-10th c. CE (some strata 6th-14th c.); Tātparyaprakāśa commentary much later (Ānandabodhendra, traditionally placed c. 16th-19th c.)",
@@ -34071,7 +34071,7 @@
   "SA_MB_sadhanamala1IHK": {
     "work_id": "M00342",
     "title": "Sādhanamālā, Vol. 1",
-    "author": "anonymous/traditional (compilation of many authors); critically edited by Benoytosh Bhattacharyya",
+    "author": "Multi-author anthology (c. 47 named masters, e.g. Abhayākaragupta, Advayavajra); ed. Benoytosh Bhattacharyya",
     "tradition": "Buddhist (Vajrayāna / Tantric Mahāyāna)",
     "genre": "sādhana collection (tantric ritual/meditation manuals)",
     "date_estimate": "individual sādhanas c. 7th-12th c. CE; this critical edition published 1925 (Gaekwad's Oriental Series No. 26)",
@@ -34197,7 +34197,7 @@
   "SA_MB_sivastotraavaliiHK": {
     "work_id": "M00348",
     "title": "Śivastotrāvalī",
-    "author": "Utpaladeva (Utpalācārya)",
+    "author": "Utpaladeva (hymns); Kṣemarāja (Vivṛti commentary)",
     "tradition": "Hindu (Kashmir Śaivism — Pratyabhijñā / non-dual Trika)",
     "genre": "stotra (devotional hymns)",
     "date_estimate": "c. early-to-mid 10th c. CE",
@@ -34218,7 +34218,7 @@
   "SA_MB_sivasuutravimarsiniiHK": {
     "work_id": "M00349",
     "title": "Śivasūtravimarśinī (text version) [commentary on the Śivasūtra revealed to Vasugupta]",
-    "author": "Śivasūtra revealed to/by Vasugupta; Vimarśinī commentary by Kṣemarāja",
+    "author": "Kṣemarāja (Vimarśinī commentary); Śivasūtra traditionally revealed (ascribed to Śiva, 'discovered' by Vasugupta)",
     "tradition": "Hindu (Kashmir Śaivism — Trika / Pratyabhijñā)",
     "genre": "sūtra with commentary (vimarśinī)",
     "date_estimate": "Śivasūtra c. early 9th c. CE; Śivasūtravimarśinī c. early 11th c. CE",
@@ -34261,7 +34261,7 @@
   "SA_MB_LaghuYV-combinedHK": {
     "work_id": "M00351",
     "title": "Laghuyogavāsiṣṭha, with commentary Vāsiṣṭhacandrikā",
-    "author": "abridgement traditionally ascribed to Abhinanda (of Kashmir); commentary Vāsiṣṭhacandrikā by Ātmasukha (Mummaḍideva)",
+    "author": "Abhinanda (abridgement); Ātmasukha (Vāsiṣṭhacandrikā, prakaraṇas 1–3); Mummaḍi Devarāya (Saṃsārataraṇī, prakaraṇas 4–6)",
     "tradition": "Hindu (Advaita Vedānta with idealist monism)",
     "genre": "abridged philosophical poem with commentary",
     "date_estimate": "Laghuyogavāsiṣṭha c. 10th-11th c. CE; Vāsiṣṭhacandrikā commentary medieval",
@@ -34282,7 +34282,7 @@
   "SA_MB_SpandakarikaRamakanthaHK": {
     "work_id": "M00352",
     "title": "Spandakārikā, with Vivṛti by Rāmakaṇṭha",
-    "author": "Spandakārikā by Kallaṭa Bhaṭṭa (or Vasugupta); Vivṛti commentary by Rāmakaṇṭha",
+    "author": "Spandakārikā: Vasugupta or Kallaṭa Bhaṭṭa (disputed); Vivṛti: Rāmakaṇṭha (Rājānaka Rāma)",
     "tradition": "Hindu (Kashmir Śaivism — Spanda school of non-dual Trika)",
     "genre": "philosophical verse-treatise (kārikā) with commentary (vivṛti)",
     "date_estimate": "Spandakārikā c. 9th c. CE; Rāmakaṇṭha's Vivṛti c. late 9th-10th c. CE",
@@ -34323,7 +34323,7 @@
   "SA_MB_laghustutiHK": {
     "work_id": "M00355",
     "title": "Laghustuti, with commentary by Rāghavānanda",
-    "author": "Laghubhaṭṭāraka (also a name used in the Krama/Śākta tradition); commentary by Rāghavānanda",
+    "author": "Laghubhaṭṭāraka (stuti); Rāghavānanda (vṛtti)",
     "tradition": "Hindu (Śākta — Śrīvidyā / goddess Tripurasundarī worship)",
     "genre": "stotra (hymn) with commentary",
     "date_estimate": "medieval; stotra possibly c. 12th-15th c. CE, commentary later",
@@ -34385,7 +34385,7 @@
   "SA_MB_natyasatrav1HK": {
     "work_id": "M00359",
     "title": "Nāṭyaśāstra, Vol. 1",
-    "author": "attributed to Bharata Muni",
+    "author": "Bharata Muni (legendary; composite/anonymous mūla); Abhinavagupta (Abhinavabhāratī commentary)",
     "tradition": "Hindu (secular/scientific — śāstra on dramaturgy and the performing arts)",
     "genre": "śāstra (treatise on drama, dance, music, and aesthetics)",
     "date_estimate": "composite, c. 200 BCE - 200 CE (often c. 2nd c. BCE - 2nd c. CE)",
@@ -34427,7 +34427,7 @@
   "SA_MB_natyrasatrav2HK": {
     "work_id": "M00361",
     "title": "Nāṭyaśāstra, Vol. 2",
-    "author": "attributed to Bharata Muni (anonymous/composite)",
+    "author": "attributed to Bharata Muni (anonymous composite root text); Abhinavagupta (Abhinavabhāratī comm.)",
     "tradition": "Hindu (secular/scientific śāstra; dramaturgy, aesthetics, music)",
     "genre": "śāstra (technical treatise on drama, dance, music and poetics)",
     "date_estimate": "core c. 200 BCE - 200 CE (composite, with later accretions); estimates range 500 BCE - 500 CE",
@@ -34449,7 +34449,7 @@
   "SA_MB_natyasatrav3HK": {
     "work_id": "M00362",
     "title": "Nāṭyaśāstra, Vol. 3",
-    "author": "attributed to Bharata Muni (anonymous/composite)",
+    "author": "Bharata Muni (legendary; composite/anonymous mūla); Abhinavagupta (Abhinavabhāratī commentary)",
     "tradition": "Hindu (secular/scientific śāstra; dramaturgy, aesthetics, music)",
     "genre": "śāstra (technical treatise on drama, dance, music and poetics)",
     "date_estimate": "core c. 200 BCE - 200 CE (composite, with later accretions); estimates range 500 BCE - 500 CE",
@@ -35028,7 +35028,7 @@
   "SA_MB_ParaatrimsikavivaranaHK": {
     "work_id": "M0409",
     "title": "parātriṃśikāvivaraṇa",
-    "author": "Abhinavagupta",
+    "author": "Abhinavagupta (vivaraṇa); anonymous scripture (root verses)",
     "tradition": "Hindu; Kashmir Śaivism (Trika / Pratyabhijñā)",
     "genre": "bhāṣya/vivaraṇa (commentary / philosophical treatise)",
     "date_estimate": "c. 990–1015 CE (late 10th–early 11th c.)",
@@ -35171,7 +35171,7 @@
   "SA_GSP29_nysvbh_u": {
     "work_id": "GSP29nysvbh_u",
     "title": "Nyāyasūtra",
-    "author": "Gautama (Akṣapāda Gautama)",
+    "author": "Gautama Akṣapāda (sūtra); Vātsyāyana (Pakṣilasvāmin) (bhāṣya)",
     "tradition": "Hindu; Nyāya (orthodox philosophical school)",
     "genre": "sūtra (foundational philosophical aphorisms)",
     "date_estimate": "core c. 2nd c. CE (with later interpolations; range 6th c. BCE–2nd c. CE debated)",
@@ -35256,7 +35256,7 @@
   "SA_GK23_jonart_pu": {
     "work_id": "GK23jonart",
     "title": "Rājataraṅginī",
-    "author": "Jonarāja (and Pseudo-Jonarāja continuator)",
+    "author": "Jonarāja (genuine text); Pseudo-Jonarāja (anonymous continuator)",
     "tradition": "Hindu (secular court historiography)",
     "genre": "historical chronicle / kāvya (metrical chronicle)",
     "date_estimate": "mid-15th c. CE (Jonarāja d. 1459 CE)",
@@ -35359,7 +35359,7 @@
   "SA_GSP30_tantralu": {
     "work_id": "GSP30tantralu1",
     "title": "Tantrāloka",
-    "author": "Abhinavagupta",
+    "author": "Abhinavagupta (mūla); Rājānaka Jayaratha (Viveka commentary)",
     "tradition": "Hindu (Kashmir Shaivism, Trika)",
     "genre": "tantra / philosophical-ritual treatise (encyclopedic)",
     "date_estimate": "c. 1000 CE (Abhinavagupta fl. c. 975-1025)",
@@ -35465,7 +35465,7 @@
   "SA_GK19_ragh1-6u": {
     "work_id": "GK19ragh",
     "title": "Raghuvaṃśa",
-    "author": "Kālidāsa",
+    "author": "Kālidāsa (kāvya); Vallabhadeva (Raghupañcikā commentary)",
     "tradition": "Hindu (secular court poetry)",
     "genre": "mahākāvya (court epic poem)",
     "date_estimate": "c. 4th-5th c. CE",
@@ -35486,7 +35486,7 @@
   "SA_MB_STAVACINTAAMANI_hk": {
     "work_id": "M00089",
     "title": "Stavacintāmaṇi",
-    "author": "Bhaṭṭanārāyaṇa",
+    "author": "Bhaṭṭanārāyaṇa (stava); Kṣemarāja (vivṛti)",
     "tradition": "Hindu (Kashmir Shaivism)",
     "genre": "stotra (devotional hymn)",
     "date_estimate": "late 9th-early 10th c. CE",
@@ -35547,7 +35547,7 @@
   "SA_GSP33_gaukarpu": {
     "work_id": "GSP33gaukarpu",
     "title": "Āgamaśāstra (Gauḍapādakārikā / Gauḍapādīyakārikā / Māṇḍūkyakārikā)",
-    "author": "Gauḍapāda",
+    "author": "Gauḍapāda (traditional; single authorship disputed — esp. 4th/Alātaśānti prakaraṇa by a different hand)",
     "tradition": "Hindu (Advaita Vedānta)",
     "genre": "kārikā (versified philosophical treatise)",
     "date_estimate": "c. 6th c. CE (commonly placed 5th-7th c.)",
@@ -35567,7 +35567,7 @@
   "SA_GS40_caraka_u": {
     "work_id": "GS40caraka",
     "title": "Carakasaṃhitā",
-    "author": "Agniveśa (redacted by Caraka; later supplemented by Dṛḍhabala)",
+    "author": "Agniveśa (mūla compilation); Caraka (redactor, 79 chs); Dṛḍhabala (restorer/supplementer, 41 chs); Cakrapāṇidatta (Āyurvedadīpikā commentary)",
     "tradition": "Hindu / secular-scientific (Āyurveda)",
     "genre": "medical treatise (saṃhitā)",
     "date_estimate": "core c. 2nd c. BCE-2nd c. CE, with redaction by Caraka and later additions by Dṛḍhabala (c. 4th-5th c. CE); composite",
