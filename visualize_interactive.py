@@ -114,7 +114,9 @@ for r in rows:
                     esc(e.get('summary','')),      # 13
                     esc(e.get('history','')),      # 14
                     ("  ·  "+esc(e.get('author') or meta.get(m2w(r[0]),{}).get('author','')))
-                        if (e.get('author') or meta.get(m2w(r[0]),{}).get('author','')) else ""])  # 15 hover author
+                        if (e.get('author') or meta.get(m2w(r[0]),{}).get('author','')) else "",  # 15 hover author
+                    esc(e.get('edition','')),      # 16 critical/printed edition
+                    e.get('archive_url','')])      # 17 archive.org scan link
 fig=go.Figure()
 eras=[(-1700,-500,'Vedic','#FFF3E0'),(-500,200,'Epic & Sūtra','#F3E5F5'),(200,650,'Classical','#E8F5E9'),
       (650,1200,'Early Medieval','#E3F2FD'),(1200,1900,'Late Medieval','#FFF8E1')]
@@ -156,6 +158,7 @@ HTML=f"""<!DOCTYPE html><html><head><meta charset="utf-8"><title>Sanskrit Chrono
  #detail .dm{{color:#2471A3;font-weight:600;margin-bottom:1px}}
  #detail .dg{{color:#777;font-size:12px;margin-bottom:8px}}
  #detail p{{margin:0 0 8px}} #detail .hist{{color:#555;font-size:12.5px;border-top:1px solid #eee;padding-top:8px}}
+ #detail .ded{{color:#666;font-size:12px;border-top:1px solid #eee;padding-top:8px;margin-top:2px}} #detail .ded a{{color:#2471A3;text-decoration:none}}
  #detail .dl{{color:#aaa;font-size:11.5px}} #detail .dx{{float:right;cursor:pointer;color:#bbb;font-size:14px;margin:-4px -4px 0 0}}
  footer{{margin:8px 18px 40px;padding:18px 22px;background:#fff;border:1px solid #e5e5e5;border-radius:10px;
    color:#555;font-size:13px;line-height:1.6;max-width:1100px}}
@@ -211,6 +214,7 @@ gd.on('plotly_hover',function(e){{
   h+='<div class="dg">'+(d[10]||d[3])+(d[11]?'  ·  '+d[11]:'')+'</div>';
   if(d[13]) h+='<p>'+d[13]+'</p>';
   if(d[14]) h+='<p class="hist">'+d[14]+'</p>';
+  if(d[16]) h+='<div class="ded"><b>Edition:</b> '+d[16]+(d[17]?'  ·  <a href="'+d[17]+'" target="_blank" rel="noopener">scan ↗</a>':'')+'</div>';
   h+='<div class="dl">click the dot → open on DharmaNexus ↗</div>';
   det.innerHTML=h; det.style.display='block'; det.scrollTop=0;
   document.getElementById('detx').onclick=function(){{det.style.display='none';}};

@@ -33,3 +33,8 @@ epic_web_parts/
 
 author_parts/
 author_workitems.json
+
+# scratch: backups and run logs
+*.bak
+*.run.log
+*.err.log
