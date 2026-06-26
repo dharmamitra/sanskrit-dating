@@ -1,7 +1,9 @@
 type	arg1	arg2	arg3	note
-anchor	SA_T06_sthmavt	510	570	Sthiramati MAVT bound to his date
-anchor	SA_T06_sthmavt1	510	570	Sthiramati MAVT ch1
-anchor	SA_T06_sthmavtyg	510	570	Sthiramati MAVT (Yamaguchi ed)
+anchor	SA_T06_sthmavt	490	550	Sthiramati MAVT, floruit 490-550 (Deleanu, 'Dating with Procrustes: Early Pramanavada Chronology Revisited')
+anchor	SA_T06_sthmavt1	490	550	Sthiramati MAVT ch1, floruit 490-550 (Deleanu, 'Dating with Procrustes')
+anchor	SA_T06_sthmavtyg	490	550	Sthiramati MAVT (Yamaguchi ed), floruit 490-550 (Deleanu, 'Dating with Procrustes')
+anchor	SA_T06_sthtvbh	490	550	Sthiramati Trimsikabhasya, floruit 490-550 (Deleanu, 'Dating with Procrustes')
+anchor	SA_T06_pskvbhu	490	550	Sthiramati Pancaskandhakavibhasa, floruit 490-550 (Deleanu, 'Dating with Procrustes')
 order	SA_T07_vakobhau	SA_K10_bsu021_u		Lankavatara same-or-after Vasubandhu (AKBh)
 order	SA_T06_sthtvbh	SA_T06_trimsikatika		Trimsikatika after Trimsikabhasya
 anchor	SA_T06_bsa018	420	430	m c.420-430 CE (Vasubandhu's Trimsika, his last Yogacara work) | Deleanu, 'Dating with Procrustes: Early Pramanavada Chronology Revisited' [deleanu]
