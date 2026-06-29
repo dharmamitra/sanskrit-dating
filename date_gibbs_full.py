@@ -24,6 +24,24 @@ def vedic_iv(w):
     for pre,nb,na in van:
         if w.startswith(pre): return (nb,na)
     return None
+# ---- closed-interval anchors from the curated constraint files ----
+# These externally-researched dates (researched_anchors / manual_constraints / ...) were
+# previously fed ONLY to the Gibbs sampler, never to the linguistic clock's training set.
+# As a result whole genres (Epic, Purana) carried 0-3 clock-training anchors, fell below the
+# per-category threshold, and were dated by the GLOBAL clock (trained on Shastra/Vedic/Kavya).
+# Loading them here lets them ALSO supervise the stylometric clock, so Epic/Purana qualify
+# for their own category clocks. Only closed-interval `anchor` rows are usable as a regression
+# target (one-sided not_before/not_after bounds have no midpoint and stay Gibbs-only).
+constraint_iv={}
+for _cf in ['dcs_anchors.tsv','researched_anchors.tsv','chronbmm_priors.tsv','manual_constraints.tsv','new_texts_anchors.tsv']:
+    if not os.path.exists(_cf): continue
+    for line in open(_cf).read().splitlines()[1:]:
+        if not line.strip(): continue
+        p=(line.split('\t')+['','','',''])[:5]
+        if p[0]=='anchor':
+            try: a,b=float(p[2]),float(p[3])
+            except ValueError: continue
+            constraint_iv[p[1]]=(min(a,b),max(a,b))
 COLLAPSE=['SA_GV01_rvpp','SA_GV01_rv_hn','SA_GV01_rv','SA_GV03_sb','SA_GV05_brup','SA_GV05_chup','SA_GV05_aitup','SA_GV05_prasup','SA_GV05_chupsb','SA_GV02_gop']
 def group(w):
     for c in COLLAPSE:
@@ -71,7 +89,7 @@ for r,cid in enumerate(chunks):
 G=sp.csr_matrix((V,(R,C)),(len(chunks),len(gvoc)));gidf=np.log((len(chunks)+1)/(np.array([cdf[g] for g in gvoc])+1))
 G=normalize(G.multiply(gidf).tocsr());FW=TruncatedSVD(50,random_state=0).fit_transform(G);X=np.hstack([D,FW])
 def wdate(w):
-    iv=meta_iv(w) or vedic_iv(w);return .5*(iv[0]+iv[1]) if iv else None
+    iv=meta_iv(w) or vedic_iv(w) or constraint_iv.get(w);return .5*(iv[0]+iv[1]) if iv else None
 ywork={w:wdate(w) for w in set(cwork)}
 ychunk=np.array([ywork[w] if ywork[w] is not None else np.nan for w in cwork])
 anc=np.where(~np.isnan(ychunk))[0]; grp=np.array([group(w) for w in cwork])
