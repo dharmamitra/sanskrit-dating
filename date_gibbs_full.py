@@ -33,7 +33,7 @@ def vedic_iv(w):
 # for their own category clocks. Only closed-interval `anchor` rows are usable as a regression
 # target (one-sided not_before/not_after bounds have no midpoint and stay Gibbs-only).
 constraint_iv={}
-for _cf in ['dcs_anchors.tsv','researched_anchors.tsv','chronbmm_priors.tsv','manual_constraints.tsv','new_texts_anchors.tsv']:
+for _cf in ['tibetan_translation_constraints.tsv','literature_anchors.tsv','dcs_anchors.tsv','researched_anchors.tsv','chronbmm_priors.tsv','manual_constraints.tsv','new_texts_anchors.tsv']:
     if not os.path.exists(_cf): continue
     for line in open(_cf).read().splitlines()[1:]:
         if not line.strip(): continue
@@ -168,7 +168,7 @@ CNODES=np.array(sorted(set(list(CNODES)+list(np.where(np.isfinite(taq))[0]))))
 print(f"translation termini: {int(np.isfinite(taq).sum())} works ({nconf} conflict w/ scholarly nb)",file=sys.stderr)
 # ---- manual curated constraints ----
 lb=np.full(Nw, -np.inf); nman=0
-for _cf in ['dcs_anchors.tsv','researched_anchors.tsv','chronbmm_priors.tsv','manual_constraints.tsv','new_texts_anchors.tsv']:
+for _cf in ['tibetan_translation_constraints.tsv','literature_anchors.tsv','dcs_anchors.tsv','researched_anchors.tsv','chronbmm_priors.tsv','manual_constraints.tsv','new_texts_anchors.tsv']:
   if os.path.exists(_cf):
     for line in open(_cf).read().splitlines()[1:]:
         if not line.strip(): continue
