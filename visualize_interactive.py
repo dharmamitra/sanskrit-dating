@@ -12,7 +12,8 @@ def coll(w):
 
 # ---- authoritative per-work metadata + descriptions (text-information.json) ----
 # Keyed by the same SA_<coll>_<slug> work-id as the dated TSV. Entries carry
-# title / author / genre / tradition / date_estimate / summary / history.
+# title / author / genre / summary / attribution / edition / archive_url / coverage /
+# translations, exported from the fact-checked DharmaNexus catalog (export_map_info.py).
 TI=json.load(open('text-information.json'))
 def _root(w):
     p=w.split('_'); return '_'.join(p[:2])
@@ -112,11 +113,13 @@ for r in rows:
                     esc(e.get('tradition','')),    # 11
                     esc(e.get('date_estimate','')),# 12
                     esc(e.get('summary','')),      # 13
-                    esc(e.get('history','')),      # 14
+                    esc(e.get('attribution') or e.get('history','')),  # 14 attribution
                     ("  ·  "+esc(e.get('author') or meta.get(m2w(r[0]),{}).get('author','')))
                         if (e.get('author') or meta.get(m2w(r[0]),{}).get('author','')) else "",  # 15 hover author
                     esc(e.get('edition','')),      # 16 critical/printed edition
-                    e.get('archive_url','')])      # 17 archive.org scan link
+                    e.get('archive_url',''),       # 17 archive.org scan link
+                    esc(e.get('coverage','')),     # 18 complete / partial / fragment
+                    '<br>'.join(esc(t) for t in e.get('translations') or [])])  # 19 translations
 fig=go.Figure()
 eras=[(-1700,-500,'Vedic','#FFF3E0'),(-500,200,'Epic & Sūtra','#F3E5F5'),(200,650,'Classical','#E8F5E9'),
       (650,1200,'Early Medieval','#E3F2FD'),(1200,1900,'Late Medieval','#FFF8E1')]
@@ -213,8 +216,10 @@ gd.on('plotly_hover',function(e){{
   h+='<div class="dm">'+(d[9]?d[9]+'  ·  ':'')+'likely range: '+d[1]+'</div>';
   h+='<div class="dg">'+(d[10]||d[3])+(d[11]?'  ·  '+d[11]:'')+'</div>';
   if(d[13]) h+='<p>'+d[13]+'</p>';
-  if(d[14]) h+='<p class="hist">'+d[14]+'</p>';
+  if(d[14]) h+='<p class="hist"><b>Attribution:</b> '+d[14]+'</p>';
   if(d[16]) h+='<div class="ded"><b>Edition:</b> '+d[16]+(d[17]?'  ·  <a href="'+d[17]+'" target="_blank" rel="noopener">scan ↗</a>':'')+'</div>';
+  if(d[18]) h+='<div class="ded"><b>Coverage:</b> '+d[18]+'</div>';
+  if(d[19]) h+='<div class="ded"><b>Translations:</b><br>'+d[19]+'</div>';
   h+='<div class="dl">click the dot → open on DharmaNexus ↗</div>';
   det.innerHTML=h; det.style.display='block'; det.scrollTop=0;
   document.getElementById('detx').onclick=function(){{det.style.display='none';}};
@@ -245,7 +250,7 @@ document.getElementById('clr').addEventListener('click',()=>{{inp.value="";apply
  where evidence is sparse and tightens around well-anchored texts.
  <div class="cav">
   Posterior estimates, not established facts — especially for inferred (non-anchored) works and texts of
-  uncertain or composite authorship. Per-work summaries are AI-assisted research notes.
+  uncertain or composite authorship. Per-work notes (summary, attribution, edition, coverage, translations) come from the DharmaNexus catalog: AI-assisted, then fact-checked against source headers, the Tibetan and Chinese canon catalogues and secondary literature; please double-check before citing.
   Method &amp; code: <a href="https://github.com/dharmamitra/sanskrit-dating">github.com/dharmamitra/sanskrit-dating</a>.
  </div>
 </footer>
