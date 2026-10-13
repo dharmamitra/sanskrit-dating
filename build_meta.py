@@ -36,6 +36,12 @@ for e in cat:
                 'nb': None, 'na': None}
     added += 1
 print("added from SA_files.json:", added)
+# works whose text is no longer in DharmaNexus (e.g. the removed Sanskrit reconstructions from
+# Tibetan/Chinese) are dropped: no segment file and no segment file under the key as a prefix
+gone = [k for k in meta if k not in segs and not any(g.startswith(k) for g in segs)]
+for k in gone:
+    del meta[k]
+print("dropped (no text in DharmaNexus):", len(gone))
 # save
 json.dump(meta,open('meta.json','w'),ensure_ascii=False)
 print("meta works:",len(meta))

@@ -31,8 +31,6 @@ anchor	SA_T04_bsa027_u	150	250	Nagarjuna Madhyamakasastra (=MMK)
 anchor	SA_T04_nagvvy_u	150	250	Nagarjuna Vigrahavyavartanikarika
 anchor	SA_T04_bsa021_u	150	250	Nagarjuna Vigrahavyavartani
 anchor	SA_T04_nagvigvu	150	250	Nagarjuna Vigrahavyavartani
-anchor	SA_T04_bsa016_u	150	280	Nagarjuna Sunyatasaptati (Yukti corpus, accepted; Skt fragmentary)
-anchor	SA_T04_nagyuksu	150	280	Nagarjuna Yuktisastika (Yukti corpus, accepted; mainly in translation)
 anchor	SA_T04_canprasu	570	650	Candrakirti Prasannapada
 anchor	SA_T04_bsa053_u	570	650	Candrakirti Madhyamakavatara
 anchor	SA_T04_n2980u	570	650	Candrakirti Madhyamakavatarakarika
@@ -40,10 +38,8 @@ anchor	SA_T04_n847u	570	650	Candrakirti Madhyamakasastrastuti
 anchor	SA_T04_n1003u	500	570	Bhaviveka Madhyamakahrdaya
 anchor	SA_T04_tat	725	788	Santaraksita Tattvasamgraha
 anchor	SA_T04_tatpa	740	795	Kamalasila Tattvasamgrahapanjika
-anchor	SA_T04_ksmadhlu	740	795	Kamalasila Madhyamakaloka
 anchor	SA_T04_bsa047	740	795	Kamalasila Bhavanakrama
 anchor	SA_T04_bsa014_u	685	763	Santideva Siksasamuccayakarika
-anchor	SA_T04_bsa004_u	1000	1054	Atisa Bodhipathapradipa (composed ~1042)
 order	SA_T04_tat	SA_T04_tatpa		Tattvasamgraha before Kamalasila's panjika on it
 anchor	SA_T01_nagast_u	150	600	Acintyastava DISPUTED Catuhstava hymn (researched-as-Nagarjuna but DCS slot4/medieval; attribution contested) - wide
 order	SA_T06_bsa022_u	SA_T06_vasvvmsu		Viṃśatikā kārikā precede their own Viṃśikāvṛtti (Vasubandhu auto-commentary)
@@ -381,13 +377,11 @@ anchor	SA_T02_vamvuppu	985	1025	h early 11th c. CE (c. 1004) | Bajracharya 2018 
 # --- Buddhist texts: latest research, dated to OUR recension (reference-literature ag-sweep) ---
 anchor	SA_K10_bsu023_u	-50	200	m 1st-2nd c. CE (Mahāyāna sū | Schoening, The Śālistamba-sūtra and its In [buddhist recension sweep]
 anchor	SA_K10_ekottaru	400	700	m 5th-7th c. CE (extant Sans | Nattier, A Few Good Men (2003) and William [buddhist recension sweep]
-anchor	SA_K10_bsu031	-50	200	m 1st-2nd c. CE (Mahāyāna sū | Schoening, The Śālistamba-sūtra and its In [buddhist recension sweep]
 anchor	SA_T07_dhrmsk_u	-200	-50	m 2nd-1st c. BCE (compositio | Potter (ed.), Encyclopedia of Indian Philo [buddhist recension sweep]
 anchor	SA_K01_bhivin_u	1	500	m 1st-5th c. CE (BHS Ārya-Ma | Nolot, Règles de discipline des nonnes bou [buddhist recension sweep]
 anchor	SA_K01_n742u	1	500	m 1st-5th c. CE (BHS Ārya-Ma | Nolot, Règles de discipline des nonnes bou [buddhist recension sweep]
 anchor	SA_K10_udanav_u	100	300	m ca. 2nd-3rd c. CE (Sarvāst | Dhammajoti, The Chinese Version of Dharmap [buddhist recension sweep]
 anchor	SA_K14_mavadsuu	150	400	m ca. 2nd-4th c. CE (Sarvāst | Fukita 2003 (ed., Turkestan MSS); Dhammadi [buddhist recension sweep]
-anchor	SA_K14_n445u	150	400	m ca. 2nd-4th c. CE (Sarvāst | Fukita 2003 (ed., Turkestan MSS); Dhammadi [buddhist recension sweep]
 anchor	SA_K10_bsu036_u	350	500	m ca. 4th-5th c. CE (develop | Nakamura, Indian Buddhism (1980); Karashim [buddhist recension sweep]
 anchor	SA_K10_adbhutdu	425	600	m ca. 5th-6th c. CE (Gilgit  | Bentor, 'The Redactions of the Adbhutadhar [buddhist recension sweep]
 anchor	SA_K10_n443u	350	450	m 4th-5th c. CE (extant Sans | Nakamura, Indian Buddhism (1980), p.181 ar [buddhist recension sweep]
@@ -397,7 +391,6 @@ anchor	SA_K12_bsu012_u	400	650	m extant Sanskrit (Gilgit-de | Buswell & Lopez, P
 anchor	SA_K12_n283u	400	650	m extant Sanskrit (Gilgit-de | Buswell & Lopez, Princeton Dictionary of B [buddhist recension sweep]
 anchor	SA_K10_avsata_u	400	700	m 5th–7th c. CE (well-develo | monograph on the Avadānaśataka summarising [buddhist recension sweep]
 anchor	SA_K06_vchedppu	425	600	m 5th–6th c. CE (extant Gilg | Gregory Schopen, The Manuscript of the Vaj [buddhist recension sweep]
-anchor	SA_T11_bsa070_u	150	250	m ca. 2nd–3rd c. CE original | Y. Kajiyama in Steinkellner (ed.), Studies [buddhist recension sweep]
 anchor	SA_K05_adsp70-u	550	675	m 6th-7th c. CE (extant Gilg | von Hinüber on Gilgit MSS palaeography (Er [buddhist recension sweep]
 anchor	SA_K09_bsu016_u	350	450	m 4th-5th c. CE (extant expa | Nakamura, Indian Buddhism (1980); Buddhabh [buddhist recension sweep]
 anchor	SA_K05_adsp55-u	550	675	m 6th-7th c. CE (extant Gilg | von Hinüber on Gilgit MSS palaeography (Er [buddhist recension sweep]
@@ -436,21 +429,18 @@ anchor	SA_K01_vinv02_u	300	500	m 4th-5th c. CE (Mūlasarvāst | Lamotte, History
 anchor	SA_K12_Āgama_Mañjuśrīnāmasaṃgīti_Mukherji_1963	750	800	m late 8th c. CE (compositio | Davidson 1981 ('The Litany of Names of Mañ [buddhist recension sweep]
 anchor	SA_K10_arthaviniscaya	760	810	h late 8th c. CE (Nibandhana | N. H. Samtani, ed., The Arthaviniścaya-sūt [buddhist recension sweep]
 anchor	SA_T06_-ybh-klesa	300	400	h 4th c. CE (Yogācārabhūmi a | U. T. Kragh (ed.), The Foundation for Yoga [buddhist recension sweep]
-anchor	SA_T04_bsa040_u	1010	1054	h early-mid 11th c. CE (Atiś | Standard dating of Atiśa Dīpaṃkaraśrījñāna [buddhist recension sweep]
 anchor	SA_K14_n285u	100	400	m c. 2nd-4th c. CE (extant S | Waldschmidt, Das Catuṣpariṣatsūtra (1952-6 [buddhist recension sweep]
 anchor	SA_K10_sf280_sc	75	175	m early 2nd c. CE (Aśvaghoṣa | Lüders, Bruchstücke buddhistischer Dramen  [buddhist recension sweep]
 anchor	SA_K10_nagsu_pu	100	500	m c. 2nd-5th c. CE (extant C | Bongard-Levin, Boucher, Fukita & Wille, Th [buddhist recension sweep]
 anchor	SA_T10_n3009u	1030	1050	h c. 1040 CE (composed by At | Apple, Atiśa Dīpaṃkara: Lives of the Maste [buddhist recension sweep]
 anchor	SA_T10_cansisy2	400	500	m 5th c. CE (Candragomin's c | Buswell & Lopez, Princeton Dictionary of B [buddhist recension sweep]
 anchor	SA_K12_madadh_u	600	800	m 7th-8th c. CE (extant Sans | Gergely Hidas, 'Mahā-Daṇḍadhāraṇī-Śītavatī [buddhist recension sweep]
-anchor	SA_T04_bsa042_u	1010	1054	h first half 11th c. CE (Ati | Buswell & Lopez, Princeton Dictionary of B [buddhist recension sweep]
 anchor	SA_K12_Āgama_Mañjuśrīmūlakalpa_Shastri_1925	700	800	m 8th c. CE (latest strata o | Glenn Wallis, Mediating the Power of Buddh [buddhist recension sweep]
 anchor	SA_K12_Āgama_Mañjuśrīnāmasaṃgīti_Vira-Chandra_1966	675	775	m c. 700 CE (extant Sanskrit | Anthony Tribe, 'Mañjuśrīnāmasaṃgīti' (Bril [buddhist recension sweep]
 anchor	SA_K12_adhsatpu	675	775	m late 7th–8th c. CE (extant | J. W. de Jong, A New History of Tantric Li [buddhist recension sweep]
 anchor	SA_K12_bsu056_u	675	775	m late 7th–8th c. CE (extant | J. W. de Jong, A New History of Tantric Li [buddhist recension sweep]
 anchor	SA_K10_dvavims_tu	1000	1150	m medieval, c. 11th–12th c.  | J. H. Tatelman, Translation and Study of t [buddhist recension sweep]
 anchor	SA_K12_n2920u	680	730	m late 7th-early 8th c. CE ( | Orzech/Sørensen/Payne, Esoteric Buddhism a [buddhist recension sweep]
-anchor	SA_T04_bsa038_u	1000	1054	h first half 11th c. CE (aut | Apple, Jewels of the Middle Way (2019); Lo [buddhist recension sweep]
 anchor	SA_T06_trimsikatika	690	750	m c. 690-750 CE (late 7th-8t | Vose, Birth of Prāsaṅgika, 2005 (Vinītadev [buddhist recension sweep]
 anchor	SA_K12_Āgama_Vajrabhairavatantra_Wenta_2020	900	1000	m 10th c. CE (revealed to La | Kapstein (ed.), Buddhism between Tibet and [buddhist recension sweep]
 anchor	SA_K01_bsu011_u	350	500	m 4th-5th c. CE (early Yogāc | Davidson, Pure realms and hidden abodes (t [buddhist recension sweep]
@@ -472,7 +462,6 @@ anchor	SA_K03_psp_6-8u	500	700	h 6th-7th c. CE (revised rec | John J. Makransky,
 anchor	SA_K07_pplg202u	500	700	m 6th-7th c. CE (Gilgit manu | von Hinüber (2014) and standard palaeograp [buddhist recension sweep]
 anchor	SA_K12_mamuka	725	1000	m c. 750-1000 CE (extant San | Davidson, Indian Esoteric Buddhism (2002); [buddhist recension sweep]
 anchor	SA_K12_bsu041_u	725	1000	m c. 750-1000 CE (extant San | Davidson, Indian Esoteric Buddhism (2002); [buddhist recension sweep]
-anchor	SA_T04_bsa008_u	993	1043	m early-to-mid 11th c. CE (r | R. C. Negi (ed.), Atīśaviracitā Ekādaśagra [buddhist recension sweep]
 anchor	SA_T08_jsphustu	500	600	m 6th c. CE (Jayarakṣita's ṭ | Derrett & Jayarakṣita (1983), as reported  [buddhist recension sweep]
 anchor	SA_T17_sabhivpu	250	400	m 3rd-4th c. CE (received Ma | Roe 2014; Powers 2009; Winternitz/Jones tr [buddhist recension sweep]
 anchor	SA_T06_bsa023_u	320	430	h 4th-5th c. CE (Vasubandhu) | Lévi (Deux traités de Vasubandhu); Hirakaw [buddhist recension sweep]
@@ -483,7 +472,6 @@ anchor	SA_T11_bsa0554u	800	900	m 9th c. CE (Paṇḍita Aśoka;  | Nakamura, Ind
 anchor	SA_T17_vtrksopu	1000	1100	m 11th c. CE | Kajiyama, Introduction to Buddhist Philoso [buddhist recension sweep]
 anchor	SA_T11_bsa072_u	1075	1125	h c. 1100 CE (late 11th-earl | Kajiyama, Introduction to Buddhist Philoso [buddhist recension sweep]
 anchor	SA_K03_psp_2-3u	350	450	m 4th–5th c. CE (revised San | Conze/Dutt (via Nakamura, Indian Buddhism  [buddhist recension sweep]
-anchor	SA_T05_nagsaliu	600	800	m 7th-8th c. CE (Yogācāra-in | Schoening, The Śālistamba-sūtra and its In [buddhist recension sweep]
 anchor	SA_K03_pvspl_u	500	800	h 6th-8th c. CE (revised/rec | John J. Makransky, Buddhahood Embodied (19 [buddhist recension sweep]
 anchor	SA_K03_pspdut2u	500	800	h 6th-8th c. CE (revised/rec | John J. Makransky, Buddhahood Embodied (19 [buddhist recension sweep]
 anchor	SA_K14_mhvastuu	300	450	m compiled work; latest laye | Winternitz, History of Indian Literature I [buddhist recension sweep]

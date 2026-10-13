@@ -333,8 +333,6 @@ not_after	SA_K08_kasyparu	899		Tibetan translation D0087 by Jinamitra, Śīlendr
 not_after	SA_K10_avsata_u	899		Tibetan translation D0343 by Jinamitra
 not_after	SA_K10_ayuhparu	900		Tibetan translation D0307 by Viśuddhasiṃha, lo tsA ba dge ba dpal/
 not_after	SA_K10_bsu005_u	899		Tibetan translation D0317 by Jinamitra, Prajñāvarman, sna nam btsun pa ye shes sde/
-not_after	SA_K10_bsu010_u	899		Tibetan translation D0226 by Jinamitra, Dānaśīla, sna nam btsun pa ye shes sde/
-not_after	SA_K10_bsu013_u	899		Tibetan translation D0249 by Surendrabodhi, sna nam btsun pa ye shes sde/
 not_after	SA_K10_bsu018_u	899		Tibetan translation D0112 by Jinamitra, Surendrabodhi, Prajñāvarman, sna nam btsun pa ye shes sde/
 not_after	SA_K10_bsu019	899		Tibetan translation D0116 by Jinamitra, Dānaśīla, sna nam btsun pa ye shes sde/
 not_after	SA_K10_bsu021_u	899		Tibetan translation D0107 by 'gos chos 'grub/
@@ -345,16 +343,13 @@ not_after	SA_K10_bsu032_u	899		Tibetan translation D0115 by Dānaśīla, sna nam
 not_after	SA_K10_bsu034_u	899		Tibetan translation D0127 by Śīlendrabodhi, Dharmatāśīla
 not_after	SA_K10_bsu036_u	899		Tibetan translation D0113 by Jinamitra, Surendrabodhi, sna nam btsun pa ye shes sde/
 not_after	SA_K10_bsu037_u	899		Tibetan translation D0098 by cog ro klu'i rgyal mtshan/
-not_after	SA_K10_bsu038_u	899		Tibetan translation D0155 by Surendrabodhi, sna nam btsun pa ye shes sde/
 not_after	SA_K10_bsu045_u	899		Tibetan translation D0102 by Jinamitra, Dānaśīla, sna nam btsun pa ye shes sde/
-not_after	SA_K10_bsu061_u	899		Tibetan translation D0176 by Dharmatāśīla
 not_after	SA_K10_divav33u	1099		Tibetan translation D0358 by Atiśa Dīpaṃkaraśrījñāna, lo tsA ba 'bro seng dkar shAkya 'od/
 not_after	SA_K10_jnalokau	899		Tibetan translation D0100 by Surendrabodhi, sna nam btsun pa ye shes sde/
 not_before	SA_K10_kbavk10u	875		author Kṣemendra fl. from 900
 not_before	SA_K10_kbavk75u	875		author Kṣemendra fl. from 900
 not_after	SA_K10_n206u	899		Tibetan translation D0142 by Jinamitra, Dānaśīla, ska ba dpal brtsegs/
 not_after	SA_K10_n260u	899		Tibetan translation D0317 by Jinamitra, Prajñāvarman, sna nam btsun pa ye shes sde/
-not_after	SA_K10_n266u	899		Tibetan translation D0155 by Surendrabodhi, sna nam btsun pa ye shes sde/
 not_after	SA_K10_n267u	899		Tibetan translation D0102 by Jinamitra, Dānaśīla, sna nam btsun pa ye shes sde/
 not_after	SA_K10_n443u	899		Tibetan translation D0235 by Jinamitra, Śīlendrabodhi, sna nam btsun pa ye shes sde/
 not_after	SA_K10_n526u	899		Tibetan translation D0098 by cog ro klu'i rgyal mtshan/
@@ -527,8 +522,6 @@ not_after	SA_T01_anon_Saptajinastava	1099		Tibetan translation D1165 by Padmāka
 not_before	SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025	325		author Vasubandhu fl. from 350
 not_after	SA_T01_attributed-to-Vasubandhu_Śīlaparikathā_Matsuda_2025	1055		Tibetan translation D4164 by Janārdana, lo chen rin chen bzang po/
 not_before	SA_T01_desanastavau	575		author Candragomin fl. from 600
-not_before	SA_T01_dharmadhatuu	957		author Atiśa Dīpaṃkaraśrījñāna fl. from 982
-not_after	SA_T01_dharmadhatuu	1064		Tibetan translation D2314 by Atiśa Dīpaṃkaraśrījñāna, nag 'tsho lo tsA ba tshul khrims rgyal ba/
 not_before	SA_T01_jambhalastou	575		author Candragomin fl. from 600
 not_after	SA_T01_n2925u	1099		Tibetan translation D1118 by Kṛṣṇapa, nag 'tsho lo tsA ba tshul khrims rgyal ba/
 not_after	SA_T01_n817u	1320		Tibetan translation D2724 by Jetakarṇa, thar pa lo tsA ba nyi ma rgyal mtshan/
@@ -591,8 +584,6 @@ not_before	SA_T02_Jagadānandajīvabhadra_Yogāmbarasādhanavidhi	1275		author J
 not_after	SA_T02_Jagadānandajīvabhadra_Yogāmbarasādhanavidhi	1420		Tibetan translation D1611 by Mahābodhi, dpal ldan smra ba'i seng ge, sa bzang ma ti paN chen blo gros rgyal mtshan/
 not_after	SA_T02_Jitāri_Catustattva	1099		Tibetan translation D1620 by 'gos lo tsA ba khug pa lhas btsas/
 not_before	SA_T02_Jñānacandra_Mahāsukhaprakāśikā-Tattvajñānasaṃsiddhi_DharmodayaSabha_1956	975		author Śūnyatāsamādhi fl. from 1000
-not_before	SA_T02_Jñānapāda_Samantabhadrasādhana	745		author Buddhajñāna fl. from 770
-not_after	SA_T02_Jñānapāda_Samantabhadrasādhana	1099		Tibetan translation D1855 by Śraddhākaravarman, lo chen rin chen bzang po/
 not_after	SA_T02_Kambala_Sādhananidhi-chapter-1_Sugiki_2025	1099		Tibetan translation D1401 by 'gos lo tsA ba khug pa lhas btsas/
 not_after	SA_T02_Kambala_—-Sādhananidānaśrīcakrasaṃvara-nāma-pañjikā	1099		Tibetan translation D1401 by 'gos lo tsA ba khug pa lhas btsas/
 not_before	SA_T02_Kriyāsaṃgrahapañjikā_ṭhe-devatāyoga-of-the-Kriyāsaṃgrahapañjikā-īnui's-edition_Inui	1075		author *Kuladatta fl. from 1100
@@ -641,8 +632,6 @@ not_before	SA_T02_anon_Pratipattisāraśataka	200		author Āryadeva fl. from 225
 not_after	SA_T02_anon_Pratipattisāraśataka	1475		Tibetan translation D2334 by byams gling paN chen bsod nams rnam rgyal/, Vanaratna
 not_before	SA_T02_bsa005_u	957		author Atiśa Dīpaṃkaraśrījñāna fl. from 982
 not_after	SA_T02_bsa005_u	1064		Tibetan translation D3960 by Atiśa Dīpaṃkaraśrījñāna, nag 'tsho lo tsA ba tshul khrims rgyal ba/
-not_before	SA_T02_bsa043_u	957		author Atiśa Dīpaṃkaraśrījñāna fl. from 982
-not_after	SA_T02_bsa043_u	1099		Tibetan translation D2460 by Atiśa Dīpaṃkaraśrījñāna, lo tsA ba shAkya blo gros/
 not_before	SA_T02_bsa045_u	575		author Āryaśūra? fl. from 600
 not_after	SA_T02_bsa045_u	1055		Tibetan translation D3721 by Padmākaravarman, lo chen rin chen bzang po/
 not_before	SA_T02_bsa048_u	200		author Āryadeva fl. from 225
@@ -717,8 +706,6 @@ not_before	SA_T03_bsa051_u	945		author Ratnākaraśānti fl. from 970
 not_after	SA_T03_bsa051_u	1099		Tibetan translation D3803 by Subhūtiśānti, lo tsA ba shAkya blo gros/
 not_before	SA_T03_ilx_hh_haribhadra_ratnagunasancayagathavyakhya	675		author Haribhadra fl. from 700
 not_after	SA_T03_ilx_hh_haribhadra_ratnagunasancayagathavyakhya	1099		Tibetan translation D3792 by Śāntibhadra, lo tsA ba 'bro seng dkar shAkya 'od/
-not_before	SA_T03_kamvchtu	688		author Jayasena fl. from 713
-not_after	SA_T03_kamvchtu	950		Tibetan translation D3817 by Mañjuśrī, Jinamitra, sna nam btsun pa ye shes sde/
 not_after	SA_T03_knavslou	1399		Tibetan translation D4462 by Sumanaśrī, bu ston rin chen grub/
 not_before	SA_T03_n1146u	675		author Haribhadra fl. from 700
 not_after	SA_T03_n1146u	1109		Tibetan translation D3791 by lo chen rin chen bzang po/, Dhirapāla, rngog blo ldan shes rab/
@@ -726,63 +713,31 @@ not_before	SA_T04_Ratnākaraśānti-attribution-lots-of-extracts-from-Muktāval�
 not_after	SA_T04_alokamalanau	1099		Tibetan translation D3895 by Kumārakalaśa, lo tsA ba 'bro seng dkar shAkya 'od/
 not_before	SA_T04_bsa003_u	675		author Śāntideva fl. from 700
 not_after	SA_T04_bsa003_u	1099		Tibetan translation D3871 by Sarvajñadeva, ska ba dpal brtsegs/, Dharmaśrībhadra, lo chen rin chen bzang po/, lo tsA ba shAkya blo gros/
-not_before	SA_T04_bsa004_u	957		author Atiśa Dīpaṃkaraśrījñāna fl. from 982
-not_after	SA_T04_bsa004_u	1089		Tibetan translation D3947 by Atiśa Dīpaṃkaraśrījñāna, rma dge ba'i blo gros
-not_before	SA_T04_bsa008_u	957		author Atiśa Dīpaṃkaraśrījñāna fl. from 982
-not_after	SA_T04_bsa008_u	1064		Tibetan translation D3949 by Atiśa Dīpaṃkaraśrījñāna, nag 'tsho lo tsA ba tshul khrims rgyal ba/
-not_before	SA_T04_bsa009_u	455		author Dignāga fl. from 480
 not_before	SA_T04_bsa014_u	675		author Śāntideva fl. from 700
 not_after	SA_T04_bsa014_u	899		Tibetan translation D3939 by Jinamitra, Dānaśīla, sna nam btsun pa ye shes sde/
-not_after	SA_T04_bsa015_u	899		Tibetan translation D4182 by Sarvajñadeva, ska ba dpal brtsegs/
-not_after	SA_T04_bsa016_u	1150		Tibetan translation D3827 by lo tsa ba gzhon nu mchog, gnyan lo tsA ba dar ma grags/
 not_after	SA_T04_bsa021_u	899		Tibetan translation D3828 by Jñānagarbha, ska ba dpal brtsegs/
 not_before	SA_T04_bsa024_u	957		author Atiśa Dīpaṃkaraśrījñāna fl. from 982
 not_after	SA_T04_bsa024_u	1054		Tibetan translation D3902 by Atiśa Dīpaṃkaraśrījñāna, rgya lo tsA ba brtson 'grus seng+ge
 not_before	SA_T04_bsa028_u	200		author Āryadeva fl. from 225
 not_after	SA_T04_bsa028_u	1099		Tibetan translation D3846 by Sūkṣmajāna
-not_before	SA_T04_bsa035_u	957		author Atiśa Dīpaṃkaraśrījñāna fl. from 982
-not_after	SA_T04_bsa035_u	1064		Tibetan translation D3952 by Atiśa Dīpaṃkaraśrījñāna, nag 'tsho lo tsA ba tshul khrims rgyal ba/
-not_before	SA_T04_bsa036_u	957		author Atiśa Dīpaṃkaraśrījñāna fl. from 982
-not_after	SA_T04_bsa036_u	1089		Tibetan translation D3953 by Atiśa Dīpaṃkaraśrījñāna, rma dge ba'i blo gros
-not_before	SA_T04_bsa037_u	957		author Atiśa Dīpaṃkaraśrījñāna fl. from 982
-not_after	SA_T04_bsa037_u	1089		Tibetan translation D3955 by Atiśa Dīpaṃkaraśrījñāna, rma dge ba'i blo gros
-not_before	SA_T04_bsa038_u	957		author Atiśa Dīpaṃkaraśrījñāna fl. from 982
-not_after	SA_T04_bsa038_u	1064		Tibetan translation D3957 by Atiśa Dīpaṃkaraśrījñāna, nag 'tsho lo tsA ba tshul khrims rgyal ba/
-not_before	SA_T04_bsa039_u	957		author Atiśa Dīpaṃkaraśrījñāna fl. from 982
-not_after	SA_T04_bsa039_u	1064		Tibetan translation D3958 by Atiśa Dīpaṃkaraśrījñāna, nag 'tsho lo tsA ba tshul khrims rgyal ba/
-not_before	SA_T04_bsa040_u	957		author Atiśa Dīpaṃkaraśrījñāna fl. from 982
-not_after	SA_T04_bsa040_u	1089		Tibetan translation D3969 by Atiśa Dīpaṃkaraśrījñāna, rma dge ba'i blo gros
-not_before	SA_T04_bsa041_u	957		author Atiśa Dīpaṃkaraśrījñāna fl. from 982
-not_after	SA_T04_bsa041_u	1064		Tibetan translation D3974 by Atiśa Dīpaṃkaraśrījñāna, nag 'tsho lo tsA ba tshul khrims rgyal ba/
-not_before	SA_T04_bsa042_u	957		author Atiśa Dīpaṃkaraśrījñāna fl. from 982
 not_before	SA_T04_canprasu	575		author Candrakīrti I fl. from 600
 not_after	SA_T04_canprasu	1099		Tibetan translation D3860 by Mahāsumati
 not_before	SA_T04_ilx_gr_candrakIrti_bodhisattvayogAcAracatuHzatakaTIkA	575		author Candrakīrti I fl. from 600
 not_after	SA_T04_ilx_gr_candrakIrti_bodhisattvayogAcAracatuHzatakaTIkA	1099		Tibetan translation D3865 by Sūkṣmajāna
-not_before	SA_T04_ksmadhlu	688		author Jayasena fl. from 713
-not_after	SA_T04_ksmadhlu	899		Tibetan translation D3887 by Śīlendrabodhi, ska ba dpal brtsegs/
-not_before	SA_T04_n1002u	200		author Āryadeva fl. from 225
-not_after	SA_T04_n1002u	1099		Tibetan translation D3844 by Śraddhākaravarman, lo chen rin chen bzang po/
 not_before	SA_T04_n1003u	465		author Bhāviveka fl. from 490
 not_after	SA_T04_n1003u	1064		Tibetan translation D3855 by Atiśa Dīpaṃkaraśrījñāna, nag 'tsho lo tsA ba tshul khrims rgyal ba/
-not_before	SA_T04_n1047u	465		author Bhāviveka fl. from 490
-not_after	SA_T04_n1047u	1064		Tibetan translation D3857 by nag 'tsho lo tsA ba tshul khrims rgyal ba/
 not_after	SA_T04_n848u	1099		Tibetan translation D1119 by Kṛṣṇapa, nag 'tsho lo tsA ba tshul khrims rgyal ba/
 not_after	SA_T04_n849u	1099		Tibetan translation D1122 by Kṛṣṇapa, nag 'tsho lo tsA ba tshul khrims rgyal ba/
 not_after	SA_T04_nagmmk_u	899		Tibetan translation D3824 by Jñānagarbha, cog ro klu'i rgyal mtshan/
 not_after	SA_T04_nagmyv_u	1099		Tibetan translation D3833 by lo tsA ba 'bro seng dkar shAkya 'od/
 not_after	SA_T04_nagvvy_u	899		Tibetan translation D3828 by Jñānagarbha, ska ba dpal brtsegs/
 not_after	SA_T04_nagysk_u	1099		Tibetan translation D3825 by Muditaśrījñāna
-not_after	SA_T04_nagyuksu	1099		Tibetan translation D3825 by Muditaśrījñāna
 not_before	SA_T04_sanssr	675		author Śāntideva fl. from 700
 not_after	SA_T04_sanssr	899		Tibetan translation D3940 by Jinamitra, Dānaśīla, sna nam btsun pa ye shes sde/
 not_before	SA_T04_santbcpu	675		author Śāntideva fl. from 700
 not_after	SA_T04_santbcpu	1099		Tibetan translation D3871 by Sarvajñadeva, ska ba dpal brtsegs/, Dharmaśrībhadra, lo chen rin chen bzang po/, lo tsA ba shAkya blo gros/
 not_before	SA_T04_tat	675		author Śāntirakṣita fl. from 700
 not_before	SA_T04_tatpa	675		author Śāntirakṣita fl. from 700
-not_before	SA_T04_vasbocpu	325		author Vasubandhu fl. from 350
-not_after	SA_T05_n1110u	799		Tibetan translation D4005 by Śāntirakṣita, Devaghoṣa
-not_after	SA_T05_nagsaliu	899		Tibetan translation D3986 by Jñānakumāra, legs pa'i blo gros/
 not_before	SA_T06_-ybh-klesa	275		author Asaṅga fl. from 300
 not_after	SA_T06_abhsubhu	899		Tibetan translation D4053 by Jinamitra, Śīlendrabodhi, sna nam btsun pa ye shes sde/
 not_before	SA_T06_asabhs_u	275		author Asaṅga fl. from 300
@@ -802,14 +757,8 @@ not_before	SA_T06_bsa030_u	275		author Maitreya fl. from 300
 not_after	SA_T06_bsa030_u	899		Tibetan translation D4020 by Śākyasiṃha, ska ba dpal brtsegs/
 not_before	SA_T06_bsa034	275		author Asaṅga fl. from 300
 not_after	SA_T06_bsa034	899		Tibetan translation D4037 by Prajñāvarman, sna nam btsun pa ye shes sde/
-not_before	SA_T06_bsa065	325		author Vasubandhu fl. from 350
-not_after	SA_T06_bsa065	899		Tibetan translation D4059 by Jinamitra, Śīlendrabodhi, Dānaśīla, sna nam btsun pa ye shes sde/
 not_before	SA_T06_bsa073_u	275		author Asaṅga fl. from 300
 not_after	SA_T06_bsa073_u	1109		Tibetan translation D4025 by Sajjana, rngog blo ldan shes rab/
-not_before	SA_T06_n1290u	695		author Śubhagupta fl. from 720
-not_after	SA_T06_n1290u	899		Tibetan translation D4244 by Jinamitra, ska ba dpal brtsegs/
-not_before	SA_T06_n2994u	275		author Asaṅga fl. from 300
-not_after	SA_T06_n2994u	899		Tibetan translation D4048 by Jinamitra, Śīlendrabodhi, sna nam btsun pa ye shes sde/
 not_before	SA_T06_pskvbhu	475		author Sthiramati fl. from 500
 not_after	SA_T06_pskvbhu	899		Tibetan translation D4066 by Jinamitra, Śīlendrabodhi, Dānaśīla, sna nam btsun pa ye shes sde/
 not_before	SA_T06_srabhusu	275		author Asaṅga fl. from 300
@@ -824,9 +773,6 @@ not_before	SA_T06_trimsikatika	675		author Vinītadeva fl. from 700
 not_before	SA_T06_vmvkbh_u	325		author Vasubandhu fl. from 350
 not_after	SA_T06_vmvkbh_u	899		Tibetan translation D4027 by Jinamitra, Śīlendrabodhi, sna nam btsun pa ye shes sde/
 not_before	SA_T06_ybh-laukikamarga	275		author Asaṅga fl. from 300
-not_before	SA_T07_hvsatssu	225		author Harivarman fl. from 250
-not_before	SA_T07_n772u	-25		author Ghoṣaka fl. from 0
-not_after	SA_T07_nagdhdbu	899		Tibetan translation D4101 by Jñānagarbha, ska ba dpal brtsegs/
 not_before	SA_T07_vakobha9	325		author Vasubandhu fl. from 350
 not_before	SA_T07_vakobhau	325		author Vasubandhu fl. from 350
 not_after	SA_T07_vakobhau	899		Tibetan translation D4090 by Jinamitra, ska ba dpal brtsegs/
@@ -859,7 +805,6 @@ not_before	SA_T10_Aśvaghoṣa_Tridaṇḍamālā-36-2	55		author Aśvaghoṣa f
 not_before	SA_T10_Aśvaghoṣa_Tridaṇḍamālā-37-3	55		author Aśvaghoṣa fl. from 80
 not_before	SA_T10_Aśvaghoṣa_Tridaṇḍamālā-anthology_BCvss	55		author Aśvaghoṣa fl. from 80
 not_after	SA_T10_bsa025_u	899		Tibetan translation D4158 by Jñānagarbha, cog ro klu'i rgyal mtshan/
-not_after	SA_T10_bsa067_u	1099		Tibetan translation D4162 by Śrīratha, Ma nang lo tsA ba dge slong grags 'byor shes rab /
 not_after	SA_T10_cansisy2	899		Tibetan translation D4183 by Sarvajñadeva, ska ba dpal brtsegs/
 not_before	SA_T10_cansisyu	575		author Candragomin fl. from 600
 not_after	SA_T10_cansisyu	899		Tibetan translation D4183 by Sarvajñadeva, ska ba dpal brtsegs/
@@ -869,8 +814,6 @@ not_after	SA_T10_nrat_1_u	899		Tibetan translation D4158 by Jñānagarbha, cog r
 not_before	SA_T10_subhrk_u	75		author Āryaśūra fl. from 100
 not_after	SA_T10_subhrk_u	799		Tibetan translation D4168 by slob dpon shAkya 'od/
 not_before	SA_T11_avayavinirau	875		author Paṇḍitāśoka fl. from 900
-not_before	SA_T11_bsa001_u	455		author Dignāga fl. from 480
-not_before	SA_T11_bsa002_u	455		author Dignāga fl. from 480
 not_before	SA_T11_bsa020_u	55		author Aśvaghoṣa fl. from 80
 not_before	SA_T11_bsa0552u	975		author Ratnakīrti fl. from 1000
 not_before	SA_T11_bsa0553u	975		author Ratnakīrti fl. from 1000
@@ -879,12 +822,9 @@ not_before	SA_T11_bsa0556u	945		author Ratnākaraśānti fl. from 970
 not_after	SA_T11_bsa0556u	1099		Tibetan translation D4260 by Kumārakalaśa, lo tsA ba 'bro seng dkar shAkya 'od/
 not_before	SA_T11_bsa057_u	525		author Dharmakīrti I fl. from 550
 not_after	SA_T11_bsa057_u	1109		Tibetan translation D4212 by Parahitabhadra, rngog blo ldan shes rab/
-not_before	SA_T11_bsa059_u	525		author Dharmakīrti I fl. from 550
-not_after	SA_T11_bsa059_u	899		Tibetan translation D4219 by Viśuddhasiṃha, ska ba dpal brtsegs/
 not_before	SA_T11_bsa064_u	525		author Dharmakīrti I fl. from 550
 not_after	SA_T11_bsa064_u	1099		Tibetan translation D4218 by Jñānaśrībhadra, rma dge ba'i blo gros
 not_before	SA_T11_bsa066_u	675		author Haribhadrasūri fl. from 700
-not_before	SA_T11_bsa069_u	325		author Vasubandhu fl. from 350
 not_before	SA_T11_bsa071_u	525		author Dharmakīrti I fl. from 550
 not_after	SA_T11_bsa071_u	899		Tibetan translation D4213 by Prajñāvarman, ska ba dpal brtsegs/
 not_before	SA_T11_bsa072_u	975		author Mokṣākaragupta fl. from 1000
@@ -903,7 +843,6 @@ not_before	SA_T11_dhkvadnu	525		author Dharmakīrti I fl. from 550
 not_after	SA_T11_dhkvadnu	1099		Tibetan translation D4218 by Jñānaśrībhadra, rma dge ba'i blo gros
 not_before	SA_T11_ilx_gr_zAntarakSita_tattvasaMgraha	675		author Śāntirakṣita fl. from 700
 not_after	SA_T11_jithettu	1099		Tibetan translation D4261 by Kumārakalaśa, lo tsA ba 'bro seng dkar shAkya 'od/
-not_after	SA_T11_jithetuu	1099		Tibetan translation D4261 by Kumārakalaśa, lo tsA ba 'bro seng dkar shAkya 'od/
 not_before	SA_T11_jnaniva	955		author Jñānaśrīmitra fl. from 980
 not_before	SA_T11_n1226u	675		author Śāntirakṣita fl. from 700
 not_after	SA_T11_n1226u	1099		Tibetan translation D4239 by Kumāraśrībhadra, zangs dkar lo tsA ba 'phags pa shes rab/, lo tsA ba 'bro seng dkar shAkya 'od/
@@ -919,8 +858,6 @@ not_after	SA_T11_prpva	1109		Tibetan translation D4221 by Bhavyarāja, rngog blo
 not_before	SA_T11_ratksanu	975		author Ratnakīrti fl. from 1000
 not_before	SA_T11_samanyadusau	875		author Paṇḍitāśoka fl. from 900
 not_before	SA_T11_sambandhapau	525		author Dharmakīrti I fl. from 550
-not_before	SA_T11_samtasi	525		author Dharmakīrti I fl. from 550
-not_after	SA_T11_samtasi	899		Tibetan translation D4219 by Viśuddhasiṃha, ska ba dpal brtsegs/
 not_before	SA_T11_sbpramvu	775		author Śākyamati fl. from 800
 not_after	SA_T11_sbpramvu	1089		Tibetan translation D4220 by rma dge ba'i blo gros
 not_before	SA_T11_tattvasangru	675		author Śāntirakṣita fl. from 700
@@ -941,8 +878,6 @@ not_before	SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-ṭhikkarī-vaḍabhī-dhyānā
 not_after	SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-ṭhikkarī-vaḍabhī-dhyānāgāra	1400		Tibetan translation D3305 by Mañjuśrī, sa bzang ma ti paN chen blo gros rgyal mtshan/
 not_after	SA_T14_n1279u	1299		Tibetan translation D4316 by Dharmadhara
 not_after	SA_T14_n1282u	1299		Tibetan translation D4315 by Dharmadhara
-not_after	SA_T15_bsa060_u	1099		Tibetan translation D4332 by Vinayacandra, shel dkar lo tsA ba chos kyi shes rab/
-not_after	SA_T15_n1144u	1099		Tibetan translation D4335 by Dharmaśrībhadra, lo tsA ba shAkya blo gros/
 not_before	SA_T16_ilx_dsbc_svapnadhyaya_book_770	1075		author Vibhūticandra fl. from 1100
 not_after	SA_T16_ilx_dsbc_svapnadhyaya_book_770	1299		Tibetan translation D1749 by Vibhūticandra
 not_before	SA_T16_prasadapratu	175		author Mātṛceta fl. from 200
