@@ -2029,7 +2029,7 @@
   "title": "Bodhisattvabhūmi",
   "author": "Asaṅga",
   "genre": "Yogācāra",
-  "summary": "The Bodhisattvabhūmi constitutes the fifteenth and most influential section of the encyclopedic Yogācārabhūmi, composed in approximately the 4th century CE. It serves as an exhaustive manual of the Mahāyāna bodhisattva path, systematically treating spiritual lineage (gotra), the generation of the aspiration for awakening (bodhicitta), the perfections (pāramitās), ethics (śīla), and the stages of spiritual maturation (vihāras and bhūmis). Its fourth chapter, the Tattvārthapaṭala, forms a cornerstone of early Yogācāra philosophy, presenting a foundational analysis of the inexpressible nature of reality (nirabhilāpyasvabhāva) underlying linguistic and conceptual designations (prajñapti).",
+  "summary": "The Bodhisattvabhūmi constitutes the fifteenth section of the encyclopedic Yogācārabhūmi, composed in approximately the 4th century CE. It serves as an exhaustive manual of the Mahāyāna bodhisattva path, systematically treating spiritual lineage (gotra), the generation of the aspiration for awakening (bodhicitta), the perfections (pāramitās), ethics (śīla), and the stages of spiritual maturation (vihāras and bhūmis). Its fourth chapter, the Tattvārthapaṭala, forms a cornerstone of early Yogācāra philosophy, presenting a foundational analysis of the inexpressible nature of reality (nirabhilāpyasvabhāva) underlying linguistic and conceptual designations (prajñapti).",
   "attribution": "The Sanskrit manuscript tradition and the concluding colophon explicitly attribute the treatise to Ācārya Asaṅga ('kṛtir iyam ācāryāryāsaṅgapādānām'). In Tibetan and East Asian traditions, the Yogācārabhūmi corpus is revered either as transmitted to Asaṅga by the heavenly bodhisattva Maitreya or as compiled by Asaṅga himself.",
   "edition": "Nalinaksha Dutt (ed.), Bodhisattvabhūmi (Being the XVth Section of Asangapāda's Yogācārabhūmi), Tibetan Sanskrit Works Series, vol. 7, Patna: K. P. Jayaswal Research Institute, 1966.",
   "archive_url": "https://archive.org/details/in.ernet.dli.2015.351937/mode/2up",
@@ -2037,6 +2037,7 @@
   "translations": [
    "Artemus B. Engle, The Bodhisattva Path to Unsurpassed Enlightenment: A Complete Translation of the Bodhisattvabhūmi, Boulder: Snow Lion, 2016. (English)",
    "Janice Dean Willis, On Knowing Reality: The Tattvārtha Chapter of Asaṅga's Bodhisattvabhūmi, New York: Columbia University Press, 1979. (English)",
+   "Paul Demiéville, 'Le chapitre de la Bodhisattvabhūmi sur la Perfection du Dhyāna', Rocznik Orientalistyczny 21 (1957). (French)",
    "rnal 'byor spyod pa'i sa las byang chub sems dpa'i sa (Derge Tengyur D 4037): translated by Prajñāvarman, sna nam btsun pa ye shes sde (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_bsa034/text"
@@ -2077,14 +2078,14 @@
   "title": "Triṃśikāvijñaptikārikā with Triṃśikāvijñaptibhāṣya",
   "author": "Vasubandhu, Sthiramati",
   "genre": "Yogācāra",
-  "summary": "Vasubandhu's Triṃśikāvijñaptikārikā is a foundational work of Yogācāra philosophy outlining the three transformations of consciousness (ālayavijñāna, kliṣṭamanas, and pravṛttivijñāna), the three intrinsic natures (trisvabhāva), and the realization of cognition-only (vijñaptimātratā). Sthiramati's Triṃśikāvijñaptibhāṣya is a commentary on the text, expounding the nature of mental factors (caitta), metaphorical designation (upacāra) in establishing consciousness-only without external objects, and the soteriological progression toward fundamental transformation (āśrayaparāvṛtti).",
+  "summary": "Vasubandhu's Triṃśikāvijñaptikārikā ('Thirty Verses on Representation-Only') is a foundational work of Yogācāra/Vijñānavāda Buddhist philosophy outlining the three transformations of consciousness (ālayavijñāna, kliṣṭamanas, and pravṛttivijñāna), the three intrinsic natures (trisvabhāva), and the realization of cognition-only (vijñaptimātratā). Sthiramati's Triṃśikāvijñaptibhāṣya is the sole surviving Sanskrit commentary on the text preserved in the original language. It systematically expounds Yogācāra psychology, the nature of mental factors (caitta), the role of metaphorical designation (upacāra) in establishing consciousness-only without external objects, and the soteriological progression toward fundamental transformation (āśrayaparāvṛtti).",
   "attribution": "Vasubandhu composed the root verses (Triṃśikāvijñaptikārikā). Sthiramati composed the prose commentary (bhāṣya), as confirmed by the closing colophon ('triṃśikāvijñaptibhāṣyaṃ samāptam // kṛtir ācāryastiramateḥ //').",
-  "edition": "Hartmut Buescher (ed.), Sthiramati's Triṃśikāvijñaptibhāṣya: Critical Editions of the Sanskrit Text and its Tibetan Translation, Wien: Verlag der Österreichischen Akademie der Wissenschaften, 2007 (Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse, Sitzungsberichte, 786 [recte 768]; Beiträge zur Kultur- und Geistesgeschichte Asiens, 57).",
+  "edition": "Hartmut Buescher (ed.), Sthiramati's Triṃśikāvijñaptibhāṣya: Critical Editions of the Sanskrit Text and its Tibetan Translation, Wien: Verlag der Österreichischen Akademie der Wissenschaften, 2007 (Philosophisch-historische Klasse, Sitzungsberichte 768; Beiträge zur Kultur- und Geistesgeschichte Asiens 57).",
   "archive_url": "https://archive.org/details/buescher-sthiramatis-trimsikavijnaptibhasya-2007",
   "coverage": "complete — Complete text containing all 30 kārikās embedded with Sthiramati's full bhāṣya, ending with the final work colophon.",
   "translations": [
    "Hermann Jacobi, Triṃśikāvijñapti des Vasubandhu mit Bhāṣya des Ācārya Sthiramati, Stuttgart: W. Kohlhammer, 1932. (German)",
-   "Unrai Wogihara, 1927. (Japanese)",
+   "Unrai Wogihara (荻原雲来), 1927. (Japanese)",
    "sum cu pa'i bshad pa (Derge Tengyur D 4064): translated by Jinamitra, Śīlendrabodhi, sna nam btsun pa ye shes sde (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_sthtvbh/text"
@@ -10982,11 +10983,11 @@
   "title": "Bodhisattvaprātimokṣasūtra (part 1: ritual for taking the bodhisattva vows)",
   "author": "",
   "genre": "Vinaya",
-  "summary": "This is a short liturgical manual for conferring the threefold bodhisattva discipline: saṃvaraśīla, kuśaladharmasaṃgrāhakaśīla and sattvārthakriyāśīla. It covers the request to a qualified bodhisattva preceptor, confession, taking refuge, the threefold formal question and acceptance of the vows, and the sign that appears to the buddhas and bodhisattvas once the rite is complete. It ends with instructions for taking the vows by oneself before an image of the Tathāgata when no qualified preceptor is available. Much of the wording follows the vow ritual of the Śīlapaṭala of the Bodhisattvabhūmi.",
-  "attribution": "Part One draws on the vow ritual in the Bodhisattvabhūmi.",
-  "edition": "Nalinaksa Dutt, Bodhisattva-prātimokṣa-sūtram. Calcutta: Calcutta Oriental Press, 1931.",
+  "summary": "This is a liturgical manual for conferring the threefold bodhisattva discipline: saṃvaraśīla, kuśaladharmasaṃgrāhakaśīla and sattvārthakriyāśīla. It covers the request to a qualified bodhisattva preceptor, confession, taking refuge, the formal question and acceptance of the vows, and the sign appearing to buddhas and bodhisattvas. It concludes with instructions for self-ordination before a Tathāgata image when no preceptor is present.",
+  "attribution": "A high percentage of the first part of the Bodhisattvaprātimokṣasūtra edited by Dutt (1931) agrees almost literally with the Śīlapaṭala of the Bodhisattvabhūmi.",
+  "edition": "Nalinaksa Dutt (ed.), Bodhisattva-prātimokṣa-sūtram, Calcutta: Calcutta Oriental Press, 1931.",
   "archive_url": "",
-  "coverage": "partial — The e-text has only Part 1, corresponding to pp. 11–19 of N. Dutt's 1931 edition, running from 'om namaḥ sarvvabuddhabodhisattvebhyaḥ' to the self-ordination rite before a Tathāgata image ending with '... vijñaptiḥ // 0 //'.",
+  "coverage": "partial — The e-text corresponds to pp. 11–19 of the Calcutta Oriental Press printing edited by Nalinaksha Dutt, covering only the first part (the ritual for taking the bodhisattva vows).",
   "translations": [],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K01_bsu011_u/text"
  },
@@ -16779,11 +16780,11 @@
   "title": "Abhidharmasamuccayabhāṣya",
   "author": "Jinaputra",
   "genre": "Yogācāra",
-  "summary": "The Abhidharmasamuccayabhāṣya is a Yogācāra prose commentary on Asaṅga's Abhidharmasamuccaya. It provides analytical glosses on aggregates (skandha), sense bases, elements, and other categories of Buddhist doctrine. It is preserved in Sanskrit and in Tibetan translation (D 4053), where it is attributed to Jinaputra.",
-  "attribution": "Authorship is historically disputed. In the colophon, only the scribe/patron is recorded (likhāpitam idaṃ paṇḍitavaidyaśrī-amaracandreṇa). The Tibetan Tanjur (D 4053) attributes the Bhāṣya to Jinaputra (Rgyal-ba'i sras). Modern editions and scholarly literature also note attributions to Sthiramati (as in Tatia's edition / Chinese tradition T 1606).",
-  "edition": "N. Tatia (ed.), Abhidharmasamuccayabhāṣyam, Tibetan Sanskrit Works Series, 17, Patna: K.P. Jayaswal Research Institute, 1976.",
+  "summary": "The Abhidharmasamuccayabhāṣya is a Yogācāra prose commentary on Asaṅga's Abhidharmasamuccaya, traditionally ascribed in the Tibetan tradition to Jinaputra. It provides analytical glosses on aggregates (skandha), sense bases, elements, and other doctrinal categories.",
+  "attribution": "The Tibetan Tanjur (D 4053) attributes the Bhāṣya to Jinaputra (rgyal ba'i sras). The colophon of the Sanskrit text records the scribe/patron as paṇḍita-vaidya-śrī-Amaracandra.",
+  "edition": "Nathmal Tatia (ed.), Abhidharmasamuccayabhāṣyam, Tibetan Sanskrit Works Series, 17, Patna: K.P. Jayaswal Research Institute, 1976.",
   "archive_url": "",
-  "coverage": "complete — Complete text of the five samuccayas of the bhāṣya as published in Tatia's 1976 edition, concluding with the fifth chapter (Sāṃkathyaviniścaya) and the colophon.",
+  "coverage": "complete — Text of the five samuccayas of the bhāṣya concluding with the fifth chapter (Sāṃkathyaviniścaya) and the scribal colophon of Amaracandra.",
   "translations": [
    "chos mngon pa kun las btus pa'i bshad pa (Derge Tengyur D 4053): translated by Jinamitra, Śīlendrabodhi, sna nam btsun pa ye shes sde (Tibetan)"
   ],
@@ -16808,12 +16809,14 @@
   "title": "Śarīrārthagāthā",
   "author": "Asaṅga",
   "genre": "Yogācāra",
-  "summary": "The Śarīrārthagāthā is a collection of 41 canonical and paracanonical verse groups embedded in the Cintāmayībhūmi, part of the Yogācārabhūmi. The stanzas derive from Āgama texts and the Udānavarga, treating fundamental Buddhist themes such as mindfulness, vigilance, and liberation from craving. In the Yogācārabhūmi, these received early verses are systematically gathered to provide the basis for commentary.",
-  "attribution": "The verses are canonical and paracanonical stanzas anthologized in the Cintāmayībhūmi of the Yogācārabhūmi. The overarching Yogācārabhūmi is catalogued under and traditionally attributed to Asaṅga (or Maitreya).",
+  "summary": "The Śarīrārthagāthā ('Verses on the Essential Meaning' or 'Collected-Meaning Verses') is a collection of 41 canonical and paracanonical verse groups embedded in the Cintāmayībhūmi ('Ground of Reflection'), part of the Maulī Bhūmiḥ of the Yogācārabhūmi. The stanzas derive from Āgama texts (particularly the Saṃyuktāgama) and the Udānavarga, treating fundamental Buddhist themes such as mindfulness, vigilance, and liberation from craving. In the Yogācārabhūmi, these received early verses are systematically gathered to provide the basis for an extensive philosophical and meditative commentary in accordance with Yogācāra doctrine.",
+  "attribution": "The verses are canonical and paracanonical stanzas anthologized in the Cintāmayībhūmi of the Yogācārabhūmi. The compilation of the overarching Yogācārabhūmi-śāstra is traditionally attributed to Asaṅga (or to Maitreya transmitted to Asaṅga), while modern scholarship regards the text as a composite layered compilation (c. 3rd–4th centuries CE).",
   "edition": "Fumio Enomoto, 'Śarīrārthagāthā, A Collection of Canonical Verses in the Yogācārabhūmi, Part 1: Text', in Sanskrit-Texte aus dem buddhistischen Kanon: Neuentdeckungen und Neueditionen[, Erste Folge], ed. Heinz Bechert, Göttingen: Vandenhoeck & Ruprecht, 1989 (Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden, Beiheft 2), pp. 17–35.",
   "archive_url": "",
-  "coverage": "complete — Complete for the verse text of the anthology (Śag 1.1–41.1) as critically edited by Fumio Enomoto; does not contain the prose commentary found in the Cintāmayībhūmi.",
-  "translations": [],
+  "coverage": "complete — Complete for the verse text of the anthology (all 41 verse sets, Śag 1.1–41.1) as critically edited by Fumio Enomoto; does not contain the prose commentary (vyākhyāna) found in the Cintāmayībhūmi.",
+  "translations": [
+   "Hsu-Feng Lee, 'A Study of the Śarīrārthagāthā in the Yogācārabhūmi', PhD dissertation, University of Sydney. (English)"
+  ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_asycsaru/text"
  },
  "SA_T06_bsa010_u": {
@@ -16937,13 +16940,14 @@
   "title": "Yogācārabhūmi (chapters 1–5)",
   "author": "Asaṅga",
   "genre": "Yogācāra",
-  "summary": "The Yogācārabhūmi is the fundamental compendium of the Yogācāra school of Indian Mahāyāna Buddhism. This digital text comprises the first five bhūmis of the seventeen stages in the basic section: the stage connected with the five sensory consciousnesses (Pañcavijñānakāyasamprayuktā bhūmiḥ), the stage of mental consciousness (Manobhūmiḥ), and the three stages defined by the presence or absence of coarse discursive thinking and subtle investigation (Savitarkā savicārā, Avitarkā vicāramātrā, and Avitarkāvicārā bhūmayaḥ).",
-  "attribution": "Indo-Tibetan tradition attributes the text to Asaṅga, while East Asian tradition regards it as spoken by Maitreya. Modern scholarship analyzes the Yogācārabhūmi as a scholastic compilation.",
-  "edition": "Vidhushekhara Bhattacharya (ed.), The Yogācārabhūmi of Ācārya Asaṅga, Part I, University of Calcutta, 1957.",
+  "summary": "The Yogācārabhūmi is the fundamental compendium of the Yogācāra school of Indian Mahāyāna Buddhism. This digital text comprises the first five bhūmis of the seventeen stages in the basic section (Maulībhūmi): the stage connected with the five sensory consciousnesses (Pañcavijñānakāyasamprayuktā bhūmiḥ), the stage of mental consciousness (Manobhūmiḥ), and the three stages defined by discursive thinking and investigation (Savitarkā savicārā, Avitarkā vicāramātrā, and Avitarkāvicārā bhūmayaḥ).",
+  "attribution": "Indo-Tibetan tradition attributes the text to Asaṅga, while East Asian tradition regards it as revealed by Maitreya. Modern scholarship regards it as a compilation of heterogeneous materials.",
+  "edition": "The Yogācārabhūmi of Ācārya Asaṅga, Part I, ed. Vidhushekhara Bhattacharya, University of Calcutta, 1957.",
   "archive_url": "https://archive.org/details/in.ernet.dli.2015.553942",
-  "coverage": "partial — Contains the introductory uddāna and the first five bhūmis (stages 1–5) of the seventeen divisions of the Maulībhūmi (Basic Section): (1) Pañcavijñānakāyasamprayuktā bhūmiḥ, (2) Manobhūmiḥ, and (3–5) Savitarkā savicārā, Avitarkā vicāramātrā, and Avitarkāvicārā bhūmayaḥ. The remaining twelve bhūmis (including the Śrāvakabhūmi and Bodhisattvabhūmi) and the supplementary Saṃgrahaṇī divisions are not included.",
+  "coverage": "partial — Contains the introductory uddāna and the first five bhūmis of the Maulībhūmi (Basic Section): (1) Pañcavijñānakāyasamprayuktā bhūmiḥ, (2) Manobhūmiḥ, and (3–5) Savitarkā savicārā, Avitarkā vicāramātrā, and Avitarkāvicārā bhūmayaḥ.",
   "translations": [
-   "Xuanzang (玄奘, tr.), 瑜伽師地論, Taishō Shinshū Daizōkyō no. 1579, 646–648 CE. (Chinese)",
+   "Kazumune Harada, '『瑜伽師地論』「有尋有伺等三地」の縁起説―テキストと和訳―' [The Pratītyasamutpāda Doctrine in the Savitarkādi-bhūmitraya of the Yogācārabhūmi: Text and Japanese Translation], Kyūshū Ryūkoku Tanki Daigaku Kiyō 50, 2004. (Japanese)",
+   "Xuanzang (玄奘, tr.), 瑜伽師地論 (Yúqié shīdì lùn), Taishō Shinshū Daizōkyō no. 1579, completed 648 CE. (Chinese)",
    "rnal 'byor spyod pa'i sa (Derge Tengyur D 4035) (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_n1394u/text"
@@ -16969,26 +16973,29 @@
   "title": "Śrāvakabhūmi (Laukikamārga section)",
   "author": "Asaṅga",
   "genre": "Yogācāra",
-  "summary": "The Laukikamārga ('Mundane Path') section forms part of the Śrāvakabhūmi. It provides an extensive canonical description of worldly meditation practice, detailing how a meditator cultivates seven progressive mental orientations (manaskāra) to achieve detachment from the sensual realm (kāmavairāgya) and enter the meditative absorptions (dhyāna) and formless realms. Unlike the supramundane path (lokottaramārga), the mundane path suppresses worldly passions through progressive mental refinement.",
-  "attribution": "Traditionally attributed to Asaṅga (or Maitreya in Chinese tradition T1579).",
+  "summary": "The Laukikamārga ('Mundane Path') section forms part of the fourth Yogasthāna of the Śrāvakabhūmi, the thirteenth section of the encyclopedic Yogācārabhūmi corpus. It provides an extensive canonical description of worldly meditation practice, detailing how a meditator cultivates seven progressive mental orientations (manaskāra) to achieve detachment from the sensual realm (kāmavairāgya) and enter the four meditative absorptions (dhyāna) and four formless realms (ārūpyasamāpatti). Unlike the supramundane path (lokottaramārga) that eradicates defilements through direct insight into reality, the mundane path suppresses worldly passions through progressive mental refinement.",
+  "attribution": "Traditionally attributed to Asaṅga (or Maitreya in the East Asian tradition, T1579).",
   "edition": "Florin Deleanu (ed.), The Chapter on the Mundane Path (Laukikamārga) in the Śrāvakabhūmi: A Trilingual Edition (Sanskrit, Tibetan, Chinese), Annotated Translation, and Introductory Study, 2 vols., Studia Philologica Buddhica Monograph Series XX, Tokyo: The International Institute for Buddhist Studies, 2006.",
   "archive_url": "",
-  "coverage": "partial — Contains the complete Laukikamārga section of the Śrāvakabhūmi (pp. 318–355 in Deleanu 2006).",
-  "translations": [],
+  "coverage": "partial — Contains the Laukikamārga section of the fourth Yogasthāna of the Śrāvakabhūmi (corresponding to Shukla 1973, pp. 437–470 / Deleanu 2006, pp. 318–354).",
+  "translations": [
+   "Florin Deleanu, The Chapter on the Mundane Path (Laukikamārga) in the Śrāvakabhūmi: A Trilingual Edition (Sanskrit, Tibetan, Chinese), Annotated Translation, and Introductory Study, Studia Philologica Buddhica Monograph Series XX, Tokyo: The International Institute for Buddhist Studies, 2006. (English)",
+   "The Śrāvakabhūmi Study Group, Śrāvakabhūmi: Revised Sanskrit Text and Japanese Translation, Tokyo: The Sankibo Press, 1998, 2007. (Japanese)"
+  ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_ybh-laukikamarga/text"
  },
  "SA_T06_sambhu": {
   "title": "Yogācārabhūmi (Samāhitābhūmi)",
   "author": "Asaṅga",
   "genre": "Yogācāra",
-  "summary": "The Samāhitābhūmi constitutes a chapter of the Yogācārabhūmi, dealing with meditation states including the four dhyānas, eight liberations (vimokṣa), samādhi, and samāpatti, along with manaskāra and nimitta.",
-  "attribution": "Attributed to Asaṅga (Thogs-med) in the Tibetan tradition (D 4035) and to Maitreya Bodhisattva (彌勒菩薩) in the Chinese tradition (T 1579).",
-  "edition": "Martin Delhey (ed.), Samāhitā Bhūmiḥ: Das Kapitel über die meditative Versenkung im Grundteil der Yogācārabhūmi, Wiener Studien zur Tibetologie und Buddhismuskunde 73, Vienna: Arbeitskreis für Tibetische und Buddhistische Studien, 2009.",
+  "summary": "The Samāhitābhūmi constitutes the sixth chapter of the Yogācārabhūmi (MS folios 63a6–82b6). It systematically treats topics of Buddhist meditation, including the four dhyānas, eight liberations (vimokṣa), samādhi, and meditative attainments (samāpatti), mental engagement (manaskāra), and meditative signs (nimitta).",
+  "attribution": "Attributed to Thogs med (Asaṅga) in the Tibetan tradition (D 4035) and spoken by Maitreya Bodhisattva (彌勒菩薩說) in the Chinese translation (T 1579).",
+  "edition": "Martin Delhey (ed.), Samāhitā Bhūmiḥ: Das Kapitel über die meditative Versenkung im Grundteil der Yogācārabhūmi, Wiener Studien zur Tibetologie und Buddhismuskunde 73, Wien: Arbeitskreis für Tibetische und Buddhistische Studien, Universität Wien, 2009.",
   "archive_url": "",
-  "coverage": "partial — Complete text of the Samāhitā Bhūmi chapter, ending with the colophon: 'yogācārabhūmau samāhitā bhūmiḥ samāptā' (H 63a6–82b6).",
+  "coverage": "partial — Complete text of the Samāhitā Bhūmi (bhūmi 6 of the Yogācārabhūmi), running from folio 63a6 to 82b6 and concluding: 'yogācārabhūmau samāhitā bhūmiḥ samāptā'.",
   "translations": [
-   "Xuanzang (玄奘, transl.), Yujiashi dilun (瑜伽師地論), Taishō Shinshū Daizōkyō no. 1579 (translated 646–648 CE). (Chinese)",
-   "Martin Delhey, Samāhitā Bhūmih. Das Kapitel über die meditative Versenkung im Grundteil der Yogācārabhūmi, PhD dissertation, Hamburg 2002. (German)",
+   "Xuanzang (玄奘, transl.), Yujiashi dilun (瑜伽師地論), Taishō Shinshū Daizōkyō no. 1579, 646–648 CE. (Chinese)",
+   "Martin Delhey, Samāhitā Bhūmiḥ (Wiener Studien zur Tibetologie und Buddhismuskunde 73, 2009) / PhD dissertation 2002 (German translation of the beginning and several passages). (German)",
    "rnal 'byor spyod pa'i sa (Derge Tengyur D 4035) (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_sambhu/text"
@@ -16997,14 +17004,14 @@
   "title": "Śrāvakabhūmi (chapters 1–2, with Asamāhitābhūmi, Śrutamayībhūmi, and Cintāmayībhūmi)",
   "author": "",
   "genre": "Yogācāra",
-  "summary": "The Śrāvakabhūmi ('Stage of the Disciple') is the thirteenth and second-largest treatise within the Maulī Bhūmi (Basic Section) of the Yogācārabhūmi corpus, serving as an encyclopedic meditation manual structured across four yogasthānas. This e-text contains Yogasthānas 1 and 2, which systematically treat the spiritual requisites of practice, the classification of disciples, qualified spiritual masters, ālambana (meditative objects), and initial tranquilization and insight. In addition, the file incorporates three other independent bhūmis from the Yogācārabhūmi edited as appendices in the 2007 Taisho publication: the Asamāhitā bhūmi (unconcentrated state), the Śrutamayī bhūmi (stage arisen from hearing), and the Cintāmayī bhūmi (stage arisen from reflection, concluding with the Ābhiprāyikārthagāthānirdeśa).",
-  "attribution": "Traditionally attributed in the Tibetan canon (D 4036) to Thogs med (Asaṅga), translated by Jinamitra and Ye shes sde; and in the Chinese Buddhist tradition (T 1579) to Maitreya (彌勒菩薩), translated by Xuanzang (玄奘). Modern scholarship (such as Florin Deleanu) examines its independent textual layers.",
-  "edition": "Śrāvakabhūmi Study Group (The Institute for Comprehensive Studies of Buddhism, Taisho University), ed., (1) Srāvakabhūmi, The First Chapter, Revised Sanskrit Text and Japanese Translation, Tokyo 1998 (Taisho University Sogo Bukkyo Kenyujo, 4); and (2) Śrāvakabhūmi, The Second Chapter with Asamāhitā bhūmiḥ, Śrutamayī bhūmiḥ, Cintāmayī bhūmiḥ, Revised Sanskrit Text and Japanese Translation, Tokyo 2007 (Taisho Daigaku Sogobukkyo Kenyujo, 18).",
+  "summary": "The Śrāvakabhūmi ('Stage of the Disciple') is a major treatise within the Maulī Bhūmi of the Yogācārabhūmi corpus, structured across four yogasthānas. This e-text contains Yogasthānas 1 and 2, which systematically treat the spiritual requisites of practice, the classification of disciples, qualified spiritual masters, ālambana (meditative objects), and initial tranquilization and insight. In addition, the file incorporates three other independent bhūmis from the Yogācārabhūmi edited as appendices in the 2007 Taisho publication: the Asamāhitā bhūmi, the Śrutamayī bhūmi, and the Cintāmayī bhūmi (concluding with the Ābhiprāyikārthagāthānirdeśa).",
+  "attribution": "Traditionally attributed in the Tibetan canon (Toh 4036) to Asaṅga (Thogs-med, translated by Jinamitra and Ye-shes sde) and in the Chinese tradition (T 1579) to Maitreya (translated by Xuanzang).",
+  "edition": "Śrāvakabhūmi Study Group (The Institute for Comprehensive Studies of Buddhism, Taisho University), ed., (1) Srāvakabhūmi, The First Chapter, Revised Sanskrit Text and Japanese Translation, Tokyo: The Sankibo Press, 1998 (Taisho University Sogo Bukkyo Kenyujo, 4); and (2) Śrāvakabhūmi, The Second Chapter with Asamāhitā bhūmiḥ, Śrutamayī bhūmiḥ, Cintāmayī bhūmiḥ, Revised Sanskrit Text and Japanese Translation, Tokyo: The Sankibo Press, 2007 (Taisho Daigaku Sogobukkyo Kenyujo, 18).",
   "archive_url": "https://archive.org/details/Sravakabhumi",
-  "coverage": "partial — The file contains Yogasthānas 1 and 2 (chapters 1–2) of the Śrāvakabhūmi, omitting Yogasthānas 3 and 4. In addition, it incorporates three other independent sections of the Maulī Bhūmi (the Basic Section of the Yogācārabhūmi) published as appendices in the 2007 Taisho volume: Asamāhitā bhūmi, Śrutamayī bhūmi, and Cintāmayī bhūmi (ending with the Ābhiprāyikārthagāthānirdeśa).",
+  "coverage": "partial — The file contains Yogasthānas 1 and 2 (chapters 1–2) of the Śrāvakabhūmi, omitting Yogasthānas 3 and 4. In addition, it incorporates three other independent sections of the Maulī Bhūmi published as appendices in the 2007 Taisho volume: Asamāhitā bhūmi, Śrutamayī bhūmi, and Cintāmayī bhūmi (concluding with the Ābhiprāyikārthagāthānirdeśa).",
   "translations": [
-   "Śrāvakabhūmi Study Group, trans., in Srāvakabhūmi, The First Chapter, Revised Sanskrit Text and Japanese Translation (1998) and Śrāvakabhūmi, The Second Chapter... (2007). (Japanese)",
-   "Deleanu, Florin, trans., The Chapter on the Mundane Path (Laukikamārga) in the Śrāvakabhūmi: A Trilingual Edition (Sanskrit, Tibetan, Chinese), Annotated Translation, and Introductory Study, Tokyo: The International Institute for Buddhist Studies, 2006. (English)",
+   "Śrāvakabhūmi Study Group, trans., in Srāvakabhūmi, The First Chapter, Revised Sanskrit Text and Japanese Translation (1998) and Śrāvakabhūmi, The Second Chapter with Asamāhitā bhūmiḥ, Śrutamayī bhūmiḥ, Cintāmayī bhūmiḥ, Revised Sanskrit Text and Japanese Translation (2007), Tokyo. (Japanese)",
+   "Deleanu, Florin, trans., The Chapter on the Mundane Path (Laukikamārga) in the Śrāvakabhūmi, Tokyo: The International Institute for Buddhist Studies, 2006. (English)",
    "rnal 'byor spyod pa'i sa las nyan thos kyi sa (Derge Tengyur D 4036): translated by Jinamitra, sna nam btsun pa ye shes sde (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_srabhu_u/text"
@@ -17013,12 +17020,14 @@
   "title": "Śrāvakabhūmi",
   "author": "Asaṅga",
   "genre": "Yogācāra",
-  "summary": "The Śrāvakabhūmi ('Stage of the Disciple') is the thirteenth section of the Maulī Bhūmi (basic section) of the Yogācārabhūmi corpus, constituting an extensive and systematic manual of Buddhist meditation and spiritual development. Structured into four yogasthānas (stages of spiritual practice), it treats the prerequisites for monastic life, spiritual disposition (gotra), initial entry into practice (avatāra), and the dual cultivation of calm abiding (śamatha) and insight (vipaśyanā) culminating in liberation. Although preserved as part of the Yogācāra canon, it systematically articulates classical Mainstream (Śrāvakayāna) praxis and doctrine.",
-  "attribution": "Attributed to Asaṅga in Shukla's edition; East Asian tradition attributes the overarching Yogācārabhūmi to Maitreya Bodhisattva.",
-  "edition": "Karunesha Shukla (ed.), Śrāvakabhūmi of Ācārya Asaṅga, Patna: K.P. Jayaswal Research Institute, 1973 (Tibetan Sanskrit Works Series, 14 and 28).",
+  "summary": "The Śrāvakabhūmi ('Stage of the Disciple') is a section of the Yogācārabhūmi corpus, constituting an extensive and systematic manual of Buddhist meditation and spiritual development. Structured into four yogasthānas (stages of spiritual practice), it treats the prerequisites for monastic life, spiritual disposition (gotra), initial entry into practice (avatāra), and the dual cultivation of calm abiding (śamatha) and insight (vipaśyanā) culminating in liberation. Although preserved as part of the Yogācāra canon, it systematically articulates classical Mainstream (Śrāvakayāna) praxis and doctrine.",
+  "attribution": "Attributed to Asaṅga in the Tibetan tradition and printed by Shukla under his name; East Asian tradition attributes the overarching Yogācārabhūmi to Maitreya Bodhisattva. Modern historical-philological research (e.g. Lambert Schmithausen, Florin Deleanu) identifies the Śrāvakabhūmi as one of the earliest textual strata of the Yogācārabhūmi, likely circulating initially as an independent manual of Śrāvakayāna praxis before being incorporated into the encyclopedic treatise.",
+  "edition": "Karunesha Shukla (ed.), Śrāvakabhūmi of Ācārya Asaṅga, Tibetan Sanskrit Works Series 14 and 28, Patna: K.P. Jayaswal Research Institute, 1973.",
   "archive_url": "https://archive.org/details/Sravakabhumi",
   "coverage": "complete — Contains the complete text of all four yogasthānas as published in Shukla's 1973 edition (pp. 5–511), ending with the colophon '// śrāvakabhūmau caturthaṃ yogasthānam // samāptā śrāvakabhūmiḥ //'.",
   "translations": [
+   "Śrāvakabhūmi Study Group, Śrāvakabhūmi: Revised Sanskrit Text and Japanese Translation, 1998, 2007. (Japanese)",
+   "Florin Deleanu, The Chapter on the Mundane Path (Laukikamārga) in the Śrāvakabhūmi: A Trilingual Edition (Sanskrit, Tibetan, Chinese), Annotated Translation, and Introductory Study, Tokyo: The International Institute for Buddhist Studies, 2006. (English)",
    "rnal 'byor spyod pa'i sa las nyan thos kyi sa (Derge Tengyur D 4036): translated by Jinamitra, sna nam btsun pa ye shes sde (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_srabhusu/text"
@@ -23613,12 +23622,14 @@
   "title": "Yogācārabhūmi (Kleśasaṃkleśa)",
   "author": "Asaṅga",
   "genre": "Yogācāra",
-  "summary": "This excerpt from the Yogācārabhūmi presents the classical Yogācāra analysis of defilements (kleśasaṃkleśa). It defines the intrinsic nature (svabhāva) of kleśa, details its division from 1-fold up to 128 varieties (mapped against the Four Noble Truths across the three realms of existence), and analyzes cognitive distortions (viparyāsa), latent dispositions (anuśaya), and karmic consequences (ādīnava).",
+  "summary": "This excerpt from the Savitarkāsavicārā-bhūmi section of the Yogācārabhūmi presents the classical Yogācāra analysis of defilements (kleśasaṃkleśa). It defines the intrinsic nature (svabhāva) of kleśa, details its division from 1-fold up to 128 varieties (mapped against the Four Noble Truths across the three realms of existence), and analyzes cognitive distortions (viparyāsa), latent dispositions (anuśaya), and karmic consequences (ādīnava).",
   "attribution": "Traditional attribution to Asaṅga.",
   "edition": "Sung Doo Ahn (ed.), Die Lehre von den Kleśas in der Yogācārabhūmi, Alt- und Neu-Indische Studien 55, Stuttgart: Franz Steiner Verlag, 2003.",
   "archive_url": "",
-  "coverage": "excerpt — Excerpts the Kleśasaṃkleśa subsection from the Yogācārabhūmi, matching pp. 58–86 of Ahn's 2003 edition.",
-  "translations": [],
+  "coverage": "excerpt — Excerpts the Kleśasaṃkleśa subsection from the Savitarkādi-bhūmi of the Yogācārabhūmi, matching Ahn's 2003 critical edition.",
+  "translations": [
+   "Sung Doo Ahn, Die Lehre von den Kleśas in der Yogācārabhūmi, Stuttgart: Franz Steiner Verlag, 2003, pp. 158–214. (German)"
+  ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_-ybh-klesa/text"
  },
  "SA_T06_bsa023_u": {
@@ -41031,12 +41042,14 @@
   "title": "Bodhisattvasaṃvaraviṃśikā (Sanskrit testimonia and Tibetan)",
   "author": "Candragomin",
   "genre": "Stotra",
-  "summary": "A work by Candragomin outlining the bodhisattva vows (saṃvara). This e-text compiles the extant Sanskrit verses available in testimonia alongside the Tibetan translation (D4081).",
-  "attribution": "Ascribed to Candragomin.",
-  "edition": "Kano, Li, Ye 2015; Tibetan: D4081 (see ed. Fujita)",
+  "summary": "The Bodhisattvasaṃvaraviṃśikā by Candragomin is a versified summary of the bodhisattva ordination and precepts based on the Śīlapaṭala of the Bodhisattvabhūmi. This e-text compiles extant Sanskrit citations identified in testimonia (Kano, Li, Ye 2015) and fills the remaining text using the Tibetan translation (D4081).",
+  "attribution": "Ascribed to Candragomin, based on the Bodhisattvabhūmi of the Yogācārabhūmi.",
+  "edition": "Kano, Li, Ye 2015; Tibetan: D4081 (see ed. Fujita).",
   "archive_url": "",
-  "coverage": "partial — Preserves verses in Sanskrit testimonia along with canonical Tibetan text (D4081).",
+  "coverage": "partial — Complete across all 20 verses in terms of overall textual progression, but bilingual and incomplete in Sanskrit: verses 1–8 are preserved in Sanskrit citations; verses 9, 11, and 20 have partial Sanskrit phrases; verses 10 and 12–19, as well as the gaps in 9, 11, and 20, are supplied from the Tibetan translation (Derge Tanjur D4081).",
   "translations": [
+   "Tatz 1982. (English)",
+   "Tatz (1978, 1983, 1985). (English)",
    "byang chub sems dpa'i sdom pa nyi shu pa (Derge Tengyur D 4081) (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T01_Candragomin_Bodhisattvasaṃvaraviṃśikā-Skt-verses-available-in-testimonia-thus-far_Li_2015/text"
