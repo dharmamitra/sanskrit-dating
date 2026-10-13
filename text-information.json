@@ -1617,20 +1617,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K10_bsu025_u/text"
  },
- "SA_K10_bsu031": {
-  "title": "Śālistambasūtra",
-  "author": "",
-  "genre": "Sūtra",
-  "summary": "The Śālistambasūtra ('Rice Seedling Sūtra') is a foundational Mahāyāna sūtra on the doctrine of dependent origination (pratītyasamutpāda). Prompted by the Buddha's concise statement that whoever sees dependent origination sees the Dharma and whoever sees the Dharma sees the Buddha, the Bodhisattva Maitreya expounds the teaching to Śāriputra using the analogy of a rice seedling sprouting and developing from a seed. The discourse distinguishes between external causality (the physical conditions governing plant growth) and internal causality (the twelvefold chain of psychic and karmic conditioning), demonstrating that all conditioned phenomena arise devoid of an independent agent, soul (ātman), or essence. Copiously cited by Madhyamaka authors such as Nāgārjuna, Candrakīrti, and Kamalaśīla, it served as one of the primary scriptural foundations for early Mahāyāna causal theory.",
-  "attribution": "Canonical Mahāyāna sūtra set on Gṛdhrakūṭa in Rājagṛha, where the Bodhisattva Maitreya expounds the Buddha's brief utterance on dependent origination to the elder Śāriputra.",
-  "edition": "P.L. Vaidya in: Mahayana-sutra-samgrahah, Part 1. Darbhanga: The Mithila Institute 1961 (Buddhist Sanskrit Texts, 17)",
-  "archive_url": "https://archive.org/details/lgmi_mahayana-sutra-samgraha-part-i-edited-by-p-l-vaidya-sanskrit-english-buddhism-ma",
-  "coverage": "complete — Complete text of the sūtra as printed in Vaidya (1961), pp. 100–106 (reprinting N. Aiyaswami Sastri's 1950 Sanskrit reconstruction).",
-  "translations": [
-   "'phags pa sA lu'i ljang ba zhes bya ba theg pa chen po'i mdo (Derge Kangyur D 210) (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K10_bsu031/text"
- },
  "SA_K10_bsu034_u": {
   "title": "Samādhirājasūtra",
   "author": "",
@@ -1664,24 +1650,6 @@
    "dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo (Derge Kangyur D 113): translated by Jinamitra, Surendrabodhi, sna nam btsun pa ye shes sde (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K10_bsu036_u/text"
- },
- "SA_K10_bsu061_u": {
-  "title": "Vimalakīrtinirdeśasūtra",
-  "author": "",
-  "genre": "Sūtra",
-  "summary": "The Vimalakīrtinirdeśasūtra is a renowned Mahāyāna scripture set in Vaiśālī that centers on the enlightened householder bodhisattva Vimalakīrti, who feigns illness to create an occasion to teach visiting śrāvakas, bodhisattvas, and celestial beings. Over twelve chapters, the text articulates core Mahāyāna themes including the purification of the Buddha realm (buddhakṣetrapariśuddhi), the exercise of skillful means (upāyakauśalya), the inconceivable liberation (acintyavimokṣa), and the realization of non-duality (advayadharmamukha), memorably epitomized by Vimalakīrti's eloquent silence. Notably, this particular e-text contains the modern Sanskrit reconstruction prepared from the Tibetan translation by L.M. Joshi and Bhikshu Pāsādika in 1981, prior to the recovery of the original Sanskrit palm-leaf manuscript in Lhasa.",
-  "attribution": "Canonical Mahāyāna sūtra traditionally attributed to the Buddha and framed around the dialogues of the householder bodhisattva Vimalakīrti. This specific e-text represents a modern scholarly reconstruction into Sanskrit from the classical Tibetan translation.",
-  "edition": "Lal Mani Joshi and Bhikshu Pāsādika (eds.), Vimalakīrtinirdeśasūtram: Tibetan Version, Sanskrit Restoration and Hindi Translation, Sarnath, Varanasi: Central Institute of Higher Tibetan Studies, 1981.",
-  "archive_url": "https://archive.org/details/in.ernet.dli.2015.345763",
-  "coverage": "complete — Complete text of the 12-chapter reconstructed sūtra, closing at parivarta 12: 'pūrvayogasya saddharmaparīnandanāyāśca parivarto nāma dvādaśaḥ / vimalakīrtinirdeśo nāma mahāyānasūtraṃ samāptam'.",
-  "translations": [
-   "Étienne Lamotte, L'Enseignement de Vimalakīrti (Vimalakīrtinirdeśa), 1962 (English trans. by Sara Boin, The Teaching of Vimalakīrti, Sacred Books of the Buddhists 32, London: Pali Text Society, 1976). (French / English)",
-   "Robert A. F. Thurman, The Holy Teaching of Vimalakīrti: A Mahāyāna Scripture, University Park: Pennsylvania State University Press, 1976. (English)",
-   "John R. McRae, The Vimalakīrti Sūtra, 2004. (English)",
-   "Burton Watson, The Vimalakirti Sutra, 1997. (English)",
-   "phags pa dri ma med par grags pas bstan pa zhes bya ba theg pa chen po'i mdo (Derge Kangyur D 176): translated by dharma tA shI la (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K10_bsu061_u/text"
  },
  "SA_K10_jnalokau": {
   "title": "Sarvabuddhaviṣayāvatārajñānālokālaṃkārasūtra",
@@ -2042,23 +2010,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_bsa034/text"
  },
- "SA_T06_bsa065": {
-  "title": "Pañcaskandhaprakaraṇa",
-  "author": "Vasubandhu",
-  "genre": "Yogācāra",
-  "summary": "The Pañcaskandhaprakaraṇa (or Pañcaskandhaka) is an Abhidharma work composed by Vasubandhu that presents a systematic categorization of phenomena under the aggregates (skandhas), sense fields (āyatanas), and elements (dhātus), treating mind-basis-of-all (ālayavijñāna), afflicted mind, and mental factors. This electronic text is the 1955 Sanskrit reconstruction from Tibetan by Shanti Bhikshu Shastri.",
-  "attribution": "Root text authored by Vasubandhu. Note that this specific electronic text represents a modern Sanskrit retro-translation/reconstruction from the Tibetan translation made by Shanti Bhikshu Shastri in 1955. An edition of the Sanskrit Pañcaskandhaka was published by Li Xuezhu and Ernst Steinkellner in 2008.",
-  "edition": "Shantibhiksu Shastri: Pañcaskandhaprakaraṇam. In: Journal of Sampurnanda Sanskrit University, 1955.",
-  "archive_url": "",
-  "coverage": "complete — Complete Sanskrit retro-translation from Tibetan in three adhikāras, arranged into 167 numbered prose sections, concluding with Shastri's two-verse Sanskrit reconstruction colophon.",
-  "translations": [
-   "Stefan Anacker, Seven Works of Vasubandhu: The Buddhist Psychological Doctor (Delhi: Motilal Banarsidass, 1984). (English)",
-   "Artemus B. Engle, The Inner Science of Buddhist Practice: Vasubandhu's Summary of the Five Heaps with Commentary by Sthiramati (Ithaca, NY: Snow Lion Publications, 2009). (English)",
-   "Jean Dantinne, Le traité des cinq agrégats (Pañcaskandhaprakaraṇa de Vasubandhu) (Bruxelles: Institut Belge des Hautes Études Bouddhiques, 1980). (French)",
-   "phung po lnga'i rab tu byed pa (Derge Tengyur D 4059): translated by Jinamitra, Śīlendrabodhi, Dānaśīla, sna nam btsun pa ye shes sde (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_bsa065/text"
- },
  "SA_T06_pskvbhu": {
   "title": "Pañcaskandhakavibhāṣā",
   "author": "Sthiramati",
@@ -2140,20 +2091,6 @@
    "dbus dang mtha' rnam par 'byed pa'i 'grel pa (Derge Tengyur D 4027): translated by Jinamitra, Śīlendrabodhi, sna nam btsun pa ye shes sde (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_vmvkbh_u/text"
- },
- "SA_T07_hvsatssu": {
-  "title": "Satyasiddhiśāstra",
-  "author": "Harivarman",
-  "genre": "Abhidharma",
-  "summary": "The Satyasiddhiśāstra (also reconstructed as Tattvasiddhiśāstra; Chinese: Chengshi lun) is an extensive Buddhist scholastic treatise by Harivarman (c. 3rd–4th century CE), reflecting Bahuśrutīya and Dārṣṭāntika/Sautrāntika doctrines. Organized around an introductory section and the Four Noble Truths, it defends a two-truth framework affirming the emptiness (śūnyatā) of both persons and dharmas, and expounds the progressive dismantling of provisional, phenomenal, and ultimate conceptual constructs. While lost in India, Kumārajīva's Chinese translation formed the foundational text of the Chinese Chengshi (Japanese Jōjitsu) school.",
-  "attribution": "Authored in Sanskrit by Harivarman (c. 3rd–4th century CE). The original Sanskrit text was lost in India, surviving intact only in Kumārajīva's Chinese translation (T 1646, 成實論 Chengshi lun, 406–412 CE). This Sanskrit e-text represents the modern retroversion/reconstruction from Chinese into Sanskrit by N. Aiyaswami Sastri.",
-  "edition": "N. Aiyaswami Sastri: Harivarman: Satyasiddhisastra, Vol. I, Baroda: Oriental Institute, 1975. (Gaekwad's Oriental Series, 159)",
-  "archive_url": "",
-  "coverage": "complete — Complete Sanskrit reconstruction across five skandhas (prasthānaskandha, duḥkhasatyaskandha, samudayasatyaskandha, nirodhasatyaskandha, and mārgasatyaskandha), corresponding to Vol. I of N. Aiyaswami Sastri's edition.",
-  "translations": [
-   "N. Aiyaswami Sastri (tr.), Satyasiddhiśāstra of Harivarman, Vol. II: English Translation, Baroda: Oriental Institute, 1978. (English)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T07_hvsatssu/text"
  },
  "SA_T06_sthmavtyg": {
   "title": "Madhyāntavibhāgaṭīkā",
@@ -11671,21 +11608,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K05_bsu049_u/text"
  },
- "SA_K05_dsp1-2_u": {
-  "title": "Daśasāhasrikā Prajñāpāramitā (chapters 1–2)",
-  "author": "",
-  "genre": "Aṣṭadaśasāhasrikā Prajñāpāramitā",
-  "summary": "The Daśasāhasrikā Prajñāpāramitā ('Perfection of Wisdom in Ten Thousand Lines') is an intermediate recension belonging to the Large Prajñāpāramitā class of Mahāyāna sūtras, extant fully in Tibetan (Toh 11). This electronic text contains Chapters 1 and 2 (Nidānaparivarta and Sarvadharmaparivarta) as retroverted into Sanskrit from the Tibetan translation by Sten Konow in 1941. These opening chapters depict the setting on Vulture Peak and provide an extensive, systematic exposition of the non-substantiality and emptiness (śūnyatā) of all conditioned and unconditioned dharmas.",
-  "attribution": "Canonical Mahāyāna scripture belonging to the Prajñāpāramitā ('Perfection of Wisdom') corpus; the Sanskrit text in this e-text represents a modern reconstruction (retroversion) by Sten Konow based on the Tibetan Kangyur text and parallel Sanskrit sūtras.",
-  "edition": "Sten Konow, The Two First Chapters of the Daśasāhasrikā Prajñāpāramitā: Restoration of the Sanskrit Text, Analysis and Index, Avhandlinger utgitt av det Norske Videnskaps-Akademi i Oslo II. Hist.-Filos. klasse 1941, Oslo, 1941.",
-  "archive_url": "",
-  "coverage": "partial — Chapters 1 and 2 only (Nidāna- and Sarvadharmaparivarta; explicit at line 1029: 'daśasāhasrikāyāḥ prajñāpāramitāyāḥ sarvadharmaparivarto nāma dvitīyaḥ'). The complete Daśasāhasrikā is extant in Tibetan translation (Toh 11).",
-  "translations": [
-   "Sten Konow, The Two First Chapters of the Daśasāhasrikā Prajñāpāramitā: Restoration of the Sanskrit Text, Analysis and Index, Oslo, 1941. (English)",
-   "phags pa shes rab kyi pha rol tu phyin pa khri pa zhes bya ba theg pa chen po'i mdo (Derge Kangyur D 11): revised by sna nam btsun pa ye shes sde (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K05_dsp1-2_u/text"
- },
  "SA_K06_bsu028pu": {
   "title": "Ratnaguṇasaṃcayagāthā",
   "author": "",
@@ -12114,34 +12036,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K10_bsu009_u/text"
  },
- "SA_K10_bsu010_u": {
-  "title": "Bhavasaṅkrāntisūtra",
-  "author": "",
-  "genre": "Sūtra",
-  "summary": "The Bhavasaṅkrāntisūtra is a short Mahāyāna sūtra set at the Veṇuvana near Rājagṛha, in which King Bimbisāra asks the Buddha how karmic actions that have long since ceased can reappear at the moment of death and produce rebirth if all conditioned entities (saṃskāra) are empty. The Buddha answers with the analogy of a man dreaming of a beautiful woman, demonstrating that although no permanent self or entity transmigrates from one world to another, rebirth occurs uninterruptedly through the causal stream of consciousness (cittasaṃtati). The text concludes with verses elucidating the relation between conventional truth (saṃvṛtisatya) and ultimate truth (paramārthasatya).",
-  "attribution": "Canonical Mahāyāna discourse traditionally attributed to the Buddha. No complete independent Sanskrit manuscript has survived; the text is a modern Sanskrit reconstruction by N. Aiyaswami Sastri made from Tibetan and Chinese versions.",
-  "edition": "N. Aiyaswami Shastri: Bhavasaṅkrānti Sūtra. Madras: Adyar Library, 1938, pp. 1-6.",
-  "archive_url": "https://archive.org/details/in.ernet.dli.2015.279699",
-  "coverage": "complete — Complete text of Sastri's 1938 Sanskrit reconstruction of the sūtra (15 sections, prose with concluding verses), terminating with the colophon 'āryabhavasaṅkrāntirnāma mahāyānasūtraṃ saṃpūrṇam' (pp. 1–6).",
-  "translations": [
-   "phags pa srid pa 'pho ba zhes bya ba theg pa chen po'i mdo (Derge Kangyur D 226): translated by Jinamitra, Dānaśīla, sna nam btsun pa ye shes sde (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K10_bsu010_u/text"
- },
- "SA_K10_bsu013_u": {
-  "title": "Āryacaturdharmanirdeśasūtra",
-  "author": "",
-  "genre": "Sūtra",
-  "summary": "The Caturdharmanirdeśasūtra is a brief Mahāyāna scripture set in the Sudharmā council hall of the Trāyastriṃśa heaven, in which the Buddha instructs the bodhisattva Maitreya on how to overcome and purify accumulated unwholesome actions. The discourse sets forth four factors, traditionally known as the four opponent powers (catuḥpratipakṣabala): remorse (vidūṣaṇāsamudācāra), antidotal virtuous deeds (pratipakṣasamudācāra), the resolve to refrain from repetition (pratyāpattibala), and reliance on refuge and bodhicitta (āśrayabala). Frequently cited by Indian masters, notably Śāntideva in the Śikṣāsamuccaya, it serves as the primary canonical foundation for Buddhist confession and purification rituals.",
-  "attribution": "A Mahāyāna sūtra set in the Trāyastriṃśa heaven where the Buddha instructs the bodhisattva Maitreya. The Sanskrit text in this edition is a modern Sanskrit reconstruction (punaruddhāra) prepared from the Tibetan translation by Ngawang Samten and Janardan Pandey.",
-  "edition": "Ngawang Samten and Janardan Pandey (eds.), 'Āryacaturdharmanirdeśasūtram' (saṃskṛte punaruddhāritam), Dhīḥ: Journal of Rare Buddhist Texts Research Unit, vol. 35, Sarnath, Varanasi: Central Institute of Higher Tibetan Studies, 2003, pp. 45–52.",
-  "archive_url": "",
-  "coverage": "complete — Complete text of the short sūtra, including opening nidāna, central teaching on the four opponent factors, and the colophons.",
-  "translations": [
-   "phags pa chos bzhi bstan pa zhes bya ba theg pa chen po'i mdo (Derge Kangyur D 249): translated by Surendrabodhi, sna nam btsun pa ye shes sde (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K10_bsu013_u/text"
- },
  "SA_K10_bsu018_u": {
   "title": "Karuṇāpuṇḍarīkasūtra",
   "author": "",
@@ -12262,21 +12156,6 @@
    "phags pa de bzhin gshegs pa thams cad kyi byin gyi rlabs sems can la gzigs shing sangs rgyas kyi zhing gi bkod pa kun tu ston pa zhes bya ba theg pa chen po'i mdo (Derge Kangyur D 98): translated by cog ro klu'i rgyal mtshan; revised by sna nam btsun pa ye shes sde (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K10_bsu037_u/text"
- },
- "SA_K10_bsu038_u": {
-  "title": "Sāgaranāgarājaparipṛcchāsūtra",
-  "author": "",
-  "genre": "Sūtra",
-  "summary": "A brief Mahāyāna sūtra set in the dwelling of the nāga king Sāgara. The Buddha explains that teaching the four summaries or seals of the Dharma (caturdharmoddāna)—that all conditioned things are impermanent, all contaminated phenomena are suffering, all phenomena are without self, and nirvāṇa is peace—is equivalent to expounding all eighty-four thousand aggregates of the Dharma (dharmaskandha).",
-  "attribution": "Canonical Mahāyāna sūtra associated with Toh 155 in the Tibetan Kangyur. The text in this e-text is marked as a Sanskrit reconstruction (saṃskṛte punaruddhṛtam).",
-  "edition": "",
-  "archive_url": "",
-  "coverage": "complete — Complete text of the short sūtra, containing the opening nidāna set in the dwelling of the nāga king Sāgara, the teaching equating the four seals of the Dharma (caturdharmoddāna) to the 84,000 aggregates of the Dharma, and the rejoicing of the retinue.",
-  "translations": [
-   "Fo wei hai longwang shuo fayin jing (佛為海龍王說法印經, Taishō Tripiṭaka no. 599), trans. Yijing (義淨), 711. (Chinese)",
-   "phags pa klu'i rgyal po rgya mtshos zhus pa zhes bya ba theg pa chen po'i mdo (Derge Kangyur D 155): translated by Surendrabodhi, sna nam btsun pa ye shes sde (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K10_bsu038_u/text"
  },
  "SA_K10_bsu039_u": {
   "title": "Triskandhasūtra",
@@ -12541,21 +12420,6 @@
   "coverage": "complete — Complete text of the short sūtra, including opening nidāna, prose exposition on all classes of beings, and the concluding four verses.",
   "translations": [],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K10_n262u/text"
- },
- "SA_K10_n266u": {
-  "title": "Āryasāgaranāgarājaparipṛcchānāmamahāyānasūtra",
-  "author": "",
-  "genre": "Sūtra",
-  "summary": "The Āryasāgaranāgarājaparipṛcchā (Toh 155 / T 599) is a concise Mahāyāna sūtra set in the underwater palace of the nāga king Sāgara. The Buddha explains that proclaiming and understanding the four aphorisms or summaries of the Dharma (caturdharmoddāna: all conditioned phenomena are impermanent, all contaminated phenomena are suffering, all phenomena are without self, and nirvāṇa is peace) is tantamount to expounding all eighty-four thousand aggregates of the Dharma (caturaśītidharmaskandhasahasra). As no ancient Sanskrit manuscript witness of this short recension survives, the Sanskrit text preserved here is a modern scholarly reconstruction from the Tibetan Kangyur version.",
-  "attribution": "Canonical Mahāyāna discourse traditionally considered buddhavacana. The Sanskrit e-text here is a modern Sanskrit reconstruction (saṃskṛte punaruddhṛtam) from the Tibetan Kangyur text (Toh 155) published by the Central Institute of Higher Tibetan Studies (CIHTS), Sarnath.",
-  "edition": "Āryasāgaranāgarājaparipṛcchā nāma mahāyānasūtram, in Dhih Journal Vol. 34, ed. Geshe Nawang Samten and Janardan Pandey, Sarnath: Central Institute of Higher Tibetan Studies, 2002.",
-  "archive_url": "",
-  "coverage": "complete — Complete text of the short sūtra on the four seals of the Dharma (caturdharmoddāna, Toh 155), including the opening nidāna, the discourse to Nāga King Sāgara, the conclusion, and the reconstructed Tibetan translation colophon naming Surendrabodhi and Bandé Yeshé Dé (Jñānasena).",
-  "translations": [
-   "Yijing (義淨), trans., Fo wei hailongwang shuo fayin jing (佛為海龍王說法印經), Taishō Tripiṭaka, No. 599, 711 CE. (Chinese)",
-   "phags pa klu'i rgyal po rgya mtshos zhus pa zhes bya ba theg pa chen po'i mdo (Derge Kangyur D 155): translated by Surendrabodhi, sna nam btsun pa ye shes sde (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K10_n266u/text"
  },
  "SA_K10_n267u": {
   "title": "Saṃghāṭasūtra",
@@ -13564,18 +13428,6 @@
   "coverage": "complete — The e-text preserves the entire work from opening namaskāra and introductory framing down through the concluding colophon, corresponding precisely to pages 3–32 of the critical edition by Luo Hong and Toru Tomabechi (2009).",
   "translations": [],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K14_n2947u/text"
- },
- "SA_K14_n445u": {
-  "title": "Mahāvadānasūtra (Sanskrit back-translation from the Chinese Dīrghāgama; verses 20–43 missing)",
-  "author": "",
-  "genre": "Scriptures various",
-  "summary": "The Mahāvadānasūtra is a discourse recounting the lives of past Buddhas (including Vipaśyin) and concluding with colophon '(iti)buddhabhāṣite dīrghāgamasūtre prathamaḥ bhāgaḥ'.",
-  "attribution": "Canonical discourse recounting previous Buddhas.",
-  "edition": "",
-  "archive_url": "https://archive.org/details/the-mahavadanasutra-a-new-edition-based-on-manuscripts-discovered-in-northern-turkestan",
-  "coverage": "partial — Text begins 'evaṃ mayā śrutaṃ-ekasmin samaye buddhaḥ śrāvasthyāṃ (deśe) viharati,puṣpavanaśālāyāṃ...' and concludes 'buddho'vocadidaṃ mahāvadānasūtraṃ atha te bhikṣavaḥ śrutvā buddhasya bhāṣitaṃ āttamanasaḥ samanvamodantta || || (iti)buddhabhāṣite dīrghāgamasūtre prathamaḥ bhāgaḥ ||' with 187 numbered verses.",
-  "translations": [],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K14_n445u/text"
  },
  "SA_K14_pamsuavu": {
   "title": "Pāṃśupradānāvadāna (fragment)",
@@ -15018,21 +14870,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T02_garbhasamgraha/text"
  },
- "SA_T02_bsa043_u": {
-  "title": "Samādhisaṃbhāraparivarta",
-  "author": "Atiśa Dīpaṃkaraśrījñāna",
-  "genre": "Tantra",
-  "summary": "A short verse treatise by Atiśa Dīpaṃkaraśrījñāna detailing the prerequisites and auxiliary conditions (aṅga, saṃbhāra) necessary for cultivating meditative absorption (samādhi). In 11 anuṣṭubh stanzas and a closing hemistich, it sets forth requirements including firm bodhicitta, devotion to the guru, tantric empowerments (kumbha- and guhyābhiṣeka), maintenance of vows (samaya), moral purity, solitude, mindfulness of the Buddha, elimination of the five hindrances, and equanimity toward worldly phenomena.",
-  "attribution": "Attributed in the colophon to Mahāpaṇḍitācārya Dīpaṅkaraśrījñāna (Atiśa). Preserved in the Tibetan Tengyur, translated by Atiśa and the Tibetan lo tsā ba Śākyamati (Shākya blo gros). Modern Sanskrit reconstruction (punaruddhāra) edited by Ramesh Chandra Negi.",
-  "edition": "Atīśaviracitā Ekādaśagranthāḥ (Eleven Treatises by Atiśa), ed. Ramesh Chandra Negi, Sarnath, Varanasi: Central Institute of Higher Tibetan Studies (CIHTS), 1992 (Bibliotheca Indo-Tibetica Series, 24).",
-  "archive_url": "",
-  "coverage": "complete — Complete short treatise of 11 anuṣṭubh verses, concluding hemistich (verse 12ab), and colophons.",
-  "translations": [
-   "Kaie Mochizuki, '三種の『三昧資糧論』について' (On Three Tibetan Texts named the Samādhisaṃbhāraparivarta), 身延山大学仏教学部紀要 (2005). (Japanese)",
-   "ting nge 'dzin tshogs kyi le'u (Derge Tengyur D 2460): translated by Atiśa Dīpaṃkaraśrījñāna, shAkya blo gros (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T02_bsa043_u/text"
- },
  "SA_T02_bsa045_u": {
   "title": "Gurupañcāśikā",
   "author": "Aśvaghoṣa",
@@ -15952,20 +15789,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T03_bsa051_u/text"
  },
- "SA_T03_kamvchtu": {
-  "title": "Prajñāpāramitāvajracchedikāṭīkā",
-  "author": "Kamalaśīla",
-  "genre": "Prajñāpāramitā",
-  "summary": "The Prajñāpāramitāvajracchedikāṭīkā is an extensive commentary by the Indian master Kamalaśīla on the Vajracchedikā Prajñāpāramitā Sūtra ('Diamond Sūtra'). Following classical Indian scholastic structure—setting out the purpose (prayojana), concise overview (piṇḍārtha), word analysis (padārtha), internal connection (anusandhi), and answers to objections—Kamalaśīla expounds the sūtra from a Yogācāra-Mādhyamika perspective. He details the path of the bodhisattva across the three grounds (adhimukticaryābhūmi, śuddhādhyāśayabhūmi, and buddhabhūmi) and refutes substantialist views while demonstrating two-fold selflessness. Because the ancient Sanskrit manuscript is lost, this e-text represents a modern Sanskrit reconstruction (punaruddhāra) made from the Tibetan canonical version by Pema Tenzin.",
-  "attribution": "The work is an extensive commentary (vistṛtaṭīkā) by Ācārya Kamalaśīla on the Vajracchedikā Prajñāpāramitā. The Sanskrit version in the e-text is a modern reconstruction (punaruddhāra) made from the Tibetan translation by Ācārya Pema Tenzin (Pema Tendzin). The Tibetan translation (D 3817) attributes the work to Jayasena (ka ma la shI la).",
-  "edition": "Prajñāpāramitāvajracchedikāsūtram with Prajñāpāramitāvajracchedikāṭīkā of Ācārya Kamalaśīla, critically edited and restored into Sanskrit by Pema Tendzin, Sarnath, Varanasi: Central Institute of Higher Tibetan Studies, 1994 (Bibliotheca Indo-Tibetica Series, 29).",
-  "archive_url": "",
-  "coverage": "complete — Complete commentary as reconstructed into Sanskrit by Pema Tenzin, from the introductory maṅgalācaraṇa through the final closing verses and modern restoration colophon.",
-  "translations": [
-   "phags pa shes rab kyi pha rol tu phyin pa rdo rje gcod pa'i rgya cher 'grel pa (Derge Tengyur D 3817): translated by Mañjuśrī, Jinamitra, sna nam btsun pa ye shes sde (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T03_kamvchtu/text"
- },
  "SA_T03_knavslou": {
   "title": "Navaślokī",
   "author": "Kambalapāda",
@@ -16049,49 +15872,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa003_u/text"
  },
- "SA_T04_bsa004_u": {
-  "title": "Bodhipathapradīpa",
-  "author": "Atiśa",
-  "genre": "Madhyamaka",
-  "summary": "The Bodhipathapradīpa ('Lamp for the Path to Enlightenment') is a treatise composed by Atiśa. In 69 verses, it outlines the spiritual development through the tripartite typology of spiritual capacities (adhama-, madhyama-, and uttamapuruṣa), presenting mahāyāna bodhisattva practices and discussing tantric vows. This digital file contains Losang Norbu Shastri's 1984 Sanskrit restoration from the Tibetan transmission.",
-  "attribution": "Composed in verse by Atiśa Dīpaṃkaraśrījñāna. The original Sanskrit text is lost; this digital text is a modern Sanskrit restoration from the Tibetan version (Toh 3947 / D 3947) prepared by Losang Norbu Shastri.",
-  "edition": "Shastri, Losang Norbu: Bodhipathpradipa of Atisha. Sarnath: Central Institute of Higher Tibetan Studies, 1984, 1-70. Restored Sanskrit text.",
-  "archive_url": "",
-  "coverage": "complete — Restored text consisting of 69 verses (Bpp_1–69).",
-  "translations": [
-   "Richard Sherburne, tr., A Lamp for the Path and Commentary of Atīśa, London: George Allen & Unwin, 1983. (English)",
-   "Helmut Eimer, tr., Bodhipathapradīpa: Ein Lehrgedicht des Atīśa (Dīpaṃkaraśrījñāna) in der tibetischen Überlieferung, Wiesbaden: Otto Harrassowitz, 1978. (German)",
-   "José van den Broeck, Le flambeau sur le chemin de l'éveil (Bodhipathapradīpa), 1976. (French)",
-   "byang chub lam gyi sgron ma (Derge Tengyur D 3947): translated by Atiśa Dīpaṃkaraśrījñāna, rma dge ba'i blo gros; at zhang zhung gi tho ling gtsug lag khang (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa004_u/text"
- },
- "SA_T04_bsa008_u": {
-  "title": "Garbhasaṅgraha",
-  "author": "Atiśa",
-  "genre": "Madhyamaka",
-  "summary": "The Garbhasaṅgraha is a concise 14-verse Mahāyāna work attributed in the colophon to Mahācārya Dīpaṅkaraśrījñāna (Atiśa). It sets forth the essential path of the Bodhisattva: recognizing suffering caused by dualistic grasping and afflictions, cultivating emptiness and compassion, and generating bodhicitta to attain liberation.",
-  "attribution": "The colophon reads: 'garbhasaṅgraho nāma mahācārya-dīpaṅkaraśrījñānaviracitaḥ samāptaḥ'. Mahācārya Dīpaṅkaraśrījñāna is commonly known as Atiśa. In the Tibetan Tengyur (Toh 3949), the text is titled snying po bsdus pa zhes bya ba and attributed to Mar-me-mdsad ye-shes (Atiśa) and translated by Mar-me-mdsad ye-shes and Tshul-khrims 'byung-gnas.",
-  "edition": "Rameshchandra Negi: Atishaviracita ekadasha granthah. Varanasi: Central Institute of High Tibetan Studies (CIHTS) 1992, pp. 79-80.",
-  "archive_url": "",
-  "coverage": "complete — Complete 14-verse text with opening maṅgala and closing colophon (pp. 79–80 in Negi 1992).",
-  "translations": [
-   "snying po bsdus pa zhes bya ba (Derge Tengyur D 3949): translated by Atiśa Dīpaṃkaraśrījñāna, nag 'tsho lo tsA ba tshul khrims rgyal ba (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa008_u/text"
- },
- "SA_T04_bsa009_u": {
-  "title": "Hastavālaprakaraṇa with Hastavālaprakaraṇavṛtti (incomplete)",
-  "author": "Dignāga",
-  "genre": "Madhyamaka",
-  "summary": "The Hastavālaprakaraṇa (comprising six root verses) and its autocommentary (vṛtti) analyze conventional reality using the classic Buddhist and Indian epistemological simile of a rope mistaken for a snake. It argues that composite entities and their constituent parts dissolve under analytical scrutiny into partless elements that lack substantial reality, demonstrating that empirical objects exist merely at the conventional level (saṃvṛti) and lack intrinsic nature (svabhāva). While the original Indic Sanskrit manuscript is lost and the published Sanskrit text is a retro-translation from Tibetan and Chinese recensions, this e-text contains the complete set of six root verses along with the opening mangala and single introductory sentence of the vṛtti, omitting the prose commentary on the verses.",
-  "attribution": "Ascribed in the Tibetan tradition to Āryadeva, but both Chinese translations (Paramārtha, T. 1620; Yijing, T. 1621) attribute it to Dignāga.",
-  "edition": "Bhagchandra Jain: Hastabalapranavrtti. Nagpur: Aloka Prakashan, 1971.",
-  "archive_url": "",
-  "coverage": "partial — Complete for the root kārikās (all 6 verses are present), but incomplete for the prose vṛtti, preserving only the invocation and introductory sentence while omitting the prose commentary on verses 1–6.",
-  "translations": [],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa009_u/text"
- },
  "SA_T04_bsa012_u": {
   "title": "Pratītyasamutpādahṛdayakārikā",
   "author": "Nāgārjuna",
@@ -16141,40 +15921,6 @@
    "bslab pa kun las btus pa'i tshig le'ur byas pa (Derge Tengyur D 3939): translated by Jinamitra, Dānaśīla, sna nam btsun pa ye shes sde (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa014_u/text"
- },
- "SA_T04_bsa015_u": {
-  "title": "Suhṛllekha",
-  "author": "Nāgārjuna",
-  "genre": "Madhyamaka",
-  "summary": "The Suhṛllekha ('Letter to a Friend') is a Buddhist didactic poem of 123 stanzas attributed to Nāgārjuna and addressed to a monarch. Written in Āryāgīti metre, the text summarizes fundamental Buddhist lay ethics and practice, including recollections, the ten virtuous actions, mindfulness, the hazards of sensory attachment, karma, the sufferings of cyclic existence (saṃsāra), and the bodhisattva path culminating in buddhahood.",
-  "attribution": "The original Sanskrit text of Nāgārjuna's Suhṛllekha is non-extant. The Sanskrit verses in this e-text are from the edition by Padma Tendzin published by CIHTS in 2002. Historically, the didactic epistle is attributed to Nāgārjuna and addressed to a king (identified variously as Śātavāhana or Udayana).",
-  "edition": "Padma Tendzin (ed.), Suhridlekha / Suḥrllekha of Ācārya Nāgārjuna and Vyaktapadāṭīkā of Ācārya Mahāmati, Varanasi: Central Institute of Higher Tibetan Studies (CIHTS), 2002.",
-  "archive_url": "https://archive.org/details/qnnh_suhrllekha-vyaktapada-tika-acharya-mahamati-by-acharya-nagarjuna-editor-pem",
-  "coverage": "complete — Text of 123 verses of the Suhṛllekha; does not include Mahāmati's commentary (Vyaktapadāṭīkā).",
-  "translations": [
-   "Heinrich Wenzel, 'Friendly Epistle', Journal of the Pali Text Society (1886), pp. 1–32. (English)",
-   "Leslie Kawamura, Golden Zephyr: Instructions from a Spiritual Friend, Emeryville: Dharma Publishing, 1975. (English)",
-   "Lozang Jamspal, Ngawang Samten Chophel, and Peter Della Santina (trs.), Nāgārjuna's Letter to King Gautamīputra, Delhi: Motilal Banarsidass, 1978. (English)",
-   "bshes pa'i spring yig (Derge Tengyur D 4182): translated by Sarvajñadeva, ska ba dpal brtsegs (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa015_u/text"
- },
- "SA_T04_bsa016_u": {
-  "title": "Śūnyatāsaptati",
-  "author": "Nāgārjuna",
-  "genre": "Madhyamaka",
-  "summary": "The Śūnyatāsaptati ('Seventy Verses on Emptiness') is one of the foundational works of the Yukti (reasoning) corpus attributed to Nāgārjuna. In 73 verses (predominantly in anuṣṭubh meter), the text argues that all conditioned and unconditioned dharmas—including the twelve links of dependent origination, time, the agent and object of action, and nirvāṇa itself—are empty of intrinsic nature (svabhāva) because they are dependently co-arisen (pratītyasamutpanna). Rather than promoting nihilism, Nāgārjuna explains that establishing ultimate emptiness (śūnyatā / paramārtha) enables the valid and unhindered operation of conventional transactional reality (laukikavyavahāra).",
-  "attribution": "The original Sanskrit text of Nāgārjuna's Śūnyatāsaptati survives in Tibetan translation (Toh 3827 / D 3827, P 5227). The Sanskrit text in this e-text is a reconstruction from the Tibetan by Ācārya Sempa Dorje (published 1985).",
-  "edition": "Acarya Sempa Dorje (ed.), Sunyata Saptati. Sarnath: Central Institute of High Tibetan Studies (CIHTS), 1985.",
-  "archive_url": "",
-  "coverage": "complete — Contains all 73 kārikās in modern Sanskrit reconstruction. Although the source volume includes both the kārikās and the autocommentary (Śūnyatāsaptativṛtti, Toh 3831) — and the e-text retains the heading fragment 'svopajñavṛttyā samanvitā' and the commentary colophon 'śūnyatāsaptatervṛttiḥ ācāryanāgārjunapādakṛtā samāptā' — only the 73 verse kārikās were input, omitting the prose vṛtti.",
-  "translations": [
-   "Christian Lindtner, Nagarjuniana: Studies in the Writings and Philosophy of Nāgārjuna, Copenhagen: Akademisk Forlag, 1982, pp. 34–69. (English)",
-   "Fernando Tola and Carmen Dragonetti, 'Śūnyatāsaptati: The Seventy Kārikās on Voidness (According to the Svavṛtti) of Nāgārjuna', Journal of Indian Philosophy 15.1 (1987). (English)",
-   "David Ross Komito, Nāgārjuna's 'Seventy Stanzas', Ithaca, NY: Snow Lion Publications, 1987. (English)",
-   "stong pa nyid bdun cu pa'i tshig le'ur byas pa zhes bya ba (Derge Tengyur D 3827): translated by gzhon nu mchog, gnyan lo tsA ba dar ma grags, khu (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa016_u/text"
  },
  "SA_T04_bsa021_u": {
   "title": "Vigrahavyāvartanī (kārikās only)",
@@ -16241,121 +15987,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa028_u/text"
  },
- "SA_T04_bsa035_u": {
-  "title": "Bodhisattvādikarmikamārgāvatāradeśanā",
-  "author": "Atiśa Dīpaṃkaraśrījñāna",
-  "genre": "Madhyamaka",
-  "summary": "The Bodhisattvādikarmikamārgāvatāradeśanā is a practical liturgical and behavioral handbook by Atiśa Dīpaṃkaraśrījñāna outlining the progressive spiritual discipline required of a beginner bodhisattva (ādikarmika). It provides step-by-step guidance on relying on a qualified spiritual teacher (kalyāṇamitra), taking refuge, generating bodhicitta, and performing worship. It instructs the practitioner on cultivating calm abiding (śamatha) and special insight (vipaśyanā) according to the nine limbs set forth in Bodhibhadra's Samādhisambhāraparivarta, maintaining mindfulness of all phenomena as illusion-like (māyopama) in post-meditation, and promptly purifying ethical infractions.",
-  "attribution": "Attributed to Atiśa Dīpaṃkaraśrījñāna and translated into Tibetan by Atiśa together with Tshul khrims rgyal ba (Jayaśīla).",
-  "edition": "R. C. Negi (ed.), Atisha-virachita Ekadasagrantha, Sarnath: Central Institute of Higher Tibetan Studies, 1992.",
-  "archive_url": "",
-  "coverage": "complete — Complete text of the work, consisting of the introductory homage, prose instructions interspersed with mnemonic/liturgical verses, concluding dedication stanzas, and translation colophon.",
-  "translations": [
-   "byang chub sems dpa' las dang po pa'i lam la 'jug pa bstan pa (Derge Tengyur D 3952): translated by Atiśa Dīpaṃkaraśrījñāna, nag 'tsho lo tsA ba tshul khrims rgyal ba (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa035_u/text"
- },
- "SA_T04_bsa036_u": {
-  "title": "Śaraṇagamanadeśanā",
-  "author": "Atiśa Dīpaṃkaraśrījñāna",
-  "genre": "Madhyamaka",
-  "summary": "The Śaraṇagamanadeśanā is a short instructional work on the practice and significance of going for refuge (śaraṇagamana) to the Three Jewels, composed by Atiśa Dīpaṃkaraśrījñāna. The text structures the doctrine around fifteen headings: the foundation (adhiṣṭhāna), the twofold Mahāyāna and Hīnayāna states (sthiti), intentional disposition (āśaya), duration (avadhi), essence (svabhāva), standard measure (māna), method (naya), rules/precepts (śikṣā), etymological meaning (nirukti), functional role (kāritra), analogies (upamya), classification (bheda), faults of transgression (ādīnava), doctrinal meaning (artha), and twofold temporal benefits (anuśaṃsā).",
-  "attribution": "Attributed in the colophon to Guru Bodhisattva Dīpaṅkaraśrījñāna (Atiśa).",
-  "edition": "R. C. Negi (ed.), Atisha-virachita Ekadasagrantha, Sarnath: Central Institute of Higher Tibetan Studies, 1992.",
-  "archive_url": "",
-  "coverage": "complete — Complete short treatise consisting of an introductory maṅgala verse, a summary verse setting out fifteen pedagogical topics (pañcadaśa vibhaktayaḥ) of refuge, interspersed prose explanations with illustrative verses (verses 3–9), and the author colophon.",
-  "translations": [
-   "Richard Sherburne (tr.), The Complete Works of Atīśa Śrī Dīpaṃkara Jñāna, New Delhi: Aditya Prakashan, 2000. (English)",
-   "skyabs su 'gro ba bstan pa (Derge Tengyur D 3953): translated by Atiśa Dīpaṃkaraśrījñāna, rma dge ba'i blo gros (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa036_u/text"
- },
- "SA_T04_bsa037_u": {
-  "title": "Mahāyānapathasādhanasaṅgraha",
-  "author": "Atiśa Dīpaṃkaraśrījñāna",
-  "genre": "Madhyamaka",
-  "summary": "The Mahāyānapathasādhanasaṅgraha (colophon title: Atisaṃkṣiptamahāyānapathasādhana) is a short 10-verse instructional manual outlining the bodhisattva path attributed to Atiśa Dīpaṃkaraśrījñāna. It condenses core Mahāyāna practice: taking refuge, abandoning non-virtue, adhering to pure ethical discipline (adhiśīla) as the vehicle of the mind of awakening (bodhicitta), mindfulness of death, adopting the bodhisattva vows and the six perfections, and the non-abiding nirvāṇa attained through the union of wisdom and means (prajñopāya). Because the original Sanskrit text was lost to history, this Sanskrit e-text represents a modern Sanskrit reconstruction (punaruddhāra) executed from the Tibetan Tanjur canonical translation (Toh 3955) by Ramesh Chandra Negi (1992).",
-  "attribution": "Attributed in the colophon to Mahācārya Dīpaṅkaraśrījñāna (Atiśa). The colophon also names the translator Kalyāṇamati (Lotsāwa Dge ba'i blo gros). The surviving Sanskrit text is a modern retroversion/reconstruction (punaruddhāra) from the Tibetan Tanjur.",
-  "edition": "Ramesh Chandra Negi (ed.), Atisha-virachita Ekadasagrantha, Sarnath: Central Institute of Higher Tibetan Studies, 1992.",
-  "archive_url": "",
-  "coverage": "complete — Complete text of 10 verses (9 full anuṣṭubh verses and verse 10ab) with the closing colophon.",
-  "translations": [
-   "theg pa chen po lam gyi sgrub thabs shin tu bsdus pa (Derge Tengyur D 3955): translated by Atiśa Dīpaṃkaraśrījñāna, rma dge ba'i blo gros (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa037_u/text"
- },
- "SA_T04_bsa038_u": {
-  "title": "Sūtrārthasamuccayopadeśa",
-  "author": "Atiśa Dīpaṃkaraśrījñāna",
-  "genre": "Madhyamaka",
-  "summary": "A short instructional digest by Atiśa listing fifty \"jewel-like\" qualities and practices of a bodhisattva, each introduced by a simile: bodhicitta like the life-breath, emptiness and compassion like mother and father, the perfections like kinsfolk. It draws on Mahāyāna sūtras and ends with admonitions to avoid the deluded, seek a true teacher and study the sūtras. Because the original Sanskrit is lost, this e-text is R. C. Negi's modern Sanskrit restoration from the Tibetan.",
-  "attribution": "By Atiśa Dīpaṃkaraśrījñāna. The original Sanskrit does not survive; the work is extant in Tibetan translation (D 3957), translated by Atiśa with Tshul khrims rgyal ba. The Sanskrit text here is R. C. Negi's modern restoration from the Tibetan; the closing segs. 153–154 are a Sanskritized rendering of the Tibetan translator colophon, keeping the Tibetan name \"(chul khrimas rgyal va)\".",
-  "edition": "Negi, R.C. (ed./restorer), Atisha-virachita Ekadasagrantha. Sarnath: Central Institute of Higher Tibetan Studies, 1992.",
-  "archive_url": "",
-  "coverage": "complete — Complete with respect to the Tibetan translation from which it was restored: opening verse, the fifty jewel-like dharmas of the bodhisattva, concluding admonitions, author colophon (seg. 152) and the Sanskritized translator colophon (segs. 153–154).",
-  "translations": [
-   "English translation in Richard Sherburne, The Complete Works of Atīśa Śrī Dīpaṃkara, 2000. (English)",
-   "mdo'i sde'i don kun las btus pa'i man ngag (Derge Tengyur D 3957): translated by Atiśa Dīpaṃkaraśrījñāna, nag 'tsho lo tsA ba tshul khrims rgyal ba (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa038_u/text"
- },
- "SA_T04_bsa039_u": {
-  "title": "Daśākuśalakarmapathadeśanā",
-  "author": "Atiśa Dīpaṃkaraśrījñāna",
-  "genre": "Madhyamaka",
-  "summary": "The Daśākuśalakarmapathadeśanā is a concise ethical treatise setting forth the ten unwholesome paths of action (daśākuśalakarmapatha): three bodily, four verbal, and three mental. Each transgression is analyzed according to its constituent criteria and conditions, citing the Saddharmasmṛtyupasthānasūtra. Attributed to Atiśa Dīpaṃkaraśrījñāna and preserved in the Tibetan Tengyur (D 3958), the Sanskrit text presented here is edited by Ramesh Chandra Negi.",
-  "attribution": "Attributed in the colophon and Tibetan Tengyur (D 3958, D 4483) to Mahācārya Dīpaṅkaraśrījñāna (Atiśa) and translated into Tibetan by Atiśa and Nag tsho Tshul khrims rgyal ba (Bhikṣu Jayaśīla). The Sanskrit text in this e-text represents an edition based on the Tibetan canon by Ramesh Chandra Negi. A closely related text is transmitted in the Tengyur under the name of Aśvaghoṣa (D 4178) and translated into Chinese in the Song dynasty as T 727.",
-  "edition": "R. C. Negi (ed.), Atisha-virachita Ekadasagrantha (Sarnath: Central Institute of Higher Tibetan Studies, 1992).",
-  "archive_url": "",
-  "coverage": "complete — Complete e-text of the short treatise, running from the opening verse to the final translation colophon.",
-  "translations": [
-   "Taishō Shinshū Daizōkyō, no. 727 (十不善業道經), translated by Richeng (日稱) et al. during the Song dynasty (960–1126). (Chinese)",
-   "mi dge ba bcu'i las kyi lam bstan pa (Derge Tengyur D 3958): translated by Atiśa Dīpaṃkaraśrījñāna, nag 'tsho lo tsA ba tshul khrims rgyal ba (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa039_u/text"
- },
- "SA_T04_bsa040_u": {
-  "title": "Cittotpādasaṃvaravidhikrama",
-  "author": "Atiśa Dīpaṃkaraśrījñāna",
-  "genre": "Madhyamaka",
-  "summary": "The Cittotpādasaṃvaravidhikrama is a liturgical manual composed by Atiśa Dīpaṃkaraśrījñāna setting forth the rite and sequence for generating bodhicitta and taking the bodhisattva vow, preserving instructions on taking refuge, generating bodhicitta, avoiding the obstructing factors, and receiving the vows from a spiritual teacher.",
-  "attribution": "Attributed to Atiśa Dīpaṃkaraśrījñāna. Preserved in Tibetan translation in the Tengyur (Toh 3969 / Toh 4490).",
-  "edition": "Negi, R.C. (ed.), Atisha-virachita Ekadasagrantha, Sarnath: Central Institute of Higher Tibetan Studies, 1992.",
-  "archive_url": "",
-  "coverage": "complete — Complete text containing opening salutation, introductory verses, liturgical prose directions, and translator/editor colophon.",
-  "translations": [
-   "sems bskyed pa dang sdom pa'i cho ga'i rim pa (Derge Tengyur D 3969): translated by Atiśa Dīpaṃkaraśrījñāna, rma dge ba'i blo gros; revised by nag 'tsho lo tsA ba tshul khrims rgyal ba, Atiśa Dīpaṃkaraśrījñāna (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa040_u/text"
- },
- "SA_T04_bsa041_u": {
-  "title": "Āpattideśanāvidhi",
-  "author": "Atiśa Dīpaṃkaraśrījñāna",
-  "genre": "Madhyamaka",
-  "summary": "The Āpattideśanāvidhi is a concise liturgical manual attributed to Atiśa Dīpaṃkaraśrījñāna formulating the ritual confession and disclosure (deśanā) of downfalls and ethical lapses (āpatti). The officiant/practitioner declares and repudiates ten unwholesome deeds, the five immediate retributions (ānantarya) and their parallels, and violations of prātimokṣa vows, bodhisattva trainings, and tantric pledges (samaya) before the gurus, buddhas, bodhisattvas, and sangha.",
-  "attribution": "Ascribed in the Tibetan Tanjur to Atiśa Dīpaṃkaraśrījñāna and translated into Tibetan by Atiśa and Nag tsho Lo tsā ba Tshul khrims rgyal ba (Jayaśīla).",
-  "edition": "Ramesh Chandra Negi, Atishavirachita Ekadasa grantha, Sarnath: Central Institute of Higher Tibetan Studies, 1992, pp. 108–109.",
-  "archive_url": "",
-  "coverage": "complete — Complete text of the short liturgical manual, including the opening obeisance and the colophon.",
-  "translations": [
-   "ltung ba bshags pa'i cho ga (Derge Tengyur D 3974): translated by Atiśa Dīpaṃkaraśrījñāna, nag 'tsho lo tsA ba tshul khrims rgyal ba (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa041_u/text"
- },
- "SA_T04_bsa042_u": {
-  "title": "Gurukriyākrama",
-  "author": "Atiśa Dīpaṃkaraśrījñāna",
-  "genre": "Madhyamaka",
-  "summary": "The Gurukriyākrama (also called Saṃkṣiptagurukriyākrama) is a brief manual detailing the liturgical and instructional sequence (krama) to be followed by a spiritual master (ācārya / guru) when guiding a disciple in the generation of bodhicitta and the Mahāyāna path. It covers inspiring faith and enthusiasm in the disciple, making offerings and performing the preliminary sevenfold worship (saptāṅgapūjā), arousing relative and ultimate bodhicitta, and conferring instruction on the perfections (pāramitā), means of gathering disciples (saṃgrahavastu), immeasurables (apramāṇa), and the threefold training.",
-  "attribution": "Consistently attributed to Mahāpaṇḍitācārya Dīpaṅkaraśrījñāna (Atiśa) in the concluding colophon and in Tibetan canonical collections (Tōh. 3977, 4489; Peking no. 5402), as well as cited under this title by Tsongkhapa in the Lam rim chen mo.",
-  "edition": "Negi, R.C. (ed.), Atisha-virachita Ekadasagrantha, Sarnath: Central Institute of Higher Tibetan Studies, 1992.",
-  "archive_url": "",
-  "coverage": "complete — Complete short treatise, including salutation and concluding colophon.",
-  "translations": [
-   "bla ma'i bya ba'i rim pa (Derge Tengyur D 3977) (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa042_u/text"
- },
  "SA_T04_bsa053_u": {
   "title": "Madhyamakāvatārakārikā with Madhyamakāvatārabhāṣya (chapters 1–5)",
   "author": "Candrakīrti",
@@ -16385,20 +16016,6 @@
    "byang chub kyi spyod pa la 'jug pa'i dka' 'grel (Derge Tengyur D 3872): translated by Sumatikīrti, gnyan lo tsA ba dar ma grags (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa054_u/text"
- },
- "SA_T04_bsa058_u": {
-  "title": "Bhavasaṅkrāntiṭīkā",
-  "author": "Maitreyanātha",
-  "genre": "Madhyamaka",
-  "summary": "The Bhavasaṅkrāntiṭīkā is an exegetical treatise attributed to Maitreyanātha that comments upon Nāgārjuna's Bhavasaṅkrāntiśāstra. It explains how rebirth and transmigration through existences (bhava-saṅkrānti) occur across cyclic existence without an enduring self (ātman) or substantial entity, reconciling karmic continuity with the Mahāyāna doctrine of emptiness (śūnyatā) and the two truths (saṃvṛti and paramārtha).",
-  "attribution": "The commentary is traditionally attributed in the Tibetan Tengyur (Toh 3841) to Paṇḍita Maitreyanātha (Tib. Byams pa mgon po), commenting on the Bhavasaṅkrānti treatise of Nāgārjuna.",
-  "edition": "Aiswami Shastri, Bhavasaṅkrānti Śāstra, Madras: Adyar Library, 1938, pp. 1-46.",
-  "archive_url": "https://archive.org/details/in.ernet.dli.2015.204648",
-  "coverage": "complete — Text of the commentary through the fifth parivarta (saṃvṛtiparamārthasatya[deśanā] parivartaḥ pañcamaḥ) and closing colophon (paṇḍitamaitreyanāthakṛtaḥ), corresponding to pages 1–46 of the 1938 edition.",
-  "translations": [
-   "srid pa 'pho ba'i TI ka (Derge Tengyur D 3841): translated by *Candrakumāra (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_bsa058_u/text"
  },
  "SA_T04_bsu060_u": {
   "title": "Karmavibhaṅgopadeśa",
@@ -16450,36 +16067,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_canprasu/text"
  },
- "SA_T04_ksmadhlu": {
-  "title": "Madhyamakāloka",
-  "author": "Kamalaśīla",
-  "genre": "Madhyamaka",
-  "summary": "The Madhyamakāloka ('Illumination of the Middle Way') is Kamalaśīla's comprehensive independent treatise of Madhyamaka philosophy, traditionally counted among the 'Three Works of the Eastern Svātantrikas' (dbu ma shar ba gsum). Synthesizing Nāgārjunian emptiness with Dharmakīrtian epistemological logic (pramāṇa), the work systematically defends the lack of intrinsic nature of all phenomena (sarvadharmaniḥsvabhāvatā), expounds the doctrine of the two truths and the single vehicle (ekayāna), and refutes non-Buddhist as well as rival Buddhist positions. Although the original Sanskrit manuscript transmission is lost, the complete work survived in the Tibetan Tanjur (D 3887) and is represented here through Penpa Dorjee's 2001 Sanskrit reconstruction.",
-  "attribution": "The Madhyamakāloka is an 8th-century independent treatise by Kamalaśīla. The continuous Sanskrit text preserved in this e-text is the modern Sanskrit reconstruction from the Tibetan canonical translation prepared by Penpa Dorjee. The Tibetan translation (D 3887) attributes the work to Jayasena (ka ma la shI la).",
-  "edition": "Madhyamakālokaḥ, ed. Penpa Dorje. Sarnath, India: Central Institute of Higher Tibetan Studies, 2001.",
-  "archive_url": "",
-  "coverage": "complete — Complete text of the modern Sanskrit reconstruction, ending with the treatise and translation colophons.",
-  "translations": [
-   "Ryusei Keira, Mādhyamika and Epistemology. A Study of Kamalaśīla's Method for Proving the Voidness of All Dharmas. Introduction, annotated translation and Tibetan text of selected sections of the second chapter of the Madhyamakāloka. Wiener Studien zur Tibetologie und Buddhismuskunde 59, Wien: Arbeitskreis für Tibetische und Buddhistische Studien, Universität Wien, 2004. (English)",
-   "dbu ma snang ba zhes bya ba (Derge Tengyur D 3887): translated by Śīlendrabodhi, ska ba dpal brtsegs (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_ksmadhlu/text"
- },
- "SA_T04_n1002u": {
-  "title": "Hastavālaprakaraṇa with Hastavālaprakaraṇavṛtti",
-  "author": "Dignāga",
-  "genre": "Madhyamaka",
-  "summary": "The Hastavālaprakaraṇa with its autocommentary (vṛtti) consists of verses and prose commentary demonstrating the lack of inherent existence (svabhāva) in composite entities and atoms (paramāṇu), employing the analogy of the rope mistaken for a snake and showing that external entities are conventional designations (vyavahāramātra). The Indic original having been lost, the text survives in Tibetan and Chinese recensions and is known in Sanskrit through modern reconstructions.",
-  "attribution": "Authorship is divided between traditions: Tibetan canonical records (D 3844, D 3848) and Dunhuang manuscripts attribute the text to Āryadeva, whereas the Chinese translations (T 1620 translated by Paramārtha, T 1621 translated by Yijing) attribute it to Dignāga. The Tibetan translation (D 3844) attributes the work to Āryadeva ('phags pa lha). The Tibetan translation (D 3848) attributes the work to Āryadeva ('phags pa lha).",
-  "edition": "Hastavālaprakaraṇa with vṛtti, ed./reconstructed in Giuseppe Tucci, Minor Buddhist Texts, Part I, Serie Orientale Roma IX.1, Is.M.E.O., Rome 1956 (Sanskrit reconstruction from Tibetan/Chinese).",
-  "archive_url": "",
-  "coverage": "complete — Contains kārikās and prose vṛtti in modern Sanskrit retroversion from the Tibetan and Chinese versions.",
-  "translations": [
-   "cha shas kyi yan lag ces bya ba'i rab tu byed pa (Derge Tengyur D 3844): translated by Śraddhākaravarman, lo chen rin chen bzang po (Tibetan)",
-   "rab tu byed pa lag pa'i tshad kyi tshig le'ur byas pa (Derge Tengyur D 3848) (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_n1002u/text"
- },
  "SA_T04_n1003u": {
   "title": "Madhyamakahṛdaya",
   "author": "Bhāvaviveka",
@@ -16496,22 +16083,6 @@
    "dbu ma'i snying po'i tshig le'ur byas pa (Derge Tengyur D 3855): translated by Atiśa Dīpaṃkaraśrījñāna, nag 'tsho lo tsA ba tshul khrims rgyal ba; at ra sa 'phrul snang gi gtsug lag khang gi gzhi (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_n1003u/text"
- },
- "SA_T04_n1047u": {
-  "title": "Madhyamārthasaṃgraha",
-  "author": "Bhāviveka",
-  "genre": "Madhyamaka",
-  "summary": "The Madhyamārthasaṃgraha is a concise Madhyamaka treatise in eleven stanzas setting forth the schema of the two truths (satyadvaya). It articulates a division of ultimate truth (paramārtha) into paryāyaparamārtha and aparyāyaparamārtha, alongside conventional truth (saṃvṛti) classified into tathyasaṃvṛti and mithyāsaṃvṛti.",
-  "attribution": "Attributed to Bhāviveka (Bhavyaviveka / Bhavya; Tib. Legs ldan 'byed). However, the authenticity of the work ascribed to Bhāviveka is considered doubtful in modern scholarship.",
-  "edition": "N. Aiyaswami Sastri, 'Madhyamārthasaṃgraha of Bhāvaviveka (Restored from the Tibetan Version with an English Translation)', Journal of Oriental Research (Madras), 1931, pp. 41–49.",
-  "archive_url": "",
-  "coverage": "complete — Text consists of the opening maṅgala, 11 kārikās, and closing colophons. Stanza 9cd contains an ellipsis line ('śaśidvayagraho'kalpā............................... ||9 ||').",
-  "translations": [
-   "N. Aiyaswami Sastri, 'Madhyamārthasaṃgraha of Bhāvaviveka (Restored from the Tibetan Version with an English Translation)', Journal of Oriental Research (Madras), 1931, pp. 41–49. (English)",
-   "Daniel Ferrer, 'Bhāvaviveka's Abridged Meaning of the Middle Position', 1992. (English)",
-   "dbu ma'i don bsdus pa (Derge Tengyur D 3857): translated by nag 'tsho lo tsA ba tshul khrims rgyal ba (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_n1047u/text"
  },
  "SA_T04_n2850u": {
   "title": "Svabhāvavāda",
@@ -16674,21 +16245,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_nagysk_u/text"
  },
- "SA_T04_nagyuksu": {
-  "title": "Yuktiṣaṣṭikārikā",
-  "author": "Nāgārjuna",
-  "genre": "Madhyamaka",
-  "summary": "The Yuktiṣaṣṭikārikā ('Sixty Stanzas on Reasoning') is an essential Madhyamaka treatise by Nāgārjuna. In sixty verses following an opening homage, the work treats existence (bhāva) and non-existence (abhāva), dependent origination, saṃsāra, and nirvāṇa. The e-text represents a Sanskrit reconstruction based on the 1993 edition by Bimalendra Kumar.",
-  "attribution": "Attributed to Nāgārjuna. The continuous Sanskrit text in this file represents a modern reconstruction based on Bimalendra Kumar's edition.",
-  "edition": "Bimalendra Kumar, 'The Critical Edition of Yuktiṣaṣṭika-Kārikā of Nāgārjuna', The Tibet Journal (Autumn 1993), pp. 3–16.",
-  "archive_url": "",
-  "coverage": "complete — Complete text of the modern reconstruction, comprising an unnumbered opening homage, 60 kārikās (labeled Yukti_1 to Yukti_60), and a Sanskrit rendering of the Tibetan translation colophon mentioning Pa tshab Nyi ma grags (Sūryakīrti) and Muditaśrī.",
-  "translations": [
-   "Christian Lindtner, Master of Wisdom: Writings of the Buddhist Master Nāgārjuna, Berkeley: Dharma Publishing, 1986. (English)",
-   "rigs pa drug cu pa'i tshig le'ur byas pa zhes bya ba (Derge Tengyur D 3825): translated by Muditaśrījñāna, pa tshab lo tsA ba nyi ma grags pa (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_nagyuksu/text"
- },
  "SA_T04_santbcpu": {
   "title": "Bodhicaryāvatāra",
   "author": "Śāntideva",
@@ -16706,33 +16262,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_santbcpu/text"
  },
- "SA_T04_vasbocpu": {
-  "title": "Bodhicittotpādasūtraśāstra",
-  "author": "Vasubandhu",
-  "genre": "Madhyamaka",
-  "summary": "The Bodhicittotpādasūtraśāstra is a Mahāyāna treatise in twelve chapters expounding the generation of the resolve for awakening (bodhicitta), the bodhisattva vow, and the six perfections (ṣaṭpāramitā). Preserved in the Chinese Buddhist canon (T. 1659, translated by Kumārajīva) under an attribution to Vasubandhu. The Sanskrit text in this e-text is based on the 1949 edition by Bhadanta Shantibhiksu.",
-  "attribution": "Attributed to Vasubandhu (天親菩薩造) and translated into Chinese by Kumārajīva (Taishō no. 1659, 402–412 CE). The Sanskrit text in this e-text is an edition by Bhadanta Shantibhiksu (1949).",
-  "edition": "Bhadanta Shantibhiksu, Bodhicittotpāda Sūtra śāstra, VBA 2, India, 1949.",
-  "archive_url": "",
-  "coverage": "complete — Complete in 12 chapters (vargas), running from chapter 1 (adhyeṣaṇotpādaḥ) to chapter 12 (puṇyaparigrahaḥ), concluding with 'pariniṣṭhitaṃ bodhicittotpādasūtraśāstram'.",
-  "translations": [],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T04_vasbocpu/text"
- },
- "SA_T05_bsa062_u": {
-  "title": "Śālistambakakārikā",
-  "author": "Nāgārjuna",
-  "genre": "Sūtra Commentaries",
-  "summary": "A 70-verse metrical treatise summarizing the teachings of the Śālistambasūtra ('Rice Seedling Sūtra'). Using the botanical metaphor of a sprouting rice seed, it explains the Mahāyāna doctrine of dependent origination (pratītyasamutpāda) by contrasting external (plant growth) and internal (psychophysical twelvefold) causal sequences, underscoring the absence of an agent (kartṛ), enduring self (ātman), or divine creator (īśvara). Because the original Sanskrit text is lost and survives only in Tibetan canonical translations (Toh 3985), this e-text represents the modern Sanskrit retroversion prepared by Sonam Rabten in 2004.",
-  "attribution": "Traditionally attributed to Nāgārjuna in the Tibetan Tengyur (Degé Toh 3985; Peking 5485) and the colophon.",
-  "edition": "Sonam Rabten (ed. & reconstructor), Ācāryanāgārjunapraṇītā saṭīkā Āryaśālistambakakārikā: Acarya Nagarjuna's Aryasalistambakakarika with the Autocommentary (Bibliotheca Indo-Tibetica Series), Sarnath, Varanasi: Central Institute of Higher Tibetan Studies (CIHTS), 2004, pp. 255–261.",
-  "archive_url": "",
-  "coverage": "complete — Complete 70 kārikās (vv. 1–70) along with opening maṅgala and translated colophons.",
-  "translations": [
-   "Jeffrey D. Schoening, The Śālistamba Sūtra and its Indian Commentaries, 2 vols. (Wiener Studien zur Tibetologie und Buddhismuskunde, 35.1–2), Wien: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien, 1995. (English)",
-   "phags pa sA lu ljang pa'i tshig le'ur byas pa (Derge Tengyur D 3985) (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T05_bsa062_u/text"
- },
  "SA_T05_bsu027_u": {
   "title": "Pratītyasamutpādādivibhaṅganirdeśasūtra",
   "author": "",
@@ -16746,35 +16275,6 @@
    "rten cing 'brel bar 'byung ba dang po dang rnam par dbye ba bstan pa zhes bya ba'i mdo (Derge Kangyur D 211): translated by Nam-mkhaH (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T05_bsu027_u/text"
- },
- "SA_T05_n1110u": {
-  "title": "Bodhyāpattideśanāvṛtti",
-  "author": "Nāgārjuna",
-  "genre": "Sūtra Commentaries",
-  "summary": "The Bodhyāpattideśanāvṛtti is an Indian commentary on the Bodhyāpattideśanā (also known as the Triskandhasūtra), embedded within the Ratnakūṭa. The commentary explicates the scriptural status and setting of the practice, the method of purifying bodhisattva downfalls, the names and qualities of the Buddhas, and the dedication of merits. Traditionally ascribed to Nāgārjuna; this e-text provides the Sanskrit restoration based on the Tibetan Tanjur version.",
-  "attribution": "Ascribed to Nāgārjuna in the Tibetan Tanjur colophon, and translated into Tibetan by Śāntarakṣita and Rñe-ba Devaghoṣa.",
-  "edition": "",
-  "archive_url": "",
-  "coverage": "complete — Complete commentary (modern Sanskrit restoration from Tibetan), concluding with 142 summary verses, the author's colophon, and the translation colophon.",
-  "translations": [
-   "byang chub kyi ltung ba bshags pa'i 'grel pa (Derge Tengyur D 4005): translated by Śāntirakṣita, rnyi ba de ba g+ho Sha (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T05_n1110u/text"
- },
- "SA_T05_nagsaliu": {
-  "title": "Śālistambakamahāyānasūtraṭīkā",
-  "author": "Nāgārjuna",
-  "genre": "Sūtra Commentaries",
-  "summary": "The Śālistambakamahāyānasūtraṭīkā (also known as Śālistambakavistarākhyāṭīkā) is a commentary on the Śālistambasūtra, elucidating the core Buddhist doctrine of dependent origination (pratītyasamutpāda) through both outer (agricultural/sprout) and inner causal frameworks. Canonical Tibetan tradition ascribes both the verse summary (Śālistambakakārikā) and this prose exposition to Nāgārjuna. As preserved here, the e-text consists of a modern Sanskrit retro-translation (saṃskṛta-punaruddhāra) prepared from the Tibetan by Dr. Sonam Rabten.",
-  "attribution": "Canonically attributed to Nāgārjuna in the Tibetan Tengyur (Toh 3986), where it is associated with the Śālistambakakārikā (Toh 3985). Modern dating models place the text c. 571–801 CE. Crucially, the Sanskrit text preserved in this e-text is a modern reconstruction (saṃskṛta-punaruddhāra) made from the Tibetan by Dr. Sonam Rabten in 2004.",
-  "edition": "Dr. Sonam Rabten (restored, transl. & ed.), Ācārya Nāgārjuna's Āryaśālistambakakārikā with the Autocommentary, Bibliotheca Indo-Tibetica Series, Sarnath, Varanasi: Central Institute of Higher Tibetan Studies, 2004.",
-  "archive_url": "",
-  "coverage": "complete — Complete Sanskrit restoration of the commentary in chapters (paṭalas), ending with the concluding stanzas and the Sanskrit retro-translation of the Tibetan canonical colophon (naming translators Dharmaśrībhadra, Sādhumati, Jñānakumāra, and reviser Śrīkuṭīra).",
-  "translations": [
-   "phags pa sA lu ljang pa'i tshig le'ur byas pa (Derge Tengyur D 3985) (Tibetan)",
-   "phags pa sA lu ljang pa zhes bya ba theg pa chen po'i mdo'i rgya cher bshad pa (Derge Tengyur D 3986): translated by Dharmaśrīprabha, gnyags lo tsA ba ye shes gzhon nu, legs pa'i blo gros; revised by ska ba dpal brtsegs (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T05_nagsaliu/text"
  },
  "SA_T06_abhsubhu": {
   "title": "Abhidharmasamuccayabhāṣya",
@@ -16910,20 +16410,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_bsa073_u/text"
  },
- "SA_T06_n1290u": {
-  "title": "Bāhyārthasiddhikārikā",
-  "author": "Śubhagupta",
-  "genre": "Yogācāra",
-  "summary": "The Bāhyārthasiddhikārikā ('Verses Establishing External Objects') is a major philosophical treatise in 188 kārikās by the Buddhist realist thinker Śubhagupta. Defending an atomistic external realism against Yogācāra (Vijñānavāda) idealism, Śubhagupta mounts a systematic critique of idealist arguments advanced by Vasubandhu, Diṅnāga, and Dharmakīrti (particularly targeting the sahopalambhaniyama thesis and the denial of external causes for cognitions). While the continuous Sanskrit text is lost in India and survives as a whole only in classical Tibetan translation, this e-text presents N. Aiyaswami Sastri's modern Sanskrit retroversion.",
-  "attribution": "Authored by Śubhagupta. Survives in Tibetan translation (Tanjur, D 4244, translated by Jinamitra and dPal brtsegs rakṣita) and as Sanskrit fragments. The Sanskrit verses in this e-text represent a reconstruction/retroversion associated with N. A. Sastri.",
-  "edition": "",
-  "archive_url": "",
-  "coverage": "complete — Complete Sanskrit text comprising all 188 stanzas.",
-  "translations": [
-   "phyi rol gyi don grub pa zhes bya ba'i tshig le'ur byas pa (Derge Tengyur D 4244): translated by Jinamitra, ska ba dpal brtsegs (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_n1290u/text"
- },
  "SA_T06_n1333u": {
   "title": "Cittatattvasaṅgraha",
   "author": "Priyānanda",
@@ -16951,23 +16437,6 @@
    "rnal 'byor spyod pa'i sa (Derge Tengyur D 4035) (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_n1394u/text"
- },
- "SA_T06_n2994u": {
-  "title": "Mahāyānasaṃgraha (introduction and chapters 1–2, Sanskrit reconstruction)",
-  "author": "Asaṅga",
-  "genre": "Yogācāra",
-  "summary": "The Mahāyānasaṃgraha of Asaṅga is a Yogācāra treatise surviving in Tibetan and Chinese translations. The e-text contains a modern Sanskrit reconstruction of the introduction and the first two chapters.",
-  "attribution": "Attributed to Asaṅga. The Sanskrit original does not survive; the e-text is a modern reconstruction.",
-  "edition": "",
-  "archive_url": "",
-  "coverage": "partial — Prastāvanā, chapter I, and chapter II. Numbers in parentheses run through the text.",
-  "translations": [
-   "Étienne Lamotte, trans., La Somme du Grand Véhicule d'Asaṅga (Mahāyānasaṃgraha), Louvain, 1938–. (French)",
-   "Karl Brunnhölzl, trans., 2018. (English)",
-   "John P. Keenan, trans., The Summary of the Great Vehicle by Bodhisattva Asanga, Center for Buddhist Translation and Research, 1992. (English)",
-   "theg pa chen po bsdus pa (Derge Tengyur D 4048): translated by Jinamitra, Śīlendrabodhi, sna nam btsun pa ye shes sde (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T06_n2994u/text"
  },
  "SA_T06_ybh-laukikamarga": {
   "title": "Śrāvakabhūmi (Laukikamārga section)",
@@ -17046,20 +16515,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T07_dhrmsk_u/text"
  },
- "SA_T07_n772u": {
-  "title": "Abhidharmāmṛta",
-  "author": "Ghoṣaka",
-  "genre": "Abhidharma",
-  "summary": "The Abhidharmāmṛta (or Abhidharmāmṛtarasaśāstra) is an early, systematic manual of Sarvāstivāda Abhidharma attributed to Bhadanta Ghoṣaka, one of the four great venerable masters of the Vaibhāṣika lineage associated with the western/Gandhāran tradition. Organized into sixteen chapters (bindus), it provides a clear exposition of Buddhist scholastic categories, including charity and moral discipline, realms of rebirth, the skandhas, dhātus, and āyatanas, causal conditions, latent defilements, the path of meditation, and unconditioned dharmas. No original Sanskrit manuscripts are extant; this digital text represents Shanti Bhikshu Sastri's 1953 retroversion into Sanskrit based on the 3rd-century CE Chinese translation preserved in the Taishō Canon (T 1553).",
-  "attribution": "Attributed to the Sarvāstivādin master Bhadanta Ghoṣaka (traditionally identified as one of the four principal authorities of the Vaibhāṣika school or a prominent western/Gandhāran master). The original Indic text is lost; the present e-text is Shanti Bhikshu Sastri's 1953 modern reconstruction (retroversion) into Sanskrit from the surviving Chinese translation.",
-  "edition": "Shanti Bhikshu Sastri (ed. & reconstr.), Abhidharmāmṛta of Ghoṣaka, Visva-Bharati Studies 17, Santiniketan: Visvabharati, 1953.",
-  "archive_url": "https://archive.org/details/in.ernet.dli.2015.326757",
-  "coverage": "complete — Complete text of Shanti Bhikshu Sastri's 16-chapter (bindu) Sanskrit reconstruction, covering all 16 chapters of the Chinese translation (Taishō 1553).",
-  "translations": [
-   "Apitan ganluwei lun (阿毘曇甘露味論), 2 fascicles, Taishō Tripiṭaka, no. 1553 (translator unknown; dated 220–265). (Chinese)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T07_n772u/text"
- },
  "SA_T07_n797u": {
   "title": "Subodhālaṅkāra",
   "author": "Saṅgharakkhita",
@@ -17074,20 +16529,6 @@
    "Fryer, G. E. 'On the Ceylon Grammarian Sangharakkhita Thera and His Treatise on Rhetoric.' Journal of the Asiatic Society of Bengal pt. 1, no. 2 (1875): 91–125 (pp. 93–106). (English (translation))"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T07_n797u/text"
- },
- "SA_T07_nagdhdbu": {
-  "title": "Dharmadhātugarbhavivaraṇa",
-  "author": "Nāgārjuna",
-  "genre": "Abhidharma",
-  "summary": "The Dharmadhātugarbhavivaraṇa is a brief prose commentary attributed to Nāgārjuna that analyzes the Pratītyasamutpāda stanza ('ye dharmā hetuprabhavā hetuṃ teṣāṃ tathāgato hy avadat...'). The text classifies the twelve links into five causes (hetu: avidyā, saṃskāra, tṛṣṇā, upādāna, bhava) and seven results (phala: vijñāna, nāmarūpa, ṣaḍāyatana, sparśa, vedanā, jāti, jarāmaraṇa), and glosses 'Tathāgata' and 'Mahāśramaṇa' in terms of forward (anuloma) and reverse (pratiloma) dependent origination.",
-  "attribution": "Attributed to Nāgārjuna in the Tibetan canonical colophon (Derge Tengyur D 4101, translated by Indian Upādhyāya Jñānagarbha and Ska ba Dpal brtsegs).",
-  "edition": "Gyaltsen Namdrol, Pratityasamutpada hrdaya and Dharmadhatugarbhavivarana, Sarnath: Central Institute of Higher Tibetan Studies, 1997.",
-  "archive_url": "",
-  "coverage": "complete — Corresponds to Toh 4101 / D 4101, including opening homage, full exposition of the 'ye dharmā hetuprabhavāḥ' stanza, and the translation colophon.",
-  "translations": [
-   "phags pa chos kyi dbyings kyi snying po'i rnam par 'grel pa (Derge Tengyur D 4101): translated by Jñānagarbha, ska ba dpal brtsegs (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T07_nagdhdbu/text"
  },
  "SA_K10_udanav_u": {
   "title": "Udānavarga",
@@ -17304,21 +16745,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T10_bsa025_u/text"
  },
- "SA_T10_bsa067_u": {
-  "title": "Bhavasaṅkrāntiparikathā",
-  "author": "Nāgārjuna",
-  "genre": "Lekha",
-  "summary": "The Bhavasaṅkrāntiparikathā is a short Madhyamaka treatise of 16 stanzas traditionally attributed to Nāgārjuna, explaining how transmigration across existences (bhavasaṃkrānti) occurs without an enduring self or transmigrating entity (ātman/pudgala). It reconciles karmic continuity and rebirth with emptiness (śūnyatā) and dependent origination through analogies of dreams, reflections, and city-of-gandharvas illusions. As the original Sanskrit text is lost, this e-text preserves the modern Sanskrit retroversion prepared by N. Aiyaswami Sastri from Tibetan and Chinese sources.",
-  "attribution": "Ascribed in the Tibetan tradition (Dergé Tanjur Toh. 4162 and Toh. 3840) to Ācārya/Ārya Nāgārjuna and in the Chinese tradition (Taishō 1574, translated by Dānapāla / Shihu) to Bodhisattva Nāgārjuna. Furthermore, the original Sanskrit text of this work is lost; the text in this file is a reconstructed text.",
-  "edition": "Pandit Aiswamy Shastri: Bhavasankrantiparikatha. Madras: Adyar Library, 1938, pp. 1-7.",
-  "archive_url": "https://archive.org/details/in.ernet.dli.2015.204648",
-  "coverage": "complete — Complete 16-verse text of reconstructed Sanskrit edition, including opening homage to Mañjuśrī Kumārabhūta and closing colophon.",
-  "translations": [
-   "srid pa 'pho ba (Derge Tengyur D 3840) (Tibetan)",
-   "srid pa las 'das pa'i gtam (Derge Tengyur D 4162): translated by Śrīratha, Ma nang lo tsA ba dge slong grags 'byor shes rab (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T10_bsa067_u/text"
- },
  "SA_T10_cansisy2": {
   "title": "Śiṣyalekha",
   "author": "Candragomin",
@@ -17466,40 +16892,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T11_arhebt2u/text"
  },
- "SA_T11_bsa001_u": {
-  "title": "Ālambanaparīkṣā",
-  "author": "Dignāga",
-  "genre": "Pramāṇa",
-  "summary": "The Ālambanaparīkṣā ('Investigation of the Percept') is a concise foundational treatise in eight verses by the Buddhist epistemologist Dignāga. Dignāga defines a perceptual cognitive object (ālambana) through two joint criteria: it must act as the causal condition (kāraṇa/pratyaya) producing the cognition, and the cognition must bear its subjective appearance or form (tadābhāsa/ākāra). Arguing against externalist atomism, he demonstrates that neither individual atoms nor aggregated atomic composites meet both criteria, ultimately concluding that the object cognized is actually an internal mental aspect appearing as if external, establishing the Yogācāra idealist doctrine.",
-  "attribution": "Attributed to Dignāga across Sanskrit citations, Tibetan translation (D 4205), and Chinese translations (Taishō 1619 by Paramārtha, Taishō 1624 by Xuanzang).",
-  "edition": "N. Aiyaswami Shastri, Madras: The Adyar Library, 1942.",
-  "archive_url": "",
-  "coverage": "complete — Complete text of the eight root kārikās (verses 1–8) with introductory mangala and closing colophon. Dignāga's prose autocommentary (Ālambanaparīkṣāvṛtti) is omitted in this specific file.",
-  "translations": [
-   "Douglas Duckworth, Malcolm David Eckel, Jay L. Garfield, John Powers, Yeshes Thabkhas, and Sonam Thakchöe, 2016. (English)",
-   "N. Aiyaswami Sastri, Ālambanaparīkṣā and Vṛtti by Diṅnāga with the Commentary of Dharmapāla, Madras: The Adyar Library, 1942. (English)",
-   "Susumu Yamaguchi, 'Examen de l'objet de la connaissance (Ālambanaparīkṣā) par Dignāga', Journal Asiatique, 1929. (French)",
-   "Erich Frauwallner, 'Dignāgas Ālambanaparīkṣā: Text, Übersetzung und Erläuterungen', Wiener Zeitschrift für die Kunde des Morgenlandes 37, 1930, pp. 174–194. (German)",
-   "dmigs pa brtag pa (Derge Tengyur D 4205): translated by Śāntakara, pa tshab lo tsA ba tshul khrims rgyal mtshan (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T11_bsa001_u/text"
- },
- "SA_T11_bsa002_u": {
-  "title": "Ālambanaparīkṣā with Ālambanaparīkṣāvṛtti",
-  "author": "Dignāga",
-  "genre": "Pramāṇa",
-  "summary": "The Ālambanaparīkṣā ('Investigation of the Perceptual Object') with its auto-commentary (vṛtti) by Dignāga is a foundational treatise in eight verses expounding Yogācāra-vijñānavāda epistemology. Dignāga argues that external matter cannot serve as an object of cognition (ālambana), because neither indivisible atoms nor aggregated gross bodies fulfill the necessary twin criteria: being the cause that produces the cognition and presenting their likeness (ākāra) to consciousness. He concludes that the cognitive object is an internal mental appearance projected outward by beginningless cognitive latencies (vāsanā / śakti), establishing an epistemological basis for mind-only idealism.",
-  "attribution": "Both the eight kārikās of the Ālambanaparīkṣā and the accompanying vṛtti are compositions of Dignāga.",
-  "edition": "Alambanapariksa with Alambanapariksavrtti, ed. N. Aiyaswami Shastri, Madras: The Adyar Library, 1942.",
-  "archive_url": "https://archive.org/details/in.gov.ignca.8271",
-  "coverage": "complete — Complete 8 verses with auto-commentary (vṛtti), in N. Aiyaswami Sastri's Sanskrit retroversion from Tibetan and Chinese.",
-  "translations": [
-   "Frauwallner, Erich. 'Dignāga's Ālambanaparīkṣā: Text, Übersetzung und Erläuterungen.' WZKM 37 (1930): 174–194. (German)",
-   "Tola, Fernando, and Carmen Dragonetti. 'Dignāga's Ālambanaparīkṣāvṛtti.' Journal of Indian Philosophy 10, no. 2 (1982). (English)",
-   "dmigs pa brtag pa'i 'grel pa (Derge Tengyur D 4206) (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T11_bsa002_u/text"
- },
  "SA_T11_bsa020_u": {
   "title": "Vajrasūcī (verses only)",
   "author": "Aśvaghoṣa",
@@ -17611,40 +17003,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T11_bsa057_u/text"
  },
- "SA_T11_bsa059_u": {
-  "title": "Santānāntarasiddhi",
-  "author": "Dharmakīrti",
-  "genre": "Pramāṇa",
-  "summary": "The Santānāntarasiddhi ('Proof of Other Mind-Streams') is a concise treatise by Dharmakīrti. Framed as a dialogue opening with a single verse and proceeding through prose sections up to section [87-93], it resolves the philosophical challenge of other minds from within the Vijñānavāda (Cittamātra) idealist system, directly rebutting the objection that idealism logically degenerates into solipsism. Dharmakīrti demonstrates that just as a realist infers intentional consciousness from observing physical movements and speech, an idealist can equally infer distinct intentional mental continua from coordinated sensory appearances without positing mind-independent external matter.",
-  "attribution": "Attributed to Dharmakīrti as one of his treatises on pramāṇa. This e-text presents a modern Sanskrit reconstruction from the canonical Tibetan translation (Toh 4219 / D 4219) executed by J. S. Negi.",
-  "edition": "J. S. Negi (ed. and reconstructor), Santānāntarasiddhi kārikā ṭīkā, Sarnath: Central Institute of Higher Tibetan Studies, 1997, pp. 1–30.",
-  "archive_url": "https://archive.org/details/tibetskiperevods00dhar",
-  "coverage": "complete — Complete reconstructed treatise comprising an initial verse followed by prose sections bracketed [1-3] through [87-93], ending with the author colophon.",
-  "translations": [
-   "Th. Stcherbatsky, Russian translation of Santānāntarasiddhi, Petrograd, 1922. (Russian)",
-   "Hidenori Kitagawa, outline translation of Santānāntarasiddhi, Journal of the Greater India Society 14, no. 1. (English)",
-   "Harish C. Gupta (trans.), 'Establishment of the Existence of Other Minds: A Free Translation of Dharmakīrti's Santānāntara-siddhi and Vinitadeva's Santānāntara-rasiddhi-ṭīkā', translated from Russian in: Papers of Th. Stcherbatsky, Calcutta. (English)",
-   "Shōryū Katsura, 'Dharmakīrti \"Tasōzoku no sonzai ronshō\"' [Dharmakīrti's Santānāntarasiddhi], Hiroshima daigaku bungakubu kiyō (1983). (Japanese)",
-   "Thomas E. Wood, Mind Only: A Philosophical and Doctrinal Analysis of the Vijñānavāda, Honolulu: University of Hawaii Press, 1991. (English)",
-   "rgyud gzhan grub pa zhes bya ba'i rab tu byed pa (Derge Tengyur D 4219): translated by Viśuddhasiṃha, ska ba dpal brtsegs (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T11_bsa059_u/text"
- },
- "SA_T11_bsa061_u": {
-  "title": "Santānāntarasiddhi with Santānāntarasiddhiṭīkā",
-  "author": "Dharmakīrti, Vinītadeva",
-  "genre": "Pramāṇa",
-  "summary": "The Santānāntarasiddhi ('Proof of Other Mental Continua') by Dharmakīrti is a treatise in 93 verses demonstrating from an idealist (Vijñānavāda / Yogācāra) standpoint that the rejection of external physical reality does not entail solipsism, since purposive physical actions and speech permit a valid inference to the existence of other mental series. Vinītadeva's Santānāntarasiddhiṭīkā is a commentary on the text providing glosses and philosophical defense against external-world realist and solipsist objections. This e-text comprises the reconstructed Sanskrit text edited by J. S. Negi.",
-  "attribution": "Dharmakīrti's root text and Vinītadeva's commentary survive in Tibetan canonical translation (Bstan 'gyur: D 4219 and D 4238). This e-text represents a Sanskrit reconstruction made from the Tibetan by J. S. Negi. The Tibetan translation (D 4219) attributes the work to Dharmakīrti I (d+harmA kI rti).",
-  "edition": "J. S. Negi, Santānāntarasiddhi kārikā ṭīkā, Sarnath: Central Institute of Higher Tibetan Studies, 1997, 1–30.",
-  "archive_url": "https://archive.org/details/tibetskiperevods00dhar",
-  "coverage": "complete — Complete reconstructed text of Dharmakīrti's 93 verses embedded within Vinītadeva's commentary, from the initial maṅgala through verse 93 and Vinītadeva's concluding verses and colophon.",
-  "translations": [
-   "rgyud gzhan grub pa zhes bya ba'i rab tu byed pa (Derge Tengyur D 4219): translated by Viśuddhasiṃha, ska ba dpal brtsegs (Tibetan)",
-   "rgyud gzhan grub pa'i 'grel bshad (Derge Tengyur D 4238): translated by Viśuddhasiṃha, ska ba dpal brtsegs (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T11_bsa061_u/text"
- },
  "SA_T11_bsa063_u": {
   "title": "Sambandhaparīkṣā with Sambandhaparīkṣāvyākhyā (kārikās 1–22)",
   "author": "Dharmakīrti, Prabhācandra",
@@ -17688,30 +17046,6 @@
   "coverage": "complete — Text of Haribhadrasūri's commentary on the Nyāyapraveśa, from the opening maṅgala verse to the final colophon (corresponding to pp. 1–29 in Dhruva's edition).",
   "translations": [],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T11_bsa066_u/text"
- },
- "SA_T11_bsa069_u": {
-  "title": "Tarkaśāstra",
-  "author": "Vasubandhu",
-  "genre": "Pramāṇa",
-  "summary": "The Tarkaśāstra (preserved in Chinese translation as the Rushi lun 如實論, Taishō 1633, translated by Paramārtha) is a Buddhist treatise on debate and dialectics representing pre-Diṅnāga logic. It consists of three chapters (prakaraṇas) treating debate, futile rejoinders (jāti), and points of defeat (nigrahasthāna). The Sanskrit text is preserved in a modern retroversion from the Chinese by Giuseppe Tucci.",
-  "attribution": "The treatise is traditionally attributed to Vasubandhu in the Chinese Buddhist tradition (Taishō no. 1633, translated by Paramārtha). Modern scholars have debated this attribution: Giuseppe Tucci noted that while tradition asserts Vasubandhu's authorship, it remains questionable. The Sanskrit original is lost; the present text is Giuseppe Tucci's 1929 Sanskrit retroversion from the Chinese.",
-  "edition": "G. Tucci, Pre-Diṅnāga Buddhist texts on Logic from Chinese Sources, Baroda: Oriental Institute, 1929 (Gaekwad's Oriental Series, 49). Reprint: Nepal: Pilgrims Book House, 1998.",
-  "archive_url": "https://archive.org/details/dignagapredignagabuddhisttextsonlogicfromchinesesourcesgiuseppetucciuniversityofbaroda49_832_q",
-  "coverage": "complete — Complete reconstruction of the extant Chinese text in three prakaraṇas (chapter 1, chapter 2 on jāti, chapter 3 on nigrahasthāna), corresponding to pp. 1–40 of Giuseppe Tucci's edition.",
-  "translations": [],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T11_bsa069_u/text"
- },
- "SA_T11_bsa070_u": {
-  "title": "Upāyahṛdaya",
-  "author": "",
-  "genre": "Pramāṇa",
-  "summary": "The Upāyahṛdaya (surviving in Chinese translation Fangbian xin lun 方便心論, T 1632, and preserved in Sanskrit via Giuseppe Tucci's retroversion) is an early Buddhist manual on debate. In four prakaraṇas, it opens with a defense of debate against an opponent arguing that debate generates anger and should not be undertaken, and proceeds to discuss debate rules, refutations, and categories parallel to early Indian dialectical literature.",
-  "attribution": "The original Sanskrit text is lost and survives only in a Chinese translation (Fangbian xin lun 方便心論, T 1632) completed in 472 CE by Kiṃkara (Jijiaye 吉迦夜). A later attribution to Nāgārjuna appears in secondary sources and commentaries, but scholars view the authorship as uncertain (with A. K. Warder noting it could belong to the Bahuśrutīyas). Yūichi Kajiyama argued for the attribution to Nāgārjuna, though others doubt it.",
-  "edition": "G. Tucci: Pre-Diṅnāga Buddhist texts on Logic from Chinese Sources. Baroda 1929 (Gaekwad's Oriental Series, 49). reprint: Nepal: Pilgrims Book House, 1998, 1-40. (Reconstructed Text)",
-  "archive_url": "",
-  "coverage": "complete — Complete text of Tucci's Sanskrit retroversion across 4 prakaraṇas, corresponding to pp. 1–32 of Tucci (reprint pp. 1–40).",
-  "translations": [],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T11_bsa070_u/text"
  },
  "SA_T11_bsa071_u": {
   "title": "Hetubindu",
@@ -17894,21 +17228,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T11_jithettu/text"
  },
- "SA_T11_jithetuu": {
-  "title": "Hetutattvopadeśa",
-  "author": "Jitāri",
-  "genre": "Pramāṇa",
-  "summary": "The Hetutattvopadeśa ('Instruction on the True Nature of the Logical Reason') is an introductory compendium of Buddhist logic (hetuvidyā/pramāṇa) composed by Jitāri. Following Dignāga's Nyāyapraveśa and Dharmakīrtian pramāṇa terminology, it expounds proof (sādhana), refutation (dūṣaṇa), the threefold mark of the reason (trairūpya), and the various fallacies of the thesis (pakṣābhāsa), reason (hetvābhāsa), and example (dṛṣṭāntābhāsa). This e-text preserves Durgacharan Chattopadhyaya's 1939 Sanskrit retro-translation made from the Tibetan version.",
-  "attribution": "Attributed to Jitāri.",
-  "edition": "Durgacharan Chattopadhyaya: Hetutattvopadeśa by Jitāri: reconstructed Sanskrit text with the Tibetan version. Calcutta: University of Calcutta 1939.",
-  "archive_url": "https://archive.org/details/dli.calcutta.10561",
-  "coverage": "complete — Reconstructed Sanskrit text in 111 numbered sections, including initial summary kārikās, detailed prose treatise on the conditions and fallacies of inference, author colophon, and retro-translated Tibetan translation colophon.",
-  "translations": [
-   "Yūshō Miyasaka, The Translation into Japanese and notes of the Jitāri's Hetu-tattova-upadeśa, Mikkyō Bunka (1955). (Japanese)",
-   "gtan tshigs kyi de kho na nyid bstan pa (Derge Tengyur D 4261): translated by Kumārakalaśa, 'bro seng dkar shAkya 'od (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T11_jithetuu/text"
- },
  "SA_T11_jnaniva": {
   "title": "Nibandhāvalī (incomplete)",
   "author": "Jñānaśrīmitra",
@@ -18083,25 +17402,6 @@
   "coverage": "complete — Text preserved in R. N. Pandey's 1984 edition.",
   "translations": [],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T11_rvadrahu/text"
- },
- "SA_T11_samtasi": {
-  "title": "Saṃtānāntarasiddhi",
-  "author": "Dharmakīrti",
-  "genre": "Pramāṇa",
-  "summary": "The Saṃtānāntarasiddhi ('Proof of Other Mindstreams') is Dharmakīrti's short philosophical treatise on the problem of other minds and the refutation of solipsism. Beginning with a single introductory verse followed by concise prose dialectic, Dharmakīrti shows that inferring the presence of an external continuum of consciousness by observing bodily and vocal activity operates with equal logical validity in an idealist (cittamātra/vijñaptimātra) ontology as in a realist one. The treatise concludes by examining the status and scope of telepathic cognition (paracittajñāna) possessed by yogins and awakened buddhas within an anti-realist epistemological framework.",
-  "attribution": "The Saṃtānāntarasiddhi is traditionally listed as one of the seven treatises of Dharmakīrti, categorized as one of the four supplementary treatises ('branches'). The work survived completely in Tibetan translation (D 4219). This e-text is a modern reconstruction into Sanskrit by J. S. Negi.",
-  "edition": "J. S. Negi (ed.), Santānāntarasiddhi (kārikā & ṭīkā, reconstructed), Sarnath: Central Institute of Higher Tibetan Studies, 1997, pp. 1-30.",
-  "archive_url": "",
-  "coverage": "complete — Complete text of Dharmakīrti's prakaraṇa in Sanskrit reconstruction (opening with the introductory verse 'buddhipūrvāṃ kriyāṃ dṛṣṭvā svadehe...' and concluding with 'acintyo hi bhagavataḥ sarvārthādhigamaḥ...').",
-  "translations": [
-   "Th. Stcherbatsky, Russian translation of Dharmakīrti's Saṃtānāntarasiddhi, Petrograd, 1922. (Russian)",
-   "H. C. Gupta (trans.), 'Papers of Th. Stcherbatsky', Calcutta, 1969, p. 73 sq. (English)",
-   "Hidenori Kitagawa, translation of Santanāntarasiddhi. (English)",
-   "Shōryū Katsura, 'Dharmakīrti's Saṃtānāntarasiddhi--Japanese translation and synopsis', 1983. (Japanese)",
-   "Thomas E. Wood, translation in Mind Only: A Philosophical and Doctrinal Analysis of the Vijñānavāda. (English)",
-   "rgyud gzhan grub pa zhes bya ba'i rab tu byed pa (Derge Tengyur D 4219): translated by Viśuddhasiṃha, ska ba dpal brtsegs (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T11_samtasi/text"
  },
  "SA_T11_sbpramvu": {
   "title": "Pramāṇavārttikaṭīkā (fragments)",
@@ -18280,22 +17580,6 @@
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T14_n1282u/text"
  },
- "SA_T14_nagcitpu": {
-  "title": "Citralakṣaṇa",
-  "author": "Nagnajit",
-  "genre": "Śilpavidyā",
-  "summary": "The Citralakṣaṇa is a treatise on painting and image proportions traditionally ascribed to Nagnajit. The text relates the narrative involving the king (named Nagnajit/Bhayajit), Yama, and Brahmā concerning the restoration of a deceased boy and the genesis of painting, followed by iconometric rules and bodily proportions (parimāṇa) for figures such as universal monarchs (cakravartins). It is preserved in the Tibetan Tanjur (Peking no. 5806), and the Sanskrit e-text corresponds to Asoke Chatterjee Sastri's 1987 publication.",
-  "attribution": "The original text survived in Tibetan translation in the Tanjur (Peking no. 5806). The Sanskrit text in this e-text is based on the edition by Asoke Chatterjee Sastri published in 1987.",
-  "edition": "Asoke Chatterjee Sastri, The Citralakṣaṇa: An Old Text of Indian Art, Sanskrit, Tibetan and English Version. Calcutta 1987 (Bibliotheca Indica Series, 315).",
-  "archive_url": "",
-  "coverage": "complete — Includes Chapter 1 and Chapter 3 (ending at verse 3.165 with 'iti citralakṣaṇe parimāṇo nāmstṛtīyaḥ parivartaḥ / yāvat brahmaṇaḥ parimāṇalekhayaḥ samāptaḥ').",
-  "translations": [
-   "Berthold Laufer, Das Citralakṣaṇa nach dem tibetischen Tanjur herausgegeben und übersetzt. Leipzig: Otto Harrassowitz, 1913 (Dokumente der indischen Kunst, Erstes Heft: Malerei). (German)",
-   "B. N. Goswamy and A. L. Dahmen-Dallapiccola, trans., An Early Document of Indian Art: The Citralakṣaṇa of Nagnajit. New Delhi: Manohar, 1976. (English)",
-   "Asoke Chatterjee Sastri, The Citralakṣaṇa: An Old Text of Indian Art, Sanskrit, Tibetan and English Version. Calcutta, 1987 (Bibliotheca Indica Series, 315). (English)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T14_nagcitpu/text"
- },
  "SA_T14_stuplaku": {
   "title": "Stūpalakṣaṇakārikā with Stūpalakṣaṇakārikāvivecana",
   "author": "Bhadravyūha",
@@ -18321,38 +17605,6 @@
   "coverage": "partial — Contains chapter 2 only (titled 'Svaparapratyakṣalakṣaṇanyāyanirṇaya', treating perception), corresponding to folios 16a–21b of the manuscript, pp. 33–44 of Paramanandan Shastri's 1979 edition, and pp. 82–98 of Hideomi Yaita's 1988 edition.",
   "translations": [],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T14_tarkrplu/text"
- },
- "SA_T15_bsa060_u": {
-  "title": "Śatagāthā",
-  "author": "Vararuci",
-  "genre": "Nītiśāstra",
-  "summary": "The Śatagāthā ('Hundred Verses', also known as the Gāthāśataka) is a Buddhist gnomic anthology (nītiśāstra) traditionally ascribed to Ācārya Vararuci. Preserved in the Tanjur (Toh 4332 / D 4332), where it was translated into Tibetan by Vinayacandra and Dharmaprajña (Chos kyi shes rab), the work gathers 107 didactic maxims on worldly wisdom, ethical conduct, true friendship, virtue, and impermanence. The Sanskrit text in this e-text is modern scholar Losang Norbu Shastri's reconstruction from the Tibetan text, collated against classical Sanskrit gnomic parallels.",
-  "attribution": "Traditionally attributed to Ācārya Vararuci (Tib. Mchog sred) in the Tibetan Tanjur colophon (Toh 4332 / D 4332). Like most Buddhist nīti collections, it incorporates widely circulated gnomic verses shared with Cāṇakya and other subhāṣita corpora. No continuous original Sanskrit manuscript is known to survive; the Sanskrit text in this e-text is Losang Norbu Shastri's modern reconstruction/restoration (punar-uddhāra) based on the Tibetan translation and extant Sanskrit parallels.",
-  "edition": "Losang Norbu Shastri, ed., Śatagāthā of Ācārya Vararuci (Sanskrit Restoration, Tibetan Text, along with English and Hindi translations), Sarnath: Central Institute of Higher Tibetan Studies, 2001, pp. 59–158.",
-  "archive_url": "",
-  "coverage": "complete — Complete text of 107 verses (vv. 1–107) along with the restored colophon matching the full Tibetan Tanjur recension.",
-  "translations": [
-   "Losang Norbu Shastri, Śatagāthā of Ācārya Vararuci, Sarnath: Central Institute of Higher Tibetan Studies, 2001. (English)",
-   "Losang Norbu Shastri, Śatagāthā of Ācārya Vararuci, Sarnath: Central Institute of Higher Tibetan Studies, 2001. (Hindi)",
-   "Géza Bethlenfalvy, 'The Śatagāthā attributed to Vararuci', in Tibetan and Buddhist Studies Commemorating the 200th Anniversary of the Birth of Alexander Csoma de Kőrös, ed. Louis Ligeti, Budapest: Akadémiai Kiadó, 1984. (English)",
-   "tshigs su bcad pa brgya pa (Derge Tengyur D 4332): translated by Vinayacandra, shel dkar lo tsA ba chos kyi shes rab (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T15_bsa060_u/text"
- },
- "SA_T15_n1144u": {
-  "title": "Nītiśāstra",
-  "author": "Masūrākṣa",
-  "genre": "Nītiśāstra",
-  "summary": "The Nītiśāstra of Masūrākṣa is a didactic collection of gnomic maxims in seven chapters treating ethics, conduct, and statecraft. Preserved within the Tibetan Tanjur (D 4335) translated by Dharmaśrīvajra / Dharmaśrībhadra and Śākyamati / Śākya blo-gros, edited by Sunitikumar Pathak.",
-  "attribution": "Ascribed to Masūrākṣa in the opening verse and the closing colophon. Preserved in the Tibetan Tanjur (D 4335), translated by the Indian paṇḍita Dharmaśrīvajra (Tibetan catalog records Dharmaśrībhadra) and the Tibetan lotsawa Śākyamati (Śākya blo-gros). The Sanskrit text in this e-text represents Sunitikumar Pathak's modern reconstruction / edition.",
-  "edition": "Pathak, Sunitikumar (ed.). Nītiśāstra of Masūrākṣa (Tibetan and Sanskrit with an Introduction in English). Viśva-Bhāratī Annals. Santiniketan: Visva-Bharati, 1961.",
-  "archive_url": "",
-  "coverage": "complete — Complete text in seven adhyāyas (chapters), ending with 'iti saptamo'dhyāyaḥ'.",
-  "translations": [
-   "Flick, Hugh. Carrying Enemies on Your Shoulder. Delhi: Sri Satguru, 1996. (English)",
-   "lugs kyi bstan bcos (Derge Tengyur D 4335): translated by Dharmaśrībhadra, shAkya blo gros (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T15_n1144u/text"
  },
  "SA_T16_n1289u": {
   "title": "Tarkabhāṣāṭīkā",
@@ -25495,30 +24747,6 @@
   "translations": [],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T16_buddhodayaku/text"
  },
- "SA_T01_prahanapurau": {
-  "title": "Prahāṇapūrakaśatavandanānāmamahāyānasūtra",
-  "author": "",
-  "genre": "Stotra",
-  "summary": "The Prahāṇapūrakaśatavandanānāma Mahāyānasūtra (Tibetan: Dpang skong phyag brgya pa, Toh 267) is a Mahāyāna liturgical text consisting of homage to the Buddhas of the ten directions and various Buddha realms, followed by ritual verses on bodhicitta generation, confession of faults, rejoicing in merit (anumodanā), and praṇidhāna aspirations. In Tibetan tradition, it is celebrated as part of the Gnyan po gsang ba ('Awesome Secret'), held to be among the first Buddhist texts to reach Tibet during the reign of King Lha Thothori Nyantsen.",
-  "attribution": "Corresponds to the Tibetan Kangyur text Dpang skong phyag brgya pa (D 267). No Indian Sanskrit original is known; the Sanskrit here is a modern back-translation from Tibetan.",
-  "edition": "",
-  "archive_url": "",
-  "coverage": "complete — Complete text ending with the colophon 'prahāṇapūrakaśatavandanānāma mahāyānasūtraṁ samāptam', followed by an explanatory note on the Tibetan legend that the text fell from the sky in the time of King Lha Tho tho ri gnyan btsan.",
-  "translations": [],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T01_prahanapurau/text"
- },
- "SA_T16_prajnahrdayu": {
-  "title": "Prajñāhṛdayavyākhyā",
-  "author": "Dīpaṅkaraśrījñāna",
-  "genre": "Vividha",
-  "summary": "A short commentary on the Heart Sūtra (Prajñāpāramitāhṛdaya) attributed to Atīśa Dīpaṅkaraśrījñāna, composed in Tibet at the request of a monk Sādhuprajña (per the closing verses). It frames the sūtra with Dignāga's account of the sūtra introduction (citing Prajñāpāramitāpiṇḍārtha 3–4) and Vimalamitra's eightfold exegesis, and reads the sūtra as teaching the five paths, the eight profound points and, for those of sharp faculties, the mantra. The Sanskrit text here is a modern restoration from the Tibetan translation.",
-  "attribution": "Attributed to Atīśa Dīpaṅkaraśrījñāna; the work survives in Tibetan in the Tengyur (Śes-rab sñiṅ-poḥi rnam-par bśad-pa, Toh 3823), translated by Dīpaṅkaraśrījñāna and Tshul-khrims rgyal-ba (rendered 'bhikṣu Śīlajina'). The Sanskrit e-text is a modern restoration from the Tibetan, not an original Sanskrit transmission.",
-  "edition": "",
-  "archive_url": "",
-  "coverage": "complete — Complete text of the commentary, ending with the author's final verses and the translators' colophon.",
-  "translations": [],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T16_prajnahrdayu/text"
- },
  "SA_T16_upasakasamvu": {
   "title": "Upāsakasaṃvarāṣṭakavivaraṇa",
   "author": "Sunayaśrī",
@@ -25533,20 +24761,6 @@
    "dge bsnyen gyi sdom pa brgyad pa'i bshad pa (Derge Tengyur D 4142): translated by Sunayaśrīmitra, gnyan lo tsA ba dar ma grags (Tibetan)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T16_upasakasamvu/text"
- },
- "SA_T01_dharmadhatuu": {
-  "title": "Dharmadhātudarśanagīti",
-  "author": "Dīpaṅkaraśrījñāna",
-  "genre": "Stotra",
-  "summary": "A verse treatise (147 stanzas) attributed to Dīpaṃkaraśrījñāna (Atiśa) on the vision of the dharmadhātu, preserved only in Tibetan and here given in a modern Sanskrit restoration. It explains the dharmadhātu with tathāgatagarbha-type similes (butter in milk, lamp in a pot, gem in rock, grain in husk) as obscured by defilements, presents the Madhyamaka two truths, and reviews Buddhist and non-Buddhist doctrinal positions (Sāṃkhya etc.), ending with a defence of the Mahāyāna.",
-  "attribution": "The colophon (lines 325-327) translates the Tibetan colophon: composed by Mahācārya Dīpaṃkaraśrījñāna and translated by him with the bhikṣu Tshul khrims rgyal ba ('chulaṭhim gyala-vā (śīlavijeyana)'). The Sanskrit original is lost; the e-text is a modern Sanskrit restoration from the Tibetan. The Tibetan translation (D 2314) attributes the work to 'di paM ka ra (identified as Atiśa Dīpaṃkaraśrījñāna or Dīpaṃkararakṣita or *Adhīśa).",
-  "edition": "",
-  "archive_url": "",
-  "coverage": "complete — 147 numbered verses with the (restored) translators' colophon; corresponds to the whole Tibetan text.",
-  "translations": [
-   "chos kyi dbyings lta ba'i glu (Derge Tengyur D 2314): translated by Atiśa Dīpaṃkaraśrījñāna, nag 'tsho lo tsA ba tshul khrims rgyal ba (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T01_dharmadhatuu/text"
  },
  "SA_T16_kalacakragau": {
   "title": "Kālacakragaṇitopadeśa",
@@ -25612,21 +24826,6 @@
    "J. J. Jones (trans.), The Mahāvastu: Translated from the Buddhist Sanskrit, London: Luzac & Co. (Sacred Books of the Buddhists). (English)"
   ],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_K14_mahavastuavu/text"
- },
- "SA_T01_pratityasamu": {
-  "title": "Pratītyasamutpādastutisubhāṣitahṛdayam",
-  "author": "Tsongkhapa",
-  "genre": "Stotra",
-  "summary": "The Pratītyasamutpādastutisubhāṣitahṛdaya (Tibetan: rTen 'brel bstod pa legs bshad snying po) is a 58-verse hymn of praise to the Buddha composed by the Tibetan master Tsongkhapa. It extols the Buddha for his profound realization and teaching of dependent origination (pratītyasamutpāda). The Sanskrit text is a 20th-century back-translation and restoration from the Tibetan produced at CIHTS, Sarnath.",
-  "attribution": "Originally composed in Tibetan by Tsongkhapa. The Sanskrit text is a modern translation/reconstruction into Sanskrit by Gyaltsen Namdol and Ngawang Samten.",
-  "edition": "Gyaltsen Namdol and Ngawang Samten (eds. and trans.), Pratītyasamutpādastutisubhāṣitahṛdayam of Ācārya Tsongkhapa, Sarnath: Central Institute of Higher Tibetan Studies, 1982 (Dalai Lama's Tibeto-Indological Series, vol. 3).",
-  "archive_url": "",
-  "coverage": "complete — Complete text containing all 58 verses and the translator's Sanskrit rendition of the Tibetan colophon.",
-  "translations": [
-   "Gyaltsen Namdol and Ngawang Samten (trans.), Pratītyasamutpādastutisubhāṣitahṛdayam of Ācārya Tsongkhapa, Sarnath: Central Institute of Higher Tibetan Studies, 1982. (English)",
-   "Robert Thurman, in Life and Teachings of Tsong Khapa, Dharamsala: Library of Tibetan Works and Archives, 1982. (English)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T01_pratityasamu/text"
  },
  "SA_GK22_chappannayau": {
   "title": "Chappaṇṇayagāhāo",
@@ -41812,20 +41011,6 @@
   "coverage": "complete — Complete commentary running from the opening maṅgala verses down to the final colophon and authorial verses (samāptā śrīcakrasaṃvarapañjikā).",
   "translations": [],
   "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T02_Jayabhadra_Cakrasaṃvarapañjikā-of-Jayabhadra/text"
- },
- "SA_T02_Jñānapāda_Samantabhadrasādhana": {
-  "title": "Samantabhadrasādhana",
-  "author": "Jñānapāda",
-  "genre": "Tantra",
-  "summary": "The Samantabhadrasādhana, also known as Caturaṅgasādhana-Samantabhadrī, is a generation-stage (utpattikrama) sādhana composed by Jñānapāda. It sets out ritual worship and visualization practices, concluding in 164 verses.",
-  "attribution": "Attributed to Jñānapāda (Buddhajñānapāda / Sangs rgyas ye shes).",
-  "edition": "",
-  "archive_url": "",
-  "coverage": "complete — 164 verses of the sādhana are present, from the opening maṅgala (v. 1) to the closing dedication (vv. 163–164). Lacunae are marked '[...]' in places.",
-  "translations": [
-   "kun du bzang po zhes bya ba'i sgrub pa'i thabs (Derge Tengyur D 1855): translated by Śraddhākaravarman, lo chen rin chen bzang po (Tibetan)"
-  ],
-  "dharmanexus_url": "https://dharmamitra.org/db/sa/SA_T02_Jñānapāda_Samantabhadrasādhana/text"
  },
  "SA_T02_Kambala_Sādhananidhi-chapter-1_Sugiki_2025": {
   "title": "Sādhananidhi (chapter 1)",
