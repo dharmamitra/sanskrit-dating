@@ -32,6 +32,9 @@ def vedic_iv(w):
 # Loading them here lets them ALSO supervise the stylometric clock, so Epic/Purana qualify
 # for their own category clocks. Only closed-interval `anchor` rows are usable as a regression
 # target (one-sided not_before/not_after bounds have no midpoint and stay Gibbs-only).
+# author_floruit_anchors.tsv (prosopography floruits) is deliberately NOT used to train the clock:
+# it does not improve held-out accuracy on the curated anchors and only reshuffles undated works.
+# It enters the Gibbs step below as soft anchors for the works themselves.
 constraint_iv={}
 for _cf in ['tibetan_translation_constraints.tsv','literature_anchors.tsv','dcs_anchors.tsv','researched_anchors.tsv','chronbmm_priors.tsv','manual_constraints.tsv','new_texts_anchors.tsv']:
     if not os.path.exists(_cf): continue
@@ -168,7 +171,7 @@ CNODES=np.array(sorted(set(list(CNODES)+list(np.where(np.isfinite(taq))[0]))))
 print(f"translation termini: {int(np.isfinite(taq).sum())} works ({nconf} conflict w/ scholarly nb)",file=sys.stderr)
 # ---- manual curated constraints ----
 lb=np.full(Nw, -np.inf); nman=0
-for _cf in ['tibetan_translation_constraints.tsv','literature_anchors.tsv','dcs_anchors.tsv','researched_anchors.tsv','chronbmm_priors.tsv','manual_constraints.tsv','new_texts_anchors.tsv']:
+for _cf in ['author_floruit_anchors.tsv','tibetan_translation_constraints.tsv','literature_anchors.tsv','dcs_anchors.tsv','researched_anchors.tsv','chronbmm_priors.tsv','manual_constraints.tsv','new_texts_anchors.tsv']:
   if os.path.exists(_cf):
     for line in open(_cf).read().splitlines()[1:]:
         if not line.strip(): continue

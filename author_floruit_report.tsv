@@ -1,0 +1,39 @@
+work	issue	floruit	other	person
+SA_T01_n804u	modern_primary_author_skipped	1953-1971		Śāntibhikṣu Śāstrī
+SA_T02_Anupamarakṣita_Ṣaḍaṇgayoga-with-Guṇabharaṇī_Sferra_2000	curated_disagrees	975-1050	1140-1190 (manual_constraints.tsv)	Anupamarakṣita (P4CZ15101, mūla)
+SA_T02_Raviśrījñāna_Guṇabharaṇī-Ṣaḍaṅgayoga_Sferra_2000	curated_disagrees	975-1050	1175-1225 (manual_constraints.tsv)	Anupamarakṣita (P4CZ15101, mūla)
+SA_T02_Vanaratna_Rahasyadīpikā_Rinpoche-Dvivedi_1990	curated_disagrees	900-1050	1410-1465 (manual_constraints.tsv)	Kṛṣṇācārya (Mahāsiddha) (P3299, mūla)
+SA_T02_Rāghavabhaṭṭa_Śāradātilaka_Woodroffe_1933	curated_disagrees	950-1050	1459-1509 (manual_constraints.tsv)	Lakṣmaṇadeśikendra (P0SA0152, mūla)
+SA_T02_n2952u	modern_primary_author_skipped	1950-2024		Phra Suntharnadhammathada
+SA_T02_n1416u	modern_primary_author_skipped	1953-1971		Śāntibhikṣu Śāstrī
+SA_T03_knavslou	curated_disagrees	950-1050	660-760 (manual_constraints.tsv)	Kambalapāda (author of Navaślokī) (P0SA0266, author)
+SA_T03_bsa033_u	modern_primary_author_skipped	1950-2010		Rāmaśaṅkara Tripāṭhī
+SA_T04_alokamalanau	curated_disagrees	700-900	450-525 (literature_anchors.tsv)	Kambala (author of Ālokamālā) (P7752, author)
+SA_T04_canprasu	curated_disagrees	150-250	570-650 (manual_constraints.tsv)	Nāgārjuna (P4954, kārikā)
+SA_T06_n1333u	modern_primary_author_skipped	1940-1980		Priyānanda
+SA_T11_bsa0554u	curated_disagrees	1000-1050	800-900 (manual_constraints.tsv)	Paṇḍita Aśoka (P0ER0011, author)
+SA_T11_prpva	curated_disagrees	600-660	750-899 (researched_anchors.tsv)	Dharmakīrti I (P6120, kārikā)
+SA_T11_kgpramv	curated_disagrees	600-660	750-850 (researched_anchors.tsv)	Dharmakīrti I (P6120, kārikā, vṛtti)
+SA_T11_n1226u	curated_disagrees	600-660	725-788 (researched_anchors.tsv)	Dharmakīrti I (P6120, author)
+SA_T11_n2848u	modern_primary_author_skipped	1950-1986		Jagannātha Upādhyāya
+SA_T13_n3004u	modern_primary_author_skipped	1915-2017		Davuldeṇa Jñāneśvara
+SA_T13_davyasou	modern_primary_author_skipped	1915-2017		Davuldeṇa Jñāneśvara
+SA_T13_n2940u	curated_disagrees	1790-1850	100-700 (researched_anchors.tsv)	Sundarānanda (P0SA0271, author)
+SA_T13_n2976u	modern_primary_author_skipped	1930-1964		Jatindra Bimal Chaudhuri
+SA_T14_ilx_dsbc_nrtyaprasuti_book_273	modern_primary_author_skipped	1970-2010		V. Subramaniam
+SA_T16_n2875u	modern_primary_author_skipped	1915-2017		Davuldeṇa Jñāneśvara
+SA_T16_buddhodayaku	modern_primary_author_skipped	1953-1971		Śāntibhikṣu Śāstrī
+SA_T16_vajrapradipu	curated_disagrees	875-950	700-750 (literature_anchors.tsv)	Suratavajra (Jālandhari) (P4CZ10551, commentary)
+SA_T16_ilx_dsbc_nalandadahana_book_272	modern_primary_author_skipped	1970-2010		V. Subramaniam
+SA_T16_n2959u	modern_primary_author_skipped	1975-2024		Wangchuk Dorjee Negi
+SA_MB_STAVACINTAAMANIhk	curated_disagrees	850-925	1000-1050 (literature_anchors.tsv)	Bhaṭṭa Nārāyaṇa (Kashmir Śaiva poet) (P0SA0060, mūla)
+SA_MB_prayascittasamuccayaHK	curated_disagrees	950-1025	1100-1200 (manual_constraints.tsv)	Hṛdayaśiva (P0SA0328, author)
+SA_MB_SIVASUUTRAVARTIKA_hk	curated_disagrees	800-875	1000-1100 (manual_constraints.tsv)	Vasugupta (P0AT0213, sūtra)
+SA_MB_sivasuutravimarsiniiHK	curated_disagrees	800-875	1000-1050 (manual_constraints.tsv)	Vasugupta (P0AT0213, sūtra)
+SA_GK19_ghatgu_u	curated_disagrees	1691-1691	1550-1620 (researched_anchors.tsv)	Kuśalamiśra (P0SA0221, commentary)
+SA_GSP29_vnyps00u	curated_disagrees	1910-1940	1269-1370 (researched_anchors.tsv)	T. Lakṣmaṇācārya (P0SA0248, author)
+SA_GSP29_nyaka	curated_disagrees	530-600	850-900 (researched_anchors.tsv)	Praśastapāda (P0AT0225, mūla)
+SA_GSP31_stk	curated_disagrees	350-450	900-1000 (researched_anchors.tsv)	Īśvarakṛṣṇa (P0SA0025, kārikā)
+SA_GSP31_yuktdipu	curated_disagrees	350-450	600-800 (researched_anchors.tsv)	Īśvarakṛṣṇa (P0SA0025, kārikā)
+SA_GSP33_vesa	curated_after_commentator	<= 1137	1425-1475 (researched_anchors.tsv)	Rāmānuja (P0AT0235, commentary)
+SA_GSP34_ilx_ws_tattvavaisaradi	curated_disagrees	350-450	801-900 (literature_anchors.tsv)	Patañjali (Yoga) (P0AT0153, sūtra)

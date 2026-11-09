@@ -1,0 +1,484 @@
+type	arg1	arg2	arg3	note
+anchor	SA_K07_atrisatu	300	400	author floruit: Asaṅga (P6117, kārikā) | sanskrit-prosopography
+anchor	SA_K12_Āgama-Jayasena_Ḍākārṇavatantra-15-Ratnapadmarāganidhi_Sugiki_2022	1125	1225	author floruit: Jayasena (P7878, author) | sanskrit-prosopography
+anchor	SA_K12_dakinivajrau	900	1050	author floruit: Kṛṣṇācārya (Mahāsiddha) (P3299, mūla) | sanskrit-prosopography
+not_after	SA_K12_Āgama_Mahāmāyātantra_Damron_2014	1050		root text older than its commentator: Ratnākaraśānti (P00EGS1016642, commentary) | sanskrit-prosopography
+anchor	SA_T01_Advayavajra_Nairātmyāprakāśa	1007	1085	author floruit: Advayavajra (P8147, author) | sanskrit-prosopography
+anchor	SA_T01_n873u	1780	1840	author floruit: Amṛtānanda (Vajrācārya) (P0SA0172, author) | sanskrit-prosopography
+anchor	SA_T01_Ānandagarbha_Vajrasattvodayā	800	1000	author floruit: Ānandagarbha (P7166, author) | sanskrit-prosopography
+anchor	SA_T01_Amṛtavajra_Dohākoṣaṭīkā-to-the-dohās-of-Kāṇha	900	1050	author floruit: Kṛṣṇācārya (Mahāsiddha) (P3299, mūla) | sanskrit-prosopography
+anchor	SA_T01_Nāgabuddhi_Karmāntavibhāga_Tanaka_2021	750	900	author floruit: Nāgabuddhi (P0AT0018, author) | sanskrit-prosopography
+anchor	SA_T01_Ravigupta_Lokasaṃvyavahārapravṛtti_Hahn_2007	600	800	author floruit: Ravigupta (P0AT0407, author) | sanskrit-prosopography
+anchor	SA_T01_Saroruhavajra_Hevajrabhaṭṭārakacakraviṃśikāstotra-of-Saroruhapāda	850	950	author floruit: Saroruhavajra (P8335, author) | sanskrit-prosopography
+anchor	SA_T01_srihevajrabu	850	950	author floruit: Saroruhavajra (P8335, author) | sanskrit-prosopography
+anchor	SA_T01_Śūnyasamādhivajra_Mṛtasugatiniyojana-of-Śūnyatāsamādhivajra	1025	1100	author floruit: Śūnyasamādhivajra (P0SA0049, author) | sanskrit-prosopography
+anchor	SA_T01_visesastavau	200	250	author floruit: Udbhaṭasiddhasvāmin (P4CZ10507, author) | sanskrit-prosopography
+anchor	SA_T01_Vanaratna_Göttingen-Xc-1440b	1384	1468	author floruit: Vanaratna (P207, author) | sanskrit-prosopography
+anchor	SA_T01_Vanaratna_Acalakramadvayastotra_Dhīḥ	1384	1468	author floruit: Vanaratna (P207, author) | sanskrit-prosopography
+anchor	SA_T01_n825u	1384	1468	author floruit: Vanaratna (P207, author) | sanskrit-prosopography
+anchor	SA_T02_Abhayākaragupta_Varṣāpaṇavidhi	1075	1125	author floruit: Abhayākaragupta (P4004, author) | sanskrit-prosopography
+anchor	SA_T02_ilx_hh_advayavajra_nairatmyaprakasa	1007	1085	author floruit: Advayavajra (P8147, author) | sanskrit-prosopography
+anchor	SA_T02_Advayavajra_Sthūlāpatti	1007	1085	author floruit: Advayavajra (P8147, author) | sanskrit-prosopography
+anchor	SA_T02_Alakakalaśa_Upadeśānusāriṇī	1100	1200	author floruit: Alakakalaśa (P0SA0620, commentary) | sanskrit-prosopography
+anchor	SA_T02_Amitavajra_Yogāmbarasādhanopāyikā	1000	1050	author floruit: Amitavajra (P4CZ15148, author) | sanskrit-prosopography
+anchor	SA_T02_Ānandagarbha_Vajrajvālodayā	800	1000	author floruit: Ānandagarbha (P7166, author) | sanskrit-prosopography
+anchor	SA_T02_Āryadeva_Svādhiṣṭhānakramaprabheda	750	900	author floruit: Āryadeva (tantric) (P0SA0032, author) | sanskrit-prosopography
+anchor	SA_T02_dvesavajrasu	1000	1100	author floruit: Bhadrapāda (P0SA0367, author) | sanskrit-prosopography
+anchor	SA_T02_Bhūvācārya_Samvarodayā-nāma-maṇḍalopāyikā	1000	1054	author floruit: Bhūvācārya (P3260, author) | sanskrit-prosopography
+anchor	SA_T02_BodhigarbhaGarbhapāda_Herukasādhana	900	1000	author floruit: Bodhigarbha (P1GS149649, author) | sanskrit-prosopography
+anchor	SA_T02_n2906u	800	950	author floruit: Candrakīrti (tantric) (P0AT0310, author) | sanskrit-prosopography
+not_after	SA_T02_Dauḍīpāda-Ghanadeva_Guhyāvalīvivṛti_Dhīḥ_2008	1198		root text older than its commentator: Ghanadeva (P0SA0353, vṛtti) | sanskrit-prosopography
+anchor	SA_T02_Divākaracandra_HSS-5-Cihnaviśuddhi-by-Divākaracandra	1020	1080	author floruit: Divākaracandra (P0SA0148, author) | sanskrit-prosopography
+anchor	SA_T02_Ḍombīheruka_Amṛtaprabhā-sādhanopāyikā	750	850	author floruit: Ḍombīheruka (P3292, author) | sanskrit-prosopography
+anchor	SA_T02_Durjayacandra_Ṣaḍaṅgasādhana	975	1025	author floruit: Durjayacandra (P3287, author) | sanskrit-prosopography
+anchor	SA_T02_Durjayacandra_Saptākṣarasādhana	975	1025	author floruit: Durjayacandra (P3287, author) | sanskrit-prosopography
+anchor	SA_T02_Jagadānandajīvabhadra_Yogāmbarasādhanavidhi	1300	1399	author floruit: Jagadānandajīvabhadra (P4CZ15175, author) | sanskrit-prosopography
+anchor	SA_T02_Jayabhadra_Cakrasaṃvarapañjikā-of-Jayabhadra	800	870	author floruit: Jayabhadra (P4CZ15134, commentary) | sanskrit-prosopography
+anchor	SA_T02_Jitāri_Catustattva	940	1000	author floruit: Jitāri (P4CZ10568, author) | sanskrit-prosopography
+anchor	SA_T02_Kalyāṇavarman_Catuṣpīṭhapañjikā	875	1000	author floruit: Kalyāṇavarman (P4CZ15174, commentary) | sanskrit-prosopography
+anchor	SA_T02_Kambala_—-Sādhananidānaśrīcakrasaṃvara-nāma-pañjikā	700	900	author floruit: Kambala (author of Ālokamālā) (P7752, author) | sanskrit-prosopography
+anchor	SA_T02_Kambala_Sādhananidhi-chapter-1_Sugiki_2025	700	900	author floruit: Kambala (author of Ālokamālā) (P7752, author) | sanskrit-prosopography
+anchor	SA_T02_Mekhalāṭīkā_Mekhalāṭīkā-to-Kāṇhapādasya-dohākoṣaḥ_Bagchi	900	1050	author floruit: Kṛṣṇācārya (Mahāsiddha) (P3299, mūla) | sanskrit-prosopography
+anchor	SA_T02_Kṛṣṇācārya_Śrīcakrasaṃvarasādhana_Sugiki_2000	900	1050	author floruit: Kṛṣṇācārya (Mahāsiddha) (P3299, author) | sanskrit-prosopography
+anchor	SA_T02_ilx_hh_kuddalapada_acintyadvayakramopadesa	950	1050	author floruit: Kuddālapāda (P4CZ15388, author) | sanskrit-prosopography
+anchor	SA_T02_Lūyīpāda_Cakrasaṃvarābhisamaya_Sakurai	850	900	author floruit: Lūyīpāda (P8891, author) | sanskrit-prosopography
+anchor	SA_T02_Lūyī_Śmaśānavidhi_Finot_1934	850	900	author floruit: Lūyīpāda (P8891, author) | sanskrit-prosopography
+anchor	SA_T02_Devakula-Mahāmati_Tattvaviṣadā	950	1050	author floruit: Mahāmatideva (P4CZ10534, commentary) | sanskrit-prosopography
+anchor	SA_T02_Nāgabuddhi_Vyavastholi	750	900	author floruit: Nāgabuddhi (P0AT0018, author) | sanskrit-prosopography
+anchor	SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-1-Tanemura	1050	1200	author floruit: Padmaśrīmitra (P0SA0019, author) | sanskrit-prosopography
+anchor	SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-2-ms	1050	1200	author floruit: Padmaśrīmitra (P0SA0019, author) | sanskrit-prosopography
+anchor	SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-3-ms	1050	1200	author floruit: Padmaśrīmitra (P0SA0019, author) | sanskrit-prosopography
+anchor	SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-4-ms	1050	1200	author floruit: Padmaśrīmitra (P0SA0019, author) | sanskrit-prosopography
+anchor	SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-5-ms	1050	1200	author floruit: Padmaśrīmitra (P0SA0019, author) | sanskrit-prosopography
+anchor	SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-6-ms	1050	1200	author floruit: Padmaśrīmitra (P0SA0019, author) | sanskrit-prosopography
+anchor	SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-7-ms	1050	1200	author floruit: Padmaśrīmitra (P0SA0019, author) | sanskrit-prosopography
+anchor	SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-8-ms	1050	1200	author floruit: Padmaśrīmitra (P0SA0019, author) | sanskrit-prosopography
+anchor	SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-9-ms	1050	1200	author floruit: Padmaśrīmitra (P0SA0019, author) | sanskrit-prosopography
+anchor	SA_T02_Padmaśrīmitra_Maṇḍalopāyikā-10-Tanemura	1050	1200	author floruit: Padmaśrīmitra (P0SA0019, author) | sanskrit-prosopography
+anchor	SA_T02_Parahitarakṣita_Piṇḍīkramaṭippaṇī_La-Vallée-Poussin_1896	1000	1150	author floruit: Parahitarakṣita (P0SA0623, commentary) | sanskrit-prosopography
+anchor	SA_T02_hevajrapraku	950	1050	author floruit: Rāhulagupta (P4CZ10552, author) | sanskrit-prosopography
+anchor	SA_T02_Ratnākaraśānti_Guṇavatī-Mahāmāyāṭīkā	970	1050	author floruit: Ratnākaraśānti (P00EGS1016642, author) | sanskrit-prosopography
+anchor	SA_T02_Ratnākaraśānti_Khasamā-ṭīkā	970	1050	author floruit: Ratnākaraśānti (P00EGS1016642, author) | sanskrit-prosopography
+anchor	SA_T02_ilx_hh_ratnakarasanti_khasamatika	970	1050	author floruit: Ratnākaraśānti (P00EGS1016642, author) | sanskrit-prosopography
+anchor	SA_T02_Ratnākaraśānti_Mahāmāyāsādhana	970	1050	author floruit: Ratnākaraśānti (P00EGS1016642, author) | sanskrit-prosopography
+anchor	SA_T02_Ratnākaraśānti-Paṇḍitāśoka_Vidagdhavismāpana-Vidagdhavismāpanaṭippita_Hahn_2001	970	1050	author floruit: Ratnākaraśānti (P00EGS1016642, root text) | sanskrit-prosopography
+anchor	SA_T02_Ratnarakṣita_Padminī-Ch9_BangKuranishi	1150	1250	author floruit: Ratnarakṣita (P8265, commentary) | sanskrit-prosopography
+anchor	SA_T02_Ratnarakṣita_Padminī-Ch15_CA17-corrs	1150	1250	author floruit: Ratnarakṣita (P8265, commentary) | sanskrit-prosopography
+not_after	SA_T02_Ratnarakṣita_Padminī-22-1-7_Tanemura	1250		root text older than its commentator: Ratnarakṣita (P8265, commentary) | sanskrit-prosopography
+anchor	SA_T02_Ratnarakṣita_Padminī-Ch24_CA17	1150	1250	author floruit: Ratnarakṣita (P8265, commentary) | sanskrit-prosopography
+anchor	SA_T02_Ratnarakṣita_Padminī-Ch27_CA17	1150	1250	author floruit: Ratnarakṣita (P8265, commentary) | sanskrit-prosopography
+anchor	SA_T02_Ratnarakṣita_Padminī-Ch28_CA17	1150	1250	author floruit: Ratnarakṣita (P8265, commentary) | sanskrit-prosopography
+anchor	SA_T02_Ratnarakṣita_Padminī-Ch32_CA17	1150	1250	author floruit: Ratnarakṣita (P8265, commentary) | sanskrit-prosopography
+anchor	SA_T02_Śākyarakṣita_Hevajrābhisamayatilaka	1100	1170	author floruit: Śākyarakṣita (P4CZ10566, author) | sanskrit-prosopography
+anchor	SA_T02_n2946u	1150	1225	author floruit: Sīradeva (P0SA0261, author) | sanskrit-prosopography
+anchor	SA_T02_Śrīdhara_Yamārimaṇḍalopāyikā	950	1199	author floruit: Śrīdhara (Buddhist tantric author) (P3252, author) | sanskrit-prosopography
+anchor	SA_T02_anon_Bhūtaḍāmaramaṇḍalopāyikā-ms	750	1000	author floruit: Subhūtipālita (P3361, author) | sanskrit-prosopography
+anchor	SA_T02_sunytjsu	1050	1100	author floruit: Śūnyasamādhipāda (P0SA0112, author) | sanskrit-prosopography
+anchor	SA_T02_n1403u	1050	1100	author floruit: Śūnyasamādhipāda (P0SA0112, mūla) | sanskrit-prosopography
+anchor	SA_T02_Śūnyasamādhivajra_Cakrasaṃvarasādhana	1025	1100	author floruit: Śūnyasamādhivajra (P0SA0049, author) | sanskrit-prosopography
+anchor	SA_T02_n2961u	1025	1100	author floruit: Śūnyasamādhivajra (P0SA0049, mūla) | sanskrit-prosopography
+anchor	SA_T02_Jñānacandra_Mahāsukhaprakāśikā-Tattvajñānasaṃsiddhi_DharmodayaSabha_1956	1000	1099	author floruit: Śūnyatāsamādhivajra (P4CZ10577, mūla) | sanskrit-prosopography
+anchor	SA_T02_srihevajrasu	875	950	author floruit: Suratavajra (Jālandhari) (P4CZ10551, commentary) | sanskrit-prosopography
+anchor	SA_T02_Tathāgatarakṣita_Saṃcāratantranibandha	1050	1115	author floruit: Tathāgatarakṣita (P00KG02663, commentary) | sanskrit-prosopography
+anchor	SA_T02_Vibhūticandra_Piṇḍīkṛtasādhanapañjikā-fragment_Tanaka_2021	1180	1235	author floruit: Vibhūticandra (P00EGS1017688, commentary) | sanskrit-prosopography
+anchor	SA_T03_ilx_hh_haribhadra_ratnagunasancayagathavyakhya	750	800	author floruit: Haribhadrasūri (Jain philosopher) (P0ER0009, vyākhyā) | sanskrit-prosopography
+anchor	SA_T04_bsa028_u	200	300	author floruit: Āryadeva (P7401, author) | sanskrit-prosopography
+anchor	SA_T04_canprasu1	600	650	author floruit: Candrakīrti (Mādhyamika) (P5782, commentary) | sanskrit-prosopography
+anchor	SA_T04_bsa012_u	150	250	author floruit: Nāgārjuna (P4954, kārikā) | sanskrit-prosopography
+anchor	SA_T04_nagysk_u	150	250	author floruit: Nāgārjuna (P4954, kārikā) | sanskrit-prosopography
+anchor	SA_T04_Ratnākaraśānti-attribution-lots-of-extracts-from-Muktāvalī_Prajñāpāramitābhāvanākrama_Matsuda_2019	970	1050	author floruit: Ratnākaraśānti (P00EGS1016642, author) | sanskrit-prosopography
+anchor	SA_T06_asabhs_u	300	400	author floruit: Asaṅga (P6117, author) | sanskrit-prosopography
+not_after	SA_T06_vmvkbh_u	450		root text older than its commentator: Vasubandhu (P6119, bhāṣya) | sanskrit-prosopography
+anchor	SA_T06_sthmavt4	510	570	author floruit: Sthiramati (P4CZ16794, ṭīkā) | sanskrit-prosopography
+anchor	SA_T06_vasvvmsu	350	450	author floruit: Vasubandhu (P6119, kārikā, vṛtti) | sanskrit-prosopography
+anchor	SA_T07_vakobhau9	350	450	author floruit: Vasubandhu (P6119, bhāṣya) | sanskrit-prosopography
+anchor	SA_T07_vakobha9	350	450	author floruit: Vasubandhu (P6119, bhāṣya) | sanskrit-prosopography
+anchor	SA_T07_vakobhau	350	450	author floruit: Vasubandhu (P6119, kārikā, bhāṣya) | sanskrit-prosopography
+anchor	SA_T07_yabhkvyu	660	780	author floruit: Yaśomitra (P4CZ15477, commentary) | sanskrit-prosopography
+anchor	SA_T10_Aśvaghoṣa_Tridaṇḍamālā-34-1	80	150	author floruit: Aśvaghoṣa (P7612, author) | sanskrit-prosopography
+anchor	SA_T10_Aśvaghoṣa_Tridaṇḍamālā-anthology_BCvss	80	150	author floruit: Aśvaghoṣa (P7612, author) | sanskrit-prosopography
+anchor	SA_T11_bsa066_u	750	800	author floruit: Haribhadrasūri (Jain philosopher) (P0ER0009, commentary) | sanskrit-prosopography
+anchor	SA_T11_sarvajnasidu	940	1000	author floruit: Jitāri (P4CZ10568, author) | sanskrit-prosopography
+anchor	SA_T11_pramanavart3u	775	825	author floruit: Karṇakagomin (P0SA0115, ṭīkā) | sanskrit-prosopography
+anchor	SA_T11_tattvasangru	725	788	author floruit: Śāntarakṣita (P5659, kārikā) | sanskrit-prosopography
+anchor	SA_T11_pramanavart2u	1180	1235	author floruit: Vibhūticandra (P00EGS1017688, commentary) | sanskrit-prosopography
+anchor	SA_T12_n2957u	980	1040	author floruit: Jñānaśrīmitra (P4CZ16872, mūla) | sanskrit-prosopography
+anchor	SA_T13_bghsic_u	800	1000	author floruit: Buddhaghoṣa (author of Padyacūḍāmaṇi) (P0SA0270, author) | sanskrit-prosopography
+anchor	SA_T14_Jagaddarpaṇa_Kriyāsamuccaya-Homa	1200	1250	author floruit: Jagaddarpaṇa (P3217, author) | sanskrit-prosopography
+anchor	SA_T16_madhyamakavu	600	650	author floruit: Candrakīrti (Mādhyamika) (P5782, root text, commentary) | sanskrit-prosopography
+anchor	SA_T16_adikarmavatu	980	1080	author floruit: Mañjukīrti (P3833, author) | sanskrit-prosopography
+anchor	SA_T16_adikarmavat2u	980	1080	author floruit: Mañjukīrti (P3833, author) | sanskrit-prosopography
+anchor	SA_T16_prasadapratu	100	300	author floruit: Mātṛceṭa (P4CZ10509, author) | sanskrit-prosopography
+anchor	SA_T16_saroruhavaju	850	950	author floruit: Saroruhavajra (P8335, author) | sanskrit-prosopography
+anchor	SA_T16_upasakasamvu	1050	1100	author floruit: Sunayaśrī (P4CZ15270, author) | sanskrit-prosopography
+anchor	SA_T17_bsa046_u	450	540	author floruit: Dignāga (P6126, author) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_siddhAntalezasaMgrahaTIkA_M00578	1650	1750	author floruit: Acyutakṛṣṇānandatīrtha (P0SA0440, commentary) | sanskrit-prosopography
+not_after	SA_MB_dvisatikaalottaramHK	1180		root text older than its commentator: Aghoraśiva (P0SA0007, commentary) | sanskrit-prosopography
+anchor	SA_MB_mrigendrapaddhatitiikaaHK	1140	1180	author floruit: Aghoraśiva (P0SA0007, author) | sanskrit-prosopography
+anchor	SA_MB_matatrayaikyaprakasikaHK	1740	1785	author floruit: Aiyyaṇācārya (P0SA0279, author) | sanskrit-prosopography
+not_after	SA_MB_sattrimsattattvasamdohaHK	1690		root text older than its commentator: Rājānaka Ānanda (P0SA0302, commentary) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_AtmArpaNastava_I00018	1500	1600	author floruit: Appayya Dīkṣita (P0AT0161, author), Nigamajñānadeśika (P0SA0414, author) | sanskrit-prosopography
+not_after	SA_MB_natyrasatrav2HK	1025		root text older than its commentator: Abhinavagupta (P0AT0157, ṭīkā) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_dAmodara_son_of_gaGgAdhara_yantracintAmaNi_M00657	1600	1700	author floruit: Dāmodara, son of Gaṅgādhara (P0SA0423, author) | sanskrit-prosopography
+not_after	SA_MB_laghustavaHK	1925		root text older than its commentator: Harabhaṭṭa Śāstrī (P0SA0056, ṭīkā) | sanskrit-prosopography
+anchor	SA_MB_asesakulavallariHK	1100	1400	author floruit: Gaṇananāthabhaṭṭa (P0SA0332, author) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_vIrazaivAcArapradIpikA_M00609	1500	1700	author floruit: Gurudeva (P0SA0445, author) | sanskrit-prosopography
+not_after	SA_MB_carcastavaHK	1925		root text older than its commentator: Harabhaṭṭa Śāstrī (P0SA0056, ṭīkā) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_caturvedArthatAtparyasaMgraha_M00601	1100	1300	author floruit: Haradatta (Grammarian and Dharmaśāstra commentator) (P0SA0023, author) | sanskrit-prosopography
+not_after	SA_MB_ilx_mb_hAritAyana_tripurArahasya_jJAnakhaNDa_M00344	1845		root text older than its commentator: Śrīnivāsa Bhaṭṭa (P0SA0089, commentary) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_gosvAmIjanArdanaH_jagannivAsaputraH_mantracandrikA_M00635	1600	1700	author floruit: Gosvāmin Janārdanabhaṭṭa (P0SA0426, author) | sanskrit-prosopography
+not_after	SA_MB_laghustutiHK	1400		root text older than its commentator: Rāghavānanda Muni (P0SA0346, vṛtti) | sanskrit-prosopography
+anchor	SA_MB_durgarcanasrtiHK	1900	1950	author floruit: Lakṣmīnārāyaṇa Gosvāmī (P0SA0339, author) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_sUtradhAramaNDana_prAsAdamaNDana_M00170	1433	1468	author floruit: Sūtradhāra Maṇḍana (P0SA0438, author) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_maritoNTadArya_vIrazaivAnandacandrikA_M00611	1600	1720	author floruit: Maritoṇṭadārya (P0SA0135, author) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_maunappa_paNDita_vIrazaivAcArakaustubha_M00683	1700	1800	author floruit: Maunappapaṇḍita (P0SA0430, author) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_vizeSArthaprakAzikA_M00614	1400	1500	author floruit: Māyideva (P0SA0451, author) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_nAgabhaTTa_tripurAsArasamuccaya_M00669	1050	1225	author floruit: Nāgabhaṭṭa (P0SA0432, mūla) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_zabdArthacintAmaNi_M00645	1720	1775	author floruit: Premanidhi Pantha (P0SA0452, author) | sanskrit-prosopography
+anchor	SA_MB_NigamasaranirnayaHK	1550	1821	author floruit: Ramāramaṇadeva (P0SA0335, author) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_sAhib_kaul_kalpavRkSa_M00051	1642	1675	author floruit: Sāhib Kaul (P0SA0057, author) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_sahib_kaul_zrIvidyAnityapaddhati_M00654	1642	1675	author floruit: Sāhib Kaul (P0SA0057, author) | sanskrit-prosopography
+not_after	SA_MB_SAAMBAPA_NCAASIKAAhk	1050		root text older than its commentator: Kṣemarāja (P0AT0212, commentary) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_anAdivIrazaivasaGgraha_M00615	1500	1600	author floruit: Saṃpādanasiddhavīra (P0SA0416, author) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_padyavAhinI_M00676	1300	1350	author floruit: Śaṅkara (author of Padyavāhinī) (P0SA0157, author) | sanskrit-prosopography
+anchor	SA_MB_taaraarahasyavrttikaaHK	1600	1650	author floruit: Gauḍīya Śaṅkara (P0SA0084, commentator) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_zivasiddhAntacandrikA_M00617	1650	1650	author floruit: Siddhanañjeśa Śivācārya (P0SA0460, author) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_zivAgrayogin_kriyAdIpikA_I00001	1550	1600	author floruit: Śivāgrayogin (P0SA0121, author) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_zivAnanda_yogacintAmaNi_M00536	1575	1650	author floruit: Śivānandasarasvatī (P0SA0458, author) | sanskrit-prosopography
+not_after	SA_MB_matrkacakravivekaHK	1275		root text older than its commentator: Śivānanda (P0SA0341, bhāṣya) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_svAtmArAma_AcArasAratantra_M00501	1400	1500	author floruit: Svātmārāma (P0AT0237, compiler) | sanskrit-prosopography
+not_after	SA_MB_bhagavadgitavirashaivabhashyamHK	2000		root text older than its commentator: T. G. Siddapparādhya (P0SA0337, bhāṣya) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_nityAdisaGgraha_M00673	1100	1250	author floruit: Takṣakavarta (P0SA0434, compiler) | sanskrit-prosopography
+anchor	SA_MB_somasambhupaddhativyakhyaHK	1150	1200	author floruit: Trilocanaśiva (P0SA0315, ṭīkā) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_anantazambhu_siddhAntasArAvali_with_the_commentary_of_anantazambhu_I00022	1125	1200	author floruit: Trilocanaśivācārya (P0SA0116, mūla) | sanskrit-prosopography
+anchor	SA_MB_SATARATNASAMGRAHAMhk	1290	1340	author floruit: Umāpatiśivācārya (P0SA0123, compiler) | sanskrit-prosopography
+not_after	SA_MB_ilx_mb_mahAvAkyopaniSat_M00109	1780		root text older than its commentator: Upaniṣadbrahmayogin (P0SA0002, commentary) | sanskrit-prosopography
+not_after	SA_MB_naadabinduupanisatHK	1780		root text older than its commentator: Upaniṣadbrahmayogin (P0SA0002, commentary) | sanskrit-prosopography
+not_after	SA_MB_samnyaasaupanisadHK	1780		root text older than its commentator: Upaniṣadbrahmayogin (P0SA0002, commentary) | sanskrit-prosopography
+not_after	SA_MB_trisikhibrahmanopanisatHK	1780		root text older than its commentator: Upaniṣadbrahmayogin (P0SA0002, commentary) | sanskrit-prosopography
+not_after	SA_MB_varunapaddhativyaakhyaaT1034HK	1564		root text older than its commentator: Vedajñāna II (P0SA0020, vyākhyā) | sanskrit-prosopography
+not_after	SA_MB_ilx_mb_nigamajJAnadeva_varuNapaddhati_I00002	1564		root text older than its commentator: Vedajñāna II (P0SA0020, commentary) | sanskrit-prosopography
+anchor	SA_MB_sivajnaanasiddhiHK	1550	1564	author floruit: Vedajñāna II (P0SA0020, compiler) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_saubhAgyaratnAkara_M00577	1550	1625	author floruit: Vidyānandanātha (Śrīnivāsa Bhaṭṭa Gosvāmin) (P0SA0439, author) | sanskrit-prosopography
+not_after	SA_MB_karpuuraadistotramHK	1925		root text older than its commentator: Vimalānandasvāmī (P0SA0319, ṭīkā) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_pazcimArcanapaddhati_M00678	1200	1216	author floruit: Vimalaprabodha (P0SA0136, author) | sanskrit-prosopography
+anchor	SA_MB_vimalavatiitantraHK	1101	1102	author floruit: Vimalaśiva (P0SA0183, author) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_paJcaratnavyAkhyA_M00603	1575	1650	author floruit: Sosale Vīraṇārādhya (P0SA0435, mūla) | sanskrit-prosopography
+anchor	SA_MB_ilx_mb_virUpAkSapaNcazikA_M00535	1000	1300	author floruit: Virūpākṣanātha (author of Virūpākṣapañcāśikā) (P0SA0449, kārikā) | sanskrit-prosopography
+not_after	SA_MB_ilx_mb_tArAsahasranAmavyAkhyAbhidhArthacintAmaNi_M00638	1745		root text older than its commentator: Viśveśvara Pāṇḍeya (P0SA0091, commentary) | sanskrit-prosopography
+not_after	SA_GE07_bhg4c13u	1450		root text older than its commentator: Śrīdhara Svāmin (P0SA0003, commentary) | sanskrit-prosopography
+anchor	SA_GK16_bhakavpu	600	800	author floruit: Bhāmaha (P0AT0141, author) | sanskrit-prosopography
+anchor	SA_GK16_vamkalvu	775	815	author floruit: Vāmana (poetician) (P0AT0150, author) | sanskrit-prosopography
+anchor	SA_GK16_visa01cu	1300	1380	author floruit: Viśvanātha Kavirāja (P0AT0152, author) | sanskrit-prosopography
+anchor	SA_GK16_visa02cu	1300	1380	author floruit: Viśvanātha Kavirāja (P0AT0152, author) | sanskrit-prosopography
+anchor	SA_GK16_visa07cu	1300	1380	author floruit: Viśvanātha Kavirāja (P0AT0152, author) | sanskrit-prosopography
+anchor	SA_GK16_visa08cu	1300	1380	author floruit: Viśvanātha Kavirāja (P0AT0152, author) | sanskrit-prosopography
+anchor	SA_GK17_ilx_ws_chandomanjari	1400	1550	author floruit: Gaṅgādāsa (P0SA0562, author) | sanskrit-prosopography
+anchor	SA_GK17_chandovu	150	350	author floruit: Mitradhara (P0SA0215, author) | sanskrit-prosopography
+anchor	SA_GK18_abhidhau	1100	1200	author floruit: Nandikeśvara (author of Abhinayadarpaṇa) (P0SA0175, author) | sanskrit-prosopography
+anchor	SA_GK18_ilx_ws_sangitasarasamgrahah	1700	1760	author floruit: Narahari Cakravartin (P0SA0494, author) | sanskrit-prosopography
+anchor	SA_GK18_ilx_ws_sangitaratnakarah	1210	1247	author floruit: Śārṅgadeva (P0SA0493, author) | sanskrit-prosopography
+anchor	SA_GK19_amaru_u	650	750	author floruit: Amaru (P0AT0159, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_nakhastutih	1238	1317	author floruit: Madhva (P0AT0136, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_campubharatam	1550	1600	author floruit: Anantabhaṭṭa (P0SA0505, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_mahamahimanvitam_adityastotram	1520	1593	author floruit: Appayya Dīkṣita (P0AT0161, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_arttatranastotram	1520	1593	author floruit: Appayya Dīkṣita (P0AT0161, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_samanvaya_vyakhya	1520	1593	author floruit: Appayya Dīkṣita (P0AT0161, mūla) | sanskrit-prosopography
+anchor	SA_GK19_asvbc_1u	80	150	author floruit: Aśvaghoṣa (P7612, author) | sanskrit-prosopography
+anchor	SA_GK19_asvbuc2u	80	150	author floruit: Aśvaghoṣa (P7612, author) | sanskrit-prosopography
+anchor	SA_GK19_asvsau2u	80	150	author floruit: Aśvaghoṣa (P7612, author) | sanskrit-prosopography
+anchor	SA_GK19_asvsaunu	80	150	author floruit: Aśvaghoṣa (P7612, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_prameyaratnavali	1700	1793	author floruit: Baladeva Vidyābhūṣaṇa (P0SA0005, author) | sanskrit-prosopography
+anchor	SA_GK19_bhakirpu	500	600	author floruit: Bhāravi (P0AT0163, author) | sanskrit-prosopography
+anchor	SA_GK19_bhattiku	550	650	author floruit: Bhaṭṭi (P0AT0165, author) | sanskrit-prosopography
+anchor	SA_GK19_utraca	680	740	author floruit: Bhavabhūti (P0SA0043, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_kapinamupavasah	1900	1975	author floruit: D. T. Tātācārya (P0SA0513, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_herambopasthanam	1900	1936	author floruit: Gaṇapati Muni (P0SA0073, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_indrasahasranamastotram	1900	1936	author floruit: Gaṇapati Muni (P0SA0073, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_umasahasranamastotram	1900	1936	author floruit: Gaṇapati Muni (P0SA0073, author) | sanskrit-prosopography
+not_after	SA_GK19_aghatkvu	1025		root text older than its commentator: Abhinavagupta (P0AT0157, ṭīkā) | sanskrit-prosopography
+anchor	SA_GK19_bhicau	1970	2010	author floruit: Harinārāyaṇa Dīkṣita (P0SA0219, author) | sanskrit-prosopography
+anchor	SA_GK19_jagpranu	1610	1670	author floruit: Jagannātha Paṇḍitarāja (P0AT0143, author) | sanskrit-prosopography
+anchor	SA_GK19_livasau	1280	1300	author floruit: Jinaratna (P0SA0200, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_kavyadarsavyakhya_hrdayangama	1870	1910	author floruit: Jīvānanda Vidyāsāgara (P0SA0515, commentary) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_keralodayah	1911	1981	author floruit: K. N. Ezhuthachan (P0SA0514, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_hh_vallabhadeva_kumarasambhavalaghutika	350	450	author floruit: Kālidāsa (P8058, mūla) | sanskrit-prosopography
+anchor	SA_GK19_ilx_hh_kalidasa_meghaduta_w_four_commentaries	350	450	author floruit: Kālidāsa (P8058, mūla) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_gauraganoddesa_dipika	1524	1576	author floruit: Kavikarṇapūra (P0SA0143, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_alankaramaniharah1	1839	1916	author floruit: Kṛṣṇabrahmatantraparakālasvāmin (P0SA0054, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_alankaramaniharah2	1839	1916	author floruit: Kṛṣṇabrahmatantraparakālasvāmin (P0SA0054, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_alankaramaniharah3	1839	1916	author floruit: Kṛṣṇabrahmatantraparakālasvāmin (P0SA0054, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_alankaramaniharah4	1839	1916	author floruit: Kṛṣṇabrahmatantraparakālasvāmin (P0SA0054, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_sivanaksatramalikastotram	1794	1868	author floruit: Kṛṣṇarāja Woḍeyar III (P0SA0542, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_ramasatpadi	1775	1830	author floruit: Mathurānātha Śukla (P0SA0532, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_narayaniyam_bhaktapriyavyakhyasahitam	1560	1655	author floruit: Melputtūr Nārāyaṇa Bhaṭṭatiri (P0SA0062, mūla) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_vasudevastakam	1856	1928	author floruit: Nārāyaṇaguru (P0SA0539, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_anandasagarastavah	1600	1650	author floruit: Nīlakaṇṭha Dīkṣita (P0AT0172, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_srivenkatesamangalasasana	1390	1440	author floruit: Prativādibhayaṅkara Aṇṇa (P0SA0059, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_srivenkatesaprapatti	1390	1440	author floruit: Prativādibhayaṅkara Aṇṇa (P0SA0059, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_srivemkatesasuprabhatam	1390	1440	author floruit: Prativādibhayaṅkara Aṇṇa (P0SA0059, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_venkatesastotram	1390	1440	author floruit: Prativādibhayaṅkara Aṇṇa (P0SA0059, author) | sanskrit-prosopography
+anchor	SA_GK19_raggancu	1325	1363	author floruit: Rāghavacaitanya (P0AT0174, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_manobodhah	1608	1681	author floruit: Samartha Rāmadāsa (P0SA0142, mūla) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_srisadasivendrastavah	1879	1912	author floruit: Saccidānandaśivābhinavanṛsiṃhabhāratī (P0SA0551, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_srikamalajadayitastakam	1879	1912	author floruit: Śivābhinavanṛsiṃhabhāratī (P0SA0546, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_acyutastakam_sridharavenkatesakrtam	1670	1720	author floruit: Śrīdhara Veṅkaṭeśa (P0SA0498, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_srikrsnavilasam	1000	1200	author floruit: Sukumāra (P0SA0548, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_vilomaksararamakrsnakavyam	1500	1560	author floruit: Sūryakavi Daivajña (P0SA0537, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_rudrastakam	1532	1623	author floruit: Tulasīdāsa (P0SA0529, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_aryapancadasistotram	1480	1520	author floruit: Tyāgarāja (P0SA0540, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_candikastakam	1926	1926	author floruit: Umāpatidvivedin (P0SA0508, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_dasavatarastotram	1500	1600	author floruit: Vādirāja Tīrtha (P0SA0081, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_dasavatarastuti	1500	1600	author floruit: Vādirāja Tīrtha (P0SA0081, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_madhurastakam	1479	1531	author floruit: Vallabhācārya (P0SA0144, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_aparadhaksamapanastotra	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_dakaradidattasahasranamastotram	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_sridattabhavasudharasastotram	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_dattamalamantram	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_dattaparadhaksamapanastotram	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_dattastavastrotram	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_sridattatreyaprarthanastotra	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_sriganapatistotram	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_aghorakastoddharanastotram	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_godavaristotram	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_laksminarayanastotram	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_mantragarbhasridattatreyastottarasatanamastotram	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_parasuramastotram	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_samkarastotram	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_srijagadambikastotram	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_srinrsimhasarasvatiprarthanastakam	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_sriramacamdrastotram	1854	1914	author floruit: Vāsudevānanda Sarasvatī (P0SA0006, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_raghuviragadyam	1268	1369	author floruit: Veṅkaṭanātha (Vedānta Deśika) (P0AT0208, author) | sanskrit-prosopography
+anchor	SA_GK19_ilx_hh_vedantadesika_yadavabhyudaya_w_commentary_sarga_1	1268	1369	author floruit: Veṅkaṭanātha (Vedānta Deśika) (P0AT0208, mūla) | sanskrit-prosopography
+anchor	SA_GK19_bhadipiu	1403	1420	author floruit: Vemabhūpāla (P0SA0199, commentary) | sanskrit-prosopography
+anchor	SA_GK19_ilx_ws_ambastotram_svami_vivekananda	1863	1902	author floruit: Svāmī Vivekānanda (P0SA0500, author) | sanskrit-prosopography
+anchor	SA_GK20_ilx_hh_bhavabhuti_malatimadhava_w_rasamanjari	680	740	author floruit: Bhavabhūti (P0SA0043, author) | sanskrit-prosopography
+anchor	SA_GK20_urmc_u	680	740	author floruit: Bhavabhūti (P0SA0043, author) | sanskrit-prosopography
+anchor	SA_GK20_anrghu	800	900	author floruit: Murāri (P0SA0201, author) | sanskrit-prosopography
+anchor	SA_GK22_gaharayanaku	1180	1210	author floruit: Jineśvara Sūri (12th c.) (P0SA0130, author) | sanskrit-prosopography
+anchor	SA_GK22_subhasiyapau	1180	1210	author floruit: Jineśvara Sūri (12th c.) (P0SA0130, compiler) | sanskrit-prosopography
+anchor	SA_GK22_ilx_gr_rAva_mithyAgrahaNa	1890	1954	author floruit: Kṣamā Rāva (P0SA0398, author) | sanskrit-prosopography
+anchor	SA_GK22_vidsrgpu	1080	1135	author floruit: Vidyākara (P0AT0187, compiler) | sanskrit-prosopography
+anchor	SA_GK22_vidsripu	1080	1135	author floruit: Vidyākara (P0AT0187, compiler) | sanskrit-prosopography
+anchor	SA_GK23_kaulpradsam_u	1846	1899	author floruit: Govind Kaul (P0AT0190, author) | sanskrit-prosopography
+not_after	SA_GP10_ilx_hh_bhagavata_03_four_commentaries	1317		root text older than its commentator: Madhva (P0AT0136, commentary) | sanskrit-prosopography
+not_after	SA_GP10_ilx_hh_bhagavata_06_four_commentaries	1317		root text older than its commentator: Madhva (P0AT0136, commentary) | sanskrit-prosopography
+not_after	SA_GP10_ilx_hh_bhagavata_07_four_commentaries	1317		root text older than its commentator: Madhva (P0AT0136, commentary) | sanskrit-prosopography
+anchor	SA_GR12_siddhivinisu	720	780	author floruit: Bhaṭṭa Akalaṅka (P0SA0128, author) | sanskrit-prosopography
+anchor	SA_GR12_laghiyastrau	720	780	author floruit: Bhaṭṭa Akalaṅka (P0SA0128, author) | sanskrit-prosopography
+anchor	SA_GR12_surasumdariu	1038	1038	author floruit: Dhaneśvara Muni (P0SA0371, author) | sanskrit-prosopography
+anchor	SA_GR12_dhuttakkhanu	750	800	author floruit: Haribhadrasūri (Jain philosopher) (P0ER0009, author) | sanskrit-prosopography
+anchor	SA_GR12_hsasvrpu	750	800	author floruit: Haribhadrasūri (Jain philosopher) (P0ER0009, author) | sanskrit-prosopography
+anchor	SA_GR12_pramanamimau	1088	1173	author floruit: Hemacandra (P0SA0129, author) | sanskrit-prosopography
+anchor	SA_GR13_purekaku	1100	1160	author floruit: Puruṣottamadeva (P0AT0122, author) | sanskrit-prosopography
+anchor	SA_GR13_ilx_ws_prayogamanjari	950	1050	author floruit: Ravi (P0SA0614, author) | sanskrit-prosopography
+not_after	SA_GR14_ilx_ws_sattvatasamhita	1900		root text older than its commentator: Alaśiṅgabhaṭṭa (P0SA0615, bhāṣya) | sanskrit-prosopography
+anchor	SA_GR14_ilx_gr_avadhUtasiddha_bhagavadbhaktistotra	850	975	author floruit: Avadhūtasiddha (P0AT0265, author) | sanskrit-prosopography
+anchor	SA_GR14_dhyggs_u	1550	1650	author floruit: Dhyānacandra Gosvāmī (P0AT0128, author) | sanskrit-prosopography
+anchor	SA_GR14_ilx_gr_ta_sa_periyavaccanpillai_perumaltiromolivyAkhyAnam	800	900	author floruit: Kulacēkara Āḻvār (P0SA0400, mūla) | sanskrit-prosopography
+anchor	SA_GR14_kumukumu	800	1099	author floruit: Kulaśekhara Āḻvār (P0AT0134, author) | sanskrit-prosopography
+anchor	SA_GR14_vrima	1500	1580	author floruit: Prabodhānanda Sarasvatī (P0AT0127, author) | sanskrit-prosopography
+anchor	SA_GR14_vedsy	1680	1750	author floruit: Rādhādāmodara (P0SA0204, author) | sanskrit-prosopography
+anchor	SA_GR14_yamcatpu	966	1038	author floruit: Yāmuna (P0AT0139, author) | sanskrit-prosopography
+anchor	SA_GS24_ilx_ws_saramanjari_asubodhavidyabhusanaviracitavyakhyasahita	1890	1940	author floruit: Āśubodha Vidyābhūṣaṇa (P0SA0101, commentary) | sanskrit-prosopography
+anchor	SA_GS24_ilx_ws_samskararatnamala	1650	1750	author floruit: Bhaṭṭa Gopīnātha Dīkṣita Oka (P0SA0584, author) | sanskrit-prosopography
+anchor	SA_GS24_ilx_ws_sabdakaustubhah	1560	1633	author floruit: Bhaṭṭoji Dīkṣita (P0SA0040, commentary) | sanskrit-prosopography
+not_after	SA_GS24_ilx_ws_unadikosah	1883		root text older than its commentator: Dayānanda Sarasvatī (P0SA0591, commentary) | sanskrit-prosopography
+anchor	SA_GS24_ilx_ws_vaiyakaramasiddhantalaghumanjusa	1750	1850	author floruit: Kṛṣṇamitra (Durbalācārya) (P0SA0083, commentary) | sanskrit-prosopography
+anchor	SA_GS24_ilx_ws_dhatvarthanirupanam	1750	1850	author floruit: Kṛṣṇamitra (Durbalācārya) (P0SA0083, commentary) | sanskrit-prosopography
+anchor	SA_GS24_ilx_ws_laghubhusanakantih	1780	1840	author floruit: Gopāladeva (P0SA0574, ṭīkā) | sanskrit-prosopography
+anchor	SA_GS24_ilx_ws_kasika_padamanjarivyakhyasahita	1100	1300	author floruit: Haradatta (Grammarian and Dharmaśāstra commentator) (P0SA0023, commentary) | sanskrit-prosopography
+anchor	SA_GS24_ilx_ws_sabdikabharanam	1100	1199	author floruit: Hariyogin Śailavācārya (P0SA0609, author) | sanskrit-prosopography
+anchor	SA_GS24_ilx_ws_saramanjari_saradipikavyakhyasahita	1700	1770	author floruit: Jayakṛṣṇa (author of Sāramañjarī) (P0SA0587, mūla) | sanskrit-prosopography
+anchor	SA_GS24_ilx_ws_jnapakasamgrahah	1675	1750	author floruit: Nāgeśabhaṭṭa (P0AT0192, author) | sanskrit-prosopography
+anchor	SA_GS24_pmbhasuu	-200	-100	author floruit: Patañjali (Grammarian) (P0SA0255, bhāṣya) | sanskrit-prosopography
+anchor	SA_GS24_ilx_ws_satkarakam	850	1000	author floruit: Rabhasanandin (P0SA0611, author) | sanskrit-prosopography
+anchor	SA_GS24_ilx_hh_sarvavarman_katantra_w_commentary	100	400	author floruit: Śarvavarman (P0SA0412, mūla) | sanskrit-prosopography
+not_after	SA_GS24_ilx_ws_vadarthasamgrahah_dvitiyabhagah	1800		root text older than its commentator: Hariyaśomiśra (P0SA0601, commentary) | sanskrit-prosopography
+anchor	SA_GS24_ilx_ws_srivyasapaninibhavanirnayah	1900	1960	author floruit: Setumādhavācārya (P0SA0608, author) | sanskrit-prosopography
+anchor	SA_GS24_ilx_ws_tattvaprabhavali	1920	1970	author floruit: Śrīkṛṣṇavallabhācārya (P0SA0589, author) | sanskrit-prosopography
+anchor	SA_GS24_prakrtapraku	300	550	author floruit: Vararuci (Prakrit grammarian) (P0SA0087, mūla) | sanskrit-prosopography
+anchor	SA_GS24_prakrtaprak2u	300	550	author floruit: Vararuci (Prakrit grammarian) (P0SA0087, sūtra) | sanskrit-prosopography
+anchor	SA_GS24_ilx_ws_pariskaradarpanah	1875	1950	author floruit: Veṇīmādhava Śukla (P0SA0579, author) | sanskrit-prosopography
+anchor	SA_GS25_amark1pu	400	600	author floruit: Amarasiṃha (P7413, author) | sanskrit-prosopography
+anchor	SA_GS25_amark2_u	400	600	author floruit: Amarasiṃha (P7413, author) | sanskrit-prosopography
+anchor	SA_GS25_amark3_u	400	600	author floruit: Amarasiṃha (P7413, author) | sanskrit-prosopography
+anchor	SA_GS25_ilx_ws_amarakosah_amaravivekavyakhyasahitah	400	600	author floruit: Amarasiṃha (P7413, mūla) | sanskrit-prosopography
+anchor	SA_GS25_paiyalacchiu	950	1025	author floruit: Dhanapāla (P0SA0370, author) | sanskrit-prosopography
+anchor	SA_GS25_desinamamalu	1088	1173	author floruit: Hemacandra (P0SA0129, author) | sanskrit-prosopography
+anchor	SA_GS26_ilx_ws_sad_darsanasamuccayah	750	800	author floruit: Haribhadrasūri (Jain philosopher) (P0ER0009, mūla) | sanskrit-prosopography
+anchor	SA_GS26_ilx_ws_santikamalakarah	1600	1650	author floruit: Kamalākarabhaṭṭa (P0SA0131, author) | sanskrit-prosopography
+anchor	SA_GS26_ilx_ws_smrtimuktavalih	1620	1700	author floruit: Kṛṣṇācārya (Dvaita) (P0SA0159, compiler) | sanskrit-prosopography
+anchor	SA_GS26_ilx_ws_jayantikalpah	1238	1317	author floruit: Madhva (P0AT0136, author) | sanskrit-prosopography
+anchor	SA_GS26_ilx_ws_pranavakalpah	1238	1317	author floruit: Madhva (P0AT0136, author) | sanskrit-prosopography
+anchor	SA_GS26_ilx_ws_tithinirnayah	1238	1317	author floruit: Madhva (P0AT0136, author) | sanskrit-prosopography
+not_after	SA_GSP27_motik_1u	1700		root text older than its commentator: Bhāskarakaṇṭha (P0AT0266, ṭīkā) | sanskrit-prosopography
+not_after	SA_GSP27_motik_2u	1700		root text older than its commentator: Bhāskarakaṇṭha (P0AT0266, ṭīkā) | sanskrit-prosopography
+not_after	SA_GSP27_motik_3u	1700		root text older than its commentator: Bhāskarakaṇṭha (P0AT0266, ṭīkā) | sanskrit-prosopography
+not_after	SA_GSP27_motik_4u	1700		root text older than its commentator: Bhāskarakaṇṭha (P0AT0266, ṭīkā) | sanskrit-prosopography
+anchor	SA_GSP28_ilx_ws_nayamayukhamalika	1520	1593	author floruit: Appayya Dīkṣita (P0AT0161, author) | sanskrit-prosopography
+anchor	SA_GSP28_durdhpru	600	660	author floruit: Dharmakīrti I (P6120, author) | sanskrit-prosopography
+not_after	SA_GSP28_msbh1-7u	500		root text older than its commentator: Śabarasvāmin (P0AT0201, commentary) | sanskrit-prosopography
+anchor	SA_GSP28_mimkosa_04u	1877	1955	author floruit: Kevalānanda Sarasvatī (P0SA0028, compiler) | sanskrit-prosopography
+anchor	SA_GSP28_mimkosa_07u	1877	1955	author floruit: Kevalānanda Sarasvatī (P0SA0028, compiler) | sanskrit-prosopography
+anchor	SA_GSP28_ilx_ws_bhattarahasyam_khandadevah	1600	1665	author floruit: Khaṇḍadeva (P0SA0013, author) | sanskrit-prosopography
+anchor	SA_GSP28_mimslovu	600	699	author floruit: Kumārila Bhaṭṭa (P0AT0197, mūla) | sanskrit-prosopography
+anchor	SA_GSP28_ilx_ws_nayasangatimalika	1880	1940	author floruit: Lakṣmīpuram Śrīnivāsācārya (P0SA0472, author) | sanskrit-prosopography
+anchor	SA_GSP28_ilx_ws_karmanirnayah	1238	1317	author floruit: Madhva (P0AT0136, author) | sanskrit-prosopography
+anchor	SA_GSP28_prakp07u	800	900	author floruit: Śālikanātha Miśra (P0AT0200, author) | sanskrit-prosopography
+anchor	SA_GSP28_mimsvtku	950	1050	author floruit: Sucaritamiśra (P0AT0198, ṭīkā) | sanskrit-prosopography
+anchor	SA_GSP28_ilx_ws_adhikaranasaravalih	1268	1369	author floruit: Veṅkaṭanātha (Vedānta Deśika) (P0AT0208, author) | sanskrit-prosopography
+anchor	SA_GSP29_ilx_ws_sariravadah	1822	1862	author floruit: Anantārya (Śeṣa lineage) (P0SA0488, author) | sanskrit-prosopography
+anchor	SA_GSP29_antark	1550	1650	author floruit: Annambhaṭṭa (P0AT0203, author) | sanskrit-prosopography
+anchor	SA_GSP29_ilx_ws_vedantakarikavali	1750	1850	author floruit: Bucci Veṅkaṭācārya (P0SA0483, author) | sanskrit-prosopography
+anchor	SA_GSP29_ilx_ws_nyayadipika	1345	1388	author floruit: Jayatīrtha (P0AT0234, commentary) | sanskrit-prosopography
+anchor	SA_GSP29_ilx_ws_pramanalaksanam	1238	1317	author floruit: Madhva (P0AT0136, author) | sanskrit-prosopography
+anchor	SA_GSP29_ilx_ws_nyayamuktavali	1595	1671	author floruit: Rāghavendratīrtha (P0SA0044, author) | sanskrit-prosopography
+anchor	SA_GSP29_ilx_ws_nyayasiddhantamuktavali	1610	1650	author floruit: Viśvanātha Pañcānana Bhaṭṭācārya (P0SA0473, author) | sanskrit-prosopography
+anchor	SA_GSP29_ilx_gr_hetvAbhAsadazaka	1800	1851	author floruit: Yuvarāja of Koṭiliṅgapura (P0SA0396, author) | sanskrit-prosopography
+anchor	SA_GSP30_tantralu2	975	1025	author floruit: Abhinavagupta (P0AT0157, author) | sanskrit-prosopography
+anchor	SA_GSP30_tantralu1	975	1025	author floruit: Abhinavagupta (P0AT0157, author) | sanskrit-prosopography
+anchor	SA_GSP30_sa_avadhUtasiddha-bhagavadbhaktistotra	850	975	author floruit: Avadhūtasiddha (P0AT0265, author) | sanskrit-prosopography
+anchor	SA_GSP31_bhgank_u	800	950	author floruit: Haradatta (Pāśupata) (P0SA0273, kārikā) | sanskrit-prosopography
+anchor	SA_GSP31_iskamatu	350	450	author floruit: Īśvarakṛṣṇa (P0SA0025, kārikā) | sanskrit-prosopography
+not_after	SA_GSP31_ilx_ws_samkhyadarsanam_srimadvijnanabhiksukrtasamkhyapravacanabhasyasahitam	1599		root text older than its commentator: Vijñānabhikṣu (P0AT0224, commentary) | sanskrit-prosopography
+anchor	SA_GSP31_kavsttvu	1600	1900	author floruit: Kavirājayati (P0AT0220, author) | sanskrit-prosopography
+anchor	SA_GSP31_ilx_ws_samkhyakosah	1974	1996	author floruit: Kedāranātha Tripāṭhī (P0SA0477, author) | sanskrit-prosopography
+anchor	SA_GSP31_tattvmiu	1750	1850	author floruit: Kṛṣṇamitra (Durbalācārya) (P0SA0083, author) | sanskrit-prosopography
+not_after	SA_GSP31_tsc_simu	1550		root text older than its commentator: Kṣemānanda (P0AT0223, commentator) | sanskrit-prosopography
+anchor	SA_GSP31_vijsamsu	1500	1599	author floruit: Vijñānabhikṣu (P0AT0224, author) | sanskrit-prosopography
+anchor	SA_GSP32_vvmanmhu	1175	1225	author floruit: Vādivāgīśvara (P0AT0227, author) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_siddhantalesasangrahah	1520	1593	author floruit: Appayya Dīkṣita (P0AT0161, author) | sanskrit-prosopography
+not_after	SA_GSP33_nysu__1u	1317		root text older than its commentator: Madhva (P0AT0136, bhāṣya) | sanskrit-prosopography
+not_after	SA_GSP33_bbdip11u	1317		root text older than its commentator: Madhva (P0AT0136, bhāṣya) | sanskrit-prosopography
+not_after	SA_GSP33_bhbhg_cu	850		root text older than its commentator: Bhāskara (Vedāntin) (P0AT0229, bhāṣya) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_svarajyasiddhih	1650	1750	author floruit: Gaṅgādharendra Sarasvatī (P0SA0476, author) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_pramanapaddhatih	1345	1388	author floruit: Jayatīrtha (P0AT0234, author) | sanskrit-prosopography
+not_after	SA_GSP33_ilx_ws_cidgaganacandrika	1980		root text older than its commentator: Karrā Agnihotra Śāstrin (P0SA0468, commentary) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_advaitamakaranda	1350	1450	author floruit: Lakṣmīdhara Kavi (P0SA0197, author) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_dvadasastotrani	1238	1317	author floruit: Madhva (P0AT0136, author) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_pancapadikavivaranam	950	1025	author floruit: Prakāśātman (P0SA0134, commentary) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_gitatatparyatikabhavadipah	1595	1671	author floruit: Rāghavendratīrtha (P0SA0044, commentary) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_sankarapadabhusanam	1770	1840	author floruit: Raghunātha Parvate (P0SA0489, author) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_brahrsutrarthapadyamalika	1895	1992	author floruit: Rājagopāla (44th Pontiff of Ahobila Maṭha) (P0SA0467, author) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_bhavaprakasika	1575	1650	author floruit: Raṅgarāmānuja (P0SA0466, commentary) | sanskrit-prosopography
+not_after	SA_GSP33_samkaubh_u	820		root text older than its commentator: Ādi Śaṅkara (P0AT0230, commentator) | sanskrit-prosopography
+not_after	SA_GSP33_ilx_ws_kenopanisadbhasyam	820		root text older than its commentator: Ādi Śaṅkara (P0AT0230, commentator) | sanskrit-prosopography
+not_after	SA_GSP33_ilx_ws_mundakopanisadbhasyam	820		root text older than its commentator: Ādi Śaṅkara (P0AT0230, commentator) | sanskrit-prosopography
+not_after	SA_GSP33_ilx_gr_taittirIyopaniSad_zaMkarabhASya	820		root text older than its commentator: Ādi Śaṅkara (P0AT0230, commentator) | sanskrit-prosopography
+anchor	SA_GSP33_samkupad_u	700	820	author floruit: Ādi Śaṅkara (P0AT0230, author) | sanskrit-prosopography
+not_after	SA_GSP33_ilx_ws_vivekkacudamani_bhasyam	1954		root text older than its commentator: Candraśekhara Bhāratī (Śaṅkarācārya of Sringeri) (P0SA0485, bhāṣya) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_yatindramatadipika	1600	1699	author floruit: Śrīnivāsadāsa (author of Yatīndramatadīpikā) (P0SA0486, author) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_srutapradipika	1250	1325	author floruit: Sudarśanasūri (P0SA0079, commentary) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_naiskarmyasiddhih	720	800	author floruit: Sureśvara (P0SA0138, author) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_tattvasarah_ratnasarinivyakhyasahitah	1190	1275	author floruit: Vātsya Varadaguru (P0SA0480, kārikā) | sanskrit-prosopography
+anchor	SA_GSP33_vedanta-desika	1268	1369	author floruit: Veṅkaṭanātha (Vedānta Deśika) (P0AT0208, author) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_gitabhasyatatparyacandrika	1268	1369	author floruit: Veṅkaṭanātha (Vedānta Deśika) (P0AT0208, commentary) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_tattvatika	1268	1369	author floruit: Veṅkaṭanātha (Vedānta Deśika) (P0AT0208, commentary) | sanskrit-prosopography
+anchor	SA_GSP33_ilx_ws_bhedojjivanam	1460	1539	author floruit: Vyāsatīrtha (P0AT0209, author) | sanskrit-prosopography
+anchor	SA_GSP34_ilx_ws_yogadipika	1300	1360	author floruit: Nārāyaṇa Paṇḍitācārya (P0SA0140, author) | sanskrit-prosopography
+anchor	SA_GSP34_patyog_u	350	450	author floruit: Patañjali (Yoga) (P0AT0153, author) | sanskrit-prosopography
+anchor	SA_GSP34_yogasutu	350	450	author floruit: Patañjali (Yoga) (P0AT0153, author) | sanskrit-prosopography
+anchor	SA_GSP34_rajamartandu	350	450	author floruit: Patañjali (Yoga) (P0AT0153, sūtra) | sanskrit-prosopography
+anchor	SA_GSP34_patyogbu	350	450	author floruit: Patañjali (Yoga) (P0AT0153, sūtra) | sanskrit-prosopography
+anchor	SA_GSP34_yogsubhu	350	450	author floruit: Patañjali (Yoga) (P0AT0153, sūtra) | sanskrit-prosopography
+anchor	SA_GSP34_ilx_ws_yogasutrasarah	1990	2024	author floruit: Penna Madhusūdana (P0SA0487, author) | sanskrit-prosopography
+anchor	SA_GSP34_hathyopu	1400	1500	author floruit: Svātmārāma (P0AT0237, compiler) | sanskrit-prosopography
+not_after	SA_GSP35_sa_bhAskarakaNTha-mokSopAyaTIkA	1700		root text older than its commentator: Bhāskarakaṇṭha (P0AT0266, ṭīkā) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_bharuci_manubhasya_combined_6_9_8_58	700		root text older than its commentator: Bhāruci (P0SA0072, commentary) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_bharuci_manubhasya_derrett_6_9_12_126	600	700	author floruit: Bhāruci (P0SA0072, commentary) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_devanabhatta_smrticandrika_kanda_ahnika	1150	1225	author floruit: Devaṇabhaṭṭa (P0SA0037, author) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_devanabhatta_smrticandrika_kanda_asauca	1150	1225	author floruit: Devaṇabhaṭṭa (P0SA0037, author) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_devanabhatta_smrticandrika_index_citations	1150	1225	author floruit: Devaṇabhaṭṭa (P0SA0037, author) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_devanabhatta_smrticandrika_kanda_samskara	1150	1225	author floruit: Devaṇabhaṭṭa (P0SA0037, author) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_devanabhatta_smrticandrika_kanda_sraddha	1150	1225	author floruit: Devaṇabhaṭṭa (P0SA0037, author) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_devanabhatta_smrticandrika_kanda_vyavahara	1150	1225	author floruit: Devaṇabhaṭṭa (P0SA0037, author) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_hemadri_caturvargacintamani_vratakhanda_part1	1260	1309	author floruit: Hemādri (P0SA0038, author) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_kamalakara_sudradharmatattvaprakasa	1600	1650	author floruit: Kamalākarabhaṭṭa (P0SA0131, author) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_madanasimha_madanaratnapradipa_vyavahara	1400	1450	author floruit: Madanasiṃha (P0SA0384, author) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_madhava_parasaramadhaviya_vyavaharakanda_vol3	1330	1386	author floruit: Mādhava (brother of Sāyaṇa) (P0SA0011, commentary) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_bharuci_manubhasya_jagannatha_1_1_6_8	700		root text older than its commentator: Bhāruci (P0SA0072, commentary) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_govindaraja_manubhasya	1100		root text older than its commentator: Govindarāja (P0SA0379, commentary) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_medhatithi_manubhasya_ch02	900		root text older than its commentator: Medhātithi (P0SA0010, bhāṣya) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_medhatithi_manubhasya_ch08_part2	900		root text older than its commentator: Medhātithi (P0SA0010, bhāṣya) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_medhatithi_manubhasya_ch04	900		root text older than its commentator: Medhātithi (P0SA0010, bhāṣya) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_medhatithi_manubhasya_ch03	900		root text older than its commentator: Medhātithi (P0SA0010, bhāṣya) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_medhatithi_manubhasya_ch06	900		root text older than its commentator: Medhātithi (P0SA0010, bhāṣya) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_medhatithi_manubhasya_ch07	900		root text older than its commentator: Medhātithi (P0SA0010, bhāṣya) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_medhatithi_manubhasya_ch08_part1	900		root text older than its commentator: Medhātithi (P0SA0010, bhāṣya) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_medhatithi_manubhasya_ch08_part3	900		root text older than its commentator: Medhātithi (P0SA0010, bhāṣya) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_medhatithi_manubhasya_ch10	900		root text older than its commentator: Medhātithi (P0SA0010, bhāṣya) | sanskrit-prosopography
+anchor	SA_GSD36_mvir_sau	1605	1640	author floruit: Mitramiśra (P0AT0238, author) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_lariviere_naradasmrti	400	600	author floruit: Nārada (jurist) (P0SA0383, author) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_madhava_parasaramadhaviya_acarakanda_vol1_part1	500	800	author floruit: Parāśara (smṛtikāra) (P0SA0042, mūla) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_madhava_parasaramadhaviya_acarakanda_vol1_part2	500	800	author floruit: Parāśara (smṛtikāra) (P0SA0042, mūla) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_madhava_parasaramadhaviya_prayascittakanda_vol2_part1	500	800	author floruit: Parāśara (smṛtikāra) (P0SA0042, mūla) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_madhava_parasaramadhaviya_prayascittakanda_vol2_part2	500	800	author floruit: Parāśara (smṛtikāra) (P0SA0042, mūla) | sanskrit-prosopography
+anchor	SA_GSD36_utaustin_raghunandana_divyatattva	1510	1580	author floruit: Raghunandana Bhaṭṭācārya (P0SA0387, author) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_visvarupa_balakrida	850		root text older than its commentator: Viśvarūpa (P0SA0390, commentary) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_apararka_yajnavalkya_book1_acara	1150		root text older than its commentator: Aparārka (P0SA0071, commentary) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_apararka_yajnavalkya_book2_vyavahara	1150		root text older than its commentator: Aparārka (P0SA0071, commentary) | sanskrit-prosopography
+not_after	SA_GSD36_utaustin_apararka_yajnavalkya_book3_prayascitta	1150		root text older than its commentator: Aparārka (P0SA0071, commentary) | sanskrit-prosopography
+anchor	SA_GSD37_utaustin_olivelle_apastamba_dharmasutra	-350	-200	author floruit: Āpastamba (P0SA0033, sūtra) | sanskrit-prosopography
+anchor	SA_GSD37_utaustin_haradatta_ujjvala_apastamba_dharmasutra	-350	-200	author floruit: Āpastamba (P0SA0033, sūtra) | sanskrit-prosopography
+anchor	SA_GSD37_utaustin_haradatta_anakula_apastamba_grhyasutra	-350	-200	author floruit: Āpastamba (P0SA0033, sūtra) | sanskrit-prosopography
+not_after	SA_GSD37_utaustin_maskarin_gautama_dharmasutra_commentary	1100		root text older than its commentator: Maskarin (P0SA0066, bhāṣya) | sanskrit-prosopography
+not_after	SA_GSD37_utaustin_haradatta_mitaksara_gautama_dharmasutra	1300		root text older than its commentator: Haradatta (Grammarian and Dharmaśāstra commentator) (P0SA0023, commentary) | sanskrit-prosopography
+not_after	SA_GSD37_utaustin_maskarin_haradatta_gautama_parallel_commentary	1100		root text older than its commentator: Maskarin (P0SA0066, bhāṣya) | sanskrit-prosopography
+anchor	SA_GS39_kamasufu	300	500	author floruit: Vātsyāyana Mallanāga (P0AT0242, author) | sanskrit-prosopography
+anchor	SA_GS40_carakasamhiu	50	150	author floruit: Caraka (P0SA0127, redactor) | sanskrit-prosopography
+anchor	SA_GS40_ilx_ws_bhaisajyaratnavali	1700	1970	author floruit: Govindadāsa Sena (P0SA0554, author), Brahmaśaṅkara Miśra (P0SA0555, redactor) | sanskrit-prosopography
+anchor	SA_GS40_ilx_ws_ayurvedaprakasah	1600	1700	author floruit: Mādhava Upādhyāya (P0SA0213, author) | sanskrit-prosopography
+anchor	SA_GS40_ilx_ws_madhavanidanam	650	750	author floruit: Mādhavakara (P0SA0557, author) | sanskrit-prosopography
+anchor	SA_GS40_rasayanakhau	1250	1400	author floruit: Nityanātha Siddha (P0AT0249, author) | sanskrit-prosopography
+anchor	SA_GS40_ilx_ws_sarngadharasamhita	1300	1400	author floruit: Śārṅgadhara (P0SA0560, author) | sanskrit-prosopography
+anchor	SA_GS40_rascum_u	1063	1081	author floruit: Somadeva (author of Kathāsaritsāgara) (P0AT0184, author) | sanskrit-prosopography
+not_after	SA_GS40_ilx_ws_ayurvedasutram_yoganandanathabhasyasametam	1800		root text older than its commentator: Yogānandanātha (P0SA0559, bhāṣya) | sanskrit-prosopography
+anchor	SA_GS41_aryabhcu	476	550	author floruit: Āryabhaṭa I (P0AT0256, mūla) | sanskrit-prosopography
+anchor	SA_GS41_hayanaratna	1640	1660	author floruit: Balabhadra Daivajña (P0SA0240, author) | sanskrit-prosopography
+anchor	SA_GS41_ilx_ws_goladhyayah	1114	1183	author floruit: Bhāskara II (P0AT0257, mūla, auto-commentary) | sanskrit-prosopography
+anchor	SA_GS41_ilx_ws_harinamamrtavyakaranam	1535	1600	author floruit: Jīva Gosvāmin (P0AT0131, author) | sanskrit-prosopography
+anchor	SA_GS41_ilx_ws_siddhantatattvavivekah	1658	1658	author floruit: Kamalākara (astronomer) (P0SA0585, mūla, commentary) | sanskrit-prosopography
+anchor	SA_GS41_ilx_ws_vaiyakaranabhusanasarah_darpanavyakhyasahitah	1600	1650	author floruit: Kauṇḍabhaṭṭa (P0SA0055, root text) | sanskrit-prosopography
+anchor	SA_GS41_ilx_ws_karanapaddhatih	1700	1740	author floruit: Putumana Somayājin (P0SA0569, author) | sanskrit-prosopography
+anchor	SA_GS41_yogay1_u	500	600	author floruit: Varāhamihira (P0AT0258, author) | sanskrit-prosopography
+anchor	SA_GS41_vivahapu	500	600	author floruit: Varāhamihira (P0AT0258, author) | sanskrit-prosopography
+not_after	SA_GS41_ilx_ws_naradasamhita	1940		root text older than its commentator: Vasatirāma Śarman (P0SA0577, commentary) | sanskrit-prosopography
+anchor	SA_GS41_ilx_ws_srisiddhantasudhanidhih	1670	1745	author floruit: Viśveśvara Pāṇḍeya (P0SA0091, author) | sanskrit-prosopography
+anchor	SA_GV01_ilx_ws_rgbhasyam_srimadanandatirthaviracitam	1238	1317	author floruit: Madhva (P0AT0136, author) | sanskrit-prosopography
+not_after	SA_GV01_rvsb_01u	1387		root text older than its commentator: Sāyaṇa (P0SA0018, commentary) | sanskrit-prosopography
+not_after	SA_GV01_rvsb_02u	1387		root text older than its commentator: Sāyaṇa (P0SA0018, commentary) | sanskrit-prosopography
+not_after	SA_GV01_rvsb_03u	1387		root text older than its commentator: Sāyaṇa (P0SA0018, commentary) | sanskrit-prosopography
+not_after	SA_GV01_rvsb_04u	1387		root text older than its commentator: Sāyaṇa (P0SA0018, commentary) | sanskrit-prosopography
+not_after	SA_GV01_rvsb_05u	1387		root text older than its commentator: Sāyaṇa (P0SA0018, commentary) | sanskrit-prosopography
+not_after	SA_GV01_rvsb_06u	1387		root text older than its commentator: Sāyaṇa (P0SA0018, commentary) | sanskrit-prosopography
+not_after	SA_GV01_rvsb_07u	1387		root text older than its commentator: Sāyaṇa (P0SA0018, commentary) | sanskrit-prosopography
+not_after	SA_GV01_rvsb_08u	1387		root text older than its commentator: Sāyaṇa (P0SA0018, commentary) | sanskrit-prosopography
+not_after	SA_GV01_rvsb_09u	1387		root text older than its commentator: Sāyaṇa (P0SA0018, commentary) | sanskrit-prosopography
+not_after	SA_GV01_rvsb_10u	1387		root text older than its commentator: Sāyaṇa (P0SA0018, commentary) | sanskrit-prosopography
+anchor	SA_GV05_chupmau	1238	1317	author floruit: Madhva (P0AT0136, author) | sanskrit-prosopography
+not_after	SA_GV05_brupsb1u	820		root text older than its commentator: Ādi Śaṅkara (P0AT0230, commentator) | sanskrit-prosopography
+not_after	SA_GV05_brupsb2u	820		root text older than its commentator: Ādi Śaṅkara (P0AT0230, commentator) | sanskrit-prosopography
+not_after	SA_GV05_brupsb5u	820		root text older than its commentator: Ādi Śaṅkara (P0AT0230, commentator) | sanskrit-prosopography
+not_after	SA_GV05_chupsb_u	820		root text older than its commentator: Ādi Śaṅkara (P0AT0230, commentator) | sanskrit-prosopography
+not_after	SA_GV05_prasupbu	820		root text older than its commentator: Ādi Śaṅkara (P0AT0230, commentator) | sanskrit-prosopography
+anchor	SA_GV06_ilx_ws_apastambiyam_srautasutram	-350	-200	author floruit: Āpastamba (P0SA0033, sūtra) | sanskrit-prosopography
+anchor	SA_GV06_ilx_gr_ApastambazulbasUtra	-350	-200	author floruit: Āpastamba (P0SA0033, sūtra) | sanskrit-prosopography
+anchor	SA_GV06_ilx_ws_samavedarseyadipah	1300	1399	author floruit: Bhāskarayajvan (P0SA0558, author) | sanskrit-prosopography
+not_after	SA_GV06_ilx_ws_ekagnikandam	1300		root text older than its commentator: Haradatta (Grammarian and Dharmaśāstra commentator) (P0SA0023, commentary) | sanskrit-prosopography
+anchor	SA_GV06_ilx_ws_svarankusasiksa	1000	1200	author floruit: Jayantasvāmin (P0SA0586, author) | sanskrit-prosopography
+anchor	SA_GV06_ilx_ws_bhasikasutrani	-350	-200	author floruit: Kātyāyana (Vararuci) (P0SA0053, author) | sanskrit-prosopography
+anchor	SA_GV06_ilx_ws_katyayanasrautasutram	-350	-200	author floruit: Kātyāyana (Vararuci) (P0SA0053, author) | sanskrit-prosopography
+anchor	SA_GV06_ilx_ws_pratijnasutram	-350	-200	author floruit: Kātyāyana (Vararuci) (P0SA0053, author) | sanskrit-prosopography
+not_after	SA_GV06_ilx_ws_karmapradipah	1250		root text older than its commentator: Nārāyaṇopādhyāya (P0SA0570, commentary) | sanskrit-prosopography
+anchor	SA_GV06_ilx_ws_ksudrakalpasutram	-600	-300	author floruit: Maśaka Gārgya (P0SA0147, sūtra) | sanskrit-prosopography
+anchor	SA_GV06_ilx_ws_arseyakalpah	-600	-300	author floruit: Maśaka Gārgya (P0SA0147, sūtra) | sanskrit-prosopography
+anchor	SA_GV06_ilx_ws_jatamanih	1600	1650	author floruit: Nemānabhairava (P0SA0568, author) | sanskrit-prosopography
+anchor	SA_GV06_ilx_ws_vedaparibhasakarikasiksa	1814	1854	author floruit: Rāmacandra (son of Siddheśvara) (P0SA0596, author) | sanskrit-prosopography
+anchor	SA_GV06_ilx_ws_samasalaksanam	1460	1464	author floruit: Ratnamaṇḍanasūri (P0SA0582, author) | sanskrit-prosopography
+anchor	SA_GV06_ilx_ws_rgvedapratisakhyam	-500	-300	author floruit: Śaunaka (P0SA0146, author) | sanskrit-prosopography
+not_after	SA_GV06_ilx_ws_niruktam	-350		root text older than its commentator: Yāska (P0SA0132, commentary) | sanskrit-prosopography
+anchor	SA_GV06_ilx_gr_yAska_nirukta	-500	-350	author floruit: Yāska (P0SA0132, author) | sanskrit-prosopography
+anchor	SA_XX_n2856u	900	1000	author floruit: Bodhigarbha (P1GS149649, author) | sanskrit-prosopography
+anchor	SA_XX_n1142u	1970	2010	author floruit: V. Subramaniam (P0SA0050, author) | sanskrit-prosopography
+anchor	SA_XX_n1143u	1970	2010	author floruit: V. Subramaniam (P0SA0050, author) | sanskrit-prosopography

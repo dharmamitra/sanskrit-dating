@@ -513,3 +513,5 @@ anchor	SA_GE07_mbh_07_u	-400	100	m c. 400 BCE–100 CE (early | J. Brockington, 
 anchor	SA_GE07_mbh_06_u	-400	100	m c. 400 BCE–100 CE (early | J. Brockington, The Sanskrit Epics (1998 [epic web-consensus]
 anchor	SA_GE07_mbh_04_u	-400	100	m c. 400 BCE–100 CE (early | J. Brockington, The Sanskrit Epics (1998 [epic web-consensus]
 anchor	SA_GE07_hv_apppu	1	300	m 1st-3rd c. CE (khila/app | Brockington, The Sanskrit Epics (1998);  [epic web-consensus]
+order	SA_T06_pskv	SA_T06_pskvbhu		Vasubandhu's Pañcaskandhaka precedes Sthiramati's commentary on it (Pañcaskandhakavibhāṣā)
+anchor	SA_T06_pskv	350	430	h c.350-430 CE (Vasubandhu; same window as his Viṃśikāvṛtti / Madhyāntavibhāgabhāṣya / Trisvabhāvanirdeśa) | Anacker, Seven Works of Vasubandhu; Potter EIP VIII

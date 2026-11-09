@@ -1,0 +1,46 @@
+category clocks: 33 fine + 9 coarse (+global fallback)
+CV (out-of-fold) chunk predictions, per category...
+ordering constraints: 55 pairs over 48 works
+works=3022  anchored=312
+translation termini: 35 works (0 conflict w/ scholarly nb)
+manual constraints applied: 3617
+hierarchical categories: 73 (each work shrinks to its own category mean)
+posterior sigma_ling≈239  within-category sd≈337
+95% credible-interval width: median=231y  (anchored 118y, undated 942y)
+
+HELD-OUT (drop own anchor, shrink to category) — the real test:
+  in-range=25%  interval-edge-err median=91y  Spearman(held-out, mid)=0.774
+
+ANCHORS THE MODEL DISPUTES (held-out posterior <10% mass in scholarly interval): 902
+   SA_GR12_surasumdariu       scholarly[1038,1038] held-out=372 (mass 0%)  Surasundarīcariya
+   SA_GS41_ilx_ws_siddhantatattvavivekah scholarly[1658,1658] held-out=1022 (mass 0%)  Siddhāntatattvaviveka with
+   SA_MB_Sritattvacintamani_11-15_HK scholarly[1577,1577] held-out=1366 (mass 0%)  pūrṇānanda: tattvacintāmaṇ
+   SA_MB_ilx_mb_zivasiddhAntacandrikA_M00617 scholarly[1650,1650] held-out=1328 (mass 0%)  Śivasiddhāntacandrikā
+   SA_GV06_ilx_ws_samavedarseyadipah scholarly[1300,1399] held-out=-200 (mass 0%)  Sāmavedārṣeyadīpa
+   SA_GV06_ilx_ws_jatamanih   scholarly[1600,1650] held-out=-176 (mass 0%)  Jaṭāmaṇi
+   SA_T17_n958u               scholarly[1980,2000] held-out=661 (mass 0%)  Bauddhatantrakośa I
+   SA_T01_various_108-Buddhist-stotras_Pandey_1994 scholarly[1984,2004] held-out=726 (mass 0%)  Bauddhastotrasaṃgraha
+   SA_GV06_ilx_ws_samasalaksanam scholarly[1460,1464] held-out=-229 (mass 0%)  Samāsalakṣaṇa with comment
+   SA_GV06_keskaupu           scholarly[900,1399] held-out=-305 (mass 0%)  Kauśikapaddhati
+   SA_GV01_rvsb_01u           scholarly[-1500,-1000] held-out=194 (mass 0%)  Ṛgvedasaṃhitā with Sāyaṇab
+   SA_GV01_rvsb_03u           scholarly[-1500,-1000] held-out=159 (mass 0%)  Ṛgvedasaṃhitā with Sāyaṇab
+   SA_GV05_ilx_ws_mahavakyopanisat scholarly[1600,1750] held-out=-46 (mass 0%)  Mahāvākyopaniṣad
+   SA_GS24_paninipu           scholarly[-400,-300] held-out=835 (mass 0%)  Aṣṭādhyāyī
+   SA_GV01_ilx_ws_rgbhasyam_srimadanandatirthaviracitam scholarly[1238,1317] held-out=116 (mass 0%)  Ṛgbhāṣya
+   SA_GS24_pmbhasuu           scholarly[-200,-100] held-out=872 (mass 0%)  Vyākaraṇamahābhāṣya [Mahāb
+   SA_GV05_aitupsbu           scholarly[788,820] held-out=-269 (mass 0%)  Aitareya-Upaniṣad
+   SA_GV01_rvsb_04u           scholarly[-1500,-1000] held-out=-32 (mass 0%)  Ṛgvedasaṃhitā with Sāyaṇab
+
+HELD-OUT in-range by coarse domain:
+   AgamaShaiva      n=  80  in-range=14%  med-edge-err=137y
+   BuddhCanon       n= 248  in-range=43%  med-edge-err=20y
+   BuddhTreatise    n= 464  in-range=31%  med-edge-err=53y
+   Epic             n=  47  in-range=85%  med-edge-err=0y
+   GLOBAL           n=   4  in-range=0%  med-edge-err=32y
+   Kavya            n= 247  in-range=8%  med-edge-err=231y
+   Purana           n=  46  in-range=70%  med-edge-err=0y
+   Shastra          n= 435  in-range=12%  med-edge-err=179y
+   TantricMB        n= 250  in-range=11%  med-edge-err=151y
+   Vedic            n= 121  in-range=49%  med-edge-err=2y
+
+wrote dated_gibbs_full.tsv

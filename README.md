@@ -29,6 +29,15 @@ renderings are also included (`sanskrit_chronology.png`, `sanskrit_chronology_al
    constraints (`manual_constraints.tsv`, `researched_anchors.tsv`, `chronbmm_priors.tsv`,
    `vedic_anchors.tsv`, `dcs_anchors.tsv`). A Gibbs sampler propagates dates over the
    graph subject to these constraints (`date_gibbs*.py`, `date_gibbs_full.py`).
+   **Author floruits** from the Sanskrit prosopography are added as soft anchors
+   (`build_author_anchors.py` → `author_floruit_anchors.tsv`): one per work whose author is
+   a secure attribution with a confident floruit (status OK, confidence ≥ 0.75, ≤ 300 years
+   wide). An e-text is dated as its root work, so root-text authors give the anchor; in a
+   root + commentary e-text a secure commentator only gives a `not_after`; a pure
+   commentary is dated by its commentator. Curated anchors take precedence, and
+   disagreements are listed in `author_floruit_report.tsv`. These anchors are not used to
+   train the stylometric clock: tested on the curated anchors, they did not improve its
+   held-out accuracy and only reshuffled undated works.
 4. **Visualization** — `visualize*.py` render the results to PNG and the interactive HTML.
 
 ## Repository layout
@@ -72,9 +81,13 @@ python extract_edges.py
 python extract_relations.py
 
 # 2. run the dating model
+python build_author_anchors.py <SA_files.json> <sanskrit-prosopography/out/persons_atii_schema.tsv>
 python date_gibbs_full.py        # -> dated_gibbs_full.tsv
 
 # 3. build the visualizations
 python visualize.py              # -> sanskrit_chronology.png
 python visualize_interactive.py  # -> sanskrit_chronology_interactive.html
+
+# 4. write the dates into the DharmaNexus catalog (only changed entries are touched)
+python apply_dates_to_catalog.py dated_gibbs_full.tsv <SA_files.json> changes.tsv
 ```
